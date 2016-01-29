@@ -1,0 +1,312 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.28)  29 JAN 2016 03:29
+entering extended mode
+**cs532A1.tex
+(C:\Users\mkompal\Desktop\a1\cs532A1.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(C:\Users\mkompal\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+\lst@mode=\count88
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count89
+\lst@currlwidth=\dimen105
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen106
+\lst@width=\dimen107
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen108
+
+(C:\Users\mkompal\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box27
+)
+(C:\Users\mkompal\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(C:\Users\mkompal\Desktop\a1\cs532A1.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+(C:\Users\mkompal\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count96
+\scratchdimen=\dimen109
+\scratchbox=\box28
+\nofMPsegments=\count97
+\nofMParguments=\count98
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count99
+\MPscratchDim=\dimen110
+\MPnumerator=\count100
+\makeMPintoPDFobject=\count101
+\everyMPtoPDFconversion=\toks17
+)
+\c@lstlisting=\count102
+ [1
+
+{C:/Users/mkompal/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (7.91602pt too wide) in paragraph at lines 42--42
+[]\OT1/cmtt/m/n/10.95 correctly POST data to a form.  Show that the HTML respon
+se that[] 
+ []
+
+
+Overfull \hbox (7.91602pt too wide) in paragraph at lines 42--42
+[]\OT1/cmtt/m/n/10.95 arguments you POSTed and build a response accordingly.  S
+ave the[] 
+ []
+
+
+Overfull \hbox (7.91602pt too wide) in paragraph at lines 42--42
+[]\OT1/cmtt/m/n/10.95 HTML response to a file and then view that file in a brow
+ser and[] 
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ì in font cmr9!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 51.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 51.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 51.
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ú in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ù in font cmr9!
+<requrl.png, id=7, 499.8675pt x 233.37187pt>
+File: requrl.png Graphic file (type png)
+ <use requrl.png>
+Package pdftex.def Info: requrl.png used on input line 63.
+(pdftex.def)             Requested size: 449.87659pt x 210.03273pt.
+
+Overfull \hbox (89.87659pt too wide) in paragraph at lines 63--64
+[][] 
+ []
+
+[1]
+
+LaTeX Warning: Reference `fig:q1screenie2' on page 2 undefined on input line 75
+.
+
+<response.png, id=16, 356.83313pt x 328.22626pt>
+File: response.png Graphic file (type png)
+ <use response.png>
+Package pdftex.def Info: response.png used on input line 78.
+(pdftex.def)             Requested size: 321.14684pt x 295.4009pt.
+
+<shellresponse.png, id=17, 723.45282pt x 566.115pt>
+File: shellresponse.png Graphic file (type png)
+ <use shellresponse.png>
+Package pdftex.def Info: shellresponse.png used on input line 84.
+(pdftex.def)             Requested size: 434.07504pt x 339.67162pt.
+
+Overfull \hbox (74.07504pt too wide) in paragraph at lines 84--85
+[][] 
+ []
+
+[2 <C:/Users/mkompal/Desktop/a1/requrl.png>] [3 <C:/Users/mkompal/Desktop/a1/re
+sponse.png>] [4 <C:/Users/mkompal/Desktop/a1/shellresponse.png>] [5]
+(C:\Users\mkompal\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(C:\Users\mkompal\Desktop\a1\prog2.py [6])
+<nelsonurl.png, id=38, 960.58875pt x 582.67688pt>
+File: nelsonurl.png Graphic file (type png)
+ <use nelsonurl.png>
+Package pdftex.def Info: nelsonurl.png used on input line 128.
+(pdftex.def)             Requested size: 672.40753pt x 407.87103pt.
+
+Overfull \hbox (312.40753pt too wide) in paragraph at lines 128--129
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]\OT1/cmr/m/n/10.95 Figure 4: Fig-ure show-ing the re-sponse for
+ []
+
+<adaurl.png, id=39, 948.54375pt x 572.1375pt>
+File: adaurl.png Graphic file (type png)
+ <use adaurl.png>
+Package pdftex.def Info: adaurl.png used on input line 137.
+(pdftex.def)             Requested size: 663.97609pt x 400.49352pt.
+
+Overfull \hbox (303.97609pt too wide) in paragraph at lines 137--138
+[][] 
+ []
+
+<novel.png, id=40, 539.76656pt x 348.55219pt>
+File: novel.png Graphic file (type png)
+ <use novel.png>
+Package pdftex.def Info: novel.png used on input line 143.
+(pdftex.def)             Requested size: 377.83401pt x 243.98485pt.
+
+Overfull \hbox (17.83401pt too wide) in paragraph at lines 143--144
+[][] 
+ []
+
+[7] [8 <C:/Users/mkompal/Desktop/a1/nelsonurl.png>] [9 <C:/Users/mkompal/Deskto
+p/a1/adaurl.png>]
+Overfull \hbox (30.91077pt too wide) in paragraph at lines 194--194
+[]\OT1/cmtt/m/n/10.95 3.  Consider the "bow-tie" graph in the Broder et al. pap
+er (fig 9):[] 
+ []
+
+[10 <C:/Users/mkompal/Desktop/a1/novel.png>] [11]
+
+LaTeX Warning: Reference `fig:q3graph' on page 12 undefined on input line 198.
+
+<graph.png, id=56, 860.46469pt x 381.67593pt>
+File: graph.png Graphic file (type png)
+ <use graph.png>
+Package pdftex.def Info: graph.png used on input line 201.
+(pdftex.def)             Requested size: 430.2313pt x 190.8375pt.
+
+Overfull \hbox (70.2313pt too wide) in paragraph at lines 201--202
+[][] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 208.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 208.
+[12 <C:/Users/mkompal/Desktop/a1/graph.png>] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 239--241
+[]\OT1/cmr/m/n/10.95 Personal pro-gram-ming blog on python by He-manth ,
+ []
+
+
+Overfull \hbox (142.9648pt too wide) in paragraph at lines 239--241
+\OT1/cmtt/m/n/10.95 http://h3manth.com/content/methods-submit-form-post-using-c
+url-perl-python-ruby-lynx\OT1/cmr/m/n/10.95 . 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--244
+[]\OT1/cmr/m/n/10.95 Python ad-ven-tures word-press blog ,
+ []
+
+
+Overfull \hbox (142.9648pt too wide) in paragraph at lines 242--244
+\OT1/cmtt/m/n/10.95 https://pythonadventures.wordpress.com/2011/03/10/extract-a
+ll-links-from-a-web-page/\OT1/cmr/m/n/10.95 . 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--253
+[]\OT1/cmr/m/n/10.95 Dia tool for draw-ing charts.Installer , http://dia-
+ []
+
+[14] (C:\Users\mkompal\Desktop\a1\cs532A1.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2605 strings out of 493921
+ 35975 string characters out of 3144870
+ 188599 words of memory out of 3000000
+ 5906 multiletter control sequences out of 15000+200000
+ 10443 words of font info for 37 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 27i,6n,43p,721b,1660s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on cs532A1.pdf (15 pages, 448292 bytes).
+PDF statistics:
+ 112 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
