@@ -1,0 +1,2 @@
+d = read.table('memcount.json',col.name=c("mementos"))
+hist(d$mementos,xlim=c(0,7000),ylim=c(0,10),breaks=500,col=5,main="URIs vs Mementos",ylab="No. of URI's",xlab="Mementos")

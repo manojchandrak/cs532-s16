@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{a6}
+Carbon date service.
+\newblock
+  http://ws-dl.blogspot.com/2014/11/2014-11-14-carbon-dating-web-version-20.html.
+
+\bibitem{a2}
+Date time function in python.
+\newblock https://docs.python.org/2/library/datetime.htmll.
+
+\bibitem{a4}
+R histogram.
+\newblock
+  http://www.r-tutor.com/elementary-statistics/quantitative-data/histograml.
+
+\bibitem{a5}
+R scatterplot.
+\newblock http://www.harding.edu/fmccown/r/.
+
+\bibitem{a1}
+Tweepy library documentation.
+\newblock http://docs.tweepy.org/en/latest/api.html/.
+
+\bibitem{a3}
+Writing json data to file:.
+\newblock
+  http://stackoverflow.com/questions/899103/writing-a-list-to-a-file-with-python.
+
+\end{thebibliography}
