@@ -1,0 +1,957 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+
+    <title>5 changes for Anaheim now that district elections are coming | 89.3 KPCC</title>
+
+    <!-- Meta tags which are the same across all pages -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"3a7254ec4f","applicationID":"446356","transactionName":"JV4MRkQMDVRTRUlWUhFCTUFCDBNB","queueTime":0,"applicationTime":28,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcDWFBADAcGV1RU"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function s(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);return i}function c(t,e){d[t]=f(t).concat(e)}function f(t){return d[t]||[]}function u(){return r(s)}var d={};return{on:c,emit:s,create:u,listeners:f,context:e,_events:d}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:21,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),a.xhrWrappable&&t(2),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:22,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").create(),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:23,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:23,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:23,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,l,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-",o)}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:23,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=this.lastSize||n(t);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t){var e=t.responseType,n="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return r(n)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=0,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:12,4:8,5:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:21,2:22,handle:"D5DuLP"}],12:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var h=0},{1:21,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],21:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],22:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],23:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:22,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+    <meta property="fb:app_id" content="129848480405753" />
+    <link rel="publisher" href="https://plus.google.com/108872361044769229886/" />
+
+    <meta property="og:site_name" content="Southern California Public Radio" />
+    <meta name="keywords" content="KPCC, California, Southern California, Los Angeles, Pasadena, SCPR, Southern California Public Radio" />
+    <meta name="author" content="Southern California Public Radio" />
+
+    
+
+  <meta property="og:description" content="It&#39;s been a long road but Anaheim has settled on a new six-district voting map that will be used in November. Here are some simple but immediate things that&#39;ll change between now and November. ">
+  <meta property="og:title" content="5 changes for Anaheim now that district elections are coming">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="http://www.scpr.org/news/2016/02/10/57366/five-changes-for-anaheim-now-that-district-electio/"/>
+  <meta name="twitter:card" value="summary_large_image">
+  <meta name="twitter:site" value="@kpcc">
+  <meta name="twitter:url" value="http://www.scpr.org/news/2016/02/10/57366/five-changes-for-anaheim-now-that-district-electio/">
+  <meta name="twitter:title" value="5 changes for Anaheim now that district elections are coming">
+  <meta name="twitter:description" value="It&#39;s been a long road but Anaheim has settled on a new six-district voting map that will be used in November. Here are some simple but immediate things that&#39;ll change between now and November. ">
+
+  <meta property="article:published_time" content="2016-02-10 16:07:32 -0800" />
+  <meta property="article:modified_time" content="2016-02-10 16:12:17 -0800" />
+
+  <meta property="article:section" content="Politics" />
+
+
+        <meta property="og:image" content="http://a.scpr.org/i/aceaff4c619ba37e5b5dd8a5a8d15563/115465-full.jpg" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:width" content="1024" />
+        <meta property="og:image:height" content="341" />
+       
+
+    <link rel="image_src" href="http://a.scpr.org/i/aceaff4c619ba37e5b5dd8a5a8d15563/115465-full.jpg" />
+    <meta name="twitter:image" content="http://a.scpr.org/i/aceaff4c619ba37e5b5dd8a5a8d15563/115465-full.jpg">
+
+
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Cw1j1khttMXcPaWySyVmoEvopImQEKz3BciCniW47TH7EgljeCl4Qqz3stkVl12tT1iaVdcKgjK3iPPwQXROig==" />
+
+
+    <meta name="twitter:site" content="@kpcc"/>
+    <meta name="twitter:card" content="summary"/>
+
+    <meta name="twitter:url" content="http://scpr.org" />
+    <meta name="twitter:domain" content="http://scpr.org" />
+    <meta name="twitter:title" content="5 changes for Anaheim now that district elections are coming | 89.3 KPCC" />
+    <meta name="twitter:description" content="Member-supported public radio for Southern California. Award-winning local news and cultural programming alongside the best of NPR." />
+
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://scpr.org/feeds/all_news" />
+
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+
+    <!-- Start Visual Website Optimizer Asynchronous Code -->
+    <script type='text/javascript'>
+    var _vwo_code=(function(){
+    var account_id=195536,
+    settings_tolerance=2000,
+    library_tolerance=2500,
+    use_existing_jquery=false,
+    // DO NOT EDIT BELOW THIS LINE
+    f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+    </script>
+    <!-- End Visual Website Optimizer Asynchronous Code -->
+
+    <link rel="stylesheet" media="screen" href="/assets/new/application-722a3b39d09b09930c57271c4b3146e3.css" />
+    <script src="/assets/shared-06fce7549013fdae7636019b3ca67e2f.js"></script>
+<script src="/assets/application-a60445b512e3f0d2601441d91e95a4d9.js"></script>
+    <script type="text/javascript" src="http://a.scpr.org/assets/client.js?bust=20130523"></script>
+    <script src="/assets/new/application-a0fe9bdfcbad8d66889eaad850709e69.js"></script>
+
+    <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <link rel="stylesheet" media="screen" href="/assets/new/ie-lt9-08b011fa65f26c36254e57f16635822a.css" />
+        <script src="/assets/new/ie-lt9-4364c84212a9aae256c232c8ee4d87f8.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript" src="//use.typekit.net/vtu6xsq.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+    <script>
+      // Function for lazy loading slideshow images
+      function imgLoaded(img){
+        var $img = $(img);
+
+        $img.addClass('loaded');
+      };
+      // User agent detection to dynamically display the appropriate Apple App Banners to iPads and iPhones
+      if (navigator.userAgent.match(/iPad/i)) {
+        $('head').append('<meta name="apple-itunes-app" content="app-id=744160424"/>');
+      }
+      else if (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPod/i)) {
+        $('head').append('<meta name="apple-itunes-app" content="app-id=293825085"/>');
+      }
+    </script>
+    <script type="text/javascript" src="//nexus.ensighten.com/mogointeractive/1078/Bootstrap.js"></script>
+    <!-- Start: GPT Async -->
+<script type='text/javascript'>
+  var gptadslots=[];
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function(){ var gads = document.createElement('script');
+    gads.async = true; gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+    <script>
+      DFP_CATEGORY = "politics";
+
+    </script>
+
+
+<script type="text/javascript">
+  googletag.cmd.push(function() {
+
+    var keySuffix, key;
+
+    if (typeof DFP_KEY_SUFFIX_OVERRIDE !== "undefined") {
+      keySuffix = DFP_KEY_SUFFIX_OVERRIDE
+    } else {
+      keySuffix = "/" + window.location.pathname.split("/").filter(function(v){return v!==''}).splice(0, 2).join("/")
+    }
+
+    key = '/3468/ibs.scpr.scpr' + keySuffix;
+
+
+    // Only print the Ad Slots we need for the given page,
+    // or else the empty ad requests will count against us in DFP
+
+      // Position A
+      gptadslots[3]= googletag.defineSlot(key, [[300,50]],'dfp-slot_a').setTargeting('pos',['banner-top']).addService(googletag.pubads());
+
+      // Position B
+      gptadslots[1]= googletag.defineSlot(key, [[300,250]],'dfp-slot_b').setTargeting('pos',['mr-top']).addService(googletag.pubads());
+
+      // Position C
+      gptadslots[2]= googletag.defineSlot(key, [[300,250]],'dfp-slot_c').setTargeting('pos',['mr-bottom']).addService(googletag.pubads());
+
+
+    googletag.pubads().enableSingleRequest();
+
+    // If this page is an article and has a category, add in the targeting tag
+    if (typeof DFP_CATEGORY !== "undefined") {
+      googletag.pubads().setTargeting('category',[DFP_CATEGORY]);
+    }
+
+
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script>
+<!-- End: GPT -->
+
+<!-- chartbeat timing for load start -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+    
+</head>
+
+
+<body class="interior single">
+
+    <div id="global-pushdown"></div>
+
+    <header class="masthead ">
+    <div class="inner bound">
+
+                <section class="titling">
+        <div class="brand clearfix">
+            <h1><a href="/politics">Politics</a></h1>
+            <h2></h2>
+        </div>
+
+        
+    </section><!--/ .titling -->
+
+
+
+        <section class="station clearfix">
+    <h4><a href="/" rel="author" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="Home">89.3 KPCC</a></h4>
+    <nav class="kpcc-links">
+        <ul>
+            <li><a href="javascript:void(0)" onclick="open_popup('/listen_live/');" id="listen-live" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="Listen Live">Listen Live</a></li>
+            <li><a href="/news/" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="News">News</a></li>
+            <li><a href="/programs/" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="Programs">Programs</a></li>
+            <li><a href="/events/" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="Events">Events</a></li>
+            <li><a href="/support/" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="Support Us">Support Us</a></li>
+            <li><a href="/about/" class="track-event" data-ga-category="Menu" data-ga-action="Clickthrough" data-ga-label="About Us">About Us</a></li>
+        </ul>
+    </nav>
+    <ul class="follow-us clearfix">
+        <li><a href="http://twitter.com/kpcc" title="Follow KPCC on Twitter" class="tw">KPCC on Twitter</a></li>
+        <li><a href="http://facebook.com/kpcc" title="Like KPCC on Facebook" class="fb">KPCC on Facebook</a></li>
+        <li><a href="https://plus.google.com/108872361044769229886/" title="Join with KPCC on Google Plus" class="gp">KPCC on Google+</a></li>
+    </ul>
+    <button class="search-trigger" value="Activate search tool">Search KPCC</button>
+    <h5 class="donate track-event" data-ga-category="Menu" data-ga-action="Donate" data-ga-label="Donate"><a href="https://scprcontribute.publicradio.org/contribute.php">Donate Now</a></h5>
+    <button class="shownav" aria-hidden="true">Show Nav</button>
+</section><!--/ .station -->
+
+<nav class="kpcc-ledge pane" aria-hidden="true">
+    <h1><a href="http://kpcc.org" rel="author">89.3 KPCC</a></h1>
+    <button class="close" value="close">Close</button>
+    <ul class="links">
+        <li><a href="javascript:void(0)" onclick="open_popup('/listen_live/');" id="listen-live">Listen Live</a></li>
+        <li><a href="/news/">News</a></li>
+        <li><a href="/programs/">Programs</a></li>
+        <li><a href="/events/">Events</a></li>
+        <li><a href="/support/">Support Us</a></li>
+        <li><a href="/about/">About Us</a></li>
+    </ul>
+    <h2>Follow KPCC</h2>
+    <ul class="follow-us clearfix">
+        <li><a href="http://twitter.com/kpcc" title="Follow KPCC on Twitter" class="tw">KPCC on Twitter</a></li>
+        <li><a href="http://facebook.com/kpcc" title="Like KPCC on Facebook" class="fb">KPCC on Facebook</a></li>
+        <li><a href="https://plus.google.com/108872361044769229886/" title="Join with KPCC on Google Plus" class="gp">KPCC on Google+</a></li>
+    </ul>
+</nav><!--/ .kpcc-ledge -->
+
+<aside class="kpcc-search pane">
+    <h1><a href="http://kpcc.org" rel="author">89.3 KPCC</a></h1>
+    <button class="close" value="close">Close</button>
+    <form method="get" action="/search/">
+        <label for="q">Search:</label>
+        <div class="search-wrap"><input class="search" id="q" type="text" placeholder="Search" name="q" /></div>
+        <input id="submit" class="submit" type="submit" value="">
+        <input class="toggle-search" type="button">
+    </form>
+</aside>
+
+
+    </div>
+</header><!--/ .masthead -->
+
+
+    <script src="//cdn.optimizely.com/js/1611751335.js"></script>
+
+
+
+
+  
+    <section class="prologue">
+        <div class="grating">
+            <div class="inner bound clearfix">
+                <div class="prose">
+                    <h1 class="title"><span>5 changes for Anaheim now that district elections are coming</span></h1>
+                    <aside class="byline">
+                        <h2 class="author"><a href="/about/people/staff/erika-aguilar">Erika Aguilar</a></h2>
+                        <time class=" smart smarttime" data-unixtime="1455149252"></time>
+                    </aside>
+                    <aside class="caption">
+                        <button>Show caption</button>
+                        <p>&quot;The People’s Map&quot; divides the city of Anaheim into six districts — one with is a Latino majority district and two others where Latinos make up nearly half of the district. <mark class="credit">City of Anaheim</mark></p>
+                    </aside>
+                </div><!--/ .prose -->
+                <div class="asset">
+                    <div class="ratio">
+                        <div class="fill"></div>
+                        <b class="img-contain">
+                            <img width="1024" height="341" class="loaded " src="http://a.scpr.org/i/aceaff4c619ba37e5b5dd8a5a8d15563/115465-full.jpg" alt="115465 full" />
+                        </b>
+                    </div><!--/ .ratio -->
+                </div><!--/ .asset -->
+            </div>
+        </div>
+        <div class="ephemera"><img src="http://a.scpr.org/i/aceaff4c619ba37e5b5dd8a5a8d15563/115465-full.jpg" alt="115465 full" /></div>
+    </section><!--/ .prologue -->
+
+
+
+
+<div class="report">
+    <div class="inner bound clearfix">
+        <article class="prose">
+            <div class="marginal-tools clearfix">
+
+                
+<aside class="buddy disseminate share clearfix" aria-hidden="true">
+    <h1>Share</h1>
+    <ul class="clearfix">
+        <li class="email">
+            <a href="#" class="social_email track-event email" data-ga-category="Article" data-ga-action="Share" data-ga-label="Email" data-key="news_story-57366"><span>Share via Email</span><mark>email</mark></a>
+        </li>
+        <li class="twitter" data-url="http://www.scpr.org/news/2016/02/10/57366/five-changes-for-anaheim-now-that-district-electio/">
+            <a href="#" class="social_twit track-event twitter" data-ga-category="Article" data-ga-action="Share" data-ga-label="Twitter" data-url="http://www.scpr.org/news/2016/02/10/57366/five-changes-for-anaheim-now-that-district-electio/" data-text="5+changes+for+Anaheim+now+that+district+elections+are+coming"><span>Share on Twitter</span></a>
+        </li>
+        <li class="facebook" data-url="http://www.scpr.org/news/2016/02/10/57366/five-changes-for-anaheim-now-that-district-electio/">
+            <a href="#" class="social_fb track-event facebook" data-ga-category="Article" data-ga-action="Share" data-ga-label="Facebook" data-url="http://www.scpr.org/news/2016/02/10/57366/five-changes-for-anaheim-now-that-district-electio/"><span>Share on Facebook</span></a>
+        </li>
+    </ul>
+</aside>
+
+
+            </div><!--/ .marginal-tools -->
+
+            <div class="prose-body">
+
+
+                <p>After a tough legal battle, followed by political stalemate, Anaheim finalized its new voting districts for city council members Tuesday night and will start using them in November.</p>
+
+<p>For the first time, Anaheim residents will elect city council members by districts instead of at-large or citywide. And the new council will be a larger one, consisting of six members instead of four. ​</p>
+
+<p>The move comes after years of complaints about unequal representation of Latinos and other minority ethnic groups in local politics. </p>
+
+<p>“We’re changing the way we elect the people,” said Mayor Tom Tait on Tuesday. “We’re changing the way we are to be governed. This brings government much closer to the people and City Hall much more accountable to the people.”</p>
+
+<p>District elections have been a long time coming for Anaheim. The fight started in 2012 when <a href="https://www.aclusocal.org/anaheim-residents-call-for-change-through-redistricting/">a group of Latino voters sued the city </a>claiming the at-large voting system was unfair to minority residents and prevented them from having equal representation on city council.</p>
+
+<p>Through a settlement agreement, the city asked voters to weigh in. Anaheim residents passed the district elections measure in 2014 with 68 percent of the vote.</p>
+
+<p>A committee of retired judges held a series of public meetings last year to come up with a voting map. <a href="http://www.scpr.org/news/2016/01/12/56792/anaheim-restarts-the-process-of-revamping-election/">After more meetings and some drama</a>, the city council settled on the committee recommended map dubbed by the community as “The People’s Map.”</p>
+
+<p>The map outlines the six new districts--four of which will go up for election in November. The mayor will continue to be elected at-large.</p>
+
+<p>“Anaheim is ready to move on and I’m sure you are, too,” South Anaheim resident and union organizer Martin Lopez told the council on Tuesday.</p>
+
+<p>With that in mind, here are some immediate changes you can expect now that Anaheim has a new districts voting map in place:</p>
+
+<p><strong>1.</strong><strong> The county’s registrar will update his voter rolls. </strong></p>
+
+<p>Anaheim voters used to cast ballots for every council seat that was up for election no matter where in the city you lived. Now, with district elections, only residents that live in those districts up for election can cast ballots for their candidates of choice. (Reminder: the mayor will still be elected at-large.)</p>
+
+<p>In November, districts 1, 3, 4, and 5 will be up for election.</p>
+
+<p>Orange County Registrar of Voters Neal Kelley said his office would be obtaining data from the city of Anaheim to integrate into its precinct system to determine which voters are in which districts and who will need a ballot.</p>
+
+<p>“It’s pretty seamless,” he said.</p>
+
+<p><strong>2. Expect a voter education blitz.</strong></p>
+
+<p>If you haven’t already determined what district you live in, <a href="http://anaheim.net/DocumentCenter/View/9186">check out the map</a> and soon enough the voter registration rolls will be updated. But spokesperson for the City of Anaheim Mike Lyster said the City Clerk's office will soon launch a public awareness campaign.</p>
+
+<p>He said residents will see the new voting map at public libraries and community centers indicating which district you're currently in. Look for write-ups in the city's <a href="http://www.anaheimconventioncenter.com/213/Anaheim-Magazine">Anaheim Magazine</a>, which has a Spanish edition. </p>
+
+<p>"The City Clerk’s office also will be on hand at community events with our Anaheim Votes pop-up display with information about districts and the election," Lyster said.</p>
+
+<p><strong>3. Expect voter registration events.</strong></p>
+
+<p>It’s simple: electing a candidate of choice requires voting. And to vote, you must be registered.</p>
+
+<p><a href="http://www.scpr.org/news/2015/10/06/54842/anaheim-could-get-3-predominantly-latino-city-coun/">Districts 3, 4 and 5 in Anaheim are heavy Latino districts</a> but only District 3 is a considered to be a Latino voter majority district. District 4 and 5 are pluralities so it'll take a full force of showing at the polls plus some collaboration with other community groups for Latinos, as a group, to elect candidates of their choice.</p>
+
+<p>You can expect community groups, Orange County political parties and candidates to hold voter registration events to sign up Anaheim residents eligible to cast ballots.</p>
+
+<p><strong>4. More candidates, more campaign signs.</strong></p>
+
+<p>Not only will you have two additional council seats up for elections than in the past, but also district elections, in theory, attract more would-be candidates from the voting population.</p>
+
+<p>Note: July 6 is the deadline for candidates to register with the Orange County Registrar of Voters.</p>
+
+<p>Expect more campaign signs in yards and taped to fences this summer – that’s if candidates and campaign committees have the money to spend on marketing.</p>
+
+<p>But again, in theory, district elections are supposed to do a better job than at-large elections of keeping big money out of campaigns simply based on the idea those residents, businesses and stakeholders that live in a particular district will care about their candidates and not others running in other districts … in theory.</p>
+
+<p><strong>5. Maybe a new map in the Anaheim City Hall lobby</strong></p>
+
+<p>If you’ve ever been to Anaheim City Hall, you’ve seen that big map of the city hanging above the information desk near the entrance. No guarantees or confirmation but maybe the city will swap it out for the new district voting map that shows the six districts and their boundaries.</p>
+
+<p>And with that in mind, Anaheim council members can expect less elbowroom on the dais – quite literally. Although there are already two empty chairs on each end of the council chambers, elected officials will have to get used to seeing two more bodies sitting in those chairs.</p>
+
+                
+            </div><!--/ .prose-body -->
+
+            <div class="appeal-newsletter short-list ancillary" id="appeal-newsletter">
+    <div class="appeal-background">
+        <div class="appeal-content">
+            <h3 class="bound appeal-heading">The best SoCal news in your inbox, daily.</h3>
+            <p class="bound">Catch up each morning with KPCC's Short List newsletter.</p>
+            <form class="bound" method="post" name="copyOfSCPR20130130BreakingNewsSignUp-1431032392145" action="https://s1715082578.t.eloqua.com/e/f2" id="form725" >
+                <input value="copyOfSCPR20130130BreakingNewsSignUp-1431032392145" type="hidden" name="elqFormName"  />
+                <input value="1715082578" type="hidden" name="elqSiteId"  />
+                <input name="elqCampaignId" type="hidden"  />
+
+                <input class="newsletter-email" id="field0" name="emailAddress" type="email" placeholder="email@somedomain.com"value="" />
+                <input class="newsletter-hidden-input" name="SCPRShortList" type="checkbox" value="on"  />
+                <button type="submit" class="appeal-submit track-event" data-ga-category="Article" data-ga-action="Subscribe" data-ga-label="Short List Newsletter">Sign Up</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+              <aside class="ancillary related">
+    <header><h1>Related Links</h1></header>
+    <nav>
+      <ul>
+          <li class="track-event">
+            <a href="/news/2015/08/26/54010/latino-activists-ponder-how-to-maximize-anaheim-s/">
+              <mark>Latino activists ponder how to maximize Anaheim&#39;s new electoral map</mark>
+              <span>Article</span>
+            </a>
+          </li>
+
+          <li class="track-event">
+            <a href="/news/2015/04/09/50920/anaheim-voters-to-decide-whether-to-make-it-harder/">
+              <mark>Anaheim voters to decide whether to make it harder to raise taxes </mark>
+              <span>Article</span>
+            </a>
+          </li>
+
+
+      </ul>
+    </nav>
+  </aside>
+
+
+            <div class="article-conclusion-sharing">
+              
+<aside class="buddy disseminate share clearfix" aria-hidden="true">
+    <h1>Share</h1>
+    <ul class="clearfix">
+        <li class="email">
+            <a href="#" class="social_email track-event email" data-ga-category="Article" data-ga-action="Share" data-ga-label="Email" data-key="news_story-57366"><span>Share via Email</span><mark>email</mark></a>
+        </li>
+        <li class="twitter" data-url="http://www.scpr.org/news/2016/02/10/57366/five-changes-for-anaheim-now-that-district-electio/">
+            <a href="#" class="social_twit track-event twitter" data-ga-category="Article" data-ga-action="Share" data-ga-label="Twitter" data-url="http://www.scpr.org/news/2016/02/10/57366/five-changes-for-anaheim-now-that-district-electio/" data-text="5+changes+for+Anaheim+now+that+district+elections+are+coming"><span>Share on Twitter</span></a>
+        </li>
+        <li class="facebook" data-url="http://www.scpr.org/news/2016/02/10/57366/five-changes-for-anaheim-now-that-district-electio/">
+            <a href="#" class="social_fb track-event facebook" data-ga-category="Article" data-ga-action="Share" data-ga-label="Facebook" data-url="http://www.scpr.org/news/2016/02/10/57366/five-changes-for-anaheim-now-that-district-electio/"><span>Share on Facebook</span></a>
+        </li>
+    </ul>
+</aside>
+
+
+            </div>
+
+            <footer class="comments-jump">
+                <a href="#comments">
+                    <mark>Join the discussion.</mark>
+                    <span>Tap here to jump to this article's comments.</span>
+                </a>
+            </footer>
+
+            <!--
+            <footer class="comments-trigger">
+                <a href="#">This article currently has no comments. Click here to start the discussion.</a>
+            </footer>
+            -->
+
+        </article>
+
+
+    <section class="supportive">
+        <aside class="placard">
+            <div class="ad widget">
+                <!-- slot_a -->
+<div class="dfp" id='dfp-slot_a'>
+  <script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('dfp-slot_a'); });
+  </script>
+</div>
+
+            </div>
+        </aside>
+
+        <aside class="placard">
+            <div class="ad widget">
+                <!-- slot_b -->
+<div class="dfp" id='dfp-slot_b'>
+  <script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('dfp-slot_b'); });
+  </script>
+</div>
+
+                <p class="appeal"><a href="/support/underwriting/">Become a KPCC Sponsor</a></p>
+            </div>
+        </aside>
+
+
+            <aside class="see-more topic">
+                <header>
+                    <h1>More from this Category</h1>
+                    <h2 class="clearfix">
+                        <span><a href="/politics">Politics</a></span>
+                        <mark><a href="/politics">See All</a></mark>
+                    </h2>
+                </header>
+                <ul class="previews">
+                        <li>
+                        <a class="track-event" data-ga-category="Article" data-ga-action="Clickthrough" data-ga-label="More Sidebar Category" href="/news/2016/02/10/57369/bye-carly-former-california-tech-exec-fiorina-ends/">
+                            <figure class="ratio-pairing clearfix">
+                                <div class="ratio">
+                                    <div class="fill"></div>
+                                    <b class="img-contain"><img src="http://a.scpr.org/i/cec33c873737b668dfaaaec364fb0afe/118364-lsquare.jpg" alt="118364 lsquare" /></b>
+                                </div><!--/ .ratio -->
+                                <figcaption>
+                                    <time class=" smart smarttime" data-unixtime="1455148620"></time>
+                                    <mark>California&#39;s Carly Fiorina, Jersey&#39;s Chris Christie end presidential runs</mark>
+                                </figcaption>
+                            </figure><!--/ .ratio-pairing -->
+</a>                        </li>
+                        <li>
+                        <a class="track-event" data-ga-category="Article" data-ga-action="Clickthrough" data-ga-label="More Sidebar Category" href="/news/2016/02/10/57359/powerful-california-coastal-commission-weighs-lead/">
+                            <figure class="ratio-pairing clearfix">
+                                <div class="ratio">
+                                    <div class="fill"></div>
+                                    <b class="img-contain"><img src="http://a.scpr.org/i/9db6778e5213adce93647de7c030ebce/87048-lsquare.jpg" alt="87048 lsquare" /></b>
+                                </div><!--/ .ratio -->
+                                <figcaption>
+                                    <time class=" smart smarttime" data-unixtime="1455120202"></time>
+                                    <mark>Live video: Coastal Commission considers a shakeup</mark>
+                                </figcaption>
+                            </figure><!--/ .ratio-pairing -->
+</a>                        </li>
+                        <li>
+                        <a class="track-event" data-ga-category="Article" data-ga-action="Clickthrough" data-ga-label="More Sidebar Category" href="/programs/airtalk/2016/02/10/46272/airtalk-live-in-claremont-student-democrats-republ/">
+                            <figure class="ratio-pairing clearfix">
+                                <div class="ratio">
+                                    <div class="fill"></div>
+                                    <b class="img-contain"><img src="http://a.scpr.org/i/dc58c6d9b9b643754d8e17aa56e40e79/104576-lsquare.jpg" alt="104576 lsquare" /></b>
+                                </div><!--/ .ratio -->
+                                <figcaption>
+                                    <time class=" smart smarttime" data-unixtime="1455111016"></time>
+                                    <mark>AirTalk Live: Student Democrats, Republicans debate election 2016</mark>
+                                </figcaption>
+                            </figure><!--/ .ratio-pairing -->
+</a>                        </li>
+                </ul>
+            </aside>
+            <aside class="see-more">
+                <header>
+                    <h1>Popular now on KPCC</h1>
+                </header>
+                <ul class="previews">
+                      <li>
+                        <a class="track-event" data-ga-category="Article" data-ga-action="Clickthrough" data-ga-label="Popular Now Sidebar" href="/news/2016/02/10/57363/former-la-sheriff-lee-baca-to-plead-guilty-to-fede/">
+                              <figure class="ratio-pairing clearfix">
+                                  <div class="ratio">
+                                      <div class="fill"></div>
+                                      <b class="img-contain"><img src="http://a.scpr.org/i/cbae53bf1677d6d30558d2a2d9b22443/75489-lsquare.jpg" alt="75489 lsquare" /></b>
+                                  </div><!--/ .ratio -->
+                                  <figcaption>
+                                      <time class=" smart smarttime" data-unixtime="1455147120"></time>
+                                      <mark>Former LA Sheriff Lee Baca pleads guilty to federal charges</mark>
+                                  </figcaption>
+                              </figure><!--/ .ratio-pairing -->
+</a>                      </li>
+                      <li>
+                        <a class="track-event" data-ga-category="Article" data-ga-action="Clickthrough" data-ga-label="Popular Now Sidebar" href="/news/2016/02/10/57348/sorting-out-porter-ranch-facts-vs-rumors/">
+                              <figure class="ratio-pairing clearfix">
+                                  <div class="ratio">
+                                      <div class="fill"></div>
+                                      <b class="img-contain"><img src="http://a.scpr.org/i/dbb3ee619349983316374232389f9c19/118272-lsquare.jpg" alt="118272 lsquare" /></b>
+                                  </div><!--/ .ratio -->
+                                  <figcaption>
+                                      <time class=" smart smarttime" data-unixtime="1455111016"></time>
+                                      <mark>Porter Ranch facts vs. rumors</mark>
+                                  </figcaption>
+                              </figure><!--/ .ratio-pairing -->
+</a>                      </li>
+                      <li>
+                        <a class="track-event" data-ga-category="Article" data-ga-action="Clickthrough" data-ga-label="Popular Now Sidebar" href="/news/2016/02/10/57353/after-decades-without-a-movie-theater-compton-coul/">
+                              <figure class="ratio-pairing clearfix">
+                                  <div class="ratio">
+                                      <div class="fill"></div>
+                                      <b class="img-contain"><img src="http://a.scpr.org/i/e9ae5b076b63f10213d736c073a97290/118352-lsquare.jpg" alt="118352 lsquare" /></b>
+                                  </div><!--/ .ratio -->
+                                  <figcaption>
+                                      <time class=" smart smarttime" data-unixtime="1455109212"></time>
+                                      <mark>Compton might finally get a movie theater</mark>
+                                  </figcaption>
+                              </figure><!--/ .ratio-pairing -->
+</a>                      </li>
+                </ul>
+            </aside>
+        </section>
+    </div>
+</div><!--/ .report -->
+
+<!-- AdHost Slot: Membership Appeals -->
+<div id="article-membership-appeal"></div>
+
+  <div id="comments" name="comments" class="comments">
+    <div class="inner bound clearfix">
+        <section class="discussion">
+            <!-- disqus comments -->
+            <div id="disqus_thread" class=""></div>
+            <script type="text/javascript">
+                /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                var disqus_shortname = 'kpcc'; // required: replace example with your forum shortname
+                // The following are highly recommended additional parameters. Remove the slashes in front to use.
+                var disqus_identifier = 'news/story:57366';
+                var disqus_url = 'http://www.scpr.org/news/2016/02/10/57366/five-changes-for-anaheim-now-that-district-electio/';
+              var disqus_title = '5 changes for Anaheim now that district elections are coming';
+
+                /* * * DON'T EDIT BELOW THIS LINE * * */
+                (function() {
+                    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                    dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                })();
+            </script>
+            <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+            <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+            <!-- end disqus comments -->
+        </section>
+            <div class="secondary">
+                <aside class="placard">
+                    <div class="ad widget">
+                        <!-- slot_c -->
+<div class="dfp" id='dfp-slot_c'>
+  <script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('dfp-slot_c'); });
+  </script>
+</div>
+
+                        <p class="appeal"><a href="/support/underwriting/">Become a KPCC Sponsor</a></p>
+                    </div>
+                </aside>
+            </div><!--/ .secondary -->
+    </div>
+  </div>
+
+
+<div class="placard-waystation"></div>
+
+
+    <aside id="audio-bar" class="audio-player">
+    <div id="jquery_jplayer_1" class="jp-jplayer"></div>
+    <div id="jp_container_1" class="jp-audio">
+        <div class="jp-type-single">
+            <div class="inner bound">
+                <div class="controls">
+                    <div class="jp-gui jp-interface">
+                        <ul class="jp-controls">
+                            <button value="play" class="jp-play track-event" data-ga-category="Article" data-ga-action="Play" data-ga-label="Player">Play</button>
+                            <button value="pause" class="jp-pause track-event" data-ga-category="Article" data-ga-action="Pause" data-ga-label="Player">Pause</button>
+                        </ul>
+                    </div>
+                </div><!--/ .controls -->
+                <div class="vitals">
+                    <header id="jplayer1_title"></header>
+                    <div class="timeline">
+                        <mark class="ticker jp-current-time"></mark>
+                        <div class="meter">
+                            <div class="jp-play-bar" style="width: 16.38%;">&nbsp;</div>
+                            <div class="jp-seek-bar">&nbsp;</div>
+                        </div>
+                        <span class="ticker jp-duration"></span>
+                    </div>
+                </div><!--/ .vitals -->
+                <div class="incidentals">
+                    <a href="#" download class="download">Download audio file</a>
+                    <button value="mute" class="jp-mute aural">Mute</button>
+                    <button value="unmute" class="jp-unmute aural">Unmute</button>
+                    <button value="close" class="jp-stop collapse">Stop and Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</aside><!--/ .audio-player -->
+
+
+    <aside class="membership">
+    <div class="inner bound">
+        <h1><a href="https://scprcontribute.publicradio.org/contribute.php">KPCC's Politics coverage is a Southern California resource provided by member-supported public radio. We can't do it without you.</a></h1>
+        <h2><span>Your contributions power KPCC.</span> <a href="https://scprcontribute.publicradio.org/contribute.php">Give today.</a></h2>
+        <h3 class="brand"><a href="http://kpcc.org" title="Southern California Public Radio">89.3 KPCC</a></h3>
+    </div>
+</aside><!--/ .membership -->
+
+<footer class="epilogue">
+    <header>
+        <div class="inner bound">
+            <h1><a href="http://scpr.org" title="Southern California Public Radio">89.3 KPCC</a></h1>
+            <h2>
+                <span>89.1 KUOR</span>
+                <span>90.3 KVLA</span>
+            </h2>
+            <aside class="pledge">
+                <p><span>Support the voices you trust!</span> <a href="https://scprcontribute.publicradio.org/contribute.php">Pledge Now</a></p>
+            </aside>
+        </div>
+    </header>
+    <div class="cols">
+        <div class="inner bound clearfix">
+            <div class="cols-pair primary clearfix">
+                <nav class="sections">
+                    <h1>Sections</h1>
+                    <ul>
+                        <li><a href="/local">Local</a></li>
+                        <li><a href="/world">US &amp; World</a></li>
+                        <li><a href="/politics">Politics</a></li>
+                        <li><a href="/environment">Science</a></li>
+                        <li><a href="/arts">Arts &amp; Entertainment</a></li>
+                        <li><a href="/business">Business</a></li>
+                        <li><a href="/crime">Crime &amp; Justice</a></li>
+                        <li><a href="/education">Education</a></li>
+                        <li><a href="/health">Health</a></li>
+                        <li><a href="/archive/2016/02/16/?section=news">Archive</a></li>
+                    </ul>
+                </nav>
+                <nav class="productions">
+                    <h1>Programs</h1>
+                    <ul>
+                        <li><a href="/programs/take-two/">Take Two</a></li>
+                        <li><a href="/programs/airtalk/">AirTalk</a></li>
+                        <li><a href="/programs/offramp/">Off-Ramp</a></li>
+                        <li><a href="/programs/the-frame/">The Frame</a></li>
+                        <li><a href="/programs/">Programs A&ndash;Z</a></li>
+                        <li><a href="/schedule/">Program Schedule</a></li>
+                        <li><a href="/archive/2016/02/16/?section=programs">Program Archive</a></li>
+                    </ul>
+                    <h1>Events</h1>
+                    <ul>
+                        <li><a href="/events/kpcc-in-person">KPCC In Person</a></li>
+                        <li><a href="/events/sponsored">Sponsored Events</a></li>
+                    </ul>
+                </nav>
+            </div><!--/ .primary -->
+            <div class="cols-pair secondary clearfix">
+                <nav class="outreach">
+                    <h1>Stay Connected</h1>
+                    <ul class="social">
+                        <li><a href="http://facebook.com/kpcc">Facebook</a></li>
+                        <li><a href="http://twitter.com/kpcc">Twitter</a></li>
+                        <li><a href="https://plus.google.com/108872361044769229886/">Google Plus</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="/newsletters/">Newsletters</a></li>
+                        <li><a href="/rss/">RSS</a></li>
+                        <li><a href="/podcasts/">Podcasts</a></li>
+                    </ul>
+                    <aside class="mobile">
+                      <a href="/ipad"><span>Get our new</span> <span><b>KPCC for iPad</b> app.</span></a>
+                    </aside>
+                </nav>
+                <nav class="about">
+                    <h1>About</h1>
+                    <ul>
+                        <li><a href="/about/">About KPCC</a></li>
+                        <li><a href="/about/people/">Staff</a></li>
+                        <li><a href="/contact/">Contact Us</a></li>
+                        <li><a href="/about/faq/">Help / FAQ</a></li>
+                        <li><a href="/web_site_feedback/">Feedback</a></li>
+                        <li><a href="/about/jobs/">Careers &#64; KPCC</a></li>
+                    </ul>
+                    <div class="vcard location">
+                        <h2 class="org"><b>89.3 KPCC</b> <span>Southern California Public Radio</span><h2>
+                        <div class="adr">
+                            <span class="street-address">474 S. Raymond Ave.</span><br />
+                            <span class="locality">Pasadena</span>,
+                            <span class="region">CA</span>
+                            <span class="postal-code">91105</span>
+                        </div>
+                    </div>
+                    <aside class="call">
+                        <p>Call in: 866-893-5722</p>
+                    </aside>
+                </nav>
+            </div><!--/ .secondary -->
+        </div><!--/ .inner -->
+    </div><!--/ .cols -->
+
+    
+
+    <div class="lastwords bound">
+        <aside class="partners">
+            <h1>Our Partners</h1>
+            <ul class="clearfix">
+                <li class="apm"><a href="http://publicradio.org">American Public Media</a></li>
+                <li class="npr"><a href="http://npr.org">National Public Radio</a></li>
+                <li class="bbc"><a href="http://bbc.co.uk">BBC</a></li>
+                <li class="pri"><a href="http://pri.org">Public Radio International</a></li>
+                <li class="nbc"><a href="http://nbclosangeles.com">NBC 4</a></li>
+                <li class="pcc"><a href="http://pasadena.edu">Pasadena City College</a></li>
+            </ul>
+        </aside>
+        <nav class="fineprint">
+            <ul>
+                <li><a href="/terms/">Terms &amp; Conditions</a></li>
+                <li><a href="/privacy/">Privacy</a></li>
+                <li><a href="/web_site_feedback/">Feedback</a></li>
+                <li>&copy; 2016 <a href="http://scpr.org">Southern California Public Radio</a></li>
+            </ul>
+        </nav>
+    </div>
+</footer><!--/ .epilogue -->
+
+        <script>
+        scpr.Behaviors.loadBehaviors(['Layout', 'Single']);
+
+        // Load In-Article Membership Appeal from AdHost
+        scpr.VisualCampaign.enqueue('article-appeal', $('#article-membership-appeal'));
+
+        // Load Embeditor
+        embeditor = new Embeditor.Base({
+          Embedly: {
+            query: { key : '0cb3651dde4740db8fcb147850c6b555' }
+          }
+        })
+
+        embeditor.swap()
+    </script>
+
+
+<script type="text/javascript">
+  var smartTime;
+
+  $(function() {
+    smartTime     =       new scpr.SmartTime();
+    social        =       new scpr.SocialTools();
+    adSizer       =       new scpr.adSizer();
+    audio         =       new scpr.Audio({widgetClass: '.story-audio', audioBar: '#audio-bar'});
+    eventTracking =       new scpr.EventTracking();
+  });
+</script>
+
+
+
+<script>
+// Make sure this is last! A visual campaign
+// can be queued from anywhere.
+$(function() {
+  // Handle any queued visual campaigns.
+ scpr.VisualCampaign.enqueue('pushdown-global', $('#global-pushdown'));
+ scpr.VisualCampaign.fetchQueue();
+});
+</script>
+
+<!-- BEGIN Comscore -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6035974", c3: "", c4: "" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035974&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" />
+</noscript>
+<!-- /Comscore -->
+
+<!-- ChartBeat -->
+<script type="text/javascript">
+    var _sf_async_config = { uid: 33583, domain: 'scpr.org', useCanonical:true };
+    (function() {
+        function loadChartbeat() {
+            window._sf_endpt = (new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        };
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+<!-- /ChartBeat -->
+
+<!-- Google Analytics -->
+<script>
+
+  // Set the pageType to push to GA
+  var _gaq_pageType = _.find(scpr.GA_PAGE_MAPPING, function(v, k) {
+      return window.location.pathname.match(new RegExp(k)) !== null;
+  });
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  // Tracker for SCPR GA Account
+  ga('create', 'UA-624724-1', 'auto', {'allowLinker': true});
+  // Tracker for NPR Digital Services Station Analytics
+  ga('create', 'UA-18188937-11', 'auto', {'name': 'nprDsTracker'}, {'allowLinker': true});
+
+  ga('require', 'linker'); // require plugin for cross-domain tracking
+  ga('require', 'displayfeatures'); // require plugin for Doubleclick Display Ad features
+  ga('linker:autoLink', ['scprcontribute.publicradio.org']); //set linked domain
+  ga('set', 'dimension6', 'Southern California Public Radio');
+  ga('set', 'dimension7', _gaq_pageType);
+  ga('send', 'pageview');
+  ga('nprDsTracker.send', 'pageview');
+
+</script>
+<!-- /Google Analytics -->
+
+<!-- GA tag for Media Impact Project: REMOVE WHEN PROJECT CONCLUDES -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','mipData','GTM-MNSD7D');</script>
+<!-- /GA Tag for Media Impact Project -->
+
+<!-- Eloqua Website Tracking -->
+<script type="text/javascript">
+    var _elqQ = _elqQ || [];
+    _elqQ.push(['elqSetSiteId', '1715082578']);
+    _elqQ.push(['elqTrackPageView']);
+    
+    (function () {
+        function async_load() {
+            var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+            s.src = '//img.en25.com/i/elqCfg.min.js';
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
+        else if (window.attachEvent) window.attachEvent('onload', async_load); 
+    })();
+</script>
+<!-- /Eloqua Website Tracking -->
+
+<!--  Quantcast Tag -->
+<script>
+  qcdata = {} || qcdata;
+       (function(){
+       var elem = document.createElement('script');
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-_ZNT1e57PQPC3";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem,scpt);
+     }());
+
+
+   var qcdata = {qacct: 'p-_ZNT1e57PQPC3',
+                        orderid: '',
+                        revenue: ''
+                        };
+</script>
+  <noscript>
+    <img src="//pixel.quantserve.com/pixel/p-_ZNT1e57PQPC3.gif?labels=_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+  </noscript>
+<!-- End Quantcast Tag -->
+
+
+
+
+</body>
+</html>

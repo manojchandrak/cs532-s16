@@ -1,0 +1,271 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="https://www.w3.org/1999/xhtml" lang="en-US"
+xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="https://gmpg.org/xfn/11"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><title>Qld stewards continue whip crackdown</title><meta http-equiv="content-type" content="text/html; charset=UTF-8"/><meta name="viewport" content="width=device-width, user-scalable=yes"><link href='//fonts.googleapis.com/css?family=Oswald:700,400,300' rel='stylesheet' type='text/css'><link href='//fonts.googleapis.com/css?family=Open+Sans:800' rel='stylesheet' type='text/css'><link href='//fonts.googleapis.com/css?family=Roboto:900,400,700,500' rel='stylesheet' type='text/css'><link href='//fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'><link rel="shortcut icon" href='//www.justhorseracing.com.au/images/favicon.ico'/><link rel="stylesheet" type="text/css" href="https://www.justhorseracing.com.au/wp-content/themes/sportpress/style.css" media="screen"/><link rel="stylesheet" href="https://www.justhorseracing.com.au/wp-content/themes/sportpress/css/dropdown.css" type="text/css" media="screen"/> <!--[if IE 7 ]><link rel="stylesheet" type="text/css" href="https://www.justhorseracing.com.au/wp-content/themes/sportpress/css/ie7.css"/><![endif]--><link rel="alternate" type="application/rss+xml" title="Just Horse Racing RSS Feed" href="https://www.justhorseracing.com.au/feed"/><link rel="alternate" type="application/atom+xml" title="Just Horse Racing Atom Feed" href="https://www.justhorseracing.com.au/feed/atom"/> <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> <script type="text/javascript">/*<![CDATA[*/var switched = false;
+  var updateTables = function() {
+    if (($(window).width() < 767) && !switched ){
+      switched = true;
+      $("table.responsive").each(function(i, element) {
+        splitTable($(element));
+      });
+      return true;
+    }
+    else if (switched && ($(window).width() > 767)) {
+      switched = false;
+      $("table.responsive").each(function(i, element) {
+        unsplitTable($(element));
+      });
+    }
+  };
+  $(window).load(updateTables);
+  $(window).bind("resize", updateTables);
+    function splitTable(original)
+    {
+        original.wrap("<div class='table-wrapper' />");
+        var copy = original.clone();
+        copy.find("td:not(:first-child), th:not(:first-child)").css("display", "none");
+        copy.removeClass("responsive");
+        original.closest(".table-wrapper").append(copy);
+        copy.wrap("<div class='pinned' />");
+        original.wrap("<div class='scrollable' />");
+    }
+    function unsplitTable(original) {
+    original.closest(".table-wrapper").find(".pinned").remove();
+    original.unwrap();
+    original.unwrap();
+    }
+});/*]]>*/</script> <script type='text/javascript'>$(document).ready(function(){
+    $(".entry p a").attr('target','_blank');
+});</script> <script type='text/javascript'>/*<![CDATA[*///Timer for Ad
+var count=30;
+var counter=setInterval(timer, 1000); //1000 will  run it every 1 second
+function timer()
+{
+  count=count-1;
+  if (count <= 0)
+  {
+     clearInterval(counter);
+    $("#bestbet").fadeIn(2500);
+	$("#showbest").hide();
+	$("#hidebest").hide();
+     return;
+  }
+ document.getElementById("timer").innerHTML=count;
+}
+$(document).ready(function() {
+	$("#bestbet").hide();
+	var links = new Array();
+	links[0] = "https://www.justhorseracing.com.au/go/ladbrokes-bonus-bet/";
+	links[1] = "https://www.justhorseracing.com.au/go/williamhillregister/";
+	links[2] = "https://www.justhorseracing.com.au/go/sportsbet5/";
+	links[3] = "https://www.justhorseracing.com.au/go/crownbet-bonus-bet/";
+	var images = new Array();
+	images[0] = "https://www.justhorseracing.com.au/images/bestbets/ladbrokes.png";
+	images[1] = "https://www.justhorseracing.com.au/images/bestbets/williamhill.png";
+	images[2] = "https://www.justhorseracing.com.au/images/bestbets/sportsbet.png";
+	images[3] = "https://www.justhorseracing.com.au/images/bestbets/crownbet.png";
+	//var randed = Math.floor(Math.random());
+	var i = Math.floor(Math.random() * links.length);
+	//var x = randed * images.length;
+	var url = links[i];
+	var image = images[i];
+	document.getElementById('image-div').src = image;
+//	alert(url);
+//	alert(image);
+	$( "#showbest" ).click(function(e) {
+	e.preventDefault();
+	window.open(url);
+		$.ajax
+	    ({
+	        url: 'https://www.justhorseracing.com.au/store-ip.php',
+	        data: {"ID": '123'},
+	        type: 'post',
+	        success: function(result)
+	        {
+			    $("#bestbet").show();
+			    $("#showbest").hide();
+			    $("#hidebest").hide();
+	        }
+	    });
+	});
+});/*]]>*/</script> <style>#hidebest {
+	    text-align: center;
+		font-size: 14pt;
+		font-weight: 700;
+    }
+    #url-link {
+	    display: none;
+    }
+    @media (max-width: 991px) {
+    .mobile-only {
+        width:280px !important;
+    }
+    }</style><meta name="description" itemprop="description" content="Queensland stewards have continued their crackdown on breaches of the new whip rule by suspending repeat offender Beau Appo for seven days.The rule means" /><link rel="canonical" href="https://www.justhorseracing.com.au/news/australian-racing/qld-stewards-continue-whip-crackdown/314128" /><link rel="alternate" type="application/rss+xml" title="Just Horse Racing &raquo; Qld stewards continue whip crackdown Comments Feed" href="https://www.justhorseracing.com.au/news/australian-racing/qld-stewards-continue-whip-crackdown/314128/feed" /><meta property="fb:admins" content="EjvVbF7Zezb"/><meta property="og:title" content="Qld stewards continue whip crackdown"/><meta property="og:type" content="article"/><meta property="og:url" content="https://www.justhorseracing.com.au/news/australian-racing/qld-stewards-continue-whip-crackdown/314128"/><meta property="og:site_name" content="Just Horse Racing"/><meta property="og:image" content="https://www.justhorseracing.com.au/images/fbimg.gif"/> <script type="text/javascript">/*<![CDATA[*/window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.justhorseracing.com.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.7"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);/*]]>*/</script> <style type="text/css">img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}</style><link rel='stylesheet' id='bugmebar-css'  href='https://www.justhorseracing.com.au/wp-content/plugins/codecanyon-5299073-bugmebar-a-simple-little-notification-plugin/bugme.css?ver=1.0.4' type='text/css' media='all' /><link rel='stylesheet' id='contact-form-7-css'  href='https://www.justhorseracing.com.au/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3.1' type='text/css' media='all' /><link rel='stylesheet' id='wp-pagenavi-css'  href='https://www.justhorseracing.com.au/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' /> <script type='text/javascript' src='https://www.justhorseracing.com.au/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script> <script type='text/javascript' src='https://www.justhorseracing.com.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script> <script type='text/javascript' src='https://platform.twitter.com/widgets.js?ver=1.1'></script> <script type='text/javascript' src='https://www.justhorseracing.com.au/wp-content/plugins/codecanyon-5299073-bugmebar-a-simple-little-notification-plugin/jquery.bugme.min.js?ver=1.0.4'></script> <script type='text/javascript' src='https://www.justhorseracing.com.au/wp-content/plugins/codecanyon-5299073-bugmebar-a-simple-little-notification-plugin/jquery.cookie.min.js?ver=1.0.4'></script> <script type='text/javascript' src='https://www.justhorseracing.com.au/wp-content/plugins/responsive-scrolling-tables/js/responsivescrollingtables.js?ver=4.2.7'></script> <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.justhorseracing.com.au/xmlrpc.php?rsd" /><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.justhorseracing.com.au/wp-includes/wlwmanifest.xml" /><link rel='prev' title='Signoff tests confirm banned drug' href='https://www.justhorseracing.com.au/news/australian-racing/signoff-tests-confirm-banned-drug/314126' /><link rel='next' title='Sky Racing to open up second channel' href='https://www.justhorseracing.com.au/news/australian-racing/sky-racing-to-open-up-second-channel/314129' /><meta name="generator" content="WordPress 4.2.7" /><link rel='shortlink' href='https://www.justhorseracing.com.au/?p=314128' /><meta name="framework" content="Alkivia Framework 0.8" /><style>/* BugMeBar Colour options */
+.bugme {
+	background: #8291ce;
+	color: #ffffff;
+	font-size: 16px;
+}
+.bugme-close {
+	right: 20px;
+}
+.bugme-close.bugme-close-left {
+	right: auto;
+	left: 0;
+}
+.bugme a {
+	color: #ffffff;
+}
+.bugme a:hover {
+	color: #ffffff;
+}
+.bugme a.bugme-close {
+	color: #fff;
+}
+.bugme a.bugme-close:hover {
+	color: #fff;
+}
+	@-webkit-keyframes colour {
+		0% { background-color: #8291ce; }
+		15% { background-color: #2ecc71; }
+		28% { background-color: #1abc9c; }
+		41% { background-color: #9b59b6; }
+		53% { background-color: #e74c3c; }
+		65% { background-color: #f39c12; }
+		78% { background-color: #e67e22; }
+		90% { background-color: #2ecc71; }
+		100% { background-color: #8291ce; }
+	}
+	@-moz-keyframes colour {
+		0% { background-color: #8291ce; }
+		15% { background-color: #2ecc71; }
+		28% { background-color: #1abc9c; }
+		41% { background-color: #9b59b6; }
+		53% { background-color: #e74c3c; }
+		65% { background-color: #f39c12; }
+		78% { background-color: #e67e22; }
+		90% { background-color: #2ecc71; }
+		100% { background-color: #8291ce; }
+	}
+	@-ms-keyframes colour {
+		0% { background-color: #8291ce; }
+		15% { background-color: #2ecc71; }
+		28% { background-color: #1abc9c; }
+		41% { background-color: #9b59b6; }
+		53% { background-color: #e74c3c; }
+		65% { background-color: #f39c12; }
+		78% { background-color: #e67e22; }
+		90% { background-color: #2ecc71; }
+		100% { background-color: #8291ce; }
+	}
+	@-o-keyframes colour {
+		0% { background-color: #8291ce; }
+		15% { background-color: #2ecc71; }
+		28% { background-color: #1abc9c; }
+		41% { background-color: #9b59b6; }
+		53% { background-color: #e74c3c; }
+		65% { background-color: #f39c12; }
+		78% { background-color: #e67e22; }
+		90% { background-color: #2ecc71; }
+		100% { background-color: #8291ce; }
+	}
+	@keyframes colour {
+		0% { background-color: #8291ce; }
+		15% { background-color: #2ecc71; }
+		28% { background-color: #1abc9c; }
+		41% { background-color: #9b59b6; }
+		53% { background-color: #e74c3c; }
+		65% { background-color: #f39c12; }
+		78% { background-color: #e67e22; }
+		90% { background-color: #2ecc71; }
+		100% { background-color: #8291ce; }
+	}</style><meta property="fb:app_id" content="222369291195054"/><script type="text/javascript">/*<![CDATA[*/document.write('<style type="text/css">.tabber{display:none;}</style>');/*]]>*/</script><meta name="google-site-verification" content="UKDW_LcSM3_qEx2se7Z_S8_C6gNFv0ul3-gXBRbUdQs" /></head><body><div id="fb-root"></div> <script>/*<![CDATA[*/(function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=115887798489355";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));/*]]>*/</script> <script>/*<![CDATA[*/$(document).ready(function () {
+        $('#pull-menu-down').click(function () {
+            $('#topnav ul').slideToggle();
+        });
+        var window_width = $(window).width();
+        if (window_width < 979) {
+            if ($('#nav_mobile>ul>li>a').next('ul').length > 0) {
+                $('#nav_mobile>ul>li>ul').prev('a').append('<span class="downarrowclass" style="border:0;"></span>');
+            }
+            $('#nav_mobile ul.sub-menu').parent().addClass('parent');
+            $('#nav_mobile>ul>li.parent>a').click(function (e) {
+                e.preventDefault();
+                if ($(this).next('ul').length > 0) {
+                    var element_class = $(this).parent().attr('class');
+                    element_class = element_class.replace('current-menu-item page_item page-item-2 current_page_item ', '');
+                    var link = $(this).attr('href');
+                    var name = $(this).text();
+                    var current_element = '<li class="' + element_class + '">' + '<a href="' + link + '">' + name + '</a>' + '</li>';
+                    if ($(this).next().find('a').eq(0).text() != name) {
+                        $(this).next().prepend(current_element);
+                    }
+                    $(this).next().slideToggle();
+                }
+            });
+        }
+    });/*]]>*/</script> <div id="container"><div id="responsive_header"><div class="wrapper"><div class="only_mobile"><div class="mobileads"><div class="mobclose">X</div> <a href="https://www.justhorseracing.com.au/go/ladbrokes-bonus-bet/" target="_blank" rel="nofollow"><img src="//www.justhorseracing.com.au/ads/mobile/ladbrokes.gif" alt="crownbet" /></a></div></div><div class="cleaner">&nbsp;</div></div></div><div class="only_desktop"><div id="topnavigation"><div class="wrapper"><div id="topnav" class="dropdown"> <a id="pull-menu-down">Menu</a><ul id="menu-header-menu" class="mainmenu"><li id="menu-item-170187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170187"><a href="https://www.justhorseracing.com.au/melbourne-cup/">Melbourne Cup</a></li><li id="menu-item-171221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171221"><a href="https://www.justhorseracing.com.au/cox-plate/">Cox Plate</a></li><li id="menu-item-210084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-210084"><a href="https://www.justhorseracing.com.au/caulfield-cup/">Caulfield Cup</a></li><li id="menu-item-302437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-302437"><a href="https://www.justhorseracing.com.au/golden-slipper/">Golden Slipper</a></li><li id="menu-item-314594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-314594"><a href="https://www.justhorseracing.com.au/blue-diamond-stakes">Blue Diamond Stakes</a></li><li id="menu-item-171918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171918"><a href="https://www.justhorseracing.com.au/free-bets/">Bonus Bets</a></li></ul></div></div><div id="search_form"><form method="get" id="searchform" action="https://www.justhorseracing.com.au/"><fieldset> <input type="text" onblur="if (this.value == '') {this.value = 'Search';}" onfocus="if (this.value == 'Search') {this.value = '';}" value="Search" name="s" id="s" /> <input type="submit" id="searchsubmit" value="Search" /></fieldset></form></div><div class="topnav_icons"> <a href="//www.twitter.com/justhorseracing" target="_blank" rel="nofollow" class="external"><img src="https://www.justhorseracing.com.au/wp-content/themes/sportpress/images/twitter.png" alt="Twitter" border="0"/></a> <a href="//www.facebook.com/justhorseracingcomau" rel="nofollow" target="_blank" class="external"><img src="https://www.justhorseracing.com.au/wp-content/themes/sportpress/images/facebook.png" alt="Facebook" border="0"/></a></div><div class="cleaner">&nbsp;</div></div></div><div id="header"><div class="wrapper"><div id="logo"><a href="https://www.justhorseracing.com.au"> <img src="https://www.justhorseracing.com.au/wp-content/themes/sportpress/images/logo.png" alt="Just Horse Racing" /></a></div><div style="float:right;margin-right:40px;"><div class="only_desktop"> <a href="https://www.justhorseracing.com.au/go/sportsbet3/" target="_blank" rel="nofollow"><img src="//www.justhorseracing.com.au/ads/header/summercarnival.gif"></a></div></div><div class="cleaner">&nbsp;</div></div></div><div id="navigation"><div class="wrapper"><div id="nav" class="dropdown"><ul id="menu-main-navigation" class="mainmenu"><li id="menu-item-132656" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-132656"><a href="https://www.justhorseracing.com.au/">Home</a></li><li id="menu-item-132686" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-132686"><a href="https://www.justhorseracing.com.au/category/news/australian-racing">Horse Racing News</a></li><li id="menu-item-138657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138657"><a href="https://www.justhorseracing.com.au/category/tips">Horse Racing Tips</a></li><li id="menu-item-258496" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-258496"><a href="https://www.justhorseracing.com.au/category/general-news/betting">Betting</a></li><li id="menu-item-132663" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-132663"><a href="https://www.justhorseracing.com.au/category/fields-results">Fields &#038; Results</a><ul class="sub-menu"><li id="menu-item-132664" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132664"><a href="https://www.justhorseracing.com.au/category/fields-results/race-fields">Latest Horse Racing Fields</a></li><li id="menu-item-132665" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132665"><a href="https://www.justhorseracing.com.au/category/fields-results/race-fields/nominations-race-fields-fields-results">Latest Horse Racing Nominations</a></li><li id="menu-item-132666" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132666"><a href="https://www.justhorseracing.com.au/category/fields-results/results">Latest Horse Racing Results</a></li></ul></li><li id="menu-item-132685" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-132685"><a href="https://www.justhorseracing.com.au/category/news">More News</a><ul class="sub-menu"><li id="menu-item-132693" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132693"><a href="https://www.justhorseracing.com.au/category/news/international-racing">Horse Racing News from Around The World</a></li><li id="menu-item-132688" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132688"><a href="https://www.justhorseracing.com.au/category/general-news/snippets">Breaking News</a></li><li id="menu-item-132692" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132692"><a href="https://www.justhorseracing.com.au/category/general-news/breeding">Racing Horse &#038; Breeding News</a></li><li id="menu-item-132694" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132694"><a href="https://www.justhorseracing.com.au/category/general-news/racing-industry">Horse Race Industry News</a></li><li id="menu-item-132690" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132690"><a href="https://www.justhorseracing.com.au/category/general-news/snippets/facts">Horse Racing Fun Facts &#038; History</a></li><li id="menu-item-132689" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132689"><a href="https://www.justhorseracing.com.au/category/general-news/snippets/dates">Upcoming Horse Race Dates</a></li><li id="menu-item-132695" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132695"><a href="https://www.justhorseracing.com.au/category/general-news/trials">Horse Race Trials</a></li><li id="menu-item-132691" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132691"><a href="https://www.justhorseracing.com.au/category/general-news/snippets/media-releases">Media &#038; News Releases</a></li></ul></li><li id="menu-item-293744" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-293744"><a href="https://www.justhorseracing.com.au/offers">Bookie Offers</a><ul class="sub-menu"><li id="menu-item-293743" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-has-children menu-item-293743"><a href="https://www.justhorseracing.com.au/reviews/sportsbet">Sportsbet</a><ul class="sub-menu"><li id="menu-item-293998" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293998"><a href="https://www.justhorseracing.com.au/reviews/sportsbet">Sportsbet Review</a></li><li id="menu-item-293741" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293741"><a href="https://www.justhorseracing.com.au/reviews/sportsbet-app">Sportsbet App</a></li><li id="menu-item-293740" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293740"><a href="https://www.justhorseracing.com.au/reviews/sportsbet-mobile">Sportsbet Mobile Site</a></li></ul></li><li id="menu-item-293742" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-has-children menu-item-293742"><a href="https://www.justhorseracing.com.au/reviews/crownbet">Crownbet</a><ul class="sub-menu"><li id="menu-item-293995" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293995"><a href="https://www.justhorseracing.com.au/reviews/crownbet">Crownbet Review</a></li><li id="menu-item-293886" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293886"><a href="https://www.justhorseracing.com.au/reviews/crownbet-app">Crownbet App</a></li><li id="menu-item-293887" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293887"><a href="https://www.justhorseracing.com.au/reviews/crownbet-mobile">Crownbet Mobile Site</a></li></ul></li><li id="menu-item-293888" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-has-children menu-item-293888"><a href="https://www.justhorseracing.com.au/reviews/ladbrokes">Ladbrokes</a><ul class="sub-menu"><li id="menu-item-294007" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-294007"><a href="https://www.justhorseracing.com.au/reviews/ladbrokes">Ladbrokes Review</a></li><li id="menu-item-293889" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293889"><a href="https://www.justhorseracing.com.au/reviews/ladbrokes-app">Ladbrokes App</a></li><li id="menu-item-293890" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293890"><a href="https://www.justhorseracing.com.au/reviews/ladbrokes-mobile">Ladbrokes Mobile Site</a></li></ul></li><li id="menu-item-293900" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-has-children menu-item-293900"><a href="https://www.justhorseracing.com.au/reviews/williamhill">William Hill</a><ul class="sub-menu"><li id="menu-item-294001" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-294001"><a href="https://www.justhorseracing.com.au/reviews/williamhill">William Hill Review</a></li><li id="menu-item-293901" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293901"><a href="https://www.justhorseracing.com.au/reviews/williamhill-app">William Hill App</a></li><li id="menu-item-293902" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293902"><a href="https://www.justhorseracing.com.au/reviews/williamhill-mobile">William Hill Mobile Site</a></li></ul></li><li id="menu-item-293891" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-has-children menu-item-293891"><a href="https://www.justhorseracing.com.au/reviews/luxbet">Luxbet</a><ul class="sub-menu"><li id="menu-item-294008" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-294008"><a href="https://www.justhorseracing.com.au/reviews/luxbet">Luxbet Review</a></li><li id="menu-item-293892" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293892"><a href="https://www.justhorseracing.com.au/reviews/luxbet-app">Luxbet App</a></li><li id="menu-item-293893" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293893"><a href="https://www.justhorseracing.com.au/reviews/luxbet-mobile">Luxbet Mobile Site</a></li></ul></li><li id="menu-item-293883" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-has-children menu-item-293883"><a href="https://www.justhorseracing.com.au/reviews/centrebet">Centrebet</a><ul class="sub-menu"><li id="menu-item-293994" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293994"><a href="https://www.justhorseracing.com.au/reviews/centrebet">Centrebet Review</a></li><li id="menu-item-293884" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293884"><a href="https://www.justhorseracing.com.au/reviews/centrebet-app">Centrebet App</a></li><li id="menu-item-293885" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293885"><a href="https://www.justhorseracing.com.au/reviews/centrebet-mobile">Centrebet Mobile site</a></li></ul></li><li id="menu-item-293880" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-has-children menu-item-293880"><a href="https://www.justhorseracing.com.au/reviews/bookmaker">Bookmaker</a><ul class="sub-menu"><li id="menu-item-293993" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293993"><a href="https://www.justhorseracing.com.au/reviews/bookmaker">Bookmaker Review</a></li><li id="menu-item-293881" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293881"><a href="https://www.justhorseracing.com.au/reviews/bookmaker-app">Bookmaker App</a></li><li id="menu-item-293882" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293882"><a href="https://www.justhorseracing.com.au/reviews/bookmaker-mobile">Bookmaker Mobile Site</a></li></ul></li><li id="menu-item-293897" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-has-children menu-item-293897"><a href="https://www.justhorseracing.com.au/reviews/unibet">Unibet</a><ul class="sub-menu"><li id="menu-item-294000" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-294000"><a href="https://www.justhorseracing.com.au/reviews/unibet">Unibet Review</a></li><li id="menu-item-293898" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293898"><a href="https://www.justhorseracing.com.au/reviews/unibet-app">Unibet App</a></li><li id="menu-item-293899" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293899"><a href="https://www.justhorseracing.com.au/reviews/unibet-mobile">Unibet Mobile Site</a></li></ul></li><li id="menu-item-293877" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-has-children menu-item-293877"><a href="https://www.justhorseracing.com.au/reviews/betstar">Betstar</a><ul class="sub-menu"><li id="menu-item-293992" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293992"><a href="https://www.justhorseracing.com.au/reviews/betstar">Betstar Review</a></li><li id="menu-item-293878" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293878"><a href="https://www.justhorseracing.com.au/reviews/betstar-app">Betstar App</a></li><li id="menu-item-293879" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293879"><a href="https://www.justhorseracing.com.au/reviews/betstar-mobile">Betstar Mobile Site</a></li></ul></li><li id="menu-item-293874" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-has-children menu-item-293874"><a href="https://www.justhorseracing.com.au/reviews/bet365">Bet365</a><ul class="sub-menu"><li id="menu-item-293990" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293990"><a href="https://www.justhorseracing.com.au/reviews/bet365">Bet365 Review</a></li><li id="menu-item-293875" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293875"><a href="https://www.justhorseracing.com.au/reviews/bet365-app">Bet365 App</a></li><li id="menu-item-293876" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-293876"><a href="https://www.justhorseracing.com.au/reviews/bet365-mobile">Bet365 Mobile Site</a></li></ul></li><li id="menu-item-297436" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-has-children menu-item-297436"><a href="https://www.justhorseracing.com.au/reviews/palmerbet">Palmerbet</a><ul class="sub-menu"><li id="menu-item-297437" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-297437"><a href="https://www.justhorseracing.com.au/reviews/palmerbet">Palmerbet Review</a></li><li id="menu-item-297435" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-297435"><a href="https://www.justhorseracing.com.au/reviews/palmerbet-app">Palmerbet App</a></li><li id="menu-item-297434" class="menu-item menu-item-type-post_type menu-item-object-reviews menu-item-297434"><a href="https://www.justhorseracing.com.au/reviews/palmerbet-mobile">Palmerbet Mobile Site</a></li></ul></li></ul></li></ul></div><div id="nav_mobile"><link rel="stylesheet" href="https://www.justhorseracing.com.au/wp-content/themes/sportpress/responsive-nav.css"> <script src="https://www.justhorseracing.com.au/wp-content/themes/sportpress/js/responsive-nav.js"></script> <script src="https://www.justhorseracing.com.au/wp-content/themes/sportpress/js/fastclick.js"></script> <script src="https://www.justhorseracing.com.au/wp-content/themes/sportpress/js/scroll.js"></script> <script src="https://www.justhorseracing.com.au/wp-content/themes/sportpress/js/fixed-responsive-nav.js"></script> <div style="margin-top:55px;"></div><div class="mobnav"> <img src="https://www.justhorseracing.com.au/wp-content/themes/sportpress/images/moblogo.png" alt="Just Horse Racing" onclick="window.location = 'https://www.justhorseracing.com.au';"/><div class="freebetl" onclick="window.location = 'https://www.justhorseracing.com.au/free-bets';"/>FREE BETS</div> <nav class="nav-collapse"><ul id="menu-mobile-menu" class="mainmenu"><li id="menu-item-245635" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-245635"><a href="https://www.justhorseracing.com.au/category/tips">Horse Racing Tips</a></li><li id="menu-item-267544" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-267544"><a href="https://www.justhorseracing.com.au/category/news/australian-racing">Horse Racing News</a></li><li id="menu-item-267543" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-267543"><a href="https://www.justhorseracing.com.au/category/general-news/betting">Horse Racing Betting</a></li><li id="menu-item-283968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-283968"><a href="https://www.justhorseracing.com.au/free-bets/">Mobile FREE BETS</a></li><li id="menu-item-294189" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-294189"><a href="https://www.justhorseracing.com.au/reviews">Best Bookies</a></li><li id="menu-item-284998" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-284998"><a href="https://www.justhorseracing.com.au/best-bet">Best Bet Of The Day</a></li></ul> </nav></div> <script>var nav = responsiveNav(".nav-collapse");</script> </div><div class="cleaner">&nbsp;</div></div></div>  <script type="text/javascript">var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-28161099-1']);
+        _gaq.push(['_trackPageview']);
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();</script> <script type="text/javascript" >jQuery(document).ready(function(){
+   jQuery('.mobclose').click(function(){
+  setCookie('mobclose','true',1);
+  jQuery('.mobileads').fadeOut();
+   });
+ });
+ function setCookie(cname, cvalue, exdays) {
+  var d = new Date();
+  d.setTime(d.getTime() + (exdays*24*60*60*1000));
+  var expires = "expires="+d.toUTCString();
+  document.cookie = cname + "=" + cvalue + "; " + expires + "; path=/";
+ }</script> <div id="frame"><div id="layout"><div class="wrapper" id="wrapperMain"><div class="only_desktop"><div style="height:150px;margin-bottom:5px;"><div class="adrowarea"><div class="adgroup"><div class="adcol adspan_1_of_3"><div class="adbmareasb" onclick="Javascript:window.open('https://www.justhorseracing.com.au/go/sportsbetpromo/')"><div class="adbmlogo"><div class="adbmthelogo"><img src="http://www.justhorseracing.com.au/splash/sportsbetlogo.gif"/></div><div class="adfreebet">Summer Carnival Bonus!</div></div><div class="adlists"><ul><li>Get your first bet matched with a bonus bet up to $501!</li></ul></div><div class="adclaimbut"><div class="adbuttontxt">Sign up here to claim your $501* Bonus</div></div></div></div></div><div class="adgroup"><div class="adcol adspan_2_of_3"><div class="adbmareabe" onclick="Javascript:window.open('https://www.justhorseracing.com.au/go/crownbetregister2/')"><div class="adbmlogo"><div class="adcbmthelogo"><img src="http://www.justhorseracing.com.au/splash/crownbet.png"/></div></div><div class="adsmlists"><ul><li>Sign up and deposit $400, start betting with $1000!</li></ul></div><div class="adsmclaimbut"><div class="adbuttontxt">$600 bonus bet*</div></div></div></div><div class="adcol adspan_3_of_3"><div class="adbmarealb" onclick="Javascript:window.open('https://www.justhorseracing.com.au/go/ladbrokes-bonus-bet/')"><div class="adbmlogo"><div class="adcbmthelogo"><img src="http://www.justhorseracing.com.au/splash/ladbrokeslogo.gif"/></div></div><div class="adsmlists"><ul><li>Get your first bet matched with a bonus bet up to $500!</li></ul></div><div class="adsmclaimbut"><div class="adbuttontxt">$500 bonus bet*</div></div></div></div></div></div></div></div><div id="content"><div id="main"><div class="metadata"><div class="metainfo"><h1>Qld stewards continue whip crackdown</h1><div class="only_mobile"><div style="float:left;margin-bottom:10px;padding:5px 0px;width:100%;border-bottom:1px solid #ACABAB;border-top:1px solid #ACABAB;">11/2/2016 at 8:08am</div></div><div class="newstop"><div class="only_desktop"> Posted by: <a href="https://www.justhorseracing.com.au/author/aap" title="Posts by AAP" rel="author">AAP</a><a href="" rel="author" title="Google Plus Profile for +" plugin="Google Plus Authorship">+</a><div style="float:right;">Filled in: <a href="https://www.justhorseracing.com.au/category/news/australian-racing" rel="category tag">Horse Racing News in Australia</a> | 11/2/2016 at 8:08am</div></div></div></div></div><div class="entry"><div class="only_desktop"><div style="margin-bottom:8px;"><div style="float:right;"/><div id="tweetbutton314128m" class="tw_button" style=""><a href="http://twitter.com/share?url=https%3A%2F%2Fwww.justhorseracing.com.au%2Fnews%2Faustralian-racing%2Fqld-stewards-continue-whip-crackdown%2F314128&amp;via=justhorseracing&amp;text=Qld%20stewards%20continue%20whip%20crackdown%20-&amp;related=&amp;lang=en&amp;count=horizontal&amp;counturl=https%3A%2F%2Fwww.justhorseracing.com.au%2Fnews%2Faustralian-racing%2Fqld-stewards-continue-whip-crackdown%2F314128" class="twitter-share-button external"  style="width:55px;height:22px;background:transparent url('https://www.justhorseracing.com.au/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;" rel="nofollow" target="_blank">Tweet</a></div></div><div class="fb-like" data-send="true" data-width="450" data-show-faces="false" data-font="arial"></div></div><div style="margin-top:8px;"><div style="margin:4px 0px 10px 0px;"> <a href="https://www.justhorseracing.com.au/go/sportsbetbonus/" rel="nofollow" target="_blank"><img src="//www.justhorseracing.com.au/ads/inpost/sbtoppost.gif" border="0"></a></div></div></div><p>Queensland stewards have continued their crackdown on breaches of the new whip rule by suspending repeat offender Beau Appo for seven days.</p><p>The rule means jockeys can only use their whips on five occasions in a forehand or backhand manner before the final 100 metres.</p><p>Appo, a senior apprentice, will start his suspension on Saturday night after he was found to have used his whip seven times before the 100m on Collateral, the winner of a race at Ipswich on Wednesday.</p><p>He was fined $500 for the same offence at Doomben last Saturday.</p><p>Since the new rule was introduced on December 1, stewards have fined Queensland riders more than $30,000 and suspended five riders.</p><div class="fb-comments" data-href="https://www.justhorseracing.com.au/news/australian-racing/qld-stewards-continue-whip-crackdown/314128" data-num-posts="10" data-width="620" data-colorscheme="light"></div><div class="only_desktop"></div><div class="only_desktop"><div style="text-align:center; width:620px; margin-left:auto;margin-right:auto;"> <img id="Image-Maps-Com-image-maps-2014-11-17-231629" src="//www.justhorseracing.com.au/ads/postfooter.png" border="0" width="620" height="200" orgWidth="620" orgHeight="200" usemap="#image-maps-2014-11-17-231629" alt="" /><map name="image-maps-2014-11-17-231629" id="ImageMapsCom-image-maps-2014-11-17-231629"><area  alt="Ladbrokes" title="Ladbrokes" href="//www.justhorseracing.com.au/go/ladbrokes-bonus-bet/" shape="rect" coords="0,0,118,200" style="outline:none;" target="_blank"     /><area  alt="Sportingbet" title="Sportingbet" href="//www.justhorseracing.com.au/go/williamhillregister/" shape="rect" coords="118,0,231,200" style="outline:none;" target="_blank"     /><area  alt="Sportsbet" title="Sportsbet" href="//www.justhorseracing.com.au/go/sportsbetbonus/" shape="rect" coords="231,0,389,200" style="outline:none;" target="_blank"     /><area  alt="Luxbet" title="Luxbet" href="//www.justhorseracing.com.au/go/luxbet-bonus-bet/" shape="rect" coords="388,0,503,200" style="outline:none;" target="_blank"     /><area  alt="BetEasy" title="BetEasy" href="//www.justhorseracing.com.au/go/crownbetregister/" shape="rect" coords="503,0,620,200" style="outline:none;" target="_blank"     /><area shape="rect" coords="618,198,620,200" alt="Image Map" style="outline:none;" title="Image Map" href="//www.justhorseracing.com.au/go/sportsbetbonus/" /></map></div></div><div style="margin-top:12px;" class="sbtc">* All Offers and Promotions posted in this article exclude NSW residents.</div><div class="only_desktop"><div style="float:right;"/> <a href="https://www.justhorseracing.com.au/feed" title="RSS Feed"/><img src="https://www.justhorseracing.com.au/wp-content/themes/sportpress/images/rss.png" alt="RSS Feed" title="RSS Feed"/></a></div></div><div class="cleaner">&nbsp;</div></div><div class="cleaner">&nbsp;</div></div><div id="sidebar"><div class="widget text-4" id="widget_text"><div class="textwidget"><a href="https://www.justhorseracing.com.au/tips/2022016-horse-racing-tips-and-best-bets-flemington-lightning-stakes-day/314984"><div class="cupsb-tips">Lightning Stakes Day Tips</div></a> <a href="https://www.justhorseracing.com.au/tips/2022016-horse-racing-tips-and-best-bets-rosehill-hobartville-stakes-day/314972"><div class="cupsb-tips">Hobartville Stakes Day Tips</div></a><div id="fbsb-palmerbet" onclick="Javascript:window.open('https://www.justhorseracing.com.au/go/palmerbet/');"><div class="fbsbheading">$500 Bonus Bet</div><div class="fbsbdesc">Sign-up to <b>Palmerbet.com.au</b> via this link and get $500 in BONUS BETS when you deposit $500!*</div></div></div><div class="cleaner">&nbsp;</div></div><div id="fbsb-sportsbet" onclick="Javascript:window.open('https://www.justhorseracing.com.au/go/sportsbetbonus/');"><div class="fbsbheading">$501 Bonus Bet</div><div class="fbsbdesc">Sign-up and get your first bet matched with up to $501 in bonus bets*</div></div><div id="fbsb-ladbrokes" onclick="Javascript:window.open('https://www.justhorseracing.com.au/go/ladbrokes-bonus-bet/');"><div class="fbsbheading">$500 Bonus Bet</div><div class="fbsbdesc">Sign-up and get your first deposit matched with up to $500 in bonus bets*</div></div><div id="fbsb-crownbet" onclick="Javascript:window.open('https://www.justhorseracing.com.au/go/crownbet-bonus-bet/');"><div class="fbsbheading">$600 Bonus Bet</div><div class="fbsbdesc">Create an account, deposit $400 and start betting with $1000!*</div></div><div class="only_desktop"><div id="fbsb-williamhill" onclick="Javascript:window.open('https://www.justhorseracing.com.au/go/williamhillregister/');"><div class="fbsbheading">$700 Bonus Bet</div><div class="fbsbdesc">Sign-up and get your first bet matched with up to $700 in bonus bets*</div></div></div><div id="fbsb-more"><div class="fbsbmore"><a href="https://www.justhorseracing.com.au/free-bets" title="$5,000 in Free Bets">View More - Over $5,000 in Bonuses</a></div></div><div class="sbtc"> *State exclusions apply. Please check T&Cs of each offer with the bookmaker. All Offers/Promotions on this site Exclude NSW residents.</div><div class="only_desktop"><a href="https://www.justhorseracing.com.au/go/sportsbet4/" target="_blank" rel="nofollow"><div class="sportsbetcd"><div class="sportsbetcounter">005</div></div> </a><div style="margin:10px 0px;"><script type="text/javascript" src="//js.crownbetaffiliates.com.au/javascript.php?prefix=WblC6QHo4nkzwbog0XiBHGNd7ZgqdRLk&amp;media=466&amp;campaign=1"></script></div><div style="margin:10px 0px;"><a href="https://www.justhorseracing.com.au/go/ladbrokes-bonus-bet/" target="_blank" rel="nofollow"><img src="//www.justhorseracing.com.au/ads/sidebar/ladbrokes1.gif" alt="Ladbrokes Bonus Bet" onclick="this.src='//www.justhorseracing.com.au/ads/sidebar/ladbrokes2.gif'" /></a></div></div><div class="only_desktop"><div class="fb-like-box" data-href="http://facebook.com/justhorseracingcomau" data-width="300" data-data-show-faces="true" data-stream="false" data-header="true"></div></div></div><div class="cleaner">&nbsp;</div></div></div></div><div class="wrapper"><div id="footer"><div class="footer-box"><div class="thefooter"><div class="lft"><ul class="lft_links"><li><ul><li>Popular Pages:</li><li><a href="/free-bets/">Free Bets</a></li><li><a href="/category/news/australian-racing">Australian Horse Racing</a></li><li><a href="/category/general-news/betting">Betting</a></li><li><a href="/melbourne-cup/">Melbourne Cup</a></li><li><a href="/blue-diamond-stakes/">Blue Diamond Stakes</a></li></ul></li><li><ul><li>Popular Pages:</li><li><a href="/category/tips">Racing Tips</a></li><li><a href="/category/fields-results/race-fields">Fields</a></li><li><a href="/cox-plate/">Cox Plate</a></li><li><a href="/caulfield-cup/">Caulfield Cup</a></li><li><a href="/golden-slipper/">Golden Slipper</a></li></ul></li><li><ul><li>Upcoming Races:</li><li><a href="/black-caviar-lightning-stakes/">Lightning Stakes</a></li><li><a href="/race/hobartville-stakes/">Hobartville Stakes</a></li><li><a href="/race/silver-slipper-stakes/">Silver Slipper Stakes</a></li><li><a href="/race/millie-fox-stakes/">Millie Fox Stakes</a></li><li><a href="/race/parramatta-cup/">Parramatta Cup</a></li><li><a href="/race/talindert-stakes/">Talindert Stakes</a></li><li><a href="/race/cs-hayes-stakes/">CS Hayes Stakes</a></li></ul></li><li><ul><li>Partners:</li><li><a href="http://www.bigbonusbets.com.au" rel="nofollow" class="external" target="_blank">Big Free Bets</a></li></ul></li></ul><div style="margin-top:140px;text-align:left;">*State exclusions apply. Please check T&Cs of each offer with the bookmaker. All Offers Exclude NSW residents.</div></div><div class="rght"><p> <a href="//www.justhorseracing.com.au" class="thefooter_logo"><span>JustHorseRacing.com.au</span></a> Copyright &copy; 2016 <a href="//www.justhorseracing.com.au" target="_blank">Just Horse Racing</a>. All rights reserved.<br> <b>Gamble Responsibly 18+</b></p></div></div></div></div>  <script>/*<![CDATA[*/jQuery(document).ready(function () {
+            jQuery('body').bugme({
+                target: "body",
+                message: "<a href='https://www.justhorseracing.com.au/go/palmerbet/' target='_blank' rel='nofollow'><span>* BONUS OFFER *</span> Sign-up to Palmerbet via this link and get a $500 FREE BET Bonus*</a>",
+                align: "center",
+                close: true,
+                closeText: "X",
+                closeAlign: "right",
+                remember: true,
+                expireIn: 1,
+                cookieName: "jhrnotification",
+                colours: false,
+                animate: false,
+                fixed: true,
+                fixedSpacer: true,
+                zindex: 100,
+                minimumWidth: 0
+            });
+        });/*]]>*/</script> <script type='text/javascript' src='https://www.justhorseracing.com.au/wp-includes/js/comment-reply.min.js?ver=4.2.7'></script> <script type='text/javascript' src='https://www.justhorseracing.com.au/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script> <script type='text/javascript'>/*  */
+var _wpcf7 = {"loaderUrl":"https:\/\/www.justhorseracing.com.au\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ...","cached":"1"};
+/*  */</script> <script type='text/javascript' src='https://www.justhorseracing.com.au/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3.1'></script> <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?v=3.exp&#038;sensor=false&#038;ver=3'></script> <script type='text/javascript' src='https://www.justhorseracing.com.au/wp-content/themes/sportpress/google-maps.js?ver=0.1'></script> <div id="fb-root"></div> <script>/*<![CDATA[*/(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=222369291195054&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));/*]]>*/</script> <script type="text/javascript" src="https://www.justhorseracing.com.au/wp-content/themes/sportpress/js/jtools.js"></script> <script type="text/javascript" src="https://www.justhorseracing.com.au/wp-content/themes/sportpress/js/jcarousel.js"></script> <script type="text/javascript" src="https://www.justhorseracing.com.au/wp-content/themes/sportpress/js/dropdown.js"></script> </body></html><div class="only_desktop"><div id="corner_advert" style="bottom:0pt;position:fixed;right:0pt;z-index:1000;"> <a rel="nofollow" id="sportsbetcorner" title="Sportsbet" href="https://www.justhorseracing.com.au/go/sportsbet7/" target="_blank" class="external"><span>Sportsbet Free Bet</span></a></div></div>

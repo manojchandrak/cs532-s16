@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <form method="POST" action="">
+	    <input type="hidden" name="url" value="http://www.northwestgeorgianews.com/rome/news/education/gntc-has-most-dual-enrollment-students-in-state-for-the/article_717aeb9e-d040-11e5-93ef-7f4184f4ef97.html?utm_campaign=Contact+SNS+For+More+Referrer&amp;utm_medium=twitter&amp;utm_source=snsanalytics" id="id_url" />
+	    <input type="hidden" name="urlHash" value="v29xy2" id="id_urlHash" />
+	    <input type="hidden" name="username" value="2054002:0" id="id_username" />
+	    <input type="hidden" name="country" value="US" id="id_country" />
+	    <input type="hidden" name="referrer" id="id_referrer" />
+	    <input type="hidden" name="type" value="0" id="id_type" />
+        
+        
+	</form>
+	<!-- Form is submitted in iframe -->
+	<iframe name="track_iframe" style="display:none;" src="/v29xy2?type=track_iframe&amp;utm_campaign=northwestgeorgianews.com+sports&amp;utm_medium=620637007%40GregSmithNews&amp;utm_source=northwestgeorgianews.com&amp;utm_content=NBA+Players+06"></iframe>
+</body>
+</html>

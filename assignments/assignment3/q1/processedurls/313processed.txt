@@ -1,0 +1,409 @@
+   #[1]alternate [2]ITmedia ニュース(RSS1.0)
+
+   [3]総合トップ
+   [4]ニュース
+   [5]ビジネス
+   [6]経営
+   [7]企業とIT
+   [8]システム導入
+   [9]Webマーケ
+   [10]スマホ
+   [11]パソコン
+   [12]デジカメ
+   [13]AV家電
+   [14]ヘルスケア
+   [15]旬ネタ
+   [16]動画
+   [17]ブログ
+   [18]電力
+   ITの今が見える、明日が分かる
+   [19]ITmedia ニュース／ITの今が見える、明日が分かる
+   [20]速報
+   [21]STUD/O
+   [22]ベンチャー人
+   [23]製品動向
+   [24]ネットの話題
+   [25]社会とIT
+   [26]セキュリティ
+   [27]企業・業界動向
+   [28]ブログ
+   [29]うわさ
+   [30]過去記事
+   [31]ベンチャーニュース
+   [32]転職・求人
+   [33]ITmedia ニュース > [34]STUDIO >
+   ニュース
+   ≫ 2016年02月10日 22時56分 UPDATE
+
+Twitterに「タイムラインの優先表示」機能（無効化可能）
+
+Twitterが、タイムラインを改変するのではなく、補足する新機能を追加した。ユーザーにとって重要な（とアルゴリズムが判断した）ツイートを一時的に優先表示
+し、リフレッシュすると通常の新着順タイムラインに戻れる。この機能はオプションで無効にでき、従来のタイムラインは今後もそのままだ。
+
+   [佐藤由紀子，ITmedia]
+
+   　米Twitterは2月10日（現地時間）、ユーザーにとって重要とアルゴリズムが判断したツイートをタイムラインの上部に表示する新機能「タイムラ
+   インの優先表示」を全ユーザーに向けて追加したと発表した。
+
+   　2015年1月からある「[35]Recap（あなたがいない間に）」をより発展させたような機能で、しばらく（どのくらいかは不明）離れていた後で
+   Twitterのタイムラインを開くと、離れていた間に溜まっていた、ユーザーにとって重要とTwitterのアルゴリズムが判断した復数のツイートが
+   上部に表示される。
+
+   　Recapとの大きな違いは、Recapはツイートがランダムに表示されたが、新機能では新着順に表示される点だ。
+
+   　優先表示されるツイートの数はフォローする相手の数や不在だった期間にもよるが、普通にスクロールしていくことで重要なツイートをキャッチアップでき
+   る。画面をリフレッシュすると通常のリアルタイムの新着順（新しいツイートほど上に表示される）のタイムラインに戻る。リフレッシュするには、モバイル
+   アプリは上から下にスワイプする。Webブラウザの場合は再読み込みすればいい。
+
+   　この機能はオプトイン（初期設定では無効）のオプションとして提供されるが、提供開始からしばらくは自動的に有効になり、有効であることをタイムライ
+   ン上ではっきり告知するとしている。
+
+   　この告知をタップ（クリック）すると、機能の設定変更方法の説明が表示される。
+
+   　[36]日本語のヘルプには以下のように説明されている。
+   timeline 0
+
+   　優先表示を無効にするには、「アカウント」→「設定」で表示されるページに新たに追加された「タイムラインの表示設定」をタップして表示される画面で
+   「重要な新着ツイートをトップに表示」をオフにする。
+   [37]timeline 1 無効方法（iOSの場合）
+
+   　なお、「タイムラインの優先表示」は「あなたのいない間に」と基本的に同じコンセプトではあるが、当面は併存させるという（「あなたのいない間に」機
+   能はオフにできない）。
+
+   　この発表の前に、Twitterがタイムラインの表示を新着順ではなくすという[38]うわさが立ち、ジャック・ドーシーCEOが否定したように、タ
+   イムライン自体は変わらない。
+
+   　米Facebookが[39]かつて実施したように、「ハイライト」と「最新情報」の2種類のニュースフィード（Twitterの場合はタイムライン
+   ）にするわけではなく、通常のタイムラインに余計なアルゴリズムを追加するわけでもない。
+
+   　あくまでも、Twitterから離れている間に読み損ねた可能性のあるツイートを表示するための機能であり、不要であれば従来通りの新着順の時系列タ
+   イムラインのみを使い続けられる。
+
+   　連投ツイートで一連のストーリーを展開しているような場合、その中の1つが唐突に表示される可能性があるが、そのストーリーの存在すら知らずに過ぎて
+   しまうよりはよさそうだ。ツイートしたユーザー名をタップすればストーリー全体にたどり着けるだろう。
+
+   　また、例えば炎上したツイートを修正あるいは謝罪する場合、リプライとしてツイートすれば、トップに表示されたツイートと一緒にリプライも表示される
+   ことになる。
+
+関連記事
+
+     * [40]Twitter、タイムラインのトップに広告動画が表示される「First View」発表
+       Twitter、タイムラインのトップに広告動画が表示される「First View」発表
+       Twitterが、広告主がユーザーのタイムラインの上部にプロモビデオ（動画付き広告ツイート）を表示できる広告商品「First
+       View」を発表した。表示されるのは1度だけだが、タイムラインの不純物がまた1つ増える。
+     * [41]TwitterのドーシーCEO、「来週タイムラインを変更」のうわさをツイートで否定
+       TwitterのドーシーCEO、「来週タイムラインを変更」のうわさをツイートで否定
+       「来週中にもTwitterのタイムラインが時系列ではなくなる」という報道を受け、Twitterのジャック・ドーシーCEOが自身のTwi
+       tterで、「われわれがいつもみんなの声を傾聴していることを知っておいてほしい。来週タイムラインを変更する計画など立てていない」とツイ
+       ートした。
+     * [42]Twitter、3月末に「140文字制限」をいよいよ撤廃か Twitter、3月末に「140文字制限」をいよいよ撤廃か
+       Twitterが、サービスのコアな特徴であるツイートの140文字制限を撤廃するテストを行っており、3月末には正式に導入するとRe/co
+       deが報じた。
+     * [43]Twitter、不在中の“重要な”ツイートをトップに表示する「あなたがいない間に」機能
+       Twitter、不在中の“重要な”ツイートをトップに表示する「あなたがいない間に」機能
+       Twitterが、ユーザーがTwitterを離れていた間にタイムラインを流れたツイートから重要とみなしたツイートをピックアップして画面
+       トップに表示する「Recap」機能をモバイルおよびWebアプリに追加する。この機能はオフにできない。
+     * [44]Twitter、タイムラインへの“不純物”表示を正式機能に Twitter、タイムラインへの“不純物”表示を正式機能に
+       これまでプロモツイート以外はユーザーがフォローしている相手のツイートのみが表示されてきたTwitterのタイムラインに、今後はフォロー
+       していないアカウントのツイートが表示されるようになる。
+
+関連リンク
+
+     * [45]公式ブログ
+
+   Copyright© 2016 ITmedia, Inc. All Rights Reserved.
+   Loading
+
+お勧めの主催・協力セミナー
+
+   [46][40x40_1_1454318306.jpg]
+
+[47]クックパッドのオフィスの中心にあるキッチンがもらたす効果とは？
+
+   [48][40x40_1_1454318449.jpg]
+
+[49]月刊総務編集長×アイティメディア管理部門がトーク：今、攻めの管理部門になるために、あなたができることとは？New!
+
+   [50][40x40_1_1454557271.jpg]
+
+[51]モバイル、IoT、ロボット、人口知能――『最新トレンド』を業務に活用するテクニック教えますNew!
+
+   [52][40x40_1_1455087119.gif]
+
+[53]【積水化学グループは何故、アジアを選んだのか】ASEAN市場の“魅力”と、日本企業が“勝てるIT戦略”を掴む3時間New!
+
+ピックアップコンテンツ
+
+   - PR -
+   [54][150701_8060.jpg]
+
+[55]日本はITでまだ変われる
+
+   日本はIT先進国になれるのか？ 目の前の問題を解決しつつ、2020年に向けたITの進化を考える
+
+人気記事ランキング
+
+    1. [56]銃乱射犯のiPhoneパスコードを総当たりへ──米判事、Appleに「10回ミスでデータ消去」機能のオフ命じる
+    2. [57]iPhone 7用「A10」でSamsungは排除？
+    3. [58]日本郵政かたる不審メール急増　注意を
+    4. [59]組織の長期的存続には“働かないアリ”が必要――北大研究
+    5. [60]「な　ん　て　日　だ　！」　シャープ公式アカウント、鴻海傘下入り交渉に“無常観”
+    6. [61]映画「スティーブ・ジョブズ」はiTunesで販売しているはずなのに
+    7. [62]あくせく働かない“山奥ニート”増殖中……新しいライフスタイル？　自由気ままに暮らしたい
+    8. [63]Appleに日本の下請けが一矢　東京地裁中間判決「米国での審理」退ける
+    9. [64]GoogleのピチャイCEO、AppleのクックCEOの決断にTwitterで賛同表明
+   10. [65]Apple、FBI捜査のためのiPhoneバックドア命令を拒否──自由を脅かすもの
+
+   [66]ランキングトップ30 一覧 »
+
+マーケット解説
+
+   - PR -
+   [67][images_rc_marketCommentary_1_1452583587.jpg]
+     * [68]スピード経営時代、企業が選ぶべきクラウドERPは？
+
+   [69][images_rc_marketCommentary_2_1452583587.jpg]
+     * [70]求めるのは“社員を動かすグループウェア”――ノークリサーチに聞く最新トレンド
+
+     [71]ITmedia News
+
+   [72]@itmedia_newsさんをフォロー
+   [INS: :INS]
+     * [73]ご意見・ご感想
+     * [74]リリース送付先
+     * [75]広告に関するお問い合わせ
+     * [76]メールマガジン
+     * [77]Specialインデックス
+     * [78]アイティメディアからのお知らせブログ
+
+     * [79]RSS
+     * [80]facebook
+     * [81]twitter
+
+   [82]サイトマップ | [83]利用規約 | [84]プライバシーポリシー | [85]広告案内 | [86]お問い合わせ
+
+IT総合
+
+     * [87]ITmedia 総合TOP
+     * [88]ITmedia ニュース
+     * [89]ITmedia Keywords
+     * [90]質問！ITmedia
+     * [91]ITmedia 動画
+
+デジタル・ガジェット
+
+     * [92]ITmedia Mobile
+     * [93]ITmedia PC USER
+     * [94]ITmedia LifeStyle
+     * [95]デジカメプラス
+
+ビジネス
+
+     * [96]ITmedia ビジネスオンライン
+     * [97]ITmedia エグゼクティブ
+     * [98]ITmedia マーケティング
+     * [99]マーケター通信
+     * [100]調査のチカラ
+     * [101]ITmedia PC USER Pro
+
+カルチャー
+
+     * [102]ねとらぼ
+     * [103]ねとらぼエンタ
+     * [104]ITmedia 名作文庫
+
+ライフ
+
+     * [105]ヘルスケア
+
+企業IT
+
+     * [106]ITmedia エンタープライズ
+     * [107]情報システム用語事典
+     * [108]オルタナティブ・ブログ
+     * [109]TechTargetジャパン
+     * [110]ホワイトペーパー
+     * [111]Computer Weekly
+     * [112]キーマンズネット
+     * [113]発注ナビ
+
+テクノロジー
+
+     * [114]＠IT
+     * [115]QA＠IT
+     * [116]イベントカレンダー＋ログ
+
+エンジニアリング
+
+     * [117]MONOist
+     * [118]EE Times Japan
+     * [119]EDN Japan
+     * [120]スマートジャパン
+     * [121]モノづくりライブラリ
+     * [122]3Dモデラボ
+
+キャリア
+
+     * [123]＠IT自分戦略研究所
+     * [124]エンジニアライフ
+     * [125]ディルバート
+
+アプリ
+
+     * [126]ITmedia
+     * [127]ねとらぼ
+     * [128]ねこらぼ
+     * [129]ついトピ！
+
+   [130][170_itmedia_bgw.gif] ITmediaはアイティメディア株式会社の登録商標です。
+
+   [131]運営会社 | [132]プレスリリース | [133]IR情報 | [134]採用情報 | [135]お知らせブログ |
+   [136]アイティメディアID | [137]RSS | [138]Twitter | [139]Facebook | [140]メルマガ |
+   [141]バーチャルイベント | [142]ITmediaのeBook
+
+   [tr?id=185005748502834&ev=PageView&noscript=1]
+
+References
+
+   1. http://www.itmedia.co.jp/news/spv/1602/10/news142.html
+   2. http://rss.itmedia.co.jp/rss/1.0/news_bursts.xml
+   3. http://www.itmedia.co.jp/
+   4. http://www.itmedia.co.jp/news/
+   5. http://www.itmedia.co.jp/business/
+   6. http://mag.executive.itmedia.co.jp/
+   7. http://www.itmedia.co.jp/enterprise/
+   8. http://techtarget.itmedia.co.jp/
+   9. http://marketing.itmedia.co.jp/
+  10. http://www.itmedia.co.jp/mobile/
+  11. http://www.itmedia.co.jp/pcuser/
+  12. http://camera.itmedia.co.jp/
+  13. http://www.itmedia.co.jp/lifestyle/
+  14. http://healthcare.itmedia.co.jp/
+  15. http://nlab.itmedia.co.jp/
+  16. http://www.itmedia.co.jp/douga/
+  17. http://blogs.itmedia.co.jp/
+  18. http://www.itmedia.co.jp/smartjapan/
+  19. http://www.itmedia.co.jp/news/
+  20. http://www.itmedia.co.jp/news/subtop/bursts/
+  21. http://www.itmedia.co.jp/news/subtop/studio/
+  22. http://www.itmedia.co.jp/news/subtop/venture/
+  23. http://www.itmedia.co.jp/news/subtop/products/
+  24. http://www.itmedia.co.jp/news/subtop/nettopics/
+  25. http://www.itmedia.co.jp/news/subtop/society/
+  26. http://www.itmedia.co.jp/news/subtop/security/
+  27. http://www.itmedia.co.jp/news/subtop/industry/
+  28. http://blogs.itmedia.co.jp/
+  29. http://www.itmedia.co.jp/news/subtop/rumors/
+  30. http://www.itmedia.co.jp/news/subtop/archive/
+  31. http://release.itmedia.co.jp/release/news/
+  32. http://kyujin.itmedia.co.jp/
+  33. http://www.itmedia.co.jp/news/
+  34. http://www.itmedia.co.jp/news/subtop/studio/
+  35. http://www.itmedia.co.jp/news/articles/1501/22/news058.html
+  36. https://support.twitter.com/articles/229617#settings
+  37. http://image.itmedia.co.jp/l/im/news/articles/1602/10/l_yu_timeline1.jpg
+  38. http://www.itmedia.co.jp/news/articles/1602/07/news020.html
+  39. http://www.itmedia.co.jp/news/articles/1109/21/news022.html
+  40. http://www.itmedia.co.jp/news/articles/1602/10/news055.html
+  41. http://www.itmedia.co.jp/news/articles/1602/07/news020.html
+  42. http://www.itmedia.co.jp/news/articles/1601/06/news056.html
+  43. http://www.itmedia.co.jp/news/articles/1501/22/news058.html
+  44. http://www.itmedia.co.jp/news/articles/1408/20/news044.html
+  45. https://blog.twitter.com/2016/never-miss-important-tweets-from-people-you-follow
+  46. https://itmedia.smartseminar.jp/public/application/add/1236?sslp=67_7
+  47. https://itmedia.smartseminar.jp/public/application/add/1236?sslp=67_7
+  48. https://itmedia.smartseminar.jp/public/application/add/1252?sslp=76_04
+  49. https://itmedia.smartseminar.jp/public/application/add/1252?sslp=76_04
+  50. https://itmedia.smartseminar.jp/public/application/add/1228
+  51. https://itmedia.smartseminar.jp/public/application/add/1228
+  52. https://itmedia.smartseminar.jp/public/application/add/1248
+  53. https://itmedia.smartseminar.jp/public/application/add/1248
+  54. http://www.itmedia.co.jp/enterprise/special/et140805/index.html
+  55. http://www.itmedia.co.jp/enterprise/special/et140805/index.html
+  56. http://www.itmedia.co.jp/news/articles/1602/17/news102.html
+  57. http://www.itmedia.co.jp/news/articles/1602/17/news067.html
+  58. http://www.itmedia.co.jp/news/articles/1602/17/news147.html
+  59. http://www.itmedia.co.jp/news/articles/1602/17/news088.html
+  60. http://www.itmedia.co.jp/news/articles/1602/17/news069.html
+  61. http://www.itmedia.co.jp/news/articles/1602/17/news101.html
+  62. http://www.itmedia.co.jp/news/articles/1602/17/news068.html
+  63. http://www.itmedia.co.jp/news/articles/1602/16/news067.html
+  64. http://www.itmedia.co.jp/news/articles/1602/18/news077.html
+  65. http://www.itmedia.co.jp/news/articles/1602/17/news152.html
+  66. http://www.itmedia.co.jp/ranking/news.html
+  67. http://www.itmedia.co.jp/enterprise/special/et160116/index.html
+  68. http://www.itmedia.co.jp/enterprise/articles/1601/12/news024.html
+  69. http://www.itmedia.co.jp/enterprise/special/et151104/index.html
+  70. http://www.itmedia.co.jp/enterprise/articles/1511/09/news018.html
+  71. https://www.facebook.com/ITmediaNews
+  72. https://twitter.com/itmedia_news
+  73. http://www.itmedia.co.jp/info/mail/index.html?article#article
+  74. http://corp.itmedia.co.jp/corp/inquiry/
+  75. http://corp.itmedia.co.jp/ad/inquiry/
+  76. http://www.itmedia.co.jp/enterprise/info/lp/enterprise_mailmag.html
+  77. http://www.itmedia.co.jp/news/pr_specialarchive.html
+  78. http://blog.corp.itmedia.co.jp/
+  79. http://www.itmedia.co.jp/info/rss/news.html
+  80. http://www.facebook.com/ITmediaNews
+  81. http://twitter.com/#!/itmedia_news
+  82. http://www.itmedia.co.jp/info/sitemap/
+  83. http://www.itmedia.co.jp/info/rule/
+  84. http://corp.itmedia.co.jp/corp/privacy/
+  85. http://corp.itmedia.co.jp/ad/
+  86. http://www.itmedia.co.jp/info/mail/
+  87. http://www.itmedia.co.jp/
+  88. http://www.itmedia.co.jp/news/
+  89. http://www.itmedia.co.jp/keywords/
+  90. http://www.itmedia.co.jp/qa/
+  91. http://www.itmedia.co.jp/douga/
+  92. http://www.itmedia.co.jp/mobile/
+  93. http://www.itmedia.co.jp/pcuser/
+  94. http://www.itmedia.co.jp/lifestyle/
+  95. http://camera.itmedia.co.jp/
+  96. http://www.itmedia.co.jp/business/
+  97. http://mag.executive.itmedia.co.jp/
+  98. http://marketing.itmedia.co.jp/
+  99. http://blog.marketing.itmedia.co.jp/
+ 100. http://chosa.itmedia.co.jp/
+ 101. http://www.itmedia.co.jp/pcuser/subtop/pcuserpro/
+ 102. http://nlab.itmedia.co.jp/
+ 103. http://nlab.itmedia.co.jp/nl/subtop/entertainment/
+ 104. http://classics.itmedia.co.jp/
+ 105. http://healthcare.itmedia.co.jp/
+ 106. http://www.itmedia.co.jp/enterprise/
+ 107. http://www.itmedia.co.jp/enterprise/subtop/dictionary/
+ 108. http://blogs.itmedia.co.jp/
+ 109. http://techtarget.itmedia.co.jp/
+ 110. http://wp.techtarget.itmedia.co.jp/
+ 111. http://techtarget.itmedia.co.jp/tt/cw/
+ 112. http://www.keyman.or.jp/
+ 113. http://hnavi.co.jp/
+ 114. http://www.atmarkit.co.jp/
+ 115. http://qa.atmarkit.co.jp/
+ 116. https://event.atmarkit.co.jp/
+ 117. http://monoist.atmarkit.co.jp/
+ 118. http://eetimes.jp/
+ 119. http://ednjapan.com/
+ 120. http://www.itmedia.co.jp/smartjapan/
+ 121. http://monoist.atmarkit.co.jp/mn/special/mo120701/
+ 122. https://modelabo.itmedia.co.jp/
+ 123. http://www.atmarkit.co.jp/ait/subtop/jibun/
+ 124. http://el.jibun.atmarkit.co.jp/
+ 125. http://www.itmedia.co.jp/enterprise/subtop/dilbert/
+ 126. http://www.itmedia.co.jp/info/itmapp/itmedia.html
+ 127. http://www.itmedia.co.jp/info/itmapp/nlab.html
+ 128. http://www.itmedia.co.jp/info/itmapp/necolab.html
+ 129. http://www.itmedia.co.jp/info/itmapp/tweetopi.html
+ 130. http://corp.itmedia.co.jp/
+ 131. http://corp.itmedia.co.jp/
+ 132. http://corp.itmedia.co.jp/pr/
+ 133. http://corp.itmedia.co.jp/ir/
+ 134. http://corp.itmedia.co.jp/recruit/
+ 135. http://blog.corp.itmedia.co.jp/
+ 136. http://id.itmedia.jp/info/campaign/all_id.html
+ 137. http://www.itmedia.co.jp/info/rss/
+ 138. http://www.itmedia.co.jp/info/twitter/
+ 139. http://www.itmedia.co.jp/info/fb/
+ 140. http://www.itmedia.co.jp/info/mailmag/
+ 141. http://www.itmedia.co.jp/info/virtualevent/
+ 142. http://www.itmedia.co.jp/info/ebook/

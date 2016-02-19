@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Made in the Midlands &#124; Robopod at Mach 2016</title>
+
+    <!-- Fonts -->
+    <link
+        href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,300,600,700,800|Raleway:400,700,800'
+        rel='stylesheet' type='text/css'>
+
+
+    <!-- Fonts End -->
+
+    <!-- CSS -->
+    <link rel='stylesheet' type='text/css' href='http://www.madeinthemidlands.com/assets/web/public/css/microsite/normalize.css' media='screen'>
+    <link rel='stylesheet' type='text/css' href='http://www.madeinthemidlands.com/assets/web/public/css/microsite/font-awesome.min.css' media='screen'>
+    <link rel='stylesheet' type='text/css' href='http://www.madeinthemidlands.com/assets/web/public/css/microsite/avenir.css' media='screen'>
+    <link rel='stylesheet' type='text/css' href='http://www.madeinthemidlands.com/assets/web/public/css/microsite/redactor.css' media='screen'>
+    <link rel="stylesheet" type='text/css' href='http://www.madeinthemidlands.com/assets/web/public/css/microsite/main.css' media='screen'>
+    <!-- CSS End -->
+
+    <!-- Modernizer -->
+    <script src="http://www.madeinthemidlands.com/assets/web/public/js/modernizr.js"></script>
+    <!-- Modernizer End -->
+
+    <div id="fb-root"></div>
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+</head>
+<body class="marginLeft">
+
+<!-- Overlay -->
+<div class="overlay"></div>
+<!-- Overlay End -->
+
+
+<div id="wrap" class="group ">
+    <!-- Header Section -->
+    <div class="member-details group">
+
+        <!-- Cropper -->
+        <div class="cropper-wrap">
+            <div class="headCrop">
+                <div class="cropMain"></div>
+            </div>
+            <div class="crop-details headCrop">
+                <div class="cropSlider"></div>
+                <button class="cropButton btn-mitm green-btn">Save</button>
+                <form action="http://www.madeinthemidlands.com/profile/save-banner-image" method="post" accept-charset="utf-8" id="bannerForm" enctype="multipart/form-data">                <input type="file" name="background-img" class="uploadBg" id="uploadfile" hidden>
+                <button type="button" class="uploadButton btn-mitm red-btn">Upload Image</button>
+                </form>            </div>
+        </div>
+        <!-- Cropper End -->
+
+
+        <article class="details-wrap"
+                 class="bg-wrap"
+                 style="background: url('http://www.madeinthemidlands.com/assets/uploads/banners/55/banner.png?0.41479336469563155') no-repeat center;"
+                 data-image="http://www.madeinthemidlands.com/assets/uploads/banners/55/banner.png?0.41479336469563155">
+
+            <!-- Member Logo -->
+            <a href="#" title="Members Name" class="member-logo secondary-bor">
+            <span><img src="http://www.madeinthemidlands.com/assets/uploads/members/55/logo_small.jpg"
+                       alt="Mechatronic Production Systems Ltd" class="logo"></span>
+            </a>
+            <!-- Member Logo End -->
+            <h1 class="heading_text">Mechatronic Production Systems Ltd</h1>
+
+            <p class="strapline heading_text">
+                Adding value to your manufacturing process            </p>
+        </article>
+    </div>
+
+    <!-- Member Rank End -->
+    <article class="member-rank secondary-bg primary-bor group">
+        <p >
+            <img src="http://www.madeinthemidlands.com/assets/web/public/images/bronze-med.png" width="30">
+            Mechatronic Production Systems Ltd are a Made in the Midlands Bronze Member
+        </p>
+
+        <a href="http://mechatronic.madeinthemidlands.com/rss" class="rssfeed">
+            <i class="fa fa-rss-square"></i>
+        </a>
+    </article>
+    <!-- Member Rank -->
+
+    <!-- Header Section End -->
+
+
+<div class="content-wrap">
+
+    <!-- Two Col -->
+    <div class="group two-col column-list">
+        <section class="m-content column">
+
+            <div class="fullnews widget">
+                <h3>Robopod at Mach 2016</h3>
+
+                <img src="http://www.madeinthemidlands.com/assets/uploads/news_posts/2394/main_large.jpg" alt="Company Image"
+                     class="news-img secondary-bor" width="640"/>
+
+                <p>
+Robopod Ltd, a subsidiary of Mechatronic Solutions Ltd specialises in
+flexible automation using a standardised platform for robotic applications,
+representing an industry first.</p>
+
+<p>The intelligent Robopod module is compact, versatile, time-saving and
+economical, delivering a quick ROI. It covers a wide range of assembly, test
+and processing applications for almost all areas of industry with a capability
+of being retooled, reprogrammed to offer the ultimate in reusable automation.</p>
+
+<p>Options are endless with many of
+our Robopod solutions undercutting costs normally associated with bespoke
+automation. Visit Stand 4772 to discuss how Robopod can benefit your business
+and find out how you can tailor Robopod to your application at <a href="http://www.robopod.co.uk/">http://www.robopod.co.uk/</a></p>
+
+<p><br></p>
+            </div>
+            <!-- Latest Articles End -->
+
+        </section>
+
+        <section class="l-sidebar group column">
+            
+                
+<!-- Latest Articles -->
+<div class="lnews widget  " data-type="news">
+
+    <label>Latest News <i class="fa fa-arrows"></i></label>
+
+    
+    <div class="hidden widget">
+        <h3>
+            <span id="news_title">Latest News</span>
+                    </h3>
+        <ul>
+                            <li>
+                    <a href="http://mechatronic.madeinthemidlands.com/news/robopod-at-mach-2016/2394" alt="Robopod at Mach 2016">
+                        <h4>Robopod at Mach 2016</h4>
+                    </a>
+
+                    <p>
+Robopod Ltd, a subsidiary of Mechatronic Solutions Ltd specialises in
+flexible automation using a standardised platform for robotic applications,&#8230;</p>
+
+                    <a href="http://mechatronic.madeinthemidlands.com/news/robopod-at-mach-2016/2394" class="read">Read full article</a>
+                </li>
+                            <li>
+                    <a href="http://mechatronic.madeinthemidlands.com/news/ppma-show-2015/2133" alt="PPMA Show 2015">
+                        <h4>PPMA Show 2015</h4>
+                    </a>
+
+                    <p>Mechatronic
+had a successful 3 days at the PPMA show and would like to thank everyone who
+visited us on&#8230;</p>
+
+                    <a href="http://mechatronic.madeinthemidlands.com/news/ppma-show-2015/2133" class="read">Read full article</a>
+                </li>
+                            <li>
+                    <a href="http://mechatronic.madeinthemidlands.com/news/the-ultimate-re-configurable-robotic-solution-limited-only-by-imagination/2125" alt="The Ultimate ‘Re-Configurable’ Robotic Solution Limited Only By Imagination">
+                        <h4>The Ultimate ‘Re-Configurable’ Robotic Solution Limited Only By Imagination</h4>
+                    </a>
+
+                    <p>Mechatronic Solutions is exhibiting
+Robopod at PPMA 2015. A standardised open platform for robot applications
+presenting packaged, plug-and-play robotics.
+
+With&#8230;</p>
+
+                    <a href="http://mechatronic.madeinthemidlands.com/news/the-ultimate-re-configurable-robotic-solution-limited-only-by-imagination/2125" class="read">Read full article</a>
+                </li>
+                            <li>
+                    <a href="http://mechatronic.madeinthemidlands.com/news/funding-helps-mechatronic-find-international-trade-solutions/1961" alt="Funding helps Mechatronic find international trade solutions">
+                        <h4>Funding helps Mechatronic find international trade solutions</h4>
+                    </a>
+
+                    <p>
+
+BIRMINGHAM-based
+Mechatronic Solutions is to increase its presence abroad following a £1.3m
+financing package from Santander Corporate
+&amp;&#8230;</p>
+
+                    <a href="http://mechatronic.madeinthemidlands.com/news/funding-helps-mechatronic-find-international-trade-solutions/1961" class="read">Read full article</a>
+                </li>
+                    </ul>
+    </div>
+</div>
+<!-- Latest Articles End -->
+            
+                
+<!-- Contact Us Widget -->
+<div class="widget group  "
+     data-type="contact_us">
+
+    <label>Contact Us <i class="fa fa-arrows"></i></label>
+
+    
+    <div class="contact-info hidden widget">
+
+        <h3>
+            <span id="contact_us_title">Contact Us</span>
+                    </h3>
+
+        <form class="primary">
+            <input type="text" name="name" placeholder="Full Name"/>
+            <input type="text" name="company" placeholder="Company Name"/>
+            <input type="text" name="email" placeholder="Email Address"/>
+            <input type="text" name="pnum" placeholder="Phone Number"/>
+            <textarea name="message" placeholder="Message"></textarea>
+            <input type="submit" name="submit" value="Submit" class="red-btn btn-mitm">
+        </form>
+    </div>
+</div>
+<!-- Contact Us Widget End -->
+            
+                <!-- Company Details Widget -->
+<div class="cdets widget  "
+     data-type="contact_info">
+
+    <label>Contact Info <i class="fa fa-arrows"></i></label>
+
+
+    
+    <div class="hidden widget">
+
+        <h3>
+            <span id="contact_info_title">Contact Information</span>
+                    </h3>
+
+        <p class="company-address">
+            <i class="fa fa-map-marker"></i>
+            57 Melchett Road Kings Norton Business Centre Kings Norton Business Centre Birmingham B30 3HP         </p>
+
+                    <p class="tel">
+                <i class="fa fa-phone"></i>
+                0121 4592347            </p>
+        
+                    <p class="web">
+                <i class="fa fa-globe"></i>
+                <a href="http://www.mechatronic.co.uk" target="_blank">http://www.mechatronic.co.uk</a>
+            </p>
+            </div>
+
+</div>
+<!-- Company Details Widget End -->
+            
+                
+<!-- Company Staff -->
+<div class="cmembers widget  "
+     data-type="staff_list">
+
+    <label>Staff List <i class="fa fa-arrows"></i></label>
+
+    
+    <div class="hidden widget">
+
+        <h3>
+            <span id="staff_title">Team</span>
+                    </h3>
+
+        <ul id="member-list">
+
+                            <li class="item">
+                    <div class="company-contact group">
+                        <img src="http://www.madeinthemidlands.com/assets/uploads/users/30/portrait_small.jpg"
+                             title="Richard Evans">
+
+                        <p><strong>Contact name</strong><br> Richard Evans</p>
+
+                        <p><strong>Position</strong><br> Managing Director</p>
+
+
+                        <a href="http://madeinthemidlands.com/profile/mail/compose/55"
+                           class="btn-mitm red-btn"><i
+                                class="fa fa-envelope-o"></i> Email</a>
+
+                    </div>
+                </li>
+                    </ul>
+
+    </div>
+</div>
+<!-- Company Staff End -->
+                    </section>
+    </div>
+    <!-- Two Col End -->
+
+</div>
+
+<div class="bot-marg"></div><div class="footer-zone group">
+    <p class="copywrite">&copy; 2016 Mechatronic Production Systems Ltd</p>
+    <p class="member"><a href="http://www.madeinthemidlands.com" target="_blank" title="Made In The Midlands"><img src="http://www.madeinthemidlands.com/assets/web/public/images/n-logo.png" title="Made In The Midlands" class="logo" /></a> Mechatronic Production Systems Ltd is a <a href="http://www.madeinthemidlands.com" title="Made In The Midlands" target="_blank">Made In The Midlands</a> Member</p>
+</div>
+
+</div>
+
+<!-- Javascript -->
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script>window.jQuery || document.write('<script src="assets/public/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+
+<script type="text/javascript" src="http://www.madeinthemidlands.com/assets/web/public/js/microsite/vendor/jquery.ui.custom.js"></script>
+<script type="text/javascript" src="http://www.madeinthemidlands.com/assets/web/public/js/microsite/vendor/redactor.min.js"></script>
+<script type="text/javascript" src="http://www.madeinthemidlands.com/assets/web/public/js/microsite/vendor/jscolor.js"></script>
+<script type="text/javascript" src="http://www.madeinthemidlands.com/assets/web/public/js/microsite/vendor/crop.js"></script>
+<script type="text/javascript" src="http://www.madeinthemidlands.com/assets/web/public/js/microsite/vendor/packer.min.js"></script>
+<script type="text/javascript" src="http://www.madeinthemidlands.com/assets/web/public/js/microsite/dragui.js"></script>
+<script type="text/javascript" src="http://www.madeinthemidlands.com/assets/web/public/js/microsite/main.js"></script>
+
+<script type="text/javascript" language="javascript">
+    $( document ).ready(function() {
+        var primary = '#FF9B42',
+            secondary = '#333333',
+            background = '#5E5E5E',
+            links = '#000000';
+            heading_text = '#FFFFFF';
+
+        $('<style data-attr-cols="colours">a{color: '+links+'}body{background: '+background+'}.heading_text{color: '+heading_text+'}.primary input:focus, .primary textarea:focus {border-color: "#EEE"}.primary-col, .form-inner label{color: ' +primary+ ';}.primary-bg, .widget h3:after{background: ' +primary+'}.primary-bor{border-color: '+primary+';}.secondary-col{color: '+secondary+';}.secondary-bor, .fullnews.widget img.secondary-bor{border-color: '+secondary+'}.secondary-bg, .red-btn{background: '+secondary+'}</style>').appendTo('head');
+    });
+</script>
+
+    <!-- Piwik -->
+    <script type="text/javascript">
+        var _paq = _paq || [];
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function () {
+            var u = (("https:" == document.location.protocol) ? "https" : "http") + "://analytics.firstorchard.com/";
+            _paq.push(['setTrackerUrl', u + 'piwik.php']);
+            _paq.push(['setSiteId', 3004]);
+            var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+            g.type = 'text/javascript';
+            g.defer = true;
+            g.async = true;
+            g.src = u + 'piwik.js';
+            s.parentNode.insertBefore(g, s);
+        })();
+    </script>
+    <noscript>
+        <p><img src="http://analytics.firstorchard.com/piwik.php?idsite=3004"
+                      style="border:0;" alt=""/></p>
+    </noscript>
+    <!-- End Piwik Code -->
+
+</body>
+</html>

@@ -1,0 +1,787 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- php -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>MLS - Latest soccer news and rumors</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width" />
+<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+<link rel="stylesheet" type="text/css" media="only screen and (max-device-width: 480px)" href="css/	small-device.css" />
+<script type="text/javascript" src="js/jquery-1.4.2.js" ></script>
+	<meta name="description" content="MLS - Major League Soccer news, scores, rumors. Toplists, videos, recent news. All in one site."/>
+<meta name="keywords" content="MLS, news, Major League Soccer, scores, rumors"/>
+<meta property="og:site_name" content="MLS - Latest soccer news and rumors"/>
+<meta property="og:image" content="/favicon.ico"/>
+<meta property="og:title" content="MLS - Latest soccer news and rumors"/>
+
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<!--[if lt IE 9]>
+	<script type="text/javascript" src="http://info.template-help.com/files/ie6_warning/ie6_script_other.js"></script>
+	<script type="text/javascript" src="js/html5.js"></script>
+<![endif]-->
+	<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-27505103-1']);
+_gaq.push(['_setDomainName', 'none']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_trackPageview']);
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+</script>
+
+	<script type="text/javascript">
+	window.___gcfg = {lang: 'hu'};
+	(function() 
+	{var po = document.createElement("script");
+	po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";
+	var s = document.getElementsByTagName("script")[0];
+	s.parentNode.insertBefore(po, s);
+	})();</script>
+	<!-- facebook script -->
+</head>
+<body id="page1">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/hu_HU/sdk.js#xfbml=1&appId=652451041450910&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="body2">
+	<div class="body7">
+		<div class="body3">
+			<div class="body4">
+				<div class="main">
+<!-- header -->
+					<header>
+						<nav>
+							<ul id="menu">
+								<li><a href="index.html">Top Stories</a></li>
+								<li><a href="nfl-news.html">NFL</a></li>
+								<li><a href="mlb-news.html">MLB</a></li>
+								<li><a href="nba-news.html">NBA</a></li>
+								<li><a href="nhl-news.html">NHL</a></li>
+								<li id="menu_active"><a href="mls-news.html">MLS</a></li>
+								<li><a href="mll-news.html">Lacrosse</a></li>
+								<li><a href="nascar-news.html">Nascar</a></li>
+							</ul>
+						</nav>
+						<h2><a href="index.html" id="logo">Sportofusa.com</a></h2>
+					</header>
+<!-- / header end -->
+					<section id="content">
+						<div class="wrapper">
+							<div class="box_shadow">
+								<div class="box">
+									<div class="wrapper">
+										<div>
+											<h1>MLS - Latest soccer news and rumors</h1>	
+										<div class="wrapper">
+											<div class="column"><div class="news">
+<div class="header">
+<h3>Recent news - MLS</h3>
+</div>
+<div class="content">
+<ul class="hirlist"><li>
+<a target="_blank" href="http://www.soundersfc.com/post/2016/02/17/seattle-sounders-4-la-galaxy-0-sounders-smash-galaxy-final-preseason-friendly">Seattle Sounders 4, LA Galaxy 0: Sounders smash Galaxy in final preseason friendly</a>
+</li>
+<li>
+<a target="_blank" href="http://www.soundersfc.com/post/2016/02/17/seattle-sounders-shine-preseason-romp-over-la-galaxy">Seattle Sounders shine in preseason romp over LA Galaxy</a>
+</li>
+<li>
+<a target="_blank" href="http://www.soundersfc.com/post/2016/02/17/seattle-sounders-striker-obafemi-martins-says-thanks-fans-announces-move-chinese">Seattle Sounders striker Obafemi Martins thanks fans, announces move to Chinese Super League</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/armchair-analyst-ambition-acquisitions-league-choice-wednesday-qa">Armchair Analyst: Ambition, acquisitions & a league of choice | Wednesday Q&A</a>
+</li>
+<li>
+<a target="_blank" href="http://www.goal.com/en-us/news/1110/major-league-soccer/2016/02/17/20460072/martins-confirms-china-move-in-farewell-to-sounders-fans">Martins confirms China move in farewell to Sounders fans</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/report-chicago-fire-interested-attacking-midfielder-michael-de-leeuw">Report: Chicago Fire interested in attacking midfielder Michael de Leeuw</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/sporting-kansas-city-loan-midfielder-bernardo-anor-minnesota-united-fc">Sporting Kansas City loan midfielder Bernardo Anor to Minnesota United FC</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/mls2stl-st-louis-business-sports-leaders-unite-attract-major-league-soccer">MLS2STL: St. Louis business, sports leaders unite to attract Major League Soccer</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/houston-dynamo-release-new-secondary-jersey-2016">Houston Dynamo release new secondary jersey for 2016<img style="padding-left:4px;" src="images/marker_2.gif" alt="" /></a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/armchair-analyst-18-days-go-there-are-still-questions-nycfc">Armchair Analyst: With 18 days to go, there are still questions for NYCFC</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="news">
+<div class="header">
+<h3>Top stories</h3>
+</div>
+<div class="content">
+<ul class="hirlist"><li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/seattle-sounders-fc-reveal-sneak-peek-their-two-new-kits-2016">Seattle Sounders FC reveal a sneak peek at their two new kits for 2016<img style="padding-left:4px;" src="images/marker_2.gif" alt="" /></a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/nigel-de-jong-thrilled-fulfill-american-dream-mlss-biggest-club-la-galaxy">Nigel de Jong thrilled to fulfill American dream with MLS's "biggest club" LA Galaxy</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/how-bad-has-it-been-mls-teams-playing-mexico">How bad has it been for MLS teams playing in Mexico?</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/houston-dynamo-release-new-secondary-jersey-2016">Houston Dynamo release new secondary jersey for 2016</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/procedures-announced-sundays-copa-america-centenario-official-draw">Procedures announced for Sunday's Copa America Centenario official draw</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/pioneers-reliving-real-salt-lakes-historic-concacaf-champions-league-run-ahead-four">The Pioneers: Reliving Real Salt Lake's historic CONCACAF Champions League run ahead of four MLS-Liga MX showdowns</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/fc-dallas-jesse-gonzalez-remains-committed-mexico-olympics-near">FC Dallas' Jesse Gonzalez remains committed to Mexico as Olympics near</a>
+</li>
+<li>
+<a target="_blank" href="http://www.goal.com/en-us/news/1110/major-league-soccer/2016/02/17/20460072/martins-confirms-china-move-in-farewell-to-sounders-fans">Martins confirms China move in farewell to Sounders fans</a>
+</li>
+<li>
+<a target="_blank" href="http://www.soundersfc.com/post/2016/02/17/goal-darwin-jones-smashes-shot-crossbar-and">GOAL: Darwin Jones smashes a shot off the crossbar and in</a>
+</li>
+<li>
+<a target="_blank" href="http://www.soundersfc.com/post/2016/02/17/seattle-sounders-stream-final-sfc-preseason-friendly-7-pm-pt-wednesday">Seattle Sounders to stream final SFC Preseason friendly at 7 p.m. PT on Wednesday</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="news">
+<div class="header">
+<h3>goal.com</h3>
+</div>
+<div class="content">
+<ul class="hirlist"><li>
+<a target="_blank" href="http://www.goal.com/en-us/news/1110/major-league-soccer/2016/02/17/20460072/martins-confirms-china-move-in-farewell-to-sounders-fans">Martins confirms China move in farewell to Sounders fans</a>
+</li>
+<li>
+<a target="_blank" href="http://www.goal.com/en-us/news/1110/major-league-soccer/2016/02/16/20412702/ousted-extends-whitecaps-contract">Ousted extends Whitecaps contract</a>
+</li>
+<li>
+<a target="_blank" href="http://www.goal.com/en-us/news/69/transfer-zone/2016/02/16/20022082/whitecaps-sign-former-nemesis-perez-trade-rosales-to-dallas">Whitecaps sign former nemesis Perez, trade Rosales to Dallas</a>
+</li>
+<li>
+<a target="_blank" href="http://www.goal.com/en-us/news/174/uefa-champions-league/2016/02/16/20393562/criscito-barcelona-will-win-champions-league-again-because">Criscito: Barcelona will win Champions League again because they are on another level</a>
+</li>
+<li>
+<a target="_blank" href="http://www.goal.com/en-us/news/1110/major-league-soccer/2016/02/15/20378792/dc-united-confirms-loan-for-boca-juniors-acosta">D.C. United confirms loan for Boca Juniors' Acosta</a>
+</li>
+<li>
+<a target="_blank" href="http://www.goal.com/en-us/news/1110/major-league-soccer/2016/02/15/20372622/the-mls-wrap-martins-shipp-deals-provide-reminder-that">The MLS Wrap: Martins, Shipp deals provide reminder that business always comes first<img style="padding-left:4px;" src="images/marker_2.gif" alt="" /></a>
+</li>
+<li>
+<a target="_blank" href="http://www.goal.com/en-us/news/69/transfer-zone/2016/02/15/20377652/sources-german-clubs-tracking-impacts-cr%C3%A9peau-with-view-to">Sources: German clubs tracking Impact’s Crépeau with view to summer signing</a>
+</li>
+<li>
+<a target="_blank" href="http://www.goal.com/en-us/news/69/transfer-zone/2016/02/14/20353142/montreal-trades-eric-miller-to-colorado-rapids">Montreal trades Eric Miller to Colorado Rapids</a>
+</li>
+<li>
+<a target="_blank" href="http://www.goal.com/en-us/news/13732/extra-time/2016/02/13/20330142/steve-nash-kicks-up-an-assist-in-the-nba-slam-dunk-contest">Steve Nash kicks up an assist in the NBA slam dunk contest</a>
+</li>
+<li>
+<a target="_blank" href="http://www.goal.com/en-us/news/1110/major-league-soccer/2016/02/13/20328232/harry-shipp-writes-emotional-goodbye-to-fire-fans">Harry Shipp writes emotional goodbye to Fire fans</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="news">
+<div class="header">
+<h3>Advertisement</h3>
+</div>
+<div class="content">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Adaptív -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4788313475942707"
+     data-ad-slot="3221556196"
+     data-ad-format="rectangle"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+<div class="news">
+<div class="header">
+<h3>Seattle Sounders</h3>
+</div>
+<div class="content">
+<ul class="hirlist"><li>
+<a target="_blank" href="http://www.soundersfc.com/post/2016/02/17/seattle-sounders-4-la-galaxy-0-sounders-smash-galaxy-final-preseason-friendly">Seattle Sounders 4, LA Galaxy 0: Sounders smash Galaxy in final preseason friendly</a>
+</li>
+<li>
+<a target="_blank" href="http://www.soundersfc.com/post/2016/02/17/seattle-sounders-shine-preseason-romp-over-la-galaxy">Seattle Sounders shine in preseason romp over LA Galaxy</a>
+</li>
+<li>
+<a target="_blank" href="http://www.soundersfc.com/post/2016/02/17/seattle-sounders-striker-obafemi-martins-says-thanks-fans-announces-move-chinese">Seattle Sounders striker Obafemi Martins thanks fans, announces move to Chinese Super League</a>
+</li>
+<li>
+<a target="_blank" href="http://www.soundersfc.com/post/2016/02/17/vote-which-sounders-fc-kit-your-favorite">VOTE: Which Sounders FC kit is your favorite?</a>
+</li>
+<li>
+<a target="_blank" href="http://www.soundersfc.com/post/2016/02/17/goal-darwin-jones-smashes-shot-crossbar-and">GOAL: Darwin Jones smashes a shot off the crossbar and in<img style="padding-left:4px;" src="images/marker_2.gif" alt="" /></a>
+</li>
+<li>
+<a target="_blank" href="http://www.soundersfc.com/post/2016/02/17/sounders-fc-unveils-new-primary-and-third-kits-ahead-2016-campaign">Sounders FC unveils new primary and third kits ahead of 2016 campaign</a>
+</li>
+<li>
+<a target="_blank" href="http://www.soundersfc.com/post/2016/02/17/seattle-sounders-stream-final-sfc-preseason-friendly-7-pm-pt-wednesday">Seattle Sounders to stream final SFC Preseason friendly at 7 p.m. PT on Wednesday</a>
+</li>
+<li>
+<a target="_blank" href="http://www.soundersfc.com/post/2016/02/17/learn-about-new-2016-sounders-fc-adidas-kits">Learn about the new 2016 Sounders FC adidas kits</a>
+</li>
+<li>
+<a target="_blank" href="http://www.soundersfc.com/post/2016/02/17/seattle-sounders-fc-unveils-two-new-kits-2016-season">Seattle Sounders FC unveils two new kits for 2016 season</a>
+</li>
+<li>
+<a target="_blank" href="http://www.soundersfc.com/post/2016/02/17/seattle-sounders-goalkeeper-stefan-frei-designs-exclusive-gift-jersey-launch">Seattle Sounders goalkeeper Stefan Frei designs exclusive gift for jersey launch</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="news">
+<div class="header">
+<h3>Houston Dynamo</h3>
+</div>
+<div class="content">
+<ul class="hirlist"><li>
+<a target="_blank" href="http://www.houstondynamo.com/news/2015/10/houston-dynamo-forward-erick-cubo-torres-set-second-trip-concacaf-olympic-qualifying-ch">Houston Dynamo forward Erick “Cubo” Torres set for second trip to CONCACAF Olympic Qualifying Championship</a>
+</li>
+<li>
+<a target="_blank" href="http://www.houstondynamo.com/news/2015/09/mauro-manotas-draws-strength-his-native-colombia-he-adapts-houston-dynamo">Mauro Manotas draws strength from his native Colombia as he adapts to the Houston Dynamo</a>
+</li>
+<li>
+<a target="_blank" href="http://www.houstondynamo.com/news/2015/09/will-bruin-and-giles-barnes-combined-create-magic-houston-dynamos-win-over-colorado-rap">Will Bruin and Giles Barnes combined to create magic for Houston Dynamo's win over Colorado Rapids</a>
+</li>
+<li>
+<a target="_blank" href="http://www.houstondynamo.com/news/2015/09/match-recap-houston-dynamo-3-colorado-rapids-2">Match Recap: Houston Dynamo 3, Colorado Rapids 2<img style="padding-left:4px;" src="images/marker_2.gif" alt="" /></a>
+</li>
+<li>
+<a target="_blank" href="http://www.houstondynamo.com/news/2015/09/houston-dynamo-hope-gain-confidence-string-results-together-late-playoff-push">Houston Dynamo hope to gain "confidence" to string results together for late playoff push</a>
+</li>
+<li>
+<a target="_blank" href="http://www.houstondynamo.com/news/2015/09/saturday-breast-cancer-awareness-night-presented-houston-methodist">Saturday is Breast Cancer Awareness Night presented by Houston Methodist</a>
+</li>
+<li>
+<a target="_blank" href="http://www.houstondynamo.com/news/2015/09/preview-houston-dynamo-vs-colorado-rapids">Preview: Houston Dynamo vs. Colorado Rapids</a>
+</li>
+<li>
+<a target="_blank" href="http://www.houstondynamo.com/news/2015/09/houston-dynamo-want-seize-opportunity-against-colorado-rapids-pressure-playoffs">Houston Dynamo want to seize opportunity against Colorado Rapids to pressure for playoffs</a>
+</li>
+<li>
+<a target="_blank" href="http://www.houstondynamo.com/news/2015/09/houvcol-preview-glenn-davis">#HOUvCOL preview with Glenn Davis</a>
+</li>
+<li>
+<a target="_blank" href="http://www.houstondynamo.com/news/2015/09/trailblazing-honduras-midfielder-boniek-garcia-leads-way-latino-presence-houston-dynamo">Trailblazing Honduras midfielder Boniek García leads the way for Latino presence on Houston Dynamo</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="news">
+<div class="header">
+<h3>Sporting Kansas City</h3>
+</div>
+<div class="content">
+<ul class="hirlist"><li>
+<a target="_blank" href="http://www.sportingkc.com/news/2015/10/limited-tickets-remain-available-pitch-black-sporting-park-saturday">Limited tickets remain available for Pitch Black at Sporting Park on Saturday</a>
+</li>
+<li>
+<a target="_blank" href="http://www.sportingkc.com/news/2015/10/college-roundup-joey-piatczyc-adds-two-assists-west-virginia-victory">College Roundup: Joey Piatczyc adds two assists in West Virginia victory</a>
+</li>
+<li>
+<a target="_blank" href="http://www.sportingkc.com/news/2015/10/sporting-kc-conquers-three-game-stretch-collective-team-effort">Sporting KC conquers three-game stretch with collective team effort</a>
+</li>
+<li>
+<a target="_blank" href="http://www.sportingkc.com/news/2015/10/tim-melia-voted-mls-player-week">Tim Melia voted MLS Player of the Week<img style="padding-left:4px;" src="images/marker_2.gif" alt="" /></a>
+</li>
+<li>
+<a target="_blank" href="http://www.sportingkc.com/news/2015/10/playoff-math-sporting-kc-boosts-postseason-chances-win-portland">Playoff Math: Sporting KC boosts postseason chances with win at Portland</a>
+</li>
+<li>
+<a target="_blank" href="http://www.sportingkc.com/news/2015/10/unimas-air-sporting-kcs-october-16-match-vs-san-jose">UniMas to air Sporting KC's October 16 match vs. San Jose</a>
+</li>
+<li>
+<a target="_blank" href="http://www.sportingkc.com/news/2015/10/snippets-sporting-podcast-presented-kc-steak-company-october-5-2015">Snippets of Sporting Podcast presented by the KC Steak Company: October 5, 2015</a>
+</li>
+<li>
+<a target="_blank" href="http://www.sportingkc.com/news/2015/10/sporting-club-and-ug-open-new-futsal-courts">Sporting Club and UG open new futsal courts</a>
+</li>
+<li>
+<a target="_blank" href="http://www.sportingkc.com/news/2015/10/krisztian-nemeths-incredible-finish-vs-portland-nominated-mls-goal-week">Krisztian Nemeth's incredible finish vs Portland nominated for MLS Goal of the Week</a>
+</li>
+<li>
+<a target="_blank" href="http://www.sportingkc.com/news/2015/10/matt-besler-and-tim-melia-take-mls-team-week-honors">Matt Besler and Tim Melia take MLS Team of the Week honors</a>
+</li>
+</ul>
+</div>
+</div>
+</div><div class="column"><div class="news">
+<div class="header">
+<h3>mlssoccer.com</h3>
+</div>
+<div class="content">
+<ul class="hirlist"><li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/armchair-analyst-ambition-acquisitions-league-choice-wednesday-qa">Armchair Analyst: Ambition, acquisitions & a league of choice | Wednesday Q&A</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/report-chicago-fire-interested-attacking-midfielder-michael-de-leeuw">Report: Chicago Fire interested in attacking midfielder Michael de Leeuw</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/sporting-kansas-city-loan-midfielder-bernardo-anor-minnesota-united-fc">Sporting Kansas City loan midfielder Bernardo Anor to Minnesota United FC</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/mls2stl-st-louis-business-sports-leaders-unite-attract-major-league-soccer">MLS2STL: St. Louis business, sports leaders unite to attract Major League Soccer</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/houston-dynamo-release-new-secondary-jersey-2016">Houston Dynamo release new secondary jersey for 2016</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/armchair-analyst-18-days-go-there-are-still-questions-nycfc">Armchair Analyst: With 18 days to go, there are still questions for NYCFC</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/mls-now-giovinco-and-bradley-wright-phillips-highlight-best-moments-mls-preseason">MLS Now: Giovinco and Bradley Wright-Phillips highlight the best moments in MLS preseason</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/seattle-sounders-fc-reveal-sneak-peek-their-two-new-kits-2016">Seattle Sounders FC reveal a sneak peek at their two new kits for 2016<img style="padding-left:4px;" src="images/marker_2.gif" alt="" /></a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/dc-united-sign-midfielder-rob-vincent-transfer-usls-pittsburgh-riverhounds">DC United sign midfielder Rob Vincent via transfer from USL's Pittsburgh Riverhounds</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/tat-des-lieux-avant-les-tournois-de-pr-paration-12">État des lieux avant les tournois de préparation (1/2)</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="news">
+<div class="header">
+<h3>youtube.com</h3>
+</div>
+<div class="content">
+<ul class="picturelist"><li>
+<a target="_blank" href="https://www.youtube.com/watch?v=EbLTPLgznxI"><img align="left" class="picturebox" src="https://i.ytimg.com/vi/EbLTPLgznxI/default.jpg" alt="Best MLS Preseason moments! (thus far)" />Best MLS Preseason moments! (thus far)<img style="padding-left:4px;" src="images/marker_2.gif" alt="" /></a>
+</li>
+<li>
+<a target="_blank" href="https://www.youtube.com/watch?v=rCzeUBmCx0k"><img align="left" class="picturebox" src="https://i.ytimg.com/vi/rCzeUBmCx0k/default.jpg" alt="Pulse Sports on the Go - 17th Feb, 2016" />Pulse Sports on the Go - 17th Feb, 2016</a>
+</li>
+<li>
+<a target="_blank" href="https://www.youtube.com/watch?v=_azjVWsLeRs"><img align="left" class="picturebox" src="https://i.ytimg.com/vi/_azjVWsLeRs/default.jpg" alt="Vancouver BC place stadium view of beautiful night lighting from sky" />Vancouver BC place stadium view of beautiful night lighting from sky</a>
+</li>
+<li>
+<a target="_blank" href="https://www.youtube.com/watch?v=o_kg7ySe8rI"><img align="left" class="picturebox" src="https://i.ytimg.com/vi/o_kg7ySe8rI/default.jpg" alt="Major League Soccer of 2013 New England Revolution season Top 7 Facts.mp4" />Major League Soccer of 2013 New England Revolution season Top 7 Facts.mp4</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="news">
+<div class="header">
+<h3>Chicago Fire</h3>
+</div>
+<div class="content">
+<ul class="hirlist"><li>
+<a target="_blank" href="http://www.chicago-fire.com/post/2016/02/17/chicago-fire-foundation-announces-inaugural-associates-board">Chicago Fire Foundation Announces Inaugural Associates Board</a>
+</li>
+<li>
+<a target="_blank" href="http://www.chicago-fire.com/post/2016/02/17/procedures-announced-2016-copa-america-centenario-official-draw">Procedures Announced for 2016 Copa America Centenario Official Draw</a>
+</li>
+<li>
+<a target="_blank" href="http://www.chicago-fire.com/post/2016/02/16/chicago-fire-enter-final-stage-2016-preseason-training-camp">Chicago Fire Enter Final Stage of 2016 Preseason Training Camp</a>
+</li>
+<li>
+<a target="_blank" href="http://www.chicago-fire.com/post/2016/02/15/meet-me-chicago-best-friends-brandon-and-jeremy-vincent-reunite">Meet Me In Chicago: 'Best Friends' Brandon and Jeremy Vincent Reunite</a>
+</li>
+<li>
+<a target="_blank" href="http://www.chicago-fire.com/post/2016/02/13/chicago-fire-trade-shipp-montreal-general-targeted-allocation-money">Chicago Fire Trade Shipp to Montreal for General, Targeted Allocation Money<img style="padding-left:4px;" src="images/marker_2.gif" alt="" /></a>
+</li>
+<li>
+<a target="_blank" href="http://www.chicago-fire.com/post/2016/02/12/david-accam-preparing-strong-second-act-mls">David Accam Preparing for Strong Second Act in MLS</a>
+</li>
+<li>
+<a target="_blank" href="http://www.chicago-fire.com/post/2016/02/11/match-highlights-chicago-fire-42-philadelphia-union">Match Highlights -- Chicago Fire 4:2 Philadelphia Union</a>
+</li>
+<li>
+<a target="_blank" href="http://www.chicago-fire.com/post/2016/02/11/preseason-postmatch-quotes-fire-42-union">Preseason Postmatch Quotes -- Fire 4:2 Union</a>
+</li>
+<li>
+<a target="_blank" href="http://www.chicago-fire.com/post/2016/02/11/accam-brace-leads-chicago-fire-past-philadelphia-union-4-2-preseason-friendly">Accam Brace Leads Chicago Fire Past Philadelphia Union 4-2 in Preseason Friendly</a>
+</li>
+<li>
+<a target="_blank" href="http://www.chicago-fire.com/post/2016/02/11/premier-league-giants-arsenal-play-2016-att-mls-all-star-game-san-jose">Premier League Giants Arsenal to Play in 2016 AT&T MLS All-Star Game in San Jose</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="news">
+<div class="header">
+<h3>Toronto FC</h3>
+</div>
+<div class="content">
+<ul class="hirlist"><li>
+<a target="_blank" href="http://www.torontofc.ca/news/2015/11/reds-look-more-balance-2016">Reds Look For More Balance In 2016</a>
+</li>
+<li>
+<a target="_blank" href="http://www.torontofc.ca/news/2015/10/match-recap-impact-knock-reds-out-playoffs">Match Recap: Impact Knock Reds Out Of Playoffs</a>
+</li>
+<li>
+<a target="_blank" href="http://www.torontofc.ca/news/2015/10/match-preview-montreal-impact-vs-toronto-fc-0">Match Preview: Montreal Impact vs. Toronto FC</a>
+</li>
+<li>
+<a target="_blank" href="http://www.torontofc.ca/news/2015/10/3-keys-tfc-vs-montreal-impact-knockout-round">3 Keys To TFC vs. Montreal Impact - Knockout Round</a>
+</li>
+<li>
+<a target="_blank" href="http://www.torontofc.ca/news/2015/10/no-love-lost-between-toronto-and-montreal">No Love Lost Between Toronto and Montreal</a>
+</li>
+<li>
+<a target="_blank" href="http://www.torontofc.ca/news/2015/10/kia-tfc-academy-juniors-making-strides">Kia TFC Academy Juniors Making Strides</a>
+</li>
+<li>
+<a target="_blank" href="http://www.torontofc.ca/news/2015/10/projected-starting-xi-montreal-impact-knockout-round">Projected Starting XI: Montreal Impact Knockout Round</a>
+</li>
+<li>
+<a target="_blank" href="http://www.torontofc.ca/news/2015/10/come-you-reds-podcast-episode-34">Come On You Reds Podcast - Episode 34</a>
+</li>
+<li>
+<a target="_blank" href="http://www.torontofc.ca/news/2015/10/kia-tfc-academys-campbell-and-muenkat-impress-canada-u-18">Kia TFC Academy's Campbell and Muenkat Impress for Canada U-18<img style="padding-left:4px;" src="images/marker_2.gif" alt="" /></a>
+</li>
+<li>
+<a target="_blank" href="http://www.torontofc.ca/news/2015/10/o-when-reds-seba-wins-golden-boot">O When The Reds: Seba Wins The Golden Boot</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="news">
+<div class="header">
+<h3>FC Dallas</h3>
+</div>
+<div class="content">
+<ul class="hirlist"><li>
+<a target="_blank" href="http://www.fcdallas.com/news/2015/10/vote-yes-prop-4-benefit-your-community">Vote YES on Prop 4 to Benefit Your Community</a>
+</li>
+<li>
+<a target="_blank" href="http://www.fcdallas.com/news/2015/10/fc-dallas-learn-semifinal-opponent-after-knockout-round">FC Dallas to Learn Semifinal Opponent after Knockout Round</a>
+</li>
+<li>
+<a target="_blank" href="http://www.fcdallas.com/news/2015/10/match-recap-fc-dallas-2-san-jose-earthquakes-1">Match Recap: FC Dallas 2, San Jose Earthquakes 1</a>
+</li>
+<li>
+<a target="_blank" href="http://www.fcdallas.com/news/2015/10/infographic-1025-fc-dallas-vs-san-jose-earthquakes">Infographic: 10/25 FC Dallas vs San Jose Earthquakes</a>
+</li>
+<li>
+<a target="_blank" href="http://www.fcdallas.com/news/2015/10/know-your-enemy-1025-san-jose-earthquakes">Know Your Enemy: 10/25 San Jose Earthquakes</a>
+</li>
+<li>
+<a target="_blank" href="http://www.fcdallas.com/news/2015/10/fc-dallas-excited-settle-supporters-shield-race-great-moment-decision-day">FC Dallas excited to settle Supporters' Shield race on "great moment" of Decision Day</a>
+</li>
+<li>
+<a target="_blank" href="http://www.fcdallas.com/news/2015/10/high-five-argument-against-mls-dies-relegation-lite-cyle-larin-sir-alex-ferguson-and-mo">The High Five: An argument against MLS dies, “relegation lite,” Cyle Larin, Sir Alex Ferguson and more</a>
+</li>
+<li>
+<a target="_blank" href="http://www.fcdallas.com/news/2015/10/rails-country-music-fest-announces-line-featuring-blake-shelton-eric-church-sam-hunt-ch">Off The Rails Country Music Fest announces line-up featuring Blake Shelton, Eric Church, Sam Hunt, Chris Young and more!</a>
+</li>
+<li>
+<a target="_blank" href="http://www.fcdallas.com/news/2015/10/fc-dallas-clinches-west-ccl-and-franchise-record-vs-rsl">FC Dallas Clinches West, CCL and Franchise Record vs. RSL<img style="padding-left:4px;" src="images/marker_2.gif" alt="" /></a>
+</li>
+<li>
+<a target="_blank" href="http://www.fcdallas.com/news/2015/10/match-recap-fc-dallas-1-real-salt-lake-0">Match Recap: FC Dallas 1, Real Salt Lake 0</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="news">
+<div class="header">
+<h3>Follow sportofusa.com !</h3>
+</div>
+<div class="content">
+<div class="fb-like-box" data-href="https://www.facebook.com/sportofusa" data-width="336" data-show-faces="true" data-stream="false" data-show-border="false" data-header="true"></div><br/><br/><a style="padding-left:4px;" href="https://twitter.com/sportofusa" class="twitter-follow-button" data-show-count="false">Follow @sportofusa</a>
+<script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+<br/><br/><p style="padding-left:4px;"><b>Press Ctrl+D to add sportofusa.com to favorites</b></p>
+<br/><br/><p style="padding-left:4px;"><g:plus href="https://plus.google.com/116943386362191727748" rel="publisher" width="300" height="131" theme="light"></g:plus>
+</div>
+</div>
+</div><div class="column"><div class="news">
+<div class="header">
+<h3>Advertisement</h3>
+</div>
+<div class="content">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Adaptív -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4788313475942707"
+     data-ad-slot="3221556196"
+     data-ad-format="rectangle"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+<div class="news">
+<div class="header">
+<h3>LA Galaxy</h3>
+</div>
+<div class="content">
+<ul class="hirlist"><li>
+<a target="_blank" href="http://www.lagalaxy.com/news/2015/06/us-womens-national-team-advance-world-cup-final-2-0-win-over-germany">U.S. Women’s National Team advance to World Cup final with a 2-0 win over Germany</a>
+</li>
+<li>
+<a target="_blank" href="http://www.lagalaxy.com/news/2015/06/la-galaxy-ii-face-against-okc-energy-fc-july-5-weekly-schedule">LA Galaxy II face off against OKC Energy FC on July 5 | Weekly Schedule</a>
+</li>
+<li>
+<a target="_blank" href="http://www.lagalaxy.com/news/2015/06/la-galaxy-unveil-commemorative-match-poster-toronto-fc-match">LA Galaxy unveil commemorative match poster for Toronto FC match</a>
+</li>
+<li>
+<a target="_blank" href="http://www.lagalaxy.com/news/2015/06/photo-gallery-la-galaxy-train-ahead-san-jose-earthquakes-match-0">Photo Gallery: LA Galaxy train ahead of San Jose Earthquakes match</a>
+</li>
+<li>
+<a target="_blank" href="http://www.lagalaxy.com/news/2015/06/match-preview-la-galaxy-looking-revenge-against-san-jose-earthquakes-us-open-cup">Match Preview: LA Galaxy looking for revenge against San Jose Earthquakes in U.S. Open Cup</a>
+</li>
+<li>
+<a target="_blank" href="http://www.lagalaxy.com/news/2015/06/la-galaxy-schedule-set-2015-16-concacaf-champions-league-group-stage">LA Galaxy schedule set for 2015-16 CONCACAF Champions League group stage</a>
+</li>
+<li>
+<a target="_blank" href="http://www.lagalaxy.com/news/2015/06/la-galaxy-face-san-jose-us-open-cup-hosting-july-4-against-toronto-fc-weekly-schedule">LA Galaxy face San Jose in U.S. Open Cup before hosting July 4 against Toronto FC | Weekly Schedule</a>
+</li>
+<li>
+<a target="_blank" href="http://www.lagalaxy.com/news/2015/06/la-galaxy-introduce-steven-gerrard-saturday-during-toronto-fc-match-0">LA Galaxy to introduce Steven Gerrard Saturday during Toronto FC match<img style="padding-left:4px;" src="images/marker_2.gif" alt="" /></a>
+</li>
+<li>
+<a target="_blank" href="http://www.lagalaxy.com/news/2015/06/la-galaxy-introduce-steven-gerrard-saturday-during-toronto-fc-match">LA Galaxy to introduce Steven Gerrard Saturday during Toronto FC match</a>
+</li>
+<li>
+<a target="_blank" href="http://www.lagalaxy.com/news/2015/06/quote-sheet-la-galaxy-lose-san-jose-earthquakes-road-3-1">Quote Sheet: LA Galaxy lose to San Jose Earthquakes on the road, 3-1</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="news">
+<div class="header">
+<h3>twitter.com</h3>
+</div>
+<div class="content">
+<ul class="picturelist"><li>
+<a target="_blank" href="https://twitter.com/Ashlyn_Harris/status/700052650591678465"><img align="left" class="picturebox" src="http://pbs.twimg.com/profile_images/621083847355052032/ThPCPJ4M_normal.jpg " alt="????? #Queen https://t.co/QUL820ONra @Ashlyn Harris" />????? #Queen https://t.co/QUL820ONra @Ashlyn Harris<img style="padding-left:4px;" src="images/marker_2.gif" alt="" /></a>
+</li>
+<li>
+<a target="_blank" href="https://twitter.com/sydneyleroux/status/700140164497039360"><img align="left" class="picturebox" src="http://pbs.twimg.com/profile_images/696523777153236992/EPkVKi_-_normal.jpg " alt="Pregnancy feels like a never ending hangover. @Sydney Leroux Dwyer" />Pregnancy feels like a never ending hangover. @Sydney Leroux Dwyer</a>
+</li>
+<li>
+<a target="_blank" href="https://twitter.com/Ashlyn_Harris/status/700158547573735424"><img align="left" class="picturebox" src="http://pbs.twimg.com/media/Cbd2fUNWIAAG2rh.jpg:thumb " alt="Just sayin... https://t.co/e2JfRUGmKH https://t.co/Gb9WvLHXcO @Ashlyn Harris" />Just sayin... https://t.co/e2JfRUGmKH https://t.co/Gb9WvLHXcO @Ashlyn Harris</a>
+</li>
+<li>
+<a target="_blank" href="https://twitter.com/Ashlyn_Harris/status/700148091610144768"><img align="left" class="picturebox" src="http://pbs.twimg.com/media/Cbds-s5WIAAApD5.jpg:thumb " alt="???????????? https://t.co/CAwhTHw5BP https://t.co/ElZTU9CgxU @Ashlyn Harris" />???????????? https://t.co/CAwhTHw5BP https://t.co/ElZTU9CgxU @Ashlyn Harris</a>
+</li>
+<li>
+<a target="_blank" href="https://twitter.com/kohara19/status/700052444328304640"><img align="left" class="picturebox" src="http://pbs.twimg.com/profile_images/609420085996814336/j9zFKdDr_normal.jpg " alt="Who's going to be there?! ???? https://t.co/XlbRre3Qgm @Kelley O'Hara" />Who's going to be there?! ???? https://t.co/XlbRre3Qgm @Kelley O'Hara</a>
+</li>
+<li>
+<a target="_blank" href="https://twitter.com/sydneyleroux/status/700092417391767552"><img align="left" class="picturebox" src="http://pbs.twimg.com/ext_tw_video_thumb/700092321426051072/pu/img/LDDd3p-NNbgPiQRS.jpg:thumb " alt="Excited to see Race in theaters Friday. Against the odds &amp; hate, Jesse Owens changed the world. #RACEmovie https://t.co/zsZHNfEFiB @Sydney Leroux Dwyer" />Excited to see Race in theaters Friday. Against the odds &amp; hate, Jesse Owens changed the world. #RACEmovie https://t.co/zsZHNfEFiB @Sydney Leroux Dwyer</a>
+</li>
+<li>
+<a target="_blank" href="https://twitter.com/sydneyleroux/status/700006679027388416"><img align="left" class="picturebox" src="http://pbs.twimg.com/profile_images/696523777153236992/EPkVKi_-_normal.jpg " alt="Playing catch up! Can someone tell me why OJ didn't want to bring on Johnny Cochran? @Sydney Leroux Dwyer" />Playing catch up! Can someone tell me why OJ didn't want to bring on Johnny Cochran? @Sydney Leroux Dwyer</a>
+</li>
+<li>
+<a target="_blank" href="https://twitter.com/Tim_Cahill/status/699905768921825281"><img align="left" class="picturebox" src="http://pbs.twimg.com/profile_images/655601540435193856/JcSZOGsl_normal.jpg " alt="Thanks for the love. I love this video @TC4Academy ?????????? https://t.co/J6QKoUCN9v @TIM CAHILL" />Thanks for the love. I love this video @TC4Academy ?????????? https://t.co/J6QKoUCN9v @TIM CAHILL</a>
+</li>
+<li>
+<a target="_blank" href="https://twitter.com/Tim_Cahill/status/699952548329840640"><img align="left" class="picturebox" src="http://pbs.twimg.com/profile_images/655601540435193856/JcSZOGsl_normal.jpg " alt="Very loyal fans ???????????? https://t.co/3ZdUfBx8KZ @TIM CAHILL" />Very loyal fans ???????????? https://t.co/3ZdUfBx8KZ @TIM CAHILL</a>
+</li>
+<li>
+<a target="_blank" href="https://twitter.com/Tim_Cahill/status/700139187136106496"><img align="left" class="picturebox" src="http://pbs.twimg.com/ext_tw_video_thumb/700138926099419136/pu/img/acCv9uH-yzr9g8kv.jpg:thumb " alt="My international debut for @CAHILLplus @nyfw #NewYorkFashionWeek ???????? always pushing new levels on and off the park https://t.co/q678cwNGG0 @TIM CAHILL" />My international debut for @CAHILLplus @nyfw #NewYorkFashionWeek ???????? always pushing new levels on and off the park https://t.co/q678cwNGG0 @TIM CAHILL</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="news">
+<div class="header">
+<h3>Top soccer news from the last seven days</h3>
+</div>
+<div class="content">
+<ul class="hirlist"><li>
+<a target="_blank" href="http://www.goal.com/en-us/news/85/england/2016/02/12/20271802/steven-gerrard-i-wish-i-could-play-for-liverpool-for-100">Steven Gerrard: I wish I could play for Liverpool for 100 years<img style="padding-left:4px;" src="images/marker_2.gif" alt="" /></a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/13/ex-seattle-sounder-deandre-yedlin-stars-sunderlands-shock-win-vs-manchester-united">Ex-Seattle Sounder DeAndre Yedlin stars in Sunderland's shock win vs. Manchester United</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/13/watch-vancouver-whitecaps-owner-steve-nash-bring-soccer-nba-slam-dunk-contest">Watch Vancouver Whitecaps owner Steve Nash bring soccer to the NBA Slam Dunk contest | SIDELINE</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/11/english-premier-league-giants-arsenal-play-2016-att-mls-all-star-game-san-jose">English Premier League giants Arsenal to play in 2016 AT&T MLS All-Star Game in San Jose</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/seattle-sounders-fc-reveal-sneak-peek-their-two-new-kits-2016">Seattle Sounders FC reveal a sneak peek at their two new kits for 2016</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/11/new-england-revolution-release-new-primary-jersey-2016">New England Revolution release new primary jersey for 2016</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/11/history-english-premier-league-clubs-att-mls-all-star-game">AT&T MLS All-Star Game History: English Premier League opponents</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/17/nigel-de-jong-thrilled-fulfill-american-dream-mlss-biggest-club-la-galaxy">Nigel de Jong thrilled to fulfill American dream with MLS's "biggest club" LA Galaxy</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/12/graham-zusi-surprises-terminally-ill-sporting-kc-fan">Graham Zusi surprises terminally ill Sporting KC fan</a>
+</li>
+<li>
+<a target="_blank" href="http://www.mlssoccer.com/post/2016/02/11/10-things-about-kak-star-discusses-building-legacy-and-good-fans-orlando">10 Things about Kaká: Star discusses building a legacy and good fans in Orlando</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="news">
+<div class="header">
+<h3>Portland Timbers</h3>
+</div>
+<div class="content">
+<ul class="hirlist"><li>
+<a target="_blank" href="http://www.timbers.com/news/2015/07/quick-strikes-simple-portland-timbers-vs-philadelphia-union-july-11-2015">Quick Strikes by Simple | Portland Timbers vs. Philadelphia Union - July 11, 2015</a>
+</li>
+<li>
+<a target="_blank" href="http://www.timbers.com/t2/2015/07/fatawu-safiu-named-usls-team-week">Fatawu Safiu named to USL's Team of the Week</a>
+</li>
+<li>
+<a target="_blank" href="http://www.timbers.com/thornsfc/2015/07/thorns-fc-midfielder-sinead-farrelly-named-nwsl-player-week">Thorns FC midfielder Sinead Farrelly named NWSL Player of the Week</a>
+</li>
+<li>
+<a target="_blank" href="http://www.timbers.com/t2/2015/07/notebook-winchester-soca-warriors-set-concacaf-gold-cup">Notebook: Winchester, Soca Warriors set for CONCACAF Gold Cup</a>
+</li>
+<li>
+<a target="_blank" href="http://www.timbers.com/news/2015/07/gold-cup-will-johnson-picks-portland-timbers-over-canmnt-now-citing-injury-travel-deman">Gold Cup: Will Johnson picks Portland Timbers over CanMNT for now, citing injury, travel demands<img style="padding-left:4px;" src="images/marker_2.gif" alt="" /></a>
+</li>
+<li>
+<a target="_blank" href="http://www.timbers.com/thornsfc/2015/07/thorns-fc-fan-winners-take-sights-sounds-2015-fifa-womens-world-cup-vancouver">Thorns FC fan winners take in sights, sounds of 2015 FIFA Women's World Cup in Vancouver</a>
+</li>
+<li>
+<a target="_blank" href="http://www.timbers.com/news/2015/07/quotes-notes-portland-timbers-1-san-jose-earthquakes-july-5-2015">Quotes & Notes | Portland Timbers 1, San Jose Earthquakes | July 5, 2015</a>
+</li>
+<li>
+<a target="_blank" href="http://www.timbers.com/news/2015/07/old-salty-dog-jack-jewsbury-comes-late-magic-portland-timbers-win">"Old Salty Dog" Jack Jewsbury comes up with late magic for Portland Timbers in win</a>
+</li>
+<li>
+<a target="_blank" href="http://www.timbers.com/news/2015/07/porvsj-rctid-portland-timbers-slam-san-jose-earthquakes-death">#PORvSJ on #RCTID: Portland Timbers slam San Jose Earthquakes at the death</a>
+</li>
+<li>
+<a target="_blank" href="http://www.timbers.com/news/2015/07/statman-three-portland-timbers-1-san-jose-earthquakes-0-july-5-2015">The #StatMan Three | Portland Timbers 1, San Jose Earthquakes 0 | July 5, 2015</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="news">
+<div class="header">
+<h3>New York Red Bulls</h3>
+</div>
+<div class="content">
+<ul class="hirlist"><li>
+<a target="_blank" href="http://www.newyorkredbulls.com/news/2015/06/giase-no-pity-new-york-red-bulls-remain-upbeat-heading-houston">GIASE: No Pity in New York as Red Bulls remain upbeat heading into Houston<img style="padding-left:4px;" src="images/marker_2.gif" alt="" /></a>
+</li>
+<li>
+<a target="_blank" href="http://www.newyorkredbulls.com/news/2015/06/ouimette-lawrence-miller-called-national-team-camps-summer-matches">Ouimette, Lawrence, Miller called into national team camps for summer matches</a>
+</li>
+<li>
+<a target="_blank" href="http://www.newyorkredbulls.com/news/2015/06/vote-robles-stop-vs-sounders-nominated-mls-save-week">VOTE! Robles' stop vs. Sounders nominated for MLS Save of the Week</a>
+</li>
+<li>
+<a target="_blank" href="http://www.newyorkredbulls.com/news/2015/06/dax-mccarty-named-mls-team-week">Dax McCarty named to MLS Team of the Week</a>
+</li>
+<li>
+<a target="_blank" href="http://www.newyorkredbulls.com/news/2015/06/giase-sounders-hand-red-bulls-gut-wrenching-loss-seattle">GIASE: Sounders hand Red Bulls "gut-wrenching" loss in Seattle</a>
+</li>
+<li>
+<a target="_blank" href="http://www.newyorkredbulls.com/news/2015/06/quote-sheet-marsch-robles-and-kljestan-discuss-rbnys-2-1-loss-seattle-sounders">QUOTE SHEET: Marsch, Robles, and Kljestan discuss RBNY's 2-1 loss to Seattle Sounders</a>
+</li>
+<li>
+<a target="_blank" href="http://www.newyorkredbulls.com/news/2015/06/new-york-red-bulls-stung-seattle-sounders-late-winner-its-really-tough-one-swallow">New York Red Bulls stung by Seattle Sounders' late winner: "It’s a really tough one to swallow"</a>
+</li>
+<li>
+<a target="_blank" href="http://www.newyorkredbulls.com/news/2015/05/match-recap-seattle-sounders-2-new-york-red-bulls-i">MATCH RECAP: Seattle Sounders 2, New York Red Bulls I</a>
+</li>
+<li>
+<a target="_blank" href="http://www.newyorkredbulls.com/news/2015/05/highlights-clips-rbnys-2-1-loss-seattle-sounders">HIGHLIGHTS: Clips from RBNY's 2-1 loss to Seattle Sounders</a>
+</li>
+<li>
+<a target="_blank" href="http://www.newyorkredbulls.com/news/2015/05/goal-lloyd-sam-follows-deflection-and-head-ball">GOAL: Lloyd Sam follows up on a deflection and head a ball in</a>
+</li>
+</ul>
+</div>
+</div>
+</div><div style="clear:both;"></div>
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="wrapper line1">
+							<!-- footer -->
+						</div>
+					</section>
+<!-- / content -->
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="body5">
+	<div class="body6">
+		<div class="main">
+<!-- footer -->
+			<footer>
+				<!-- footerlink -->	
+			<a href="#">Top of page</a>
+							<ul id="navlist">
+								<li><a href="index.html">Sport news</a></li>
+								<li><a href="nfl-news.html">Football</a></li>
+								<li><a href="mlb-news.html">Baseball</a></li>
+								<li><a href="nba-news.html">Basketball</a></li>
+								<li><a href="nhl-news.html">Hockey</a></li>
+								<li id="menu_active"><a href="mls-news.html">Soccer</a></li>
+								<li><a href="mll-news.html">Lacrosse</a></li>
+								<li><a href="nascar-news.html">Nascar</a></li>
+							</ul>
+			<br/>
+			<a href="Contacts.html">Contacts</a>
+			</footer>
+<!-- / footer -->
+		</div>
+	</div>
+</div>
+<script type = "text/javascript">
+ (function($) {
+$(function() {
+$('a[href^="http"]:not([href*="' + document.domain + '"])').click(function(e) {
+// When a user clicks an external link
+if ($(this).attr('target') !== '_blank') {
+e.preventDefault();
+// If the link is not set to target='_blank'
+// set a 300ms delay before loading this page
+// which allows Google Analytics to register the event
+(function(a) {
+setTimeout(function() {
+document.location = a.attr('href');
+},300)
+})($(this));
+}
+// Track URL and nearest element with an ID
+// and send to Google Analytics
+window.pageTracker ? pageTracker._trackEvent('Outbound', $(this).attr('href'), "#" + $(this).closest('[id!=""]').attr('id')) : _gaq.push(['_trackEvent', 'Outbound', $(this).attr('href'), "#" + $(this).closest('[id!=""]').attr('id')]);
+});
+})
+})(jQuery)
+</script>
+</body>
+</html>

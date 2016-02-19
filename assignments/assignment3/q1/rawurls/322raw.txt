@@ -1,0 +1,1214 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/Article" lang="ru" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
+<head>
+<meta charset="utf-8">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"3be125338d","applicationID":"2879747","transactionName":"cldYERBeX10ERxpXQEVRVQkHQhxCCVpC","queueTime":0,"applicationTime":149,"agentToken":null,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAEPVFNaGwEIU1hVAwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function s(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);return i}function c(t,e){d[t]=f(t).concat(e)}function f(t){return d[t]||[]}function u(){return r(s)}var d={};return{on:c,emit:s,create:u,listeners:f,context:e,_events:d}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:21,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),a.xhrWrappable&&t(2),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:22,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").create(),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:23,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:23,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:23,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,l,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-",o)}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:23,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=this.lastSize||n(t);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t){var e=t.responseType,n="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return r(n)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=0,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:12,4:8,5:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:21,2:22,handle:"D5DuLP"}],12:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var h=0},{1:21,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],21:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],22:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],23:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:22,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<meta content="width=device-width" name="viewport">
+<title>Минфин РФ прокомментировал возможность ослабления рубля. Ридус</title>
+<meta content="Ранее СМИ сообщили о  подготовке правительства к девальвации рубля." name="description"></meta><meta content="девальвация, Минфин РФ, курс рубля" name="keywords"></meta><meta content="Ридус" name="author"></meta><link href="http://www.ridus.ru/images/2016/2/10/363504/og_acc5ae4fbf.jpg" rel="image_src"></link><meta content="361857140627146" property="fb:app_id"></meta><meta content="Минфин РФ прокомментировал возможность ослабления рубля" property="og:title"></meta><meta content="Ранее СМИ сообщили о  подготовке правительства к девальвации рубля." property="og:description"></meta><meta content="article" property="og:type"></meta><meta content="ru_ru" property="og:locale"></meta><meta content="2016-02-18T01:05:04+03:00" property="og:updated_time"></meta><meta content="http://www.ridus.ru/news/212266.html" property="og:url"></meta><meta content="Ридус" property="og:site_name"></meta><meta content="http://www.ridus.ru/images/2016/2/10/363504/og_acc5ae4fbf.jpg" property="og:image"></meta><meta content="Минфин РФ прокомментировал возможность ослабления рубля" itemprop="name"></meta><meta content="Ранее СМИ сообщили о  подготовке правительства к девальвации рубля." itemprop="description"></meta><meta content="http://www.ridus.ru/images/2016/2/10/363504/og_acc5ae4fbf.jpg" itemprop="image"></meta><meta content="summary" name="twitter:card"></meta><meta content="@RidusNews" name="twitter:site"></meta><meta content="@RidusNews" name="twitter:creator"></meta><meta content="Минфин РФ прокомментировал возможность ослабления рубля" name="twitter:title"></meta><meta content="Ранее СМИ сообщили о  подготовке правительства к девальвации рубля." name="twitter:description"></meta><meta content="http://www.ridus.ru/images/2016/2/10/363504/og_acc5ae4fbf.jpg" name="twitter:image"></meta>
+
+<link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link data-turbolinks-track="true" href="/assets/application-a2e0b6474c2cd4c9ba01618c9c935d71.css" media="all" rel="stylesheet" />
+<!--[if lt IE 9]>
+<script src="/assets/html5-40150a983e8d664c87dedfadbf1378cf.js"></script>
+<![endif]-->
+<script src="/assets/application-f1f35b331638f2da7ecc8605ad2964c5.js"></script>
+<script src="/assets/application_header-b1f55f0d3628a543e557047b4341965e.js"></script>
+<link href="https://ridus.ru/rss/home" rel="alternate" title="RSS" type="application/rss+xml" />
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="slur2RaUk9PX9NuR/EjQ6emWGzTLzdncBpvDNLSNJ74=" name="csrf-token" />
+<meta content="431cae53b4c66aa0" name="yandex-verification"></meta>
+</head>
+<body>
+<script>
+  (function() {
+    if ('Экономика'.length > 0) {
+      ga('set', 'contentGrouptranslation missing: ru.article_analytics.short', 'Экономика');
+    }
+  
+    ga('send', 'pageview');
+  
+  }).call(this);
+</script>
+<img alt="" src="//wunderdaten.com/counter/image/wkckegbrorwzd.png" style="position:absolute; left:-9999px;">
+<div id="fb-root"></div>
+<header>
+<div class="headerPanel">
+<div class="headerPanelCont">
+<nav class="menu">
+<ul>
+<li class="menuItem main_logo">
+<a href="http://www.ridus.ru/" title="На главную"><img alt="Logo header" height="50" src="/assets/logo_header-a493ba57f6fa18725b9949fe14d4b85f.png" width="140" />
+</a></li>
+<li class="menuItem">
+<a class="menuItemLink" href="/rubrics/politika">Политика</a>
+</li>
+<li class="menuItem">
+<a class="menuItemLink" href="/rubrics/voennoe-delo">Военное дело</a>
+</li>
+<li class="menuItem">
+<a class="menuItemLink" href="/rubrics/rassledovaniya">Расследования</a>
+</li>
+<li class="menuItem">
+<a class="menuItemLink" href="/rubrics/proisshestviya">Происшествия</a>
+</li>
+<li class="menuItem">
+<a class="menuItemLink" href="/rubrics/znamenitosti">Знаменитости</a>
+</li>
+<li class="menuItem">
+<a class="menuItemLink menuItemLinkMore" href="javascript:void(0)">
+Еще
+<i class="pointer">
+<!-- pointer -->
+</i>
+</a>
+</li>
+</ul>
+</nav>
+<div class="entrance">
+<a class="entrLink" href="javascript:void(0)">Войти</a>
+<div class="entrancePopup">
+<div class="entrancePopupCont">
+<i class="icon">
+<!-- icon -->
+</i>
+<div class="entrSoc">
+<div class="title">Войти через социальные сети</div>
+<ul class="socList">
+<li>
+<a class="native-popup" data-height="400" data-width="600" href="/users/auth/facebook"><i class="icon1">
+<!-- icon -->
+</i>Facebook
+</a></li>
+<li>
+<a class="native-popup" data-height="400" data-width="600" href="/users/auth/vkontakte"><i class="icon2">
+<!-- icon -->
+</i>vKontakte
+</a></li>
+<li>
+<a class="native-popup" data-height="400" data-width="600" href="/users/auth/google_oauth2"><i class="icon3">
+<!-- icon -->
+</i>Google+
+</a></li>
+<li>
+<a class="native-popup" data-height="400" data-width="600" href="/users/auth/twitter"><i class="icon4">
+<!-- icon -->
+</i>Twitter
+</a></li>
+</ul>
+</div>
+<div class="entrUser">
+<div class="title">Войти как пользователь «Ридус»</div>
+<p>
+У вас еще нет логина?
+<a href="/users/sign_up">Зарегистрируйтесь</a>!
+<br>
+Забыли пароль?
+<a href="/users/password/new">Восстановить</a>
+</p>
+<form accept-charset="UTF-8" action="/users/sign_in" class="new_user" data-remote="true" id="user_header_login_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div><input class="inp inpLogin" id="user_email" name="user[email]" placeholder="Ваш e-mail" type="email" value="" />
+<input class="inp inpPass" id="user_password" name="user[password]" placeholder="Пароль" type="password" />
+<div class="entrUserBtns">
+<div class="remember">
+<input name="user[remember_me]" type="hidden" value="0" /><input checked="checked" class="styled" id="rememb" name="user[remember_me]" type="checkbox" value="1" />
+<label for="rememb">Запомнить меня</label>
+</div>
+<input class="entrBtn" id="user_header_login_form_submit" name="commit" type="submit" value="Войти в систему" />
+</div>
+</form>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="search">
+<form accept-charset="UTF-8" action="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+<input class="sText" id="query" name="query" placeholder="Найти" type="text" />
+<i class="sBtn"></i>
+<input class="bSearchFormBtn" onclick="$(this).closest('form').submit()" type="button" value="Поиск">
+</form>
+
+</div>
+</div>
+
+</div>
+<div class="headerMenu">
+<div class="headerMenuCont">
+<div class="headerMenuContIn">
+<ul>
+<li>
+<a href="/rubrics/avto">Авто</a>
+</li>
+<li>
+<a href="/rubrics/art-ridus">Арт-ридус</a>
+</li>
+<li>
+<a href="/rubrics/video">Видео</a>
+</li>
+<li>
+<a href="/rubrics/gorod">Город</a>
+</li>
+<li>
+<a href="/rubrics/eda">Еда</a>
+</li>
+<li>
+<a href="/rubrics/zhivotnye">Животные</a>
+</li>
+<li>
+<a href="/rubrics/zdorovie">Здоровье</a>
+</li>
+<li>
+<a href="/rubrics/internet">Интернет</a>
+</li>
+</ul>
+<ul>
+<li>
+<a href="/rubrics/istoriya">История</a>
+</li>
+<li>
+<a href="/rubrics/kino">Кино</a>
+</li>
+<li>
+<a href="/rubrics/kompyuternye-igry">Компьютерные игры</a>
+</li>
+<li>
+<a href="/rubrics/kosmos">Космос</a>
+</li>
+<li>
+<a href="/rubrics/kultura-i-iskusstvo">Культура</a>
+</li>
+<li>
+<a href="/rubrics/literatura">Литература</a>
+</li>
+<li>
+<a href="/rubrics/muzridus">Музыка</a>
+</li>
+<li>
+<a href="/rubrics/nauka-i-tehnika">Наука и техника</a>
+</li>
+</ul>
+<ul>
+<li>
+<a href="/rubrics/nedvizhimost">Недвижимость</a>
+</li>
+<li>
+<a href="/rubrics/obrazovanie">Образование</a>
+</li>
+<li>
+<a href="/rubrics/obshestvo">Общество</a>
+</li>
+<li>
+<a href="/rubrics/pravo">Право</a>
+</li>
+<li>
+<a href="/rubrics/strany-i-puteshestviya">Путешествия</a>
+</li>
+<li>
+<a href="/rubrics/religiya">Религия</a>
+</li>
+<li>
+<a href="/rubrics/smi">СМИ</a>
+</li>
+<li>
+<a href="/rubrics/sovety">Советы</a>
+</li>
+</ul>
+<ul>
+<li>
+<a href="/rubrics/sport">Спорт</a>
+</li>
+<li>
+<a href="/rubrics/stil">Стиль</a>
+</li>
+<li>
+<a href="/rubrics/tehnologii">Технологии</a>
+</li>
+<li>
+<a href="/rubrics/foto">Фото</a>
+</li>
+<li>
+<a href="/rubrics/ekoridus">Экология</a>
+</li>
+<li>
+<a href="/rubrics/ekonomika">Экономика</a>
+</li>
+<li>
+<a href="/rubrics/jumor">Юмор</a>
+</li>
+</ul>
+<div class="clear">
+<!-- clear -->
+</div>
+</div>
+</div>
+<span class="closeMenu">
+Свернуть меню
+<i class="icon">
+<!-- icon -->
+</i>
+</span>
+
+</div>
+<div class="headerCont">
+<div id="div-gpt-ad-1444080808535-0" style="width:1020px;"></div>
+
+<div class="headerInfo">
+<div class="headerInfoTop">
+<div class="clear"></div>
+</div>
+<!-- clear -->
+<div class="headerInfoBott">
+<div class="dayInfo">
+<div class="b-today">
+<div class="b-date">
+четверг
+<div class="b-rate_value">18 февраля</div>
+</div>
+<div class="b-rate_eur" title="Курс ММВБ на 02/17 23:38">
+<a>
+EUR
+<sup>-3.07</sup>
+<div class="b-rate_value">83.67</div>
+</a>
+</div>
+<div class="b-rate_usd" title="Курс ММВБ на 02/17 23:38">
+<a>
+USD
+<sup>-2.85</sup>
+<div class="b-rate_value">75.05</div>
+</a>
+</div>
+<div class="b-rate_brent" title="Цена на 02/18 09:15">
+<a>
+Нефть
+<sup>+0.73</sup>
+<div class="b-rate_value">35.01</div>
+</a>
+</div>
+</div>
+</div>
+
+<div class="addNews">
+<div class="b-header_socials">
+<div class="post-likes">
+<div class="item">
+<a class="vk js-vk" href="//vk.com/public29992264" rel="noindex" target="_blank">
+<i></i>
+</a>
+<span id="header_vk_count">0</span>
+</div>
+<div class="item">
+<a class="tw js-tw" href="//twitter.com/RidusNews" rel="noindex" target="_blank">
+<i></i>
+</a>
+<span id="header_tw_count">0</span>
+</div>
+<div class="item">
+<a class="fb js-fb" href="//facebook.com/ridus.ru" rel="noindex" target="_blank">
+<i></i>
+</a>
+<span id="header_fb_count">0</span>
+</div>
+<div class="item">
+<a class="ok js-ok" href="//ok.ru/ridusnews/" rel="noindex" target="_blank">
+<i></i>
+</a>
+</div>
+</div>
+</div>
+<a class="addNewsLink" href="/news/new">Предложить новость</a>
+</div>
+<div class="clear">
+<!-- clear -->
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<script>
+  (function() {
+    $(".b-today  sup:contains('-')").addClass('red');
+  
+    $(".b-today  sup:contains('+')").addClass('green');
+  
+  }).call(this);
+</script>
+
+</header>
+<section style="width:1020px;">
+<div class="columns">
+<div class="leftCol">
+<div class="article">
+<div class="articleTitleCont" style="padding: 0;margin-bottom: 0;">
+<div class="articleInfo">
+<div class="counters">
+<div class="count2">
+<span class="article_comments_count">
+6
+</span>
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+<div class="count3">
+1091
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+</div>
+<div class="articleCategory">
+<a href="/rubrics/ekonomika">Экономика</a>
+</div>
+<div class="clear">
+<!-- clear -->
+</div>
+</div>
+<div class="articleTitle">
+<h1>Минфин РФ прокомментировал возможность ослабления рубля</h1>
+</div>
+<div class="info">
+<span>10 февраля, 20:59</span>
+|
+<a href="/users/154982">Ксения Павлова</a>
+<div class="clear">
+<!-- clear -->
+</div>
+</div>
+</div>
+<div class="articleInfoText"><div class="articlePhoto"><a class="fbLink" data-fancybox-type="iframe" href="/images/2016/2/10/363083/large_9248524ad4.jpg" title="© Роман Галкин/РИА Новости"><img alt="In article 9248524ad4" src="/images/2016/2/10/363083/in_article_9248524ad4.jpg" /></a><div class="articlePhotoInfo">
+<div class="articlePhotoAuthor">
+© Роман Галкин/РИА Новости</div>
+</div></div>
+</div>
+
+
+<p>Министерство финансов России не обсуждает и не допускает возможности целенаправленного ослабления курса рубля, передает <a href="http://ria.ru/kurs_forecast/20160210/1372607086.html" target="_blank" rel="noindex, nofollow">РИА Новости</a>.</p>
+<p>Ранее СМИ сообщили  о подготовке правительства России к девальвации рубля.</p>
+
+
+
+<div class="scrollDepthSkip">
+
+
+<div class="buzzplayer-stage" data-expandable="true" data-hash="XKYmYyY14N0uRxfFufNXA6uDXXbzbYZsaMW25aD6nFc" data-target="div.article:p" data-width="500">
+<script>
+  (function(w, d) {
+    var c = d.createElement("script");
+    c.src = "//tube.buzzoola.com/new/build/buzzlibrary.js";
+    c.type = "text/javascript";
+    c.async = !0;
+    var f = function() {
+      var p = d.getElementsByTagName("script")[0];
+      p.parentNode.insertBefore(c, p);
+    };
+    "[object Opera]" == w.opera ? d.addEventListener("DOMContentLoaded", f, !1) : f();
+  })(window, document);
+</script>
+</div>
+<span class="orphus">Нашли опечатку? Выделите её мышкой и нажмите: Ctrl+Enter</span>
+<div class="articleBott" style="padding:0;">
+<div class="likes">
+<div class="articleLikesCounter likesCounter likesCounterPlus">
+<i class="icon">
+<!-- icon -->
+</i>
+<div>
+1
+</div>
+</div>
+<div class="likesBtns articlelikesBtns">
+<a class="minusBtn" data-method="post" data-remote="true" href="/news/212266/rate?value=-1" rel="nofollow">-</a>
+<a class="plusBtn" data-method="post" data-remote="true" href="/news/212266/rate?value=1" rel="nofollow">+</a>
+</div>
+</div>
+<div class="socials">
+<div class="ya-share2" data-counter="" data-services="vkontakte,facebook,odnoklassniki,moimir,gplus,twitter,pocket,surfingbird,viber,whatsapp"></div>
+</div>
+
+<div class="clear">
+<!-- clear -->
+</div>
+<div class="b-tesaser">
+<div id="unit_84541"></div>
+</div>
+
+<div class="clear"></div>
+<div class="bannerCont" id="yandex_ad_R-129396-28"></div>
+<script>
+  (function() {
+    window.Ridus.Yandex.Banner(28, 'direct', {
+      font_size: 1,
+      type: "horizontal",
+      limit: 2,
+      title_font_size: 2,
+      links_underline: false,
+      site_bg_color: "FFFFFF",
+      title_color: "000000",
+      url_color: "006600",
+      text_color: "000000",
+      hover_color: "0066FF",
+      favicon: true,
+      no_sitelinks: true
+    });
+  
+  }).call(this);
+</script>
+</div>
+<div class="bComments" data-article-id="212266" id="comments">
+<div class="title">
+<h2>Комментарии (<span class='article_comments_count'>6</span>)</h2>
+</div>
+<div class="bAddFormLogin" style="margin-bottom:0px;">
+<div class="title">
+Для комментирования новости
+<a href="/users/sign_in?return_to=%2Fnews%2F212266%3Futm_source%3Ddlvr.it%26utm_medium%3Dtwitter">авторизуйтесь</a>
+<br>
+или войдите через социальные сети:
+</div>
+<ul class="socList">
+<li>
+<a class="native-popup" data-height="400" data-width="600" href="/users/auth/facebook"><i class="icon1">
+<!-- icon -->
+</i>Facebook
+</a></li>
+<li>
+<a class="native-popup" data-height="400" data-width="600" href="/users/auth/vkontakte"><i class="icon2">
+<!-- icon -->
+</i>vKontakte
+</a></li>
+<li>
+<a class="native-popup" data-height="400" data-width="600" href="/users/auth/google_oauth2"><i class="icon3">
+<!-- icon -->
+</i>Google+
+</a></li>
+<li>
+<a class="native-popup" data-height="400" data-width="600" href="/users/auth/twitter"><i class="icon4">
+<!-- icon -->
+</i>Twitter
+</a></li>
+</ul>
+
+</div>
+<div class="bCommentsCont">
+<div class="bComment" data-parent-id="1687966" data-state="1" id="comment_1687966">
+<div class="photo">
+<a href="/users/156252"><img alt="Thumb 94be886c3a" src="/images/avatars/156252/thumb_94be886c3a.jpg" />
+</a></div>
+<div class="bCommentText">
+<div class="bCommentAuthor">
+<strong>
+<a href="/users/156252">Просто  Голос</a>
+</strong>
+|
+<a class="comment_link" href="/news/212266#comment_1687966">10 февраля, 21:14</a>
+</div>
+<p>Ну, значит, точно...</p>
+<div class="bCommentBtns">
+<div class="likes">
+<div class="commentLikesCounter likesCounter likesCounterPlus">
+0
+</div>
+<div class="likesBtns commentlikesBtns">
+<a class="minusBtn" href="/comments/1687966/rate?value=-1" rel="nofollow">-</a>
+<a class="plusBtn" href="/comments/1687966/rate?value=1" rel="nofollow">+</a>
+</div>
+</div>
+
+<div class="bCommentReplyBtn">
+<a href="javascript:void(0)">Ответить</a>
+</div>
+<div class="bCommentMore">
+</div>
+<div class="clear">
+<!-- clear -->
+</div>
+</div>
+</div>
+<div class="bCommentReplies" id="comment_1687966_replies" style="">
+
+</div>
+</div>
+<div class="bComment" data-parent-id="1687976" data-state="1" id="comment_1687976">
+<div class="photo">
+<a href="/users/156732"><img alt="Thumb default" src="/fallbacks/avatar/thumb_default.png" />
+</a></div>
+<div class="bCommentText">
+<div class="bCommentAuthor">
+<strong>
+<a href="/users/156732">Иван Пензин</a>
+</strong>
+|
+<a class="comment_link" href="/news/212266#comment_1687976">10 февраля, 22:04</a>
+</div>
+<p>Шаклы и повадки шакальи , делать все из подтишка , предварительно конвертировав свое бабло . Кокда ж мы удавим этих утырков .</p>
+<div class="bCommentBtns">
+<div class="likes">
+<div class="commentLikesCounter likesCounter likesCounterPlus">
+0
+</div>
+<div class="likesBtns commentlikesBtns">
+<a class="minusBtn" href="/comments/1687976/rate?value=-1" rel="nofollow">-</a>
+<a class="plusBtn" href="/comments/1687976/rate?value=1" rel="nofollow">+</a>
+</div>
+</div>
+
+<div class="bCommentReplyBtn">
+<a href="javascript:void(0)">Ответить</a>
+</div>
+<div class="bCommentMore">
+<a data-remote="true" href="/comments/1687976/expand.js" rel="nofollow">Есть ответы (3)</a>
+</div>
+<div class="clear">
+<!-- clear -->
+</div>
+</div>
+</div>
+<div class="bCommentReplies" id="comment_1687976_replies" style="">
+
+</div>
+</div>
+<div class="bComment" data-parent-id="1688075" data-state="1" id="comment_1688075">
+<div class="photo">
+<a href="/users/83145"><img alt="Thumb default" src="/fallbacks/avatar/thumb_default.png" />
+</a></div>
+<div class="bCommentText">
+<div class="bCommentAuthor">
+<strong>
+<a href="/users/83145">Валерий-5876</a>
+</strong>
+|
+<a class="comment_link" href="/news/212266#comment_1688075">11 февраля, 15:36</a>
+</div>
+<p>С таким правительством стране хана.</p>
+<div class="bCommentBtns">
+<div class="likes">
+<div class="commentLikesCounter likesCounter likesCounterMinus">
+-1
+</div>
+<div class="likesBtns commentlikesBtns">
+<a class="minusBtn" href="/comments/1688075/rate?value=-1" rel="nofollow">-</a>
+<a class="plusBtn" href="/comments/1688075/rate?value=1" rel="nofollow">+</a>
+</div>
+</div>
+
+<div class="bCommentReplyBtn">
+<a href="javascript:void(0)">Ответить</a>
+</div>
+<div class="bCommentMore">
+</div>
+<div class="clear">
+<!-- clear -->
+</div>
+</div>
+</div>
+<div class="bCommentReplies" id="comment_1688075_replies" style="">
+
+</div>
+</div>
+
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+<div class="rightCol">
+<div class="banner" id="banner1">
+<!-- R-129396-4 Яндекс.RTB-блок -->
+<div class="bannerCont" id="yandex_ad_R-129396-4"></div>
+<script>
+  (function(w, d, n, s, t) {
+      w[n] = w[n] || [];
+      w[n].push(function() {
+          Ya.Context.AdvManager.render({
+              blockId: "R-129396-4",
+              renderTo: "yandex_ad_R-129396-4",
+              async: true
+          });
+      });
+      t = d.getElementsByTagName("script")[0];
+      s = d.createElement("script");
+      s.type = "text/javascript";
+      s.src = "//an.yandex.ru/system/context.js";
+      s.async = true;
+      t.parentNode.insertBefore(s, t);
+  })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</div>
+
+<div class="banner2">
+<div class="banner2cont">
+<div class="bannerCont" id="yandex_ad_R-129396-5"></div>
+</div>
+<script>
+  (function() {
+    window.Ridus.Yandex.Banner("5", "rtb");
+  
+  }).call(this);
+</script>
+</div>
+
+<div class="banner2">
+<div class="banner2cont">
+<div class="bannerCont">
+<script>
+  google_ad_client = "ca-pub-1154951643410219";
+  /* Conusmedia\ridus.ru\240x400 */
+  google_ad_slot = "1847964638";
+  google_ad_width = 240;
+  google_ad_height = 400;
+  //-->
+</script>
+<script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+<![CDATA[
+]]>
+</script>
+</div>
+</div>
+</div>
+<div class="banner2">
+<div class="banner2cont">
+<div class="bannerCont" id="yandex_ad_R-129396-27"></div>
+</div>
+<script>
+  (function() {
+    window.Ridus.Yandex.Banner("27", "rtb");
+  
+  }).call(this);
+</script>
+</div>
+
+<div class="banner2">
+<div class="banner2cont">
+<div class="bannerCont">
+<div id="lx_574038"></div>
+</div>
+</div>
+</div>
+<div class="banners" style="position:absolute; overflow:hidden; left:750px; height:100%"></div>
+<script>
+  (function() {
+    $(document).ready(function() {
+      window.Ridus.Banners.block_ids = [11, 12, 13, 16, 17, 18, 19, 26];
+      return window.Ridus.Banners.init();
+    });
+  
+  }).call(this);
+</script>
+</div>
+<div class="clear">
+<!-- clear -->
+</div>
+</div>
+<div class="moreArticles scrollDepthSkip">
+<div class="title">
+<h2>Вам может быть интересно</h2>
+</div>
+<ul class="itemsList">
+<li class="itemList">
+<div class="photo">
+<a href="/news/212795"><img alt="Турецкая артиллерия более 100 раз ударила по Алеппо. ВИДЕО" src="/images/2016/2/16/365374/preview_4046869e7b.jpg" />
+</a></div>
+<div class="text">
+<h4>
+<a href="/rubrics/voennoe-delo">Военное дело</a>
+</h4>
+<h2>
+<a href="/news/212795">Турецкая артиллерия более 100 раз ударила по Алеппо. ВИДЕО</a>
+</h2>
+<div class="info">
+<span>
+16 февраля
+</span>
+|
+<a href="/users/134009">Павел Горохов</a>
+</div>
+<div class="infoText">
+Турецкая армия вновь нанесла удары по позициям сирийских курдов.
+</div>
+<div class="counters">
+<div class="count1">
+0
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+<div class="count2">
+0
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+<div class="count3">
+851
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+</div>
+</div>
+</li>
+<li class="itemList">
+<div class="photo">
+<a href="/news/212547"><img alt="В Москве объявлен «желтый» уровень опасности" src="/fallbacks/article_preview/preview_default.png" />
+</a></div>
+<div class="text">
+<h4>
+<a href="/rubrics/gorod">Город</a>
+</h4>
+<h2>
+<a href="/news/212547">В Москве объявлен «желтый» уровень опасности</a>
+</h2>
+<div class="info">
+<span>
+14 февраля
+</span>
+|
+<a href="/users/141783">Ольга Гахокидзе</a>
+</div>
+<div class="infoText">
+В Москве и Московском регионе из-за непогоды синоптики объявили «желтый» уровень опасности.
+</div>
+<div class="counters">
+<div class="count1">
+0
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+<div class="count2">
+0
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+<div class="count3">
+589
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+</div>
+</div>
+</li>
+<li class="itemList">
+<div class="photo">
+<a href="/news/212444"><img alt="Чаплина лишили храма" src="/images/2016/2/12/363738/preview_5f9d7f69df.jpg" />
+</a></div>
+<div class="text">
+<h4>
+<a href="/rubrics/religiya">Религия</a>
+</h4>
+<h2>
+<a href="/news/212444">Чаплина лишили храма</a>
+</h2>
+<div class="info">
+<span>
+12 февраля
+</span>
+|
+<a href="/users/156300">Вика Шумакова</a>
+</div>
+<div class="infoText">
+Вместо храма Святителя Николая на Трех горах, настоятелем которого он являлся, Чаплин будет служить в храме Феодора Студита у Никитских ворот.
+</div>
+<div class="counters">
+<div class="count1">
+0
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+<div class="count2">
+0
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+<div class="count3">
+915
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+</div>
+</div>
+</li>
+<li class="itemList">
+<div class="photo">
+<a href="/news/212855"><img alt="Роскомнадзор объяснил, чем ДАИШ лучше ИГИЛ" src="/images/2016/2/17/365619/preview_25851be867.jpg" />
+</a></div>
+<div class="text">
+<h4>
+<a href="/rubrics/internet">Интернет</a>
+</h4>
+<h2>
+<a href="/news/212855">Роскомнадзор объяснил, чем ДАИШ лучше ИГИЛ</a>
+</h2>
+<div class="info">
+<span>
+вчера
+</span>
+|
+<a href="/users/130015">Вадим Ковалев</a>
+</div>
+<div class="infoText">
+Над созданием бренда ИГ работали профессионалы, поэтому российские СМИ должны оказывать террористам лингвистическое противостояние, считает глава Роскомнадзора Александр Жаров.
+</div>
+<div class="counters">
+<div class="count1">
+0
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+<div class="count2">
+8
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+<div class="count3">
+721
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+</div>
+</div>
+</li>
+<li class="itemList">
+<div class="photo">
+<a href="/news/212699"><img alt="«Газпром» обвинил «Нафтогаз» в «оседании» газа на $6 млн" src="/images/2016/2/15/364908/preview_44af51da7b.png" />
+</a></div>
+<div class="text">
+<h4>
+<a href="/rubrics/ekonomika">Экономика</a>
+</h4>
+<h2>
+<a href="/news/212699">«Газпром» обвинил «Нафтогаз» в «оседании» газа на $6 млн</a>
+</h2>
+<div class="info">
+<span>
+15 февраля
+</span>
+|
+<a href="/users/154982">Ксения Павлова</a>
+</div>
+<div class="infoText">
+Это заявление "Газпром" направил в суд в рамках инициированного украинской стороной дела о пересмотре контракта на транзит.
+</div>
+<div class="counters">
+<div class="count1">
+0
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+<div class="count2">
+0
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+<div class="count3">
+594
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+</div>
+</div>
+</li>
+
+<li class="itemList"><div class="banner2">
+<div class="banner2cont">
+<div class="bannerCont" id="yandex_ad_R-129396-26"></div>
+</div>
+<script>
+  (function() {
+    window.Ridus.Yandex.Banner("26", "rtb");
+  
+  }).call(this);
+</script>
+</div>
+</li>
+<li class="itemList">
+<div class="banner2">
+<div class="banner2cont">
+<div id="div-gpt-ad-1384783800966-0" style="width:240px; height:400px; margin: 0 auto;">
+<script>
+  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384783800966-0'); });
+</script>
+</div>
+</div>
+</div>
+
+</li>
+<li class="itemList">
+<div class="photo">
+<a href="/news/212566"><img alt="Британия: Путин может остановить войну в Сирии одним звонком" src="/images/2016/2/14/364330/preview_0d3f417a99.jpg" />
+</a></div>
+<div class="text">
+<h4>
+<a href="/rubrics/politika">Политика</a>
+</h4>
+<h2>
+<a href="/news/212566">Британия: Путин может остановить войну в Сирии одним звонком</a>
+</h2>
+<div class="info">
+<span>
+14 февраля
+</span>
+|
+<a href="/users/154982">Ксения Павлова</a>
+</div>
+<div class="infoText">
+Министр иностранных дел Великобритании призвал Москву прекратить военную операцию в Сирии.
+</div>
+<div class="counters">
+<div class="count1">
+-1
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+<div class="count2">
+4
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+<div class="count3">
+1091
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+</div>
+</div>
+</li>
+<li class="itemList">
+<div class="photo">
+<a href="/news/212292"><img alt="Четырехлетний джихадист ИГИЛ взрывает «шпионов». ВИДЕО" src="/images/2016/2/11/363162/preview_fdfbf30e44.jpg" />
+</a></div>
+<div class="text">
+<h4>
+<a href="/rubrics/obshestvo">Общество</a>
+</h4>
+<h2>
+<a href="/news/212292">Четырехлетний джихадист ИГИЛ взрывает «шпионов». ВИДЕО</a>
+</h2>
+<div class="info">
+<span>
+11 февраля
+</span>
+|
+<a href="/users/134009">Павел Горохов</a>
+</div>
+<div class="infoText">
+Террористы опубликовали шокирующий пропагандистский ролик, в котором «джихади-младший» приводит в действие взрывное устройство, заложенное в автомобиль с заложниками ИГИЛ.
+</div>
+<div class="counters">
+<div class="count1">
+-2
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+<div class="count2">
+0
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+<div class="count3">
+2076
+<i class="icon">
+<!-- icon -->
+</i>
+</div>
+</div>
+</div>
+</li>
+
+</ul>
+</div>
+<script>
+  $.getScript( "http://seedr.ru/js/seedrplayer.js", function( data, textStatus, jqxhr ) {
+    $('.article p:eq(5)').append('<div class="vid_player"></div>')
+    SeedrPlayer(document.getElementsByClassName('vid_player')[0], 0, {
+              gid: '55fc059d64225d69568b456d',
+              debug: false
+          });
+  })
+</script>
+
+</section>
+<footer style="width:1020px;">
+<div class="footerTop">
+<div class="footCol">
+<ul>
+<li><a href="/rubrics/avto" title="Авто">Авто</a></li>
+<li><a href="/rubrics/art-ridus" title="Арт-ридус">Арт-ридус</a></li>
+<li><a href="/rubrics/video" title="Видео">Видео</a></li>
+<li><a href="/rubrics/voennoe-delo" title="Военное дело">Военное дело</a></li>
+<li><a href="/rubrics/gorod" title="Город">Город</a></li>
+<li><a href="/rubrics/eda" title="Еда">Еда</a></li>
+<li><a href="/rubrics/zhivotnye" title="Животные">Животные</a></li>
+<li><a href="/rubrics/zdorovie" title="Здоровье">Здоровье</a></li>
+<li><a href="/rubrics/znamenitosti" title="Знаменитости">Знаменитости</a></li>
+<li><a href="/rubrics/internet" title="Интернет">Интернет</a></li>
+<li><a href="/rubrics/istoriya" title="История">История</a></li>
+<li><a href="/rubrics/kino" title="Кино">Кино</a></li>
+<li><a href="/rubrics/kompyuternye-igry" title="Компьютерные игры">Компьютерные игры</a></li>
+<li><a href="/rubrics/kosmos" title="Космос">Космос</a></li>
+<li><a href="/rubrics/kultura-i-iskusstvo" title="Культура">Культура</a></li>
+<li><a href="/rubrics/literatura" title="Литература">Литература</a></li>
+<li><a href="/rubrics/muzridus" title="Музыка">Музыка</a></li>
+</ul>
+</div>
+<div class="footCol2">
+<ul>
+<li><a href="/rubrics/nauka-i-tehnika" title="Наука и техника">Наука и техника</a></li>
+<li><a href="/rubrics/nedvizhimost" title="Недвижимость">Недвижимость</a></li>
+<li><a href="/rubrics/obrazovanie" title="Образование">Образование</a></li>
+<li><a href="/rubrics/obshestvo" title="Общество">Общество</a></li>
+<li><a href="/rubrics/politika" title="Политика">Политика</a></li>
+<li><a href="/rubrics/pravo" title="Право">Право</a></li>
+<li><a href="/rubrics/proisshestviya" title="Происшествия">Происшествия</a></li>
+<li><a href="/rubrics/strany-i-puteshestviya" title="Путешествия">Путешествия</a></li>
+<li><a href="/rubrics/rassledovaniya" title="Расследования">Расследования</a></li>
+<li><a href="/rubrics/religiya" title="Религия">Религия</a></li>
+<li><a href="/rubrics/smi" title="СМИ">СМИ</a></li>
+<li><a href="/rubrics/sovety" title="Советы">Советы</a></li>
+<li><a href="/rubrics/sport" title="Спорт">Спорт</a></li>
+<li><a href="/rubrics/stil" title="Стиль">Стиль</a></li>
+<li><a href="/rubrics/tehnologii" title="Технологии">Технологии</a></li>
+<li><a href="/rubrics/foto" title="Фото">Фото</a></li>
+<li><a href="/rubrics/ekoridus" title="Экология">Экология</a></li>
+</ul>
+</div>
+<div class="footCol3">
+<ul>
+<li><a href="/rubrics/ekonomika" title="Экономика">Экономика</a></li>
+<li><a href="/rubrics/jumor" title="Юмор">Юмор</a></li>
+</ul>
+</div>
+
+<div class="footInfo">
+<ul class="socList">
+<li>
+<a href="http://facebook.com/ridus.ru" rel="nofollow" target="_blank"><i class="icon1">
+<!-- icon -->
+</i>Facebook
+</a></li>
+<li>
+<a href="http://vk.com/public29992264" rel="nofollow" target="_blank"><i class="icon2">
+<!-- icon -->
+</i>vKontakte
+</a></li>
+<li>
+<a href="https://plus.google.com/+ridus/posts" rel="nofollow" target="_blank"><i class="icon3">
+<!-- icon -->
+</i>Google+
+</a></li>
+<li>
+<a href="http://twitter.com/RidusNews" rel="nofollow" target="_blank"><i class="icon4">
+<!-- icon -->
+</i>Twitter
+</a></li>
+<li>
+<a href="/rss/news"><i class="icon5">
+<!-- icon -->
+</i>RSS
+</a></li>
+</ul>
+<div class="subscr">
+<p>Ежедневная рассылка лучших новостей от Ридуса</p>
+<div class="subscrForm">
+<form accept-charset="UTF-8" action="/subscribe" data-remote="true" id="subscribe_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+<input name="authenticity_token" type="hidden" value="zNnSJJMG/3AqUDe6v9O0fqa73pavIfSOBuTz8p0YBI8=" />
+<input class="subscrEmail" id="email" name="email" placeholder="Введите e-mail" type="email" />
+<input class="subscrBtn" name="commit" type="submit" value="Подписаться" />
+</form>
+
+</div>
+</div>
+<ul class="siteInfo">
+<li>
+<a href="javascript:void(0)"></a>
+</li>
+<li><a href="/news/153564" title="FAQ: технология размещения пользовательских материалов на «Ридусе»">FAQ: технология размещения пользовательских материалов на «Ридусе»</a></li>
+<li><a href="/news/153623" title="FAQ: интерфейс сайта «Ридуса»">FAQ: интерфейс сайта «Ридуса»</a></li>
+<li>
+<a href="/pages/polzovatelskoe-soglashenie">Пользовательское соглашение</a>
+</li>
+<li>
+<a href="/pages/ads">Реклама на сайте</a>
+</li>
+<li>
+<a href="/pages/vyhodnye-dannye">Выходные данные</a>
+</li>
+</ul>
+</div>
+<div class="clear">
+<!-- clear -->
+</div>
+</div>
+<script async="" charset="utf-8" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" type="text/javascript"></script>
+<script async="" charset="utf-8" src="//yastatic.net/share2/share.js" type="text/javascript"></script>
+<div class="footerBott">
+<div class="years18">18+</div>
+<a class="logo" href="http://www.ridus.ru/">Ридус</a>
+<div class="copy">
+<p>&copy; 2011–2016 Ридус. Агентство гражданской журналистики.</p>
+<p>Использование материалов Ридус разрешено только с предварительного согласия правообладателей. Все права на картинки и тексты принадлежат их авторам. Сайт может содержать материалы, не предназначенные для лиц младше 18 лет.</p>
+<div style="margin-top:10px;">
+<script>
+  (function(){var f=false,b=document,c=b.documentElement,e=window;function g(){var a="";a+="rt="+(new Date).getTime()%1E7*100+Math.round(Math.random()*99);a+=b.referrer?"&r="+escape(b.referrer):"";return a}function h(){var a=b.getElementsByTagName("head")[0];if(a)return a;for(a=c.firstChild;a&&a.nodeName.toLowerCase()=="#text";)a=a.nextSibling;if(a&&a.nodeName.toLowerCase()!="#text")return a;a=b.createElement("head");c.appendChild(a);return a}function i(){var a=b.createElement("script");a.setAttribute("type","text/javascript");a.setAttribute("src","http"+("https:"==e.location.protocol?"s":"")+"://s.luxadv.com/t/lb197093_3.js?"+g());typeof a!="undefined"&&h().appendChild(a)}function d(){if(!f){f=true;i()}};if(b.addEventListener)b.addEventListener("DOMContentLoaded",d,false);else if(b.attachEvent){c.doScroll&&e==e.top&&function(){try{c.doScroll("left")}catch(a){setTimeout(arguments.callee,0);return}d()}();b.attachEvent("onreadystatechange",function(){b.readyState==="complete"&&d()})}else e.onload=d})();
+</script>
+<script>
+  document.write('<img style="display:block;width:1px;height:1px;position:absolute;bottom:0;right:0;" width="1" height="1" src="http://luxup2.ru/it/?area_id=575951&type=0&shown=1&r='+ Math.random() +'" />');
+  document.write('<img style="display:block;width:1px;height:1px;position:absolute;bottom:0;right:0;" width="1" height="1" src="http://adx.luxup2.ru/it/?area_id=575951&type=1&shown=1&r='+ Math.random() +'" />');
+</script>
+<!-- Rambler -->
+<script id="top100Counter" src="http://counter.rambler.ru/top100.jcn?2564083" type="text/javascript"></script>
+<noscript>
+<!-- Metrika -->
+<div>
+<img alt="" src="//mc.yandex.ru/watch/24136960" style="position:absolute; left:-9999px;">
+</div>
+<!-- Rambler -->
+<a alt="" href="http://top100.rambler.ru/navi/2564083/">
+<img alt="Rambler's Top100" src="http://counter.rambler.ru/top100.cnt?2564083">
+</a>
+<!-- TNS -->
+<img alt="" height="1" src="http://www.tns-counter.ru/V13a****ridus_ru/ru/UTF-8/tmsec=ridus_total/" width="1">
+</noscript>
+<a href="http://orphus.ru" id="orphus" target="_blank">
+<img alt="Система Orphus" border="0" src="http://orphus.ru/img/enilatiar1.gif">
+</a>
+</div>
+</div>
+<div class="clear">
+<!-- clear -->
+</div>
+</div>
+
+<span class="upBtn">Вверх</span>
+<div class="bFlashMessages">
+
+</div>
+<link href="/assets/application_footer-b8a7e69b2528b7716640a6a99bb83b4a.css" media="screen" rel="stylesheet" />
+<script src="//surfingbird.ru/share/share.min.js"></script>
+<script src="//vk.com/js/api/openapi.js?116"></script>
+<script src="/assets/application_footer-fd5cacee4c55f84ff006f676d396a4eb.js"></script>
+<script src="/assets/orphus-067eb8c643b8be597ef2dbf324a280fd.js"></script>
+</footer>
+</body>
+</html>

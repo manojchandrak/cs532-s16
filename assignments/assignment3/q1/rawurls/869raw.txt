@@ -1,0 +1,1070 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=4407ac63b04a974114891da19b333539"></script>
+<!DOCTYPE html>
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+
+<script type="text/javascript" src="http://static.tumblr.com/ifqwhnb/GBsm20q7d/jquery.nivo.slider.pack.js"></script>
+<script type="text/javascript">
+
+        var $nv4wp = jQuery.noConflict();
+
+		$nv4wp(window).load(function() {
+
+			$nv4wp('#slider').nivoSlider({
+
+				effect:'random',
+
+				slices:15, // For slice animations
+
+				boxCols: 4, // For box animations
+
+				boxRows: 2, // For box animations
+
+				animSpeed:500, // Slide transition speed
+
+				pauseTime:5000, // How long each slide will show
+
+				startSlide:0, // Set starting Slide (0 index)
+
+				directionNav:true, //Next & Prev
+
+				directionNavHide:true, //Only show on hover
+
+				controlNav:true, // 1,2,3... navigation
+
+				controlNavThumbs:false, // Use thumbnails for Control Nav
+
+				controlNavThumbsFromRel:false, // Use image rel for thumbs
+
+				controlNavThumbsSearch: '.jpg', // Replace this with...
+
+				controlNavThumbsReplace: '_thumb.jpg', // ...this in thumb Image src
+
+				keyboardNav:false, //Use left & right arrows
+
+				pauseOnHover:false, //Stop animation while hovering
+
+				manualAdvance:false, //Force manual transitions
+
+				captionOpacity:0.8, //Universal caption opacity
+
+				prevText: 'Prev', // Prev directionNav text
+
+				nextText: 'Next', // Next directionNav text
+
+				beforeChange: function(){}, // Triggers before a slide transition
+
+				afterChange: function(){}, // Triggers after a slide transition
+
+				slideshowEnd: function(){}, // Triggers after all slides have been shown
+
+				lastSlide: function(){}, // Triggers when last slide is shown
+
+				afterLoad: function(){} // Triggers when slider has loaded
+
+			});
+
+		});
+
+		</script>
+        
+        
+<script type="text/javascript">
+function changeNavigation(id) {document.getElementById('liuc').innerHTML=document.getElementById(id).innerHTML}
+</script>
+<!----------- FANSITE THEME 4 by clumhood :> ------------>
+ 
+<title>coldplay news</title>
+<style>figure{margin:0}</style>
+<link rel="shortcut icon" href="http://33.media.tumblr.com/avatar_437d950602ba_128.png">
+<link rel="alternate" type="application/rss+xml" href="http://newscoldplay.tumblr.com/rss">
+<meta name="description" content="Here are the scans for Chris&rsquo; February 2016 interview/cover story with Rolling Stone magazine" />
+ 
+ 
+<!--------DEFAULT VARIABLES-------->
+ 
+<meta name="color:background" content="#ffffff"/>
+<meta name="color:text" content="#000000"/>
+<meta name="color:links" content="#626262"/>
+<meta name="color:links hover" content="#a5a5a5"/>
+<meta name="color:navigation" content="#000000"/>
+<meta name="color:nav links" content="#ffffff"/>
+<meta name="color:question" content="#f8f8f8"/>
+<meta name="color:scrollbar" content="#000000"/>
+<meta name="color:scrollbar background" content="#ffffff"/>
+<meta name="color:sidebar" content="#ffffff"/>
+<meta name="color:titles" content="#000000"/>
+<meta name="color:content background" content="#f8f8f8"/>
+<meta name="color:posts background" content="#ffffff"/>
+<meta name="color:events date" content="#eeeeee"/>
+<meta name="color:events name" content="#f8f8f8"/>
+ 
+<meta name="image:header" content=""/>
+<meta name="image:header2" content=""/>
+ 
+<meta name="text:link 1 title" content="link"/>
+<meta name="text:link 1 url" content=""/>
+<meta name="text:link 2 title" content="link"/>
+<meta name="text:link 2 url" content=""/>
+<meta name="text:link 3 title" content="link"/>
+<meta name="text:link 3 url" content=""/>
+<meta name="text:link 4 title" content="link"/>
+<meta name="text:link 4 url" content=""/>
+<meta name="text:link 5 title" content="link"/>
+<meta name="text:link 5 url" content=""/>
+ 
+<!----------------SCRIPTS---------------->
+ 
+<link href="http://static.tumblr.com/5omyijl/bzrn2yg7i/style-my-tooltips.css" rel="stylesheet" type="text/css" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script src="http://static.tumblr.com/5omyijl/RZtn2yg9v/jquery.style-my-tooltips.js"></script>
+<script>
+(function($){
+$(document).ready(function(){
+$("[title]").style_my_tooltips({
+tip_follows_cursor:true,
+tip_delay_time:200,
+tip_fade_speed:300
+});
+});
+})(jQuery);
+</script>
+ 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+ 
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+ 
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Roboto:400,400italic,500,500italic,700,700italic,900,900italic:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+ 
+    <style type="text/css">
+ 
+/* The Nivo Slider styles */
+#slider {position:relative;}
+#slider img {position:absolute; top:0px; left:0px; display:none;}
+#slider a {border:0; display:block;}
+.nivoSlider {position:relative; width: 356px;}
+.nivoSlider img {position:absolute; top:0px; left:0px;}
+/* If an image is wrapped in a link */
+.nivoSlider a.nivo-imageLink {position:absolute; top:0px; left:0px; width:100%; height:100%; border:0;
+padding:0;margin:0; z-index:6; display:none;}
+/* The slices and boxes in the Slider */
+.nivo-slice {display:block;position:absolute;z-index:5;height:100%;}
+.nivo-box {display:block;position:absolute;z-index:5;}
+/* Caption styles */
+.nivo-caption {position:absolute;left:0px; bottom:0px; background:#000; color:#000; text-transform: uppercase; width: 100%;
+z-index:50; border-right: 5px solid #;padding: 5px 0;}
+.nivo-caption p {padding:0 20px;margin:0;font-size:14px;}
+.nivo-caption a {display:inline !important;}
+.nivo-html-caption {display:none;}
+/* Direction nav styles (e.g. Next & Prev) */
+.nivo-directionNav a {position:absolute;top:45%;z-index:99;cursor:pointer;}
+.nivo-prevNav {left:0px;}
+.nivo-nextNav {right:0px;}
+/*============================*/
+/*=== Custom Slider Styles ===*/
+/*============================*/
+.slider {width:100%;}
+.slider img {position:absolute;top:0px;left:0px;display:none;}
+.slider a {border:0;display:block;}
+.nivo-controlNav {display:none;}
+.nivo-directionNav a {display:block;width:31px;height:34px;background:url() no-repeat;text-indent:-9999px;border:0;
+}
+a.nivo-nextNav {background-position:-30px 0;right:15px;}
+a.nivo-prevNav {    left:15px;}
+.nivo-caption {font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;}
+.nivo-caption a {color:#efe9d1; text-decoration:underline;}
+   
+/*----------SCROLLBAR---------*/
+ 
+::-webkit-scrollbar {
+background-color: ;
+height:8px;
+width:5px;
+}
+ 
+::-webkit-scrollbar-thumb:vertical {
+background-color:#000000;
+height:50px;
+}
+ 
+::-webkit-scrollbar-thumb:horizontal {
+background-color:;
+height:8px;
+}
+   
+/*----------TOOLTIPS---------*/
+ 
+#s-m-t-tooltip {
+max-width:300px;
+margin:15px;
+padding:5px;
+border:1px solid #eeeeee;
+border-radius:0px;
+background:#ffffff;
+color:#272727;
+z-index:999999;
+font-size:7px;
+font-style:none;
+letter-spacing:2px;
+font-family:arial;
+text-transform:uppercase;
+box-shadow:1px 1px 3px rgba(0,0,0,.0);
+}
+ 
+/*----------BASICS---------*/
+ 
+body {
+    background:#dadada;
+    color:#272727;
+    font-family:'roboto', sans-serif;
+    font-size:11px;
+    line-height:100%;
+    margin:0;
+    text-align:left;
+}
+ 
+small {
+    font-size:11px;
+}
+ 
+a {
+    color:#5f5e5e;
+    text-decoration:none;
+    -webkit-transition:all .5s ease-out;
+    -moz-transition:all .5s ease-out;
+    -o-transition:all .5s ease-out;
+}
+ 
+a:hover {
+    color:#2a9bcb;
+    transition:.5s;
+    -webkit-transition:.5s;
+    -moz-transition:.5s;
+    -o-transition:.5s;
+}
+ 
+img {
+    opacity:1;
+    text-decoration:none;
+}
+ 
+h1 {
+    font-size:14px;
+    font-weight:bold;
+    font-family:arial;
+    line-height:150%;
+    text-transform:uppercase;
+}
+ 
+blockquote {
+    :10px;
+    margin:10px;
+    border-left:1px solid #eee;
+}
+ 
+/*----------HEADER---------*/
+ 
+.header {
+    width:1100px;
+    height:500px;
+    position:absolute; 
+    z-index: 4; 
+    height:auto; 
+    padding-left: DISTANCIA_DO_LADOpx; 
+    top: DISTANCIA_DO_TOPOpx; 
+}
+ 
+ 
+ 
+.middle {
+    width:200px;
+    margin-top:-95px;
+}
+ 
+.middle img {
+        border-radius:100%;
+    width:200px;
+}
+ 
+.links {
+    background:#000000;
+    margin-top:-113px;
+    width:1060px;
+    padding:20px;
+    text-align:center;
+    
+}
+ 
+.links a {
+    padding:10px;
+    color:#ffffff;
+    font-size:10px;
+    text-transform:uppercase;
+    font-weight:500px;
+    letter-spacing:2px;
+    text-align:center;
+   
+}
+ 
+.links a:hover {
+    color:#2a9bcb ;
+    border-bottom:2px solid #43cdc0;
+}
+ 
+ 
+/*----------SIDEBAR---------*/
+ 
+.sidebar {
+    position:absolute;
+    background:#ffffff;
+    width:300px;
+    margin-top:50px;
+    margin-left:50px;
+}
+ 
+.cat {
+    padding:15px;
+   
+}
+ 
+.cti {
+    padding:20px;
+    font-size:15px;
+    text-transform:uppercase;
+    font-weight:900;
+    border-bottom:1px solid #eee;
+    color:#000000;
+    margin-bottom:20px;
+}
+ 
+.desc {
+    margin:20px;
+        font-size:11px;
+    text-align:justify;
+    font-family:'roboto';
+    color:#444;    
+    
+}
+ 
+.sfm input {
+    background-color: #eee;
+    font-size: 8px;
+    border: 0px;
+    text-transform: uppercase;
+    margin-top: 0px;
+    color: #999;
+    letter-spacing: 1px;
+    padding: 4px 20px;
+    font-family:calibri,helvetica, arial;
+    margin-bottom:20px;
+}
+ 
+.date {
+    float:left;
+    padding:10px;
+    margin-right:10px;
+    background:#eeeeee;
+    text-transform:uppercase;
+    font-weight:bold;
+}
+ 
+.e {
+    padding:10px;
+    background:#f8f8f8;
+}
+ 
+.hqs {
+    height:150px;
+    padding:10px;
+    margin-left:10px;
+    
+}
+ 
+.hqs img {
+    float:left;
+    margin:5px;
+    display:block;
+    width:64px;
+}
+ 
+.affiliates {
+    width:300px;
+    padding:0px;
+    text-align:left;
+    text-transform:uppercase;
+    font-size:9px;
+    letter-spacing:1px;
+    margin-top:20px;
+}
+ 
+.affiliates img {
+    padding:5px;
+    width:40px;
+    margin-right:10px;
+    border-radius:100%;
+}
+ 
+.projects {
+   
+    width:250px;
+    padding:5px;
+    text-align:left;
+    margin-top:10px;
+    text-transform:uppercase;
+    font-size:9px;
+    letter-spacing:1px;
+}
+ 
+.projects img {
+    padding:5px;
+    border-radius:100%;
+    width:64px;
+    float:left;
+    margin-right:10px;
+}
+ 
+.blogs {
+    width:250px;
+    padding:5px;
+    text-align:left;
+    text-transform:uppercase;
+    font-size:9px;
+    letter-spacing:1px;
+    margin-top:20px;
+}
+ 
+.blogs img {
+    padding:5px;
+    width:40px;
+    float:left;
+    margin-right:10px;
+    border-radius:100%;
+}
+ 
+.stats {
+    text-transform:uppercase;
+    letter-spacing:0px;
+    color:#A9a9a9;
+    font-size:9px;
+    font-weight:lighter;
+    line-height:20px;
+}
+ 
+ 
+/*----------PAGINATION---------*/
+ 
+#pagi {
+    margin-top:40px;
+    margin-left:600px;
+    font-family:'roboto', sans-serif;
+    text-transform:uppercase;
+    font-size:20px;
+    font-weight:bold;
+    padding:20px;
+}
+ 
+/*----------POSTS---------*/
+ 
+.container {
+    width:1060px;
+    margin-left:calc(50% - 550px);
+    background:#f8f8f8;
+    padding:20px;
+}
+ 
+ 
+.entries {
+    margin-top:50px;
+    width:500px;
+    margin-left:450px;
+    background:#f8f8f8;
+   
+}
+ 
+.posts {
+    width:500px;
+    margin-bottom:70px;
+    background:#ffffff;
+    padding:20px;
+}
+ 
+ 
+/*----------QUOTE---------*/
+ 
+.quote {
+    padding:10px;
+    font-size:15px;
+}
+ 
+.quotesource {
+    padding:10px;
+    text-align:center;
+}
+ 
+/*----------CHAT---------*/
+ 
+.chat {
+    line-height:150%;
+    list-style:none;
+}
+ 
+.line.odd {
+    padding:10px;
+    background:#f8f8f8;
+}
+ 
+.line.even {
+    padding:10px;
+}
+ 
+.label {
+    text-transform:uppercase;
+    font-size:10px;
+    letter-spacing:1px;
+    font-weight:bold;
+}
+ 
+/*----------AUDIO---------*/
+ 
+.cover {
+    position:relative;
+    z-index:1;
+    max-width:100px;
+    padding:10px;
+    float:left;
+}
+ 
+.playbutton {
+    width:20px;
+    height:30px;
+    overflow:hidden;
+    position:relative;
+    z-index:2;
+ 
+}
+ 
+ 
+.playbox {
+    background-color:#000;
+    position:absolute;
+    z-index:2;
+    padding:15px 24px 13px 16px;
+    margin-top:30px;
+    margin-left:30px;
+    opacity:0.5;
+}
+ 
+.trackdetails {
+    padding:10px;
+    width:auto;
+    height:100px;
+    margin-top:10px;
+    margin-left:100px;
+}
+ 
+/*----------ASK---------*/
+
+.question {
+    padding:10px;
+    background:#f8f8f8;
+}
+ 
+ 
+.asker {
+    text-transform:uppercase;
+}
+ 
+.answer {
+    margin:10px;
+}
+ 
+/*----------INFO---------*/
+ 
+.info {
+    padding:10px;
+    text-transform:uppercase;
+    border-top:1px solid #eee;
+    margin-top:25px;
+}
+ 
+ 
+.tags {
+    margin-left:10px;
+    margin-top:-5px;
+    opacity:0;
+    -webkit-transition:all .5s ease-out;
+    -moz-transition:all .5s ease-out;
+    -o-transition:all .5s ease-out;
+    
+}
+
+.posts:hover .tags {
+opacity:1;
+-moz-transition-duration: all 1s ease-in;
+-webkit-transition-duration: all 1s ease-in;
+-o-transition-duration: all 1s ease-in;
+}
+ 
+.tags a {
+    margin-right:10px;
+    letter-spacing:1px;
+}
+ 
+/*----------POST NOTES---------*/
+ 
+ol.notes {
+padding:0px;
+margin:25px 0px 0px -10px;
+list-style-type:none;
+}
+ 
+ol.notes li.note {
+padding:10px;
+}
+ 
+ol.notes li.note img.avatar {
+vertical-align:-4px;
+margin-right:10px;
+width:16px;
+height:16px;
+}
+ 
+ol.notes li.note span.action {
+font-weight:none;
+}
+ 
+ol.notes li.note .answer_content {
+font-weight:normal;
+}
+ 
+ol.notes li.note blockquote {
+padding:4px 10px;
+margin:10px 0px 0px 25px;
+}
+ 
+ol.notes li.note blockquote a {
+text-decoration:none;
+}
+ 
+/*----------CREDIT---------*/
+ 
+.credit {
+font-size:8px;
+position:fixed;
+font-weight:bold;
+bottom:5px;
+right:15px;
+z-index:10;
+text-align:right;
+letter-spacing:1px;
+padding:2px;
+}
+ 
+.credit a {
+color:#5f5e5e;
+text-decoration:none;
+}
+ 
+.credit a:hover {
+color:#2a9bcb;
+text-decoration:none;
+}
+ 
+</style>
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=newscoldplay%26postID=139058932826" />
+<link rel="alternate" href="ios-app://305343404/tumblr/x-callback-url/blog?blogName=newscoldplay&postID=139058932826" />
+<link rel="alternate" type="application/json+oembed" href="https://www.tumblr.com/oembed/1.0?url=http://newscoldplay.tumblr.com/post/139058932826/here-are-the-scans-for-chris-february-2016" title="Here are the scans for Chris&rsquo; February 2016 interview/cover story with Rolling Stone magazine"/>
+<script src="http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=8b0553f75283ecbeb78be24f096f4c2c"></script>
+
+<link rel="stylesheet" type="text/css" href="http://assets.tumblr.com/fonts/alternategothic/stylesheet.css?v=3">
+<meta name="keywords" content="scans,interview,rolling stone,chris martin" />
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:site_name" content="" /><meta property="og:title" content="" /><meta property="og:url" content="http://newscoldplay.tumblr.com/post/139058932826/here-are-the-scans-for-chris-february-2016" /><meta property="og:description" content="Here are the scans for Chris&rsquo; February 2016 interview/cover story with Rolling Stone magazine" /><meta property="og:determiner" content="a" /><meta property="og:type" content="tumblr-feed:photoset" /><meta property="og:image" content="http://41.media.tumblr.com/a6d44b22a9e29ebb59892e02c57e0b3f/tumblr_o2cdiyUHuU1u89lffo6_1280.png" /><meta property="og:image:height" content="1657" /><meta property="og:image:width" content="1280" /><meta property="og:image" content="http://40.media.tumblr.com/f6e13b9246332a3e14017ad7cb7766b6/tumblr_o2cdiyUHuU1u89lffo1_1280.png" /><meta property="og:image:height" content="1657" /><meta property="og:image:width" content="1280" /><meta property="og:image" content="http://40.media.tumblr.com/d4dc69a49231a2f3d5c1ef4893691c77/tumblr_o2cdiyUHuU1u89lffo2_1280.png" /><meta property="og:image:height" content="1657" /><meta property="og:image:width" content="1280" /><meta property="og:image" content="http://41.media.tumblr.com/d7783afaca3e497ef7fd5c2915f49df1/tumblr_o2cdiyUHuU1u89lffo3_1280.png" /><meta property="og:image:height" content="1657" /><meta property="og:image:width" content="1280" /><meta property="og:image" content="http://40.media.tumblr.com/22d6d1f697d48b91ff0a87bbf87317fe/tumblr_o2cdiyUHuU1u89lffo4_1280.png" /><meta property="og:image:height" content="1657" /><meta property="og:image:width" content="1280" /><meta property="og:image" content="http://40.media.tumblr.com/b01145986dbced4c978049db5a841a04/tumblr_o2cdiyUHuU1u89lffo5_1280.png" /><meta property="og:image:height" content="1657" /><meta property="og:image:width" content="1280" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=newscoldplay&amp;postID=139058932826" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=newscoldplay&amp;postID=139058932826" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="newscoldplay" /><meta name="twitter:description" content="Here are the scans for Chris&rsquo; February 2016 interview/cover story with Rolling Stone magazine" /><meta name="twitter:image" content="http://41.media.tumblr.com/a6d44b22a9e29ebb59892e02c57e0b3f/tumblr_o2cdiyUHuU1u89lffo6_500.png" /><meta name="twitter:url" content="http://newscoldplay.tumblr.com/post/139058932826/here-are-the-scans-for-chris-february-2016" /><meta name="twitter:site" content="tumblr" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=newscoldplay&amp;postID=139058932826&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=newscoldplay&amp;postID=139058932826&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=newscoldplay&amp;postID=139058932826&amp;referrer=twitter-cards" />
+
+<!-- GOOGLE CAROUSEL --><script type="application/ld+json">{"@type":"SocialMediaPosting","url":"http:\/\/newscoldplay.tumblr.com\/post\/139058932826\/here-are-the-scans-for-chris-february-2016","mainEntityOfPage":true,"datePublished":"2016-02-10T17:23:19-05:00","author":"newscoldplay","image":{"@list":["http:\/\/41.media.tumblr.com\/a6d44b22a9e29ebb59892e02c57e0b3f\/tumblr_o2cdiyUHuU1u89lffo6_1280.png","http:\/\/40.media.tumblr.com\/f6e13b9246332a3e14017ad7cb7766b6\/tumblr_o2cdiyUHuU1u89lffo1_1280.png","http:\/\/40.media.tumblr.com\/d4dc69a49231a2f3d5c1ef4893691c77\/tumblr_o2cdiyUHuU1u89lffo2_1280.png","http:\/\/41.media.tumblr.com\/d7783afaca3e497ef7fd5c2915f49df1\/tumblr_o2cdiyUHuU1u89lffo3_1280.png","http:\/\/40.media.tumblr.com\/22d6d1f697d48b91ff0a87bbf87317fe\/tumblr_o2cdiyUHuU1u89lffo4_1280.png","http:\/\/40.media.tumblr.com\/b01145986dbced4c978049db5a841a04\/tumblr_o2cdiyUHuU1u89lffo5_1280.png"]},"articleBody":"Here are the scans for Chris\u2019 February 2016 interview\/cover story with Rolling Stone magazine","@context":"http:\/\/schema.org"}</script>
+<link rel="canonical" href="http://newscoldplay.tumblr.com/post/139058932826/here-are-the-scans-for-chris-february-2016" />
+
+</head>
+ 
+<body>
+
+<div class="credit">
+<a title="theme" href="http://clumhood.tumblr.com/" target="_blank">CH</a></div>
+
+<center><div id="header"></div> <div id="slide"><div id="slider">
+
+    <img src="http://static.tumblr.com/4qbsv17/4PRnxff3t/1.png" style="display:none;">
+    <img src="http://static.tumblr.com/4qbsv17/8xbnyuyu1/2h.png"style="display:none;">
+    <img src="http://static.tumblr.com/4qbsv17/3jjo2d0ag/3h.png"style="display:none;">
+    <img src="http://static.tumblr.com/4qbsv17/8xbnyuyu1/2h.png"style="display:none;">
+    <img src="http://static.tumblr.com/4qbsv17/CXVo256s8/4h.png"style="display:none;">
+    <img src="http://static.tumblr.com/4qbsv17/8xbnyuyu1/2h.png"style="display:none;">
+</div></div></div></center>
+ 
+ 
+<center><div class="header"><img src="http://assets.tumblr.com/images/x.gif?v=1"></div></center>
+<center><div class="middle"><img src="http://assets.tumblr.com/images/x.gif?v=1"></div></center>
+ 
+<center><div class="links">
+    <a href="/">home</a>
+    <a href="/message">ask</a>
+    <a href="/members">members</a>
+    <a href="/tags">Tags</a>
+    <a href="/tour">Tour</a>
+    <a href="/events">events</a>
+    <a href="/downloads">downloads</a>
+    <a href="/faq">faq</a>
+    </font>
+</div></center>
+ 
+ 
+<div class="container">
+ 
+<div class="sidebar">
+   
+    <div class="cat">
+        <div class="cti"><center>Welcome</center></div>
+        <div class="desc"><center> Welcome to newscoldplay. We will keep you up-to-date on the latest news, photos, and videos of Coldplay and its members. 
+<br>
+<b><font color="{color:boxtextaccent}">Currently Online: </font></b> <script language="JavaScript">var fhs = document.createElement('script');var fhs_id = "4664956";
+var ref = (''+document.referrer+'');var pn =  window.location;var w_h = window.screen.width + " x " + window.screen.height;
+fhs.src = "http://freehostedscripts.net/ocounter.php?site="+fhs_id+"&e1=&e2=&r="+ref+"&wh="+w_h+"&a=1&pn="+pn+"";
+document.head.appendChild(fhs);document.write("<span id='o_"+fhs_id+"'></span>");
+</script>
+<b><font color="{color:boxtextaccent}">Hits: </font></b><script language="JavaScript">var fhsh = document.createElement('script');var fhs_id_h = "2809652";
+fhsh.src = "http://freehostedscripts.net/ocount.php?site="+fhs_id_h+"&name=&a=1";
+document.head.appendChild(fhsh);document.write("<span id='h_"+fhs_id_h+"'></span>");
+</script>
+
+ </font><br>(<a href="http://newscoldplay.tumblr.com/mobilelinks">Mobile Links</a>)</br>
+        </div>
+    </div>
+   
+    <center><form action="/search" method="get" class="sfm">
+    <input type="text" name="q" value="" id="sf"/>
+    <input type="submit" value="Search" id="sb"/>
+</form></center>
+ 
+<!----- PROJECTS ------>
+   
+<div class="cat">
+    <div class="cti">Projects</div>
+  <div class="projects">
+           
+           <img src="http://static.tumblr.com/iwjhi44/q5Jnx7618/ahfod-artwork.gif">
+               <ul> <br><b>A Head Full of Dreams</b><br>
+                <b>Release Date</b>: Dec. 4th, 2015
+                <br><b>Purchase</b>: <a href="http://coldplay.fanfire.com/cgi-bin/WebObjects/Store.woa/wa/artist?sourceCode=COLWEBUKWUSD&categoryName=Music+%26+Film&artistName=Coldplay">Website</a> | <a href="https://itunes.apple.com/us/album/a-head-full-of-dreams/id1053933969">Itunes</a>
+                </ul>
+                </div><br><br>
+               
+                </div>
+ 
+<!----- UPCOMING EVENTS ------>
+ 
+<div class="cat">
+        <div class="cti">Upcoming events</div>
+          
+        <div class="date"><strike>February 7</strike><br></div><div class="e"><a href="http://newscoldplay.tumblr.com/tagged/super bowl 50">Super Bowl Halftime Show</a></a><br></div><br> 
+        
+        <div class="date">February 17<br></div><div class="e"><a href="http://newscoldplay.tumblr.com/tagged/nme-awards">NME Awards 2016</a></a><br></div><br>
+        
+        <div class="date">February 24<br></div><div class="e"><a href="http://newscoldplay.tumblr.com/tagged/brits">Brit Awards 2016</a></a><br></div><br>
+        
+        <div class="date">February 24</div><div class="e"><a href="http://newscoldplay.tumblr.com/tagged/war child gig">War Child UK Gig</a></div><br>
+        
+        <div class="date">May 19<br></div><div class="e"><a href="http://newscoldplay.tumblr.com/tagged/5.19.16">SAP and ASUG Conference</a></a><br></div><br>
+        
+        <div class="date">May 28<br></div><div class="e"><a href="http://newscoldplay.tumblr.com/tagged/bbcr1-big-weekend">BBCR1's Big Weekend</a></a><br></div><br>
+        
+        <div class="date">June 26<br></div><div class="e"><a href="http://newscoldplay.tumblr.com/tagged/glastonbury-2016">Glastonbury Festival</a></a><br></div>
+        
+    </div>
+ 
+<!----- LATEST HQS ------>
+   
+   <div class="cat">
+    <div class="cti">Latest Photos</div>
+       <center><div class="hqs">
+         <a href="http://www.imagebam.com/image/938baa436651962" target="_blank"><img src="http://114.imagebam.com/download/d1dks9CTO4xvrXyc4ZM1_Q/43666/436651962/2015%2BiHeartRadio%2BMusic%2BFestival%2BNight%2B1%2BShow%2B7Qjuu0aOXW2x.jpg" alt="imagebam.com"></a> 
+         <a href="http://www.imagebam.com/image/ca5fa1436651959" target="_blank"><img src="http://113.imagebam.com/download/xBeW9CsJ8GoRyObwBrEgJg/43666/436651959/2015%2BiHeartRadio%2BMusic%2BFestival%2BNight%2B1%2BShow%2B6Y5WUf9SFAKx.jpg" alt="imagebam.com"></a> 
+         <a href="http://www.imagebam.com/image/1d3027436651996" target="_blank"><img src="http://113.imagebam.com/download/VdCAzgqFHP_tQghIhM-3OA/43666/436651996/2015%2BiHeartRadio%2BMusic%2BFestival%2BNight%2B1%2BShow%2BBdi0kIvcwoPx.jpg" alt="imagebam.com"></a> 
+         <a href="http://www.imagebam.com/image/aa0a9d436652017" target="_blank"><img src="http://113.imagebam.com/download/yC_NjSPxObqTF2qNGEJCkg/43666/436652017/2015%2BiHeartRadio%2BMusic%2BFestival%2BNight%2B1%2BShow%2Bd-VwXna6EVGx.jpg" alt="imagebam.com"></a> 
+         <a href="http://www.imagebam.com/image/0e2e15436652061" target="_blank"><img src="http://114.imagebam.com/download/OceKWrDl7jiNZoJRRp190A/43666/436652061/2015%2BiHeartRadio%2BMusic%2BFestival%2BNight%2B1%2BShow%2BHgfRu53-hlCx.jpg" alt="imagebam.com"></a> 
+         <a href="http://www.imagebam.com/image/8fa2d7436652197" target="_blank"><img src="http://114.imagebam.com/download/pD5tgnaEH_CmHyIxmDxolA/43666/436652197/2015%2BiHeartRadio%2BMusic%2BFestival%2BNight%2B1%2BShow%2BPjbgZj9DtDSx.jpg" alt="imagebam.com"></a> 
+         <a href="http://www.imagebam.com/image/da7e84436652422" target="_blank"><img src="http://114.imagebam.com/download/FmN4wHvueF7IPuGEa-576A/43666/436652422/488990322.jpg" alt="imagebam.com"></a> 
+           <a href="http://www.imagebam.com/image/96f30e436652787" target="_blank"><img src="http://114.imagebam.com/download/M19crfAf1tjWfCzGemkK8w/43666/436652787/Chris%2BMartin%2B2015%2BiHeartRadio%2BMusic%2BFestival%2Bav1ESdQLkyfx.jpg" alt="imagebam.com"></a> 
+           <a href="http://www.imagebam.com/image/fc73bd436652790" target="_blank"><img src="http://114.imagebam.com/download/pRAopACI-WymLomAt-lu0g/43666/436652790/Chris%2BMartin%2B2015%2BiHeartRadio%2BMusic%2BFestival%2BBOh8Bwm4GLhx.jpg" alt="imagebam.com"></a> 
+          Find the full gallery <a href="http://www.newscoldplay.tumblr.com/tagged/gallery">here</a>!
+        </div></center></div>
+ 
+ 
+<!----- AFFILIATES ------>
+ 
+    <div class="cat">
+        <div class="cti">Official Links</div>
+        <div class="affiliates"><center>
+            <a href="http://coldplay.com/" title="coldplay"><img src="http://static.tumblr.com/4qbsv17/YYGnuqqvf/coldplaylogo.png"/></a>
+            <a href="http://twitter.com/coldplay" title="twitter"><img src="http://static.tumblr.com/iwjhi44/NLunuqrco/twittericon2.png"/></a>
+            <a href="http://facebook.com/coldplay" title="facebook"><img src="http://static.tumblr.com/iwjhi44/us4nuqre7/fbicon.png"/></a>
+           <br> <a href="http://coldplay.tumblr.com/" title="tumblr"><img src="http://static.tumblr.com/iwjhi44/tHqnuqref/tumbicon2.png"/></a>
+             <a href="https://www.youtube.com/channel/UCDPM_n1atn2ijUwHd0NNRQw" title="YouTube"><img src="http://static.tumblr.com/iwjhi44/UAsny6hq8/yticon2.png"/></a>
+              <a href="https://www.instagram.com/coldplay/" title="Instagram"><img src="http://static.tumblr.com/iwjhi44/IZCny6hn7/instaicon.png"/></a></center>
+            
+        </div>
+    </div>
+   
+
+   
+<!----- MEMBERS ------>
+   
+    <div class="cat">
+        <div class="cti">Members</div>
+        <div class="blogs">
+           
+<table style="margin-top:0px;">
+
+<tr>
+<td style="width:40px;">
+<img src="http://38.media.tumblr.com/avatar_04f610d00a4a_40.png" width="40px;" height="auto;" style="margin-right: 10px;">  
+</td>
+<td style="width:290px; height:auto;">
+<div id="m" style="margin-bottom:0px;">
+<a href="http://championed.tumblr.com/" style="font-weight:bold; margin-top:5px;">championed</a><br>Ok.mp3</div>
+ 
+</tr>
+
+<tr>
+<td style="width:40px;">
+<img src="http://33.media.tumblr.com/avatar_0fa6a49c7e68_40.png" width="40px;" height="auto;" style="margin-right: 10px;">  
+</td>
+<td style="width:290px; height:auto;">
+<div id="m" style="margin-bottom:0px;">
+<a href="http://guysberryman.tumblr.com/" style="font-weight:bold; margin-top:5px;">guysberryman</a><br>it is and it isnt</div>
+ 
+</tr>
+
+<tr>
+<td style="width:40px;">
+<img src="http://33.media.tumblr.com/avatar_24451b87ffb0_40.png" width="40px;" height="auto;" style="margin-right: 10px;">  
+</td>
+<td style="width:290px; height:auto;">
+<div id="m" style="margin-bottom:0px;">
+<a href="http://kanyes.tumblr.com/" style="font-weight:bold; margin-top:5px;">kanyes</a><br>we are legends every day</div>
+ 
+</tr>
+
+</table>
+
+           
+                </div></div>
+               
+<!----- ABOUT THE BLOG ------>
+               
+                <div class="cat">
+        <div class="cti">Disclaimer</div>
+        <div class="stats">
+            <b>newscoldplay claims no credit for any photos/videos posted on this site unless stated otherwise. if there is any content appearing on this blog that belongs to you and you do not wish for it to appear on this site, please message us with a link to the post and it will be removed as soon as possible.</b>
+           
+           
+        </div>
+    </div>
+   
+</div>
+   
+<div class="entries">
+ 
+
+ 
+<div class="posts">
+ 
+
+ 
+ 
+
+ 
+ 
+
+<div id="photoset_139058932826" class="html_photoset">    <iframe id="photoset_iframe_139058932826" class="photoset" scrolling="no" frameborder="0" height="971" width="500"
+                style="border:0px; background-color:transparent; overflow:hidden;" src="http://newscoldplay.tumblr.com/post/139058932826/photoset_iframe/newscoldplay/tumblr_o2cdiyUHuU1u89lff/500/false" name="photoset_iframe_139058932826"></iframe></div>
+<p>Here are the scans for Chris&rsquo; February 2016 interview/cover story with Rolling Stone magazine</p>
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+<div class="info">
+
+<b><a href="http://newscoldplay.tumblr.com/post/139058932826/here-are-the-scans-for-chris-february-2016" title="1 week ago">February 10th</b></a>
+
+ 
+&nbsp;&nbsp;
+<a href="http://newscoldplay.tumblr.com/post/139058932826/here-are-the-scans-for-chris-february-2016">169</a>
+&nbsp;&nbsp;
+ 
+<a href="https://www.tumblr.com/reblog/139058932826/5Wt8n8pC" target="_blank" class="details"><i class="fa fa-repeat"></i></a>&nbsp;&nbsp;<b>Posted by</b> <a href="http://guysberryman.tumblr.com/">guysberryman</a>
+ 
+<font style="float:right">
+
+</font style>
+ 
+ 
+</div>
+ 
+ 
+
+<div class="tags">
+
+<a href="http://newscoldplay.tumblr.com/tagged/chris-martin">chris martin</a>
+
+<a href="http://newscoldplay.tumblr.com/tagged/rolling-stone">rolling stone</a>
+
+<a href="http://newscoldplay.tumblr.com/tagged/interview">interview</a>
+
+<a href="http://newscoldplay.tumblr.com/tagged/scans">scans</a>
+
+</div>
+
+ 
+</div>
+ 
+ 
+
+<ol class="notes"><!-- START NOTES --><li class="note like tumblelog_mmolivesaints without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://mmolivesaints.tumblr.com/" title="MMOliveSaints " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_8de68cc0672f_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://mmolivesaints.tumblr.com/" title="MMOliveSaints" rel="nofollow">mmolivesaints</a> liked this</span><div class="clear"></div></li><li class="note like tumblelog_coldplayismagic without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://coldplayismagic.tumblr.com/" title="A rush of blood to a head full of dreams " rel="nofollow"><img src="http://38.media.tumblr.com/avatar_f459f304bee4_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://coldplayismagic.tumblr.com/" title="A rush of blood to a head full of dreams" rel="nofollow">coldplayismagic</a> liked this</span><div class="clear"></div></li><li class="note like tumblelog_befree-iam without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://befree-iam.tumblr.com/" title="Bum Itch. " rel="nofollow"><img src="http://33.media.tumblr.com/avatar_ca9a370a51d9_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://befree-iam.tumblr.com/" title="Bum Itch." rel="nofollow">befree-iam</a> liked this</span><div class="clear"></div></li><li class="note reblog tumblelog_inatrascendentstateofeuphoria without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://inatrascendentstateofeuphoria.tumblr.com/" title="Embody What You Believe"><img src="http://31.media.tumblr.com/avatar_3ea6f2cc8458_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://inatrascendentstateofeuphoria.tumblr.com/post/139446140857"><a rel="nofollow" href="http://inatrascendentstateofeuphoria.tumblr.com/" class="tumblelog" title="Embody What You Believe">inatrascendentstateofeuphoria</a> reblogged this from <a rel="nofollow" href="http://christopher-martin.tumblr.com/" class="source_tumblelog" title="christopher martin">christopher-martin</a></span><div class="clear"></div></li><li class="note like tumblelog_dancingpoems without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://dancingpoems.tumblr.com/" title="Live. laugh. love " rel="nofollow"><img src="http://38.media.tumblr.com/avatar_9893c184a798_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://dancingpoems.tumblr.com/" title="Live. laugh. love" rel="nofollow">dancingpoems</a> liked this</span><div class="clear"></div></li><li class="note like tumblelog_coldplaytwinsiewinsie without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://coldplaytwinsiewinsie.tumblr.com/" title="My Names Forrest Gump..People call me Forrest Gump " rel="nofollow"><img src="http://assets.tumblr.com/images/default_avatar/sphere_closed_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://coldplaytwinsiewinsie.tumblr.com/" title="My Names Forrest Gump..People call me Forrest Gump" rel="nofollow">coldplaytwinsiewinsie</a> liked this</span><div class="clear"></div></li><li class="note like tumblelog_pfofie without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://pfofie.tumblr.com/" title=" " rel="nofollow"><img src="http://33.media.tumblr.com/avatar_78c06cc5f5b7_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://pfofie.tumblr.com/" title="" rel="nofollow">pfofie</a> liked this</span><div class="clear"></div></li><li class="note reblog tumblelog_pfofie without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://pfofie.tumblr.com/" title=""><img src="http://33.media.tumblr.com/avatar_78c06cc5f5b7_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://pfofie.tumblr.com/post/139370674400"><a rel="nofollow" href="http://pfofie.tumblr.com/" class="tumblelog" title="">pfofie</a> reblogged this from <a rel="nofollow" href="http://newscoldplay.tumblr.com/" class="source_tumblelog" title="coldplay news">newscoldplay</a></span><div class="clear"></div></li><li class="note reblog tumblelog_grahamsaysno without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://grahamsaysno.tumblr.com/" title="chesterxoxo"><img src="http://31.media.tumblr.com/avatar_d6f0dfccc306_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://grahamsaysno.tumblr.com/post/139351312899"><a rel="nofollow" href="http://grahamsaysno.tumblr.com/" class="tumblelog" title="chesterxoxo">grahamsaysno</a> reblogged this from <a rel="nofollow" href="http://call-me-mrs-martin.tumblr.com/" class="source_tumblelog" title="северно дете">call-me-mrs-martin</a></span><div class="clear"></div></li><li class="note reblog tumblelog_call-me-mrs-martin without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://call-me-mrs-martin.tumblr.com/" title="северно дете"><img src="http://38.media.tumblr.com/avatar_41445a6d656d_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://call-me-mrs-martin.tumblr.com/post/139350280607"><a rel="nofollow" href="http://call-me-mrs-martin.tumblr.com/" class="tumblelog" title="северно дете">call-me-mrs-martin</a> reblogged this from <a rel="nofollow" href="http://newscoldplay.tumblr.com/" class="source_tumblelog" title="coldplay news">newscoldplay</a></span><div class="clear"></div></li><li class="note like tumblelog_call-me-mrs-martin without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://call-me-mrs-martin.tumblr.com/" title="северно дете " rel="nofollow"><img src="http://38.media.tumblr.com/avatar_41445a6d656d_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://call-me-mrs-martin.tumblr.com/" title="северно дете" rel="nofollow">call-me-mrs-martin</a> liked this</span><div class="clear"></div></li><li class="note reblog tumblelog_greenstrawberries27 without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://greenstrawberries27.tumblr.com/" title="A Sky Full of Strawberries"><img src="http://38.media.tumblr.com/avatar_b30ed1a13b01_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://greenstrawberries27.tumblr.com/post/139300687200"><a rel="nofollow" href="http://greenstrawberries27.tumblr.com/" class="tumblelog" title="A Sky Full of Strawberries">greenstrawberries27</a> reblogged this from <a rel="nofollow" href="http://lostcoldplayer.tumblr.com/" class="source_tumblelog" title="lost
+coldplayer">lostcoldplayer</a></span><div class="clear"></div></li><li class="note like tumblelog_kimothys without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://kimothys.tumblr.com/" title="on ur left " rel="nofollow"><img src="http://38.media.tumblr.com/avatar_c20a2a53d63b_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://kimothys.tumblr.com/" title="on ur left" rel="nofollow">kimothys</a> liked this</span><div class="clear"></div></li><li class="note like tumblelog_saverockanroll without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://saverockanroll.tumblr.com/" title="life seems most enchanted after all " rel="nofollow"><img src="http://38.media.tumblr.com/avatar_fba6d6c2068c_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://saverockanroll.tumblr.com/" title="life seems most enchanted after all" rel="nofollow">saverockanroll</a> liked this</span><div class="clear"></div></li><li class="note reblog tumblelog_miguelscum without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://miguelscum.tumblr.com/" title="WHAT THE FUCK IS A BM?"><img src="http://38.media.tumblr.com/avatar_60387d820b2e_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://miguelscum.tumblr.com/post/139273980289"><a rel="nofollow" href="http://miguelscum.tumblr.com/" class="tumblelog" title="WHAT THE FUCK IS A BM?">miguelscum</a> reblogged this from <a rel="nofollow" href="http://newscoldplay.tumblr.com/" class="source_tumblelog" title="coldplay news">newscoldplay</a></span><div class="clear"></div></li><li class="note like tumblelog_writetravelinspire without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://writetravelinspire.tumblr.com/" title="Every dream begins with a dreamer " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_65afc3c19bb7_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://writetravelinspire.tumblr.com/" title="Every dream begins with a dreamer" rel="nofollow">writetravelinspire</a> liked this</span><div class="clear"></div></li><li class="note reblog tumblelog_putwis without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://putwis.tumblr.com/" title=""><img src="http://38.media.tumblr.com/avatar_bed712c9ee73_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://putwis.tumblr.com/post/139261626685"><a rel="nofollow" href="http://putwis.tumblr.com/" class="tumblelog" title="">putwis</a> reblogged this from <a rel="nofollow" href="http://guysberryman.tumblr.com/" class="source_tumblelog" title="it is and it isnt">guysberryman</a></span><div class="clear"></div></li><li class="note reblog tumblelog_guysberryman without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://guysberryman.tumblr.com/" title="it is and it isnt"><img src="http://38.media.tumblr.com/avatar_0fa6a49c7e68_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://guysberryman.tumblr.com/post/139259336873"><a rel="nofollow" href="http://guysberryman.tumblr.com/" class="tumblelog" title="it is and it isnt">guysberryman</a> reblogged this from <a rel="nofollow" href="http://newscoldplay.tumblr.com/" class="source_tumblelog" title="coldplay news">newscoldplay</a></span><div class="clear"></div></li><li class="note like tumblelog_nazgamzenaz without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://nazgamzenaz.tumblr.com/" title="İsimsiz " rel="nofollow"><img src="http://assets.tumblr.com/images/default_avatar/cone_open_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://nazgamzenaz.tumblr.com/" title="İsimsiz" rel="nofollow">nazgamzenaz</a> liked this</span><div class="clear"></div></li><li class="note reblog tumblelog_psukkie without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://psukkie.tumblr.com/" title="Sukkie&#039;s World"><img src="http://33.media.tumblr.com/avatar_f9c509c48bd0_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://psukkie.tumblr.com/post/139235874480"><a rel="nofollow" href="http://psukkie.tumblr.com/" class="tumblelog" title="Sukkie&#039;s World">psukkie</a> reblogged this from <a rel="nofollow" href="http://newscoldplay.tumblr.com/" class="source_tumblelog" title="coldplay news">newscoldplay</a></span><div class="clear"></div></li><li class="note like tumblelog_greenstrawberries27 without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://greenstrawberries27.tumblr.com/" title="A Sky Full of Strawberries " rel="nofollow"><img src="http://38.media.tumblr.com/avatar_b30ed1a13b01_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://greenstrawberries27.tumblr.com/" title="A Sky Full of Strawberries" rel="nofollow">greenstrawberries27</a> liked this</span><div class="clear"></div></li><li class="note like tumblelog_edge-of-youth without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://edge-of-youth.tumblr.com/" title="Holden Caufield " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_c0852b038fae_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://edge-of-youth.tumblr.com/" title="Holden Caufield" rel="nofollow">edge-of-youth</a> liked this</span><div class="clear"></div></li><li class="note reblog tumblelog_edge-of-youth without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://edge-of-youth.tumblr.com/" title="Holden Caufield"><img src="http://31.media.tumblr.com/avatar_c0852b038fae_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://edge-of-youth.tumblr.com/post/139200017653"><a rel="nofollow" href="http://edge-of-youth.tumblr.com/" class="tumblelog" title="Holden Caufield">edge-of-youth</a> reblogged this from <a rel="nofollow" href="http://newscoldplay.tumblr.com/" class="source_tumblelog" title="coldplay news">newscoldplay</a></span><div class="clear"></div></li><li class="note reblog tumblelog_throw-it-in-cobras-room without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://throw-it-in-cobras-room.tumblr.com/" title="Maybe I Just Took Too Much Cough Medicine"><img src="http://33.media.tumblr.com/avatar_e67c0dc68a88_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://throw-it-in-cobras-room.tumblr.com/post/139197192206"><a rel="nofollow" href="http://throw-it-in-cobras-room.tumblr.com/" class="tumblelog" title="Maybe I Just Took Too Much Cough Medicine">throw-it-in-cobras-room</a> reblogged this from <a rel="nofollow" href="http://coldplays-twiglet-problem.tumblr.com/" class="source_tumblelog" title="My Favorite Disney Princess is Chris Martin">coldplays-twiglet-problem</a></span><div class="clear"></div></li><li class="note like tumblelog_throw-it-in-cobras-room without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://throw-it-in-cobras-room.tumblr.com/" title="Maybe I Just Took Too Much Cough Medicine " rel="nofollow"><img src="http://33.media.tumblr.com/avatar_e67c0dc68a88_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://throw-it-in-cobras-room.tumblr.com/" title="Maybe I Just Took Too Much Cough Medicine" rel="nofollow">throw-it-in-cobras-room</a> liked this</span><div class="clear"></div></li><li class="note like tumblelog_andreeacornelia without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://andreeacornelia.tumblr.com/" title="Lost in paradise " rel="nofollow"><img src="http://33.media.tumblr.com/avatar_3b020b327741_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://andreeacornelia.tumblr.com/" title="Lost in paradise" rel="nofollow">andreeacornelia</a> liked this</span><div class="clear"></div></li><li class="note reblog tumblelog_captainmyloxylotoiii without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://captainmyloxylotoiii.tumblr.com/" title="A Head Full of Dreams"><img src="http://33.media.tumblr.com/avatar_4438e070d57b_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://captainmyloxylotoiii.tumblr.com/post/139178788733"><a rel="nofollow" href="http://captainmyloxylotoiii.tumblr.com/" class="tumblelog" title="A Head Full of Dreams">captainmyloxylotoiii</a> reblogged this from <a rel="nofollow" href="http://askyfullofstarss.tumblr.com/" class="source_tumblelog" title="through chaos as it swirls">askyfullofstarss</a></span><div class="clear"></div></li><li class="note like tumblelog_askyfullofstarss without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://askyfullofstarss.tumblr.com/" title="through chaos as it swirls " rel="nofollow"><img src="http://33.media.tumblr.com/avatar_be7991b52d96_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://askyfullofstarss.tumblr.com/" title="through chaos as it swirls" rel="nofollow">askyfullofstarss</a> liked this</span><div class="clear"></div></li><li class="note reblog tumblelog_askyfullofstarss without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://askyfullofstarss.tumblr.com/" title="through chaos as it swirls"><img src="http://33.media.tumblr.com/avatar_be7991b52d96_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://askyfullofstarss.tumblr.com/post/139177748552"><a rel="nofollow" href="http://askyfullofstarss.tumblr.com/" class="tumblelog" title="through chaos as it swirls">askyfullofstarss</a> reblogged this from <a rel="nofollow" href="http://technicolorings.tumblr.com/" class="source_tumblelog" title="life in technicolor">technicolorings</a></span><div class="clear"></div></li><li class="note reblog tumblelog_technicolorings without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://technicolorings.tumblr.com/" title="life in technicolor"><img src="http://33.media.tumblr.com/avatar_64fb684bce6d_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://technicolorings.tumblr.com/post/139177346680"><a rel="nofollow" href="http://technicolorings.tumblr.com/" class="tumblelog" title="life in technicolor">technicolorings</a> reblogged this from <a rel="nofollow" href="http://christophercado.tumblr.com/" class="source_tumblelog" title="just the warring rain">christophercado</a></span><div class="clear"></div></li><li class="note like tumblelog_amipartofthecure without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://amipartofthecure.tumblr.com/" title=" " rel="nofollow"><img src="http://38.media.tumblr.com/avatar_e1e7df123f22_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://amipartofthecure.tumblr.com/" title="" rel="nofollow">amipartofthecure</a> liked this</span><div class="clear"></div></li><li class="note reblog tumblelog_dietingetc without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://dietingetc.tumblr.com/" title="Dieting (&amp; Other Useless Ventures)"><img src="http://33.media.tumblr.com/avatar_0076aae67932_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://dietingetc.tumblr.com/post/139163341923"><a rel="nofollow" href="http://dietingetc.tumblr.com/" class="tumblelog" title="Dieting (&amp; Other Useless Ventures)">dietingetc</a> reblogged this from <a rel="nofollow" href="http://newscoldplay.tumblr.com/" class="source_tumblelog" title="coldplay news">newscoldplay</a></span><div class="clear"></div></li><li class="note like tumblelog_dietingetc without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://dietingetc.tumblr.com/" title="Dieting (&amp; Other Useless Ventures) " rel="nofollow"><img src="http://33.media.tumblr.com/avatar_0076aae67932_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://dietingetc.tumblr.com/" title="Dieting (&amp; Other Useless Ventures)" rel="nofollow">dietingetc</a> liked this</span><div class="clear"></div></li><li class="note reblog tumblelog_making-escape without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://making-escape.tumblr.com/" title="making escape"><img src="http://38.media.tumblr.com/avatar_8f41f3e39931_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://making-escape.tumblr.com/post/139162548245"><a rel="nofollow" href="http://making-escape.tumblr.com/" class="tumblelog" title="making escape">making-escape</a> reblogged this from <a rel="nofollow" href="http://championed.tumblr.com/" class="source_tumblelog" title="Ok.mp3">championed</a></span><div class="clear"></div></li><li class="note reblog tumblelog_christophercado without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://christophercado.tumblr.com/" title="just the warring rain"><img src="http://38.media.tumblr.com/avatar_01c8f396d5c3_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://christophercado.tumblr.com/post/139159468014"><a rel="nofollow" href="http://christophercado.tumblr.com/" class="tumblelog" title="just the warring rain">christophercado</a> reblogged this from <a rel="nofollow" href="http://newscoldplay.tumblr.com/" class="source_tumblelog" title="coldplay news">newscoldplay</a></span><div class="clear"></div></li><li class="note reblog tumblelog_chronotomy without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://chronotomy.tumblr.com/" title="an incision into time"><img src="http://33.media.tumblr.com/avatar_860bfc9fb9f8_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://chronotomy.tumblr.com/post/139158302217"><a rel="nofollow" href="http://chronotomy.tumblr.com/" class="tumblelog" title="an incision into time">chronotomy</a> reblogged this from <a rel="nofollow" href="http://newscoldplay.tumblr.com/" class="source_tumblelog" title="coldplay news">newscoldplay</a></span><div class="clear"></div></li><li class="note like tumblelog_chronotomy without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://chronotomy.tumblr.com/" title="an incision into time " rel="nofollow"><img src="http://33.media.tumblr.com/avatar_860bfc9fb9f8_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://chronotomy.tumblr.com/" title="an incision into time" rel="nofollow">chronotomy</a> liked this</span><div class="clear"></div></li><li class="note like tumblelog_emeraldgraffitti without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://emeraldgraffitti.tumblr.com/" title=" " rel="nofollow"><img src="http://33.media.tumblr.com/avatar_b384497b5f71_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://emeraldgraffitti.tumblr.com/" title="" rel="nofollow">emeraldgraffitti</a> liked this</span><div class="clear"></div></li><li class="note like tumblelog_celtictechnoburrito without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://celtictechnoburrito.tumblr.com/" title="Telescope Eyes " rel="nofollow"><img src="http://31.media.tumblr.com/avatar_536028b80bf2_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://celtictechnoburrito.tumblr.com/" title="Telescope Eyes" rel="nofollow">celtictechnoburrito</a> liked this</span><div class="clear"></div></li><li class="note like tumblelog_pushblue without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://pushblue.tumblr.com/" title="piano &amp; forte " rel="nofollow"><img src="http://33.media.tumblr.com/avatar_9b5b51408687_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://pushblue.tumblr.com/" title="piano &amp; forte" rel="nofollow">pushblue</a> liked this</span><div class="clear"></div></li><li class="note like tumblelog_halfwayto-somewhere without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://halfwayto-somewhere.tumblr.com/" title="&#039;cause this can&rsquo;t be all there is " rel="nofollow"><img src="http://33.media.tumblr.com/avatar_1a3a9757ce7c_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://halfwayto-somewhere.tumblr.com/" title="&#039;cause this can&rsquo;t be all there is" rel="nofollow">halfwayto-somewhere</a> liked this</span><div class="clear"></div></li><li class="note like tumblelog_artemiscoldplau without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://artemiscoldplau.tumblr.com/" title="~travel~ " rel="nofollow"><img src="http://33.media.tumblr.com/avatar_db1e4c74f801_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://artemiscoldplau.tumblr.com/" title="~travel~" rel="nofollow">artemiscoldplau</a> liked this</span><div class="clear"></div></li><li class="note like tumblelog_runningeleven without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://runningeleven.tumblr.com/" title="we&#039;re all stories in the end. " rel="nofollow"><img src="http://33.media.tumblr.com/avatar_04b31276c5f7_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://runningeleven.tumblr.com/" title="we&#039;re all stories in the end." rel="nofollow">runningeleven</a> liked this</span><div class="clear"></div></li><li class="note reblog tumblelog_runningeleven without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://runningeleven.tumblr.com/" title="we&#039;re all stories in the end."><img src="http://33.media.tumblr.com/avatar_04b31276c5f7_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://runningeleven.tumblr.com/post/139129612239"><a rel="nofollow" href="http://runningeleven.tumblr.com/" class="tumblelog" title="we&#039;re all stories in the end.">runningeleven</a> reblogged this from <a rel="nofollow" href="http://newscoldplay.tumblr.com/" class="source_tumblelog" title="coldplay news">newscoldplay</a></span><div class="clear"></div></li><li class="note like tumblelog_zm052 without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://zm052.tumblr.com/" title="Glassed Planets Have Bad Records " rel="nofollow"><img src="http://38.media.tumblr.com/avatar_efebd7c3a8db_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://zm052.tumblr.com/" title="Glassed Planets Have Bad Records" rel="nofollow">zm052</a> liked this</span><div class="clear"></div></li><li class="note reblog tumblelog_crazymissb without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://crazymissb.tumblr.com/" title="Dreamer⨺"><img src="http://33.media.tumblr.com/avatar_75c12ec54924_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://crazymissb.tumblr.com/post/139118646101"><a rel="nofollow" href="http://crazymissb.tumblr.com/" class="tumblelog" title="Dreamer⨺">crazymissb</a> reblogged this from <a rel="nofollow" href="http://newscoldplay.tumblr.com/" class="source_tumblelog" title="coldplay news">newscoldplay</a></span><div class="clear"></div></li><li class="note like tumblelog_crazymissb without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://crazymissb.tumblr.com/" title="Dreamer⨺ " rel="nofollow"><img src="http://33.media.tumblr.com/avatar_75c12ec54924_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://crazymissb.tumblr.com/" title="Dreamer⨺" rel="nofollow">crazymissb</a> liked this</span><div class="clear"></div></li><li class="note like tumblelog_isthereanyneed without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://isthereanyneed.tumblr.com/" title="Let Me Ramble On " rel="nofollow"><img src="http://38.media.tumblr.com/avatar_f47549669f1a_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://isthereanyneed.tumblr.com/" title="Let Me Ramble On" rel="nofollow">isthereanyneed</a> liked this</span><div class="clear"></div></li><li class="note reblog tumblelog_maarkfoster without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://maarkfoster.tumblr.com/" title="warm healer"><img src="http://38.media.tumblr.com/avatar_a72ca920667f_16.png" class="avatar " alt="" /></a><span class="action" data-post-url="http://maarkfoster.tumblr.com/post/139117473186"><a rel="nofollow" href="http://maarkfoster.tumblr.com/" class="tumblelog" title="warm healer">maarkfoster</a> reblogged this from <a rel="nofollow" href="http://christopher-martin.tumblr.com/" class="source_tumblelog" title="christopher martin">christopher-martin</a></span><div class="clear"></div></li><li class="note like tumblelog_annphuong without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://annphuong.tumblr.com/" title="Annie Le " rel="nofollow"><img src="http://33.media.tumblr.com/avatar_6897a39beea3_16.png" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://annphuong.tumblr.com/" title="Annie Le" rel="nofollow">annphuong</a> liked this</span><div class="clear"></div></li><li class="note more_notes_link_container" style="text-align:center;" id="more_notes_139058932826"><a class="more_notes_link" rel="nofollow" href="#" onclick="this.style.display='none';document.getElementById('notes_loading_139058932826').style.display = 'block';if(window.ActiveXObject)var tumblrReq=new ActiveXObject('Microsoft.XMLHTTP');else if(window.XMLHttpRequest)var tumblrReq=new XMLHttpRequest();else return false;tumblrReq.onreadystatechange=function(){if(tumblrReq.readyState==4){var notes_html=tumblrReq.responseText.split('<!-- START '+'NOTES -->')[1].split('<!-- END '+'NOTES -->')[0];
+if(window.tumblrNotesLoaded)if(tumblrNotesLoaded(notes_html)==false)return;var more_notes_link=document.getElementById('more_notes_139058932826');var notes=more_notes_link.parentNode;notes.removeChild(more_notes_link);notes.innerHTML+=notes_html;if(window.tumblrNotesInserted)tumblrNotesInserted(notes_html);}};tumblrReq.open('GET','/notes/139058932826/Gp5zgBal1?from_c=1455207812',true);tumblrReq.send();return false;">Show more notes</a><span class="notes_loading" id="notes_loading_139058932826" style="display:none;">Loading...</span></li><!-- END NOTES --></ol>
+
+
+</div>
+ 
+<div id="pagi">
+
+</div>
+ 
+
+   
+<iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+        var addthis_enabled = true;
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    postATMessage();
+                    postRapidMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    postATMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://secure.assets.tumblr.com/analytics.html?f63f62d9d04a996a8fcb505da4e74841#" +
+                              "http://newscoldplay.tumblr.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/post/139058932826/here-are-the-scans-for-chris-february-2016?route=%2Fpost%2F%3Aid%2F%3Asummary'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+        function postATMessage() {
+            if (addthis_enabled && analytics_iframe_loaded) {
+                analytics_frame.contentWindow.postMessage('enable_addthis', analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postRapidMessage() {
+                            if (analytics_iframe_loaded) {
+                    var is_ajax = '';
+                    var route = '/post/:id/:summary';
+                    var tumblelog_id = '218609260';
+                    var yahoo_space_id = '1197719230';
+                    var rapid_client_only = '1';
+                    var apv = '1';
+                    var rapid_ex = '';
+
+                    analytics_frame.contentWindow.postMessage(
+                        [
+                            'tick_rapid', is_ajax, route, user_logged_in, tumblelog_id,
+                            yahoo_space_id, rapid_client_only, apv, rapid_ex
+                        ].join(';'),
+                        analytics_frame.src.split('/analytics.html')[0]
+                    );
+                }
+                    }
+    })();
+</script><script type="text/javascript">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1455771093&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvbmV3c2NvbGRwbGF5LnR1bWJsci5jb21cL3Bvc3RcLzEzOTA1ODkzMjgyNlwvaGVyZS1hcmUtdGhlLXNjYW5zLWZvci1jaHJpcy1mZWJydWFyeS0yMDE2IiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkifQ==&U=DNAFNKPHHI&K=3501be2bff5bb6617370a9f96c6366cf9b26e2b06be9606514fbba54b9f7620f&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1455771093&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvbmV3c2NvbGRwbGF5LnR1bWJsci5jb21cL3Bvc3RcLzEzOTA1ODkzMjgyNlwvaGVyZS1hcmUtdGhlLXNjYW5zLWZvci1jaHJpcy1mZWJydWFyeS0yMDE2IiwicmVxdHlwZSI6MCwicm91dGUiOiJcL3Bvc3RcLzppZFwvOnN1bW1hcnkiLCJub3NjcmlwdCI6MX0=&U=DNAFNKPHHI&K=814d687df2fb37a214af5fd48c59d0b85ea30ba5937b82a81857a81da11ca1d1&R="></noscript><script >
+        (function (w,d) {
+            'use strict';
+            var l = function(el, type, listener, useCapture) {
+                el.addEventListener ?
+                el.addEventListener(type, listener, !!useCapture) :
+                el.attachEvent && el.attachEvent('on' + type, listener, !!useCapture);
+            };
+            var a = function () {
+                                if (d.getElementById('tumblr-cdx')) {
+                    return;
+                }
+                var s = d.createElement('script');
+                var el = d.getElementsByTagName('script')[0];
+                s.async = true;
+                s.src = 'http://assets.tumblr.com/assets/scripts/vendor/cedexis/cedexis.radar.js?_v=7450eec657e34e1e41dac4e1af96a170';
+                s.type = 'text/javascript';
+                s.id = 'tumblr-cdx';
+                d.body.appendChild(s);
+            };
+            l(w,'load',a);
+        }(window, document));
+</script><script type="text/javascript">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1455771093&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL25ld3Njb2xkcGxheS50dW1ibHIuY29tXC9wb3N0XC8xMzkwNTg5MzI4MjZcL2hlcmUtYXJlLXRoZS1zY2Fucy1mb3ItY2hyaXMtZmVicnVhcnktMjAxNiIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWRcLzpzdW1tYXJ5IiwicG9zdHMiOlt7InBvc3RpZCI6IjEzOTA1ODkzMjgyNiIsImJsb2dpZCI6IjIxODYwOTI2MCIsInNvdXJjZSI6MzN9XX0=&U=BDKKDLHEEF&K=6dffe3cdca31145635e471c2a00a57da334116ebe5f6f80da76a2a252635d554&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1455771093&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL25ld3Njb2xkcGxheS50dW1ibHIuY29tXC9wb3N0XC8xMzkwNTg5MzI4MjZcL2hlcmUtYXJlLXRoZS1zY2Fucy1mb3ItY2hyaXMtZmVicnVhcnktMjAxNiIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC9wb3N0XC86aWRcLzpzdW1tYXJ5IiwicG9zdHMiOlt7InBvc3RpZCI6IjEzOTA1ODkzMjgyNiIsImJsb2dpZCI6IjIxODYwOTI2MCIsInNvdXJjZSI6MzN9XSwibm9zY3JpcHQiOjF9&U=BDKKDLHEEF&K=80cd4712063f2171d0f43fc12d85e617cac70c21900abdf3a39d407a0dbbd554&R="></noscript>
+<noscript id="bootloader" data-bootstrap="{&quot;Components&quot;:{&quot;TumblelogIframe&quot;:{&quot;tumblelogBundleSrc&quot;:&quot;http:\/\/assets.tumblr.com\/client\/prod\/standalone\/tumblelog\/index.js?_v=c9101434ce49257cacfb5fcf03aa4a17&quot;,&quot;tumblelogName&quot;:&quot;newscoldplay&quot;,&quot;isLoggedIn&quot;:false,&quot;isFriend&quot;:false,&quot;formKey&quot;:&quot;&quot;,&quot;tumblelogTitle&quot;:&quot;coldplay news&quot;,&quot;tumblelogAvatar&quot;:&quot;http:\/\/38.media.tumblr.com\/avatar_437d950602ba_40.png&quot;,&quot;tumblelogHost&quot;:&quot;http:\/\/newscoldplay.tumblr.com&quot;,&quot;brag&quot;:true,&quot;currentPage&quot;:&quot;1&quot;,&quot;postId&quot;:&quot;139058932826&quot;,&quot;src&quot;:&quot;http:\/\/newscoldplay.tumblr.com\/post\/139058932826\/here-are-the-scans-for-chris-february-2016&quot;,&quot;postUrl&quot;:&quot;&quot;,&quot;isBlocked&quot;:null,&quot;isAdmin&quot;:false,&quot;lookupButtonUrl&quot;:&quot;&quot;,&quot;showSpamButton&quot;:false,&quot;showRootPostButton&quot;:false,&quot;rootPostUrl&quot;:&quot;&quot;,&quot;showRadarPostButton&quot;:false,&quot;radarKeys&quot;:&quot;&quot;,&quot;isUniblocked&quot;:false,&quot;isNsfw&quot;:false,&quot;isAdult&quot;:false,&quot;isSpam&quot;:false,&quot;isPrimaryBlog&quot;:false,&quot;canEdit&quot;:false,&quot;canReblogSelf&quot;:false,&quot;showLikeButton&quot;:false,&quot;showReblogButton&quot;:false,&quot;reblogUrl&quot;:&quot;&quot;,&quot;showFanMailButton&quot;:false,&quot;showMessagingButton&quot;:false,&quot;loginCheckIframeSrc&quot;:&quot;http:\/\/assets.tumblr.com\/assets\/html\/iframe\/login_check.html?_v=282357db21d8a5883cc1c780ace4cb5f&quot;,&quot;appInstallUrl&quot;:&quot;https:\/\/go.onelink.me\/893408789?pid=tumblr_blog_network\u0026c=tumblr_blog_network\u0026af_sub3=blog_name&quot;}},&quot;Flags&quot;:{&quot;doods&quot;:&quot;eyJmaWx0ZXJfbnNmdyI6dHJ1ZSwia2V5Y29tbWFuZF9hdXRvX3BhZ2luYXRlIjp0cnVlLCJsb2dnZWRfb3V0X3NlYXJjaCI6dHJ1ZSwiYXJjaGl2ZS1wbHVzIjp0cnVlLCJzZWN1cmVfZm9ybV9rZXkiOnRydWUsInNlY3VyZV9mb3JtX2tleV9mdWxseV9vbiI6dHJ1ZSwidHVtYmxlbG9nX3BvcG92ZXIiOnRydWUsImNhbm9uaWNhbF91cmxfd3JpdGVzIjp0cnVlLCJlbmFibGVfY2FwdHVyZV9qcyI6dHJ1ZSwicHJpbWFfcG9zdF9mb3JtcyI6dHJ1ZSwibG9ja2VkX3JlYmxvZ191aSI6dHJ1ZSwibG9ja2VkX3JlYmxvZ191aV9wYXJzZV90ZXN0Ijp0cnVlLCJ0YWJsZXRfYmFubmVyX2FjdGl2ZSI6dHJ1ZSwibW9iaWxlX2Jhbm5lcl9hY3RpdmUiOnRydWUsImxvZ19zZWFyY2hfYm94Ijp0cnVlLCJ1c2VyX21lbnRpb25zIjp0cnVlLCJodG1sNV9hdWRpb19wbGF5ZXIiOnRydWUsInBvcG92ZXJfcmVjb21tZW5kYXRpb25zIjp0cnVlLCJpbmRhc2hfcmVjb21tZW5kYXRpb25zIjp0cnVlLCJwb3B0aWNhX3R1bWJsZWxvZ19wb3BvdmVycyI6dHJ1ZSwidHVtYmxyX3R2Ijp0cnVlLCJkZXByZWNhdGVfZmVhdHVyZWRfdGFncyI6dHJ1ZSwicmVibG9nX3VpX3JlZnJlc2giOnRydWUsInRhYl9zd2l0Y2hlciI6dHJ1ZSwiZmFzdF9jb21wb3NlIjp0cnVlLCJkYXNoYm9hcmRfcmVmcmVzaCI6dHJ1ZSwibW9iaWxlX3dlYl9waG90b3NldHMiOnRydWUsIm1vYmlsZV93ZWJfZ2F0ZSI6dHJ1ZSwibW9iaWxlX3dlYl9wYWdlX3RpdGxlcyI6dHJ1ZSwibW9iaWxlX3dlYl9zZWFyY2giOnRydWUsIm1vYmlsZV93ZWJfc2VhcmNoX2ZpbHRlciI6dHJ1ZSwibW9iaWxlX3dlYl9hYnVzZV9mb3JtIjp0cnVlLCJkb250X2Nhc3RfanNfZm9sbG93cyI6dHJ1ZSwiYWRzX25ld192ZW5kb3JfYnV0dG9ucyI6dHJ1ZSwiYmxvY2tfZmVhdHVyZSI6dHJ1ZSwicmVhY3RpdmF0aW9uX2Zsb3ciOnRydWUsImd1bHBqc19hZG1pbiI6dHJ1ZSwiZW5hYmxlX2pzX2VwaGVtZXJhbF9sb2ciOnRydWUsImxvZ19sYWR5Ijp0cnVlLCJjc2xvZ2dlcl9qcyI6dHJ1ZSwiZGlzY292ZXJ5X2h1Yl9hY2Nlc3MiOnRydWUsImhlYWRlcl9hY2NvdW50X21lbnUiOnRydWUsImVuYWJsZV9wcmltYV9zaGFyZV9wb3BvdmVyIjp0cnVlLCJlbmFibGVfc2hhcmVfZW1iZWRfY29kZSI6dHJ1ZSwicGludGVyZXN0X3NoYXJpbmciOnRydWUsInJlZGRpdF9zaGFyaW5nIjp0cnVlLCJwb3N0X2l0X2ZvcndhcmQiOnRydWUsInBlZXByX3NlYXJjaF9hbmRfZmlsdGVyIjp0cnVlLCJpbnRlcm5zX3BhZ2UiOnRydWUsImZvbGxvd2VkX3NlYXJjaGVzX2JpZ193ZWIiOnRydWUsImRpc2FibGVfcHVibGljX3JlcGxpZXMiOnRydWUsImRpc2FibGVfeWFob29fYl9jb29raWUiOnRydWUsInByaW1hX3R1bWJsZWxvZ19idW5kbGUiOnRydWV9&quot;},&quot;Context&quot;:{&quot;name&quot;:&quot;default&quot;,&quot;time&quot;:1455771093000,&quot;userinfo&quot;:{&quot;primary&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;channels&quot;:[]},&quot;hosts&quot;:{&quot;assets_host&quot;:&quot;http:\/\/assets.tumblr.com&quot;,&quot;secure_assets_host&quot;:&quot;https:\/\/secure.assets.tumblr.com&quot;,&quot;www_host&quot;:&quot;http:\/\/www.tumblr.com&quot;,&quot;secure_www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;embed_host&quot;:&quot;https:\/\/embed.tumblr.com&quot;,&quot;safe_host&quot;:&quot;http:\/\/safe.txmblr.com&quot;,&quot;platform_host&quot;:&quot;http:\/\/platform.tumblr.com&quot;},&quot;language&quot;:&quot;en_US&quot;,&quot;language_simple&quot;:&quot;en&quot;},&quot;Translations&quot;:[]}"></noscript>
+<script src="http://assets.tumblr.com/client/prod/standalone/tumblelog/index.js?_v=c9101434ce49257cacfb5fcf03aa4a17"></script>
+
+</body>

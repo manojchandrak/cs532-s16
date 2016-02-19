@@ -1,0 +1,767 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+  <title>Bilsdale Silver Band needs you! | Empty Chairs</title>
+  <meta name="description" content="Bilsdale Silver Band needs you! We are a very friendly, sociable, non-contesting Band that performs in some of the most beautiful place in North Yorkshire and Cleveland. The band extends&#8230;" />
+  <meta name="google-site-verification" content="K9-1BM4U2cXwX1WloOXWVlQN1x7YmmmpkhXI31QpwMI" />
+  <link rel="apple-touch-icon" href="./images/apple-icons/apple-touch-icon-precomposed.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="/images/apple-icons/apple-touch-icon-57x57-precomposed.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-icons/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-icons/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/images/apple-icons/apple-touch-icon-144x144-precomposed.png">
+    <meta name="msapplication-TileImage" content="/images/apple-icons/apple-touch-icon-144x144-precomposed.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    
+    <meta name="application-name" content="Empty Chairs"/>
+ <meta name="msapplication-TileColor" content="#1dc0ed"/>
+     <meta name="msapplication-notification" content="frequency=30;polling-uri=http://notifications.buildmypinnedsite.com/?feed=http://www.emptychairs.co.uk/main/newsrss&amp;id=1;polling-uri2=http://notifications.buildmypinnedsite.com/?feed=http://www.emptychairs.co.uk/main/newsrss&amp;id=2;polling-uri3=http://notifications.buildmypinnedsite.com/?feed=http://www.emptychairs.co.uk/main/newsrss&amp;id=3;polling-uri4=http://notifications.buildmypinnedsite.com/?feed=http://www.emptychairs.co.uk/main/newsrss&amp;id=4;polling-uri5=http://notifications.buildmypinnedsite.com/?feed=http://www.emptychairs.co.uk/main/newsrss&amp;id=5; cycle=1"/>
+
+
+    <!-- Modernizr -->
+    <script src="/js/libs/modernizr-2.6.2.min.js"></script>
+    <!-- jQuery -->
+    <script type="text/javascript" src="/js/libs/jquery-1.9.1.min.js"></script> 
+  	<script type="text/javascript" src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+  	<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+    <!-- framework css -->
+    <link type="text/css" rel="stylesheet" href="/css/groundwork.css"><!--[if IE]>
+    <link type="text/css" rel="stylesheet" href="/css/groundwork-ie.css"><![endif]--><!--[if lt IE 9]>
+    <script type="text/javascript" src="/js/libs/html5shiv.min.js"></script><![endif]-->
+    
+    <!-- Google Fonts -->
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,800' rel='stylesheet' type='text/css'>
+  
+  <!-- Empty Chairs CSS -->
+  <link type="text/css" rel="stylesheet" href="/lib/assets/css/empty.css">
+  
+   
+  
+   <script type="text/javascript">
+      // extend Modernizr to have datauri test
+      (function(){
+        var datauri = new Image();
+        datauri.onerror = function() {
+          Modernizr.addTest('datauri', function () { return false; });
+        };
+        datauri.onload = function() {
+          Modernizr.addTest('datauri', function () { return (datauri.width == 1 && datauri.height == 1); });
+          Modernizr.load({
+            test: Modernizr.datauri,
+            nope: '/css/no-datauri.css'
+          });
+        };
+        datauri.src = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==";
+      })();
+      // SVG support?
+      Modernizr.load({
+        test: Modernizr.inlinesvg,
+        yep: [
+          '/css/social-icons-svg.css'
+        ],
+        nope: [
+          '/css/social-icons-png.css'
+        ]
+      });
+      // polyfill for HTML5 placeholders
+      Modernizr.load({
+        test: Modernizr.input.placeholder,
+        nope: [
+          '/css/placeholder_polyfill.min.css',
+          '/js/libs/placeholder_polyfill.jquery.js'
+        ]
+      });
+      
+    </script>
+    
+    <script type="text/javascript" language="javascript" src="/js/jquery.carouFredSel.js"></script>
+    <style>
+	#wrapper {
+	width: 100%;
+	margin: 0;
+	position: fixed;
+	top:0;
+	z-index:2000000;
+	-webkit-box-shadow: 0px 7px 8px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    0px 7px 8px rgba(50, 50, 50, 0.75);
+box-shadow:         0px 7px 8px rgba(50, 50, 50, 0.75);	}
+#wrapper h3 {
+	font-size: 20px;
+	text-align: center;
+}
+ 
+#wrapper > div {
+	background-color: #eee;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	width: 100%;
+	height: 40px;
+	padding: 6px 0;
+	overflow: hidden;
+}
+#wrapper > div.first {
+	border-bottom: none;
+}
+ 
+#wrapper dl {
+	display: block;
+	margin: 0;
+}
+#wrapper dt, #wrapper dd {
+	display: block;
+	float: left;
+	margin: 0 10px;
+	padding: 5px 10px;
+}
+#wrapper dt {
+	background-color: #f66;
+	color: #fff;
+}
+#wrapper dd {
+	color: #333;
+	margin-right: 50px;
+}
+ 
+code {
+	font-style: italic;
+}
+
+</style>
+
+
+  
+  <link href="http://emptychairs.co.uk/main/vacancyrss" rel="alternate" type="application/rss+xml" title="Brass Band Vacancies - Empty Chairs" />
+  <link href="http://emptychairs.co.uk/main/newsrss" rel="alternate" type="application/rss+xml" title="Brass Band News - Empty Chairs" />
+
+  <script src="/ckeditor/ckeditor.js"></script>
+  <script type="text/javascript">var switchTo5x=true;</script>
+  <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+  <script type="text/javascript">stLight.options({publisher: "aeeaf0e0-d76d-4060-9a0c-fb52ad8d767c"});</script>  
+
+  <script>
+    $(document).ready(function(){
+        $('.delete').click(function(){
+            return confirm('Are you sure you want to delete this?');
+        });
+    });
+  </script>
+  <script src="/js/Chart.js"></script>
+  <script>
+  $(function() {
+    $( "#datepicker" ).datepicker();
+  });
+  </script>
+  
+
+ 
+<!-- Open Graph -->
+<meta property='og:locale' content='en_GB'/>
+<meta property='og:type' content='article'/>
+<meta property='og:title' content='Bilsdale Silver Band needs you! | Empty Chairs'/>
+<meta property='og:description' content='Bilsdale Silver Band needs you! We are a very friendly, sociable, non-contesting Band that performs in some of the most beautiful place in North Yorkshire and Cleveland. The band extends&#8230;'/>
+<meta property='og:url' content='http://www.emptychairs.co.uk/news/n/bilsdale-silver-band-needs-you'/>
+<meta property='og:site_name' content='Brass Band News and Playing Vacancies | Empty Chairs'/>
+<meta property='fb:admins' content='781660300'/>
+<meta property='og:image' content='http://www.emptychairs.co.uk/images/badge.png'/>
+				<meta property="og:image:type" content="image/png">
+				<meta property="og:image:width" content="250" />
+				<meta property="og:image:height" content="250" />
+							
+							<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@echairs"/>
+<meta name="twitter:creator" content="@chrishatch"/>
+<meta name='twitter:image' content='http://www.emptychairs.co.uk/images/badge.png'/>
+<meta name="twitter:description" content="Brass Band News and Playing Vacancies | Empty Chairs"/>
+<!-- End Open Graph -->
+
+<script>
+function formSubmit(filterposition)
+{
+  document.forms[0].filterposition.value = filterposition;
+  document.forms[0].submit();
+}
+</script>
+
+</head>
+<body>
+
+<div id="wrapper">
+	<div class="first">
+		<dl id="ticker-1">
+        
+        <dt>Butlins 2016</dt><dd><a href="http://www.emptychairs.co.uk/news/n/butlins-2016-test-pieces-announced/#.VMTZsnmzXIU">Test Pieces Revealed</a></dd><dt>National Finals</dt><dd><a href="http://www.emptychairs.co.uk/news/n/test-pieces-for-the-2015-national-championships-announced/">2015 Test Pieces Announced</a></dd>                
+            <dt>Submit News</dt>				
+            	<dd>If you have brass band news please email <a href="mailto:press@emptychairs.co.uk">press@emptychairs.co.uk</a> to have it published on Empty Chairs.</dd>
+	</dl>
+	</div>
+</div>
+
+
+<!-- UserVoice JavaScript SDK (only needed once on a page) -->
+<script>(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/4SdmMThRHZMQeS968XWvQ.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})()</script>
+
+<!-- A tab to launch the Classic Widget -->
+<script>
+UserVoice = window.UserVoice || [];
+UserVoice.push(['showTab', 'classic_widget', {
+  mode: 'full',
+  primary_color: '#cc6d00',
+  link_color: '#007dbf',
+  default_mode: 'support',
+  forum_id: 192001,
+  tab_label: 'Feedback & Support',
+  tab_color: '#cc6d00',
+  tab_position: 'middle-right',
+  tab_inverted: false
+}]);
+</script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=265876820212201";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div style="background-color:#69C; margin-top:40px;">
+
+	<div class="container">
+
+		<header class="white band">
+    
+    		<section class="two fifths">
+    
+    			<h1 class="title pad-left" style="text-transform:uppercase; font-weight:500;"><a href="/">Brass Band News<br />&amp; Player Vacancies</a> </h1>
+    	
+        	</section>
+    
+
+        <!-- Filter Box -->
+            
+    	<aside class="one fifth padded"><form action="http://www.emptychairs.co.uk/vacancy" method="post" accept-charset="utf-8"><label for="region" class="headersearch">Filter by Region</label><select name="filterregion" data-placeholder="Choose a Region..." class="chzn-select" style="width:100%" onchange="this.form.submit()">
+<option value="" selected="selected">All</option>
+<option value="London and Southern Counties">London and Southern Counties</option>
+<option value="Midlands">Midlands</option>
+<option value="North of England">North of England</option>
+<option value="North West">North West</option>
+<option value="Northern Ireland">Northern Ireland</option>
+<option value="Scotland">Scotland</option>
+<option value="Wales">Wales</option>
+<option value="West of England">West of England</option>
+<option value="Yorkshire">Yorkshire</option>
+</select></aside><aside class="one fifth padded"><label for="section" class="headersearch">Filter by Section</label><select name="filtersection" data-placeholder="Choose a Section..." class="chzn-select" style="width:100%" onchange="this.form.submit()">
+<option value="" selected="selected">All</option>
+<option value="Championship">Championship</option>
+<option value="1st">1st</option>
+<option value="2nd">2nd</option>
+<option value="3rd">3rd</option>
+<option value="4th">4th</option>
+<option value="Youth">Youth</option>
+<option value="Non Competiting">Non Competiting</option>
+</select></aside><aside class="one fifth padded"><label for="position" class="headersearch">Filter by Position</label><select name="filterposition" data-placeholder="Choose a Position..." class="chzn-select" style="width:100%" onchange="this.form.submit()">
+<option value="" selected="selected">All</option>
+<option value="md">Musical Director</option>
+<option value="sop">Soprano</option>
+<option value="cnt">Cornet</option>
+<option value="fgl">Flugel</option>
+<option value="hrn">Horn</option>
+<option value="bari">Baritone</option>
+<option value="trom">Trombone</option>
+<option value="euph">Euphonium</option>
+<option value="ebbass">Eb Bass</option>
+<option value="bbbass">BBb Bass</option>
+<option value="perc">Percussion</option>
+</select></form>    </aside>
+    
+</header>
+  
+</div>
+  
+<div class="clear"></div>
+  
+<div style="width:100%; background-color:#1dabb8;">
+  
+	<div class="container">
+    
+    <form action="/vacancy/" method="post">
+    <input type="hidden" name="filterposition" value="">
+    </form>
+  
+        <nav class="inline menu nav">
+            <ul class="row">
+            	<li><a href="/"><i class="icon-home"></i></a></li>
+              <li onClick="formSubmit('')"><a href="/">Brass Band Vacancies</a>
+              <!-- <ul>
+                <li><a href="/">All Instrument Vacancies</a></li>
+                <li><a href="#" onClick="formSubmit('md')">Musical Director Vacancies</a></li>
+                <li><a href="#" onClick="formSubmit('sop')">Soprano Vacancies</a></li>
+                <li><a href="#" onClick="formSubmit('cnt')">Cornet Vacancies</a></li>
+                <li><a href="#" onClick="formSubmit('fgl')">Flugel Vacancies</a></li>
+                <li><a href="#" onClick="formSubmit('hrn')">Horn Vacancies</a></li>
+                <li><a href="#" onClick="formSubmit('bari')">Baritone Vacancies</a></li>
+                <li><a href="#" onClick="formSubmit('trom')">Trombone Vacancies</a></li>
+                <li><a href="#" onClick="formSubmit('euph')">Euphonium Vacancies</a></li>
+                <li><a href="#" onClick="formSubmit('ebbass')">Eb Bass Vacancies</a></li>
+                <li><a href="#" onClick="formSubmit('bbbass')">BBb Bass Vacancies</a></li>
+                <li><a href="#" onClick="formSubmit('perc')">Percussion Vacancies</a></li>
+              </ul> -->
+              </li>
+              <li class="menu" onClick="document.location ='/news/'"><a href="/news/">Brass Band News</a>
+              <ul>
+                <li><a href="/news/">All Categories</a></li>
+                <li><a href="/news/contest/">Contest News</a></li>
+                <li><a href="/news/events/">Event News</a></li>
+                <li><a href="/news/band/">Band Updates</a></li>
+                <li><a href="/news/general/">Other News</a></li>
+                <li><a href="/news/site/">Empty Chairs Announcements</a></li>                
+              	<li><a href="/stolen/">Stolen Instruments</a></li>
+              </ul>
+              </li>
+              <li class="menu" onClick="document.location ='#'"><a href="#">Features</a>
+              <ul>
+                <li><a href="/news/about/national-finals">National Finals</a></li>
+                <li><a href="/reviews/">CD Reviews</a></li>
+              </ul>
+              </li>
+              <li><a href="/events/">Events</a>
+              </li>
+              <li><a href="/music/">Shopping</a>
+              </li>
+              <li class="menu" onClick="document.location ='/account/manage/'">
+                <a href="/account/manage/">Login</a>                <ul>
+                  <li><a href="/account/details/">Edit Band Details</a></li>
+                  <li><a href="/upload/">Upload Band Logo</a></li>
+                  <li><a href="/account/add/">Add New Vacancies</a></li>
+                  <li><a href="/account/pressrelease/">Publish Press Release</a></li>
+                  <li><a href="/account/manage/">Edit Vacancies &amp; News</a></li>
+                  <li><a href="/account/upgrade/">Upgrade Account</a></li>
+                </ul>
+              </li>
+              <li class="menu" onClick="document.location ='/main/'"><a href="/main/">Site Info</a>
+              <ul>
+                <li><a href="/main/">About Us</a></li>
+                <li><a href="/bands/">List of Bands</a></li>
+                <li><a href="/main/stats/">Vacancy Statistics</a></li>
+                <li><a href="/main/advertise/">Advertise</a></li>
+                <li><a href="/main/privacy/">Privacy</a></li>
+              </ul>
+              </li>
+              <li>
+              <a href="/auth/register">Sign Up!</a>              </li>
+                    
+            </ul>
+        </nav>
+	</div>
+
+</div>
+</div>
+
+<!-- <div style="width:100%; text-align:center;"><p class="error message">Whit Friday Marches - <a href="http://www.emptychairs.co.uk/news/n/whit-friday-marches-live-twitter-feed/">Live #whitfriday Twitter Feed</a></p></div> -->
+<div class="container">
+
+	<article class="row">
+
+		<section class="three fifths padded border-right">
+        
+            
+			<div style="text-align:center; width:100%; overflow:hidden;">
+            		
+ 
+<div id="google-ads-1">
+ <script type="text/javascript">
+ 
+	adUnit   = document.getElementById("google-ads-1");
+	adWidth  = adUnit.offsetWidth;
+ 
+	/* Replace this with your AdSense Publisher ID */
+	google_ad_client = "ca-pub-5268802829065815";
+ 
+	if ( adWidth >= 728 ) {
+	  /* Leaderboard 728x90 */
+					google_ad_slot = "5351709480";
+					google_ad_width = 728;
+					google_ad_height = 90;
+	} else if ( adWidth >= 468 ) {
+	  /* Banner (468 x 60) */
+					google_ad_slot = "4623352685";
+					google_ad_width = 468;
+					google_ad_height = 60;
+	} else if ( adWidth >= 336 ) {
+	  /* Large Rectangle (336 x 280) */
+					google_ad_slot = "6100085889";
+					google_ad_width = 320;
+					google_ad_height = 50;
+	} 
+ </script>
+ 
+ <script type="text/javascript"    
+   src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+ </script>
+</div>
+
+</div>
+			
+			
+			        
+        	<div style="margin-bottom:20px;"><h1>Bilsdale Silver Band needs you!</h1><p><em>Published in <a href="/news/general">General</a> on 2015-11-21 by Bilsdale Silver Band</em></p><h6>More news from <a href="/news/about/"></a></h6><div class="one half"><div class="fb-like" data-href="http://www.emptychairs.co.uk/news/n/bilsdale-silver-band-needs-you" data-width="450" data-show-faces="true" data-send="true"></div></div><div class="one half"><div class="g-plusone" data-annotation="inline" data-width="300"></div>        <a href="https://twitter.com/share" class="twitter-share-button" data-via="echairs" data-size="large">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div><hr /><p>Bilsdale Silver Band needs you!</p> <p>We are a very friendly, sociable, non-contesting Band that performs in some of the most beautiful place in North Yorkshire and Cleveland. The band extends a warm welcome to players of all abilities both young and old.</p> <p>There are no subscriptions and instruments, jackets and music are provided for free. Rehearsals are on Tuesdays at 7:30 in Chop Gate Village Hall near Stokesley, Helmsley and Guisborough.</p> <p>Why not come along and support your local band?</p> <p>We are always looking for new players.</p> <p>Please do not hesitate to contact the secretary at dolfair@tiscali.co.uk</p> <p>Also see our website at www.bilsdalesilverband.org.uk</p> <p>We have specific vacancies for solo cornets, repiano, back row cornets, tenor horn, bass and percussion, although we always accept players in other positions.</p> <p>Join us and let&rsquo;s keep this brilliant band alive!</p> <p>&nbsp;</p><div class="meta"><p>Article tagged: <a href="/news/tag/brass-band">Brass band</a>, <a href="/news/tag/cornet"> cornet</a>, <a href="/news/tag/tenor-horn"> tenor horn</a>, <a href="/news/tag/repiano"> repiano</a>, <a href="/news/tag/bass"> bass</a>, <a href="/news/tag/percussion"> percussion</a>, <a href="/news/tag/drums"> drums</a>, <a href="/news/tag/solo-cornet"> solo cornet</a>, <a href="/news/tag/2nd-cornet"> 2nd cornet</a>, <a href="/news/tag/3rd-cornet"> 3rd cornet</a>, <a href="/news/tag/"></a></p><h6>More news from <a href="/news/about/"></a></h6></div>
+         	</div>
+         	<!-- AddThis Button BEGIN -->
+            
+        	<div class="addthis_toolbox addthis_default_style addthis_32x32_style" style="margin-top:16px;">
+				<h6 style="margin:0;">Share the news!</h6>
+				<a class="addthis_button_preferred_1"></a>
+				<a class="addthis_button_preferred_2"></a>
+				<a class="addthis_button_preferred_3"></a>
+				<a class="addthis_button_preferred_4"></a>
+				<a class="addthis_button_compact"></a>
+			</div>
+			<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+			<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-518fd0bb5a234185"></script>
+			<!-- AddThis Button END -->
+    
+			<div class="clear padded"></div>
+         	
+			     
+            
+                     
+            <h6 style="margin:10px 0 5px 0;">Comment on this article...</h6>
+            
+        	<div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'emptychairs'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    
+                <h4><a href="/music/">Brass Band CDs</a></h4>
+     <div style="max-height:240px; min-height:240px; height:240px; overflow:hidden;">
+            		
+		<iframe src="http://rcm-uk.amazon.co.uk/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=emptychairs-21&o=2&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00B5HP8L8" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+		
+		<iframe src="http://rcm-uk.amazon.co.uk/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=emptychairs-21&o=2&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00005Q32P" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+		
+		<iframe src="http://rcm-uk.amazon.co.uk/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=emptychairs-21&o=2&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B000026GNJ" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+		
+		<iframe src="http://rcm-uk.amazon.co.uk/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=emptychairs-21&o=2&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B000059PYB" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+		
+		<iframe src="http://rcm-uk.amazon.co.uk/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=emptychairs-21&o=2&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B008DPC4D0" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+		
+		<iframe src="http://rcm-uk.amazon.co.uk/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=emptychairs-21&o=2&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B009008KB2" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+		                </div>
+    
+    
+		</section>
+        
+        <div class="two fifths padded">
+        
+		<section class="three fifths pad-right border-right">
+
+			<div class="widget b1">
+
+				<h3>Publish Your Press Release</h3>
+
+                <p>There are two simple ways to publish your brass band related press releases on Empty Chairs:</p>
+                <ol class="list">
+                    <li>Sign up for a <a href="/auth/register">free account</a> to self publish, or</li>
+                    <li>Send the release to <a href="mailto:press@emptychairs.co.uk">press@emptychairs.co.uk</a> and we will publish it for you.</li>
+                </ol>
+		
+        	</div>            
+            <div style="text-align:center; width:100%; overflow:hidden;">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-5268802829065815";
+/* Link Block 1 */
+google_ad_slot = "5842733886";
+google_ad_width = 180;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+            </div>
+			<div class="widget b1">
+		
+        		
+		<h3>Contact Details</h3>
+  		<h6>Call</h6>
+  		<p>01287 660977</p>
+		<hr />
+  		<h6>Links</h6>
+				<div class="pad-top pad-bottom">
+					<a href="http://http://www.bilsdalesilverband.org.uk" class="button large" target="_blank">Visit Website</a>
+				</div>
+				<a class="large social-icon facebook" href="https://www.facebook.com/bilsdalesilverband" target="_blank">https://www.facebook.com/bilsdalesilverband</a>
+			<a class="large social-icon mail" href="mailto:j.williams7690@googlemail.com" target="_blank">j.williams7690@googlemail.com</a>
+			<div class="clear padded"></div>
+			<hr />
+			<h6>Band News</h6><div id="pressrelease" class="vacrow" onclick="document.location = '/news/n/bilsdale-silver-band-needs-you-3/';"><p><a href="/news/n/bilsdale-silver-band-needs-you-3/">Bilsdale Silver Band Needs You!</a><br /><em><span class="date_published">Published: <a href="/news/n/bilsdale-silver-band-needs-you-3/">2015-12-29</a></em></p></div><div id="pressrelease" class="vacrow" onclick="document.location = '/news/n/bilsdale-silver-band-needs-you-2/';"><p><a href="/news/n/bilsdale-silver-band-needs-you-2/">Bilsdale Silver Band Needs You!</a><br /><em><span class="date_published">Published: <a href="/news/n/bilsdale-silver-band-needs-you-2/">2015-12-29</a></em></p></div><div id="pressrelease" class="vacrow" onclick="document.location = '/news/n/bilsdale-silver-band-needs-you-1/';"><p><a href="/news/n/bilsdale-silver-band-needs-you-1/">Bilsdale Silver Band needs you!</a><br /><em><span class="date_published">Published: <a href="/news/n/bilsdale-silver-band-needs-you-1/">2015-11-22</a></em></p></div><div id="pressrelease" class="vacrow" onclick="document.location = '/news/n/bilsdale-silver-band-needs-you/';"><p><a href="/news/n/bilsdale-silver-band-needs-you/">Bilsdale Silver Band needs you!</a><br /><em><span class="date_published">Published: <a href="/news/n/bilsdale-silver-band-needs-you/">2015-11-21</a></em></p></div><hr />  
+			</div>
+  
+  			
+					<div class="widget b1">
+  
+  						<h3>Vacancies</h3>
+  
+  						<p>There are currently no vacancies listed for this band.</p>    
+    				</div>
+            
+                        
+            <div class="widget b3">  
+    
+				<h3>Latest News</h3>
+
+ 				<div class="news-categories">
+					<div class="ratio" style="background-image:url('http://emptychairs.co.uk/./uploads/the-magic-of-the-musicals.jpg'); cursor:pointer; border-style:solid; border-color:#666; border-width:2px;" onclick="document.location = '/news/n/the-magic-of-the-musicals/';" />
+						<div class="description"><h6 class="description_content">The Magic of the Musicals</h6>
+						 </div>
+					</div>
+					 <p>The Hepworth Brass Band joins forces with Wakefield Grammar School Foundation &lsquo;Big Sing&rsquo; Chorus&#8230; <a href="/news/n/the-magic-of-the-musicals/"><strong>read more...</strong></a></p></div><div class="news-categories">
+						<div class="ratio" style="background-image:url('http://emptychairs.co.uk/images/blank-placeholder.png'); cursor:pointer; border-style:solid; border-color:#666; border-width:2px;" onclick="document.location = '/news/n/new-md-for-gosport-solent-brass/';" />
+							<div class="description"><h6 class="description_content">New MD for Gosport Solent Brass</h6>
+							</div>
+						</div>
+						<p>Gosport Solent Brass would like to welcome the appointment of Colin Garner as its&#8230; <a href="/news/n/new-md-for-gosport-solent-brass/"><strong>read more...</strong></a></p></div><div class="news-categories">
+					<div class="ratio" style="background-image:url('http://emptychairs.co.uk/./uploads/a-new-years-niennese-concert-with-the-hepworth-band.jpg'); cursor:pointer; border-style:solid; border-color:#666; border-width:2px;" onclick="document.location = '/news/n/a-new-years-niennese-concert-with-the-hepworth-band/';" />
+						<div class="description"><h6 class="description_content">A New Year's Viennese Concert with the Hepworth band</h6>
+						 </div>
+					</div>
+					 <p>Join the Hepworth band for an afternoon packed full of Viennese musical delights, evoking&#8230; <a href="/news/n/a-new-years-niennese-concert-with-the-hepworth-band/"><strong>read more...</strong></a></p></div><div class="news-categories">
+						<div class="ratio" style="background-image:url('http://emptychairs.co.uk/images/blank-placeholder.png'); cursor:pointer; border-style:solid; border-color:#666; border-width:2px;" onclick="document.location = '/news/n/busy-festive-time-for-wolverton-town-band/';" />
+							<div class="description"><h6 class="description_content">Busy festive time for Wolverton Town Band</h6>
+							</div>
+						</div>
+						<p>Wolverton Town Band had a busy time in the run-up to Christmas, bringing festive&#8230; <a href="/news/n/busy-festive-time-for-wolverton-town-band/"><strong>read more...</strong></a></p></div><div class="news-categories">
+					<div class="ratio" style="background-image:url('http://emptychairs.co.uk/./uploads/emd-to-a-very-good-year.jpg'); cursor:pointer; border-style:solid; border-color:#666; border-width:2px;" onclick="document.location = '/news/n/emd-to-a-very-good-year/';" />
+						<div class="description"><h6 class="description_content">End to a very good year!</h6>
+						 </div>
+					</div>
+					 <p>Harlow Brass band ended 2015 with a Great Christmas Concert on the 6th December&#8230; <a href="/news/n/emd-to-a-very-good-year/"><strong>read more...</strong></a></p></div>   
+                
+                 
+        
+    		</div> 
+            
+            <div style="text-align:center; width:100%; overflow:hidden;">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-5268802829065815";
+/* Link Block 2 */
+google_ad_slot = "7319467085";
+google_ad_width = 180;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+            </div>
+		</section>
+
+		<aside class="two fifths pad-left"> 
+        
+            
+				<div class="widget b5">
+					<h3>Sign Up For Free!</h3>
+              		<p><a href="http://www.emptychairs.co.uk/auth/register"><strong style="color:#fff;">Sign up</strong></a> and list your brass band vacancies and latest news for free!</p>
+				</div>   
+            
+            <div style="text-align:center; width:100%; overflow:hidden;">
+            <script type="text/javascript"><!--
+google_ad_client = "ca-pub-5268802829065815";
+/* Column 3 Small Ad 1 */
+google_ad_slot = "4483751881";
+google_ad_width = 180;
+google_ad_height = 150;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+            </div>            
+            <a href="http://www.emptychairs.co.uk/main/advertise/"><img src="/images/advertise.png" style="width:100%" alt="Advertise on Empty Chairs" /></a>
+            
+            <div class="widget b2">
+    
+    			<h3>Latest Vacancies</h3>
+    
+    			<div id="vacancies" class="vacrow padded" onclick="document.location = '/vacancy/detail/2037/';"><h6><a href="/vacancy/detail/2037/">Camberley Band</a></h6><p>A <b>4th Section</b> band in the <b>London and Southern Counties</b> region would like <span class="instrument">Cornet</span>, <span class="instrument">Eb Bass</span> and <span class="instrument">BBb Bass</span> players.</p><p><b><em>Listed 2 days ago</em> - <a href="/vacancy/detail/2037/">More Details</a></b></p></div><div id="vacancies" class="vacrow padded" onclick="document.location = '/vacancy/detail/1972/';"><h6><a href="/vacancy/detail/1972/">Crewe Brass</a></h6><img src="http://emptychairs.co.uk/./uploads/Crewe_Brass.jpg" alt="Crewe Brass" class="homelogo" /><p>A <b>2nd Section</b> band in the <b>North West</b> region would like <span class="instrument">Euphonium</span> and <span class="instrument">BBb Bass</span> players.</p><p><b><em>Listed 2 days ago</em> - <a href="/vacancy/detail/1972/">More Details</a></b></p></div><div id="vacancies" class="vacrow padded" onclick="document.location = '/vacancy/detail/2036/';"><h6><a href="/vacancy/detail/2036/">Kirkby Colliery Welfare Band</a></h6><p>A <b>4th Section</b> band in the <b>Midlands</b> region would like <span class="instrument">Cornet</span>, <span class="instrument">Eb Bass</span> and <span class="instrument">BBb Bass</span> players.</p><p><b><em>Listed 3 days ago</em> - <a href="/vacancy/detail/2036/">More Details</a></b></p></div><div id="vacancies" class="vacrow padded" onclick="document.location = '/vacancy/detail/2035/';"><h6><a href="/vacancy/detail/2035/">Garforth Brass</a></h6><p>A <b>3rd Section</b> band in the <b>Yorkshire</b> region are looking for <span class="instrument">Soprano</span>, <span class="instrument">Cornet</span>, <span class="instrument">Flugel</span>, <span class="instrument">Horn</span>, <span class="instrument">Baritone</span>, <span class="instrument">Trombone</span>, <span class="instrument">Euphonium</span>, <span class="instrument">Eb Bass</span> and <span class="instrument">BBb Bass</span> players.</p><p><b><em>Listed 3 days ago</em> - <a href="/vacancy/detail/2035/">More Details</a></b></p></div><div id="vacancies" class="vacrow padded" onclick="document.location = '/vacancy/detail/2034/';"><h6><a href="/vacancy/detail/2034/">Crystal Palace Brass Band</a></h6><p>A <b>4th Section</b> band in the <b>London and Southern Counties</b> region are looking for <span class="instrument">Trombone</span>, <span class="instrument">Eb Bass</span> and <span class="instrument">BBb Bass</span> players.</p><p><b><em>Listed 5 days ago</em> - <a href="/vacancy/detail/2034/">More Details</a></b></p></div>    
+    		</div>
+
+			
+                
+                <div><a href="http://www.emptychairs.co.uk/stolen/"><img src="/images/stolen.png"></a></div><div class="clear"></div> 
+        
+                <div style="text-align:center; width:100%; overflow:hidden;"><iframe src="http://rcm-eu.amazon-adsystem.com/e/cm?t=emptychairs-21&o=2&p=14&l=ur1&category=gift_certificates&banner=0Z03CHX882JPHVHPF7G2&f=ifr" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div>
+
+		</aside>
+        
+        </div>
+
+	</article>
+    
+ </div><div class="container">
+<hr />
+
+
+<div style="text-align:center; width:100%; overflow:hidden;">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-5268802829065815";
+/* Footer */
+google_ad_slot = "2507491085";
+google_ad_width = 970;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<article class="row">
+<section class="one third padded ">
+<p><strong>Vacancies</strong></p>
+<ul>
+	<li><a href="http://www.emptychairs.co.uk/">List of Vacancies</a></li>
+    <li><a href="http://www.emptychairs.co.uk/main/stats/">Vacancy Statistics</a></li>
+    <li><a href="http://www.emptychairs.co.uk/account/add/">Add New Vacancies</a></li>
+    <li><a href="http://www.emptychairs.co.uk/account/manage/">Edit Your Vacancies</a></li>
+    <li><a href="http://www.emptychairs.co.uk/stolen/">Stolen Instruments Register</a></li>
+</ul>
+<!-- Place this tag where you want the +1 button to render. -->
+<div class="g-plusone" data-annotation="inline" data-width="300"></div>
+
+<!-- Place this tag after the last +1 button tag. -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+</section>
+<section class="one third padded">
+<p><strong>Brass Band News</strong></p>
+<ul>
+	<li><a href="http://www.emptychairs.co.uk/news/">Latest News</a></li>
+    <li><a href="http://www.emptychairs.co.uk/news/contest/">Contest News</a></li>
+    <li><a href="http://www.emptychairs.co.uk/news/events/">Event News</a></li>
+    <li><a href="http://www.emptychairs.co.uk/news/band/">Band Updates</a></li>
+    <li><a href="http://www.emptychairs.co.uk/news/general/">General News</a></li>
+    <li><a href="http://www.emptychairs.co.uk/account/pressrelease/">Publish a Press Release</a></li>
+    <li><a href="http://www.emptychairs.co.uk/account/manage/">Edit Your Press Releases</a></li>
+</ul>
+</section>
+<section class="one third padded">
+<p><strong>About &amp; Admin</strong></p>
+<ul>
+	<li><a href="http://www.emptychairs.co.uk/main/">About Empty Chairs</a></li>
+    <li><a href="http://www.emptychairs.co.uk/bands/">List of Registered Bands</a></li>
+    <li><a href="http://www.emptychairs.co.uk/main/privacy/">Privacy Policy</a></li>
+    <li><a href="http://www.emptychairs.co.uk/main/advertise/">Advertise on Empty Chairs</a></li>
+    <li><a href="http://www.emptychairs.co.uk/account/manage/">Your Account</a></li>
+    <li><a href="http://www.emptychairs.co.uk/account/upgrade/">Upgrade to Premium</a></li>
+    <li><a href="http://www.emptychairs.co.uk/sitemap/">XML Sitemap</a></li>
+</ul>
+</section>
+</article>
+
+<footer class="footer align-right border-top padded">
+<p>Have you found a bug, problem or have a really good feature idea?  Let us know with an email <a href="mailto:support@emptychairs.co.uk">support@emptychairs.co.uk</a></p>
+<p>Copyright &copy 2013 Empty Chairs. All Rights Reserved.</p>
+<p>Website Development by <a href="http://www.zedoary.net/" target="_blank">Christopher Hatch "Digital Handyman"</a></p>
+</footer>
+</div>
+<!-- Piwik --> 
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://analytics.zedoary.net/" : "http://analytics.zedoary.net/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 10);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://analytics.zedoary.net/piwik.php?idsite=10" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'emptychairs'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+
+
+
+
+
+
+
+   <!-- scripts-->
+    <script type="text/javascript" src="/js/plugins/jquery.cycle2.js"></script>
+    <script type="text/javascript" src="/js/plugins/jquery.magnific-popup.js"></script>
+    <script type="text/javascript" src="/js/groundwork.all.js"></script>
+    
+    <script>
+$(function() {
+	var _scroll = {
+		delay: 1000,
+		easing: 'linear',
+		items: 1,
+		duration: 0.07,
+		timeoutDuration: 0,
+		pauseOnHover: 'immediate'
+	};
+	$('#ticker-1').carouFredSel({
+		width: 1000,
+		align: false,
+		items: {
+			width: 'variable',
+			height: 35,
+			visible: 1
+		},
+		scroll: _scroll
+	});
+ 
+$("#ticker-2").carouFredSel({
+	direction: "up",
+	items: 1,
+	scroll: {
+		fx: "fade"
+	}
+});
+ 
+	//	set carousels to be 100% wide
+	$('.caroufredsel_wrapper').css('width', '100%');
+ 
+	//	set a large width on the last DD so the ticker won't show the first item at the end
+	$('#ticker-2 dd:last').width(2000);
+});
+</script>
+    
+    
+           
+
+</body>
+</html>

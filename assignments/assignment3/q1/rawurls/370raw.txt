@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <form method="POST" action="">
+	    <input type="hidden" name="url" value="http://www.businesswire.com/news/home/20160210005476/en/Sheraton-Hotels-Resorts-Expand-Presence-Portugal-Signing?utm_campaign=Contact+SNS+For+More+Referrer&amp;utm_medium=twitter&amp;utm_source=snsanalytics" id="id_url" />
+	    <input type="hidden" name="urlHash" value="fXxzy8" id="id_urlHash" />
+	    <input type="hidden" name="username" value="2217017:0" id="id_username" />
+	    <input type="hidden" name="country" value="US" id="id_country" />
+	    <input type="hidden" name="referrer" id="id_referrer" />
+	    <input type="hidden" name="type" value="0" id="id_type" />
+        
+        
+	</form>
+	<!-- Form is submitted in iframe -->
+	<iframe name="track_iframe" style="display:none;" src="/fXxzy8?type=track_iframe&amp;utm_campaign=businesswire.com+world&amp;utm_medium=108389685%40ThePortugalHub&amp;utm_source=businesswire.com&amp;utm_content=Countries+-+Europe"></iframe>
+</body>
+</html>

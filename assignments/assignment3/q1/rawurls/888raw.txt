@@ -1,0 +1,993 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja" id="masterChannel-news"><head>
+<meta http-equiv="content-type" content="text/html;charset=shift_jis">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<script>var swspv = '(none)';var cms_summary_flag = '0';</script>
+<script src="/js/spv/movePC2SP.js"></script>
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="content-script-type" content="text/javascript">
+<!-- FIX DMOZ -->
+
+	<!-- masterType = not top -->
+
+
+	<!-- masterType == article -->
+	<!-- SET SERIES FLAG -->
+	
+		
+		<meta name="TMP_SeriesID" id="TMP_SeriesID" content="">
+	
+	<!-- SET AUTHOR FLAG -->
+	
+		
+		<meta name="TMP_JointWriterID" id="TMP_JointWriterID" content="166171">
+	
+	<!-- SET CANONICAL FLAG -->
+	
+		
+	
+
+
+<meta name="itmid:series" content="">
+<meta name="build" content="2016年02月10日 22時56分">
+<meta name="keywords" content=",速報,トップニュース,アプリ・Web,海外速報">
+<meta name="description" content="Twitterが、タイムラインを改変するのではなく、補足する新機能を追加した。ユーザーにとって重要な（とアルゴリズムが判断した）ツイートを一時的に優先表示し、リフレッシュすると通常の新着順タイムラインに戻れる。この機能はオプションで無効にでき、従来のタイムラインは今後もそのままだ。">
+<meta name="extraid" content="	at-news	kw-overseas	kw-burst	kw-topnews	kw-app_web	">
+<meta name="writer" content="佐藤由紀子，<b>ITmedia</b>">
+<meta name="dispatch" content="海外">
+<meta name="adpath" content="root/ITmedia/news/article">
+<meta name="rcid" content="">
+<meta name="rcid_filename" content="">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://www.itmedia.co.jp/news/spv/1602/10/news142.html">
+
+<meta property="og:title" content="Twitterに「タイムラインの優先表示」機能（無効化可能）">
+<meta property="og:description" content="Twitterが、タイムラインを改変するのではなく、補足する新機能を追加した。ユーザーにとって重要な（とアルゴリズムが判断した）ツイートを一時的に優先表示し、リフレッシュすると通常の新着順タイムラインに戻れる。この機能はオプションで無効にでき、従来のタイムラインは今後もそのままだ。">
+<title> Twitterに「タイムラインの優先表示」機能（無効化可能） - ITmedia ニュース</title>
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@itmedia_news">
+<meta name="twitter:creator" content="@itmedia_news">
+<meta property="og:site_name" content="ITmedia ニュース">
+<meta property="og:url" content="http://www.itmedia.co.jp/news/articles/1602/10/news142.html">
+<meta property="og:type" content="article">
+
+	<meta property="og:image" content="http://image.itmedia.co.jp/news/articles/1602/10/yu_timeline0.jpg">
+
+
+
+<link rel="alternate" type="application/rss+xml" title="ITmedia ニュース(RSS1.0)" href="http://rss.itmedia.co.jp/rss/1.0/news_bursts.xml">
+<link rel="stylesheet" href="http://www.itmedia.co.jp/css/news/base.css" type="text/css" media="all">
+<link rel="stylesheet" href="http://www.itmedia.co.jp/css/news/ad.css" type="text/css" media="all">
+<link rel="stylesheet" href="http://www.itmedia.co.jp/css/news/article.css" type="text/css" media="all">
+
+
+<link rel="stylesheet" href="http://www.itmedia.co.jp/js/lib/prettify.css">
+<script src="/js/lib/prettify.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" charset="UTF-8"></script>
+<script>jQuery.noConflict();</script>
+<script src="//fc.itmedia.co.jp/fpcookie?site_id=itm_"></script>
+<script src="/js/scAccount.js"></script>
+<script src="/js/adRequest.js"></script>
+<script src="/js/scRequest.js"></script>
+<script type="text/javascript" src="/js/base.js"></script>
+<script type="text/javascript" src="/js/ad.js"></script>
+<script type="text/javascript" src="/js/article.js"></script>
+<script type="text/javascript" src="/js/news/base.js"></script>
+<script type="text/javascript" src="/js/news/ad.js"></script>
+<script type="text/javascript" src="/js/news/article.js"></script>
+
+
+</head><body id="masterType-article">
+<script type="text/javascript">
+attachBodyClass();
+function masterChannel(){return 'news';}
+function masterType(){return 'article';}
+function prFlag(){return '';}
+function spFlag(){return '';}
+(function(){
+if(getUrl()['domain'].match(/(preview|localhost)/)) document.write('<div id="PATHDEBUG">masterChannel = <strong>' + masterChannel() + '</strong> / masterType = <strong>' + masterType() + '</strong> / smartPhone = <strong>' + spFlag() + '</strong></div>');
+return true;
+})();
+</script>
+<!--ITWS-->
+
+<!--/ITWS-->
+
+<!--ITWL-->
+
+	
+		<script>adRequest({'position':'ITWL'});</script>
+	
+
+<!--/ITWL-->
+
+<!--ITASB-->
+
+<!--/ITASB-->
+
+<!--COIDP-->
+
+	
+		<div id="COIDP"><div class="COIDP-in">
+		<script>adRequest({'position':'COIDP1','path':'root/cds/id/ITmedia/' + masterChannel()});</script>
+		<div class="COIDP-Member">
+		<script>adRequest({'position':'COIDP2','path':'root/cds/id/ITmedia/' + masterChannel()});</script>
+		<script>adRequest({'position':'COIDP3','path':'root/cds/id/ITmedia/' + masterChannel()});</script>
+		</div></div></div>
+		<script>
+		(function(){
+			var coidp = document.getElementById('COIDP');
+			if(coidp.innerHTML.match('st=noad.*pos=')){
+				coidp.style.display = 'none';
+				return false;
+			}
+			return true;
+		})();
+		</script>
+	
+
+<!--/COIDP-->
+
+<div id="masterBody"><div id="masterBodyOut"><div id="masterBodyIn">
+<div id="masterNavigation">
+
+<div id="globalNavigationGroup0">
+<div id="globalNavigation"><div class="gnavOut"><div class="gnavIn">
+<div class="gnavBtn gnavBtn0"><a href="http://www.itmedia.co.jp/" title="IT総合情報ポータル「ITmedia」">総合トップ</a></div>
+<div class="gnavBtn gnavBtn1"><a href="http://www.itmedia.co.jp/news/" title="ITとビジネスのニュース専門サイト「ITmedia News」">ニュース</a></div>
+<div class="gnavBtn gnavBtn16"><a href="http://www.itmedia.co.jp/business/" title="企業戦略に特化したビジネス情報サイト「ITmedia ビジネスオンライン」">ビジネス</a></div>
+<div class="gnavBtn gnavBtn17"><a href="http://mag.executive.itmedia.co.jp/" title="経営に携わる人のためのコミュニティ「ITmedia エグゼクティブ」">経営</a></div>
+<div class="gnavBtn gnavBtn2"><a href="http://www.itmedia.co.jp/enterprise/" title="企業のためのIT情報サイト「ITmedia エンタープライズ」">企業とIT</a></div>
+<div class="gnavBtn gnavBtn3"><a href="http://techtarget.itmedia.co.jp/" title="IT製品導入支援サイト「TechTargetジャパン」">システム導入</a></div>
+<div class="gnavBtn gnavBtn4"><a href="http://marketing.itmedia.co.jp/" title="IT×マーケティングの最新動向「ITmedia マーケティング」">Webマーケ</a></div>
+<div class="gnavBtn gnavBtn6"><a href="http://www.itmedia.co.jp/mobile/" title="携帯、スマートフォンの専門サイト「ITmedia Mobile」">スマホ</a></div>
+<div class="gnavBtn gnavBtn5"><a href="http://www.itmedia.co.jp/pcuser/" title="PCとMacの専門サイト「ITmedia PC USER」">パソコン</a></div>
+<div class="gnavBtn gnavBtn8"><a href="http://camera.itmedia.co.jp/" title="デジカメの専門サイト「ITmedia デジカメプラス」">デジカメ</a></div>
+<div class="gnavBtn gnavBtn9"><a href="http://www.itmedia.co.jp/lifestyle/" title="AV機器と家電の専門サイト「ITmedia LifeStyle」">AV家電</a></div>
+<div class="gnavBtn gnavBtn15"><a href="http://healthcare.itmedia.co.jp/" title="ITを健康に役立てる情報サイト「ITmedia ヘルスケア」">ヘルスケア</a></div>
+<div class="gnavBtn gnavBtn13"><a href="http://nlab.itmedia.co.jp/" title="ちょっと気になるネットの話題「ねとらぼ」">旬ネタ</a></div>
+<div class="gnavBtn gnavBtn11"><a href="http://www.itmedia.co.jp/douga/" title="気になる動画をまとめてチェック「ITmedia 動画」">動画</a></div>
+<div class="gnavBtn gnavBtn12"><a href="http://blogs.itmedia.co.jp/" title="ビジネスブログ・メディア「ITmedia オルタナティブ・ブログ」">ブログ</a></div>
+<div class="gnavBtn gnavBtn14"><a href="http://www.itmedia.co.jp/smartjapan/" title="節電とエネルギーを考える「スマートジャパン」">電力</a></div>
+</div></div></div>
+</div>
+<script>
+/*
+	指定要素 > 子要素の atag を oidcount
+*/
+function atag2oid(selector_id,oid_name){
+	var d = document;
+	var wrap = d.getElementById(selector_id);	
+	var atags = wrap.getElementsByTagName('a');
+	appendEventListener(window,'load',function(e){
+		for(var i = 0; i < atags.length; i++){
+			appendEventListener(atags[i],'click',function(e){
+				var str = masterChannel() + ',' + masterType() + ',' + e.target.innerHTML;
+				sc_count_oid(selector_id,str);
+			},false);
+		}
+	},false);
+};
+atag2oid('globalNavigationGroup0');
+</script>
+
+</div>
+
+<div id="masterBodyOuter"><!----><div id="masterBodyInner">
+<div id="masterHeader">
+
+	<div id="globalHeader">
+	<div id="globalHeaderTop">
+	<div id="globalTagline">ITの今が見える、明日が分かる</div>
+	<div id="globalLogo">
+	
+	<div><a href="http://www.itmedia.co.jp/news/" title="ITmedia ニュース／ITの今が見える、明日が分かる">ITmedia ニュース／ITの今が見える、明日が分かる</a></div>
+	
+	</div>
+	</div>
+	<div id="globalHeaderMiddle">
+	
+	<div id="ITN"><script>adRequest({'position':'ITRN'});</script></div>
+	
+	</div>
+	<div id="globalHeaderBottom">
+	
+<div id="localNavigation"><div class="lnavOut"><div class="lnavIn">
+<div id="lnavMain"><div class="lnavBtn"><a href="http://www.itmedia.co.jp/news/subtop/bursts/" title="速報" onClick="designCnt('lnavMain',this.href);">速報</a></div>
+<div class="lnavBtn"><a href="http://www.itmedia.co.jp/news/subtop/studio/" title="STUD/O" onClick="designCnt('lnavMain',this.href);">STUD/O</a></div>
+<div class="lnavBtn"><a href="http://www.itmedia.co.jp/news/subtop/venture/" title="ベンチャー人" onClick="designCnt('lnavMain',this.href);">ベンチャー人</a></div>
+<div class="lnavBtn"><a href="http://www.itmedia.co.jp/news/subtop/products/" title="製品動向" onClick="designCnt('lnavMain',this.href);">製品動向</a></div>
+<div class="lnavBtn"><a href="http://www.itmedia.co.jp/news/subtop/nettopics/" title="ネットの話題" onClick="designCnt('lnavMain',this.href);">ネットの話題</a></div>
+<div class="lnavBtn"><a href="http://www.itmedia.co.jp/news/subtop/society/" title="社会とIT" onClick="designCnt('lnavMain',this.href);">社会とIT</a></div>
+<div class="lnavBtn"><a href="http://www.itmedia.co.jp/news/subtop/security/" title="セキュリティ" onClick="designCnt('lnavMain',this.href);">セキュリティ</a></div>
+<div class="lnavBtn"><a href="http://www.itmedia.co.jp/news/subtop/industry/" title="企業・業界動向" onClick="designCnt('lnavMain',this.href);">企業・業界動向</a></div>
+<div class="lnavBtn"><a href="http://blogs.itmedia.co.jp/" title="ブログ" onClick="designCnt('lnavMain',this.href);">ブログ</a></div>
+<div class="lnavBtn"><a href="http://www.itmedia.co.jp/news/subtop/rumors/" title="うわさ" onClick="designCnt('lnavMain',this.href);">うわさ</a></div>
+<div class="lnavBtn"><a href="http://www.itmedia.co.jp/news/subtop/archive/" title="過去記事" onClick="designCnt('lnavMain',this.href);">過去記事</a></div>
+<div class="lnavBtn"><a href="http://release.itmedia.co.jp/release/news/" title="ベンチャーニュース" onClick="designCnt('lnavMain',this.href);">ベンチャーニュース</a></div>
+<div class="lnavBtn"><a href="http://kyujin.itmedia.co.jp/" title="転職・求人" onClick="designCnt('lnavMain',this.href);">転職・求人</a></div>
+</div>
+</div></div></div>
+<script type="text/javascript">
+</script>
+
+
+	
+	<div id="ITBB"><script>adRequest({'position':'ITBB'});</script></div>
+	
+
+	<div id="localPankuzu">
+	<div class="lpanOut"><div class="lpanIn">
+	
+<a href="http://www.itmedia.co.jp/news/">ITmedia ニュース</a> &gt;
+
+<a href="http://www.itmedia.co.jp/news/subtop/studio/">STUDIO</a> &gt;
+
+<script type="text/javascript">
+var str = document.title.replace(/\<\!\-\-EDIT START\-\-\>/g,'').replace(/\<\!\-\-EDIT END\-\-\>/g,'').replace('- ITmedia ニュース','');
+str = cutString(str,50);
+document.write(str);
+</script>
+
+	</div></div>
+	</div>
+	</div>
+	</div>
+</div>
+<div id="masterContents"><div id="globalContents">
+<div id="masterMain">
+<!---->
+
+<div id="tmplNews" class="tmplArticle"><div id="tmplNewsIn" class="tmplArticleIn">
+<!--EDIT START-->
+<!--EDIT END-->
+
+<div id="cmsType"><div class="inner">ニュース</div></div>
+
+<!-- articletype -->
+<div id="cmskeywordBox" class="cmskeywordBox"></div>
+<script type="text/javascript">
+(function(){
+	if(getMETA('extraid')){
+		keywordlist = getMETA('extraid').getAttribute('content').split('\t');
+		var cmskeywordBox = document.getElementById('cmskeywordBox');
+		var keywordtype = '<span>速報</span>';
+		for(var i=0;i<keywordlist.length;i++) {
+			if (keywordlist[i].match('kw-rumors')) {
+				keywordtype = '<span>うわさ</span>';
+				break;
+			} else if (keywordlist[i].match('kw-beononesmind')) {
+				keywordtype = '<span>気になる</span>';
+				break;
+			} else if (keywordlist[i].match('kw-indetail')) {
+				keywordtype = '<span>くわしく</span>';
+				break;
+			} else if (keywordlist[i].match('kw-roundup')) {
+				keywordtype = '<span>ラウンドアップ</span>';
+				break;
+			} else if (keywordlist[i].match('kw-series')) {
+				keywordtype = '<span>連載</span>';
+				break;
+			} else {continue;}
+		}
+		cmskeywordBox.innerHTML = keywordtype;
+	}
+})();
+</script>
+<!-- /articletype -->
+
+<div id="cmsDate"><div class="inner"><span class="arrow">≫</span> <span id="update">2016年02月10日 22時56分 UPDATE</span></div></div>
+<!--EDIT START-->
+<!--EDIT END-->
+
+<div id="cmsTitle"><div class="inner"><h1><small></small><big>Twitterに「タイムラインの優先表示」機能（無効化可能）</big></h1></div></div>
+<!--EDIT START-->
+<!--EDIT END-->
+
+<div id="cmsAbstract"><div class="inner"><h2>Twitterが、タイムラインを改変するのではなく、補足する新機能を追加した。ユーザーにとって重要な（とアルゴリズムが判断した）ツイートを一時的に優先表示し、リフレッシュすると通常の新着順タイムラインに戻れる。この機能はオプションで無効にでき、従来のタイムラインは今後もそのままだ。</h2></div></div>
+<!--EDIT START-->
+<!--EDIT END-->
+
+<div id="cmsByline"><div class="inner" id="byline"><b>[</b>佐藤由紀子，<b>ITmedia]</b></div></div>
+<!-- SET AUTHOR INDEX LINK -->
+<script>
+jQuery(document).ready(function(){
+
+var d = document;
+
+// 著者 META と著者 DOM のチェック
+if(!d.getElementById('byline') || !d.getElementById('TMP_JointWriterID')) return false;
+
+// 著者 META の取得
+var authorID = d.getElementById('TMP_JointWriterID').content;
+
+// 著者 META content のチェック
+if(authorID == '') return false;
+
+// 著者 META を配列にする
+var authorIDs = authorID.split(',');
+
+// 著者 DOM の取得
+var authorDOM = d.getElementById('byline');
+
+// 著者 HTML の取得
+var authorHTML = authorDOM.innerHTML;
+
+// 著者 HTML の分解
+// [0] = <b>[</b>著者名1, 著者名2，<b>シグネチャ</b>
+// [1] = <b>[</b>
+// [2] = 著者名1, 著者名2
+// [3] = ，<b>シグネチャ</b>
+var authorHTMLs = authorHTML.match(/^(<b>\[<\/b>)(.+)(，<b>.+<\/b>)$/);
+
+// 正しく分解できているかチェック
+if(authorHTMLs == null) return false;
+if(authorHTMLs.length != 4) return false;
+
+// 著者名を配列にする
+var authorTXTs = authorHTMLs[2].split(', ');
+
+// 著者名を著者インデックスへのリンク付きに変換
+var rep_authorTXTs = [];
+for(var i = 0; i < authorTXTs.length; i++){
+	rep_authorTXTs.push('<a href="http://www.itmedia.co.jp/author/' + authorIDs[i] + '/">' + authorTXTs[i] + '</a>');
+}
+
+// リンク付き著者名をオリジナルと入れ替える
+authorHTMLs[2] = rep_authorTXTs.join(', ');
+
+// 著者 DOM 内に HTML を戻す
+authorDOM.innerHTML = authorHTMLs[1] + authorHTMLs[2] + authorHTMLs[3];
+
+return true;
+});
+</script>
+
+<!-- Facebook JavaScript SDK <Body> のすぐ後に配置 -->
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.3";
+	fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- Facebook JavaScript SDK <Body> のすぐ後に配置 -->
+<link rel="stylesheet" href="http://www.itmedia.co.jp/css/socialbutton.css">
+<script src="/js/socialbutton.js"></script>
+
+
+	<!-- news|enterprise -->
+	<!-- UNDER/WHITE/1LINE/MIXI -->
+	<!-- DEFAULT -->
+	<script>
+	msbBtn({
+	'pos':'top',
+	'tag':'table',
+	'popup_pos':'under',
+	'base_color':'white',
+	'line':[
+	[
+		{'name':'印刷／PDF','title':'この記事を印刷する','id':'printbutton'},
+		{'name':'ツイート','id':'tweetbutton'},
+		{'name':'Like Button','id':'likebutton'},
+		{'name':'Mixi チェック','id':'mixicheck'},
+		{'name':'Google +1 Button','id':'googleplusone'},
+		{'name':'Pocket Button','id':'pocketbuttonC'},
+		{'name':'通知','id':'itmid','data':[
+			{'name':'類似記事の掲載をメールで通知','id':'alertbutton'},
+			{'name':'連載「％」の新着をメールで通知','id':'alertseries'},
+		{}]},
+	{}],
+	[]]
+	});
+	</script>
+
+
+
+<div id="cmsBody"><div class="inner">
+<!--EDIT START-->
+
+<div class="colBoxClear"></div>
+<div id="ITT">
+<script>adRequest({'position':'ITT1'});</script>
+<script>adRequest({'position':'ITT2'});</script>
+</div>
+<div id="TABLETAD"><script>adRequest({'position':'TABLETAD'});</script></div>
+
+<!--EDIT END-->
+<div id="cmsMark"><!-- null for itmedia-->
+</div>
+<p>　米Twitterは2月10日（現地時間）、ユーザーにとって重要とアルゴリズムが判断したツイートをタイムラインの上部に表示する新機能「タイムラインの優先表示」を全ユーザーに向けて追加したと発表した。</p>
+<p>　2015年1月からある「<A href="http://www.itmedia.co.jp/news/articles/1501/22/news058.html">Recap（あなたがいない間に）</A>」をより発展させたような機能で、しばらく（どのくらいかは不明）離れていた後でTwitterのタイムラインを開くと、離れていた間に溜まっていた、ユーザーにとって重要とTwitterのアルゴリズムが判断した復数のツイートが上部に表示される。</p>
+<p>　Recapとの大きな違いは、Recapはツイートがランダムに表示されたが、新機能では新着順に表示される点だ。</p>
+<p>　優先表示されるツイートの数はフォローする相手の数や不在だった期間にもよるが、普通にスクロールしていくことで重要なツイートをキャッチアップできる。画面をリフレッシュすると通常のリアルタイムの新着順（新しいツイートほど上に表示される）のタイムラインに戻る。リフレッシュするには、モバイルアプリは上から下にスワイプする。Webブラウザの場合は再読み込みすればいい。</p>
+<p>　この機能はオプトイン（初期設定では無効）のオプションとして提供されるが、提供開始からしばらくは自動的に有効になり、有効であることをタイムライン上ではっきり告知するとしている。</p>
+<p>　この告知をタップ（クリック）すると、機能の設定変更方法の説明が表示される。</p>
+<p>　<A HREF="https://support.twitter.com/articles/229617#settings">日本語のヘルプ</A>には以下のように説明されている。</p>
+<!--CAP-->
+<div id="col600c"><a name="yu_timeline0.jpg"></a><img src="http://image.itmedia.co.jp/news/articles/1602/10/yu_timeline0.jpg" width="542" height="133" alt=" timeline 0">
+<small> </small></div>
+<!--CAPEND-->
+<p>　優先表示を無効にするには、「アカウント」→「設定」で表示されるページに新たに追加された「タイムラインの表示設定」をタップして表示される画面で「重要な新着ツイートをトップに表示」をオフにする。</p>
+<!--CAP-->
+<div id="col500c"><a name="l_yu_timeline1.jpg"></a><a href="http://image.itmedia.co.jp/l/im/news/articles/1602/10/l_yu_timeline1.jpg"><img src="http://image.itmedia.co.jp/news/articles/1602/10/yu_timeline1.jpg" width="490" height="361" alt=" timeline 1"></a>
+<small> 無効方法（iOSの場合）</small></div>
+<!--CAPEND-->
+<p>　なお、「タイムラインの優先表示」は「あなたのいない間に」と基本的に同じコンセプトではあるが、当面は併存させるという（「あなたのいない間に」機能はオフにできない）。</p>
+<p>　この発表の前に、Twitterがタイムラインの表示を新着順ではなくすという<A href="http://www.itmedia.co.jp/news/articles/1602/07/news020.html">うわさが立ち、ジャック・ドーシーCEOが否定した</A>ように、タイムライン自体は変わらない。</p>
+<p>　米Facebookが<A href="http://www.itmedia.co.jp/news/articles/1109/21/news022.html">かつて実施した</A>ように、「ハイライト」と「最新情報」の2種類のニュースフィード（Twitterの場合はタイムライン）にするわけではなく、通常のタイムラインに余計なアルゴリズムを追加するわけでもない。</p>
+<p>　あくまでも、Twitterから離れている間に読み損ねた可能性のあるツイートを表示するための機能であり、不要であれば従来通りの新着順の時系列タイムラインのみを使い続けられる。</p>
+<p>　連投ツイートで一連のストーリーを展開しているような場合、その中の1つが唐突に表示される可能性があるが、そのストーリーの存在すら知らずに過ぎてしまうよりはよさそうだ。ツイートしたユーザー名をタップすればストーリー全体にたどり着けるだろう。</p>
+<p>　また、例えば炎上したツイートを修正あるいは謝罪する場合、リプライとしてツイートすれば、トップに表示されたツイートと一緒にリプライも表示されることになる。</p>
+<div class="endlink" id="endlinkConnection">
+<h4>関連記事</h4>
+<ul id="art">
+<li class="endlink-art" id="endlink-art1"><a href="http://www.itmedia.co.jp/news/articles/1602/10/news055.html" onclick="designCnt('lart', s.hier3);"><img src="http://image.itmedia.co.jp/news/articles/1602/10/news055.jpg" width="80" height="60" alt="Twitter、タイムラインのトップに広告動画が表示される「First View」発表" align="left">Twitter、タイムラインのトップに広告動画が表示される「First View」発表</a><br>
+Twitterが、広告主がユーザーのタイムラインの上部にプロモビデオ（動画付き広告ツイート）を表示できる広告商品「First View」を発表した。表示されるのは1度だけだが、タイムラインの不純物がまた1つ増える。</li>
+<li class="endlink-art" id="endlink-art2"><a href="http://www.itmedia.co.jp/news/articles/1602/07/news020.html" onclick="designCnt('lart', s.hier3);"><img src="http://image.itmedia.co.jp/news/articles/1602/07/news020.jpg" width="80" height="60" alt="TwitterのドーシーCEO、「来週タイムラインを変更」のうわさをツイートで否定" align="left">TwitterのドーシーCEO、「来週タイムラインを変更」のうわさをツイートで否定</a><br>
+「来週中にもTwitterのタイムラインが時系列ではなくなる」という報道を受け、Twitterのジャック・ドーシーCEOが自身のTwitterで、「われわれがいつもみんなの声を傾聴していることを知っておいてほしい。来週タイムラインを変更する計画など立てていない」とツイートした。</li>
+<li class="endlink-art" id="endlink-art3"><a href="http://www.itmedia.co.jp/news/articles/1601/06/news056.html" onclick="designCnt('lart', s.hier3);"><img src="http://image.itmedia.co.jp/news/articles/1601/06/news056.jpg" width="80" height="60" alt="Twitter、3月末に「140文字制限」をいよいよ撤廃か" align="left">Twitter、3月末に「140文字制限」をいよいよ撤廃か</a><br>
+Twitterが、サービスのコアな特徴であるツイートの140文字制限を撤廃するテストを行っており、3月末には正式に導入するとRe/codeが報じた。</li>
+<li class="endlink-art" id="endlink-art4"><a href="http://www.itmedia.co.jp/news/articles/1501/22/news058.html" onclick="designCnt('lart', s.hier3);"><img src="http://image.itmedia.co.jp/news/articles/1501/22/news058.jpg" width="80" height="60" alt="Twitter、不在中の“重要な”ツイートをトップに表示する「あなたがいない間に」機能" align="left">Twitter、不在中の“重要な”ツイートをトップに表示する「あなたがいない間に」機能</a><br>
+Twitterが、ユーザーがTwitterを離れていた間にタイムラインを流れたツイートから重要とみなしたツイートをピックアップして画面トップに表示する「Recap」機能をモバイルおよびWebアプリに追加する。この機能はオフにできない。</li>
+<li class="endlink-art" id="endlink-art5"><a href="http://www.itmedia.co.jp/news/articles/1408/20/news044.html" onclick="designCnt('lart', s.hier3);"><img src="http://image.itmedia.co.jp/news/articles/1408/20/news044.jpg" width="80" height="60" alt="Twitter、タイムラインへの“不純物”表示を正式機能に" align="left">Twitter、タイムラインへの“不純物”表示を正式機能に</a><br>
+これまでプロモツイート以外はユーザーがフォローしている相手のツイートのみが表示されてきたTwitterのタイムラインに、今後はフォローしていないアカウントのツイートが表示されるようになる。</li>
+</ul>
+<h4>関連リンク</h4>
+<ul id="lnk">
+<li class="endlink-lnk" id="endlink-lnk1"><a href="https://blog.twitter.com/2016/never-miss-important-tweets-from-people-you-follow" onclick="designCnt('llnk', s.hier3);">公式ブログ</a></li>
+</ul>
+</div>
+
+<div id="cmsCopyright">
+<p><span style="font-size:65%;font-family:Arial,Helvetica,sans-serif;line-height:135%;color:#555555;">
+Copyright&copy; 2016 ITmedia, Inc. All Rights Reserved.</span></p>
+</div>
+<!--EDIT START-->
+
+<div id="tmplCopyright"></div>
+<script>
+(function(){
+if(!document.getElementById('cmsBody')) return false;
+if(!document.getElementById('cmsCopyright')) return false;
+if(!document.getElementById('tmplCopyright')) return false;
+var a = document.getElementById('cmsCopyright');
+var b = document.getElementById('tmplCopyright');
+b.appendChild(a);
+return true;
+})();
+</script>
+
+
+
+
+
+	<!-- news -->
+	<!-- UNDER/WHITE/1LINE/MIXI -->
+	<!-- DEFAULT -->
+	<script>
+	msbBtn({
+	'pos':'btm',
+	'tag':'table',
+	'popup_pos':'under',
+	'base_color':'white',
+	'line':[
+	[
+		{'name':'印刷／PDF','title':'この記事を印刷する','id':'printbutton'},
+		{'name':'ツイート','id':'tweetbutton'},
+		{'name':'Like Button','id':'likebutton'},
+		{'name':'Mixi チェック','id':'mixicheck'},
+		{'name':'Google +1 Button','id':'googleplusone'},
+		{'name':'Pocket Button','id':'pocketbuttonC'},
+		{'name':'通知','id':'itmid','data':[
+			{'name':'類似記事の掲載をメールで通知','id':'alertbutton'},
+			{'name':'連載「％」の新着をメールで通知','id':'alertseries'},
+		{}]},
+	{}],
+	[]]
+	});
+	</script>
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+{lang:'ja',parsetags:'explicit'}
+</script>
+<script type="text/javascript">gapi.plusone.go();</script>
+
+<!--EDIT END-->
+
+</div></div> 
+
+<div id="ITIR"><script>adRequest({'position':'ITIR'});</script></div>
+<div class="colBoxClear h10px"></div>
+<div id="ITKB"><script>adRequest({'position':'ITKB'});</script></div>
+<div class="colBoxClear h10px"></div>
+<div id="ISALC"><script>adRequest({'position':'20ISALC'});</script></div>
+<div id="ITSB" class="colBoxL50"><script>adRequest({'position':'ITSB'});</script></div>
+<div id="ITSB2" class="colBoxR50"><script>adRequest({'position':'ITSB2'});</script></div>
+<div class="colBoxClear h10px"></div>
+<script charset="utf-8" src="http://www.itmedia.co.jp/nac/newzia/126/script.js" type="text/javascript"></script>
+<script type="text/javascript" src="/json/kyujin/parts_subcolJobboard.json" charset="Shift_JIS"></script>
+<div class="colBoxClear h10px"></div>
+
+<div id="cmsPrcredit"><div class="inner"></div></div>
+
+
+</div></div>
+
+<script>endlinkAll();</script>
+
+<!---->
+</div>
+
+	<div id="masterSub">
+	
+	<!--EDIT START-->
+	<!--編集記事-->
+	<div id="globalHeaderSearch">
+<div id='cse-search-form' style='width: 100%;'>Loading</div>
+<script src='//www.google.com/jsapi' type='text/javascript'></script>
+<script type='text/javascript'>
+google.load('search', '1', {language: 'ja', style: google.loader.themes.V2_DEFAULT});
+google.setOnLoadCallback(function() {
+  var customSearchOptions = {};
+  var customSearchControl =   new google.search.CustomSearchControl('partner-pub-2201843946232317:5244355042', customSearchOptions);
+  customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+  var options = new google.search.DrawOptions();
+  options.enableSearchboxOnly('https://www.google.co.jp/cse?cx=partner-pub-2201843946232317:5244355042', null, true);
+  customSearchControl.draw('cse-search-form', options);
+}, true);
+</script>
+
+</div>
+
+	<div id="ITR"><script>adRequest({'position':'ITRR'});</script></div>
+	<div id="ISALR"><script>adRequest({'position':'30ISALR'});</script></div>
+	<!-- htmlgen -->
+<div class="colBox colBoxSeminar">
+<div class="colBoxOuter">
+<div class="colBoxHead"><h2>お勧めの主催・協力セミナー</h2></div>
+<div class="colBoxInner">
+<div class="colBoxIndex">
+<div class="colBoxIcon">
+<a href="https://itmedia.smartseminar.jp/public/application/add/1236?sslp=67_7" title="クックパッドのオフィスの中心にあるキッチンがもらたす効果とは？"><img src="http://image.itmedia.co.jp/enterprise/images/40x40_1_1454318306.jpg"></a></div>
+<div class="colBoxTitle"><h3><a href="https://itmedia.smartseminar.jp/public/application/add/1236?sslp=67_7" title="クックパッドのオフィスの中心にあるキッチンがもらたす効果とは？">クックパッドのオフィスの中心にあるキッチンがもらたす効果とは？</a><span class="colBoxNewtxt"></span></h3></div>
+<div class="colBoxClear"></div>
+</div>
+<div class="colBoxIndex">
+<div class="colBoxIcon">
+<a href="https://itmedia.smartseminar.jp/public/application/add/1252?sslp=76_04" title="月刊総務編集長×アイティメディア管理部門がトーク：今、攻めの管理部門になるために、あなたができることとは？"><img src="http://image.itmedia.co.jp/enterprise/images/40x40_1_1454318449.jpg"></a></div>
+<div class="colBoxTitle"><h3><a href="https://itmedia.smartseminar.jp/public/application/add/1252?sslp=76_04" title="月刊総務編集長×アイティメディア管理部門がトーク：今、攻めの管理部門になるために、あなたができることとは？">月刊総務編集長×アイティメディア管理部門がトーク：今、攻めの管理部門になるために、あなたができることとは？</a><span class="colBoxNewtxt">New!</span></h3></div>
+<div class="colBoxClear"></div>
+</div>
+<div class="colBoxIndex">
+<div class="colBoxIcon">
+<a href="https://itmedia.smartseminar.jp/public/application/add/1228" title="モバイル、IoT、ロボット、人口知能――『最新トレンド』を業務に活用するテクニック教えます"><img src="http://image.itmedia.co.jp/enterprise/images/40x40_1_1454557271.jpg"></a></div>
+<div class="colBoxTitle"><h3><a href="https://itmedia.smartseminar.jp/public/application/add/1228" title="モバイル、IoT、ロボット、人口知能――『最新トレンド』を業務に活用するテクニック教えます">モバイル、IoT、ロボット、人口知能――『最新トレンド』を業務に活用するテクニック教えます</a><span class="colBoxNewtxt">New!</span></h3></div>
+<div class="colBoxClear"></div>
+</div>
+<div class="colBoxIndex">
+<div class="colBoxIcon">
+<a href="https://itmedia.smartseminar.jp/public/application/add/1248" title="【積水化学グループは何故、アジアを選んだのか】ASEAN市場の“魅力”と、日本企業が“勝てるIT戦略”を掴む3時間"><img src="http://image.itmedia.co.jp/enterprise/images/40x40_1_1455087119.gif"></a></div>
+<div class="colBoxTitle"><h3><a href="https://itmedia.smartseminar.jp/public/application/add/1248" title="【積水化学グループは何故、アジアを選んだのか】ASEAN市場の“魅力”と、日本企業が“勝てるIT戦略”を掴む3時間">【積水化学グループは何故、アジアを選んだのか】ASEAN市場の“魅力”と、日本企業が“勝てるIT戦略”を掴む3時間</a><span class="colBoxNewtxt">New!</span></h3></div>
+<div class="colBoxClear"></div>
+</div>
+<div class="colBoxClear h10px"></div>
+</div>
+</div>
+</div>
+<!-- /htmlgen -->
+
+	<!-- HP 特設枠 -->
+	
+<div class="colBox colBoxHpSpecial"><div class="colBoxOuter"><div class="colBoxHead"><h2>ピックアップコンテンツ</h2><span class="colBoxHeadSubtxt">- PR -</span></div><div class="colBoxInner">
+<div class="colBoxIndex">
+<div class="colBoxIcon"><a href="http://www.itmedia.co.jp/enterprise/special/et140805/index.html"><img src="http://image.itmedia.co.jp/enterprise/special/et140805/images/index/parts/150701_8060.jpg"></a></div>
+<div class="colBoxTitle"><h3><a href="http://www.itmedia.co.jp/enterprise/special/et140805/index.html" style="font-weight:bold;">日本はITでまだ変われる</a></h3></div>
+<div class="colBoxAbstract"><small>日本はIT先進国になれるのか？ 目の前の問題を解決しつつ、2020年に向けたITの進化を考える</small></div> <div class="colBoxClear h10px"></div></div>
+</div></div></div>
+
+	
+	<!-- 求人特集 -->
+	<div class="colBox colBoxSubcolFeatures" id="subcolFeatures"></div>
+	<script type="text/javascript" src="/json/kyujin/parts_features.json" charset="Shift_JIS"></script>
+	<div class="colBoxClear h10px"></div>
+	<!-- /求人特集 -->
+	<div class="colBox colBoxRanking">
+<div class="colBoxOuter">
+<div class="colBoxHead"><h2>人気記事ランキング</h2></div>
+<div class="colBoxInner">
+<div class="colBoxIndex">
+<div class="colBoxOlist">
+<ol>
+<!-- RSS2include -->
+<li class="rank1"><a href="http://www.itmedia.co.jp/news/articles/1602/17/news102.html" title="銃乱射犯のiPhoneパスコードを総当たりへ──米判事、Appleに「10回ミスでデータ消去」機能のオフ命じる" onclick="designCnt('アクセスランキング','rank1');">銃乱射犯のiPhoneパスコードを総当たりへ──米判事、Appleに「10回ミスでデータ消去」機能のオフ命じる</a></li><li class="rank2"><a href="http://www.itmedia.co.jp/news/articles/1602/17/news067.html" title="iPhone 7用「A10」でSamsungは排除？" onclick="designCnt('アクセスランキング','rank2');">iPhone 7用「A10」でSamsungは排除？</a></li><li class="rank3"><a href="http://www.itmedia.co.jp/news/articles/1602/17/news147.html" title="日本郵政かたる不審メール急増　注意を" onclick="designCnt('アクセスランキング','rank3');">日本郵政かたる不審メール急増　注意を</a></li><li class="rank4"><a href="http://www.itmedia.co.jp/news/articles/1602/17/news088.html" title="組織の長期的存続には“働かないアリ”が必要――北大研究" onclick="designCnt('アクセスランキング','rank4');">組織の長期的存続には“働かないアリ”が必要――北大研究</a></li><li class="rank5"><a href="http://www.itmedia.co.jp/news/articles/1602/17/news069.html" title="「な　ん　て　日　だ　！」　シャープ公式アカウント、鴻海傘下入り交渉に“無常観”" onclick="designCnt('アクセスランキング','rank5');">「な　ん　て　日　だ　！」　シャープ公式アカウント、鴻海傘下入り交渉に“無常観”</a></li><li class="rank6"><a href="http://www.itmedia.co.jp/news/articles/1602/17/news101.html" title="映画「スティーブ・ジョブズ」はiTunesで販売しているはずなのに" onclick="designCnt('アクセスランキング','rank6');">映画「スティーブ・ジョブズ」はiTunesで販売しているはずなのに</a></li><li class="rank7"><a href="http://www.itmedia.co.jp/news/articles/1602/16/news067.html" title="Appleに日本の下請けが一矢　東京地裁中間判決「米国での審理」退ける" onclick="designCnt('アクセスランキング','rank7');">Appleに日本の下請けが一矢　東京地裁中間判決「米国での審理」退ける</a></li><li class="rank8"><a href="http://www.itmedia.co.jp/news/articles/1602/17/news068.html" title="あくせく働かない“山奥ニート”増殖中……新しいライフスタイル？　自由気ままに暮らしたい" onclick="designCnt('アクセスランキング','rank8');">あくせく働かない“山奥ニート”増殖中……新しいライフスタイル？　自由気ままに暮らしたい</a></li><li class="rank9"><a href="http://www.itmedia.co.jp/news/articles/1602/16/news139.html" title="伊能忠敬の測量に協力した約1万2000人のデータを公開　子孫の名乗り出、史料発掘呼びかけ" onclick="designCnt('アクセスランキング','rank9');">伊能忠敬の測量に協力した約1万2000人のデータを公開　子孫の名乗り出、史料発掘呼びかけ</a></li><li class="rank10"><a href="http://www.itmedia.co.jp/news/articles/1602/17/news152.html" title="Apple、FBI捜査のためのiPhoneバックドア命令を拒否──自由を脅かすもの" onclick="designCnt('アクセスランキング','rank10');">Apple、FBI捜査のためのiPhoneバックドア命令を拒否──自由を脅かすもの</a></li>
+<!-- RSS2include -->
+</ol>
+</div>
+<div class="colBoxPageLink"><a href="http://www.itmedia.co.jp/ranking/news.html" title="ランキングトップ30 一覧" onclick="designCnt('アクセスランキングトップ30');">ランキングトップ30 一覧 &raquo;</a></div> 
+<div class="colBoxClear h10px"></div>
+</div>
+</div>
+</div>
+</div>
+
+	<!-- htmlgen -->
+<!-- /htmlgen -->
+
+	<div id="ITR2"><script>adRequest({'position':'ITR2'});</script></div>
+	<div class="colBoxClear h5px"></div>
+	<div id="ITKT">
+	<script>adRequest({'position':'ITKT1'});</script>
+	<script>adRequest({'position':'ITKT2'});</script>
+	<script>adRequest({'position':'ITKT3'});</script>
+	</div>
+	<div class="colBoxClear h10px"></div>
+	<!-- htmlgen -->
+
+<div id="marketCommentary" class="colBox colBoxMarketCommentary">
+<div class="colBoxOuter">
+<div class="colBoxHead"><h2>マーケット解説</h2><span class="colBoxHeadSubtxt">- PR -</span></div>
+<div class="colBoxInner">
+
+<div class="colBoxIndex">
+<div class="colBoxIcon">
+<a href="http://www.itmedia.co.jp/enterprise/special/et160116/index.html"><img src="http://image.itmedia.co.jp/news/images/htmlgen/images_rc_marketCommentary_1_1452583587.jpg"></a>
+</div>
+<div class="colBoxUlist"><ul>
+<li><a title="スピード経営時代、企業が選ぶべきクラウドERPは？"  href="http://www.itmedia.co.jp/enterprise/articles/1601/12/news024.html">スピード経営時代、企業が選ぶべきクラウドERPは？</a></li>
+</ul></div>
+</div>
+
+<div class="colBoxIndex">
+<div class="colBoxIcon">
+<a href="http://www.itmedia.co.jp/enterprise/special/et151104/index.html"><img src="http://image.itmedia.co.jp/news/images/htmlgen/images_rc_marketCommentary_2_1452583587.jpg"></a>
+</div>
+<div class="colBoxUlist"><ul>
+<li><a title="求めるのは“社員を動かすグループウェア”――ノークリサーチに聞く最新トレンド"  href="http://www.itmedia.co.jp/enterprise/articles/1511/09/news018.html">求めるのは“社員を動かすグループウェア”――ノークリサーチに聞く最新トレンド</a></li>
+</ul></div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="colBoxClear h10px"></div>
+
+<!-- /htmlgen -->
+
+	<div class="colBox snsContents">
+<div class="colBoxFacebook">
+<div class="fb-page" data-href="https://www.facebook.com/ITmediaNews" data-width="290px" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/ITmediaNews"><a href="https://www.facebook.com/ITmediaNews">ITmedia News</a></blockquote></div></div>
+</div>
+<div class="colBoxTwitter">
+<a href="https://twitter.com/itmedia_news" class="twitter-follow-button" data-show-count="false" data-lang="ja" data-size="large">@itmedia_newsさんをフォロー</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div>
+</div>
+<div class="colBoxClear"></div>
+
+	<script type="text/javascript" src="/json/enterprise/rss_mailmag.json" title="tmpl=A,loop=2"></script>
+	<script type="text/javascript" src="/js/news/parts_press.js" charset="shift_jis"></script>
+
+	<!-- GoogleAdSense -->
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- 02_10_news_3rdRT -->
+	<ins class="adsbygoogle"
+	     style="display:inline-block;width:300px;height:250px"
+	     data-ad-client="ca-pub-2201843946232317"
+	     data-ad-slot="1983826641"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+	<!-- /GoogleAdSense -->
+
+	<div class="colBox colBoxfeedback">
+<div class="colBoxOuter">
+<div class="colBoxInner">
+<div class="colBoxClear h10px"></div>
+<div class="colBoxIndex colBoxIndexL60">
+<div class="colBoxUlist">
+<ul>
+<li class="colBoxfeedbackVoice"><a href="http://www.itmedia.co.jp/info/mail/index.html?article#article" title="ご意見・ご感想">ご意見・ご感想</a></li>
+<li class="colBoxfeedbackMail"><a href="http://corp.itmedia.co.jp/corp/inquiry/" title="リリース送付先">リリース送付先</a></li>
+<li class="colBoxfeedbackCorp"><a href="http://corp.itmedia.co.jp/ad/inquiry/" title="広告に関するお問い合わせ">広告に関するお問い合わせ</a></li>
+<li class="colBoxfeedbackMl"><a href="http://www.itmedia.co.jp/enterprise/info/lp/enterprise_mailmag.html" title="メールマガジン">メールマガジン</a></li>
+<li class="colBoxfeedbackSpecial"><a href="http://www.itmedia.co.jp/news/pr_specialarchive.html" title="Specialインデックス">Specialインデックス</a></li>
+<li class="colBoxfeedbackPl"><a href="http://blog.corp.itmedia.co.jp/" title="アイティメディアからのお知らせブログ">アイティメディアからのお知らせブログ</a></li>
+</ul>
+</div>
+<div class="colBoxClear h10px"></div>
+</div>
+<div class="colBoxIndex colBoxIndexR30">
+<div class="colBoxUlist">
+<ul>
+<li class="colBoxfeedbackRss"><a href="http://www.itmedia.co.jp/info/rss/news.html" title="ITmedia ニュースのRSSフィード" target="_blank">RSS</a></li>
+<li class="colBoxfeedbackFb"><a href="http://www.facebook.com/ITmediaNews" title="ITmedia ニュースのfacebookをフォローする" target="_blank">facebook</a></li>
+<li class="colBoxfeedbackTw"><a href="http://twitter.com/#!/itmedia_news" title="ITmedia ニュースのTwitterアカウント「itmedia_news」をフォローする" target="_blank">twitter</a></li>
+</ul>
+</div>
+<div class="colBoxClear h10px"></div>
+</div>
+<div class="colBoxClear h10px"></div>
+</div>
+</div>
+</div>
+
+	<!--EDIT END-->
+	
+
+</div>
+
+<div class="colBoxClear"></div>
+</div></div>
+<!---->
+
+
+<div id="masterFooter">
+	<div id="globalFooter">
+		<div id="globalFooterLink">
+<a href="http://www.itmedia.co.jp/info/sitemap/">サイトマップ</a> | <a href="http://www.itmedia.co.jp/info/rule/">利用規約</a> | <a href="http://corp.itmedia.co.jp/corp/privacy/">プライバシーポリシー</a> | <a href="http://corp.itmedia.co.jp/ad/">広告案内</a> | <a href="http://www.itmedia.co.jp/info/mail/">お問い合わせ</a>
+</div>
+<div id="ME"><script>adRequest({'position':'ME'});</script></div>
+		<!-- masterFooterNavigation -->
+<div id="globalFooterMediaList">
+	<div id="globalFooterMediaListIn">
+		<div class="mediaListGroup">
+			<div class="mediaList" id="mediaList01">
+				<h2>IT総合</h2>
+				<ul>
+				<li><a href="http://www.itmedia.co.jp/">ITmedia 総合TOP</a></li>
+				<li><a href="http://www.itmedia.co.jp/news/">ITmedia ニュース</a></li>
+				<li><a href="http://www.itmedia.co.jp/keywords/">ITmedia Keywords</a></li>
+				<li><a href="http://www.itmedia.co.jp/qa/">質問！ITmedia</a></li>
+				<li><a href="http://www.itmedia.co.jp/douga/">ITmedia 動画</a></li>
+				</ul>
+			</div><!-- /#mediaList01 -->
+			<div class="mediaList" id="mediaList02">
+				<h2>デジタル・ガジェット</h2>
+				<ul>
+				<li><a href="http://www.itmedia.co.jp/mobile/">ITmedia Mobile</a></li>
+				<li><a href="http://www.itmedia.co.jp/pcuser/">ITmedia PC USER</a></li>
+				<li><a href="http://www.itmedia.co.jp/lifestyle/">ITmedia LifeStyle</a></li>
+				<li><a href="http://camera.itmedia.co.jp/">デジカメプラス</a></li>
+				</ul>
+			</div><!-- /#mediaList02 -->
+			<div class="mediaList" id="mediaList03">
+				<h2>ビジネス</h2>
+				<ul>
+				<li><a href="http://www.itmedia.co.jp/business/">ITmedia ビジネスオンライン</a></li>
+				<li><a href="http://mag.executive.itmedia.co.jp/">ITmedia エグゼクティブ</a></li>
+				<li><a href="http://marketing.itmedia.co.jp/">ITmedia マーケティング</a></li>
+				<li><a href="http://blog.marketing.itmedia.co.jp/">マーケター通信 </a></li>
+				<li><a href="http://chosa.itmedia.co.jp/">調査のチカラ</a></li>
+				<li><a href="http://www.itmedia.co.jp/pcuser/subtop/pcuserpro/">ITmedia PC USER Pro</a></li>
+				</ul>
+			</div><!-- /#mediaList03 -->
+			<div class="mediaList" id="mediaList04">
+				<h2>カルチャー</h2>
+				<ul>
+				<li><a href="http://nlab.itmedia.co.jp/">ねとらぼ</a></li>
+				<li><a href="http://nlab.itmedia.co.jp/nl/subtop/entertainment/">ねとらぼエンタ</a></li>
+				<li><a href="http://classics.itmedia.co.jp/">ITmedia 名作文庫</a></li>
+				</ul>
+			</div><!-- /#mediaList04 -->
+			<div class="mediaList" id="mediaList10">
+				<h2>ライフ</h2>
+				<ul>
+				<li><a href="http://healthcare.itmedia.co.jp/">ヘルスケア</a></li>
+				</ul>
+			</div><!-- /#mediaList04 -->
+		</div><!-- /.mediaListGroup -->
+		<div class="mediaListGroup">
+			<div class="mediaList" id="mediaList06">
+				<h2>企業IT</h2>
+				<ul>
+				<li><a href="http://www.itmedia.co.jp/enterprise/">ITmedia エンタープライズ</a></li>
+				<li><a href="http://www.itmedia.co.jp/enterprise/subtop/dictionary/">情報システム用語事典</a></li>
+				<li><a href="http://blogs.itmedia.co.jp/">オルタナティブ・ブログ</a></li>
+				<li><a href="http://techtarget.itmedia.co.jp/">TechTargetジャパン</a></li>
+				<li><a href="http://wp.techtarget.itmedia.co.jp/">ホワイトペーパー</a></li>
+				<li><a href="http://techtarget.itmedia.co.jp/tt/cw/">Computer Weekly</a></li>
+				<li><a href="http://www.keyman.or.jp/">キーマンズネット</a></li>
+				<li><a href="http://hnavi.co.jp/">発注ナビ</a></li>
+				</ul>
+			</div><!-- /#mediaList06 -->
+			<div class="mediaList" id="mediaList07">
+				<h2>テクノロジー</h2>
+				<ul>
+				<li><a href="http://www.atmarkit.co.jp/">＠IT</a></li>
+				<li><a href="http://qa.atmarkit.co.jp/">QA＠IT</a></li>
+				<li><a href="https://event.atmarkit.co.jp/">イベントカレンダー＋ログ</a></li>
+				</ul>
+			</div><!-- /#mediaList07 -->
+			<div class="mediaList" id="mediaList08">
+				<h2>エンジニアリング</h2>
+				<ul>
+				<li><a href="http://monoist.atmarkit.co.jp/">MONOist</a></li>
+				<li><a href="http://eetimes.jp/">EE Times Japan</a></li>
+				<li><a href="http://ednjapan.com/">EDN Japan</a></li>
+				<li><a href="http://www.itmedia.co.jp/smartjapan/">スマートジャパン</a></li>
+				<li><a href="http://monoist.atmarkit.co.jp/mn/special/mo120701/">モノづくりライブラリ</a></li>
+				<li><a href="https://modelabo.itmedia.co.jp/">3Dモデラボ</a></li>
+				</ul>
+			</div><!-- /#mediaList08 -->
+			<div class="mediaList" id="mediaList09">
+				<h2>キャリア</h2>
+				<ul>
+				<li><a href="http://www.atmarkit.co.jp/ait/subtop/jibun/">＠IT自分戦略研究所</a></li>
+				<li><a href="http://el.jibun.atmarkit.co.jp/">エンジニアライフ</a></li>
+				<li><a href="http://www.itmedia.co.jp/enterprise/subtop/dilbert/">ディルバート</a></li>
+				</ul>
+			</div><!-- /#mediaList09 -->
+			<div class="mediaList" id="mediaList05">
+				<h2>アプリ</h2>
+				<ul>
+				<li><a href="http://www.itmedia.co.jp/info/itmapp/itmedia.html">ITmedia</a></li>
+				<li><a href="http://www.itmedia.co.jp/info/itmapp/nlab.html">ねとらぼ</a></li>
+				<li><a href="http://www.itmedia.co.jp/info/itmapp/necolab.html">ねこらぼ</a></li>
+				<li><a href="http://www.itmedia.co.jp/info/itmapp/tweetopi.html">ついトピ！</a></li>
+				</ul>
+			</div><!-- /#mediaList05 -->
+		</div><!-- /.mediaListGroup -->
+	</div>
+</div><!-- /#globalFooterMediaList -->
+<div id="globalFooterCorp">
+	<div id="globalFooterCorpIn">
+		<p id="globalFooterCorpLogo"><a href="http://corp.itmedia.co.jp/"><img src="http://image.itmedia.co.jp/images/logo/170_itmedia_bgw.gif" width="170" height="28"></a>ITmediaはアイティメディア株式会社の登録商標です。</p>
+		<p id="globalFooterCorpLink"><a href="http://corp.itmedia.co.jp/">運営会社</a> | <a href="http://corp.itmedia.co.jp/pr/">プレスリリース</a> | <a href="http://corp.itmedia.co.jp/ir/">IR情報</a> | <a href="http://corp.itmedia.co.jp/recruit/">採用情報</a> | <a href="http://blog.corp.itmedia.co.jp/">お知らせブログ</a> | <a href="http://id.itmedia.jp/info/campaign/all_id.html">アイティメディアID</a> | <a href="http://www.itmedia.co.jp/info/rss/">RSS</a> | <a href="http://www.itmedia.co.jp/info/twitter/">Twitter</a> | <a href="http://www.itmedia.co.jp/info/fb/">Facebook</a> | <a href="http://www.itmedia.co.jp/info/mailmag/">メルマガ</a> | <a href="http://www.itmedia.co.jp/info/virtualevent/">バーチャルイベント</a> | <a href="http://www.itmedia.co.jp/info/ebook/">ITmediaのeBook</a></p>
+	</div>
+</div><!-- /#globalFooterCorp -->
+<!-- masterFooterNavigation -->
+
+	</div>
+</div>
+
+
+</div><!--/masterBodyInner-->
+</div><!--/masterBodyOuter-->
+</div><!--/masterBodyIn-->
+</div><!--/masterBodyOut-->
+</div><!--/masterBody-->
+<script src="/js/masterBodyEnd.js"></script><!-- window.onload -->
+<script src="/js/itmid/smartPhoneHeadLink.js"></script><!-- Smart Phone Large Button-->
+<!--BEACON-->
+
+    
+	    <div id="BEACON"><div id="N">
+			<!-- SiteCatalyst code version: H.2.
+Copyright 1997-2005 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="/include/sc/s_code.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+function $() {
+  var elements = new Array();
+  for (var i = 0; i < arguments.length; i++) {
+    var element = arguments[i];
+    if (typeof element == 'string')
+      element = document.getElementById(element);
+    if (arguments.length == 1)
+      return element;
+    elements.push(element);
+  }
+  return elements;
+}
+s.pageName=document.URL.replace( /(\?|#).*$/, '' );
+s.server="www.itmedia.co.jp"
+s.channel="ITmedia ニュース"
+s.pageType=""
+s.hier1="root,itm,news,article"
+s.hier2="itm,news,article"
+s.hier3="news,article"
+s.prop1=document.URL.replace( /(\?|#).*$/, '' );
+s.prop2="root,itm,news,article"
+if ( $('update') == undefined )
+  s.prop3='';
+else
+  s.prop3=$('update').innerHTML.replace(/\d+分\s更新/,"");
+if ( $('byline') == undefined )
+  s.prop4=''
+else
+  s.prop4=$('byline').innerHTML.replace(/<b>|<\/b>/ig,'').replace(/\[|\]/g,'');
+/* s.prop5 : ad link name reserves */
+s.prop5=""
+s.prop6="news"
+s.prop7="news,article"
+s.prop8=document.title
+s.prop9=navigator.userAgent
+s.prop10=document.URL.replace( /(\?|#).*$/, '' );
+/* s.prop13 : document.URL reserves */
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events="event3"
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+s.prop20="News（含AnchorDesk）";
+
+/* NEWS ARTICLE ONLY */
+/*=========================*/
+var key1 = ['Rumors','速報','気になる','くわしく','ラウンドアップ','連載'];
+var metatags = document.getElementsByTagName('head')[0].getElementsByTagName('meta');
+var meta_key = '';
+for(var i = 0; i < metatags.length; i++){
+	if(metatags[i].name == 'keywords'){
+		meta_key = metatags[i].content;
+		break;
+	}
+}
+if(meta_key != ''){
+	s.prop23 = '';
+	var meta_key_split = meta_key.split(',');
+	for(var i = 0; i < meta_key_split.length; i++){
+		for(var j = 0; j < key1.length; j++){
+			if(meta_key_split[i] == key1[j]){
+				s.prop23 = key1[j];
+				break;
+			}
+		}
+	}
+}
+/*=========================*/
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.2. -->
+
+			<script>adRequest({'position':'N'});</script>
+		</div></div>
+    
+
+<!--/BEACON-->
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '185005748502834');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=185005748502834&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+</body></html>
+

@@ -1,0 +1,921 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+<meta name="google-site-verification" content="8nuYs7xs0Rw9B6qaJH5050nRNpde5yUVWSHxDkY5Ba0" />
+<meta property="og:title" content="美 샌더스 압승…SNS “상위 1% 분주하겠네, 한국에도 영향줄 것” - 고발뉴스닷컴 "/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://www.gobalnews.com/news/articleView.html?idxno=17384"/>
+<meta property="og:image" content="http://www.gobalnews.com/news/thumbnail/201602/17384_35848_562_v150.jpg"/>
+<meta property="og:description" content="미국 대선을 앞두고 9일(현지시간) 두번째로 치러진 뉴햄프셔 주 프라이머리(예비선거)에서 민주당에선 버니 샌더스 상원의원이, 공화당에선 도널드 ..."/>
+<meta property="og:article:author" content="민일성 기자"/>
+<title>美 샌더스 압승…SNS “상위 1% 분주하겠네, 한국에도 영향줄 것” - 고발뉴스닷컴 </title>
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="/MenuSkin/TypeA_5/Menu_Style.css">
+<link rel="alternate" type="application/rss+xml" title="美 샌더스 압승…SNS “상위 1% 분주하겠네, 한국에도 영향줄 것” - 고발뉴스닷컴 " href="/rss/allArticle.xml">
+<script type="text/javascript" src="/script/user.js"></script>
+<script type="text/javascript" src="/script/font.js"></script>
+<script type="text/javascript" src="/script/banner.js?0611"></script>
+<script type="text/javascript" src="/script/poll.js"></script>
+<script type="text/javascript" src="/script/vod.js"></script>
+<script type="text/javascript" src="/script/jquery/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="/script/menubar.js"></script>
+<script type="text/javascript" src="/script/resizePhoto.js?0510"></script>
+
+<script language="javascript">
+<!--
+// 현재시간  추가
+var ___currentTime = parseInt("1455778584", 10);
+
+// 즐겨찾기 스크립트
+function bookmark() {
+	window.external.AddFavorite("http://www.gobalnews.com", "고발뉴스닷컴")
+}
+
+/// 통합검색셀렉트
+function viewSchselopt() {
+	var schselopt = document.getElementById("schselopt_list");
+
+	if(schselopt.style.display=="block") {
+		schselopt.style.display="none";
+	} else {
+		schselopt.style.display="block";
+	}
+}
+
+function schChange(code,title) {
+	var schselopt = document.getElementById("schselopt_list");
+	var secTitle = document.getElementById("secTitle");
+
+	schselopt.style.display="none";
+
+	document.topSearchForm.sc_section_code.value=code;
+	secTitle.innerHTML = title;
+}
+
+//모바일 체크
+ad_check_mobile = "";
+var adStrUserAgent = window.navigator.userAgent;
+
+if(adStrUserAgent!= null)
+{
+	 if(
+		  adStrUserAgent.indexOf("Android") != -1 ||    //Android
+		  adStrUserAgent.indexOf("SAMSUNG") != -1 ||     //samsung
+		  adStrUserAgent.indexOf("PSP") != -1 ||         //psp
+		  adStrUserAgent.indexOf("PLAYSTATION") != -1 || //playstation
+		  adStrUserAgent.indexOf("lgtelecom") != -1 ||   //LGT
+		  adStrUserAgent.indexOf("Smartphone") != -1 ||  //스마트폰
+		  adStrUserAgent.indexOf("Symbian") != -1 ||     //심비안폰
+		  adStrUserAgent.indexOf("PPC") != -1 ||         //??
+		  adStrUserAgent.indexOf("Windows CE") != -1 ||  //PDA
+		  adStrUserAgent.indexOf("iPhone") != -1 ||      //애플폰
+		  adStrUserAgent.indexOf("iPod") != -1 )         //애플
+	 {
+		ad_check_mobile = 1;
+	 }
+	 else
+	 {
+		ad_check_mobile = 0;
+	 }
+}
+
+//메뉴 스타일 불러옴 : 메뉴 /script/menubar.js 와 같이 사용되어야 함
+//submenuStyle	: 서브메뉴 펼침 스타일 (horizon : 가로로, vertical : 세로 슬라이딩)
+var exceptIdx = new Array(); //제외할 메뉴 인덱스번호 (0부터 시작:type integer)
+var submenuStyle="horizon";
+//-->
+</script>
+
+<style>
+#CSpaper_Menu a,#CSpager_Layer .title strong {background-color:#ff6c00;}
+.HomeMark strong, .BtnMem strong {color:#ff6c00;}
+.HomeMark a.SartHome {background-color:#ff6c00;}
+
+.DefaultStyle ul.mega-menu li a {color:#ffe3cc;}
+.DefaultStyle ul.mega-menu li a:hover, .a-hover {color:#fff !important;}
+.DefaultStyle ul.mega-menu li.sub a {color:#757575;}
+.DefaultStyle ul.mega-menu li.sub a:hover, .a-sub-hover { color:#454545 !important;}
+</style>
+
+<!-- 구글웹로그 Start -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36153544-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- 구글웹로그 End -->
+
+<style type="text/css"> 
+ #aside, #asideB {position:fixed; left: 50%; top: 150px; margin-left:490px; width:auto; height:auto; _position:expression('absolute'); _left: expression(offsetParent.scrollLeft+50%+'px'); _top: expression(offsetParent.scrollTop+100+'px');} 
+#aside {margin-left:490px;}
+ #asideB{margin-left:-610px;} 
+  </style> 
+
+</head>
+
+<body bgcolor="white" text="black" link="blue" vlink="purple" alink="red" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="overflow-x:hidden;">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td>
+
+<!-- 레이어 팝업 : s -->
+<script type="text/javascript" src="/popupManagerVer2/js/flow.script.js"></script>
+<script type="text/javascript" src="/popupManagerVer2/js/dom.drag.js"></script>
+
+<script language = "javascript">	
+	function layerClose(layer) {	
+		document.getElementById(layer).style.display = "none";	
+	}
+
+	function layerEnd(layer, day) {	
+		document.getElementById(layer).style.display = "none";
+		setCookieLayer(layer, 'ok', day);
+	}
+
+	function layerEndChk(idx) {	
+		document.getElementById('layerPopup_'+idx).style.display = "none";
+		if(document.getElementById('layerChk_'+idx).checked == true){
+			var day = parseInt(document.getElementById('expires_time_'+idx).value);			
+			setCookieLayer('layerPopup_'+idx, 'ok', day);
+		}		
+	}
+	
+	function setCookieLayer( name, value, expiredays ) {
+		var todayDate = new Date();
+		todayDate.setDate( todayDate.getDate() + expiredays );
+		
+		todayDate.setHours(0);
+		todayDate.setMinutes(0);
+		todayDate.setSeconds(0);
+
+		document.cookie = name + "=" + escape( value ) + ";DOMAIN=www.gobalnews.com; path=/; expires=" + todayDate.toGMTString() + ";"
+	}
+	
+</script>
+
+<!-- 레이어 팝업 처리 : s -->
+<table width="960" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td>
+			<div style="POSITION: relative; width:100%;z-index:100000;">
+			<div id="empty" style="position:absolute; display:block;"></div>
+			</div>
+		</td>
+	</tr>
+</table>
+<!--레이어 팝업 처리 : e--><!-- 레이어 팝업 : e -->
+
+<!-- 
+	윈도우 팝업 : s
+	client 모니터 사이즈를 넘기기 위해서 iframe으로 처리.
+-->
+<iframe id = "windowPopup" style = "display:none"></iframe>
+<script language = "javascript">			
+	document.getElementById("windowPopup").contentWindow.location.href = "/popupManagerVer2/windowPopup.html?windowWidth=" + screen.width + "&parentPage=/news/articleView.html";  	
+</script>
+<!-- 윈도우 팝업 : e -->
+
+<div id="aside"><!--광고배너 : S-->
+<iframe src="http://www.gobalnews.com/banner/ad_count.html" frameborder="0" width="120" height="120" scrolling="no" noresize></iframe>
+</div>
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#f6f6f6" style="border-bottom:1px solid #d0d0d0;" align="center">
+	<tr>
+		<td>
+		<table width="960" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td>
+
+				<!-- 시작페이지/즐겨찾기 -->
+				<div class="HomeMark">
+				<a href="#" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.gobalnews.com');" class="SartHome"><strong>고발뉴스닷컴</strong> 시작페이지로 </a>
+                <a href="javascript:bookmark()" class="BookMark">즐겨찾기 추가</a>
+                <a href="https://twitter.com/gobalnews" target="_blank" >&nbsp;<img src="http://www.gobalnews.com/image2006/default/Twitter.gif" border="0" /></a>
+                <a href="https://www.facebook.com/balnews" target="_blank" ><img src="http://www.gobalnews.com/image2006/default/facebook.gif" border="0" /></a>
+				
+				</div>
+
+				</td>
+				<td>
+
+				<!--로그인-->
+				<div class="BtnMem">
+				<a href="http://www.gobalnews.com">처음으로</a>
+												<a href="http://www.gobalnews.com/news/articleList.html?view_type=sm" class="nobr">전체기사</a>
+				</div>
+
+				</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+
+<table width="960" border="0" cellspacing="0" cellpadding="0" style="margin-top:10px; margin-bottom:3px;" align="center">
+	<tr>
+		<td width="250">
+			<!--나비프로젝트진짜<script language="javascript" src="/bannerManager/inc/19.html"></script>나비프로젝트진짜-->
+			<!--나비프로젝트--<script language="javascript" src="/bannerManager/inc/40.html"></script><!--나비프로젝트-->
+         <!--카드정보유출집단소송--<script language="javascript" src="/bannerManager/inc/52.html"></script><!--카드정보유출집단소송-->
+         <!--나비프로젝트<script language="javascript" src="/bannerManager/inc/40.html"></script>나비프로젝트-->
+         <!--국민리포터<script language="javascript" src="/bannerManager/inc/51.html"></script><!--국민리포터-->
+         <!--이상호의상해임시방송<script language="javascript" src="/bannerManager/inc/71.html"></script><!--이상호의상해임시방송-->
+         <!--상해임시방송2--<script language="javascript" src="/bannerManager/inc/72.html"></script><!--상해임시방송2-->
+         <!--상해임시방송3<script language="javascript" src="/bannerManager/inc/73.html"></script><!--상해임시방송3-->
+         <!--상해임시방송4<script language="javascript" src="/bannerManager/inc/77.html"></script><!--상해임시방송4-->
+         <!--민동기의뉴스박스150325--<script language="javascript" src="/bannerManager/inc/82.html"></script><!--민동기의뉴스박스150325-->
+         
+         <!--다이빙벨150828--<script language="javascript" src="/bannerManager/inc/99.html"></script><!--다이빙벨150828-->
+         <!--150902다이빙벨영문--<script language="javascript" src="/bannerManager/inc/103.html"></script><!--150902다이빙벨영문-->
+         <!--151124인권콘서트--><script language="javascript" src="/bannerManager/inc/106.html"></script><!--151124인권콘서트-->
+         <!--다이빙벨영문수정151201--><script language="javascript" src="/bannerManager/inc/109.html"></script><!--다이빙벨영문수정151201-->
+		</td>
+		<td align="center"><a href="http://www.gobalnews.com" onFocus="this.blur();" title="고발뉴스닷컴"><img src="/image2006/logo.gif" border="0" alt="고발뉴스닷컴"></a></td>
+		<td width="250" align="right">
+		<!--자발적정기구독1 <script language="javascript" src="/bannerManager/inc/8.html"></script><!--자발적정기구독1--><!--121120정기구독-->
+	<!--<script language="javascript" src="/bannerManager/inc/14.html"></script>121120정기구독-->
+        
+        <!--정기구독수정--<script language="javascript" src="/bannerManager/inc/68.html"></script><!--정기구독수정-->
+        <!--정기구독<script language="javascript" src="/bannerManager/inc/70.html"></script><!--정기구독-->
+		<!--고발뉴스150424<script language="javascript" src="/bannerManager/inc/86.html"></script><!--고발뉴스150424-->
+        <!--고발뉴스150504--><script language="javascript" src="/bannerManager/inc/88.html"></script><!--고발뉴스150504-->
+		</td>
+	</tr>
+</table>
+
+<div class="Menu_Style" style="background-color:">
+<table width="960" border="0" cellspacing="0" cellpadding="0" align="center">
+	<tr>
+		<td width="710" height="30">
+		<div class="DefaultStyle">
+		<ul id="mega-menu" class="mega-menu">
+			<li class="megaline"><a href="http://www.gobalnews.com/news/articleList.html?view_type=sm"><strong>전체기사</strong></a>
+				<ul></ul>
+			</li>
+            <li class="megaline"><a href="http://www.gobalnews.com/news/articleList.html?sc_section_code=S1N1&view_type=sm"><strong>정치go발</strong></a>
+				<ul></ul>
+			</li>
+            <li class="megaline"><a href="http://www.gobalnews.com/news/articleList.html?sc_section_code=S1N2&view_type=sm"><strong>사회go발</strong></a>
+				<ul></ul>
+			</li><li class="megaline"><a href="http://www.gobalnews.com/news/articleList.html?sc_section_code=S1N3&view_type=sm"><strong>소비자go발</strong></a>
+				<ul></ul>
+			</li>
+            <li class="megaline"><a href="http://www.gobalnews.com/news/articleList.html?sc_section_code=S1N4&view_type=sm"><strong>미디어go발</strong></a>
+				<ul></ul>
+			</li>
+             <li class="megaline"><a href="http://www.gobalnews.com/news/articleList.html?sc_section_code=S1N5&view_type=sm"><strong>이 시각 go발</strong></a>
+				<ul></ul>
+			</li>
+            
+		<!--
+	<li class="megaline"><a href="http://www.gobalnews.com/news/articleList.html?sc_section_code=S1N1&view_type=sm"><strong>정치go</strong></a>
+		<ul>
+		</ul>
+	</li>
+
+	<li class="megaline"><a href="http://www.gobalnews.com/news/articleList.html?sc_section_code=S1N2&view_type=sm"><strong>사회go</strong></a>
+		<ul>
+		</ul>
+	</li>
+
+	<li class="megaline"><a href="http://www.gobalnews.com/news/articleList.html?sc_section_code=S1N3&view_type=sm"><strong>소비자go</strong></a>
+		<ul>
+		</ul>
+	</li>
+
+	<li class="megaline"><a href="http://www.gobalnews.com/news/articleList.html?sc_section_code=S1N4&view_type=sm"><strong>미디어go</strong></a>
+		<ul>
+		</ul>
+	</li>
+
+	<li class="megaline"><a href="http://www.gobalnews.com/news/articleList.html?sc_section_code=S1N5&view_type=sm"><strong>이 시각</strong></a>
+		<ul>
+		</ul>
+	</li>
+
+	<li class="megaline"><a href="http://www.gobalnews.com/news/articleList.html?sc_section_code=S1N8&view_type=sm"><strong>이영광의 발로GO 인터뷰</strong></a>
+		<ul>
+		</ul>
+	</li>
+
+	<li class="megaline"><a href="http://www.gobalnews.com/news/articleList.html?sc_section_code=S1N9&view_type=sm"><strong>오피니언</strong></a>
+		<ul>
+		</ul>
+	</li>
+-->
+			<!--<li class="megaline"><a href="http://cafe.daum.net/gobalnews" target="_blank"><strong>홍대 방송센터</strong></a>
+				<ul></ul>
+			</li>-->
+		</ul>
+		</div>
+		</td>
+		<td width="250" valign="top" class="SearchBack">
+
+		<!-- 통합검색부분 -->
+		<table border="0" cellpadding="0" cellspacing="0" class="SearchForm">
+						<form action="http://www.gobalnews.com/news/articleList.html" method="post" name="topSearchForm" id="topSearchForm">
+			<input type="hidden" name="sc_area" value="A">
+			<input type="hidden" name="view_type" value="sm">
+			<tr>
+				<td><input maxlength="255" name="sc_word" class="inpSearch"></td>
+				<td><input name="image" type="image" src="/image2006/ico_search1.gif" border="0"></td>
+			</tr>
+			</form>
+		</table>
+
+		</td>
+	</tr>
+	</table>
+</div>
+<script type="text/javascript">resizePhoto.addEvt(window, "load", resizePhoto.init);//이미지 리사이즈+light box</script>
+<div id="divLAS" style="visibility:hidden;"></div>
+<table width="960" border="0" cellpadding="0" cellspacing="0" align="center">
+	<tr>
+		<td width="690" align="left" valign="top">
+
+
+			
+
+			<table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#d0d0d0">
+				<tr>
+					<td bgcolor="#f6f6f6" style="padding:20px 0;">
+					<table width="100%" border="0" cellpadding="0" cellspacing="0">
+						<tr>
+							<td class="View_Section">
+							<a href="http://www.gobalnews.com/news/articleList.html?sc_section_code=S1N1"><strong>정치go</strong></a>							</td>
+							<td style="padding:0 20px;">
+							<div class="View_Title"><strong><!--CM_TITLE-->美 샌더스 압승…SNS “상위 1% 분주하겠네, 한국에도 영향줄 것”<!--/CM_TITLE--></strong><span>김어준 “형님나라에서 사회주의자가 대통령 되면 종북 공격 어찌 되나”</span></div><div class="View_Info" style='margin-top:15px;'>
+							<style>
+							/* footer sns */
+							#socialTop2 {float:left; display:inline-block; width:280px; margin-left:5px;}
+							#socialTop2 ul li {position:relative; float:left; margin-right:5px; cursor:pointer; }
+							#socialTop2 .repTotal {position:absolute; top:-7px; right:4px;}
+							#socialTop2 .repTotal p{ width:27px; text-align:center; font-size:11px; color:#4e5665; font-family:'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;}
+							#socialTop2 ul li .btnBG {width:85px; height:20px; background: url('http://www.gobalnews.com/mobile/image/icon_m_comment.jpg') no-repeat 0px 0px;}
+
+							</style>
+
+							<div id="socialTop2">
+								<ul>
+									<li>
+										<!--트위터 RT-->
+										<a class="twitter-share-button" href="https://twitter.com/share" data-url="http://www.gobalnews.com/news/articleView.html?idxno=17384" data-via="고발뉴스">Tweet	</a>
+										<script>
+											window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
+										</script>
+									</li>
+									<li>
+										<!--페이스북 좋아요-->
+										<div id="fb-root" ></div>
+											<script>(function(d, s, id) {
+											  var js, fjs = d.getElementsByTagName(s)[0];
+											  if (d.getElementById(id)) return;
+											  js = d.createElement(s); js.id = id;
+											  js.src = "//connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v2.3";
+											  fjs.parentNode.insertBefore(js, fjs);
+											}(document, 'script', 'facebook-jssdk'));</script>
+										<div class="fb-like" data-href="http://www.gobalnews.com/news/articleView.html?idxno=17384" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+									</li>
+									<li>
+										<a href="#article-reply">
+											<div class="btnBG">
+												<div class = "repTotal">
+													<p>4</p>
+												</div>
+											</div>
+										</a>
+									</li>
+								</ul>
+							</div>
+							<div style='float:right;'>민일성 기자&nbsp;&nbsp;|&nbsp;&nbsp;<a href="mailto.html?mail=balnews21@gmail.com">balnews21@gmail.com</a></div></div>
+
+							</td>
+						</tr>
+					</table>
+					</td>
+				</tr>
+			</table>
+
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#efefef" style="margin-bottom:10px; border-left:1px solid #d0d0d0; border-right:1px solid #d0d0d0; border-bottom:1px solid #d0d0d0;">
+      			<tr>
+        			<td width="140" style="padding:5px 0;">
+					<table border="0" cellspacing="0" cellpadding="0" style="margin-left:5px;">
+						<tr>
+							<!-- <td><img src="/image2006/default/btn_golist.gif" width="55" height="12"></td> //-->
+							<td><a href="javascript:fontPlus();" title="폰트키우기"><img src="/image2006/default/btn_textbig.gif" border="0" alt="폰트키우기"></a></td>
+							<td><a href="javascript:fontMinus();" title="폰트줄이기"><img src="/image2006/default/btn_textsmall.gif" border="0" alt="폰트줄이기"></a></td>
+							<td style="padding-left:5px;"><a href="javascript:articlePrint('17384');" title="프린트하기"><img src="/image2006/default/btn_print.gif" border="0" alt="프린트하기"></a></td>
+							<td><a href="javascript:articleMail('17384');" title="메일보내기"><img src="/image2006/default/btn_send.gif" border="0" alt="메일보내기"></a></td>
+							<td><a href="javascript:articleErr('17384');" title="신고하기"><img src="/image2006/default/btn_ermail.gif" border="0" alt="신고하기"></a></td>
+						</tr>
+					</table>
+					</td>
+					<td>
+					<div class="View_Time"><span>승인</span> 2016.02.10&nbsp;&nbsp;14:55:11<!-- &nbsp;&nbsp;<span>|</span>&nbsp;&nbsp; --><br><span>수정</span> 2016.02.11&nbsp;&nbsp;15:39:31</div>					</td>
+					<td>
+
+
+
+					</td>
+        			<td align="right">
+					
+					<table border="0" cellspacing="0" cellpadding="0" style="padding:5px 5px 5px;">
+						<tr>
+														<td><a href="http://twitter.com/home?status=%E7%BE%8E+%EC%83%8C%EB%8D%94%EC%8A%A4+%EC%95%95%EC%8A%B9%E2%80%A6SNS+%E2%80%9C%EC%83%81%EC%9C%84+1%25+%EB%B6%84%EC%A3%BC%ED%95%98%EA%B2%A0%EB%84%A4%2C+%ED%95%9C%EA%B5%AD%EC%97%90%EB%8F%84+%EC%98%81%ED%96%A5%EC%A4%84+%EA%B2%83%E2%80%9D+http%3A%2F%2Fwww.gobalnews.com%2Fnews%2FarticleView.html%3Fidxno%3D17384" target="_blank" title="트위터"><img src="/image2006/default/Twitter.gif" border="0" alt="트위터"></a></td>
+							<td style="padding-left:3px;"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.gobalnews.com%2Fnews%2FarticleView.html%3Fidxno%3D17384&t=%E7%BE%8E+%EC%83%8C%EB%8D%94%EC%8A%A4+%EC%95%95%EC%8A%B9%E2%80%A6SNS+%E2%80%9C%EC%83%81%EC%9C%84+1%25+%EB%B6%84%EC%A3%BC%ED%95%98%EA%B2%A0%EB%84%A4%2C+%ED%95%9C%EA%B5%AD%EC%97%90%EB%8F%84+%EC%98%81%ED%96%A5%EC%A4%84+%EA%B2%83%E2%80%9D" target="_blank" title="페이스북"><img src="/image2006/default/facebook.gif" border="0" alt="페이스북"></a></td>
+
+							<td style="padding-left:3px;"><a  title="네이버" href="http://bookmark.naver.com/post?ns=1&title=%E7%BE%8E+%EC%83%8C%EB%8D%94%EC%8A%A4+%EC%95%95%EC%8A%B9%E2%80%A6SNS+%E2%80%9C%EC%83%81%EC%9C%84+1%25+%EB%B6%84%EC%A3%BC%ED%95%98%EA%B2%A0%EB%84%A4%2C+%ED%95%9C%EA%B5%AD%EC%97%90%EB%8F%84+%EC%98%81%ED%96%A5%EC%A4%84+%EA%B2%83%E2%80%9D&url=http%3A%2F%2Fwww.gobalnews.com%2Fnews%2FarticleView.html%3Fidxno%3D17384" target="_blank"><img src="/image2006/default/naver.gif" border="0" alt="네이버"></a></td>
+							<td style="padding-left:3px;"><a href="http://www.google.com/bookmarks/mark?op=add&title=%E7%BE%8E+%EC%83%8C%EB%8D%94%EC%8A%A4+%EC%95%95%EC%8A%B9%E2%80%A6SNS+%E2%80%9C%EC%83%81%EC%9C%84+1%25+%EB%B6%84%EC%A3%BC%ED%95%98%EA%B2%A0%EB%84%A4%2C+%ED%95%9C%EA%B5%AD%EC%97%90%EB%8F%84+%EC%98%81%ED%96%A5%EC%A4%84+%EA%B2%83%E2%80%9D&bkmk=http%3A%2F%2Fwww.gobalnews.com%2Fnews%2FarticleView.html%3Fidxno%3D17384" target="_blank" title="구글"><img src="/image2006/default/google.gif" border="0" alt="구글"></a></td>
+							<td style="padding-left:3px;"><a href="http://profile.live.com/badge?url=http%3A%2F%2Fwww.gobalnews.com%2Fnews%2FarticleView.html%3Fidxno%3D17384&text=%E7%BE%8E+%EC%83%8C%EB%8D%94%EC%8A%A4+%EC%95%95%EC%8A%B9%E2%80%A6SNS+%E2%80%9C%EC%83%81%EC%9C%84+1%25+%EB%B6%84%EC%A3%BC%ED%95%98%EA%B2%A0%EB%84%A4%2C+%ED%95%9C%EA%B5%AD%EC%97%90%EB%8F%84+%EC%98%81%ED%96%A5%EC%A4%84+%EA%B2%83%E2%80%9D" target="_blank" title="msn"><img src="/image2006/default/msn.gif" border="0" alt="msn"></a></td>
+																				</tr>
+					</table>
+					</td>
+      			</tr>
+			</table>
+
+			<table width="690" border="0" cellpadding="10" cellspacing="1" bgcolor="#d0d0d0">
+        		<tr>
+          			<td bgcolor="#ffffff">
+
+
+					<table width="640" border="0" cellpadding="0" cellspacing="0" align="center">
+						<tr>
+							<td class="view_r" id="articleBody" style="padding:10px 0;">
+							<table cellpadding="0" cellspacing="0" align="center" border="0">
+    <tbody>
+        <tr>
+            <td width="10">&nbsp;</td>
+            <td align="center"><img src="http://www.gobalnews.com/news/photo/201602/17384_35848_562.jpg" border="1" alt="" /></td>
+            <td width="10">&nbsp;</td>
+        </tr>
+        <tr>
+            <td colspan="3" id="font_imgdown_35848" class="view_r_caption">▲ 미국 민주당 대선주자 버니 샌더스 상원의원이 유세 도중 지지자와 셀피를 찍고 있다. &lt;사진제공=뉴시스&gt;</td>
+        </tr>
+    </tbody>
+</table>
+<p>미국 대선을 앞두고 9일(현지시간) 두번째로 치러진 뉴햄프셔 주 프라이머리(예비선거)에서 민주당에선 버니 샌더스 상원의원이, 공화당에선 도널드 트럼프 후보가 압도적 승리를 거둬 &lsquo;아웃사이더 돌풍&rsquo;이 거세게 일고 있다.</p>
+<p>이날 오후 개표가 49% 진행된 상황에서 민주당은 샌더스 후보가 59.2%를 얻어 38.2%에 그친 클린턴 후보를 압도적으로 앞섰다.</p>
+<p>공화당은 47%의 개표 상황에서 부동산 재벌 도널드 트럼프 후보가 33.7%로 월등히 앞서며 1위를 차지했고 16.2%의 존 케이식 오하이오 주지사가 뒤를 이었다.</p>
+<p>클린턴 후보는 이날 오후 8시 50분께 패배를 공식 인정하며 샌더스 후보에게 승리를 축하한다고 밝혔다.</p>
+<p>뉴시스에 따르면 샌더스는 지지자들 앞에서 가진 승리 연설에서 &ldquo;미국 국민들이 부패한 선거유세 자금 시스템을 받아들이지 않겠다는 사실을 오늘 우리는 이 나라의 경제, 정치 기득권층에 통보했다&rdquo;면서 &ldquo;우리는 부정한 경제를 받아들이지 않을 것&rdquo;이라고 말했다.</p>
+<p>또 샌더스는 &ldquo;뉴햄프셔주에서 처음 선거 유세를 시작했을 때만하더라도 조직도, 돈도 없었다&rdquo;며 뉴햄프셔주 역사상 최고 수준의 투표율 덕분에 자신이 승리하게 됐다고 감사를 표했다.</p>
+<p>아울러 샌더스는 &ldquo;오늘밤과 내일 나는 뉴욕에 있을 예정인데 월가의 펀드매니저를 만날 계획은 없다&rdquo;며 &ldquo;바로 여기서, 미국 전역에서 (보통 시민) 기부자들을 만날 것&rdquo;이라고 말해 월가의 큰손 기부자들로부터 막대한 선거 자금을 받은 힐러리 후보와의 차별성을 강조했다.</p>
+<p>풀뿌리 시민들의 소액 기부에 의존하며 선거를 치르고 있는 &lsquo;민주적 사회주의자&rsquo; 샌더스 상원의원의 돌풍은 한국의 선거 상황과 연결되며 SNS에서 화제가 됐다.</p>
+<p>김진혁 한국예술종합학교 교수는 10일 페이스북에 &ldquo;버니샌더스 열풍엔 과도한 빈부격차라는 배경이 있음을 모두가 다 안다&rdquo;며 &ldquo;우리나라에도 빈부격차는 이미 충분히 있다. 다만 아직은 버니 샌더스여도 된다는 확신이 정치인들 ,정치권에 없을 뿐&rdquo;이라고 분석했다.</p>
+<p>이어 김 교수는 &ldquo;하지만 결국 이 방향이 대세&rdquo;라면서 &ldquo;야권이 치고 나가든지 여권이 지난 대선처럼 속여먹든지 둘 중 하나일 것이다&rdquo;라고 말했다.</p>
+<p>김상수 작가는 &ldquo;&lsquo;버니 샌더스&rsquo;에 대한 경호가 보다 강화됐단다. 돌연 돌발 변수가 없다면 차기 미국 대통령은 버니 샌더스다&rdquo;라며 &ldquo;아마 미국의 민주당 지휘부 내부에서도 이 현실을 어떻게 받아들일 것인가를 논의하기 시작했을 것이고, 버니 샌더스가 바로 잡고자 하는 상대인 미국의 경제 상위층 1% 그룹도 이 &lsquo;사태&rsquo;를 어떻게 해석하고 대응하느냐 분주할 것&rdquo;이라고 전망하기도 했다.</p>
+<p>김어준 딴지일보 총수는 팟캐스트 &lsquo;김어준의 파파이스&rsquo; 87회에서 &ldquo;샌더스가 미국 대통령이 만약 된다면 난리가 날 것&rdquo;이라며 &ldquo;우리나라 대선에도 영향을 미칠 것&rdquo;이라고 내다봤다. 또 김 총수는 &ldquo;샌더스가 대통령이 된다면 (보수진영이) 종북 공격을 어떻게 하겠냐&rdquo;며 &ldquo;이 사람이 사회주의자인데 형님 미국에서 사회주의자가 대통령이 돼 버리면 어떻게 되겠느냐&rdquo;고 조소했다.</p>
+<p>네티즌 &lsquo;overt******&rsquo;은 &ldquo;샌더스를 보면 놀라운 게 미국 18~29세의 청소년들 중 무려 83%가 그에게 표를 던지고 있다는 사실&rdquo;이라며 &ldquo;전 세계적으로 뭔가 새로운 시대정신이 필요하다는 반증이기도 하지요&rdquo;라고 의견을 올렸다.</p>
+<p>SNS에는 &ldquo;샌더스 압승? 이거 거의 제2독립혁명 수준인데&rdquo;(poo********), &ldquo;상위 1%소득이 하위40%의 소득을 능가하는 미국의 불합리가 낳은 결과다. 그런 면에서 진박이라면 적어도 경제민주화를 실천하겠다는 결기를 보여야 한다&rdquo;(kch*****), &ldquo;샌더스 지지자는 그야말로 자발적 지지자들... 그래서 더욱 대세론이 확산될 수밖에&rdquo;(yoj*****), &ldquo;오바마의 집권 기간 개혁들과 버니 샌더스의 인기가 지난 수년간 이어졌던 미국 틴에이지물에서 계속 나왔던 &lsquo;기득권의 압제에 저항하는 청소년 상&rsquo;과 맞물리는 느낌이다&rdquo;(tida******) 등의 의견이 이어졌다.&nbsp;</p>
+<table cellpadding="0" cellspacing="0" align="center" border="0">
+    <tbody>
+        <tr>
+            <td width="10">&nbsp;</td>
+            <td align="center"><img src="http://www.gobalnews.com/news/photo/201602/17384_35852_435.jpg" border="1" alt="" /></td>
+            <td width="10">&nbsp;</td>
+        </tr>
+        <tr>
+            <td colspan="3" id="font_imgdown_35852" class="view_r_caption">
+            <table cellpadding="0" cellspacing="0" align="center" border="0">
+                <tbody>
+                    <tr>
+                        <td width="10">&nbsp;</td>
+                        <td align="center"><img src="http://www.gobalnews.com/news/photo/201602/17384_35853_516.jpg" border="1" alt="" /></td>
+                        <td width="10">&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" id="font_imgdown_35853" class="view_r_caption">
+                        <table cellpadding="0" cellspacing="0" align="center" border="0">
+                            <tbody>
+                                <tr>
+                                    <td width="10">&nbsp;</td>
+                                    <td align="center"><img src="http://www.gobalnews.com/news/photo/201602/17384_35849_433.jpg" border="1" alt="" /></td>
+                                    <td width="10">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="3" id="font_imgdown_35849" class="view_r_caption">
+                                    <table cellpadding="0" cellspacing="0" align="center" border="0">
+                                        <tbody>
+                                            <tr>
+                                                <td width="10">&nbsp;</td>
+                                                <td align="center"><img src="http://www.gobalnews.com/news/photo/201602/17384_35850_434.jpg" border="1" alt="" /></td>
+                                                <td width="10">&nbsp;</td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan="3" id="font_imgdown_35850" class="view_r_caption">
+                                                <table cellpadding="0" cellspacing="0" align="center" border="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td width="10">&nbsp;</td>
+                                                            <td align="center"><img src="http://www.gobalnews.com/news/photo/201602/17384_35851_434.jpg" border="1" alt="" /></td>
+                                                            <td width="10">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td colspan="3" id="font_imgdown_35851" class="view_r_caption">&nbsp;</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>							</td>
+						</tr>
+						                        <tr>
+							<td class="view_copyright">
+
+                            <table width="640" border="0" align="center" cellpadding="0" cellspacing="0">
+							  <tr>
+								<td align="center">
+									<!--정기구독<script language="javascript" src="/bannerManager/inc/55.html"></script><!--정기구독-->
+									<!--후원하기--<script language="javascript" src="/bannerManager/inc/81.html"></script><!--후원하기-->
+                                    <!--150513후원배너--><script language="javascript" src="/bannerManager/inc/90.html"></script><!--150513후원배너-->
+								</td>
+							  </tr>
+							  <!--<tr>
+								<td align="right"><a href="https://mrmweb.hsit.co.kr/Member/MemberJoin.aspx" target="_blank"><img src="/banner/banner_bt_140217.jpg" border="0" /></a></td>
+							  </tr>-->
+							  <tr>
+								<td>&nbsp;</td>
+							  </tr>
+							</table>
+							</td>
+						</tr>
+						<tr>
+							<td class="view_copyright"><!--&lt;저작권자 &copy; 고발뉴스닷컴 무단전재 및 재배포금지&gt;--></td>
+						</tr>
+						
+						<!--추천위젯시작//-->
+				<tr>
+					<td height="15"></td>
+				</tr>
+				<tr>
+					<td align="center">
+												<img src="http://cp.news.search.daum.net/api/publish.json?nurl=http%3A%2F%2Fwww.gobalnews.com%2Fnews%2FarticleView.html%3Fidxno%3D17384&xml_url=http%3A%2F%2Fwww.gobalnews.com%2Fnews%2FarticleViewXml_v2.html%3Fidxno%3D17384&channel=politics" style="display:none;"/>
+											</td>
+				</tr>
+				<!--추천위젯끝//-->
+
+
+
+				<tr>
+					<td height="20"></td>
+				</tr>
+				<tr>
+					<td>
+                		<table width="640" border="0" cellspacing="0" cellpadding="0">
+                  			<tr>
+                    			<td><h4 style="font-family:돋움; letter-spacing:-1px;">[관련기사]</h4></td>
+                    		</tr>
+                  			<tr>
+                    			<td style="padding-top:10px;">
+								<div style="float:left; width:100%;"><a href="http://www.gobalnews.com/news/articleView.html?idxno=17149" target="_self" class="View_ReArticle">文 “총선, 朴 ‘불평등 경제’ 심판”…김종인 선대위원장으로 영입</a><div style="float:left; width:100%;"><a href="http://www.gobalnews.com/news/articleView.html?idxno=17269" target="_self" class="View_ReArticle">이재명 “사기 복지공약으로 표 빼앗아 권력 차지…이게 포퓰리즘”</a><div style="float:left; width:100%;"><a href="http://www.gobalnews.com/news/articleView.html?idxno=17288" target="_self" class="View_ReArticle">김무성 “저출산 대책, 조선족으로”에 SNS “국민이 가축이냐”</a><div style="float:left; width:100%;"><a href="http://www.gobalnews.com/news/articleView.html?idxno=17339" target="_self" class="View_ReArticle">유민아빠 김영오 “돈 없어 싸우지 못하는 현실 서글퍼”</a><div style="float:left; width:100%;"><a href="http://www.gobalnews.com/news/articleView.html?idxno=17204" target="_self" class="View_ReArticle">대만이 이룬 정권교체, 한국에선 어려운 이유</a>								</td>
+							</tr>
+                		</table>
+					</td>
+				</tr>
+				<tr>
+					<td height="20"></td>
+				</tr>
+				<tr>
+					<td>
+						<table width="640" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td height="24" colspan="2" align="right"><img src="/image2006/default/icon_arrow.gif" width="10" height="10"><span style="font-size:9pt; line-height:5mm;"><a href="articleList.html?sc_area=W&sc_word=민일성 기자"><font color="#666666">민일성 기자의 다른기사 보기</font></a>&nbsp;&nbsp;</td>
+							</tr>
+												</table>
+					</td>
+				</tr>
+			</table>
+
+					</td>
+				</tr>
+			</table>
+
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#efefef" style="border-left:1px solid #d0d0d0; border-right:1px solid #d0d0d0; border-bottom:1px solid #d0d0d0;">
+      			<tr>
+        			<td style="padding:5px 0;">
+					<table border="0" cellspacing="0" cellpadding="0" style="margin-left:5px;">
+						<tr>
+							<!-- <td><img src="/image2006/default/btn_golist.gif" width="55" height="12"></td> //-->
+							<td><a href="javascript:fontPlus();" title="폰트키우기"><img src="/image2006/default/btn_textbig.gif" border="0" alt="폰트키우기"></a></td>
+							<td><a href="javascript:fontMinus();" title="폰트줄이기"><img src="/image2006/default/btn_textsmall.gif" border="0" alt="폰트줄이기"></a></td>
+							<td style="padding-left:5px;"><a href="javascript:articlePrint('17384');" title="프린트하기"><img src="/image2006/default/btn_print.gif" border="0" alt="프린트하기"></a></td>
+							<td><a href="javascript:articleMail('17384');" title="메일보내기"><img src="/image2006/default/btn_send.gif" border="0" alt="메일보내기"></a></td>
+							<td><a href="javascript:articleErr('17384');" title="신고하기"><img src="/image2006/default/btn_ermail.gif" border="0" alt="신고하기"></a></td>
+						</tr>
+					</table>
+					</td>
+        			<td align="right">
+					<table border="0" cellspacing="0" cellpadding="0" style="margin-right:5px;">
+						<tr>
+							<td><a href="http://twitter.com/home?status=%E7%BE%8E+%EC%83%8C%EB%8D%94%EC%8A%A4+%EC%95%95%EC%8A%B9%E2%80%A6SNS+%E2%80%9C%EC%83%81%EC%9C%84+1%25+%EB%B6%84%EC%A3%BC%ED%95%98%EA%B2%A0%EB%84%A4%2C+%ED%95%9C%EA%B5%AD%EC%97%90%EB%8F%84+%EC%98%81%ED%96%A5%EC%A4%84+%EA%B2%83%E2%80%9D+http%3A%2F%2Fwww.gobalnews.com%2Fnews%2FarticleView.html%3Fidxno%3D17384" target="_blank" title="트위터"><img src="/image2006/default/Twitter.gif" border="0" alt="트위터"></a></td>
+							<td style="padding-left:3px;"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.gobalnews.com%2Fnews%2FarticleView.html%3Fidxno%3D17384&t=%E7%BE%8E+%EC%83%8C%EB%8D%94%EC%8A%A4+%EC%95%95%EC%8A%B9%E2%80%A6SNS+%E2%80%9C%EC%83%81%EC%9C%84+1%25+%EB%B6%84%EC%A3%BC%ED%95%98%EA%B2%A0%EB%84%A4%2C+%ED%95%9C%EA%B5%AD%EC%97%90%EB%8F%84+%EC%98%81%ED%96%A5%EC%A4%84+%EA%B2%83%E2%80%9D" target="_blank" title="페이스북"><img src="/image2006/default/facebook.gif" border="0" alt="페이스북"></a></td>
+							<!-- <td style="padding-left:3px;"><a href="http://me2day.net/posts/new?new_post[body]=%22%E7%BE%8E+%EC%83%8C%EB%8D%94%EC%8A%A4+%EC%95%95%EC%8A%B9%E2%80%A6SNS+%E2%80%9C%EC%83%81%EC%9C%84+1%25+%EB%B6%84%EC%A3%BC%ED%95%98%EA%B2%A0%EB%84%A4%2C+%ED%95%9C%EA%B5%AD%EC%97%90%EB%8F%84+%EC%98%81%ED%96%A5%EC%A4%84+%EA%B2%83%E2%80%9D%22%3Ahttp%3A%2F%2Fwww.gobalnews.com%2Fnews%2FarticleView.html%3Fidxno%3D17384&new_post[tags]=%EA%B3%A0%EB%B0%9C%EB%89%B4%EC%8A%A4%EB%8B%B7%EC%BB%B4" target="_blank" title="미투데이"><img src="/image2006/default/me2day.gif" border="0" alt="미투데이"></a></td> -->
+							<!-- <td style="padding-left:3px;"><a href="#" title="요즘" onclick="javascript:window.open('http://yozm.daum.net/api/popup/prePost?sourceid=&link=http%3A%2F%2Fwww.gobalnews.com%2Fnews%2FarticleView.html%3Fidxno%3D17384&prefix=%E7%BE%8E+%EC%83%8C%EB%8D%94%EC%8A%A4+%EC%95%95%EC%8A%B9%E2%80%A6SNS+%E2%80%9C%EC%83%81%EC%9C%84+1%25+%EB%B6%84%EC%A3%BC%ED%95%98%EA%B2%A0%EB%84%A4%2C+%ED%95%9C%EA%B5%AD%EC%97%90%EB%8F%84+%EC%98%81%ED%96%A5%EC%A4%84+%EA%B2%83%E2%80%9D', 'yozm', 'width=466, height=356' );returnfalse;"><img src="/image2006/default/yozm.gif" border="0" alt="요즘"></a></td> -->
+							<td style="padding-left:3px;"><a  title="네이버" href="http://bookmark.naver.com/post?ns=1&title=%E7%BE%8E+%EC%83%8C%EB%8D%94%EC%8A%A4+%EC%95%95%EC%8A%B9%E2%80%A6SNS+%E2%80%9C%EC%83%81%EC%9C%84+1%25+%EB%B6%84%EC%A3%BC%ED%95%98%EA%B2%A0%EB%84%A4%2C+%ED%95%9C%EA%B5%AD%EC%97%90%EB%8F%84+%EC%98%81%ED%96%A5%EC%A4%84+%EA%B2%83%E2%80%9D&url=http%3A%2F%2Fwww.gobalnews.com%2Fnews%2FarticleView.html%3Fidxno%3D17384" target="_blank"><img src="/image2006/default/naver.gif" border="0" alt="네이버"></a></td>
+							<td style="padding-left:3px;"><a href="http://www.google.com/bookmarks/mark?op=add&title=%E7%BE%8E+%EC%83%8C%EB%8D%94%EC%8A%A4+%EC%95%95%EC%8A%B9%E2%80%A6SNS+%E2%80%9C%EC%83%81%EC%9C%84+1%25+%EB%B6%84%EC%A3%BC%ED%95%98%EA%B2%A0%EB%84%A4%2C+%ED%95%9C%EA%B5%AD%EC%97%90%EB%8F%84+%EC%98%81%ED%96%A5%EC%A4%84+%EA%B2%83%E2%80%9D&bkmk=http%3A%2F%2Fwww.gobalnews.com%2Fnews%2FarticleView.html%3Fidxno%3D17384" target="_blank" title="구글"><img src="/image2006/default/google.gif" border="0" alt="구글"></a></td>
+							<td style="padding-left:3px;"><a href="http://profile.live.com/badge?url=http%3A%2F%2Fwww.gobalnews.com%2Fnews%2FarticleView.html%3Fidxno%3D17384&text=%E7%BE%8E+%EC%83%8C%EB%8D%94%EC%8A%A4+%EC%95%95%EC%8A%B9%E2%80%A6SNS+%E2%80%9C%EC%83%81%EC%9C%84+1%25+%EB%B6%84%EC%A3%BC%ED%95%98%EA%B2%A0%EB%84%A4%2C+%ED%95%9C%EA%B5%AD%EC%97%90%EB%8F%84+%EC%98%81%ED%96%A5%EC%A4%84+%EA%B2%83%E2%80%9D" target="_blank" title="msn"><img src="/image2006/default/msn.gif" border="0" alt="msn"></a></td>
+							<td style="padding-left:6px;"><a href="javascript:history.back();" title="뒤로가기"><img src="/image2006/default/btn_back2.gif" border="0"alt="뒤로가기"></a></td>
+							<td><a href="javascript:scroll(0,0);" title="위로가기"><img src="/image2006/default/btn_top.gif" border="0" alt="위로가기"></a></td>
+						</tr>
+					</table>
+					</td>
+      			</tr>
+			</table>
+
+			<table width="690" border="0" cellpadding="0" cellspacing="0"><tr height="20"><td></td></tr></table>
+
+
+<script type="text/javascript" src="/kcaptcha/js/md5.js"></script>
+<script type="text/javascript" src = "/script/reply.js"></script>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/css/reply.css">
+<div id = "article-reply">
+<div class = "reply-header list">
+	<div class = "title">기사 댓글 <strong>4</strong>개</div>
+					<a href = "/news/replyView.html?idxno=17384" class = "order">전체보기</a>
+	
+</div>
+
+<form class = "reply-write-container">			
+	<div class = "reply-write-header">
+		<input name = "mode" type = "hidden" value = "input" />
+		<input name = "article_idxno" type = "hidden" value = "17384" />
+		<input name = "parent_idxno" type = "hidden" value = "" />
+		<input name = "name" type = "text" class = "input-box input-placeholder placeholder-name" />
+				<input id = "pwdTest" name = "password" type = "password" class = "input-box input-placeholder placeholder-password" />		
+		<!--<div class = "writekey-container">			
+			<div class = "input-box-group">
+				<img class="kcaptcha_image" align="absmiddle">
+				<input type="text" name="writekey" class="writekey input-placeholder placeholder-writekey" maxlength="4">
+			</div>
+		</div>-->
+			</div>
+	<div class = "reply-write-body">
+		<div class = "reply-content-container">
+			<textarea class = "reply-content" name = "content" data-default-message="1"></textarea>		
+		</div>
+		<div class = "reply-write-footer">
+			<div class = "n-check"><span class = "cur">0</span>/<span class = "max">300</span></div>			
+			<button class = "w-button register" onclick="return false"><i class="fa fa-check"></i> 등록</button>			
+		</div>
+	</div>
+</form>
+
+
+<ul class = "reply-list origin">
+<li class = "user-row" data-article-idx="17384" data-self-idx="29471" data-parent-idx="29471"><div class = "reply-list-header">	<strong class = "name">이 철</strong>	<span class = "date">2016-02-11 07:06:13</span></div><div class = "text-box"><div class = "text-arrow"></div><p class = "reply-list-body origin">고무적인현상입니다.<br />
+앞잡이들을 제외한, 참서민을 위한 진실한정치인이 필요한거지요<a class = "declare">신고</a> <font class="division">|</font> <a class = "delete">삭제</a></p><div class = "reply-list-footer">	<div class = "rreply">		<a>		답글 <span class = "rreply-count">0</span> <i class="rreply-toggle fa fa-caret-down"></i>		</a>	</div>	<div class = "vote">		<a class = "btn recommend">			<span class = "text"><i class="fa fa-thumbs-o-up"></i> 추천</span>			<span class = "count">15</span>		</a>		<a class = "btn dissent">			<span class = "text"><i class="fa fa-thumbs-o-down"></i> 반대</span>			<span class = "count">0</span>		</a>	</div></div><div class = "reply-list-rr"><ul class = "reply-list sub"></ul>	<form class = "reply-write-container">		<div class = "reply-write-header">			<input name = "mode" type = "hidden" value = "rreply" />			<input name = "article_idxno" type = "hidden" value = "17384" />			<input name = "parent_idxno" type = "hidden" value = "29471" />			<input name = "name" type = "text" class = "input-box input-placeholder placeholder-name" />			<input name = "password" type = "password" class = "input-box input-placeholder placeholder-password" />		</div>		<div class = "reply-write-body">		<div class = "reply-content-container">			<textarea class = "reply-content" name = "content"></textarea>		</div>			<div class = "reply-write-footer">				<div class = "n-check"><span class = "cur">0</span>/<span class = "max">300</span></div>				<button class = "w-button" onclick = "return false"><i class="fa fa-check"></i> 등록</button>			</div>		</div>	</form></div></div></li><li class = "user-row" data-article-idx="17384" data-self-idx="29468" data-parent-idx="29468"><div class = "reply-list-header">	<strong class = "name">희망은 있다</strong>	<span class = "date">2016-02-11 03:49:16</span></div><div class = "text-box"><div class = "text-arrow"></div><p class = "reply-list-body origin">신자유주의가 실패했다는 확실한 증거다.<br />
+샌더스의 경호를 더욱 튼튼히 해야한다. 세상을 변화시키려다가 존 F. 케네디도 살해 당했다.<br />
+샌더스가 미 대통령이 된다고 확신하며 <br />
+그로말미암아 미국과 한국의 경제틀이 1%만 신나게 하는 신자유주의에서 <br />
+99%가 더불어 잘사는 경제로 새롭게 짜여질 거라고 확신함<a class = "declare">신고</a> <font class="division">|</font> <a class = "delete">삭제</a></p><div class = "reply-list-footer">	<div class = "rreply">		<a>		답글 <span class = "rreply-count">0</span> <i class="rreply-toggle fa fa-caret-down"></i>		</a>	</div>	<div class = "vote">		<a class = "btn recommend">			<span class = "text"><i class="fa fa-thumbs-o-up"></i> 추천</span>			<span class = "count">20</span>		</a>		<a class = "btn dissent">			<span class = "text"><i class="fa fa-thumbs-o-down"></i> 반대</span>			<span class = "count">1</span>		</a>	</div></div><div class = "reply-list-rr"><ul class = "reply-list sub"></ul>	<form class = "reply-write-container">		<div class = "reply-write-header">			<input name = "mode" type = "hidden" value = "rreply" />			<input name = "article_idxno" type = "hidden" value = "17384" />			<input name = "parent_idxno" type = "hidden" value = "29468" />			<input name = "name" type = "text" class = "input-box input-placeholder placeholder-name" />			<input name = "password" type = "password" class = "input-box input-placeholder placeholder-password" />		</div>		<div class = "reply-write-body">		<div class = "reply-content-container">			<textarea class = "reply-content" name = "content"></textarea>		</div>			<div class = "reply-write-footer">				<div class = "n-check"><span class = "cur">0</span>/<span class = "max">300</span></div>				<button class = "w-button" onclick = "return false"><i class="fa fa-check"></i> 등록</button>			</div>		</div>	</form></div></div></li><li class = "user-row" data-article-idx="17384" data-self-idx="29461" data-parent-idx="29461"><div class = "reply-list-header">	<strong class = "name">계족산</strong>	<span class = "date">2016-02-10 21:46:45</span></div><div class = "text-box"><div class = "text-arrow"></div><p class = "reply-list-body origin">져발 미국이라도 변해라.<br />
+헬 됴션은 더이상 가망이 없다.<br />
+미쿡이 선도해줘야 그나마<a class = "declare">신고</a> <font class="division">|</font> <a class = "delete">삭제</a></p><div class = "reply-list-footer">	<div class = "rreply">		<a>		답글 <span class = "rreply-count">0</span> <i class="rreply-toggle fa fa-caret-down"></i>		</a>	</div>	<div class = "vote">		<a class = "btn recommend">			<span class = "text"><i class="fa fa-thumbs-o-up"></i> 추천</span>			<span class = "count">21</span>		</a>		<a class = "btn dissent">			<span class = "text"><i class="fa fa-thumbs-o-down"></i> 반대</span>			<span class = "count">1</span>		</a>	</div></div><div class = "reply-list-rr"><ul class = "reply-list sub"></ul>	<form class = "reply-write-container">		<div class = "reply-write-header">			<input name = "mode" type = "hidden" value = "rreply" />			<input name = "article_idxno" type = "hidden" value = "17384" />			<input name = "parent_idxno" type = "hidden" value = "29461" />			<input name = "name" type = "text" class = "input-box input-placeholder placeholder-name" />			<input name = "password" type = "password" class = "input-box input-placeholder placeholder-password" />		</div>		<div class = "reply-write-body">		<div class = "reply-content-container">			<textarea class = "reply-content" name = "content"></textarea>		</div>			<div class = "reply-write-footer">				<div class = "n-check"><span class = "cur">0</span>/<span class = "max">300</span></div>				<button class = "w-button" onclick = "return false"><i class="fa fa-check"></i> 등록</button>			</div>		</div>	</form></div></div></li><li class = "user-row" data-article-idx="17384" data-self-idx="29459" data-parent-idx="29459"><div class = "reply-list-header">	<strong class = "name">asafasf</strong>	<span class = "date">2016-02-10 19:47:47</span></div><div class = "text-box"><div class = "text-arrow"></div><p class = "reply-list-body origin">헬조선에서는 기대하기 힘든 일<a class = "declare">신고</a> <font class="division">|</font> <a class = "delete">삭제</a></p><div class = "reply-list-footer">	<div class = "rreply">		<a>		답글 <span class = "rreply-count">0</span> <i class="rreply-toggle fa fa-caret-down"></i>		</a>	</div>	<div class = "vote">		<a class = "btn recommend">			<span class = "text"><i class="fa fa-thumbs-o-up"></i> 추천</span>			<span class = "count">14</span>		</a>		<a class = "btn dissent">			<span class = "text"><i class="fa fa-thumbs-o-down"></i> 반대</span>			<span class = "count">1</span>		</a>	</div></div><div class = "reply-list-rr"><ul class = "reply-list sub"></ul>	<form class = "reply-write-container">		<div class = "reply-write-header">			<input name = "mode" type = "hidden" value = "rreply" />			<input name = "article_idxno" type = "hidden" value = "17384" />			<input name = "parent_idxno" type = "hidden" value = "29459" />			<input name = "name" type = "text" class = "input-box input-placeholder placeholder-name" />			<input name = "password" type = "password" class = "input-box input-placeholder placeholder-password" />		</div>		<div class = "reply-write-body">		<div class = "reply-content-container">			<textarea class = "reply-content" name = "content"></textarea>		</div>			<div class = "reply-write-footer">				<div class = "n-check"><span class = "cur">0</span>/<span class = "max">300</span></div>				<button class = "w-button" onclick = "return false"><i class="fa fa-check"></i> 등록</button>			</div>		</div>	</form></div></div></li></ul>
+
+
+
+
+</div>
+
+<script>
+articleReply.init();
+</script>
+
+		</td>
+		<td width="20"></td>
+		<td width="250" align="right" valign="top">
+
+
+<table align="center" cellpadding="0" cellspacing="0" width="250">	
+<script language="JavaScript" type="text/javascript">
+  		<!--
+  			function viewPhoto(idxno) {
+				var url = "photoView.html?idxno=" + idxno;					
+				window.open(url, 'photoView', 'width=640, height=500, scrollbars=yes');
+			}
+  		//-->
+		</script>			
+			</table><table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td align="center"><iframe src="/Autobox/250_PhotoNews1.html" scrolling="no" hspace="0" vspace="0" frameborder="0" marginwidth="0" marginheight="0" width="250" height="267" align="center" noresize></iframe></td>
+			</tr>
+		</table><table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td align="center"><!--제보의견보내기--><script language="javascript" src="/bannerManager/inc/5.html"></script><!--제보의견보내기--></td>
+			</tr>
+		</table><table width="250" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:5px;" align="center">
+<tr>
+<td bgcolor="#ff8000" style="padding:7px 10px;" align="left">
+<strong style="color:#fff; letter-spacing:-1px;"><div class="Ftsize"><a href="/news/articleList.html?sc_section_code=S1N8&view_type=sm" class="BtnMore2">이영광의 발로go 인터뷰</a></div></strong>
+</td>
+</tr>
+<tr>
+<td style="padding:10px 10px 0 10px; border:1px solid #e0e0e0; border-top:0;"><div class="Article FoterBig"><a href="/news/articleView.html?idxno=17437" target="_top"><div style="float:left; position:relative; width:80px;"><img src="/news/thumbnail/201602/17437_36069_1736_v150.jpg" class="ImgWidth_S ImgHeight_S" border="0" alt="“MBC 경영진의 멘붕은 자업자득”" onclick="location.href='/news/articleView.html?idxno=17437'"></div><div style="position:relative; top:2px;">
+			<h3 class="FtColor_T">“MBC 경영진의 멘붕은 자업자득”</h3>
+			<span>지난달 하순 백종문 MBC 미래전락본부장과 박현명 ...</span>
+			</div>
+			</a>
+		</div><div class="Article FoterBig" style="border-top:1px dotted #e0e0e0; padding-top:10px;"><a href="/news/articleView.html?idxno=17424" target="_top"><div style="float:left; position:relative; width:80px;"><img src="/news/thumbnail/201602/17424_36000_3936_v150.jpg" class="ImgWidth_S ImgHeight_S" border="0" alt="“개성공단 폐쇄, 선거용이라면 하수중 최하수”" onclick="location.href='/news/articleView.html?idxno=17424'"></div><div style="position:relative; top:2px;">
+			<h3 class="FtColor_T">“개성공단 폐쇄, 선거용이라면 하수중 최하수”</h3>
+			<span>지난해 말 표창원 전 경찰대 교수가 더불어민주당(이...</span>
+			</div>
+			</a>
+		</div><div class="Article FoterBig" style="border-top:1px dotted #e0e0e0; padding-top:10px;"><a href="/news/articleView.html?idxno=17416" target="_top"><div style="float:left; position:relative; width:80px;"><img src="/news/thumbnail/201602/17416_35959_4350_v150.jpg" class="ImgWidth_S ImgHeight_S" border="0" alt="“돈 때문에 죽는 ‘죽음의 고리’, 정치 통해 끊고 싶다”" onclick="location.href='/news/articleView.html?idxno=17416'"></div><div style="position:relative; top:2px;">
+			<h3 class="FtColor_T">“돈 때문에 죽는 ‘죽음의 고리’, 정치 통해 끊고 싶다”</h3>
+			<span>지난 2014년 세월호 참사이후 침묵행진 ‘가만히 ...</span>
+			</div>
+			</a>
+		</div><div class="Article FoterBig" style="border-top:1px dotted #e0e0e0; padding-top:10px;"><a href="/news/articleView.html?idxno=17370" target="_top"><div style="float:left; position:relative; width:80px;"><img src="/news/thumbnail/201602/17370_35772_344_v150.jpg" class="ImgWidth_S ImgHeight_S" border="0" alt="“‘朴 7시간’ 중요한 이유…국가재난시 최종 컨트롤타워”" onclick="location.href='/news/articleView.html?idxno=17370'"></div><div style="position:relative; top:2px;">
+			<h3 class="FtColor_T">“‘朴 7시간’ 중요한 이유…국가재난시 최종 컨트롤타워”</h3>
+			<span>대한민국은 2014년 4월 16일 이전과 이후로 나...</span>
+			</div>
+			</a>
+		</div></td>
+</tr>
+</table><table width="250" border="0" cellpadding="0" cellspacing="0"  background="/box/box_news/250_lkj_bg.gif" align="center">
+  <tr>
+    <td><a href="/news/articleList.html?sc_serial_code=SRN2&view_type=sm"><img src="/box/box_news/250_lkj_top2.gif" border="0"></a></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding-top:10px;"><table width="215" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="left"><div class="Article Boll FoterSm">
+		<ul><li class="ListNot">
+			<a href="/news/articleView.html?idxno=2339" target="_top">
+			<h5 class="FtColor_T OnLoad">[카툰]‘삼성묵시록’ 영어버전 ‘Samsung Revealed' 2</h5>
+			</a>
+			</li><li class="ListNot">
+			<a href="/news/articleView.html?idxno=2338" target="_top">
+			<h5 class="FtColor_T OnLoad">[카툰]‘삼성묵시록’ 영어버전 ‘Samsung Revealed' 1</h5>
+			</a>
+			</li><li class="ListNot">
+			<a href="/news/articleView.html?idxno=1863" target="_top">
+			<h5 class="FtColor_T OnLoad">[카툰]‘삼성묵시록’ 일본어버전 ‘サンスン &#40665;示&#37682;' 2</h5>
+			</a>
+			</li><li class="ListNot">
+			<a href="/news/articleView.html?idxno=1861" target="_top">
+			<h5 class="FtColor_T OnLoad">[카툰]‘삼성묵시록’ 일본어버전 ‘サンスン &#40665;示&#37682;' 1</h5>
+			</a>
+			</li><li class="ListNot">
+			<a href="/news/articleView.html?idxno=1443" target="_top">
+			<h5 class="FtColor_T OnLoad">[카툰]‘삼성묵시록’ 중국어버전 ‘三星 默示&#24405;’ 1</h5>
+			</a>
+			</li>
+	</ul>
+</div></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><img src="/box/box_news/250_lkj_dn.gif"></td>
+  </tr>
+</table>
+<table><tr><td height="2"></td></tr></table><table width="250" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:6px; border:1px solid #e0e0e0;" align="center">
+<tr>
+<td style="padding:0 10px;" align="left">
+<strong style="float:left; overflow:hidden; width:100%; padding:12px 0; color:#202020; letter-spacing:-1px;"><div class="Ftsize">가장 <font color="#ff651b">많이 본</font> 기사</div></strong>
+</td>
+</tr>
+<tr>
+<td valign="top" height="50" style="padding:0 10px;"><div class="Article FoterSm"><a href="/news/articleView.html?idxno=17436" target="_top">
+		<h5 class="TabHot" style="margin-bottom:7px;"><div class="red num">1</div><div class="OnLoad">유시민 “朴 ‘개성공단 중단’ 헌법 위반한 긴급명령…탄핵감”</div></h5>
+		</a><a href="/news/articleView.html?idxno=17412" target="_top">
+		<h5 class="TabHot" style="margin-bottom:7px;"><div class="red num">2</div><div class="OnLoad">MBC, <대통령의 7시간> ‘제작하면 징계’ 통보</div></h5>
+		</a><a href="/news/articleView.html?idxno=17418" target="_top">
+		<h5 class="TabHot" style="margin-bottom:7px;"><div class="red num">3</div><div class="OnLoad">김홍걸 “중국은 사드 100% 총선용, 선거 끝나면 바로 들어갈 걸로 본다”</div></h5>
+		</a><a href="/news/articleView.html?idxno=17431" target="_top">
+		<h5 class="TabHot" style="margin-bottom:7px;"><div class="num">4</div><div class="OnLoad">홍용표 발뺌에 SNS “국민&#8231;전세계에 ‘사기극’” 비난 쇄도</div></h5>
+		</a><a href="/news/articleView.html?idxno=17443" target="_top">
+		<h5 class="TabHot" style="margin-bottom:7px;"><div class="num">5</div><div class="OnLoad">정미홍, 또 이재명 비방.. “아직도 정신 못 차린 듯”</div></h5>
+		</a><a href="/news/articleView.html?idxno=17442" target="_top">
+		<h5 class="TabHot" style="margin-bottom:7px;"><div class="num">6</div><div class="OnLoad">영국 <가디언> “개성공단, 북한 무역의 1%밖에 안돼”</div></h5>
+		</a><a href="/news/articleView.html?idxno=17440" target="_top">
+		<h5 class="TabHot" style="margin-bottom:7px;"><div class="num">7</div><div class="OnLoad">“장관 실토에도 朴 ‘유엔 결의 위반 시인’ 연설…靑비서들 뭐하나”</div></h5>
+		</a><a href="/news/articleView.html?idxno=17399" target="_top">
+		<h5 class="TabHot" style="margin-bottom:7px;"><div class="num">8</div><div class="OnLoad">대통령 아무나 뽑아서 안 되는 이유, 이제 아시겠어요?</div></h5>
+		</a><a href="/news/articleView.html?idxno=17411" target="_top">
+		<h5 class="TabHot" style="margin-bottom:7px;"><div class="num">9</div><div class="OnLoad">“TV조선 앵커, 선거때 뉴스에서 ‘일베 종북 검증 놀이’한 것”</div></h5>
+		</a><a href="/news/articleView.html?idxno=17414" target="_top">
+		<h5 class="TabHot" style="margin-bottom:7px;"><div class="num">10</div><div class="OnLoad">“北 위성발사 2시간 넘도록 성공여부도 몰랐던 정부가…”</div></h5>
+		</a></div></td>
+</tr>
+</table><table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td align="center"><!--<iframe src="http://www.gobalnews.com/Autobox/250_notice.html" scrolling="no" hspace="0" vspace="0" frameborder="0" marginwidth="0" marginheight="0" width="250" height="151" align="center" noresize></iframe>-->
+<!--공지사항 참가신청게시판 <iframe src="http://www.gobalnews.com/Autobox/250_bbs_roll.html" scrolling="no" hspace="0" vspace="0" frameborder="0" marginwidth="0" marginheight="0" width="250" height="151" align="center" noresize></iframe> --></td>
+			</tr>
+		</table><table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td align="center"><!--광고제휴문의--><script language="javascript" src="/bannerManager/inc/39.html"></script><!--광고제휴문의--></td>
+			</tr>
+		</table><table width="250" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:5px;" align="center">
+<tr>
+<td bgcolor="#ff8000" style="padding:7px 10px;" align="left">
+<strong style="color:#fff; letter-spacing:-1px;"><div class="Ftsize"><a href="/news/articleList.html?sc_section_code=S1N6&view_type=sm" class="BtnMore2">개나발 Radio</a></div></strong>
+</td>
+</tr>
+<tr>
+<td style="padding:10px 10px 0 10px; border:1px solid #e0e0e0; border-top:0;"><div class="Article Boll FoterSm">
+		<ul><li class="ListNot">
+			<a href="/news/articleView.html?idxno=552" target="_top">
+			<h5 class="FtColor_T OnLoad">36회 힐링특집.. 그날 이후</h5>
+			</a>
+			</li><li class="ListNot">
+			<a href="/news/articleView.html?idxno=431" target="_top">
+			<h5 class="FtColor_T OnLoad">35회 "대국민 사기극, 나는 앵무새다"</h5>
+			</a>
+			</li><li class="ListNot">
+			<a href="/news/articleView.html?idxno=376" target="_top">
+			<h5 class="FtColor_T OnLoad">34회 전두환 '사저 현장검증’</h5>
+			</a>
+			</li><li class="ListNot">
+			<a href="/news/articleView.html?idxno=313" target="_top">
+			<h5 class="FtColor_T OnLoad">33회 ‘박근혜 단독 TV토론’의 비밀</h5>
+			</a>
+			</li><li class="ListNot">
+			<a href="/news/articleView.html?idxno=241" target="_top">
+			<h5 class="FtColor_T OnLoad">32회 삼성 이건희 피소사건 전말</h5>
+			</a>
+			</li>
+	</ul>
+</div></td>
+</tr>
+</table>		</td>
+	</tr>
+</table>
+
+<table width="960" border="0" cellpadding="0" cellspacing="0" style="margin-top:10px;" align="center">
+		<tr>
+		<td><!--정기구독신청--><!-- <script language="javascript" src="/bannerManager/inc/1.html"></script> --><!--정기구독신청--></td>
+	</tr>
+		<tr>
+		<td style="padding:10px 0; border-top:1px solid #ddd; border-bottom:1px solid #ddd;">
+		<table width="940" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td class="dncom">
+				<a href="http://www.gobalnews.com/com/com-1.html" onfocus="this.blur()">go발뉴스 소개</a>ㆍ<a href="http://www.gobalnews.com/com/jb.html" onfocus="this.blur()">기사제보</a>ㆍ<a href="http://www.gobalnews.com/com/ad.html" onfocus="this.blur()">광고문의</a>ㆍ<a href="http://www.gobalnews.com/com/bp.html" onfocus="this.blur()">불편신고</a>ㆍ<a href="javascript:void(window.open('http://www.gobalnews.com/com/privacy.html','privacy','width=800, height=600, scrollbars=yes'))" onfocus="this.blur()">개인정보취급방침</a>ㆍ<a href="javascript:void(window.open('/com/teen.html','teen','width=800, height=600, scrollbars=yes'))" onfocus="this.blur()">청소년보호정책</a>ㆍ<a href="javascript:void(window.open('http://www.gobalnews.com/com/pop_emailno.html','new_win','resizable=no,width=550,height=252,scrollbars=no'))" onfocus="this.blur()">이메일무단수집거부</a>
+				</td>
+				<td width="250" align="right">
+				<table border="0" cellpadding="0" cellspacing="0">
+					<tr>
+						<td><a href="http://www.gobalnews.com/rss/" onFocus="this.blur();"><img src="/image2006/rss_b.gif" border="0"></a></td>
+						<td><a href="http://www.gobalnews.com" onfocus="this.blur()"><img src="/image2006/dn_iconhome.gif" border="0"></a></td>
+						<td><a href="javascript:history.back()" onfocus="this.blur();"><img src="/image2006/dn_iconback.gif"  border="0"></a></td>
+						<td><a href="#top" onfocus="this.blur();"><img src="/image2006/dn_icontop.gif" border="0"></a></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+	<tr>
+		<td style="padding:10px 0;">
+		<table width="960" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td width="120" align="center"><a href="http://www.gobalnews.com/"><img src="/image2006/logo_dn.gif" border="0"></a></td>
+				<td width="780" class="dncopy">
+				<!--서울특별시 마포구 신촌로 12나길 26 (노고산동, 이한열기념관 2층)-->서울 마포구 잔다리로 44 예경빌딩 1층 (서교동 372-7) 홍대 이한열 방송센터&nbsp;&nbsp;|&nbsp;&nbsp;대표전화 : 02-325-8769&nbsp;&nbsp;|&nbsp;&nbsp;기사제보 : 02-325-0769    <br>
+				사업자등록번호 : 105-87-76922&nbsp;&nbsp;|&nbsp;&nbsp;정기간행물ㆍ등록번호 : 서울 아 02285&nbsp;&nbsp;|&nbsp;&nbsp;발행/편집인 : 김영우&nbsp;&nbsp;|&nbsp;&nbsp;공식계좌 : 국민은행 090501-04-230157, 예금주 : (주)발뉴스
+
+<br>
+				C<a href="http://www.gobalnews.com/admin/adminLoginForm.html">o</a>pyrig<a href="/member/login.html">h</a>t <a href="http://www.gobalnews.com/weblog/webmail.html" target="_blank">&copy;</a> 2012 go발뉴스닷컴. All rights reserved. mail to <a href="mailto:balnews21@gmail.com">balnews21@gmail.com</a>
+				<br />저희 ‘go발뉴스’에 실린 내용 중 블로거글, 제휴기사, 칼럼 등 일부내용은 ‘go발뉴스’의 편집방향과 다를 수 있습니다. </td>
+				<td width="60" valign="bottom" align="right"><a href="http://www.ndsoft.co.kr" target="_blank" onfocus="this.blur()"><img src="/image2006/ndsoft.gif" border="0"></a></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+</td>
+</tr>
+</table>
+
+</body>
+</html>

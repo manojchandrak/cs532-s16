@@ -1,0 +1,855 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="author" content="prokal.co" />
+	<meta http-equiv="Refresh" content="1800" />
+	<meta name="description" content="Portal berita RADAR KALTIM| www.radarkaltim.co.id menyajikan berita-berita serta informasi terkini dan lengkap dari wilayah Samarinda, Tenggarong, Bontang, Sangatta, Berau, Kutai Timur, Kutai Kartanegara, Kutai Barat, Mahakam Ulu, Paser, Penajam Paser Utara, Kalimantan Timur, regional Kalimantan dan Indonesia pada umumnya. Berisi rubrik-rubrik Olahraga, Hiburan, Ekonomi, Wisata, Kuliner, Sosial, Politik dalam jaringan PROKAL.co | Portal Kalimantan." />
+	<meta name="keyword" content="pro kaltim, pro kaltara, pro kalsel, pro kalteng, pro kalbar, kalimantan, kalimantan timur, kalimantan utara, kalimantan selatan, kalimantan tengah, kalimantan barat, berita kalimantan" />
+	<meta name="copyright" content="Copyright 2015 Katim Post Group" />
+	<meta name="language" content="Indonesian" />
+	<meta name="distribution" content="Global" />
+	<meta name="rating" content="General" />
+	<meta name="robots" content="index,follow" />
+	<meta name="googlebot" content="index,follow" />
+	<meta name="revisit-after" content="1 days" />
+	<meta name="expires" content="never" />
+	
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    
+			<meta property="og:title" content="Kabupaten Paser Gunakan Aplikasi SIMDA | Radar Kaltim">
+		<meta property="og:type" content="article"/>
+		<meta property="og:url" content="http://radarkaltim.prokal.co/read/news/417-kabupaten-paser-gunakan-aplikasi-simda.html"/>
+		<meta property="fb:app_id" content="883076065096618"/>
+		<meta property="og:site_name" content="radarkaltim.prokal.co">
+		<meta property="og:description" content="TANA PASER. Badan Pemeriksa Keuangan Provinsi (BPKP) Kaltim mensosialisasikan aplikasi Sistem Informasi&#8230;">
+		
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@prokaldotco">
+		<meta name="twitter:creator" content="@prokaldotco">
+		<meta name="twitter:title" content="Kabupaten Paser Gunakan Aplikasi SIMDA | Radar Kaltim">
+		<meta name="twitter:description" content="TANA PASER. Badan Pemeriksa Keuangan Provinsi (BPKP) Kaltim mensosialisasikan aplikasi Sistem Informasi&#8230;">
+		
+								<meta property="og:image" content="http://images.prokal.co/webradarkaltim/files/berita/2016/01/27/kabupaten-paser-gunakan-aplikasi-simda.JPG">
+			<meta name="twitter:image" content="http://images.prokal.co/webradarkaltim/files/berita/2016/01/27/kabupaten-paser-gunakan-aplikasi-simda.JPG">
+			
+	<title>Kabupaten Paser Gunakan Aplikasi SIMDA | Radar Kaltim</title>
+    <link rel="stylesheet" href="http://codesource.kaltimpost.co.id/bootstrap-3.3.5/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" type="text/css" />
+    <link rel="stylesheet" href="http://radarkaltim.prokal.co/assets/css/captions.css" type="text/css" />
+    <!--<link rel="stylesheet" href="http://radarkaltim.prokal.co/assets/css/pgwslider.css" type="text/css" />-->
+    <link rel="stylesheet" href="http://radarkaltim.prokal.co/assets/css/owl.carousel.css" type="text/css" />
+    <link rel="stylesheet" href="http://radarkaltim.prokal.co/assets/css/fotorama.css">
+    <link rel="stylesheet" href="http://radarkaltim.prokal.co/assets/css/style.css" type="text/css" />
+
+    <script type="text/javascript" src="http://codesource.kaltimpost.co.id/jquery/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="http://codesource.kaltimpost.co.id/jquery/jquery-migrate-1.2.1.min.js"></script>
+	
+	<!-- Start Alexa Certify Javascript -->
+	<script type="text/javascript">
+	_atrk_opts = { atrk_acct:"imWWl1aQibl0mh", domain:"prokal.co",dynamic: true};
+	(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+	</script>
+	<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=imWWl1aQibl0mh" style="display:none" height="1" width="1" alt="" /></noscript>
+	<!-- End Alexa Certify Javascript -->
+	
+	<script>
+		( function( $ ) {
+		$( document ).ready(function() {
+			$('#cssmenu').prepend('<div id="indicatorContainer"><div id="pIndicator"><div id="cIndicator"></div></div></div>');
+		    var activeElement = $('#cssmenu>ul>li:first');
+
+		    $('#cssmenu>ul>li').each(function() {
+		        if ($(this).hasClass('active')) {
+		            activeElement = $(this);
+		        }
+		    });
+
+
+			var posLeft = activeElement.position().left;
+			var elementWidth = activeElement.width();
+			posLeft = posLeft + elementWidth/2 -6;
+			if (activeElement.hasClass('has-sub')) {
+				posLeft -= 6;
+			}
+
+			$('#cssmenu #pIndicator').css('left', posLeft);
+			var element, leftPos, indicator = $('#cssmenu pIndicator');
+			
+			$("#cssmenu>ul>li").hover(function() {
+		        element = $(this);
+		        var w = element.width();
+		        if ($(this).hasClass('has-sub'))
+		        {
+		        	leftPos = element.position().left + w/2 - 12;
+		        }
+		        else {
+		        	leftPos = element.position().left + w/2 - 6;
+		        }
+
+		        $('#cssmenu #pIndicator').css('left', leftPos);
+		    }
+		    , function() {
+		    	$('#cssmenu #pIndicator').css('left', posLeft);
+		    });
+
+			$('#cssmenu>ul').prepend('<li id="menu-button"><a>Menu</a></li>');
+			$( "#menu-button" ).click(function(){
+		    		if ($(this).parent().hasClass('open')) {
+		    			$(this).parent().removeClass('open');
+		    		}
+		    		else {
+		    			$(this).parent().addClass('open');
+		    		}
+		    	});
+		});
+		} )( jQuery );
+	</script>
+	
+	<!-- Facebook Pixel Code -->
+	<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+	fbq('init', '115271418820732');
+	fbq('track', "PageView");</script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=115271418820732&ev=PageView&noscript=1"
+	/></noscript>
+	<!-- End Facebook Pixel Code -->
+</head>
+<body>
+
+<div class="container">
+	<div id='cssmenu'>
+		<ul style="float: left;width: 800px;">
+			<li class='active has-sub'>
+				<a href='http://www.prokal.co'><span style="color: #FFF;">PROKAL.co</span></a>
+				<ul>
+					<li><a href='http://news.prokal.co'><span>PROKAL NEWS</span></a></li>
+					<li class='has-sub'>
+						<a href='http://www.prokal.co/grup/index/kaltim.html'><span>PRO KALTIM</span></a>
+						<ul>
+							<li><a href='http://kaltim.prokal.co'><span>KALTIM POST</span></a></li>
+							<li><a href='http://balikpapan.prokal.co'><span>BALIKPAPAN POS</span></a></li>
+							<li><a href='http://samarinda.prokal.co'><span>SAMARINDA POS</span></a></li>
+							<li><a href='http://bontang.prokal.co'><span>BONTANG POST</span></a></li>
+							<li><a href='http://berau.prokal.co'><span>BERAU POST</span></a></li>
+							<li><a href='http://weekly.prokal.co'><span>KALTIM WEEKLY</span></a></li>
+							<li><a href='http://radarkaltim.prokal.co'><span>RADAR KALTIM</span></a></li>
+						</ul>
+					</li>
+					<li class='has-sub'>
+						<a href='http://www.prokal.co/grup/index/kaltara.html'><span>PRO KALTARA</span></a>
+						<ul>
+							<li><a href='http://kaltara.prokal.co'><span>RADAR TARAKAN</span></a></li>
+							<li><a href='http://bulungan.prokal.co'><span>BULUNGAN POST</span></a></li>
+						</ul>
+					</li>
+					<li class='has-sub'>
+						<a href='http://www.prokal.co/grup/index/kalsel.html'><span>PRO KALSEL</span></a>
+						<ul>
+							<li><a href='http://kalsel.prokal.co'><span>RADAR BANJARMASIN</span></a></li>
+						</ul>
+					</li>
+					<li class='has-sub'>
+						<a href='http://www.prokal.co/grup/index/kalteng.html'><span>PRO KALTENG</span></a>
+						<ul>
+							<li><a href='http://kalteng.prokal.co'><span>KALTENG POS</span></a></li>
+							<li><a href='http://sampit.prokal.co'><span>RADAR SAMPIT</span></a></li>
+						</ul>
+					</li>
+					<li><a href='http://KALBAR.prokal.co'><span>PRO KALBAR</span></a></li>
+				</ul>
+			</li>
+			<li><a href='http://www.balikpapantv.co.id' target="_blank"><span>BalikpapanTV</span></a></li>
+			<li><a href='https://www.youtube.com/channel/UCEr2EHednZhSVRAoc9FJxgw' target="_blank"><span>SamarindaTV</span></a></li>
+			<li><a href='http://www.kapefm.com' target="_blank"><span>KPFMBalikpapan</span></a></li>
+			<li><a href='http://www.kpfm.co.id' target="_blank"><span>KPFMSamarinda</span></a></li>
+			<!--<li class='last'><a href='#'><span>RTFM</span></a></li>-->
+		</ul>
+		
+		<ul style="float: right;width: 130px;text-align: right;background: #2b2f3a;">
+			<li><a href="http://radarkaltim.prokal.co/indexberita.html" style="color: white;">Indeks Berita</a></li>
+		</ul>
+	</div>
+	
+    <div style="padding:10px 0;">
+    	<div class="row">
+    		<div class="col-md-5">
+    					            <img src="http://images.prokal.co/prokalco/files/logo/logoheadprokal.png" />
+		            		</div>
+    		<div class="col-md-7" align="right" style="margin-top:10px;">
+    			    				<div class="pull-right" style="padding-left:10px;" align="left">
+    					<div style="font-family: allerreg;color: #BCBEC0;margin-bottom: 5px;">MANAGED BY:</div>
+    					<div><img src="http://images.prokal.co/prokalco/files/logo/logoradarkaltim.png" /></div>
+    				</div>
+    				<div class="pull-right" style="padding-right:10px;border-right: 1px solid #CCC;" align="right">
+    					<div style="font-family: allerreg;color: #939598;line-height: 1.3;">
+    						KAMIS<br>18 FEBRUARI    					</div>
+    					<div class="clock" style="color: #BCBEC0;font-family: dinlight;font-size: 18px;"></div>
+    				</div>
+				    		</div>
+    	</div>
+    </div>
+
+    <div style="padding:10px 0;border: 1px solid #000;border-left: none;border-right: none;" align="center">
+        		
+		
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- PROKAL-WEBMEDIA-900-1 -->
+	<ins class="adsbygoogle"
+		style="display:inline-block;width:970px;height:90px"
+		data-ad-client="ca-pub-4356153053901626"
+		data-ad-slot="6157399195"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+		
+		    </div>
+
+    <div style="padding:3px 20px;border-bottom: 1px solid #000;">
+        
+            <span style="margin-left: 10px;">
+                <a href="http://radarkaltim.prokal.co/" style="color:#000;text-decoration: none;font-family: allerbold;font-size: 16px">HOME</a>
+            </span>
+            	                <span style="margin-left: 10px;">|</span>
+	                <span style="margin-left: 10px;">
+	                    <a href="http://radarkaltim.prokal.co/rubrik/index/1-politik.html" style="color:#000;text-decoration: none;font-family: allerbold;font-size: 16px">POLITIK</a>
+	                </span>
+	            	                <span style="margin-left: 10px;">|</span>
+	                <span style="margin-left: 10px;">
+	                    <a href="http://radarkaltim.prokal.co/rubrik/index/2-hukum.html" style="color:#000;text-decoration: none;font-family: allerbold;font-size: 16px">HUKUM</a>
+	                </span>
+	            	                <span style="margin-left: 10px;">|</span>
+	                <span style="margin-left: 10px;">
+	                    <a href="http://radarkaltim.prokal.co/rubrik/index/3-kriminal.html" style="color:#000;text-decoration: none;font-family: allerbold;font-size: 16px">KRIMINAL</a>
+	                </span>
+	            	                <span style="margin-left: 10px;">|</span>
+	                <span style="margin-left: 10px;">
+	                    <a href="http://radarkaltim.prokal.co/rubrik/index/4-khazanah.html" style="color:#000;text-decoration: none;font-family: allerbold;font-size: 16px">KHAZANAH</a>
+	                </span>
+	            	                <span style="margin-left: 10px;">|</span>
+	                <span style="margin-left: 10px;">
+	                    <a href="http://radarkaltim.prokal.co/rubrik/index/5-daerah.html" style="color:#000;text-decoration: none;font-family: allerbold;font-size: 16px">DAERAH</a>
+	                </span>
+	            	                <span style="margin-left: 10px;">|</span>
+	                <span style="margin-left: 10px;">
+	                    <a href="http://radarkaltim.prokal.co/rubrik/index/6-sex-kesehatan.html" style="color:#000;text-decoration: none;font-family: allerbold;font-size: 16px">SEX & KESEHATAN</a>
+	                </span>
+	            	                <span style="margin-left: 10px;">|</span>
+	                <span style="margin-left: 10px;">
+	                    <a href="http://radarkaltim.prokal.co/rubrik/index/7-hangout.html" style="color:#000;text-decoration: none;font-family: allerbold;font-size: 16px">HANGOUT</a>
+	                </span>
+	            	                <span style="margin-left: 10px;">|</span>
+	                <span style="margin-left: 10px;">
+	                    <a href="http://radarkaltim.prokal.co/rubrik/index/8-edukreatif.html" style="color:#000;text-decoration: none;font-family: allerbold;font-size: 16px">EDUKREATIF</a>
+	                </span>
+	            	    	    </div>
+</div>
+
+<div style="height: 10px;"></div>
+
+<div class="container">
+    <div style="height:10px;clear: both;"></div>
+    <div style="border-bottom: 1px solid #CCC;">
+    <div class="col-leftmiddle-730">
+        <div class="col-subleftmiddle">
+            <div style="width:60px;float: left;">
+                <div style="margin-top:20px;">
+                    <ul class="list-unstyled">
+                        <li style="padding-bottom:10px;">
+                        	                        	<img src="http://radarkaltim.prokal.co/assets/img/btnfb.png" class="img-responsive" />
+                        	                        </li>
+                        <li style="padding-bottom:10px;">
+                        	                        	<img src="http://radarkaltim.prokal.co/assets/img/btntwit.png" class="img-responsive" />
+                        	                        </li>
+                        <li style="padding-bottom:10px;">
+                        	                        	<img src="http://radarkaltim.prokal.co/assets/img/btnfoto.png" class="img-responsive" />
+                        	                        </li>
+                        <li style="padding-bottom:10px;">
+                        	                        	<img src="http://radarkaltim.prokal.co/assets/img/btngplus.png" class="img-responsive" />
+                        	                        </li>
+                        <li style="padding-bottom:10px;"><a href='#'><img src="http://radarkaltim.prokal.co/assets/img/btnfeed.png" class="img-responsive" /></a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div style="float: left;border-left: 1px solid #CCC;width: 669px;">
+                
+                                        <div style="padding: 10px 20px 20px 20px;border-bottom: 1px solid #CCC;font-family: allerbold;">
+                        <h4 class="text-primary">POLITIK</h4>
+                    </div>
+                    
+                    <div style="padding:10px 20px 10px 20px;">
+                    								<small style="color:#00AEEF;">Rabu, 27 Januari 2016 09:50</small>
+						                        
+						                        <div style="font-family: utopiareg;margin: 5px 0 15px 0;font-size:40px;line-height:1">Kabupaten Paser Gunakan Aplikasi SIMDA</div>
+
+                        						
+						<div style="margin:10px 0;">
+							<!--<div class="blokinline" style="vertical-align:top;position: static;"><button class="btn btn-success btn-xs" type="button">Read <span class="badge">2944</span></button></div>-->
+							<div class="blokinline" style="vertical-align:top;position: static;"><div class="fb-like" data-href="http://radarkaltim.prokal.co/read/news/417-kabupaten-paser-gunakan-aplikasi-simda.html" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div></div>
+							<div class="blokinline"><div class="g-plus" data-annotation="bubble" data-action="share" data-href="http://radarkaltim.prokal.co/read/news/417-kabupaten-paser-gunakan-aplikasi-simda.html"></div></div>
+							<div class="blokinline"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://radarkaltim.prokal.co/read/news/417-kabupaten-paser-gunakan-aplikasi-simda.html"  data-text="Kabupaten Paser Gunakan Aplikasi SIMDA - ">Tweet</a></div>
+						</div>
+						
+							                        	                            <img src="http://images.prokal.co/webradarkaltim/files/berita/2016/01/27/kabupaten-paser-gunakan-aplikasi-simda.JPG" class="img-responsive" />
+	                            <div class="text-muted" style="padding:10px 0;"></div>
+	                        	                    
+                        <div align="center" style="margin: 10px 0;">
+														<!--
+							<div style="background-color: grey;width:468px;height:60px;padding:20px;color:white;" align="left">
+								BANNER 468 X 60
+							</div>
+							<img src="" style="width:468px;height:60px;">
+							-->
+							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+							<!-- PROKAL-WEBMEDIA-468-1 -->
+							<ins class="adsbygoogle"
+							     style="display:inline-block;width:468px;height:60px"
+							     data-ad-client="ca-pub-4356153053901626"
+							     data-ad-slot="6841409993"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+						</div>
+						
+                        <div style="padding-top:20px;font-family: nimrodreg;text-align: left;">
+                        	<p>TANA PASER. Badan Pemeriksa Keuangan Provinsi (BPKP) Kaltim mensosialisasikan aplikasi Sistem Informasi Manajemen Daerah (SIMDA), di ruang rapat Sadurengas, Selasa (26/1).&nbsp; Sosialisai ini bertujuan untuk memberikan pembinaan kepada perwakilan desa di Kabupaten Paser tentang tata kelola keuangan. &nbsp;<br /><br />Hal ini di benarkan Kepala BPPD Paser, Katsul Wijaya. &ldquo;Kelemahan kita selama ini memang di bagian pengelolaan keuangan, perencanaan kemudian pelaksanaan kegiatannya, dan penanggungjawabannya. Dengan sosialisai ini kami dapat memberikan pembinaan aplikasi SIMDA agar dapat mempermudah pengelolaan keuangan di setiap desa,&rdquo; papar Katsul Wijaya. <br />Setelah sosialisasi selama dua hari ini akan diadakan bimbingan teknis (Bimtek) di setiap desa. Bimtek dilakukan untuk membantu anggota di setiap desa yang masih kesusahan menggunakan komputer atau laptop. Di perkirakan Bimtek akan mulai berjalan pada pertengahan tahun 2016. <br />&ldquo;Insya Allah pertengahan tahun ini, tenaga aplikatornya ya teman-teman yang dilatih sekarang dan besok. Teman-teman dari PMD dan dari Kecamatan, tetapi Bimtek juga tetap didampingi perwakilan BPKP provinsi Kaltim,&rdquo; ucapnya.<br />&ldquo;Saat ini teman-teman di desa sedang menyusun&nbsp; APBD desanya, setelah ditetapkannya APBD barulah kita adakan Bimteknya, &ldquo; sambung Katsul.<br /><br />Katsul juga menyampaikan jumlah dana yang di peroleh desa pada tahun 2016 ini mengalami peningkatan. Tahun ini sekitar Rp 2 Milliar diperoleh setiap desa. Dana yang diperoleh itulah dikelola secara benar.<br />&ldquo;Desa ada beberapa sumber pendapatan, dari pemerintah 144 Milliar, rata-rata per-desa di Kabupaten Paser memperoleh Rp 1,2 Milliar. Kemudian dana dari pusat yang diambil dari APBN sekitar 86 Miliar, ada juga bantuan keuangan dari provinsi Rp 130 juta tetapi diberikan ke 14 desa terpilih. Perkiraan kalau dijumlah masing-masing desa mendapat Rp 2 Milliar tahun ini,&rdquo; tutupnya.(nik/cyn)<br /><br />&nbsp;<br /><br /></p>                        </div>
+                        
+                        <div style="margin: 20px 0;" align="center"></div>
+						
+						<div style="margin-top:5px;">
+							<!--<div class="blokinline" style="vertical-align:top;position: static;"><button class="btn btn-success btn-xs" type="button">Read <span class="badge">2944</span></button></div>-->
+							<div class="blokinline" style="vertical-align:top;position: static;"><div class="fb-like" data-href="http://radarkaltim.prokal.co/read/news/417-kabupaten-paser-gunakan-aplikasi-simda.html" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div></div>
+							<div class="blokinline"><div class="g-plus" data-annotation="bubble" data-action="share" data-href="http://radarkaltim.prokal.co/read/news/417-kabupaten-paser-gunakan-aplikasi-simda.html"></div></div>
+							<div class="blokinline"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://radarkaltim.prokal.co/read/news/417-kabupaten-paser-gunakan-aplikasi-simda.html"  data-text="Kabupaten Paser Gunakan Aplikasi SIMDA - ">Tweet</a></div>
+						</div>
+
+                    </div>
+                				
+				<div style="padding:10px 0;">
+											<div align="center">                                            													<!--
+							<a href="http://welovehonda.com/generasijuara/" target="_blank">
+								<img src="http://images.prokal.co/prokalco/files/banner/honda.gif" class="img-responsive">
+							</a>
+							-->
+							<script src="//go.padstm.com/?id=515040"></script>
+												
+						</div>                    
+									</div>
+				<div style="height:20px;clear: both;"></div>
+				
+				<div style="padding:10px 20px 20px 20px;">
+					<!--
+					<div id="disqus_thread"></div>
+                        <script type="text/javascript">
+                            /* * * CONFIGURATION VARIABLES * * */
+                            var disqus_shortname = 'prokal';
+                            var disqus_url = '';
+                            var disqus_title = '';
+
+                            /* * * DON'T EDIT BELOW THIS LINE * * */
+                            (function() {
+                                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                            })();
+                        </script>
+                        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+					-->
+					<div class="fb-comments" data-href="http://radarkaltim.prokal.co/read/news/417-kabupaten-paser-gunakan-aplikasi-simda.html" data-numposts="5" data-width="630"></div>
+				</div>
+            </div>
+
+            <div style="clear: both;"></div>
+			
+			<hr class="color1">
+
+            <div style="padding-right: 20px;">
+				<h5 class="text-primary" style="font-family: allerbold;margin: 0;">BACA JUGA</h5>
+                                                        <div class="media">
+                                                    <div class="media-left">
+                                <a href="http://radarkaltim.prokal.co/read/news/755-ramai-ramai-dukung-pemekaran-rita-tolak.html">
+                                    <!--
+                                    <div class="content-crop" style="width: 180px;height: 130px;">
+                                        <img class="media-object crop" src="">
+                                    </div>
+                                    -->
+                                    <img class="media-object" src="http://images.prokal.co/webradarkaltim/files/berita/2016/02/18/thumb/ramai-ramai-dukung-pemekaran-rita-tolak.JPG" style="width: 120px;height: 80px;">
+                                </a>
+                            </div>
+                        
+                        <div class="media-body">
+                            <small style="color:#00AEEF;">Kamis, 18 Februari 2016 10:51</small>
+							                            <a href="http://radarkaltim.prokal.co/read/news/755-ramai-ramai-dukung-pemekaran-rita-tolak.html">
+								<h4 class="media-heading" style="font-family: utopiabold;color: black;">
+									Ramai-Ramai Dukung Pemekaran, Rita Tolak								</h4>
+							</a>
+                            <div style="font-family: nimrodreg;color: grey;">SAMARINDA. Wacana pemekaran daerah menuai respon berbeda dari sejumlah kepala daerah yang dilantik,&#8230;</div>
+                        </div>
+                    </div>
+                                    <hr class="color2" style="margin:10px 0;">                    <div class="media">
+                                                    <div class="media-left">
+                                <a href="http://radarkaltim.prokal.co/read/news/752-jaang-tak-punya-target-100-hari-kerja.html">
+                                    <!--
+                                    <div class="content-crop" style="width: 180px;height: 130px;">
+                                        <img class="media-object crop" src="">
+                                    </div>
+                                    -->
+                                    <img class="media-object" src="http://images.prokal.co/webradarkaltim/files/berita/2016/02/18/thumb/jaang-tak-punya-target-100-hari-kerja.JPG" style="width: 120px;height: 80px;">
+                                </a>
+                            </div>
+                        
+                        <div class="media-body">
+                            <small style="color:#00AEEF;">Kamis, 18 Februari 2016 10:48</small>
+							                            <a href="http://radarkaltim.prokal.co/read/news/752-jaang-tak-punya-target-100-hari-kerja.html">
+								<h4 class="media-heading" style="font-family: utopiabold;color: black;">
+									Jaang Tak Punya Target 100 Hari Kerja								</h4>
+							</a>
+                            <div style="font-family: nimrodreg;color: grey;">SAMARINDA. Setelah kemarin dilantik bersama lima kepala daerah lainnya, Wali Kota Samarinda terpilih&#8230;</div>
+                        </div>
+                    </div>
+                                    <hr class="color2" style="margin:10px 0;">                    <div class="media">
+                                                    <div class="media-left">
+                                <a href="http://radarkaltim.prokal.co/read/news/746-tugas-pertama-benahi-infrastruktur.html">
+                                    <!--
+                                    <div class="content-crop" style="width: 180px;height: 130px;">
+                                        <img class="media-object crop" src="">
+                                    </div>
+                                    -->
+                                    <img class="media-object" src="http://images.prokal.co/webradarkaltim/files/berita/2016/02/18/thumb/tugas-pertama-benahi-infrastruktur.jpg" style="width: 120px;height: 80px;">
+                                </a>
+                            </div>
+                        
+                        <div class="media-body">
+                            <small style="color:#00AEEF;">Kamis, 18 Februari 2016 10:41</small>
+							                            <a href="http://radarkaltim.prokal.co/read/news/746-tugas-pertama-benahi-infrastruktur.html">
+								<h4 class="media-heading" style="font-family: utopiabold;color: black;">
+									Tugas Pertama, Benahi Infrastruktur								</h4>
+							</a>
+                            <div style="font-family: nimrodreg;color: grey;">TANA PASER. Bupati dan Wakil bupati terpilih Kabupaten Paser, Yusriansyah-Mardikansyah di lantik bersama&#8230;</div>
+                        </div>
+                    </div>
+                                    <hr class="color2" style="margin:10px 0;">                    <div class="media">
+                                                    <div class="media-left">
+                                <a href="http://radarkaltim.prokal.co/read/news/743-adi-darma-isro-umarghani-pamit.html">
+                                    <!--
+                                    <div class="content-crop" style="width: 180px;height: 130px;">
+                                        <img class="media-object crop" src="">
+                                    </div>
+                                    -->
+                                    <img class="media-object" src="http://images.prokal.co/webradarkaltim/files/berita/2016/02/18/thumb/adi-darma-isro-umarghani-pamit.JPG" style="width: 120px;height: 80px;">
+                                </a>
+                            </div>
+                        
+                        <div class="media-body">
+                            <small style="color:#00AEEF;">Kamis, 18 Februari 2016 10:37</small>
+							                            <a href="http://radarkaltim.prokal.co/read/news/743-adi-darma-isro-umarghani-pamit.html">
+								<h4 class="media-heading" style="font-family: utopiabold;color: black;">
+									Adi Darma – Isro Umarghani Pamit								</h4>
+							</a>
+                            <div style="font-family: nimrodreg;color: grey;">BONTANG. Memasuki detik-detik akhir masa jabatannya, Wali Kota Bontang H Adi Darma mengucapkan terima&#8230;</div>
+                        </div>
+                    </div>
+                                    <hr class="color2" style="margin:10px 0;">                    <div class="media">
+                                                    <div class="media-left">
+                                <a href="http://radarkaltim.prokal.co/read/news/741-rita-edi-diarak-keliling-kota-raja.html">
+                                    <!--
+                                    <div class="content-crop" style="width: 180px;height: 130px;">
+                                        <img class="media-object crop" src="">
+                                    </div>
+                                    -->
+                                    <img class="media-object" src="http://images.prokal.co/webradarkaltim/files/berita/2016/02/18/thumb/rita-edi-diarak-keliling-kota-raja.JPG" style="width: 120px;height: 80px;">
+                                </a>
+                            </div>
+                        
+                        <div class="media-body">
+                            <small style="color:#00AEEF;">Kamis, 18 Februari 2016 10:35</small>
+							                            <a href="http://radarkaltim.prokal.co/read/news/741-rita-edi-diarak-keliling-kota-raja.html">
+								<h4 class="media-heading" style="font-family: utopiabold;color: black;">
+									Rita-Edi Diarak Keliling Kota Raja								</h4>
+							</a>
+                            <div style="font-family: nimrodreg;color: grey;">TENGGARONG. Tehitung kemarin, tongkat kepemimpinan Pemkab Kukar kembali ke tangan Rita Widyasari, namun&#8230;</div>
+                        </div>
+                    </div>
+                                    <hr class="color2" style="margin:10px 0;">                    <div class="media">
+                                                    <div class="media-left">
+                                <a href="http://radarkaltim.prokal.co/read/news/740-pns-kukar-pensiunkan-seragam-linmas.html">
+                                    <!--
+                                    <div class="content-crop" style="width: 180px;height: 130px;">
+                                        <img class="media-object crop" src="">
+                                    </div>
+                                    -->
+                                    <img class="media-object" src="http://images.prokal.co/webradarkaltim/files/berita/2016/02/18/thumb/pns-kukar-pensiunkan-seragam-linmas.JPG" style="width: 120px;height: 80px;">
+                                </a>
+                            </div>
+                        
+                        <div class="media-body">
+                            <small style="color:#00AEEF;">Kamis, 18 Februari 2016 10:35</small>
+							                            <a href="http://radarkaltim.prokal.co/read/news/740-pns-kukar-pensiunkan-seragam-linmas.html">
+								<h4 class="media-heading" style="font-family: utopiabold;color: black;">
+									PNS Kukar “Pensiunkan” Seragam Linmas								</h4>
+							</a>
+                            <div style="font-family: nimrodreg;color: grey;">TENGGARONG. Suasan berbeda di lingkungan Pemkab Kukar, Rabu, seragam linmas warna hijau yang biasanya&#8230;</div>
+                        </div>
+                    </div>
+                                    <hr class="color2" style="margin:10px 0;">                    <div class="media">
+                                                    <div class="media-left">
+                                <a href="http://radarkaltim.prokal.co/read/news/735-dilantik-kepala-daerah-jangan-senang-duludilantik-kepala-daerah-jangan-senang-dulu.html">
+                                    <!--
+                                    <div class="content-crop" style="width: 180px;height: 130px;">
+                                        <img class="media-object crop" src="">
+                                    </div>
+                                    -->
+                                    <img class="media-object" src="http://images.prokal.co/webradarkaltim/files/berita/2016/02/17/thumb/dilantik-kepala-daerah-jangan-senang-duludilantik-kepala-daerah-jangan-senang-dulu.jpg" style="width: 120px;height: 80px;">
+                                </a>
+                            </div>
+                        
+                        <div class="media-body">
+                            <small style="color:#00AEEF;">Rabu, 17 Februari 2016 11:05</small>
+							                            <a href="http://radarkaltim.prokal.co/read/news/735-dilantik-kepala-daerah-jangan-senang-duludilantik-kepala-daerah-jangan-senang-dulu.html">
+								<h4 class="media-heading" style="font-family: utopiabold;color: black;">
+									Dilantik, Kepala Daerah Jangan Senang DuluDilantik, Kepala Daerah Jangan Senang Dulu								</h4>
+							</a>
+                            <div style="font-family: nimrodreg;color: grey;">SAMARINDA. Enam kepala daerah resmi dilantik hari ini, di Plannery, Convention Hall, Komplek Stadion&#8230;</div>
+                        </div>
+                    </div>
+                                    <hr class="color2" style="margin:10px 0;">                    <div class="media">
+                                                    <div class="media-left">
+                                <a href="http://radarkaltim.prokal.co/read/news/733-muharram-agus-tantomo-dilantik-warga-berau-serbu-samarinda.html">
+                                    <!--
+                                    <div class="content-crop" style="width: 180px;height: 130px;">
+                                        <img class="media-object crop" src="">
+                                    </div>
+                                    -->
+                                    <img class="media-object" src="http://images.prokal.co/webradarkaltim/files/berita/2016/02/17/thumb/muharram-agus-tantomo-dilantik-warga-berau-serbu-samarinda.jpg" style="width: 120px;height: 80px;">
+                                </a>
+                            </div>
+                        
+                        <div class="media-body">
+                            <small style="color:#00AEEF;">Rabu, 17 Februari 2016 10:47</small>
+							                            <a href="http://radarkaltim.prokal.co/read/news/733-muharram-agus-tantomo-dilantik-warga-berau-serbu-samarinda.html">
+								<h4 class="media-heading" style="font-family: utopiabold;color: black;">
+									Muharram-Agus Tantomo Dilantik, Warga Berau “Serbu” Samarinda								</h4>
+							</a>
+                            <div style="font-family: nimrodreg;color: grey;">TANJUNG REDEB. Masyarakat Kabupaten Berau, Kaltim, berbondong-bondong menuju ibu kota Kaltim, Samarinda.&#8230;</div>
+                        </div>
+                    </div>
+                                    <hr class="color2" style="margin:10px 0;">                    <div class="media">
+                        
+                        <div class="media-body">
+                            <small style="color:#00AEEF;">Rabu, 17 Februari 2016 10:31</small>
+							                            <a href="http://radarkaltim.prokal.co/read/news/722-bukan-adendum-tapi-beri-kesempatan.html">
+								<h4 class="media-heading" style="font-family: utopiabold;color: black;">
+									Bukan Adendum Tapi Beri Kesempatan								</h4>
+							</a>
+                            <div style="font-family: nimrodreg;color: grey;">&nbsp; BONTANG. Terkait permasalahan perpanjangan pengerjaan proyek multiyear Sport Center Jalan Pupuk&#8230;</div>
+                        </div>
+                    </div>
+                                    <hr class="color2" style="margin:10px 0;">                    <div class="media">
+                                                    <div class="media-left">
+                                <a href="http://radarkaltim.prokal.co/read/news/717-pemkot-panggil-skpd-untuk-verifikasi-utang.html">
+                                    <!--
+                                    <div class="content-crop" style="width: 180px;height: 130px;">
+                                        <img class="media-object crop" src="">
+                                    </div>
+                                    -->
+                                    <img class="media-object" src="http://images.prokal.co/webradarkaltim/files/berita/2016/02/17/thumb/pemkot-panggil-skpd-untuk-verifikasi-utang.JPG" style="width: 120px;height: 80px;">
+                                </a>
+                            </div>
+                        
+                        <div class="media-body">
+                            <small style="color:#00AEEF;">Rabu, 17 Februari 2016 10:25</small>
+							                            <a href="http://radarkaltim.prokal.co/read/news/717-pemkot-panggil-skpd-untuk-verifikasi-utang.html">
+								<h4 class="media-heading" style="font-family: utopiabold;color: black;">
+									Pemkot Panggil SKPD untuk Verifikasi Utang								</h4>
+							</a>
+                            <div style="font-family: nimrodreg;color: grey;">SAMARINDA. Komitmen pemkot untuk menyelesaikan utang terhadap kontraktor benar-benar serius. Setelah&#8230;</div>
+                        </div>
+                    </div>
+                                <div style="height:20px;"></div>
+            </div>
+        </div>
+    </div>
+    <div class="col-right-320">
+        <div class="input-group" style="padding-left: 18px;">
+            <input type="text" class="form-control input-sm" placeholder="Search for..." style="border: 1px solid #000;">
+            <span class="input-group-btn">
+                <button class="btn btn-sm" type="button" style="background-color: #000;color: #FFF;">Search</button>
+            </span>
+        </div>
+
+        <hr class="color1">
+
+        <div align="right">
+            				        	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<!-- PROKAL-WEBMEDIA-300-1 -->
+					<ins class="adsbygoogle"
+						 style="display:inline-block;width:300px;height:250px"
+						 data-ad-client="ca-pub-4356153053901626"
+						 data-ad-slot="1727199593"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+	                </div>
+
+        <div style="margin-top: 20px;border-top: 1px solid #CCC;">
+			<img src="http://images.prokal.co/prokalco/files/colnameimg/webradarkaltim/bgterpopuler_horizontal.png" class="img-responsive" />
+		</div>
+        <div style="padding: 10px 0 10px 18px;">
+            						<div>
+                <a href="http://radarkaltim.prokal.co/read/news/712-walahnekat-nih-honorer-ancam-jemput-paksa-bupati-kukar.html" style="color:#000;font-family: allerreg;">
+                    WALAH..NEKAT NIH, Honorer Ancam Jemput Paksa Bupati Kukar                </a>
+            </div>
+            			<hr class="color2" style="margin:7px 0;">			<div>
+                <a href="http://radarkaltim.prokal.co/read/news/652-wartawan-tuntut-awang-minta-maaf.html" style="color:#000;font-family: allerreg;">
+                    Wartawan Tuntut Awang Minta Maaf                </a>
+            </div>
+            			<hr class="color2" style="margin:7px 0;">			<div>
+                <a href="http://radarkaltim.prokal.co/read/news/629-makmur-enggan-maju.html" style="color:#000;font-family: allerreg;">
+                    Makmur Enggan Maju                </a>
+            </div>
+            			<hr class="color2" style="margin:7px 0;">			<div>
+                <a href="http://radarkaltim.prokal.co/read/news/709-besok-pelantikan-serentak.html" style="color:#000;font-family: allerreg;">
+                    Besok Pelantikan Serentak                </a>
+            </div>
+            			<hr class="color2" style="margin:7px 0;">			<div>
+                <a href="http://radarkaltim.prokal.co/read/news/650-kubu-mukmin-minta-tunda-musda-golkar.html" style="color:#000;font-family: allerreg;">
+                    Kubu Mukmin Minta Tunda Musda Golkar                </a>
+            </div>
+            			<hr class="color2" style="margin:7px 0;">			<div>
+                <a href="http://radarkaltim.prokal.co/read/news/733-muharram-agus-tantomo-dilantik-warga-berau-serbu-samarinda.html" style="color:#000;font-family: allerreg;">
+                    Muharram-Agus Tantomo Dilantik, Warga Berau “Serbu” Samarinda                </a>
+            </div>
+            			<hr class="color2" style="margin:7px 0;">			<div>
+                <a href="http://radarkaltim.prokal.co/read/news/735-dilantik-kepala-daerah-jangan-senang-duludilantik-kepala-daerah-jangan-senang-dulu.html" style="color:#000;font-family: allerreg;">
+                    Dilantik, Kepala Daerah Jangan Senang DuluDilantik, Kepala Daerah Jangan Senang Dulu                </a>
+            </div>
+            			<hr class="color2" style="margin:7px 0;">			<div>
+                <a href="http://radarkaltim.prokal.co/read/news/711-dprd-siap-laporkan-balik-gubernur.html" style="color:#000;font-family: allerreg;">
+                    DPRD Siap Laporkan Balik Gubernur                </a>
+            </div>
+            			<hr class="color2" style="margin:7px 0;">			<div>
+                <a href="http://radarkaltim.prokal.co/read/news/653-isu-korupsi-jadi-alat-tawar-menawar.html" style="color:#000;font-family: allerreg;">
+                    Isu Korupsi Jadi Alat Tawar Menawar                </a>
+            </div>
+            			<hr class="color2" style="margin:7px 0;">			<div>
+                <a href="http://radarkaltim.prokal.co/read/news/669-isu-korupsi-jadi-alat-tawar-menawar.html" style="color:#000;font-family: allerreg;">
+                    Isu Korupsi Jadi Alat Tawar Menawar                </a>
+            </div>
+                    </div>
+
+		<div style="margin-top: 20px;padding: 10px 0 10px 18px;border: 1px solid #CCC;border-left: none;border-right: none;">
+			<img src="http://images.prokal.co/prokalco/files/colnameimg/webradarkaltim/bgnewsupdate-inside.gif" style="height: 35px;" />
+		</div>
+        <div style="padding: 10px 0 10px 18px;border-bottom: 1px solid #CCC;">
+        	<ul class="fa-ul">
+                                    <li><i class="fa-li fa fa-square-o fa-fw"></i>
+                <a href="http://radarkaltim.prokal.co/read/news/755-ramai-ramai-dukung-pemekaran-rita-tolak.html" style="color:#000;font-family: allerreg;">
+                    Ramai-Ramai Dukung Pemekaran, Rita Tolak                </a>
+            </li>
+                        <li><hr class="color2" style="margin:5px 0;"></li>            <li><i class="fa-li fa fa-square-o fa-fw"></i>
+                <a href="http://radarkaltim.prokal.co/read/news/754-kabur-dari-rumah-pelajar-curi-mobil.html" style="color:#000;font-family: allerreg;">
+                    Kabur dari Rumah, Pelajar Curi Mobil                </a>
+            </li>
+                        <li><hr class="color2" style="margin:5px 0;"></li>            <li><i class="fa-li fa fa-square-o fa-fw"></i>
+                <a href="http://radarkaltim.prokal.co/read/news/753-pengusaha-minta-keadilan.html" style="color:#000;font-family: allerreg;">
+                    Pengusaha Minta Keadilan                </a>
+            </li>
+                        <li><hr class="color2" style="margin:5px 0;"></li>            <li><i class="fa-li fa fa-square-o fa-fw"></i>
+                <a href="http://radarkaltim.prokal.co/read/news/752-jaang-tak-punya-target-100-hari-kerja.html" style="color:#000;font-family: allerreg;">
+                    Jaang Tak Punya Target 100 Hari Kerja                </a>
+            </li>
+                        <li><hr class="color2" style="margin:5px 0;"></li>            <li><i class="fa-li fa fa-square-o fa-fw"></i>
+                <a href="http://radarkaltim.prokal.co/read/news/751-7-rumah-di-dusun-gunung-tehnik-dilalap-api.html" style="color:#000;font-family: allerreg;">
+                    7 Rumah di Dusun Gunung Tehnik Dilalap Api                </a>
+            </li>
+                        <li><hr class="color2" style="margin:5px 0;"></li>            <li><i class="fa-li fa fa-square-o fa-fw"></i>
+                <a href="http://radarkaltim.prokal.co/read/news/750-bkd-bantah-pns-jual-sabu.html" style="color:#000;font-family: allerreg;">
+                    BKD Bantah PNS Jual Sabu                </a>
+            </li>
+                        <li><hr class="color2" style="margin:5px 0;"></li>            <li><i class="fa-li fa fa-square-o fa-fw"></i>
+                <a href="http://radarkaltim.prokal.co/read/news/749-kepsek-terancam-diberi-sanksi.html" style="color:#000;font-family: allerreg;">
+                    Kepsek Terancam Diberi Sanksi                </a>
+            </li>
+                        <li><hr class="color2" style="margin:5px 0;"></li>            <li><i class="fa-li fa fa-square-o fa-fw"></i>
+                <a href="http://radarkaltim.prokal.co/read/news/748-nikah-luar-kua-dosa.html" style="color:#000;font-family: allerreg;">
+                    Nikah Luar KUA, Dosa!!                </a>
+            </li>
+                        <li><hr class="color2" style="margin:5px 0;"></li>            <li><i class="fa-li fa fa-square-o fa-fw"></i>
+                <a href="http://radarkaltim.prokal.co/read/news/747-narkoba-rp-81-juta-dimusnahkan.html" style="color:#000;font-family: allerreg;">
+                    Narkoba Rp 81 Juta Dimusnahkan                </a>
+            </li>
+                        <li><hr class="color2" style="margin:5px 0;"></li>            <li><i class="fa-li fa fa-square-o fa-fw"></i>
+                <a href="http://radarkaltim.prokal.co/read/news/746-tugas-pertama-benahi-infrastruktur.html" style="color:#000;font-family: allerreg;">
+                    Tugas Pertama, Benahi Infrastruktur                </a>
+            </li>
+                        </ul>
+        </div>
+
+        <div align="right" style="margin-top: 10px;">
+            								<script src="//go.padstm.com/?id=515040"></script>
+			        </div>
+
+    </div>
+    <div style="clear: both;"></div>
+</div>    <div style="clear: both;"></div>
+</div>
+<div class="container">
+    <div style="border-bottom:1px solid #CCC;padding: 20px 0;">
+        <div style="width:270px;float:left;" align="center">
+            <img src="http://radarkaltim.prokal.co/assets/img/logo-prokal-bottom.gif" />
+        </div>
+        <div style="width:480px;float:left;font-family: allerreg;">
+            <div style="font-size: 20px;font-weight: bold;margin-bottom: 10px;">Sitemap</div>
+            <div style="clear: both;"></div>
+            <div style="display: inline-block;">
+                <ul class="list-unstyled">
+                    <li>HOME</li>
+                    <li>HOT NEWS</li>
+                    <li>NEWS UPDATE</li>
+                    <li>KOLOM</li>
+                    <li>RAGAM INFO</li>
+                    <li>INSPIRASI</li>
+                    <li>FEATURE</li>
+                    <li>OLAHRAGA</li>
+                    <li>EKONOMI</li>
+                </ul>
+            </div>
+            <div style="display: inline-block;vertical-align: top;margin: 0 40px;">
+                <ul class="list-unstyled">
+                    <li><a href="http://www.prokal.co/grup/index/kaltim.html" style="color: #000;text-decoration: none;">KALIMANTAN TIMUR</a></li>
+                    <li><a href="http://www.prokal.co/grup/index/kalteng.html" style="color: #000;text-decoration: none;">KALIMANTAN TENGAH</a></li>
+                    <li><a href="http://www.prokal.co/grup/index/kalsel.html" style="color: #000;text-decoration: none;">KALIMANTAN SELATAN</a></li>
+                    <li><a href="http://www.prokal.co/grup/index/kaltara.html" style="color: #000;text-decoration: none;">KALIMANTAN UTARA</a></li>
+                    <li><a href="http://www.prokal.co/grup/index/kalbar.html" style="color: #000;text-decoration: none;">KALIMANTAN BARAT</a></li>
+                </ul>
+            </div>
+            <div style="display: inline-block;vertical-align: top;">
+                <ul class="list-unstyled">
+                    <li><a href="http://www.prokal.co/read/pages/tentang-kami" style="color:black;">TENTANG KAMI</a></li>
+                    <li><a href="http://www.prokal.co/read/pages/info-iklan" style="color:black;">INFO IKLAN</a></li>
+                    <li><a href="http://www.prokal.co/read/pages/kebijakan-privasi" style="color:black;">KEBIJAKAN PRIVASI</a></li>
+                    <li><a href="http://www.prokal.co/read/pages/disclaimer" style="color:black;">DISCLAIMER</a></li>
+                    <li><a href="http://www.prokal.co/read/pages/pedoman-media-siber" style="color:black;">PEDOMAN MEDIA SIBER</a></li>
+                </ul>
+            </div>
+        </div>
+        <div style="width:300px;float:left;font-family: allerreg;">
+            <div style="font-size: 20px;font-weight: bold;margin-bottom: 20px;">Find Us</div>
+            <ul class="list-inline">
+            	<li>
+                	                	<img src="http://radarkaltim.prokal.co/assets/img/btnfb.png" alt="" />
+                	                </li>
+                <li>
+                	                	<img src="http://radarkaltim.prokal.co/assets/img/btntwit.png" alt="" />
+                	                </li>
+                <li>
+                	                	<img src="http://radarkaltim.prokal.co/assets/img/btnfoto.png" alt="" />
+                	                </li>
+                <li>
+                	                	<img src="http://radarkaltim.prokal.co/assets/img/btngplus.png" alt="" />
+                	                </li>
+                <li><img src="http://radarkaltim.prokal.co/assets/img/btnfeed.png" alt="" /></li>
+            </ul>
+        </div>
+        <div style="clear: both;"></div>
+    </div>
+</div>
+
+<div class="container">
+    <div style="margin: 10px 0 20px 270px;font-family: Arial;">
+        <small>Copyright &copy 2015 Kaltim Post Group. All Right Reserved.</small>
+    </div>
+</div>
+
+<!--<script type="text/javascript" src="http://radarkaltim.prokal.co/assets/js/pgwslider.js"></script>-->
+<script type="text/javascript" src="http://radarkaltim.prokal.co/assets/js/owl.carousel.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
+<script>
+$(document).ready(function() {
+    $.post(
+        'https://graph.facebook.com',
+        {
+            id: 'http://radarkaltim.prokal.co/read/news/417-kabupaten-paser-gunakan-aplikasi-simda.html',
+            scrape: true
+        },
+        function(response){
+            console.log(response);
+        }
+    );
+	
+	$("#owl-col1,#owl-col2").owlCarousel({
+        items: 3,
+        navigation: false,
+        lazyLoad : true,
+        autoHeight: true
+        //autoPlay: true,
+        //slideSpeed: 100000
+        //paginationSpeed: 5000
+    });
+    
+    function myclock(){
+		var today = new Date();
+        var h = today.getHours();
+        var m = today.getMinutes();
+        var s = today.getSeconds();
+        
+        if(s<10){s = "0"+s;}
+        if(m<10){m = "0"+m;}
+        if(h<10){h = "0"+h;}
+
+        $(".clock").text(h+"."+m+"."+s);
+        setTimeout(function(){myclock()}, 500);
+	}
+	myclock();
+});
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-17482908-30', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '883076065096618',
+      xfbml      : true,
+      version    : 'v2.4'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+</body>
+</html>

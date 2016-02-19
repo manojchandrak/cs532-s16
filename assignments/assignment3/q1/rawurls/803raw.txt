@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<!-- TradeDoubler site verification 2515482 -->
+<!-- 4b038319ae21c6b29e3b0edd76471dff -->
+<meta name="verification" content="f5341712a379bd647fa57704ad90bc24" />
+<title>FOK.nl cookie-informatie</title>
+<script>
+function getUrlVars() {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        vars[key] = value;
+    });
+    return vars;
+}
+
+
+if(getUrlVars()["resetcookie"]){ clearCookies(); }</script>
+<style>
+
+html {
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: top center;
+    background-color:#414141;
+    background-image: url(http://i.fokzine.net/cookieconsent/frontpage.jpg);
+    background-repeat:no-repeat;
+}
+
+ html body {
+    min-width: 400px;
+    max-width:1000px;
+    width:70%;
+    margin: auto;
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 20px;
+    font-size: 14px;
+        text-align:justify;
+}
+.body{
+	    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 30px;
+    border-style: dotted;
+    border-color: #ffbfbf;
+    border-width: 1px;
+    background-color:#fefefe;
+    background-color:rgba(255,255,255,.8)
+     -webkit-border-radius: 12px; /* Saf3-4, iOS 1-3.2, Android =1.6 */
+          border-radius: 12px; /* Opera 10.5, IE9, Saf5, Chrome, FF4+, iOS 4, Android 2.1+ */
+
+  /* useful if you don't want a bg color from leaking outside the border: */
+  -moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box;
+
+     -webkit-box-shadow: 0px 0px 4px 0px #404040; /* Saf3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+          box-shadow: 0px 0px 4px 0px #404040; /* Opera 10.5, IE9, FF4+, Chrome 6+, iOS 5 */
+
+}
+table{
+	font-size:11px;
+	text-align:left;
+	margin:18px 0;
+}
+th{font-weight:bold;font-size:12px;}
+td{padding:8px;}
+
+
+.button.acc,.button {
+    padding: 18px;
+    text-decoration:none;
+    text-align:center;
+    border-color: #3f8f4b;
+    border-style: solid;
+    background-color: #137827;
+    color: #ffffff;
+    font-weight: bold;
+    font-size:20px;
+    cursor:pointer;
+    display:block;
+    margin:0 auto;
+}
+.button.acc:hover,.button:hover{
+	cursor:pointer;
+	 -webkit-box-shadow: 0px 0px 4px 0px #606060; /* Saf3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+          box-shadow: 0px 0px 4px 0px #606060; /* Opera 10.5, IE9, FF4+, Chrome 6+, iOS 5 */
+}
+
+button.den {
+    padding: 8px;
+    border-color: #ebdfdf;
+    border-style: solid;
+    border:0;
+    background-color: #ebdfdf;
+    background-color: transparent!important;
+    color: #707070;
+    cursor:pointer;
+    float:right;
+	text-transform: lowercase;
+    font-weight: normal;
+    font-variant: small-caps;
+}
+input.acc:hover{
+	 -webkit-box-shadow: 0px 0px 4px 0px #606060; /* Saf3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+          box-shadow: 0px 0px 4px 0px #606060; /* Opera 10.5, IE9, FF4+, Chrome 6+, iOS 5 */
+          cursor:pointer;
+}
+
+input.acc {
+    padding: 14px 16px;
+    border-color: #3f8f4b;
+    border-style: solid;
+    background-color: #137827;
+    color: #ffffff;
+    font-weight: bold;
+    cursor:pointer;
+    margin:auto 0;
+    -webkit-border-radius: 12px;
+          border-radius: 12px;
+  -moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box;
+
+}
+input.den {
+    padding: 18px 12px;
+    border-color: #ebdfdf;
+    border-style: solid;
+    border:0;
+    background-color: #ebdfdf;
+    background-color: transparent!important;
+    color: #707070;
+    cursor:pointer;
+
+	text-transform: lowercase;
+    font-weight: normal;
+    font-variant: small-caps;
+}
+div.header {
+	font-weight:bold;
+    padding: 6px;
+    margin: -6px;
+    background-color: #e05c5c;
+    color: #ffffff;
+    margin-bottom: 14px;
+}
+div.green {
+    background-color: #c1ebb0;
+    padding: 8px;
+}
+.small{
+	font-size:12px;
+	line-height:11px!important;
+	}
+.grey{
+	color:#a0a0a0;
+	font-size:10px;
+	text-decoration:none;
+}
+.greyBig{
+	color:#a0a0a0;
+	text-decoration:none;
+}
+
+.topmargin{
+	margin-top:800px;
+}
+.scrolldown{
+	float:right;
+	margin-top:10px;
+	margin-right:-10px;
+}
+
+.button .smaller{
+	display:block;
+	font-size:11px;
+}
+a.continue{
+	color: #049dcc;
+	margin-top:14px;
+	text-decoration:none;
+	display:block;
+	text-align: center;
+}
+a.continue:hover{
+	color:#0a0;
+	text-decoration:underline;
+}
+</style>
+<meta name="robots" content="noindex">
+
+</head>
+<body>
+<script type="text/javascript" src="j.js"></script>
+<script type="text/javascript">
+
+var gcq = 0;
+var isiPad = navigator.userAgent.match(/iPad/i) != null;
+var isiPod = navigator.platform.indexOf("iPod") != -1;
+var isiPhone = navigator.platform.indexOf("iPhone") != -1;
+
+if(isiPad==true || isiPod==true || isiPhone==true){
+	var isAppleMeuk = 1;
+}
+
+if (Request.UserAgent.IndexOf("FBAN") > -1){
+    var isFacebook =1;
+}
+
+(function ($, document, undefined) {
+
+	var pluses = /\+/g;
+
+	function raw(s) {
+		return s;
+	}
+
+	function decoded(s) {
+		return decodeURIComponent(s.replace(pluses, ' '));
+	}
+
+	var config = $.cookie = function (key, value, options) {
+
+		// write
+		if (value !== undefined) {
+			options = $.extend({}, config.defaults, options);
+
+			if (value === null) {
+				options.expires = -1;
+			}
+
+			if (typeof options.expires === 'number') {
+				var days = options.expires, t = options.expires = new Date();
+				t.setDate(t.getDate() + days);
+			}
+
+			value = config.json ? JSON.stringify(value) : String(value);
+
+			return (document.cookie = [
+				encodeURIComponent(key), '=', config.raw ? value : encodeURIComponent(value),
+				options.expires ? '; expires=' + options.expires.toUTCString() : '', // use expires attribute, max-age is not supported by IE
+				options.path    ? '; path=' + options.path : '',
+				options.domain  ? '; domain=' + options.domain : '',
+				options.secure  ? '; secure' : ''
+			].join(''));
+		}
+
+		// read
+		var decode = config.raw ? raw : decoded;
+		var cookies = document.cookie.split('; ');
+		for (var i = 0, parts; (parts = cookies[i] && cookies[i].split('=')); i++) {
+			if (decode(parts.shift()) === key) {
+				var cookie = decode(parts.join('='));
+				return config.json ? JSON.parse(cookie) : cookie;
+			}
+		}
+
+		return null;
+	};
+
+	config.defaults = {};
+
+	$.removeCookie = function (key, options) {
+		if ($.cookie(key) !== null) {
+			$.cookie(key, null, options);
+			return true;
+		}
+		return false;
+	};
+
+})(jQuery, document);
+</script>
+<br /><br /><br /><br /><br />
+<div class="body">
+<img src="http://i.fokzine.net/cookieconsent/cookieheader.png" style="margin-left: -20px;width:100%;height:auto;"/>
+<br /><br />
+<form id="cookies" action="/728025" method="get">
+<input type="hidden" name="token" value="071bbc8869e23fc83ab670714840cef3" />
+Sorry dat we je zo bruut lastigvallen. De overheid wil echter graag dat we je melden dat we op FOK.nl, net als elke andere site doet, cookies gebruiken. Onze excuses voor het verzieken van je surfplezier. Met het drukken op de groene knop of link hieronder sluit je deze melding en ga je akkoord met het ontvangen van cookies en bezoeken van FOK.nl. Scroll omlaag om hier meer over te lezen. Veel plezier op FOK.nl.
+<br /><br />
+
+<div class="green"><em>Het gebruik van cookies is veilig. Er kan geen persoonlijke informatie, zoals een adres, telefoonnummer of e-mailadres, uit cookies worden herleid. Daardoor kunnen cookies ook niet worden gebruikt voor e-mail en telemarketing acties. Door gebruik te blijven maken van deze site ga je automatisch akkoord over 3 views.</em></div>
+<br />
+Je ontvangt deze melding maar ��n keer per browser (mits je het bijbehorende cookie niet verwijdert en je browser toestaat cookies van FOK.nl op te slaan - oh, de ironie). In geval van problemen kun je mailen naar itbeheer[at]fok.nl. Het is niet mogelijk FOK! te bezoeken zonder cookies te accepteren.<br /><br /><br />
+<div style="text-align: center;">
+
+<input type="hidden" name="allowcookies" value="ACCEPTEER ALLE COOKIES"/>
+
+<a href="javascript:acceptCookies()" class="button acc CookiesOK" onclick="document.forms['cookies'].submit();acceptCookies();">Ja, Ik wil een goed werkende site...<span class="smaller">...en accepteer de cookies</span></a>
+<br />
+<noscript>Je browser ondersteunt geen javascript. <input type="submit" class="CookiesOK" value="Klik hier om toch te proberen verder te gaan"/>.</noscript>
+
+<script type="text/javascript">
+if(isAppleMeuk==1){
+	document.write('<div style="color: #a00;">let op: Als je met apple browsers werkt (iPhone, iPad, iPod, Safari) is het van belang dat je priv�modus UIT zet, anders kunnen we je voorkeur niet onthouden. <input type="submit" class="CookiesOK" name="" value="Klik hier om toch te proberen verder te gaan"/></div>');
+	}
+</script>
+<a class="continue" href="javascript:acceptCookies()" onclick="document.forms['cookies'].submit();acceptCookies();">Natuurlijk accepteer ik de cookies!</a>
+
+<br /><br /><br />
+<a class="grey scrolldown" href="#meer">Scroll omlaag voor meer informatie.</a>
+</div>
+</div>
+<br id="meer"/><br /><br /><br /><div class="body topmargin">
+<div class="green"><em>De cookie is een klein stukje tekst dat door een website op je computer wordt geplaatst om bijvoorbeeld bij te houden of je bent ingelogd, wanneer je laatste bezoek was etc. Cookies zijn niet eng, maar onderdeel van de HTTP-specificatie. Het HyperText Transfer Protocol wordt door iedereen gebruikt die een website bezoekt: het regelt de communicatie tussen een webserver en een browser.</em></div>
+<br /><br />
+De reden dat FOK.nl alleen bezocht kan worden als je aangeeft alle cookies te accepteren, is dat het voor ons onmogelijk is te garanderen dat er geen cookies geplaatst worden. Onze bezoekers kunnen bijvoorbeeld zelf reacties plaatsen waarin plaatjes opgenomen kunnen zijn. Zelfs via die plaatjes kunnen er cookies op jouw computer terechtkomen. Ook zijn delen van onze content onmisbaar voor ons, zoals video's op ons weblog, maar ook reclamebanners en wij kunnen niet garanderen dat dergelijke partijen nooit een cookie zullen plaatsen. Het is voor ons onmogelijk te voldoen aan de wet, tenzij je ons toestaat gebruik te maken van cookies. Je kunt je browser overigens zo instellen dat je cookies regelmatig worden verwijderd.
+<br /><br /><strong>Meer informatie over cookies</strong><br />
+&raquo; <a href="http://nl.wikipedia.org/wiki/Cookie_(internet)" target="_blank">Wikipedia</a><br />
+&raquo; <a href="http://www.leerwiki.nl/Wat_zijn_cookies" target="_blank">Leerwiki</a><br />
+&raquo; <a href="http://www.consumentenbond.nl/test/elektronica-communicatie/veilig-online/privacy-op-internet/extra/wat-zijn-cookies/" target="_blank">Consumentenbond</a><br />
+<br />
+Wil je geen cookies van partijen anders dan FOK!, dan is het mogelijk om via <a href="http://www.youronlinechoices.com/be-nl/">deze pagina</a> een groot aantal externe cookies uit te schakelen. Je kunt dan hieronder toch alle cookies accepteren. De meeste cookies van adverteerders worden dan geblokkeerd, maar FOK.nl blijft wel functioneren.
+<br /><br /><div class="green"><i>Cookies kunnen <b>nooit</b> gebruikt worden om priv�gegevens van je computer uit te lezen of wachtwoorden te onderscheppen. Ook kunnen ze een computer niet infecteren met een virus of trojan. Ze zijn dus volkomen veilig en worden al sinds de jaren 90 zonder incident gebruikt op bijna ALLE websites in de wereld.</i></div>
+
+<br /><br /><b>Je hebt nog geen toestemming gegeven</b><br/>
+<span class="small">(Deze melding krijg je ook als de voorkeur uit je browser is verdwenen, of als je gebruik maakt van een andere browser. Je moet dan opnieuw toestemming verlenen)</span><br /><br />
+<br />
+<a class="button" href="javascript:acceptCookies()" class="acc CookiesOK" onclick="document.forms['cookies'].submit();acceptCookies();">Ja, Ik wil een goed werkende site...<span class="smaller">...en accepteer de cookies</span></a>
+<br /><a class="continue" href="javascript:acceptCookies()" onclick="document.forms['cookies'].submit();acceptCookies();">Natuurlijk accepteer ik de cookies!</a>
+
+<br />
+</div>
+<br /><br /><br /><br />
+
+<div class="body explanation" id="uitleg">
+<div class="header">Uitleg over onze cookies</div>
+
+<b>Wat Doen Cookies?</b>
+<br />
+Bezoekers van websites krijgen te maken met cookies. Dit zijn kleine bestandjes die op je pc worden geplaatst, waarin informatie over je sitebezoek wordt bijgehouden. Ondanks negatieve geluiden in de media, zijn cookies erg handig. Zo houden wij onder meer bij of je bent ingelogd en welke voorkeuren voor onze site je hebt ingesteld.
+<br />
+Naast deze door onszelf geplaatste cookies die noodzakelijk zijn om de site correct te laten werken kun je ook cookies van andere partijen ontvangen, die onderdelen voor onze site leveren. Cookies kunnen bijvoorbeeld gebruikt worden om een bepaalde advertentie maar ��n keer te tonen.<br /><br />
+<div class="green"><i>Cookies kunnen <b>nooit</b> gebruikt worden om priv�gegevens van je computer uit te lezen of wachtwoorden te onderscheppen. Ook kunnen ze een computer niet infecteren met een virus of trojan. Ze zijn dus volkomen veilig en worden al sinds de jaren 90 zonder incident gebruikt op bijna ALLE websites in de wereld.</i></div>
+
+<br /><br />
+<b>Bij het bezoeken van FOK.nl (en bijna alle andere websites) kun je de volgende soorten cookies verwachten:</b><br /><br />
+<b>- Functionele cookies</b>
+<br />Cookies die noodzakelijk zijn voor het gebruik van FOK!, bijvoorbeeld om in te kunnen loggen en je voorkeuren te onthouden.<br />
+<span class="greyBig">FOK! plaatst cookies met je userid, je sessie, instellingen voor bepaalde trackers en weergaveopties, een 'token' die gebruikt wordt om gegeven toestemming voor het plaatsen van cookies te controleren, 'allowallcookies' om je cookiekeuze in op te slaan</span><br />
+<br />
+<b>- Cookies van Advertentiebedrijven</b>
+<br />Advertentiebedrijven meten het succes van hun campagnes, de mogelijke interesses van de bezoeker en eventuele voorkeuren (wil je het geluid uit hebben, heb je de reclameuiting al eerder gezien of moet hij worden weergegeven etc) door cookies uit te lezen. Heeft een advertentiebedrijf banners op meerdere websites dan kunnen de gegevens van deze websites worden gecombineerd om een beter profiel op te stellen. Zo kunnen adverteerders hun cookies op meerdere sites plaatsen en zo een gedetailleerd beeld krijgen van de interesses van de gebruiker. Hiermee kunnen gerichter en relevantere advertenties worden weergegeven. Zo kun je na het bezoeken van een webwinkel op andere sites banners krijgen met juist de door jezelf bekeken producten of soortgelijke producten. De websitehouder kan die cookies overigens <strong>niet</strong> inzien.<br />
+<span class="greyBig">Op FOK! kunnen advertenties met cookies worden geplaatst van onder meer webads, groupm server, turn, openx, zoom.in, truste, doubleclick spotlight, bluekai, adnetik, valueclick, emediate, evidon, hottraffic, adnexus, m4n, daisycon, viglink, adsense, doubleclick, criteo, appnexus, zanox, google, stir, valueclick, linkedin, digidip, inpagevideo, vmg, sanoma.</span><br />
+<br />
+<b>- Cookies voor Website-analyse</b>
+<br />
+Om onze bezoekersstatistieken bij te houden maken we gebruik van Google Analytics. Dit systeem houdt bij welke pagina's onze bezoekers bekijken, waar zij vandaan komen en op klikken, welke browser en schermresolutie ze gebruiken en nog veel meer. Deze informatie gebruiken we om een beter beeld te krijgen van onze bezoekers en om onze site hierop te optimaliseren. Google, die deze dienst levert, gebruikt de informatie om een relevant, anoniem advertentieprofiel op te bouwen waarmee men gerichter advertenties kan aanbieden.<br />
+<span class="greyBig">FOK! maakt gebruik van Google Analytics, hottraffic, bluekai en Scorecard.</span><br />
+<br /><br />
+<b>- Cookies van overige externe partijen</b>
+<br />
+Naast bovenstaande zijn er meer onderdelen die een cookie kunnen opleveren. Veelal worden deze gebruikt door de content-partners om te analyseren op welke sites hun gebruikers actief zijn en hoe hun diensten presteren. Denk hierbij aan filmpjes van bijvoorbeeld youtube, foto's van diensten als flickr of picasa, en 'like' knoppen van sociale mediasites als twitter en facebook.<br />
+<span class="greyBig">Op FOK! gebruiken we onderdelen (en dus cookies) van onder andere Facebook, Hyves, Twitter, truste, Google+, Youtube, Vimeo Flickr, LastFM, Google Maps, AppNexus, AddThis</span><br />
+<br />
+<br />
+Voor het bezoeken van FOK.nl is het noodzakelijk dat je ons toestaat dergelijke externe cookies te laten plaatsen. Je kunt vervolgens bij veel externe bedrijven gebruik maken van de opt-out mogelijkheid zodat cookies van die specifieke aanbieder niet langer worden toegestaan. Op <a href="http://www.youronlinechoices.com/be-nl/" target="_blank">http://www.youronlinechoices.com/be-nl/</a> kan dat voor veel adverteerders tegelijk. Je kunt daar ook lezen waar dergelijke cookies voor gebruikt worden. Ook is het mogelijk om je browser zo in te stellen dat alleen cookies van de site die je bezoekt worden geaccepteerd. Hoe je dit doet kun je vinden in de help functie van je browser.<br/><br />
+Scroll omlaag voor een gedetailleerder overzicht van de door FOK! gebruikte cookies.
+<br /><br />
+<a class="button acc CookiesOK" href="javascript:acceptCookies()" onclick="document.forms['cookies'].submit();acceptCookies();">Ja, Ik wil een goed werkende site...<span class="smaller">...en accepteer de cookies</span></a>
+<br /><a class="continue" href="javascript:acceptCookies()" onclick="acceptCookies()">Natuurlijk accepteer ik de cookies!</a>
+
+</div>
+<br /><br /><br /><br />
+
+<div class="body">
+<div class="header">Cookiedetails</div>
+<strong>Welke cookies plaatsen wij zelf?</strong><br />
+FOK! plaatst zelf diverse cookies, die gebruikt worden om aan te geven dat je bent ingelogd, of om bij te houden welke instellingen je hebt ingesteld (bijvoorbeeld; het aantal headlines in de update tracker). Deze cookies zijn essentieel voor het correct functioneren van de site.
+<br /><br />
+
+<strong>Functionele cookies</strong><br />
+Hieronder vind je een overzicht van mogelijke cookies en hun betekenis. Dit zijn cookies die noodzakelijk zijn voor een goede werking van de site, danwel het bijhouden van je persoonlijke voorkeuren en instellingen.<br/><br />
+<table>
+	<thead>
+		<th>Naam v/d cookie</th><th>Doel</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>sessid,fokInitSession</td><td>Dit is een hash van je huidige session id. Deze wordt gebruikt om te voorkomen dat anderen zich door middel van browsermanipulatie kunnen voordoen als jou.</td>
+		</tr><tr>
+			<td>token</td><td>Deze cookie zorgt ervoor dat er een controle plaats kan vinden op het accepteren van cookies.</td>
+		</tr><tr>
+			<td>user</td><td>In dit cookie staat je userid opgeslagen. Deze werkt alleen in combinatie met het sessid cookie dat hierboven al vermeld staat.</td>
+		</tr><tr>
+			<td>screen</td><td>Hier wordt de schermbreedte van je device opgeslagen. Op basis hiervan kunnen bepaalde elementen wel of niet worden ingeladen of van een passende weergave worden voorzien.</td>
+		</tr><tr>
+			<td>__cfduid</td><td>Dit cookie wordt door cloudserverdienst Cloudflare gebruikt om de juiste bezoekers naar onze server door te sturen. Zonder dit id zou je geen pagina te zien krijgen.</td>
+		</tr><tr>
+			<td>__utma, __utmb en andere cookies die beginnen met __utm</td><td>Deze cookies worden gebruikt door Google Analytics en zij geven ons inzicht in onze (overigens anonieme) bezoekersstatistieken.</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+
+<strong>3rd party cookies</strong><br />
+Hieronder vind je een overzicht van mogelijke third party cookies (cookies die niet door FOK! zelf geplaatst worden). Je kunt deze eenvoudig zelf in je browser blokkeren. Zie hiervoor de handleiding van je browser. Vanwege de wijze waarop sommige externe diensten werken is het onmogelijk een volledige lijst te leveren, maar de werking van deze cookies verschilt niet wezenlijk van de vermelde cookies.<br/><br />
+<table>
+	<thead>
+		<th>Aanbieder / URL</th><th>Doel</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Analytics</td><td>Google Analytics wordt door FOK! gebruikt om statistieken over het gebruik van FOK! bij te houden. Deze cijfers worden gebruikt om de site verder te optimaliseren.</td>
+		</tr><tr>
+			<td>ComScore / scorecardresearch.com</td><td>Deze onafhankelijke dienst meet het advertentiebereik van FOK.nl</td>
+		</tr><tr>
+			<td>Youtube, Vimeo, Liveleak, Dumpert en andere videohosters</td><td>Bij video's die op onze site gebruikt worden worden door de aanbieder (vaak youtube, maar er zijn meer aanbieders) cookies geplaatst om bijvoorbeeld het aantal bekeken video's te meten.</td>
+		</tr><tr>
+			<td>Flickr, Facebook, TinyImg en andere afbeeldinghosters</td><td>Bij de afbeeldingen die op de site geplaatst worden door onze bezoekers kunnen cookies geplaatst worden door de gebruiker zelf, danwel door de gebruikte hostingprovider. Deze worden bijvoorbeeld gebruikt om het bereik van de afbeeldingen te meten.</td>
+		</tr><tr>
+			<td>Doubleclick, Appnexus, Webads, Adnxs, Sanoma, Digidip, Zanox, Criteo en andere advertentienetwerken</td><td>Deze advertentienetwerken verkopen ook advertentieruimte aan andere partijen. Welke partij gebruikt wordt kan per advertentie verschillen. De adverteerders plaatsen cookies om onder meer het bereik te meten. Deze cookies worden niet door FOK! beheerd.</td>
+		</tr><tr>
+			<td>Facebook, Google+, Twitter, LinkedIn, Pinterest</td><td>Met deze social media knoppen kunnen gebruikers onze inhoud delen op de bekende Sociale netwerken. Met de cookies kan bijvoorbeeld worden bijgehouden of je een item al gedeeld of geliked hebt.</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<a class="button" href="javascript:acceptCookies()" class="acc CookiesOK" onclick="document.forms['cookies'].submit();acceptCookies();">Ja, Ik wil een goed werkende site...<span class="smaller">...en accepteer de cookies</span></a>
+<br /><a class="continue" href="javascript:acceptCookies()" onclick="document.forms['cookies'].submit();acceptCookies();">Natuurlijk accepteer ik de cookies!</a>
+
+</div>
+
+
+
+</form>
+</div>
+
+<script type="text/javascript">
+function clearCookies(){
+	if(typeof(Storage)!=="undefined"){
+		localStorage.acceptallcookies="";
+	}else{
+  		// Sorry! No web storage support..
+  	}
+	$.cookie('allowallcookies', '0', { expires: -1, domain: "fok.nl", path: "/" });
+	document.location.reload(true);
+	window.location.href=window.location.href;
+}
+
+function acceptCookies(){
+	if(typeof(Storage)!=="undefined"){
+		localStorage.acceptallcookies="ok";
+	}else{
+  		// Sorry! No web storage support..
+  	}
+	$.cookie('allowallcookies', '1', { expires: 99999, domain: "fok.nl", path: "/" });
+	document.location.reload(true);
+	window.location.href=window.location.href;
+}
+$("button,.acc,.continue").bind("click touchstart tap touchend", function(){
+	acceptCookies();
+});
+if(localStorage.acceptallcookies=="ok" && gcq!=1){
+	$("body").hide();
+	$.cookie('allowallcookies', '1', { expires: 99999, domain: "fok.nl", path: "/" });
+	//document.location.reload(true);
+	//window.location.href=window.location.href;
+	//$(".acc").click();
+}
+
+
+</script>
+</body>
+</html>

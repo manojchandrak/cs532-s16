@@ -1,0 +1,2601 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ko">
+<head>
+<!--<meta name="google-site-verification" content="xr9q-zHWPkV7dn7IYyhRLcPVMyuzdx1eJW-fSpGiU5A" />-->
+<meta name="google-site-verification" content="qrYHYOHIUvS5f1IW4d_ytPZ3PgwZLrKoo2snyNNm_HY" />
+<meta name="google-site-verification" content="vOWH9RDWL6pk3eLurDidiWsXnWrsokwDk1icz-UvKWU" />
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<!-- <meta name="description" content="마마무, 오늘(11일) 정오 프리싱글 \'1cm의 자존심\' M/V 공개 :: " /> -->
+<meta name="keywords" content="스타데일리뉴스" />
+<meta property="og:title" content="마마무, 오늘(11일) 정오 프리싱글 '1cm의 자존심' M/V 공개 :: "/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://www.stardailynews.co.kr/news/articleView.html?idxno=84153"/>
+<meta property="og:image" content="http://www.stardailynews.co.kr/news/thumbnail/201602/84153_102277_5356_v150.jpg"/>
+<meta property="og:description" content="[스타데일리뉴스=문지훈 기자] 12일 프리싱글 Part2 ‘1cm의 자존심’ 발표를 앞둔 마마무가 음원보다 뮤직비디오를 선공개한다.마마무는 오늘(11일) 정오, 공식 SNS와 네이버 TV캐스트를 통해 두 번째 프리싱..."/>
+<meta property="og:article:author" content="문지훈 기자"/>
+<title>마마무, 오늘(11일) 정오 프리싱글 '1cm의 자존심' M/V 공개 :: 스타데일리뉴스</title>
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<!--<link rel="stylesheet" type="text/css" href="/css/style_autobox.css">-->
+<!--<link rel="stylesheet" type="text/css" href="/css/style_layout.css">-->
+<!--<link rel="stylesheet" type="text/css" href="/css/style_sub_autobox.css">-->
+<link rel="stylesheet" type="text/css" href="/css/style_auto.css">
+<link rel="stylesheet" type="text/css" href="/css/style_vod.css">
+
+<link rel="titleernate" type="application/rss+xml" title="스타데일리뉴스" href="/rss/allArticle.xml">
+<script type="text/javascript">
+// 현재시간  추가
+	var ___currentTime = parseInt("1455778679", 10);
+</script>
+<script type="text/javascript" src="/script/user.js?120802"></script>
+<script type="text/javascript" src="/script/font.js"></script>
+<script type="text/javascript" src="/script/banner.js?0611"></script>
+<script type="text/javascript" src="/script/poll.js"></script>
+<script type="text/javascript" src="/script/vod.js"></script>
+<script type="text/javascript" src="/script/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/script/sj2_page.js"></script>
+<script type="text/javascript" src="/script/resizePhoto.js"></script>
+<script type="text/javascript" src="/script/floating.banner.js"></script>
+<script type="text/javascript">
+<!--즐겨찾기 스크립트
+function bookmark() {
+	window.external.AddFavorite('http://www.stardailynews.co.kr', '스타데일리뉴스')
+}
+//스크립트 끝-->
+</script>
+<script type="text/javascript">
+<!--
+	 ad_check_mobile = '';
+	var adStrUserAgent = window.navigator.userAgent;
+
+	if(adStrUserAgent!= null){
+
+		 if(
+			  adStrUserAgent.indexOf("Android") != -1 ||    //Android
+			  adStrUserAgent.indexOf("SAMSUNG") != -1 ||     //samsung
+			  adStrUserAgent.indexOf("PSP") != -1 ||         //psp
+			  adStrUserAgent.indexOf("PLAYSTATION") != -1 || //playstation
+			  adStrUserAgent.indexOf("lgtelecom") != -1 ||   //LGT
+			  adStrUserAgent.indexOf("Smartphone") != -1 ||  //스마트폰
+			  adStrUserAgent.indexOf("Symbian") != -1 ||     //심비안폰
+			  adStrUserAgent.indexOf("PPC") != -1 ||         //??
+			  adStrUserAgent.indexOf("Windows CE") != -1 ||  //PDA
+			  adStrUserAgent.indexOf("iPhone") != -1 ||      //애플폰
+			  adStrUserAgent.indexOf("iPod") != -1 )         //애플
+		 {
+
+			ad_check_mobile = 1;
+
+		 }
+		 else {
+			ad_check_mobile = 0;
+		 }
+
+	}
+//-->
+</script>
+<script type="text/javascript">
+// iframe resize
+function autoResize(i)
+{
+    var iframeHeight= (i).contentWindow.document.body.scrollHeight;
+    (i).height=iframeHeight+20;
+}
+
+function initsize(i) {
+	self.resizeTo((i).contentWindow.document.body.scrollWidth, (i).contentWindow.document.body.scrollHeight);
+}
+/// 통합검색셀렉트
+function viewSchselopt(){
+	var schselopt = document.getElementById("schselopt");
+
+	if(schselopt.style.display=="block"){
+		schselopt.style.display="none";
+	}else{
+		schselopt.style.display="block";
+	}
+}
+
+function schChange(code,title) {
+	var schselopt = document.getElementById("schselopt");
+	var secTitle = document.getElementById("secTitle");
+
+	schselopt.style.display="none";
+
+	document.topSearchForm.sc_section_code.value=code;
+	secTitle.innerHTML = "<a href='javascript:viewSchselopt();' onclick='viewSchselopt(); return false;' onFocus='this.blur()' style='TEXT-DECORATION: none; padding-left:6px;'>"+title+"</a>";
+}
+</script>
+
+<script language="JavaScript">
+<!--
+getObject = function(ObjId) {
+	return document.getElementById(ObjId);
+}
+
+setDisplay = function(pmObjId, pmDisplay) {
+if(getObject(pmObjId) != null) {
+	if(pmDisplay == "") {
+		if(getObject(pmObjId).style.display == "" || getObject(pmObjId).style.display == "none") {
+			getObject(pmObjId).style.display = "block";
+		} else {
+			getObject(pmObjId).style.display = "none";
+		}
+	} else {
+		getObject(pmObjId).style.display = pmDisplay;
+	}
+}
+}
+
+// 검색 채널
+var curCollectionId = "collection_total";
+
+setCollection = function(pmCollection) {
+	var targetObjId = "collection_"+pmCollection;
+
+	document.getElementById(curCollectionId).style.backgroundColor = "";
+	document.getElementById(targetObjId).style.backgroundColor = "#f4f4f4";
+	document.getElementById("collection_cur").firstChild.nodeValue = document.getElementById(targetObjId).firstChild.nodeValue;
+	document.getElementById("collection").value = pmCollection;
+	document.getElementById("expandList").style.display = "none";
+	curCollectionId = targetObjId;
+}
+
+//-->
+</script>
+<style>
+.categorySelect {float:left; position:relative; z-index:100; width:70px;}
+.categorySelect span {float: left; padding:0 0 0 7px; color: #000;cursor: pointer;}
+.categorySelect ul { clear:both; border:1px solid #e0e0e0; position:absolute; top:19px; background-color:#fff; overflow:hidden; width:68px;}
+.categorySelect ul li label {display: block; padding:5px 0 0 0; width:68px; height:13px; color:#000; overflow: hidden; vertical-align: top;}
+.categorySelect ul li label:hover {background-color:#f4f4f4;}
+.categorySelect ul li input {position: absolute; left: -100px;top: 0;}
+.categorySelect ul li label.over {display: block; padding:4px 0 0 0px; width:68px; height:13px; color:#000; background-color: #f5f5f5; text-decoration:none; vertical-align: top;}
+</style>
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/37356748/Bottom_468x60', [468, 60], 'div-gpt-ad-1372145737216-0').addService(googletag.pubads());
+googletag.defineSlot('/37356748/Bottom_970x90', [970, 90], 'div-gpt-ad-1372145737216-1').addService(googletag.pubads());
+googletag.defineSlot('/37356748/Left_120x600', [120, 600], 'div-gpt-ad-1372145737216-2').addService(googletag.pubads());
+googletag.defineSlot('/37356748/RightMiddle_250x250', [250, 250], 'div-gpt-ad-1372145737216-3').addService(googletag.pubads());
+googletag.defineSlot('/37356748/RealClick_Bottom_480x80', [480, 80], 'div-gpt-ad-1387536403661-0').addService(googletag.pubads());
+googletag.defineSlot('/37356748/Article_250x250', [250, 250], 'div-gpt-ad-1401078599073-0').addService(googletag.pubads());
+googletag.defineSlot('/37356748/Right_250x250', [250, 250], 'div-gpt-ad-1401078599073-1').addService(googletag.pubads());
+googletag.defineSlot('/37356748/Top_970x90', [970, 90], 'div-gpt-ad-1401081870644-0').addService(googletag.pubads());
+googletag.defineSlot('/37356748/RightTop_250x250', [250, 250], 'div-gpt-ad-1406213534758-0').addService(googletag.pubads());
+googletag.defineSlot('/37356748/LeftBottom_120x600', [120, 600], 'div-gpt-ad-1407318185687-0').addService(googletag.pubads());
+googletag.enableServices();
+});
+</script>
+<style type="text/css">
+.txt1 {text-decoration:none; font-size:12px; color:#5d5d5d; font-family:돋움;}
+.txt1	:link       {color: #3f2117; text-decoration:none;}
+.txt1	:hover	  {text-decoration:none; color:#e00808; font-weight:bold; letter-spacing:-1px;}
+.txt2 {text-decoration:none; font-size:11px; color:#333333; font-family:돋움;}
+.txt3 {text-decoration:none; font-size:11px; letter-spacing:-1px; color:#ffffff; font-family:돋움; font-weight:bold;}
+.txt3	:link       {color: #ffffff; text-decoration:none;}
+.txt3	:hover	  {text-decoration:none; color:#ffffff}
+.txt4 {text-decoration:none; font-size:12px; color:#000000; font-family:돋움;}
+
+/* 통합검색 */
+#schselopt {position:absolute; left:0; top:19px; width:97px; background:#fff; padding:10px; border:1px solid #d0d0d0; box-sizing:border-box;  -moz-box-sizing:border-box; -webkit-box-sizing:border-box; }
+#schselopt li {height:25px; line-height:25px; cursor:pointer;}
+
+/* 구글 번역 버튼 및 요소 때문에 추가 */
+#header .TransSet {clear:both; display:block; overflow:visible; margin-top:70px; _margin-top:57px; position:relative;} 
+.transArea {float:left;}
+.transArticleView {margin:0; padding:0; padding-top:5px; width:250px; vertical-align:top; text-align:left;}
+
+.transAreaUi {margin:0; padding:0; width:250px; vertical-align:top; text-align:left;}
+.goog-tooltip { display: none !important; }
+.goog-tooltip:hover { display: none !important; }
+.goog-text-highlight { background-color: transparent !important; border: none !important; box-shadow: none !important; }
+.goog-text-highlight { background: none !important; box-shadow: none !important;}
+
+.goog-logo-link{display: none !important;}
+.goog-te-gadget{height: 28px !important;  overflow: hidden;}
+
+body{ top: 0 !important;}
+.goog-te-banner-frame{display: none !important;}
+.goog-te-balloon-frame { display: none; }
+#google_translate_element { display:none;}
+</style>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24986227-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+	function googleTranslateElementInit() {
+	  new google.translate.TranslateElement({pageLanguage: 'ko', includedLanguages: 'ko,en,ja,zh-CN,fr,es,ru,id', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false, multilanguagePage: true}, 'google_translate_element');
+	}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</head>
+<body>
+
+<!-- 토스트 배너<script src="http://ad.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=00LK&out=script"></script><!-- 토스트 배너 -->
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td align="center" style="background:url(/image2011/bg_gray.jpg) repeat-x;">
+
+
+<div id="bodyWrap">
+	
+	<!-- 상단 -->
+	<div id="header">
+		<!-- 로고 -->
+		<h1 class="logo" style='width:291px; margin-left:-145.5px;'><a href="http://www.stardailynews.co.kr" onFocus="this.blur();"><img src="/image2012/logo_121004.gif" border="0"></a></h1>
+		
+		<dl>
+			<!-- 좌측 -->
+			<dt>
+				<ul class="StartBtn">
+					<li class="HomeBtn"><a href="#" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.stardailynews.co.kr/');" onFocus="this.blur();"><em>Home icon</em><strong>스타데일리뉴스</strong>를 시작페이지로</a></li>
+					<li class="PdfBtn"><a href="http://www.stardailynews.co.kr/news/articleList.html" target="_parent" onFocus="this.blur();"><em>PDF Icon</em>PDF기사보기</a></li>
+				</ul>
+					
+				<div class="TransSet">
+					<div class="transArea">
+						<div class="transAreaUi">
+							<div class="translation-icons">
+							   <a href="javascript:void(0);" data-lang="ko"><img src="/image2006/lang/ico_korea.gif" border="0" alt="한국어"></a>
+							   <a href="javascript:void(0);" data-lang="en"><img src="/image2006/lang/ico_usa.gif" border="0" alt="영어"></a>
+							   <a href="javascript:void(0);" data-lang="ja"><img src="/image2006/lang/ico_Japan.gif" border="0" alt="일본어"></a>
+							   <a href="javascript:void(0);" data-lang="zh-CN"><img src="/image2006/lang/ico-China.gif" border="0" alt="중국어"></a>
+							   <a href="javascript:void(0);" data-lang="fr"><img src="/image2006/lang/ico_France.gif" border="0" alt="프랑스어"></a>
+							   <a href="javascript:void(0);" data-lang="es"><img src="/image2006/lang/ico_Spain.gif" border="0" alt="스페인어"></a>
+							   <a href="javascript:void(0);" data-lang="ru"><img src="/image2006/lang/ico_Russia.gif" border="0" alt="러시아어"></a>
+							   <a href="javascript:void(0);" data-lang="id"><img src="/image2006/lang/ico_Indonesia.gif" border="0" alt="인도네시아어"></a>
+						   </div>
+						</div>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				
+				<!-- 로그인 -->
+				<ul class="LoginSet">
+					<!-- <li class="BestTit">인기</li>
+					<li class="BsetCon">
+					<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_area=A&sc_word=" class="txt2"></a>, <a href="http://www.stardailynews.co.kr/news/articleList.html?sc_area=A&sc_word=" class="txt2"></a>					</li> -->
+                    <li style="width:130px;"></li>
+					
+					<li class="LogForm">
+					<a href="https://www.stardailynews.co.kr:451/member/login.html" class="edit" target="_top">로그인</a>					</li>
+					<li class="LogForm nobr">
+					<a href="https://www.stardailynews.co.kr:451/member/index.html" class="edit" target="_top">회원가입</a>					</li>
+
+				</ul>
+
+				<!-- 검색 -->
+				<div class="SearchSet">					
+					<div class="SearchForm">
+													<form action="/news/articleListAD.html" method="post" name="topSearchForm" id="topSearchForm">
+							<input type="hidden" name="sc_area" value="A" />
+							<input type="hidden" name="view_type" value="" />
+							<input type="hidden" name="sc_section_code" value="" />
+						<ul>
+							<li class="TotalSearch">
+								<span id="secTitle"><a href="javascript:viewSchselopt();" onclick='viewSchselopt(); return false;' onFocus="this.blur()" style="TEXT-DECORATION: none; padding-left:6px;">통합검색</a></span></li>
+							<li><input type="text" class="sc_word" maxlength="255" name="sc_word" /></li>
+							<li><input name="image" type="image" src="/image2011/ico_search1.gif" border="0" /></li>
+						</ul>
+						</form>
+					</div>
+					
+					<div id="schselopt" style="display:none;">
+							<ul id='schselopt_list'>
+								<li onClick="schChange('','통합검색')">통합검색</li>
+								<li onClick="schChange('S1N1','엔터테인먼트')">엔터테인먼트</li>
+								<li onClick="schChange('S1N2','패션/뷰티')">패션/뷰티</li>
+								<li onClick="schChange('S1N3','문화/생활')">문화/생활</li>
+								<li onClick="schChange('S1N4','피플')">피플</li>
+								<li onClick="schChange('S1N5','동영상')">동영상</li>
+							</ul>
+						</div>
+				</div>
+			</dd>
+		</dl>
+	</div>
+</div>
+
+<table width="960" border="0" cellspacing="0" cellpadding="0" background="/image2011/sec_cbg.gif">
+	<tr>
+		<td width="7" align="left" valign="top"><img src="/image2012/sec_lbg.gif"  width="7" height="38" border="0"></td>
+		<td align="center">
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" background="/image2011/sec_cbg.gif">
+				<tr>
+					<td align="center">
+						<table border="0" cellspacing="0" cellpadding="0" id="topMenu">
+							<tr>
+								<td align="center"><a href="http://www.stardailynews.co.kr" onFocus="this.blur();" onMouseOver="selSection('', '', '', '','','index.html')"><img src="/image2015_4/sec1.gif" border="0"></a></td>
+							   <td align="center"><a href="http://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N1&view_type=sm" onFocus="this.blur();" onMouseOver="selSection('S1N1', '', '', '','','')"><img src="/image2015_4/sec2.gif" border="0"></a></td>
+							 <td align="center"><a href="http://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N9&view_type=sm" onFocus="this.blur();" onMouseOver="selSection('S1N9', '', '', '','','')"><img src="/image2015_4/sec3.gif" border="0"></a></td>
+							<td align="center"><a href="http://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N2&view_type=sm" onFocus="this.blur();" onMouseOver="selSection('S1N2', '', '', '','','')"><img src="/image2015_4/sec4.gif" border="0"></a></td>
+                              <td align="center"><a href="http://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N3&view_type=sm" onFocus="this.blur();" onMouseOver="selSection('S1N3', '', '', '','','')"><img src="/image2015_4/sec5.gif" border="0"></a></td> 
+								<td align="center"><a href="http://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N6&view_type=sm" onFocus="this.blur();" onMouseOver="selSection('S1N6', '', '', '','','')"><img src="/image2015_4/sec6.gif" border="0"></a></td>
+								<td align="center"><a href="http://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N4&view_type=sm" onFocus="this.blur();" onMouseOver="selSection('S1N4', '', '', '','','')"><img src="/image2015_4/sec7.gif" border="0"></a></td>
+                                <td align="center"><a href="http://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N10&view_type=sm" onFocus="this.blur();" onMouseOver="selSection('S1N10', '', '', '','','')"><img src="/image2015_4/sec8.gif" border="0"></a></td>
+                                <td align="center"><a href="http://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N11&view_type=sm" onFocus="this.blur();" onMouseOver="selSection('S1N11', '', '', '','','')"><img src="/image2015_4/sec9.gif" border="0"></a></td>
+                                <td align="center"><a href="http://www.stardailynews.co.kr/news/articleList.html?sc_article_type=P&view_type=sm" onFocus="this.blur();" onMouseOver="selSection('CN', '', '', '','','')"><img src="/image2015_4/sec10.gif" border="0"></a></td>
+                                <td align="center"><a href="http://www.stardailynews.co.kr/news/section.html?section=PH" onFocus="this.blur();" onMouseOver="selSection('PH', '', '', '','','')"><img src="/image2015_4/sec11.gif" border="0"></a></td>
+                                 <td align="center"><a href="http://www.stardailynews.co.kr/news/section.html?section=MV" onFocus="this.blur();" onMouseOver="selSection('MV', '', '', '','','')"><img src="/image2015_4/sec12.gif" border="0"></a></td>
+                                <td align="center"><a href="http://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N7&view_type=sm" onFocus="this.blur();" onMouseOver="selSection('S1N7', '', '', '','','')"><img src="/image2015_4/sec13.gif" border="0"></a></td>
+                                
+						  </tr>
+						</table>
+					</td>
+			  </tr>
+			</table>
+		</td>
+		<td width="6" align="right" valign="top"><img src="/image2011/sec_rbg.gif"  width="6" height="38" border="0"></td>
+	</tr>
+</table>
+
+<table width="960" border="0" cellspacing="0" cellpadding="0"  background="/image2011/sec_cbg2.gif">
+	<tr>
+		<td width="7" align="left" valign="top"><img src="/image2011/sec_lbg2.gif"  width="7" height="36" border="0"></td>
+		<td align="left" id="subMenu" width="722">
+			<!--홈-->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:inline">
+				<tr>
+					<td style="padding: 0 0 2px 15px;" class="txt1">
+						<img src="/image2011/ico_dot.gif" border="0" hspace="3" align="absmiddle">
+						<a href="/news/articleList.html?view_type=sm" class="txt1">전체뉴스</a>
+					</td>
+				</tr>
+			</table>
+			<!--홈-->
+			<!--엔터테인먼트-->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:none">
+				<tr>
+					<td style="padding:0 0 2px 60px" class="txt1">
+						<img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N1&view_type=sm" class="txt1">방송</a>
+						<img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N2&view_type=sm" class="txt1">음악</a>
+						<img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N3&view_type=sm" class="txt1">영화</a>
+						<img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N4&view_type=sm" class="txt1">공연</a>
+						<img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N26&view_type=sm" class="txt1">스포츠</a>
+					</td>
+				</tr>
+			</table>
+			<!--엔터테인먼트-->
+            <!--엔터 이코노미-->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:none">
+				<tr>
+					<td style="padding:0 0 2px 180px" class="txt1">
+						<img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N21&view_type=sm" class="txt1">엔터 이코노미</a>
+				
+					</td>
+				</tr>
+			</table>
+			<!--엔터 이코노미-->
+            <!--스포츠--
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:none">
+				<tr>
+					<td style="padding:0 0 2px 260px;" class="txt1">
+						<img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N25&view_type=sm" class="txt1">스포츠</a>
+						
+				</tr>
+			</table>
+			<!--스포츠-->
+			<!--패션·뷰티-->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:none">
+				<tr>
+					<td style="padding:0 0 2px 270px;" class="txt1">
+						<img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N5&view_type=sm" class="txt1">패션</a>
+						<img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N6&view_type=sm" class="txt1">뷰티</a>
+					</td>
+				</tr>
+			</table>
+			<!--패션·뷰티-->
+			<!--문화·생활-->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:none">
+				<tr>
+					<td style="padding:0 0 2px 340px;" class="txt1">
+						<img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N7&view_type=sm" class="txt1">문화</a>
+						<img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N8&view_type=sm" class="txt1">생활</a>
+						<!--<img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N12&view_type=sm" class="txt1">자동차</a>-->
+					</td>
+				</tr>
+			</table>
+			<!--문화·생활-->
+
+            <!--사회-->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:none">
+				<tr>
+					<td style="padding:0 0 2px 380px;" class="txt1">
+						<img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N13&view_type=sm" class="txt1">사회</a>
+					</td>
+				</tr>
+			</table>
+			<!--사회-->
+			<!--피플-->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:none">
+				<tr>
+					<td style="padding:0 0 2px 430px;" class="txt1">
+						<img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N9&view_type=sm" class="txt1">피플</a>
+                        <img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N22&view_type=sm" class="txt1">파워 인터뷰</a>
+                         
+						 <img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N23&view_type=sm" class="txt1">뉴페이스</a>
+
+					</td>
+				</tr>
+			</table>
+			<!--피플-->
+             <!--칼럼-->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:none">
+				<tr>
+					<td style="padding:0 0 2px 450px;" class="txt1">
+                    <img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N24&view_type=sm" class="txt1">칼럼</a>
+
+					</td>
+				</tr>
+			</table>
+			<!--칼럼-->
+            
+              <!--만평-->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:none">
+				<tr>
+					<td style="padding:0 0 2px 500px;" class="txt1">
+                    <img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N27&view_type=sm" class="txt1">만평</a>
+
+					</td>
+				</tr>
+			</table>
+			<!--만평-->
+            <!--카드뉴스-->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:none">
+				<tr>
+					<td style="padding:0 0 2px 600px;" class="txt1">
+                  
+					</td>
+				</tr>
+			</table>
+			<!--카드뉴스-->
+            
+			<!--포토-->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:none">
+				<tr>
+					<td style="padding:0 0 2px 660px;" class="txt1">
+						<!-- <img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N10&view_type=sm" class="txt1">포토</a> -->
+						<!--<img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N11&view_type=sm" class="txt1">동영상</a>-->
+					</td>
+				</tr>
+			</table>
+			<!--포토·동영상-->
+            	<!--동영상-->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:none">
+				<tr>
+					<td style="padding:0 0 2px 660px;" class="txt1">
+						<!--<img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N10&view_type=sm" class="txt1">포토</a>-->
+						<!-- <img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N11&view_type=sm" class="txt1">동영상</a> -->
+					</td>
+				</tr>
+			</table>
+			<!--동영상-->
+            <!--Hallyu News-->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" style="display:none">
+				<tr>
+					<td style="padding:0 0 2px 630px;" class="txt1">
+						<img src="/image2011/ico_dot.gif" border="0" align="absmiddle" hspace="3">
+						<a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N15&view_type=sm" class="txt1">Hallyu News</a>
+					</td>
+				</tr>
+			</table>
+			<!--Hallyu News-->
+
+		</td>
+		<td align="right" style="padding: 0 10px 0 0;">
+			<!--편집 -->
+			<table  border="0" cellpadding="0" cellspacing="0">
+				<tr>
+					<td width="70" align="left" style="padding: 0 5px 6px 0;"><img src="/image2011/ico_cr.gif" align="absmiddle" /></td>
+					<td align="left" class="txt2" style="padding: 0 0 5px 0;">
+						2016.2.18 목 15:48					</td>
+				</tr>
+			</table>
+			<!--편집 -->
+		</td>
+
+		<td width="6" align="left" valign="top"><img src="/image2011/sec_rbg2.gif"  width="6" height="36" border="0"></td>
+	</tr>
+</table>
+
+<table height="8"><tr><td></td></tr></table>
+
+
+
+<script language="JavaScript">
+<!--
+function selSection(firstSec, secondSec, serialCode, table, fold, this_page) {
+
+	topMenuObj = document.getElementById("topMenu").getElementsByTagName("img");
+	subMenuObj = document.getElementById("subMenu").getElementsByTagName("table");
+
+	//alert(subMenuObj.length);
+	topCnt = subMenuObj.length;
+	for(i = 0; i < topCnt; i++) {
+		imgNo = i + 1;
+		topMenuObj.item(i).setAttribute("src", "/image2015_4/sec" + imgNo + ".gif");
+		subMenuObj.item(i).style.display = "none";
+	}
+
+	if(this_page == "index.html") {
+		topMenuObj.item(0).setAttribute("src", "/image2015_4/sec1_ov.gif");
+		subMenuObj.item(0).style.display = "block";
+	} else if( firstSec == "S1N1" || secondSec == "S2N1" || secondSec == "S2N2" || secondSec == "S2N3" || secondSec == "S2N4") {
+		topMenuObj.item(1).setAttribute("src", "/image2015_4/sec2_ov.gif");
+		subMenuObj.item(1).style.display = "block";
+	} else if( firstSec == "S1N9" || secondSec == "S2N18" || secondSec == "S2N19" || secondSec == "S2N20" ) {
+		topMenuObj.item(2).setAttribute("src", "/image2015_4/sec3_ov.gif");
+		subMenuObj.item(2).style.display = "block";
+	//} else if(firstSec == "S1N11" ) {
+		//topMenuObj.item(3).setAttribute("src", "/image2014/sec4_ov.gif");
+		//subMenuObj.item(3).style.display = "block";
+	} else if(firstSec == "S1N2" || secondSec == "S2N5" || secondSec == "S2N6") {
+		topMenuObj.item(3).setAttribute("src", "/image2015_4/sec4_ov.gif");
+		subMenuObj.item(3).style.display = "block";
+	} else if(firstSec == "S1N3" || secondSec == "S2N7" || secondSec == "S2N8" || secondSec == "S2N12") {
+		topMenuObj.item(4).setAttribute("src", "/image2015_4/sec5_ov.gif");
+		subMenuObj.item(4).style.display = "block";
+	} else if(firstSec == "S1N6" || secondSec == "S2N13" || secondSec == "S2N14") {
+		topMenuObj.item(5).setAttribute("src", "/image2015_4/sec6_ov.gif");
+		subMenuObj.item(5).style.display = "block";
+	} else if(firstSec == "S1N4" || secondSec == "S2N9") {
+		topMenuObj.item(6).setAttribute("src", "/image2015_4/sec7_ov.gif");
+		subMenuObj.item(6).style.display = "block";
+	} else if(firstSec == "S1N10") {
+		topMenuObj.item(7).setAttribute("src", "/image2015_4/sec8_ov.gif");
+		subMenuObj.item(7).style.display = "block";
+	} else if(firstSec == "S1N11") {
+		topMenuObj.item(8).setAttribute("src", "/image2015_4/sec9_ov.gif");
+		subMenuObj.item(8).style.display = "block";
+	} else if(firstSec == "CN") {
+		topMenuObj.item(9).setAttribute("src", "/image2015_4/sec10_ov.gif");
+		subMenuObj.item(9).style.display = "block";
+	} else if(firstSec == "PH") {
+		topMenuObj.item(10).setAttribute("src", "/image2015_4/sec11_ov.gif");
+		subMenuObj.item(10).style.display = "block";
+} else if(firstSec == "MV") {
+		topMenuObj.item(11).setAttribute("src", "/image2015_4/sec12_ov.gif");
+		subMenuObj.item(11).style.display = "block";
+	} else if(firstSec == "S1N7" || secondSec == "S2N15") {
+		topMenuObj.item(12).setAttribute("src", "/image2015_4/sec13_ov.gif");
+		subMenuObj.item(12).style.display = "block";
+	} else {
+		topMenuObj.item(0).setAttribute("src", "/image2015_4/sec1_ov.gif");
+		subMenuObj.item(0).style.display = "block";
+	}
+
+}
+
+selSection("", "", "", "", "news", "articleView.html");
+//-->
+</script>
+
+<script type="text/javascript">resizePhoto.addEvt(window, "load", resizePhoto.init);//이미지 리사이즈+light box</script>
+
+
+<style>/**/
+#floating_banner_body {position:relative; margin:0 auto; width:960px;}
+#floating_banner_left	{position:absolute; width:160px; z-index:100; left:-170px; top:220px;}
+#floating_banner_right {position:absolute; width:160px; z-index:100; right:-170px; top:220px;}
+#floating_banner_left2	{position:absolute; width:160px; z-index:100; left:-170px; top:830px;}
+#floating_banner_right2 {position:absolute; width:160px; z-index:100; right:-170px; top:830px;}
+</style>
+<div id="floating_banner_body">
+	<ul id="floating_banner_left" class="nd_floating_banner" data-scroll='n' data-parent-target="ND_Warp" data-top-margin="5" data-duration="300">
+		<li>
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- Lefttop_160x600 -->
+			<ins class="adsbygoogle"
+				 style="display:inline-block;width:160px;height:600px"
+				 data-ad-client="ca-pub-7082780632981926"
+				 data-ad-slot="5810464974"
+			data-ad-region="1"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+		</li>
+	</ul>
+	<ul id="floating_banner_right" class="nd_floating_banner" data-scroll='n' data-top-margin="5" data-duration="300">
+		<li>
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- Righttop_160x600 -->
+			<ins class="adsbygoogle"
+				 style="display:inline-block;width:160px;height:600px"
+				 data-ad-client="ca-pub-7082780632981926"
+				 data-ad-slot="7287198173"
+			  data-ad-region="2"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+		</li>
+	</ul>
+</div>
+<div id="floating_banner_body">
+	<ul id="floating_banner_left2" class="nd_floating_banner" data-scroll='y' data-parent-target="ND_Warp" data-top-margin="5" data-duration="300">
+		<li>
+			<!-- <script type="text/javascript" src="http://ad.ilikesponsorad.com/ad/ad.js?adImpMgrCode=20806&width=160&height=600"></script> -->
+			<script type="text/javascript" src="http://ad.ilikesponsorad.com/ad/ad.js?adImpMgrCode=20806&width=160&height=600&apu=http://cache.ilikesponsorad.com/images/ad/blank.png"></script>
+		</li>
+	</ul>
+	<ul id="floating_banner_right2" class="nd_floating_banner" data-scroll='y' data-top-margin="5" data-duration="300">
+		<li>
+			<!-- <script>
+			var n2s_scriptLoaded = false;
+			function n2s_ads_callback(arg){if(arg=='none'){ document.write("");}}
+			function check_n2s_ScriptLoaded(){if(n2s_scriptLoaded){n2s_ads_callback("none");}}
+			document.write("<sc"+"ript type='text/javascript' src='http://search.n2s.co.kr/_n2s_adop_adinfo.php?id=stardailyadop&cd=stardaily_rightbottom_160x600' onError='n2s_scriptLoaded=true;check_n2s_ScriptLoaded();'></scr"+"ipt>");
+			</script> -->
+			<script type="text/javascript"><!--//<![CDATA[
+			var wt = "160";
+			var ht = "600"; 
+			var u = "http://search.n2s.co.kr/_n2s_adopunion_adinfo.php?id=stardailyadop&cd=stardaily_rightbottom_160x600&wt="+wt+"&ht="+ht;
+			u += "&loc=" + escape(window.location); 
+			var ifr=document.createElement("iframe");ifr.frameBorder="0";ifr.scrolling="no";ifr.width=wt+"px";ifr.height=ht+"px";ifr.setAttribute("src",u);ifr.setAttribute("marginwidt","0");ifr.setAttribute("marginheight","0");ifr.setAttribute("vspace","0");ifr.setAttribute("hspace","0");ifr.setAttribute("allowtransparency","true");document.write(ifr.outerHTML);
+			//]]>--></script>
+		</li>
+	</ul>
+</div>
+<!--기사뷰 플로팅배너-->
+
+<div id="ND_Warp">
+
+
+
+
+
+<!--<script type="text/javascript" charset="utf-8" src="http://bit.ly/javascript-api.js?version=latest&login=bluekoreadot&apiKey=R_95b2587315456d37e883110fa237f2dc"></script>-->
+<script type="text/javascript">
+//<![CDATA[
+var sns_setData = ["%EB%A7%88%EB%A7%88%EB%AC%B4%2C+%EC%98%A4%EB%8A%98%2811%EC%9D%BC%29+%EC%A0%95%EC%98%A4+%ED%94%84%EB%A6%AC%EC%8B%B1%EA%B8%80+%271cm%EC%9D%98+%EC%9E%90%EC%A1%B4%EC%8B%AC%27+M%2FV+%EA%B3%B5%EA%B0%9C+http%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153","http://www.stardailynews.co.kr/news/articleView.html?idxno=84153","스타데일리뉴스"];
+var sns_type = "";
+
+var cyworldTitle = "66eI66eI66y0LCDsmKTripgoMTHsnbwpIOygleyYpCDtlITrpqzsi7HquIAgMWNt7J2YIOyekOyhtOyLrCBNL1Yg6rO16rCc";
+var authorName = "%EC%8A%A4%ED%83%80%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%89%B4%EC%8A%A4";
+var newsContent = "IAkgCQkgCQkJIAkJCSAJCQkgCQkgCQkgCQkJ4payIOuniOuniOustCDrrqTruYQg7Lqh7LOQIOKTklJCVyAJCSAJICAgW%2ByKpO2DgOuNsOydvOumrOuJtOyKpD3rrLjsp4Dtm4gg6riw7J6QXTEy7J28IO2UhOumrOyLseq4gCBQYXJ0MiAxY23snZgg7J6Q7KG07IusIOuwnO2RnOulvCDslZ7rkZQg66eI66eI66y06rCAIOydjOybkOuztOuLpCDrrqTsp4HruYTrlJTsmKTrpbwg7ISg6rO16rCc7ZWc64ukLiAg66eI66eI66y064qUIOyYpOuKmCgxMeydvCkg7KCV7JikLCDqs7Xsi50gU05T7JmAIOuEpOydtOuyhCBUVuy6kOyKpO2KuOulvCDthrXtlbQg65GQIOuyiOynuCDtlITrpqzsi7HquIAgJmFtcDthbXA7IzM5OzFjbeydmCDsnpDsobTsi6wmYW1wO2FtcDsjMzk77J2YIA%3D%3D";
+var newsThumb = "http://www.stardailynews.co.kr/news/thumbnail/201602/84153_102277_5356_v150.jpg";
+
+BitlyCB.shortenResponse = function(data)
+{
+	var postVar="";
+	var shortUrl='';
+	var first_result;
+
+	for (var r in data.results) { first_result = data.results[r]; break; }
+	for (var key in first_result) if(key=='shortCNAMEUrl') { shortUrl=first_result[key].toString(); break; }
+
+	if(!shortUrl) shortUrl = sns_setData[1];
+	var sns_conv_title = encodeURI(sns_setData[0]);
+	var sns_conv_url = encodeURI(shortUrl);
+
+	_sns_do(sns_conv_title, sns_conv_url);
+}
+</script>
+
+<!-- 플로팅 -->
+<!-- <script type="text/javascript" src="/script/common.js"></script>
+<div id="popWindow2" style="position:absolute; left:872px; top:2200px; z-index:100000; visibility; visible;" >
+<form name="form2">
+<input type="hidden" name="Notice" value="nochecked">
+
+
+
+<table width="250px" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td bgcolor="#222222">
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td height="25" width=10><input type="checkbox" name="edusc" OnClick="javascript:closeLayerNew(2,1);" align="absmiddle"></td>
+				<td style="color:#ffffff; padding:0 5 0 0;">하루동안 열지 않기</td>
+				<td align="right" style="color:#ffffff; padding:0 3 0 0;"><a href="javascript:closeLayerNew(2,0);"><b style="color:#fff;">[닫기]</b></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+
+</form>
+</div> -->
+<!-- 플로팅 -->
+
+<div id="divLAS" style="visibility:hidden;"></div>
+
+<table cellpadding="0" cellspacing="0" border="0" width="960">
+	<tr>
+		<td align="center" style="padding-bottom:10px;">
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- Top_970x90 -->
+			<ins class="adsbygoogle"
+				 style="display:inline-block;width:970px;height:90px"
+				 data-ad-client="ca-pub-7082780632981926"
+				 data-ad-slot="5498985773"
+			  data-ad-region="3"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+		</td>
+	</tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" width="960">
+	<tr>
+		<td width="690" align="left" valign="top">
+
+					<!-- 와이즈넛 -->
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					
+									<!-- <script>
+					var n2s_scriptLoaded = false;
+					function n2s_ads_callback(arg){if(arg=='none'){ document.write("");}}
+					function check_n2s_ScriptLoaded(){if(n2s_scriptLoaded){n2s_ads_callback("none");}}
+					document.write("<sc"+"ript type='text/javascript' src='http://search.n2s.co.kr/_n2s_adop_adinfo.php?id=stardailyadop&cd=stardaily_top_690x120' onError='n2s_scriptLoaded=true;check_n2s_ScriptLoaded();'></scr"+"ipt>");
+					</script> -->
+					<script type="text/javascript"><!--//<![CDATA[
+					var wt = "690"; 
+					var ht = "120"; 
+					var u = "http://search.n2s.co.kr/_n2s_adopunion_adinfo.php?id=stardailyadop&cd=stardaily_top_690x120&wt="+wt+"&ht="+ht;
+					u += "&loc=" + escape(window.location); 
+					var ifr=document.createElement("iframe");ifr.frameBorder="0";ifr.scrolling="no";ifr.width=wt+"px";ifr.height=ht+"px";ifr.setAttribute("src",u);ifr.setAttribute("marginwidt","0");ifr.setAttribute("marginheight","0");ifr.setAttribute("vspace","0");ifr.setAttribute("hspace","0");ifr.setAttribute("allowtransparency","true");document.write(ifr.outerHTML);
+					//]]>--></script>
+
+				</tr>
+			</table>
+			<!-- 와이즈넛 -->
+			
+			<table width="690" border="0" cellpadding="10" cellspacing="0">
+      			<tr>
+        			<td height="12" bgcolor="#FFFFFF"><span style="font-size:9pt; letter-spacing:-0.3pt;"><font color="#666666"><img src="http://www.stardailynews.co.kr/image2006/default/icon_link_arrow.gif"> <a href="http://www.stardailynews.co.kr"><font color="#666666">홈</font></a> &gt; <a href="http://www.stardailynews.co.kr"><font color="#666666">뉴스</font></a>
+ &gt; <a href="http://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N1"><font color="#000000">엔터테인먼트</font></a> &gt; <a href="http://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N2"><font color="#000000">음악</font></a></font></span></td>
+        			<td width="51" align="right" bgcolor="#FFFFFF"><a href="javascript:history.back();"><img src="http://www.stardailynews.co.kr/image2006/default/btn_list2.gif" width="51" height="11" border="0"></a></td>
+      			</tr>
+			</table>
+			<table width="690" border="0" cellpadding="10" cellspacing="1" bgcolor="#EAEAEA">
+        		<tr>
+          			<td align="center" bgcolor="#FFFFFF">
+
+
+			<table width="600" border="0" cellpadding="3" cellspacing="0">
+				<tr>
+             		<td align="right" bgcolor="#FFFFFF">
+						<table width="690" border="0" cellpadding="3" cellspacing="0">
+							<tr>
+								<td align="left" bgcolor="#FFFFFF" class="c_title_i">
+									☞<a href="http://m.stardailynews.co.kr/articleView.html?idxno=84153&menu=1" target="_blank">모바일에서 기사보기</a>
+								</td>
+								<td align="right" bgcolor="#FFFFFF">
+									<table border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											<!--<td><img src="http://www.stardailynews.co.kr/image2006/default/btn_golist.gif" width="55" height="12"></td>
+											<td width="10">&nbsp;</td>//-->
+											<td><a href="javascript:articleMail('84153');"><img src="http://www.stardailynews.co.kr/image2006/default/btn_send.gif" width="69" height="12" border="0"></a></td>
+											<td width="10">&nbsp;</td>
+											<td><a href="javascript:articleErr('84153');"><img src="http://www.stardailynews.co.kr/image2006/default/btn_ermail.gif" width="57" height="12" border="0"></a></td>
+											<td width="10">&nbsp;</td>
+											<td><a href="javascript:articlePrint('84153');"><img src="http://www.stardailynews.co.kr/image2006/default/btn_print.gif" width="46" height="12" border="0"></a></td>
+											<td width="15">&nbsp;</td>
+											<td><a href="javascript:fontPlus();"><img src="http://www.stardailynews.co.kr/image2006/default/btn_textbig.gif" width="29" height="17" border="0"></a></td>
+											<td width="5"></td>
+											<td><a href="javascript:fontMinus();"><img src="http://www.stardailynews.co.kr/image2006/default/btn_textsmall.gif" width="29" height="17" border="0"></a></td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+              		</td>
+            	</tr>
+            	<tr>
+              		<td height="18"></td>
+            	</tr>
+				<tr>
+					<td class="view_t">
+						<!--CM_TITLE--><!-- s : 기사 제목 -->마마무, 오늘(11일) 정오 프리싱글 '1cm의 자존심' M/V 공개<!-- e : 기사 제목 --><!--/CM_TITLE-->
+											</td>
+				</tr>
+				<tr>
+    				<td height="5"></td>
+				</tr>
+    			<tr>
+    				<td align="left">
+
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        	<tr>
+                          		<td width="5"><img src="http://www.stardailynews.co.kr/image2006/default/newsdaybox_top.gif" width="11" height="25"></td>
+                          		<td bgcolor="EFEFEF" width="24%"><span style="font-size:8pt; letter-spacing:-0.3;"><font face="돋움" color="#666666">2016년 02월 11일 (목) 09:06:42</font></span></td>
+								<td bgcolor="EFEFEF" width="30%">
+									<div class="transArticleView">
+										<div class="translation-icons">
+										   <a href="javascript:void(0);" data-lang="ko"><img src="/image2006/lang/ico_korea.gif" border="0" alt="한국어"></a>
+										   <a href="javascript:void(0);" data-lang="en"><img src="/image2006/lang/ico_usa.gif" border="0" alt="영어"></a>
+										   <a href="javascript:void(0);" data-lang="ja"><img src="/image2006/lang/ico_Japan.gif" border="0" alt="일본어"></a>
+										   <a href="javascript:void(0);" data-lang="zh-CN"><img src="/image2006/lang/ico-China.gif" border="0" alt="중국어"></a>
+										   <a href="javascript:void(0);" data-lang="fr"><img src="/image2006/lang/ico_France.gif" border="0" alt="프랑스어"></a>
+										   <a href="javascript:void(0);" data-lang="es"><img src="/image2006/lang/ico_Spain.gif" border="0" alt="스페인어"></a>
+										   <a href="javascript:void(0);" data-lang="ru"><img src="/image2006/lang/ico_Russia.gif" border="0" alt="러시아어"></a>
+										   <a href="javascript:void(0);" data-lang="id"><img src="/image2006/lang/ico_Indonesia.gif" border="0" alt="인도네시아어"></a>
+									   </div>
+									</div>
+								</td>
+                          		<td align="right" bgcolor="EFEFEF"> <span style="font-size:8pt; letter-spacing:-0.3;"><font face="돋움" color="#666666">문지훈 기자</font>
+<a href="mailto.html?mail=news@stardailynews.co.kr"><img src="/image2006/default/btn_sendmail.gif" border="0"> <font face="arial" color="#666666">news@stardailynews.co.kr</font></a></span></td>
+                          		<td width="5"><img src="http://www.stardailynews.co.kr/image2006/default/newsdaybox_dn.gif" width="11" height="25"></td>
+                        	</tr>
+                    	</table>
+
+						<table width="100%" border="0" cellspacing="0" cellpadding="8">
+							<tr>
+								<td align="center">
+
+								<table border="0" cellspacing="0" cellpadding="0">
+									<tr>
+										<td><img src="/image2010/img_scrap.gif" border="0"></td>
+										<td style="padding-left:6px"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153&t=%EB%A7%88%EB%A7%88%EB%AC%B4%2C+%EC%98%A4%EB%8A%98%2811%EC%9D%BC%29+%EC%A0%95%EC%98%A4+%ED%94%84%EB%A6%AC%EC%8B%B1%EA%B8%80+%271cm%EC%9D%98+%EC%9E%90%EC%A1%B4%EC%8B%AC%27+M%2FV+%EA%B3%B5%EA%B0%9C" target="_blank"><img src="/image2010/facebook.gif" border="0" title="페이스북"></a></td>
+										<td style="padding-left:6px"><a href="http://twitter.com/home?status=%EB%A7%88%EB%A7%88%EB%AC%B4%2C+%EC%98%A4%EB%8A%98%2811%EC%9D%BC%29+%EC%A0%95%EC%98%A4+%ED%94%84%EB%A6%AC%EC%8B%B1%EA%B8%80+%271cm%EC%9D%98+%EC%9E%90%EC%A1%B4%EC%8B%AC%27+M%2FV+%EA%B3%B5%EA%B0%9C+http%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153" target="_blank"><img src="/image2010/twitter.gif" border="0" title="트위터"></a></td>
+										<!-- 인스타그램 --> 
+										<td style="padding-left:6px"><a href="https://instagram.com/stardailynews/" target="_blank" style="text-decoration:none; color:#000;"><img src="/image2010/instargram.gif" border="0" title="인스타그램"></a></td>
+										<!--<td style="padding-left:4px"><a href="https://instagram.com/stardailynews/" target="_blank" style="text-decoration:none; color:#000;"><div style="background:url('/image2006/new/sns_icon.png') no-repeat 10px -147px; width:90px; padding:9px 9px 7px 30px; font-size:11px; font-family:dotum; letter-spacing: -1px; cursor:pointer">인스타그램</div></a></td>-->
+										<!-- <td style="padding-left:6px"><a href="http://me2day.net/posts/new?new_post[body]=%22%EB%A7%88%EB%A7%88%EB%AC%B4%2C+%EC%98%A4%EB%8A%98%2811%EC%9D%BC%29+%EC%A0%95%EC%98%A4+%ED%94%84%EB%A6%AC%EC%8B%B1%EA%B8%80+%271cm%EC%9D%98+%EC%9E%90%EC%A1%B4%EC%8B%AC%27+M%2FV+%EA%B3%B5%EA%B0%9C%22%3Ahttp%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153&new_post[tags]=%EC%8A%A4%ED%83%80%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%89%B4%EC%8A%A4" target="_blank"><img src="/image2010/me2day.gif" border="0" title="미투데이"></a></td> -->
+										<td style="padding-left:4px"><div style="background:url('http://csp.cyworld.com/images/ico_clog.gif') no-repeat 0 2px; padding:2px 0 0 20px; font-size:11px; letter-spacing: -1px; font-family:dotum; cursor:pointer" onclick="_sns('cyworld')">공감</div></td>
+										<!--
+										<td style="padding-left:4px"><a href="#" onclick="javascript:window.open('http://yozm.daum.net/api/popup/prePost?sourceid=&link=http%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153&prefix=%EB%A7%88%EB%A7%88%EB%AC%B4%2C+%EC%98%A4%EB%8A%98%2811%EC%9D%BC%29+%EC%A0%95%EC%98%A4+%ED%94%84%EB%A6%AC%EC%8B%B1%EA%B8%80+%271cm%EC%9D%98+%EC%9E%90%EC%A1%B4%EC%8B%AC%27+M%2FV+%EA%B3%B5%EA%B0%9C', 'yozm', 'width=466, height=356' );returnfalse;"><img src="/image2010/yozm.gif" border="0" title="요즘"></a></td>
+										-->
+										<td style="padding-left:6px"><a href="http://bookmark.naver.com/post?ns=1&title=%EB%A7%88%EB%A7%88%EB%AC%B4%2C+%EC%98%A4%EB%8A%98%2811%EC%9D%BC%29+%EC%A0%95%EC%98%A4+%ED%94%84%EB%A6%AC%EC%8B%B1%EA%B8%80+%271cm%EC%9D%98+%EC%9E%90%EC%A1%B4%EC%8B%AC%27+M%2FV+%EA%B3%B5%EA%B0%9C&url=http%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153" target="_blank"><img src="/image2010/naver.gif" border="0" title="네이버"></a></td>
+										<td style="padding-left:6px"><a href="http://www.google.com/bookmarks/mark?op=add&title=%EB%A7%88%EB%A7%88%EB%AC%B4%2C+%EC%98%A4%EB%8A%98%2811%EC%9D%BC%29+%EC%A0%95%EC%98%A4+%ED%94%84%EB%A6%AC%EC%8B%B1%EA%B8%80+%271cm%EC%9D%98+%EC%9E%90%EC%A1%B4%EC%8B%AC%27+M%2FV+%EA%B3%B5%EA%B0%9C&bkmk=http%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153" target="_blank"><img src="/image2010/google.gif" border="0"title="구글"></a></td>
+										<td style="padding-left:6px"><a href="http://www.band.us/plugin/share?body=%EB%A7%88%EB%A7%88%EB%AC%B4%2C+%EC%98%A4%EB%8A%98%2811%EC%9D%BC%29+%EC%A0%95%EC%98%A4+%ED%94%84%EB%A6%AC%EC%8B%B1%EA%B8%80+%271cm%EC%9D%98+%EC%9E%90%EC%A1%B4%EC%8B%AC%27+M%2FV+%EA%B3%B5%EA%B0%9C0Ahttp%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153" target="_blank" title="네이버밴드"><img src="/image2010/band.gif" border="0" alt="네이버밴드"></a></td>
+										<td style="padding-left:6px"><a href="http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153&title=%EC%8A%A4%ED%83%80%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%89%B4%EC%8A%A4" target="_blank"><img src="/image2010/digg.gif" border="0" title="디그"></a></td>
+										<td style="padding-left:6px"><a href="http://delicious.com/save?jump=yes&url=http%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153&title=%EB%A7%88%EB%A7%88%EB%AC%B4%2C+%EC%98%A4%EB%8A%98%2811%EC%9D%BC%29+%EC%A0%95%EC%98%A4+%ED%94%84%EB%A6%AC%EC%8B%B1%EA%B8%80+%271cm%EC%9D%98+%EC%9E%90%EC%A1%B4%EC%8B%AC%27+M%2FV+%EA%B3%B5%EA%B0%9C" target="_blank"><img src="/image2010/delicious.gif" border="0" title="딜리셔스"></a></td>
+										<td style="padding-left:8px"><a href="https://favorites.live.com/quickadd.aspx?marklet=1&mkt=euc-kr&url=http%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153&title=%EB%A7%88%EB%A7%88%EB%AC%B4%2C+%EC%98%A4%EB%8A%98%2811%EC%9D%BC%29+%EC%A0%95%EC%98%A4+%ED%94%84%EB%A6%AC%EC%8B%B1%EA%B8%80+%271cm%EC%9D%98+%EC%9E%90%EC%A1%B4%EC%8B%AC%27+M%2FV+%EA%B3%B5%EA%B0%9C&top=1" target="_blank"><img src="/image2010/live.gif" border="0" title="라이브"></a></td>
+									</tr>
+								</table>
+								</td>
+							</tr>
+						</table>
+
+                    </td>
+				</tr>
+				<tr>
+    				<td height="15"></td>
+				</tr>
+				<tr>
+					<td class="view_r" id="articleBody">
+					<!-- Photo AD -->
+					<div id="FvForm">
+					
+						
+
+						<!-- s : 기사 본문 -->
+						<div id="joinskmbox">
+							<div id="_article" class="view_r">
+							<!--CM_BODY--><!-- ADOPCONS -->
+							<p><table align="center" b　　order="0" cellpadding="0" cellspacing="0" width="820">
+	<tbody>
+		<tr>
+			<td width="10">&nbsp;</td>
+			<td align="center"><!-- ADOPIMGS --><img b　　order="1" src="http://www.stardailynews.co.kr/news/photo/201602/84153_102277_5356.jpg" /><!-- ADOPIMGE --></td>
+			<td width="10">&nbsp;</td>
+		</tr>
+		<tr>
+			<td class="view_r_caption" colspan="3" id="font_imgdown_102277">▲ 마마무 뮤비 캡쳐 ⓒRBW</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>[스타데일리뉴스=문지훈 기자]&nbsp;<span style="letter-spacing: -0.04em; line-height: 25.2px; word-spacing: 0.2em;">12일 프리싱글 Part2 &lsquo;1cm의 자존심&rsquo; 발표를 앞둔 마마무가 음원보다 뮤직비디오를 선공개한다.</span></p>
+
+<p>마마무는 오늘(11일) 정오, 공식 SNS와 네이버 TV캐스트를 통해 두 번째 프리싱글 &#39;1cm의 자존심&#39;의 뮤직비디오를 공개하며, 마마무의 진짜 매력을 아낌없이 드러낼 예정이다.</p>
+
+<p>&#39;1cm의 자존심&#39; 뮤직비디오에는 처음으로 힙합에 도전한 마마무의 다소 어설프지만 귀여운 힙합 스웨그(swag) 넘치는 모습이 눈길을 사로잡는다.&nbsp;</p>
+
+<p>뮤직비디오 속 마마무도 평상시 1cm의 키 차이를 두고 옥신각신 하는 모습을 고스란히 가사로 담아냈으며, &lsquo;마마무 마마무 우리 끼리끼리끼리 1cm...&rsquo; 등 본인들의 실생활을 가사로 풀어낸 재치가 돋보인다.</p>
+
+<p>또, 지난해 패러디해 큰 이슈를 모았던 &#39;언프리티 랩스타&#39; 속 제시로 분한 솔라가 깜짝 등장해 보는 재미를 더한다.</p>
+
+<p>이처럼 마마무는 음원 공개에 앞서 뮤직비디오를 먼저 공개하며, 차별화 된 행보를 선택했다.</p>
+
+<p>이에 마마무 소속사 측은 &ldquo;마마무의 음악은 노래와 영상을 함께 즐기는 게 최고인 퍼포먼스형 걸그룹이다. 특히 이번에 공개될 프리싱글 &#39;1cm의 자존심&#39;은 멤버들의 일상 속 톡톡 튀는 리얼한 모습을 그대로 담았다. 위트 넘치는 가사와 그에 어울리는 재기발랄한 마마무의 모습을 함께 감상하는 게 좋다는 판단으로 뮤직비디오를 선공개하기로 했다&rdquo;고 밝혔다.</p>
+
+<p>앞서 마마무는 26일 첫 번째 정규앨범 &#39;멜팅(Melting)&#39; 발표를 앞두고 컴백 프로젝트에 돌입해 순차적으로 새 앨범의 콘텐츠를 공개하며 기대를 높이고 있다.</p>
+
+<p>첫 번째 프리싱글 &#39;아이 미스 유(I Miss You)&#39;로 음원차트를 휩쓸며 성공적인 컴백 신호탄을 쏜 마마무는 수록곡 &#39;나만의 레시피&#39;와 &#39;고향이&#39;의 트랙 프리뷰 비디오를 공개한데 이어 두 번째 프리싱글 &#39;1cm의 자존심&#39;을 발매하며 가요계 이목을 집중시키고 있다.</p>
+
+<p>더욱이 첫 정규앨범 발표를 앞둔 마마무가 신비주의가 아닌 공개주의를 선택, 아낌없이 콘텐츠를 오픈하는 유례없는 행보는 마마무의 새 앨범에 대한 자신감을 엿볼 수 있다.&nbsp;</p>
+
+<p>한편, 마마무는 오늘(11일) 정오, 프리싱글 Part2 &#39;1cm의 자존심&#39; 뮤직비디오를 공개한 후, 12일 정오에는 각종 음원사이트를 통해 음원을 발표한다.</p><!-- ADOPCONE --><!--/CM_BODY-->
+							</div>
+						</div>
+						<!-- e : 기사 본문-->
+
+						<!-- <script>document.write("<scr"+"ipt src='http://cm1.icontact.kr/script/cm_fadein_stardailynews.js' charset='euc-kr'></sc"+"ript>");</script> -->
+					</div>
+					<!-- Photo AD -->
+
+					<!-- <script src="http://js.keywordsconnect.com/dkl_stardaily_nd.js" type="text/javascript"></script> // 111219 제거요청 -->
+				<!-- 0627 키워드스크립트	<script type="text/javascript">
+					// 111219 아이엔비넷 스크립트 삽입
+					var dklScript = document.createElement("script");
+					dklScript.id = "dklscript";
+					dklScript.src = "http://js.keywordsconnect.com/dkl_stardaily_nd2.js";
+					dklScript.type = "text/javascript";
+					var header = document.getElementsByTagName("head")[0];
+					header.appendChild(dklScript);
+					</script>
+
+
+					<script language="javascript" name="CmAdCmd_F" id="CmAdCmd_F"></script><!-- DCM 서버와 통신//-->
+					 
+					<script language='javascript'>
+					 
+						var js_type1 = "w_fc_stardailynews_1";                   //매체사 타입명
+					 
+						var js_docUrl = document.location.href;      //웹문서 URL
+					 
+						var js_URL = "http://cm1.joins.com/?";
+					 
+						//Nescape 호환을 위한 라인
+					 
+						if(
+					 
+							navigator.appName != "Microsoft Internet Explorer"    //Necape
+					 
+							|| navigator.appVersion.indexOf("MSIE 9")>0          //IE9
+					 
+						) { js_URL += "outputEnc=euc-kr&"; }
+					 
+						js_URL += "type=" + js_type1;
+					 
+						js_URL += "&docUrl=" + encodeURIComponent(js_docUrl);
+					 
+						document.getElementById("CmAdCmd_F").src = js_URL;
+					 
+					</script>
+					<!-- 광고
+					<IFRAME src="http://wec.co.kr/banner/stardailynews_670250.html" NORESIZE SCROLLING="no" HSPACE="0" VSPACE="0" FRAMEBORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" WIDTH="670" HEIGHT="250" align="center"></IFRAME>
+					<!-- 광고 -->
+					</td>
+				</tr>
+				<tr>
+					<td height="15"></td>
+				</tr>
+				<tr>
+					<td align="left" bgcolor="#FFFFFF" class="c_title_i">☞<a href="http://m.stardailynews.co.kr/articleView.html?idxno=84153&menu=1" target="_blank">모바일에서 기사보기</a></td>
+				</tr>		
+				
+                <tr>
+					<td height="15" align="left"><!--뉴스미란다원칙--><script language="javascript" src="http://www.stardailynews.co.kr/bannerManager/inc/57.html"></script><!--뉴스미란다원칙--></td>
+			  </tr>
+			 <!--  <tr>
+                <td><IFRAME src="http://wec.co.kr/banner/stardailynews_680310.html" NORESIZE SCROLLING="no" HSPACE="0" VSPACE="0"
+ FRAMEBORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" WIDTH="680" HEIGHT="310" align="center"></IFRAME></td>
+                </tr> -->
+
+				<!-- 시작 -->
+				<tr>
+					<td><iframe src="/Autobox/article_roll.html" scrolling="no" hspace="0" vspace="0" frameborder="0" marginwidth="0" marginheight="0" width="670" height="160"  noresize></iframe></td>
+				</tr>			
+				<!-- 끝 -->
+				<!--추천위젯시작//-->
+				<tr>
+					<td height="15"></td>
+				</tr>
+				<tr>
+					<td align="center">
+												<img src="http://cp.news.search.daum.net/api/publish.json?nurl=http%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153&xml_url=http%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleViewXml_v3.html%3Fidxno%3D84153&channel=music" style="display:none;"/>
+											</td>
+				</tr>
+				<!--추천위젯끝//-->
+
+				<tr>
+					<td align="center">
+						<iframe src='http://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=C657CCB2EFD9DD12C2F0B915120ECAA4C9CF&outKey=V123b9226f1c201d4ec76aeb497d3fd2afe761f040458089d6824aeb497d3fd2afe76&controlBarMovable=true&jsCallable=true&isAutoPlay=true&skinName=tvcast_white' frameborder='no' scrolling='no' marginwidth='0' marginheight='0' WIDTH='544' HEIGHT='306' allowfullscreen></iframe>					</td>
+				</tr>
+
+
+								<tr>
+    				<td height="5"></td>
+				</tr>
+                <tr><td align="left"><!--객원기자모집0512--<script language="javascript" src="http://www.stardailynews.co.kr/bannerManager/inc/56.html"></script><!--객원기자모집0512--></td></tr>
+				<tr>
+    				<td class="view_r">
+					기사제보 및 보도자료 <a href="mailto:news@stardailynews.co.kr">news@stardailynews.co.kr</a><br />
+					copyrightⓒ스타데일리뉴스.무단 전재 &amp; 재배포 금지<br />
+					스타데일리뉴스 사진 영상 외 <a href="https://www.stardailynews.co.kr:451/com/content.html" target="_blank">[기사콘텐츠 구매]</a> 바로가기<br />
+					스마트 폰에서 만나는 스타데일리뉴스 <a href="http://m.stardailynews.co.kr/articleView.html?idxno=84153&menu=1" target="_blank">[모바일 페이지]</a> 바로가기<br />
+					종합인터넷신문 스타데일리뉴스 SNS <a href="https://www.facebook.com/profile.php?id=100003146843257" target="_blank">[페이스북]</a>  <a href="https://www.facebook.com/stardailynews""target="_blank">[페이스북 페이지]</a><a href="https://twitter.com/stardailynews" target="_blank">[트위터]</a> 바로가기
+					
+					</td>
+				</tr>
+				
+				<!--기사보내기-->
+
+<tr>
+					<td height="10"></td>
+				</tr>
+				<tr>
+					<td>
+						<table width="680" border="0" cellspacing="0" cellpadding="8" style="border:1px solid #e0e0e0;">
+							<tr>
+								<td>
+
+								<table border="0" cellspacing="0" cellpadding="0">
+									<tr>
+										<td><img src="/image2010/img_scrap.gif" border="0"></td>
+										<td style="padding-left:6px"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153&t=%EB%A7%88%EB%A7%88%EB%AC%B4%2C+%EC%98%A4%EB%8A%98%2811%EC%9D%BC%29+%EC%A0%95%EC%98%A4+%ED%94%84%EB%A6%AC%EC%8B%B1%EA%B8%80+%271cm%EC%9D%98+%EC%9E%90%EC%A1%B4%EC%8B%AC%27+M%2FV+%EA%B3%B5%EA%B0%9C" target="_blank"><img src="/image2010/facebook.gif" border="0" title="페이스북"></a></td>
+										<td style="padding-left:6px"><a href="http://twitter.com/home?status=%EB%A7%88%EB%A7%88%EB%AC%B4%2C+%EC%98%A4%EB%8A%98%2811%EC%9D%BC%29+%EC%A0%95%EC%98%A4+%ED%94%84%EB%A6%AC%EC%8B%B1%EA%B8%80+%271cm%EC%9D%98+%EC%9E%90%EC%A1%B4%EC%8B%AC%27+M%2FV+%EA%B3%B5%EA%B0%9C+http%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153" target="_blank"><img src="/image2010/twitter.gif" border="0" title="트위터"></a></td>
+										<!-- 인스타그램 --> 
+										<td style="padding-left:6px"><a href="https://instagram.com/stardailynews/" target="_blank" style="text-decoration:none; color:#000;"><img src="/image2010/instargram.gif" border="0" title="인스타그램"></a></td>
+										<!--<td style="padding-left:4px"><a href="https://instagram.com/stardailynews/" target="_blank" style="text-decoration:none; color:#000;"><div style="background:url('/image2006/new/sns_icon.png') no-repeat 10px -147px; width:90px; padding:9px 9px 7px 30px; font-size:11px; font-family:dotum; letter-spacing: -1px; cursor:pointer">인스타그램</div></a></td>-->
+										
+										<!-- <td style="padding-left:6px"><a href="http://me2day.net/posts/new?new_post[body]=%22%EB%A7%88%EB%A7%88%EB%AC%B4%2C+%EC%98%A4%EB%8A%98%2811%EC%9D%BC%29+%EC%A0%95%EC%98%A4+%ED%94%84%EB%A6%AC%EC%8B%B1%EA%B8%80+%271cm%EC%9D%98+%EC%9E%90%EC%A1%B4%EC%8B%AC%27+M%2FV+%EA%B3%B5%EA%B0%9C%22%3Ahttp%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153&new_post[tags]=%EC%8A%A4%ED%83%80%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%89%B4%EC%8A%A4" target="_blank"><img src="/image2010/me2day.gif" border="0" title="미투데이"></a></td> -->
+										
+										<td style="padding-left:4px"><div style="background:url('http://csp.cyworld.com/images/ico_clog.gif') no-repeat 0 2px; padding:2px 0 0 20px; font-size:11px; letter-spacing: -1px; font-family:dotum; cursor:pointer" onclick="_sns('cyworld')">공감</div></td>
+										<!--
+										<td style="padding-left:4px"><a href="#" onclick="javascript:window.open('http://yozm.daum.net/api/popup/prePost?sourceid=&link=http%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153&prefix=%EB%A7%88%EB%A7%88%EB%AC%B4%2C+%EC%98%A4%EB%8A%98%2811%EC%9D%BC%29+%EC%A0%95%EC%98%A4+%ED%94%84%EB%A6%AC%EC%8B%B1%EA%B8%80+%271cm%EC%9D%98+%EC%9E%90%EC%A1%B4%EC%8B%AC%27+M%2FV+%EA%B3%B5%EA%B0%9C', 'yozm', 'width=466, height=356' );returnfalse;"><img src="/image2010/yozm.gif" border="0" title="요즘"></a></td>
+										-->
+										<td style="padding-left:6px"><a href="http://bookmark.naver.com/post?ns=1&title=%EB%A7%88%EB%A7%88%EB%AC%B4%2C+%EC%98%A4%EB%8A%98%2811%EC%9D%BC%29+%EC%A0%95%EC%98%A4+%ED%94%84%EB%A6%AC%EC%8B%B1%EA%B8%80+%271cm%EC%9D%98+%EC%9E%90%EC%A1%B4%EC%8B%AC%27+M%2FV+%EA%B3%B5%EA%B0%9C&url=http%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153" target="_blank"><img src="/image2010/naver.gif" border="0" title="네이버"></a></td>
+										<td style="padding-left:6px"><a href="http://www.google.com/bookmarks/mark?op=add&title=%EB%A7%88%EB%A7%88%EB%AC%B4%2C+%EC%98%A4%EB%8A%98%2811%EC%9D%BC%29+%EC%A0%95%EC%98%A4+%ED%94%84%EB%A6%AC%EC%8B%B1%EA%B8%80+%271cm%EC%9D%98+%EC%9E%90%EC%A1%B4%EC%8B%AC%27+M%2FV+%EA%B3%B5%EA%B0%9C&bkmk=http%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153" target="_blank"><img src="/image2010/google.gif" border="0"title="구글"></a></td>
+										<td style="padding-left:6px"><a href="http://www.band.us/plugin/share?body=%EB%A7%88%EB%A7%88%EB%AC%B4%2C+%EC%98%A4%EB%8A%98%2811%EC%9D%BC%29+%EC%A0%95%EC%98%A4+%ED%94%84%EB%A6%AC%EC%8B%B1%EA%B8%80+%271cm%EC%9D%98+%EC%9E%90%EC%A1%B4%EC%8B%AC%27+M%2FV+%EA%B3%B5%EA%B0%9C0Ahttp%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153" target="_blank" title="네이버밴드"><img src="/image2010/band.gif" border="0" alt="네이버밴드"></a></td>
+
+										<td style="padding-left:6px"><a href="http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153&title=%EC%8A%A4%ED%83%80%EB%8D%B0%EC%9D%BC%EB%A6%AC%EB%89%B4%EC%8A%A4" target="_blank"><img src="/image2010/digg.gif" border="0" title="디그"></a></td>
+										<td style="padding-left:6px"><a href="http://delicious.com/save?jump=yes&url=http%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153&title=%EB%A7%88%EB%A7%88%EB%AC%B4%2C+%EC%98%A4%EB%8A%98%2811%EC%9D%BC%29+%EC%A0%95%EC%98%A4+%ED%94%84%EB%A6%AC%EC%8B%B1%EA%B8%80+%271cm%EC%9D%98+%EC%9E%90%EC%A1%B4%EC%8B%AC%27+M%2FV+%EA%B3%B5%EA%B0%9C" target="_blank"><img src="/image2010/delicious.gif" border="0" title="딜리셔스"></a></td>
+										<td style="padding-left:8px"><a href="https://favorites.live.com/quickadd.aspx?marklet=1&mkt=euc-kr&url=http%3A%2F%2Fwww.stardailynews.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D84153&title=%EB%A7%88%EB%A7%88%EB%AC%B4%2C+%EC%98%A4%EB%8A%98%2811%EC%9D%BC%29+%EC%A0%95%EC%98%A4+%ED%94%84%EB%A6%AC%EC%8B%B1%EA%B8%80+%271cm%EC%9D%98+%EC%9E%90%EC%A1%B4%EC%8B%AC%27+M%2FV+%EA%B3%B5%EA%B0%9C&top=1" target="_blank"><img src="/image2010/live.gif" border="0" title="라이브"></a></td>
+
+									</tr>
+								</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td height="10"></td>
+				</tr>
+
+<!--기사보내기끝-->
+				<tr>
+					<td height="20"></td>
+				</tr>
+				<tr>
+					<td align="center">
+						<!--책<script language="javascript" src="http://www.stardailynews.co.kr/bannerManager/inc/11.html"></script><!--책-->
+
+						<!-- AD Plus Script Start (스타데일리뉴스 쇼핑플러스 3타입)
+						<script language="javascript" src="http://adimg.wisenut.co.kr/common/js/amc/wiseAdSvc.pj?code=c2360169dc4e89a87ceaf4fa0559ea0e" type="text/javascript"></script>
+						<!-- AD Plus Script End -->
+
+					</td>
+				</tr>
+
+				
+
+				<tr>
+					<td>
+					<table width="670" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td height="28" align="left"><b style="padding-left:15px; font-size:14px; letter-spacing:-1px; color:#333333;"> </b> <b style="font-size:14px; letter-spacing:-1px; color:#CB262D;">인기기사</b> </td>
+						</tr>
+
+						<tr>
+							<td>
+							<table align="center" cellpadding="0" cellspacing="1" width="670" bgcolor="#E0E0E0">
+								<tr>
+									<td height="2" bgcolor="#015A84" width="100%"></td>
+								</tr>
+								<tr>
+									<td >
+										 <table align="center" cellpadding="0" cellspacing="0" width="670" bgcolor="#F6F6F6">
+											<tr>
+												<td style="padding-left:10px;padding-top:10px;padding-bottom:10px;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+					<tr>
+						<td width="7"><img src="/image2006/default/dot_new01.gif" border="0" hspace="3" align="absmiddle"></td>
+						<td class="main_article_t1"><div style="margin:0px; padding:0px; height:18px; line-height: 18px; overflow:hidden;" class="main_article_t1"><a href="/news/articleView.html?idxno=85170" target="_top">[권상집 칼럼] 악마의 계약, 프로듀스101 계약서 파문</a></div></td>
+						<!--<td width="70" align="right" style="font-family:verdana; font-size:11px; letter-spacing:-1px;">02.17 20:01</td>-->
+					</tr><tr>
+										<td height="3"></td>
+									</tr>
+		
+					<tr>
+						<td height="5"></td>
+					</tr>
+			
+					<tr>
+						<td width="7"><img src="/image2006/default/dot_new01.gif" border="0" hspace="3" align="absmiddle"></td>
+						<td class="main_article_t1"><div style="margin:0px; padding:0px; height:18px; line-height: 18px; overflow:hidden;" class="main_article_t1"><a href="/news/articleView.html?idxno=85148" target="_top">[S포토+] 이애란, '내가 왔다 전해라' (가온차트 K-POP 어워드)</a></div></td>
+						<!--<td width="70" align="right" style="font-family:verdana; font-size:11px; letter-spacing:-1px;">02.17 17:19</td>-->
+					</tr><tr>
+										<td height="3"></td>
+									</tr>
+		
+					<tr>
+						<td height="5"></td>
+					</tr>
+			
+					<tr>
+						<td width="7"><img src="/image2006/default/dot_new01.gif" border="0" hspace="3" align="absmiddle"></td>
+						<td class="main_article_t1"><div style="margin:0px; padding:0px; height:18px; line-height: 18px; overflow:hidden;" class="main_article_t1"><a href="/news/articleView.html?idxno=85147" target="_top">[S포토+] 백아연, '새하얀 드레스' (가온차트 K-POP 어워드)</a></div></td>
+						<!--<td width="70" align="right" style="font-family:verdana; font-size:11px; letter-spacing:-1px;">02.17 17:13</td>-->
+					</tr><tr>
+										<td height="3"></td>
+									</tr>
+		
+					<tr>
+						<td height="5"></td>
+					</tr>
+			
+					<tr>
+						<td width="7"><img src="/image2006/default/dot_new01.gif" border="0" hspace="3" align="absmiddle"></td>
+						<td class="main_article_t1"><div style="margin:0px; padding:0px; height:18px; line-height: 18px; overflow:hidden;" class="main_article_t1"><a href="/news/articleView.html?idxno=85115" target="_top">'정글의법칙' 측 "출연자들, 폭우로 귀국 지연.. 서강준·설현 이미 귀...</a></div></td>
+						<!--<td width="70" align="right" style="font-family:verdana; font-size:11px; letter-spacing:-1px;">02.17 13:30</td>-->
+					</tr><tr>
+										<td height="3"></td>
+									</tr>
+		
+					<tr>
+						<td height="5"></td>
+					</tr>
+			
+					<tr>
+						<td width="7"><img src="/image2006/default/dot_new01.gif" border="0" hspace="3" align="absmiddle"></td>
+						<td class="main_article_t1"><div style="margin:0px; padding:0px; height:18px; line-height: 18px; overflow:hidden;" class="main_article_t1"><a href="/news/articleView.html?idxno=85103" target="_top">'내 사위의 여자' 배우 설정환, "롤모델 이병헌"</a></div></td>
+						<!--<td width="70" align="right" style="font-family:verdana; font-size:11px; letter-spacing:-1px;">02.17 12:38</td>-->
+					</tr><tr>
+										<td height="3"></td>
+									</tr>
+		<tr>
+				<td height="7"></td>
+			</tr>
+			<tr>
+				<td height="1" colspan="3" bgcolor="#EAEAEA"></td>
+			</tr>
+			<tr>
+				<td height="7"></td>
+			</tr></table></td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+							<table><tr><td height="2"></td></tr></table>
+							</td>
+						</tr>
+						<tr>
+							<td height="10"></td>
+						</tr>
+
+						<tr>
+							<td>
+								<table width="670" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											<td>
+												<IFRAME src="http://www.stardailynews.co.kr/Autobox/690_photo_height.html" NORESIZE SCROLLING="no" HSPACE="0" VSPACE="0" FRAMEBORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" WIDTH="690" HEIGHT="320" align="center"></IFRAME>
+											</td>
+										</tr>
+								</table>
+							</td>
+						</tr>
+							
+
+
+					<!-- 포토슬라이드 -->
+					<tr>
+					<td>
+					<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+					<script type="text/javascript">
+					window.onload = function article_length(){
+						var tt = "/" + document.getElementsByName("Article").length;
+						document.getElementById("total").innerHTML = tt;
+					}
+					</script>
+						<table width="670" align="center" cellpadding=0 cellspacing=0 border=0 style="background:url(/box/box_news/640_sidePhoto_bg.gif) right top no-repeat #292929; margin-bottom:15px;"> 
+							<tr>
+								<td  align="center" style="padding-top:15px;">
+									<div id="Article_area">
+										<div style='position:absolute; width:20px; top:180px; left:350px; z-index:4; font-size:11px; display:none;'>
+											<b><span style='color:#ff0000;' id='number_v'>1</span></b><span style='color:#fff;' name='total' id  = 'total'></span>
+										</div>
+											 <div class="Article" name = "Article" id = "Article" style="display:block;"><h1><a  href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85428" target="_top"><img src="/news/photo/201602/85428_103733_4731.jpg" alt="[S포토+] 블루미, '눈웃음이 매력적인 그룹' (블루미 쇼케이스)" / class="Imagedd"></h1><h2>[S포토+] 블루미, '눈웃음이 매력적인 그룹' (블루미 쇼케이스)</h2> <span>[스타데일리뉴스=박병준 기자] 걸그룹 블루미(건영, 연지, 서연, 지윤)이 18일 오후, 서울 강남구 일지아트홀에서 데뷔 쇼케이스를 가졌다.이 자리에서 블루미는 데뷔곡인 '너 때문이야'와 '흥칫뿡'의 공연을 선보였다.</span></a></div>	 <div class="Article" name = "Article" id = "Article" style="display:none;"><h1><a  href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85427" target="_top"><img src="/news/photo/201602/85427_103732_4629.jpg" alt="[S포토+] 블루미, '단정한 소녀들' (블루미 쇼케이스)" / class="Imagedd"></h1><h2>[S포토+] 블루미, '단정한 소녀들' (블루미 쇼케이스)</h2> <span>[스타데일리뉴스=박병준 기자] 걸그룹 블루미(건영, 연지, 서연, 지윤)이 18일 오후, 서울 강남구 일지아트홀에서 데뷔 쇼케이스를 가졌다.이 자리에서 블루미는 데뷔곡인 '너 때문이야'와 '흥칫뿡'의 공연을 선보였다.</span></a></div>	 <div class="Article" name = "Article" id = "Article" style="display:none;"><h1><a  href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85425" target="_top"><img src="/news/photo/201602/85425_103731_442.jpg" alt="[S포토+] 블루미 연지, '앵두 같은 연지 입술' (블루미 쇼케이스)" / class="Imagedd"></h1><h2>[S포토+] 블루미 연지, '앵두 같은 연지 입술' (블루미 쇼케이스)</h2> <span>[스타데일리뉴스=박병준 기자] 걸그룹 블루미(건영, 연지, 서연, 지윤)이 18일 오후, 서울 강남구 일지아트홀에서 데뷔 쇼케이스를 가졌다.이 자리에서 블루미는 데뷔곡인 '너 때문이야'와 '흥칫뿡'의 공연을 선보였다.</span></a></div>	 <div class="Article" name = "Article" id = "Article" style="display:none;"><h1><a  href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85424" target="_top"><img src="/news/photo/201602/85424_103730_4127.jpg" alt="[S포토+] 블루미 건영, '조신하게 웃어야지' (블루미 쇼케이스)" / class="Imagedd"></h1><h2>[S포토+] 블루미 건영, '조신하게 웃어야지' (블루미 쇼케이스)</h2> <span>[스타데일리뉴스=박병준 기자] 걸그룹 블루미(건영, 연지, 서연, 지윤)이 18일 오후, 서울 강남구 일지아트홀에서 데뷔 쇼케이스를 가졌다.이 자리에서 블루미는 데뷔곡인 '너 때문이야'와 '흥칫뿡'의 공연을 선보였다.</span></a></div>	 <div class="Article" name = "Article" id = "Article" style="display:none;"><h1><a  href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85423" target="_top"><img src="/news/photo/201602/85423_103729_366.jpg" alt="[S포토+] 블루미, '인형 같은 4명의 소녀들' (블루미 쇼케이스)" / class="Imagedd"></h1><h2>[S포토+] 블루미, '인형 같은 4명의 소녀들' (블루미 쇼케이스)</h2> <span>[스타데일리뉴스=박병준 기자] 걸그룹 블루미(건영, 연지, 서연, 지윤)이 18일 오후, 서울 강남구 일지아트홀에서 데뷔 쇼케이스를 가졌다.이 자리에서 블루미는 데뷔곡인 '너 때문이야'와 '흥칫뿡'의 공연을 선보였다.</span></a></div>	 <div class="Article" name = "Article" id = "Article" style="display:none;"><h1><a  href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85422" target="_top"><img src="/news/photo/201602/85422_103728_3440.jpg" alt="[S포토+] 블루미 건영, '콕 찍었어' (블루미 쇼케이스)" / class="Imagedd"></h1><h2>[S포토+] 블루미 건영, '콕 찍었어' (블루미 쇼케이스)</h2> <span>[스타데일리뉴스=박병준 기자] 걸그룹 블루미(건영, 연지, 서연, 지윤)이 18일 오후, 서울 강남구 일지아트홀에서 데뷔 쇼케이스를 가졌다.이 자리에서 블루미는 데뷔곡인 '너 때문이야'와 '흥칫뿡'의 공연을 선보였다.</span></a></div>	 <div class="Article" name = "Article" id = "Article" style="display:none;"><h1><a  href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85421" target="_top"><img src="/news/photo/201602/85421_103727_3354.jpg" alt="[S포토+] 블루미 연지, '연지의 미모는 엄청나요' (블루미 쇼케이스)" / class="Imagedd"></h1><h2>[S포토+] 블루미 연지, '연지의 미모는 엄청나요' (블루미 쇼케이스)</h2> <span>[스타데일리뉴스=박병준 기자] 걸그룹 블루미(건영, 연지, 서연, 지윤)이 18일 오후, 서울 강남구 일지아트홀에서 데뷔 쇼케이스를 가졌다.이 자리에서 블루미는 데뷔곡인 '너 때문이야'와 '흥칫뿡'의 공연을 선보였다.</span></a></div>	 <div class="Article" name = "Article" id = "Article" style="display:none;"><h1><a  href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85420" target="_top"><img src="/news/photo/201602/85420_103726_3249.jpg" alt="[S포토+] 블루미 연지, '봄을 맞이하는 발랄함' (블루미 쇼케이스)" / class="Imagedd"></h1><h2>[S포토+] 블루미 연지, '봄을 맞이하는 발랄함' (블루미 쇼케이스)</h2> <span>[스타데일리뉴스=박병준 기자] 걸그룹 블루미(건영, 연지, 서연, 지윤)이 18일 오후, 서울 강남구 일지아트홀에서 데뷔 쇼케이스를 가졌다.이 자리에서 블루미는 데뷔곡인 '너 때문이야'와 '흥칫뿡'의 공연을 선보였다.</span></a></div>	 <div class="Article" name = "Article" id = "Article" style="display:none;"><h1><a  href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85419" target="_top"><img src="/news/photo/201602/85419_103724_3143.jpg" alt="[S포토+] 블루미 서연, '얼짱 고등학생 비주얼' (블루미 쇼케이스)" / class="Imagedd"></h1><h2>[S포토+] 블루미 서연, '얼짱 고등학생 비주얼' (블루미 쇼케이스)</h2> <span>[스타데일리뉴스=박병준 기자] 걸그룹 블루미(건영, 연지, 서연, 지윤)이 18일 오후, 서울 강남구 일지아트홀에서 데뷔 쇼케이스를 가졌다.이 자리에서 블루미는 데뷔곡인 '너 때문이야'와 '흥칫뿡'의 공연을 선보였다.</span></a></div>	 <div class="Article" name = "Article" id = "Article" style="display:none;"><h1><a  href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85417" target="_top"><img src="/news/photo/201602/85417_103723_3010.jpg" alt="[S포토+] 블루미 연지, '여동생 같은 매력' (블루미 쇼케이스)" / class="Imagedd"></h1><h2>[S포토+] 블루미 연지, '여동생 같은 매력' (블루미 쇼케이스)</h2> <span>[스타데일리뉴스=박병준 기자] 걸그룹 블루미(건영, 연지, 서연, 지윤)이 18일 오후, 서울 강남구 일지아트홀에서 데뷔 쇼케이스를 가졌다.이 자리에서 블루미는 데뷔곡인 '너 때문이야'와 '흥칫뿡'의 공연을 선보였다.</span></a></div>	 <div class="Article" name = "Article" id = "Article" style="display:none;"><h1><a  href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85416" target="_top"><img src="/news/photo/201602/85416_103722_2837.jpg" alt="[S포토+] 블루미, '이런 발랄한 소녀들 오랜만일세' (블루미 쇼케이스)" / class="Imagedd"></h1><h2>[S포토+] 블루미, '이런 발랄한 소녀들 오랜만일세' (블루미 쇼케이스)</h2> <span>[스타데일리뉴스=박병준 기자] 걸그룹 블루미(건영, 연지, 서연, 지윤)이 18일 오후, 서울 강남구 일지아트홀에서 데뷔 쇼케이스를 가졌다.이 자리에서 블루미는 데뷔곡인 '너 때문이야'와 '흥칫뿡'의 공연을 선보였다.</span></a></div>	 <div class="Article" name = "Article" id = "Article" style="display:none;"><h1><a  href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85415" target="_top"><img src="/news/photo/201602/85415_103721_2422.jpg" alt="[S영상] 블루미, 데뷔 쇼케이스 무대에서 매력 발산 '큐티 청순 발랄'" / class="Imagedd"></h1><h2>[S영상] 블루미, 데뷔 쇼케이스 무대에서 매력 발산 '큐티 청순 발랄'</h2> <span>[스타데일리뉴스=박병준 기자] 걸그룹 블루미(건영, 연지, 서연, 지윤)이 18일 오후, 서울 강남구 일지아트홀에서 데뷔 쇼케이스를 가졌다.이 자리에서 블루미는 데뷔곡인 '너 때문이야'와 '흥칫뿡'의 공연을 선보였다.</span></a></div>	 <div class="Article" name = "Article" id = "Article" style="display:none;"><h1><a  href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85414" target="_top"><img src="/news/photo/201602/85414_103718_2046.jpg" alt="[S포토+] 블루미 서연, '안돼요~ 눈웃음' (블루미 쇼케이스)" / class="Imagedd"></h1><h2>[S포토+] 블루미 서연, '안돼요~ 눈웃음' (블루미 쇼케이스)</h2> <span>[스타데일리뉴스=박병준 기자] 걸그룹 블루미(건영, 연지, 서연, 지윤)이 18일 오후, 서울 강남구 일지아트홀에서 데뷔 쇼케이스를 가졌다.이 자리에서 블루미는 데뷔곡인 '너 때문이야'와 '흥칫뿡'의 공연을 선보였다.</span></a></div>	 <div class="Article" name = "Article" id = "Article" style="display:none;"><h1><a  href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85412" target="_top"><img src="/news/photo/201602/85412_103717_1920.jpg" alt="[S포토+] 블루미 건영, '얘 좀 보래요~' (블루미 쇼케이스)" / class="Imagedd"></h1><h2>[S포토+] 블루미 건영, '얘 좀 보래요~' (블루미 쇼케이스)</h2> <span>[스타데일리뉴스=박병준 기자] 걸그룹 블루미(건영, 연지, 서연, 지윤)이 18일 오후, 서울 강남구 일지아트홀에서 데뷔 쇼케이스를 가졌다.이 자리에서 블루미는 데뷔곡인 '너 때문이야'와 '흥칫뿡'의 공연을 선보였다.</span></a></div>	 <div class="Article" name = "Article" id = "Article" style="display:none;"><h1><a  href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85411" target="_top"><img src="/news/photo/201602/85411_103716_1836.jpg" alt="[S포토+] 블루미 연지, '만두미의 새로운 얼굴 등장' (블루미 쇼케이스)" / class="Imagedd"></h1><h2>[S포토+] 블루미 연지, '만두미의 새로운 얼굴 등장' (블루미 쇼케이스)</h2> <span>[스타데일리뉴스=박병준 기자] 걸그룹 블루미(건영, 연지, 서연, 지윤)이 18일 오후, 서울 강남구 일지아트홀에서 데뷔 쇼케이스를 가졌다.이 자리에서 블루미는 데뷔곡인 '너 때문이야'와 '흥칫뿡'의 공연을 선보였다.</span></a></div>	 <div class="Article" name = "Article" id = "Article" style="display:none;"><h1><a  href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85410" target="_top"><img src="/news/photo/201602/85410_103715_1734.jpg" alt="[S포토+] 블루미 연지, '같이 놀아요' (블루미 쇼케이스)" / class="Imagedd"></h1><h2>[S포토+] 블루미 연지, '같이 놀아요' (블루미 쇼케이스)</h2> <span>[스타데일리뉴스=박병준 기자] 걸그룹 블루미(건영, 연지, 서연, 지윤)이 18일 오후, 서울 강남구 일지아트홀에서 데뷔 쇼케이스를 가졌다.이 자리에서 블루미는 데뷔곡인 '너 때문이야'와 '흥칫뿡'의 공연을 선보였다.</span></a></div>	 <div class="Article" name = "Article" id = "Article" style="display:none;"><h1><a  href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85407" target="_top"><img src="/news/photo/201602/85407_103713_133.jpg" alt="[S포토+] 고경표, '편안한 비주얼' (꽃보다 청춘 아프리카)" / class="Imagedd"></h1><h2>[S포토+] 고경표, '편안한 비주얼' (꽃보다 청춘 아프리카)</h2> <span>[스타데일리뉴스=윤수정 기자] tvN '꽃보다 청춘 아프리카' 제작발표회가 18일 오후, 서울 강남구 임피리얼 팰리스에서 열렸다.이 자리에는 안재홍, 류준열, 고경표, 박보검, 나영석PD, 이진주PD, 김대주 작가가 참석해 자리를 빛냈다.한편, tvN '꽃보다 청춘 아프리카'편은 드라마 ‘응답하라 1988’</span></a></div>	 <div class="Article" name = "Article" id = "Article" style="display:none;"><h1><a  href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85406" target="_top"><img src="/news/photo/201602/85406_103712_022.jpg" alt="[S포토+] 박보검, '감사함을 전파하는 사람' (꽃보다 청춘 아프리카)" / class="Imagedd"></h1><h2>[S포토+] 박보검, '감사함을 전파하는 사람' (꽃보다 청춘 아프리카)</h2> <span>[스타데일리뉴스=윤수정 기자] tvN '꽃보다 청춘 아프리카' 제작발표회가 18일 오후, 서울 강남구 임피리얼 팰리스에서 열렸다.이 자리에는 안재홍, 류준열, 고경표, 박보검, 나영석PD, 이진주PD, 김대주 작가가 참석해 자리를 빛냈다.한편, tvN '꽃보다 청춘 아프리카'편은 드라마 ‘응답하라 1988’</span></a></div>	 <div class="Article" name = "Article" id = "Article" style="display:none;"><h1><a  href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85405" target="_top"><img src="/news/photo/201602/85405_103711_5913.jpg" alt="[S포토+] 류준열, '매력적인 보조개' (꽃보다 청춘 아프리카)" / class="Imagedd"></h1><h2>[S포토+] 류준열, '매력적인 보조개' (꽃보다 청춘 아프리카)</h2> <span>[스타데일리뉴스=윤수정 기자] tvN '꽃보다 청춘 아프리카' 제작발표회가 18일 오후, 서울 강남구 임피리얼 팰리스에서 열렸다.이 자리에는 안재홍, 류준열, 고경표, 박보검, 나영석PD, 이진주PD, 김대주 작가가 참석해 자리를 빛냈다.한편, tvN '꽃보다 청춘 아프리카'편은 드라마 ‘응답하라 1988’</span></a></div>	 <div class="Article" name = "Article" id = "Article" style="display:none;"><h1><a  href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85404" target="_top"><img src="/news/photo/201602/85404_103710_5625.jpg" alt="[S포토+] 박보검 고경표, '얼굴만 봐도 웃음이' (꽃보다 청춘 아프리카)" / class="Imagedd"></h1><h2>[S포토+] 박보검 고경표, '얼굴만 봐도 웃음이' (꽃보다 청춘 아프리카)</h2> <span>[스타데일리뉴스=윤수정 기자] tvN '꽃보다 청춘 아프리카' 제작발표회가 18일 오후, 서울 강남구 임피리얼 팰리스에서 열렸다.이 자리에는 안재홍, 류준열, 고경표, 박보검, 나영석PD, 이진주PD, 김대주 작가가 참석해 자리를 빛냈다.한편, tvN '꽃보다 청춘 아프리카'편은 드라마 ‘응답하라 1988’</span></a></div>										<div class="Article_left"></div>
+										<div class="Article_right"></div>	
+									</div>
+								</td>
+							</tr>
+						<tr>
+								<td align="center" height="10" style="padding:10px 0;"></td>
+								</tr>
+						</table >
+						<script language="JavaScript">
+						<!--
+							 //$('.time_ctrl')
+							
+							 status_point = 0;
+							 status_total_length = $('.Article').length;
+							 status_stop = 0;
+							 status_modify = 0;
+
+							 // 마우스 접근하면 자동변경 중지
+							$('#Article_area').mouseover(function() {
+								status_stop = 1;
+							});
+
+							 // 마우스 이탈하면 자동변경 시작
+							$('#Article_area').mouseout(function() {
+								status_stop = 0;
+							});
+
+							$('.Article_left').click(function() {
+								status_modify = 1;
+								time_ctrl_move('m','');		
+								status_modify = 0;
+							});
+
+							$('.Article_right').click(function() {
+								status_modify = 1;
+								time_ctrl_move('p','');		
+								status_modify = 0;
+							});
+
+
+							function time_ctrl_move(mode, tg) {
+								if(status_stop == 0 || status_modify == 1) {
+									
+									var temp_status_point = '';
+
+									if(mode == 'p') {
+										temp_status_point = status_point + 1;
+										if(temp_status_point > status_total_length-1) temp_status_point = 0;
+									}
+									else if(mode == 'm') {
+										temp_status_point = status_point - 1;
+										if(temp_status_point < 0) temp_status_point = status_total_length - 1;
+									}
+
+									document.getElementById("number_v").innerHTML = temp_status_point + 1;
+
+									$($('.Article')[status_point]).hide();
+									$($('.Article')[temp_status_point]).show();
+									status_point = temp_status_point;
+								}
+							}
+
+							 // 3초 간격으로 작동
+							 window.setInterval(function () {
+								time_ctrl_move('p','');
+							 },4000);
+						//-->
+						</script>
+
+					</td>
+					</tr>
+					<!-- 포토슬라이드 -->
+					</table>
+					
+
+					<div align="center"><!--SCRIPT type='text/javascript' src='http://rsense-ad.realclick.co.kr/rsense/rsense_ad.js?rid=49165239714' charset='euc-kr'></SCRIPT--></div>
+
+<!-- AD Plus Script Start -->
+<script language="javascript" src="http://adimg.wisenut.co.kr/common/js/amc/wiseAdSvc.pj?code=ec13ed15a27b27991a2d164711e39405" type="text/javascript"></script>
+<!-- AD Plus Script End -->
+
+			
+					<center>
+						<!--150521 배너 등록-->  
+						<table width="620" border="0" align="center" cellpadding="0" cellspacing="0">
+							<tr>
+								<td width="50%">
+									<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+									<!-- BottomLeft_300x250 -->
+									<ins class="adsbygoogle"
+										 style="display:inline-block;width:300px;height:250px"
+										 data-ad-client="ca-pub-7082780632981926"
+										 data-ad-slot="4114699378"
+									data-ad-region="1"></ins>
+									<script>
+									(adsbygoogle = window.adsbygoogle || []).push({});
+									</script>
+								</td>
+								<td width="50%">
+									<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+									<!-- BottomRight_300x250 -->
+									<ins class="adsbygoogle"
+										 style="display:inline-block;width:300px;height:250px"
+										 data-ad-client="ca-pub-7082780632981926"
+										 data-ad-slot="5591432572"
+									data-ad-region="1"></ins>
+									<script>
+									(adsbygoogle = window.adsbygoogle || []).push({});
+									</script>
+								</td>
+							</tr>
+						</table>
+						<!-- adop -->
+						<!--<iframe id='S11102' src='http://cdn03.sndkorea.co.kr/media/stardaily/S11102.html' scrolling='no' border='0' marginWidth='0' marginHeight='0' frameBorder='0' width='630px' height='120px'></iframe>-->
+						<!-- <iframe id='S11102' src='http://cdn04.sndkorea.co.kr/new/media/stardaily/S11102.html' scrolling='no' border='0' marginWidth='0' marginHeight='0' frameBorder='0' width='630px' height='120px'></iframe> -->
+						
+						<!-- RealClick_Bottom_480x80  150521 배너내림
+						<div id='div-gpt-ad-1387536403661-0' style='width:480px; height:100px;'>
+						<script type='text/javascript'>
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1387536403661-0'); });
+						</script>
+						</div>-->
+
+						<!-- adop End -->
+
+						<!-- <SCRIPT type='text/javascript' src='http://rsense-ad.realclick.co.kr/rsense/rsense_ad.js?rid=491652314577&amp;stamp=1313474122' charset='euc-kr'></SCRIPT> -->
+						<!--<table width="600" border="0" cellpadding="3" cellspacing="0"><tr><td height='10'></td></tr></table>
+							<!-- AD Plus Script Start -->
+							<!-- 0627<script language="javascript" src="http://adimg.wisenut.co.kr/common/js/amc/wiseAdSvc.pj?code=e434b3fa4b8f65c6ab45e13abbce8591" type="text/javascript"></script>-->
+							<!-- AD Plus Script End -->
+						<!--</center>
+
+						<center style="margin-top:5px;">
+						 리얼클릭<SCRIPT type='text/javascript' src='http://rsense-ad.realclick.co.kr/rsense/rsense_ad.js?rid=49165239714&amp;stamp=1311734734' charset='euc-kr'></SCRIPT>리얼클릭 -->
+                        <!-- BEGIN STANDARD TAG - 468 x 60 - - DO NOT MODIFY --> 
+						<!-- <IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=468 HEIGHT=60 SRC="http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=468x60&entity=318165&site_code=JOINS_STARDAILY&section_code=SB_468x60"></IFRAME> -->
+
+						<!-- 0627<SCRIPT type='text/javascript' src='http://rsense-ad.realclick.co.kr/rsense/rsense_ad.js?rid=491652331495&amp;stamp=1328685001' charset='euc-kr'></SCRIPT> -->
+						
+						 <!-- Bottom_468x60 -->
+
+						<!-- 구글애드센스 이미지광고 468*60 120430 End -->
+
+						<!-- END TAG 
+						<table width="600" border="0" cellpadding="3" cellspacing="0"><tr><td height='10'></td></tr></table>-->
+						<!-- BEGIN STANDARD TAG - 468 x 60 -  - DO NOT MODIFY -->
+
+						<!-- 0627 <IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=468 HEIGHT=60 SRC="http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=468x60&entity=318165&site_code=JOINS_STARDAILY&section_code=SB_468x60"></IFRAME>
+
+						 END TAG -->
+
+
+						</center>
+
+
+								</td>
+				</tr>
+				<tr>
+					<td height="20"></td>
+				</tr>
+
+				<tr>
+					<td>
+						<table width="640" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td height="1" colspan="2" background="http://www.stardailynews.co.kr/image2006/default/dot1.gif"></td>
+							</tr>
+							<tr>
+								<td height="26" colspan="2" align="right"><span style="font-size:9pt; line-height:5mm;"><font color="#333333">ⓒ 스타데일리뉴스(http://www.stardailynews.co.kr) 무단전재 및 재배포금지 | <a href="http://www.stardailynews.co.kr/com/copy.html"><font color="#333333">저작권문의</font></a>&nbsp;&nbsp;</font></span></td>
+							</tr>
+							<tr>
+								<td height="1" colspan="2" background="http://www.stardailynews.co.kr/image2006/default/dot1.gif"></td>
+							</tr>
+							<tr>
+								<td align="left">
+									<table border="0" cellspacing="0" cellpadding="2">
+										<tr>
+											<td><p><a href="javascript:history.back();"><img src="http://www.stardailynews.co.kr/image2006/default/btn_back2.gif" width="26" height="10" border="0"></a></p></td>
+											<td><p><a href="javascript:scroll(0,0);"><img src="http://www.stardailynews.co.kr/image2006/default/btn_top.gif" width="29" height="10" border="0"></a></p></td>
+										</tr>
+									</table>
+								</td>
+								<td height="26" align="right">
+									<table border="0" cellspacing="0" cellpadding="0">
+										<tr>
+      							  			<!--<td><img src="http://www.stardailynews.co.kr/image2006/default/btn_golist.gif" width="55" height="12"></td>
+       				 						<td width="10">&nbsp;</td>//-->
+			        						<td><a href="javascript:articleMail('84153');"><img src="http://www.stardailynews.co.kr/image2006/default/btn_send.gif" width="69" height="12" border="0"></a></td>
+     						   				<td width="10">&nbsp;</td>
+        									<td><a href="javascript:articleErr('84153');"><img src="http://www.stardailynews.co.kr/image2006/default/btn_ermail.gif" width="57" height="12" border="0"></a></td>
+			        						<td width="10">&nbsp;</td>
+        									<td><a href="javascript:articlePrint('84153');"><img src="http://www.stardailynews.co.kr/image2006/default/btn_print.gif" width="46" height="12" border="0"></a></td>
+        									<td width="10">&nbsp;</td>
+			        					</tr>
+        							</table>
+       			 				</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+
+					</td>
+				</tr>
+			</table>
+            <!-- <table><tr><Td>
+            <script language="javascript" src="http://ads.korea.com/RealMedia/ads/adstream_jx.ads/stardailynews.co.kr/Sub@Bottom1"></script>
+
+            </Td></tr></table> -->
+
+			<table width="100%" border="0" cellpadding="0" cellspacing="0">
+			<tr>
+				<td>
+					<IFRAME src="http://www.stardailynews.co.kr/Autobox/690_photobox.html" NORESIZE SCROLLING="no" HSPACE="0" VSPACE="0" FRAMEBORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" WIDTH="690" HEIGHT="320" align="center"></IFRAME>
+				</td>
+			</tr>
+			</table>
+
+			<table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td height="15"></td></tr></table>
+
+
+<form name="articleReplyForm" method="post" action="articleReply.php">
+		<table width="690" border="0" cellspacing="0" cellpadding="0">
+        	<tr>
+          		<td width="168" height="34" background="http://www.stardailynews.co.kr/image2006/default/reply_topbg.gif"><span style="font-size:10pt; line-height:5mm;"><font color="#004E73"><img src="http://www.stardailynews.co.kr/image2006/default/reply_tit.gif" width="115" height="34"></font></span></td>
+          		<td width="522" align="right" background="http://www.stardailynews.co.kr/image2006/default/reply_topbg.gif"><span style="font-size:8pt; line-height:4mm;"><font face="돋움" color="#666666"><b>전체기사의견</b><font face="돋움" color="#000000">(0)</font>&nbsp;&nbsp;</font></span></td>
+        	</tr>
+        	<tr align="center" bgcolor="FBFAF7">
+        		
+        		<input type="hidden" name="prt_idxno" value="84153">
+          		<td height="85" colspan="2">
+          			<table border="0" cellspacing="0" cellpadding="0">
+              			<tr>
+                			<td height="55" valign="bottom">
+                				<table  border="0" cellspacing="0" cellpadding="2">
+                  					<tr>
+                    					<td><img src="http://www.stardailynews.co.kr/image2006/default/reply_name.gif" width="18" height="10"></td>
+                    					<td><input type="text" name="name" value="" size="15" class="input1"></td>
+                    					<td><img src="http://www.stardailynews.co.kr/image2006/default/reply_pw.gif" width="36" height="10"></td>
+                    					<td><input type="password" name="password" size="15" class="input1"></td>
+                    					<td><img src="http://www.stardailynews.co.kr/image2006/default/reply_mail.gif" width="26" height="10"></td>
+                    					<td><input type="text" name="email" value="" size="30" class="input1"></td>
+                  					</tr>
+                 					<tr>
+                    					<td><img src="http://www.stardailynews.co.kr/image2006/default/reply_subject.gif" width="18" height="10"></td>
+                    					<td colspan="5"><input type="text" name="title" size="83" class="input1"></td>
+                    				</tr>
+                				</table>
+                			</td>
+                			<td>&nbsp;</td>
+              			</tr>
+              			<tr>
+                			<td><textarea name="content" id="content" cols="85" rows="4" class="input1" onKeyUp="checkMsgLength('content','nbyte1',400);"></textarea></td>
+                			<td width="87" align="right"><a href="javascript:articleReplySubmit(document.articleReplyForm);"><img src="http://www.stardailynews.co.kr/image2006/default/btn_reply3.gif" width="85" height="65" border="0"></a></td>
+              			</tr>
+          			</table>
+          		</td>
+        	</tr>
+        	<tr bgcolor="FBFAF7">
+          		<td height="36" colspan="2"><span style="font-size:8pt; line-height:4mm; letter-spacing:-0.3mm;"><font face="돋움" color="#666666">&nbsp;&nbsp;&nbsp;* <!--<b>의견쓰기는 로그인후에 가능하며,</b>//--> <b>200자까지 쓰실 수 있습니다.</b> (현재 <span id='nbyte1'>0</span> byte/최대 400byte) <br>
+          		&nbsp;&nbsp;&nbsp;* 욕설등 인신공격성 글은 삭제 합니다. <b>[운영원칙]</b></font></span></td>
+        	</tr>
+        	<tr bgcolor="D8D8D8">
+          		<td height="1" colspan="2"></td>
+        	</tr></table></form><table width="690" border="0" cellspacing="0" cellpadding="0">
+        	<tr>
+          		<td colspan="2">
+          			<table width="690" border="0" cellspacing="0" cellpadding="0">
+              		<tr>
+                		<td height="10" colspan="3"></td>
+              		</tr>
+              		
+            	</table>
+            </td>
+        </tr>
+        <tr align="center" bgcolor="F8F8F8">
+       		<td height="26" colspan="2"><span style="font-size:9pt; line-height:4mm; letter-spacing:-1pt;"><font face="돋움" color="#666666"><b>전체기사의견</b><font face="돋움" color="#000000">(0)</font></font></span></td>
+        </tr>
+        <tr bgcolor="D8D8D8">
+          	<td height="1" colspan="2"></td>
+        </tr>
+	</table>
+  		
+
+
+		</td>
+		<td width="20"></td>
+		<td width="250" align="right" valign="top">
+
+
+
+
+
+<table align="center" cellpadding="0" cellspacing="0" width="250">	
+<script language="JavaScript" type="text/javascript">
+  		<!--
+  			function viewPhoto(idxno) {
+				var url = "photoView.html?idxno=" + idxno;					
+				window.open(url, 'photoView', 'width=640, height=500, scrollbars=yes');
+			}
+  		//-->
+		</script>			
+			</table><table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td align="center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- RightTop_250x250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:250px;height:250px"
+     data-ad-client="ca-pub-7082780632981926"
+     data-ad-slot="2658963770"
+  data-ad-region="3"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+			</tr>
+		</table><table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td align="center"><table>
+<tr>
+<td height="2"></td>
+</tr>
+</table></td>
+			</tr>
+		</table><table align="center" cellpadding="0" cellspacing="0" width="250" background="/box/box_news/250_n_bg01.gif">
+    <tr>
+        <td height="8"><img src="/box/box_news/250_n_top04.gif" border="0"></td>
+    </tr>
+    <tr>
+        <td>
+             <table align="center" cellpadding="0" cellspacing="0" width="220"><tr><td>
+<script type="text/javascript">
+// 버튼박스
+jQuery(function() {
+
+	// 배너
+	var obj = {
+		page_layer_name : '.PhotoLayerTypeC_56'
+		,page_move_ctrl_name : '.ArrTypeC_56'
+		,page_top_area : '.PhotoWrapTypeC_56'
+		,page_num : 1
+		,page_buffer:0
+		,page_point:0
+		,page_auto_play : true
+		,page_auto_time : 3000
+
+	};
+	pageLayer(obj).page_load();
+
+});
+</script>
+
+<div class='PhotoWrapTypeC_56' style='display:block; overflow:hidden; width:100%; height:165px; position:relative;'>
+
+<button class='PhotoBoxArrow ArrTypeC_56' style='width:15px; height:16px; right:20px; bottom:9px; background-position:left -120px;' cmd='prev'>PREV</button>
+<button class='PhotoBoxArrow ArrTypeC_56' style='width:14px; height:16px; right:6px; bottom:9px; background-position:-16px -120px;' cmd='next'>NEXT</button>
+<div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_56" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85170" target="_top" class="FtColor_typeF">[권상집 칼럼] 악마의 계약, 프로듀스101 계약서 파문</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85170" target="_top"><img src="/news/photo/201602/85170_103461_245.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[권상집 칼럼] 악마의 계약, 프로듀스101 계약서 파문"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_56" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85148" target="_top" class="FtColor_typeF">[S포토+] 이애란, '내가 왔다 전해라' (가온차트 K-POP 어워드)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85148" target="_top"><img src="/news/photo/201602/85148_103433_1934.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 이애란, '내가 왔다 전해라' (가온차트 K-POP 어워드)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_56" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85147" target="_top" class="FtColor_typeF">[S포토+] 백아연, '새하얀 드레스' (가온차트 K-POP 어워드)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85147" target="_top"><img src="/news/photo/201602/85147_103432_175.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 백아연, '새하얀 드레스' (가온차트 K-POP 어워드)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_56" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85115" target="_top" class="FtColor_typeF">'정글의법칙' 측 "출연자들, 폭우로 귀국 지연.. 서강준·설현 이미 귀국"</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85115" target="_top"><img src="/news/photo/201602/85115_103391_3329.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="'정글의법칙' 측 "출연자들, 폭우로 귀국 지연.. 서강준·설현 이미 귀국""></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_56" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85103" target="_top" class="FtColor_typeF">'내 사위의 여자' 배우 설정환, "롤모델 이병헌"</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85103" target="_top"><img src="/news/photo/201602/85103_103380_3926.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="'내 사위의 여자' 배우 설정환, "롤모델 이병헌""></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_56" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85039" target="_top" class="FtColor_typeF">[김윤석의 드라마톡] 육룡이 나르샤 40회 "분이의 선택, 백성은 오로지 백성으로서 살아남는다"</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85039" target="_top"><img src="/news/photo/201602/85039_103308_727.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[김윤석의 드라마톡] 육룡이 나르샤 40회 "분이의 선택, 백성은 오로지 백성으로서 살아남는다""></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_56" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85066" target="_top" class="FtColor_typeF">'장사의 신' 종방연, 12일 이미 마쳤다.. 장혁 안재모 한채아 등 '현장 사진' 공개</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85066" target="_top"><img src="/news/photo/201602/85066_103339_2227.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="'장사의 신' 종방연, 12일 이미 마쳤다.. 장혁 안재모 한채아 등 '현장 사진' 공개"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_56" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85307" target="_top" class="FtColor_typeF">[김윤석의 드라마톡] 리멤버 아들의 전쟁 19회 "엉성하지만 통쾌한, 남규만을 잡다!"</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85307" target="_top"><img src="/news/photo/201602/85307_103601_2840.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[김윤석의 드라마톡] 리멤버 아들의 전쟁 19회 "엉성하지만 통쾌한, 남규만을 잡다!""></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_56" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85249" target="_top" class="FtColor_typeF">[S포토+] 손여은 오민석, '강예원이 이 사진을 싫어합니다?' (가온차트 K-POP 어워드)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85249" target="_top"><img src="/news/photo/201602/85249_103538_3126.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 손여은 오민석, '강예원이 이 사진을 싫어합니다?' (가온차트 K-POP 어워드)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_56" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85163" target="_top" class="FtColor_typeF">'가온차트' 백아연, 올해의 핫 트렌드상 수상 "박진영 PD님, 감사해요"</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85163" target="_top"><img src="/news/photo/201602/85163_103449_2023.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="'가온차트' 백아연, 올해의 핫 트렌드상 수상 "박진영 PD님, 감사해요""></a></div>
+		</div>
+		</div></div><table cellpadding="0" cellspacing="1" width="100%" bgcolor="white" align="center" >
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num1.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85170" target="_top">[권상집 칼럼] 악마의 계약, 프</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num2.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85148" target="_top">[S포토+] 이애란, '내가 왔다</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num3.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85147" target="_top">[S포토+] 백아연, '새하얀 드</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num4.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85115" target="_top">'정글의법칙' 측 "출연자들, 폭</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num5.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85103" target="_top">'내 사위의 여자' 배우 설정환,</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num6.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85039" target="_top">[김윤석의 드라마톡] 육룡이 나르</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num7.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85066" target="_top">'장사의 신' 종방연, 12일 이</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num8.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85307" target="_top">[김윤석의 드라마톡] 리멤버 아들</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num9.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85249" target="_top">[S포토+] 손여은 오민석, '강</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num10.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85163" target="_top">'가온차트' 백아연, 올해의 핫 </a></td>
+			</tr>				
+		</table></td></tr></table>
+</td>
+    </tr>    
+    <tr>
+        <td><img src="/box/box_news/250_n_dn01.gif" width="250" height="10" border="0"></td>
+    </tr>
+</table><table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td align="center"><table>
+<tr>
+<td height="2"></td>
+</tr>
+</table></td>
+			</tr>
+		</table><table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td align="center"><!--<script type="text/javascript" src="http://ad.ilikesponsorad.com/ad/ad.js?adImpMgrCode=19439&width=250&height=250"></script>-->
+
+<script type="text/javascript" src="http://ad.ilikesponsorad.com/ad/ad.js?adImpMgrCode=19438&width=250&height=250&apu=http://cache.ilikesponsorad.com/images/ad/blank.png"></script></td>
+			</tr>
+		</table><table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td align="center"><table>
+<tr>
+<td height="2"></td>
+</tr>
+</table></td>
+			</tr>
+		</table><table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td align="center"><!--<script>
+var n2s_scriptLoaded = false;
+function n2s_ads_callback(arg){if(arg=='none'){ etcADOPBanner(_ZONEID_, '_NETCOMNO_');}}
+function check_n2s_ScriptLoaded(){if(n2s_scriptLoaded){n2s_ads_callback("none");}}
+document.write("<sc"+"ript type='text/javascript' src='http://search.n2s.co.kr/_n2s_adop_adinfo.php?id=stardailyadop&cd=stardaily_rightmiddle2_250x250' onError='n2s_scriptLoaded=true;check_n2s_ScriptLoaded();'></scr"+"ipt>");
+</script>-->
+
+<script type="text/javascript"><!--//<![CDATA[
+var wt = "250";
+var ht = "250"; 
+var u = "http://search.n2s.co.kr/_n2s_adopunion_adinfo.php?id=stardailyadop&cd=stardaily_rightbottom_250x250&wt="+wt+"&ht="+ht;
+u += "&loc=" + escape(window.location); 
+var ifr=document.createElement("iframe");ifr.frameBorder="0";ifr.scrolling="no";ifr.width=wt+"px";ifr.height=ht+"px";ifr.setAttribute("src",u);ifr.setAttribute("marginwidt","0");ifr.setAttribute("marginheight","0");ifr.setAttribute("vspace","0");ifr.setAttribute("hspace","0");ifr.setAttribute("allowtransparency","true");document.write(ifr.outerHTML);
+//]]>--></script></td>
+			</tr>
+		</table><table align="center" cellpadding="0" cellspacing="0" width="250" background="/box/box_news/250_n_bg01.gif">
+    <tr>
+        <td height="8"><img src="http://www.stardailynews.co.kr/box/box_news/250_n_top09.gif"></td>
+    </tr>
+    <tr>
+        <td>
+             <table align="center" cellpadding="0" cellspacing="0" width="220"><tr><td>
+<script type="text/javascript">
+// 버튼박스
+jQuery(function() {
+
+	// 배너
+	var obj = {
+		page_layer_name : '.PhotoLayerTypeC_42'
+		,page_move_ctrl_name : '.ArrTypeC_42'
+		,page_top_area : '.PhotoWrapTypeC_42'
+		,page_num : 1
+		,page_buffer:0
+		,page_point:0
+		,page_auto_play : true
+		,page_auto_time : 3000
+
+	};
+	pageLayer(obj).page_load();
+
+});
+</script>
+
+<div class='PhotoWrapTypeC_42' style='display:block; overflow:hidden; width:100%; height:165px; position:relative;'>
+
+<button class='PhotoBoxArrow ArrTypeC_42' style='width:15px; height:16px; right:20px; bottom:9px; background-position:left -120px;' cmd='prev'>PREV</button>
+<button class='PhotoBoxArrow ArrTypeC_42' style='width:14px; height:16px; right:6px; bottom:9px; background-position:-16px -120px;' cmd='next'>NEXT</button>
+<div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_42" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=84082" target="_top" class="FtColor_typeF">[단독] 배우 정경호, 오늘(8일) 조부상.. 11일 발인</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=84082" target="_top"><img src="/news/photo/201602/84082_102199_4326.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독] 배우 정경호, 오늘(8일) 조부상.. 11일 발인"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_42" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=81125" target="_top" class="FtColor_typeF">[단독 S영상] 토니안, '이 남자의 시크한 출국길'</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=81125" target="_top"><img src="/news/photo/201601/81125_98850_3443.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독 S영상] 토니안, '이 남자의 시크한 출국길'"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_42" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=80574" target="_top" class="FtColor_typeF">[단독 S영상] 유재석 이광수 김종국 등, 박지성 자선경기에 등장한 런닝맨들</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=80574" target="_top"><img src="/news/photo/201601/80574_98198_146.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독 S영상] 유재석 이광수 김종국 등, 박지성 자선경기에 등장한 런닝맨들"></a></div>
+		</div>
+		</div></div><table cellpadding="0" cellspacing="1" width="100%" bgcolor="white" align="center" style='margin-top:10px;'>
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num1.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=84082" target="_top">[단독] 배우 정경호, 오늘(8일</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num2.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=81125" target="_top">[단독 S영상] 토니안, '이 남</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num3.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=80574" target="_top">[단독 S영상] 유재석 이광수 김</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num4.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=75030" target="_top">[단독] 유오성, 김우빈 수지 주</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num5.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=73899" target="_top">[단독 S영상] 채수빈 강민아 지</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num6.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=73264" target="_top">[단독] 배우 정혜성, '오 마이</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num7.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=72784" target="_top">[단독 S영상] FT아일랜드, 한</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num8.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=72555" target="_top">[단독 S영상] MBC 유선경 아</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num9.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=71925" target="_top">[단독 S영상] AOA 대만 팬미</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num10.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=70702" target="_top">[단독] 김석민♥임선영 어제 20</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num11.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=67666" target="_top">[단독 S영상] 하지원 메이크업,</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num12.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=63041" target="_top">[단독 S영상] FT아일랜드, 중</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num13.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=61975" target="_top">[단독] '당구여신' 차유람 결혼</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num14.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=61810" target="_top">[단독 S영상] 정우성 산다라박 </a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num15.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=61128" target="_top">[단독 S영상] 걸스데이 입국현장</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num16.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=60949" target="_top">[단독 S영상] 나나 공항패션, </a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num17.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=59133" target="_top">[단독 S영상] 가수 비(정지훈)</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num18.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=58388" target="_top">[단독] 오민석, '감옥에서 온 </a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num19.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=56697" target="_top">[단독 S영상] 제34회 홍콩 금</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num20.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=56595" target="_top">[단독] 배우 김유석, tvN '</a></td>
+			</tr>				
+		</table><table cellpadding="0" width="100%" height="15px" align="center"><tr><td></td></tr></table>
+<script type="text/javascript">
+// 버튼박스
+jQuery(function() {
+
+	// 배너
+	var obj = {
+		page_layer_name : '.PhotoLayerTypeC_61'
+		,page_move_ctrl_name : '.ArrTypeC_61'
+		,page_top_area : '.PhotoWrapTypeC_61'
+		,page_num : 1
+		,page_buffer:0
+		,page_point:0
+		,page_auto_play : true
+		,page_auto_time : 3000
+
+	};
+	pageLayer(obj).page_load();
+
+});
+</script>
+
+<div class='PhotoWrapTypeC_61' style='display:block; overflow:hidden; width:100%; height:165px; position:relative;'>
+
+<button class='PhotoBoxArrow ArrTypeC_61' style='width:15px; height:16px; right:20px; bottom:9px; background-position:left -120px;' cmd='prev'>PREV</button>
+<button class='PhotoBoxArrow ArrTypeC_61' style='width:14px; height:16px; right:6px; bottom:9px; background-position:-16px -120px;' cmd='next'>NEXT</button>
+<div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_61" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=54767" target="_top" class="FtColor_typeF">[단독] '파랑새의 집' 채수빈, '카페라떼' 광고서 '밀크남' 유연석과 '호흡'</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=54767" target="_top"><img src="/news/photo/201503/54767_67694_5859.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독] '파랑새의 집' 채수빈, '카페라떼' 광고서 '밀크남' 유연석과 '호흡'"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_61" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=54761" target="_top" class="FtColor_typeF">[단독] 배우 오현경, 심엔터와 전속 계약 유력 '김윤석 주원 유해진과 한솥밥?</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=54761" target="_top"><img src="/news/photo/201503/54761_67684_28.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독] 배우 오현경, 심엔터와 전속 계약 유력 '김윤석 주원 유해진과 한솥밥?"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_61" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=52715" target="_top" class="FtColor_typeF">[단독 HD+] 이세은 결혼 본식 사진 공개</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=52715" target="_top"><img src="/news/photo/201503/52715_65236_2123.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독 HD+] 이세은 결혼 본식 사진 공개"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_61" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=50998" target="_top" class="FtColor_typeF">[단독] 김민정 FA, 더좋은 이엔티와 전속 계약 만료.. '새 소속사는?'</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=50998" target="_top"><img src="/news/photo/201502/50998_63112_1344.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독] 김민정 FA, 더좋은 이엔티와 전속 계약 만료.. '새 소속사는?'"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_61" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=50972" target="_top" class="FtColor_typeF">[단독] 남궁민, 계약 만료 임박… FA 시장 나오나</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=50972" target="_top"><img src="/news/photo/201502/50972_63084_4943.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독] 남궁민, 계약 만료 임박… FA 시장 나오나"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_61" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=50186" target="_top" class="FtColor_typeF">[단독] '개훔방'·'상의원' 오는 3월부터 해외 개봉</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=50186" target="_top"><img src="/news/photo/201501/50186_62161_370.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독] '개훔방'·'상의원' 오는 3월부터 해외 개봉"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_61" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=49150" target="_top" class="FtColor_typeF">[단독] 배우 심형탁, '이혼변호사는 연애 중' 출연 유력.. 조여정과 재회</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=49150" target="_top"><img src="/news/photo/201501/49150_60892_1717.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독] 배우 심형탁, '이혼변호사는 연애 중' 출연 유력.. 조여정과 재회"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_61" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=48922" target="_top" class="FtColor_typeF">[단독] 영화 '군도: 민란의 시대', 올 4월말 일본 개봉</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=48922" target="_top"><img src="/news/photo/201501/48922_60605_344.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독] 영화 '군도: 민란의 시대', 올 4월말 일본 개봉"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_61" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=48823" target="_top" class="FtColor_typeF">[단독] 배우 김고은 윤여정, 창감독 신작 영화 '계춘할망'  캐스팅 확정</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=48823" target="_top"><img src="/news/photo/201501/48823_60475_518.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독] 배우 김고은 윤여정, 창감독 신작 영화 '계춘할망'  캐스팅 확정"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_61" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=48796" target="_top" class="FtColor_typeF">[단독] '출산드라' 김현숙 득남, 제왕절개 3.4kg 건강한 사내아이 출산</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=48796" target="_top"><img src="/news/photo/201501/48796_60446_4426.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독] '출산드라' 김현숙 득남, 제왕절개 3.4kg 건강한 사내아이 출산"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_61" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=48746" target="_top" class="FtColor_typeF">[단독] 걸스데이 민아, "서울가요대상ㆍ가온차트 어워드 무대 선다"</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=48746" target="_top"><img src="/news/photo/201501/48746_60390_93.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독] 걸스데이 민아, "서울가요대상ㆍ가온차트 어워드 무대 선다""></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_61" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=48716" target="_top" class="FtColor_typeF">[단독] 배우 박상욱 10년 소속사 '나무엑터스' 떠나 '레이즌엔터테인먼트'에 새둥지</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=48716" target="_top"><img src="/news/photo/201501/48716_60348_1211.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독] 배우 박상욱 10년 소속사 '나무엑터스' 떠나 '레이즌엔터테인먼트'에 새둥지"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_61" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=46128" target="_top" class="FtColor_typeF">[단독] 소녀시대 윤아, ‘실명퇴치 자선음악회’에 1000만원 기부</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=46128" target="_top"><img src="/news/photo/201412/46128_57249_846.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독] 소녀시대 윤아, ‘실명퇴치 자선음악회’에 1000만원 기부"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_61" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=44909" target="_top" class="FtColor_typeF">[단독] 제국의아이들 문준영, 28일 '클럽 디에이'서 깜짝 공연 개최</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=44909" target="_top"><img src="/news/photo/201411/44909_55694_1027.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독] 제국의아이들 문준영, 28일 '클럽 디에이'서 깜짝 공연 개최"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_61" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=42289" target="_top" class="FtColor_typeF">[단독] 개콘 개그맨들, 오나미 남동생 결혼식 찾아 의리 과시</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=42289" target="_top"><img src="/news/photo/201410/42289_52264_3929.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독] 개콘 개그맨들, 오나미 남동생 결혼식 찾아 의리 과시"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_61" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=42061" target="_top" class="FtColor_typeF">[단독] 배우 한혜린, 'S&L컴퍼니'서 '코엔스타즈'로 이적</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=42061" target="_top"><img src="/news/photo/201410/42061_51973_2128.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독] 배우 한혜린, 'S&L컴퍼니'서 '코엔스타즈'로 이적"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_61" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=41477" target="_top" class="FtColor_typeF">[단독] 표민수 PD, 웹툰 원작 드라마 '호구의 사랑'으로 브라운관 복귀.. 방송사 tvN 예정</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=41477" target="_top"><img src="/news/photo/201410/41477_51271_551.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독] 표민수 PD, 웹툰 원작 드라마 '호구의 사랑'으로 브라운관 복귀.. 방송사 tvN 예정"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_61" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=39801" target="_top" class="FtColor_typeF">[단독] 전역 앞둔 유승호, 김대승 감독 신작 '조선마술사(가제)' 출연 유력</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=39801" target="_top"><img src="/news/photo/201409/39801_49197_311.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독] 전역 앞둔 유승호, 김대승 감독 신작 '조선마술사(가제)' 출연 유력"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_61" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=38508" target="_top" class="FtColor_typeF">[단독] 빌보드 코리아 사이트 중단, 빌보드닷컴 '빌보드 케이팝 차트' 5월 이후 사라져..</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=38508" target="_top"><img src="/news/photo/201408/38508_47590_5324.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독] 빌보드 코리아 사이트 중단, 빌보드닷컴 '빌보드 케이팝 차트' 5월 이후 사라져.."></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_61" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=37651" target="_top" class="FtColor_typeF">[단독] 에이미 프로포폴 재투약 '무혐의' 심경 고백 "결과 빨리 나오기만 기다렸다"</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=37651" target="_top"><img src="/news/photo/201408/37651_46481_233.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[단독] 에이미 프로포폴 재투약 '무혐의' 심경 고백 "결과 빨리 나오기만 기다렸다""></a></div>
+		</div>
+		</div></div><table cellpadding="0" cellspacing="1" width="100%" bgcolor="white" align="center" style='margin-top:10px;'>
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num21.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=54767" target="_top">[단독] '파랑새의 집' 채수빈,</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num22.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=54761" target="_top">[단독] 배우 오현경, 심엔터와 </a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num23.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=52715" target="_top">[단독 HD+] 이세은 결혼 본식</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num24.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=50998" target="_top">[단독] 김민정 FA, 더좋은 이</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num25.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=50972" target="_top">[단독] 남궁민, 계약 만료 임박</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num26.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=50186" target="_top">[단독] '개훔방'·'상의원' 오</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num27.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=49150" target="_top">[단독] 배우 심형탁, '이혼변호</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num28.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=48922" target="_top">[단독] 영화 '군도: 민란의 시</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num29.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=48823" target="_top">[단독] 배우 김고은 윤여정, 창</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num30.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=48796" target="_top">[단독] '출산드라' 김현숙 득남</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num31.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=48746" target="_top">[단독] 걸스데이 민아, "서울가</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num32.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=48716" target="_top">[단독] 배우 박상욱 10년 소속</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num33.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=46128" target="_top">[단독] 소녀시대 윤아, ‘실명퇴</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num34.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=44909" target="_top">[단독] 제국의아이들 문준영, 2</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num35.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=42289" target="_top">[단독] 개콘 개그맨들, 오나미 </a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num36.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=42061" target="_top">[단독] 배우 한혜린, 'S&L컴</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num37.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=41477" target="_top">[단독] 표민수 PD, 웹툰 원작</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num38.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=39801" target="_top">[단독] 전역 앞둔 유승호, 김대</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num39.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=38508" target="_top">[단독] 빌보드 코리아 사이트 중</a></td>
+			</tr>				
+		
+			<tr>
+            	<td width="15"><img align="absmiddle" src="http://www.stardailynews.co.kr/box/box_news/writing_num40.gif" width="17" height="13" border="0" vspace="2" hspace="2"></td>
+                <td class="topten_body"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=37651" target="_top">[단독] 에이미 프로포폴 재투약 </a></td>
+			</tr>				
+		</table></td></tr></table>
+</td>
+    </tr>    
+    <tr>
+        <td><img src="/box/box_news/250_n_dn01.gif" width="250" height="10" border="0"></td>
+    </tr>
+</table><table align="center" cellpadding="0" cellspacing="0" width="250" background="/box/box_news/250_n_bg01.gif">
+    <tr>
+        <td height="8"><img src="http://www.stardailynews.co.kr/box/box_news/250_n_top10.gif"></td>
+    </tr>
+    <tr>
+        <td>
+             <table align="center" cellpadding="0" cellspacing="0" width="220"><tr><td>
+<script type="text/javascript">
+// 버튼박스
+jQuery(function() {
+
+	// 배너
+	var obj = {
+		page_layer_name : '.PhotoLayerTypeC_57'
+		,page_move_ctrl_name : '.ArrTypeC_57'
+		,page_top_area : '.PhotoWrapTypeC_57'
+		,page_num : 1
+		,page_buffer:0
+		,page_point:0
+		,page_auto_play : true
+		,page_auto_time : 3000
+
+	};
+	pageLayer(obj).page_load();
+
+});
+</script>
+
+<div class='PhotoWrapTypeC_57' style='display:block; overflow:hidden; width:100%; height:165px; position:relative;'>
+
+<button class='PhotoBoxArrow ArrTypeC_57' style='width:15px; height:16px; right:20px; bottom:9px; background-position:left -120px;' cmd='prev'>PREV</button>
+<button class='PhotoBoxArrow ArrTypeC_57' style='width:14px; height:16px; right:6px; bottom:9px; background-position:-16px -120px;' cmd='next'>NEXT</button>
+<div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_57" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=84920" target="_top" class="FtColor_typeF">[S포토+] 브레이브걸스 은지, '이 정도는 기본이지요' (브레이브걸스 쇼케이스)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=84920" target="_top"><img src="/news/photo/201602/84920_103182_2137.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 브레이브걸스 은지, '이 정도는 기본이지요' (브레이브걸스 쇼케이스)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_57" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=84617" target="_top" class="FtColor_typeF">[S포토+] EXID 혜린, '마이크 든채로 물 마시는 능력자' (레고쇼)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=84617" target="_top"><img src="/news/photo/201602/84617_102826_4947.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] EXID 혜린, '마이크 든채로 물 마시는 능력자' (레고쇼)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_57" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=84358" target="_top" class="FtColor_typeF">[S포토+] 여자친구 예린 은하, "우산 속에서 둘이 뭐하니" (뮤직뱅크 출근길)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=84358" target="_top"><img src="/news/photo/201602/84358_102544_2816.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 여자친구 예린 은하, "우산 속에서 둘이 뭐하니" (뮤직뱅크 출근길)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_57" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=83500" target="_top" class="FtColor_typeF">[S포토+] 이솜, "수줍솜" (좋아해줘)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=83500" target="_top"><img src="/news/photo/201602/83500_101571_3555.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 이솜, "수줍솜" (좋아해줘)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_57" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=83451" target="_top" class="FtColor_typeF">[S포토+] 여자친구 예린, "자 아~ 하라고!" (한위싱동타이)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=83451" target="_top"><img src="/news/photo/201602/83451_101519_1652.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 여자친구 예린, "자 아~ 하라고!" (한위싱동타이)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_57" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=83434" target="_top" class="FtColor_typeF">[S포토+] 여자친구 신비, "미모의 묶은비" (한위싱동타이)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=83434" target="_top"><img src="/news/photo/201602/83434_101499_111.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 여자친구 신비, "미모의 묶은비" (한위싱동타이)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_57" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=82998" target="_top" class="FtColor_typeF">[S포토+] 에프엑스, "걸크러시의 원조" (에프엑스 콘서트)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=82998" target="_top"><img src="/news/photo/201601/82998_100994_1418.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 에프엑스, "걸크러시의 원조" (에프엑스 콘서트)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_57" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=82350" target="_top" class="FtColor_typeF">[S포토+] 이성경, '빨려들것 같은 눈동자' (치인트 종방연)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=82350" target="_top"><img src="/news/photo/201601/82350_100253_4741.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 이성경, '빨려들것 같은 눈동자' (치인트 종방연)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_57" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=82330" target="_top" class="FtColor_typeF">[S포토+] 스텔라, "우리는 마이크 트로피로 대신하자" (더쇼)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=82330" target="_top"><img src="/news/photo/201601/82330_100233_1349.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 스텔라, "우리는 마이크 트로피로 대신하자" (더쇼)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_57" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=82280" target="_top" class="FtColor_typeF">[S포토+] 여자친구 신비, "허리가 아야해요" (더쇼)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=82280" target="_top"><img src="/news/photo/201601/82280_100181_4935.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 여자친구 신비, "허리가 아야해요" (더쇼)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_57" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=82200" target="_top" class="FtColor_typeF">[S포토+] 이지아, "물을 마실 거지아" (무수단)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=82200" target="_top"><img src="/news/photo/201601/82200_100093_4929.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 이지아, "물을 마실 거지아" (무수단)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_57" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=82112" target="_top" class="FtColor_typeF">[S포토+] 김태희, "잠실에 여신 강림" (로봇소리 VIP)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=82112" target="_top"><img src="/news/photo/201601/82112_99985_2420.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 김태희, "잠실에 여신 강림" (로봇소리 VIP)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_57" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=82091" target="_top" class="FtColor_typeF">[S포토+] 여자친구 예린, '귀여움이 넘쳐나' (여자친구 쇼케이스)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=82091" target="_top"><img src="/news/photo/201601/82091_99959_5025.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 여자친구 예린, '귀여움이 넘쳐나' (여자친구 쇼케이스)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_57" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=81904" target="_top" class="FtColor_typeF">[S포토+] 고준희, "가까이서 보니 더 예쁘네" (슈에무라 뷰티 행사)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=81904" target="_top"><img src="/news/photo/201601/81904_99746_1036.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 고준희, "가까이서 보니 더 예쁘네" (슈에무라 뷰티 행사)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_57" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=81403" target="_top" class="FtColor_typeF">[S포토+] 소녀시대 유리, '우아한 손인사' (동네의 영웅 제작발표회)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=81403" target="_top"><img src="/news/photo/201601/81403_99162_1948.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 소녀시대 유리, '우아한 손인사' (동네의 영웅 제작발표회)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_57" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=81393" target="_top" class="FtColor_typeF">[S포토+] 박시후, '긴장되서 잠도 못잤어요' (동네의 영웅 제작발표회)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=81393" target="_top"><img src="/news/photo/201601/81393_99150_628.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 박시후, '긴장되서 잠도 못잤어요' (동네의 영웅 제작발표회)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_57" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=80895" target="_top" class="FtColor_typeF">[S포토+] 에이핑크 손나은, "오늘도 열일하는 손여신의 미모" (서가대)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=80895" target="_top"><img src="/news/photo/201601/80895_98572_2745.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 에이핑크 손나은, "오늘도 열일하는 손여신의 미모" (서가대)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_57" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=80892" target="_top" class="FtColor_typeF">[S포토+] 씨스타 다솜 보라, "주위가 환해지는 미모들" (서가대)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=80892" target="_top"><img src="/news/photo/201601/80892_98569_2357.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 씨스타 다솜 보라, "주위가 환해지는 미모들" (서가대)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_57" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=80852" target="_top" class="FtColor_typeF">[S포토+] 레드벨벳 조이, "오늘 청순 좀 하죠?" (서가대)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=80852" target="_top"><img src="/news/photo/201601/80852_98524_228.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 레드벨벳 조이, "오늘 청순 좀 하죠?" (서가대)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_57" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=80850" target="_top" class="FtColor_typeF">[S포토+] 레드벨벳 슬기, "무심한 듯 귀엽게" (서가대)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=80850" target="_top"><img src="/news/photo/201601/80850_98522_2058.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S포토+] 레드벨벳 슬기, "무심한 듯 귀엽게" (서가대)"></a></div>
+		</div>
+		</div></div></td></tr></table>
+</td>
+    </tr>    
+    <tr>
+        <td><img src="/box/box_news/250_n_dn01.gif" width="250" height="10" border="0"></td>
+    </tr>
+</table><table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td align="center"><table>
+<tr>
+<td height="2"></td>
+</tr>
+</table></td>
+			</tr>
+		</table><table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td align="center"><div id='AD_LIVE_AREA_18231991' style='height:250px; position:relative; left:0px; top:0px;' ><script type='text/javascript' src='http://adexview.adnavi.co.kr/adimage_script.php?data=1823|1991|250|250'></script></div></td>
+			</tr>
+		</table><table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td align="center"><table>
+<tr>
+<td height="2"></td>
+</tr>
+</table></td>
+			</tr>
+		</table><table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td align="center"><!--세븐에듀--><script language="javascript" src="http://www.stardailynews.co.kr/bannerManager/inc/58.html"></script><!--세븐에듀--></td>
+			</tr>
+		</table><table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td align="center"><!--본스타--><script language="javascript" src="http://www.stardailynews.co.kr/bannerManager/inc/55.html"></script><!--본스타--></td>
+			</tr>
+		</table><table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td align="center"><!--유학--><script language="javascript" src="http://www.stardailynews.co.kr/bannerManager/inc/51.html"></script><!--유학--></td>
+			</tr>
+		</table><table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td align="center"><div style="width:250px; overflow:hidden;">
+<a class="twitter-timeline" href="https://twitter.com/stardailynews" data-widget-id="339998815924936704">@stardailynews 님의 트윗</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
+<table cellpadding=0 cellspacing=0 width=250 border=0><tr><td height=10></td></tr></table></td>
+			</tr>
+		</table><table align="center" cellpadding="0" cellspacing="0" width="250" background="/box/box_news/250_n_bg01.gif">
+    <tr>
+        <td height="8"><img src="/box/box_news/250_n_top06.gif" border="0"></td>
+    </tr>
+    <tr>
+        <td>
+             <table align="center" cellpadding="0" cellspacing="0" width="220"><tr><td>
+<script type="text/javascript">
+// 버튼박스
+jQuery(function() {
+
+	// 배너
+	var obj = {
+		page_layer_name : '.PhotoLayerTypeC_75'
+		,page_move_ctrl_name : '.ArrTypeC_75'
+		,page_top_area : '.PhotoWrapTypeC_75'
+		,page_num : 1
+		,page_buffer:0
+		,page_point:0
+		,page_auto_play : true
+		,page_auto_time : 3000
+
+	};
+	pageLayer(obj).page_load();
+
+});
+</script>
+
+<div class='PhotoWrapTypeC_75' style='display:block; overflow:hidden; width:100%; height:165px; position:relative;'>
+
+<button class='PhotoBoxArrow ArrTypeC_75' style='width:15px; height:16px; right:20px; bottom:9px; background-position:left -120px;' cmd='prev'>PREV</button>
+<button class='PhotoBoxArrow ArrTypeC_75' style='width:14px; height:16px; right:6px; bottom:9px; background-position:-16px -120px;' cmd='next'>NEXT</button>
+<div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_75" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85415" target="_top" class="FtColor_typeF">[S영상] 블루미, 데뷔 쇼케이스 무대에서 매력 발산 '큐티 청순 발랄'</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85415" target="_top"><img src="/news/photo/201602/85415_103721_2422.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S영상] 블루미, 데뷔 쇼케이스 무대에서 매력 발산 '큐티 청순 발랄'"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_75" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85179" target="_top" class="FtColor_typeF">[S영상] '가온차트 어워드' 엑소 지코 아이콘 방탄소년단, '2015년을 빛낸 남자들'</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85179" target="_top"><img src="/news/photo/201602/85179_103469_4717.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S영상] '가온차트 어워드' 엑소 지코 아이콘 방탄소년단, '2015년을 빛낸 남자들'"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_75" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85175" target="_top" class="FtColor_typeF">[S영상] '가온차트 K-POP 어워드' 레드벨벳 여자친구 AOA, '대세 걸그룹은 나다'</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85175" target="_top"><img src="/news/photo/201602/85175_103463_2547.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S영상] '가온차트 K-POP 어워드' 레드벨벳 여자친구 AOA, '대세 걸그룹은 나다'"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_75" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85171" target="_top" class="FtColor_typeF">[S영상] '가온차트 K-POP 어워드' 이태임 이동휘 곽시양 등, '시상자도 핫하다'</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85171" target="_top"><img src="/news/photo/201602/85171_103458_243.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S영상] '가온차트 K-POP 어워드' 이태임 이동휘 곽시양 등, '시상자도 핫하다'"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_75" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85160" target="_top" class="FtColor_typeF">[S영상] 안재욱 소유진, '다섯 만들기 정말 어려워~' (아이가 다섯 제작발표회)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85160" target="_top"><img src="/news/photo/201602/85160_103445_5929.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S영상] 안재욱 소유진, '다섯 만들기 정말 어려워~' (아이가 다섯 제작발표회)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_75" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85123" target="_top" class="FtColor_typeF">[S영상] 박보영, '아이들 뽀뽀세례, 많은생각 들었다' (위키드 제작발표회)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85123" target="_top"><img src="/news/photo/201602/85123_103403_510.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S영상] 박보영, '아이들 뽀뽀세례, 많은생각 들었다' (위키드 제작발표회)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_75" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85120" target="_top" class="FtColor_typeF">[S영상] '대배우' 오달수, '어떤 일이든 취미라고 생각하고 즐겨라'</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85120" target="_top"><img src="/news/photo/201602/85120_103399_4424.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S영상] '대배우' 오달수, '어떤 일이든 취미라고 생각하고 즐겨라'"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_75" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85118" target="_top" class="FtColor_typeF">[S영상] '대배우' 오달수, '흥행요정이란 이름..'</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85118" target="_top"><img src="/news/photo/201602/85118_103395_4021.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S영상] '대배우' 오달수, '흥행요정이란 이름..'"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_75" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85116" target="_top" class="FtColor_typeF">[S영상] 박보영 유연석 등 '아이처럼 순수한 위키드 주역들' (위키드 제작발표회)</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85116" target="_top"><img src="/news/photo/201602/85116_103393_3353.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S영상] 박보영 유연석 등 '아이처럼 순수한 위키드 주역들' (위키드 제작발표회)"></a></div>
+		</div>
+		</div><div style='z-index:-1;'><div class="ArticleNew PhotoLayerTypeC_75" style='display:none;'>
+		<div class='PhotoBoxtitle' style="height:35px;">
+		<h5 style='display:block; overflow:hidden; padding:0; margin:0; height:35px; line-height:35px; padding-right:30px;'><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85090" target="_top" class="FtColor_typeF">[S영상] '대배우' 오달수 윤제문 이경영, '대배우들의 남다른 등장'</a></h5>
+		</div><div class="ImgWidth_Full"><a href="http://www.stardailynews.co.kr/news/articleView.html?idxno=85090" target="_top"><img src="/news/photo/201602/85090_103365_341.jpg" class="ImgWidth_Full ImgHeight_typeQ nobr" border="0" alt="[S영상] '대배우' 오달수 윤제문 이경영, '대배우들의 남다른 등장'"></a></div>
+		</div>
+		</div></div></td></tr></table>
+</td>
+    </tr>    
+    <tr>
+        <td><img src="/box/box_news/250_n_dn01.gif" width="250" height="10" border="0"></td>
+    </tr>
+</table>		</td>
+	</tr>
+</table>
+
+<!-- icon ad -->
+<!--<script type="text/javascript" src="http://js2.keywordsconnect.com/iconad_stardailynews.js"></script>-->
+<!-- icon ad -->
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+<table align="center" cellpadding="0" cellspacing="0"><tr><td height="5"></td></tr></table>
+<!-- Bottom_970x90  150806주석처리
+<div id='div-gpt-ad-1372145737216-1' style='width:970px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1372145737216-1'); });
+</script>
+</div> -->
+
+<!--<script type="text/javascript">
+google_ad_client = "ca-pub-7082780632981926";
+google_ad_host = "ca-host-pub-2626235926542867";
+/* 970x90 */
+google_ad_slot = "6233810575";
+google_ad_width = 970;
+google_ad_height = 90;
+google_ad_type=image;
+
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>//-->
+
+<table align="center" cellpadding="0" cellspacing="0"><tr><td height="5"></td></tr></table>
+
+<iframe name=banner src="http://www.stardailynews.co.kr/banner/bottombanner2.html" NORESIZE SCROLLING=no HSPACE=0 VSPACE=0 FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 WIDTH=960 HEIGHT=49></iframe>
+
+<!--
+<table width="960" height="46" border="0" cellpadding="0" cellspacing="0" background="/banner/dn_line.gif">
+	<tr>
+		<td align="center">
+		<table width="940" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="25"><img src="http://www.stardailynews.co.kr/banner/ico_pre.gif" width="17" height="12"></td>
+				<td width="890" align="center"><!-- 롤링배너 시작
+					<iframe name=banner src="http://www.stardailynews.co.kr/banner/bottombanner.html" NORESIZE SCROLLING=no HSPACE=0 VSPACE=0 FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 WIDTH=880 HEIGHT=31></iframe>				<!-- 롤링배너 끝</td>
+				<td width="25" align="right"><img src="http://www.stardailynews.co.kr/banner/ico_next.gif" width="17" height="12"></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>-->
+<table align="center" cellpadding="0" cellspacing="0"><tr><td height="5"></td></tr></table>
+
+
+<table width="960" border="0" cellpadding="0" cellspacing="0" background="/image2011/dn_bg.gif">
+	<tr>
+		<td width="19" align="left"><img src="/image2011/dn_head.gif"></td>
+		<td align="center" style="padding: 0 0 0 50px;">
+			<table border="0" cellspacing="0" cellpadding="0"  >
+				<tr>
+					<td >
+						<a href="http://www.stardailynews.co.kr/com/com-1.html" onfocus="this.blur();" target="_top" class="dncom1">신문사소개</a>
+						|
+						<a href="https://www.stardailynews.co.kr:451/com/content.html" onfocus="this.blur();" target="_top" class="dncom1">콘텐츠 구매</a>
+						|
+						<a href="https://www.stardailynews.co.kr:451/com/kd.html" onfocus="this.blur();" target="_top" class="dncom1">구독신청</a>
+						|
+						<a href="https://www.stardailynews.co.kr:451/com/jb.html" onfocus="this.blur();" target="_top" class="dncom1">기사제보</a>
+						|
+						<a href="https://www.stardailynews.co.kr:451/com/ad.html" onfocus="this.blur();" target="_top" class="dncom1">광고안내</a>
+						|
+						<a href="https://www.stardailynews.co.kr:451/com/jh.html" onfocus="this.blur();" target="_top" class="dncom1">제휴안내</a>
+						|
+						<a href="javascript:void(window.open('/com/privacy.html','privacy','width=800, height=600, scrollbars=yes'))" onfocus="this.blur();" class="dncom1"><b> 개인정보취급방침 </b></a>
+						|
+						<a href="/com/teen.html" onfocus="this.blur()"  class="dncom1">청소년보호정책</a>
+						|
+						<a href="javascript:void(window.open('/com/pop_emailno.html','new_win','resizable=no,width=550,height=252,scrollbars=no'))" onfocus="this.blur();" class="dncom1">이메일주소무단수집거부</a>
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td align="right" style="padding: 0 10 0 0;">
+			<table cellpadding="0" cellspacing="0">
+				<tr>
+                	<td width="46"><a href="http://www.stardailynews.co.kr/rss/" target="_top"><img src="/image2011/bt_rss.gif" border="0"></a></td>
+                    <td><a href="http://www.stardailynews.co.kr/index2.html" target="_top"><img src="/image2011/dn_iconhome.gif" border="0"></a></td>
+					<td><a href="javascript:history.back()" onfocus="this.blur();"> <img src="/image2011/dn_iconback.gif"  border="0"></a></td>
+					<td align="right"><a href="#top" onfocus="this.blur();"><img src="/image2011/dn_icontop.gif" border="0"></a></td>
+				</tr>
+			</table>
+		</td>
+		<td width="15" align="right"><img src="/image2011/dn_tail.gif"></td>
+	</tr>
+</table>
+<table width="960" border="0" cellpadding="0" cellspacing="0" height="55">
+	<tr>
+		<td align="center" class="dncom1" style="letter-spacing:-1pt;">법인명 : 주식회사 뉴스미디어그룹 | 등록번호 : 서울 아1478  | 사업자등록번호 : 120-87-63595  | 발행인 : 황정현  | 편집인 : 황정현  | 서울특별시 강남구 개포동 1239-10 창덕빌딩 | Tel : 02-552-5088 | Fax : 02-3461-7070
+
+
+
+<br>			C<a href="https://www.stardailynews.co.kr:451/admin/adminLoginForm.html" onfocus="this.blur();" target="_top">o</a>pyright
+			<a href="http://www.daum.net/" target="_blank" onfocus="this.blur();">ⓒ</a>
+			스타데일리뉴스. All rights reserved. mail to
+			<!--<a href="mailto:webmaster@stardailynews.co.kr" onfocus="this.blur();">webmaster@stardailynews.co.kr</a>-->보도자료 수신처 <a href="mailto:news@stardailynews.co.kr" onfocus="this.blur();">news@stardailynews.co.kr</a>
+			<a href="http://ndsoft.co.kr" target="_blank" onfocus="this.blur();" ><img src="/image2011/ndsoft.gif" border="0" align="absmiddle"></a>
+		</td>
+	</tr>
+</table>
+<table><tr><td height="10"></td></tr></table>
+
+
+
+
+
+
+<!-- 스타데일리뉴스 기사면플로팅 -->
+<script type="text/javascript">
+<!--
+function delLayer() {
+	document.getElementById("floater001").style.display = "none";
+}
+//-->
+</script>
+
+<!--
+<div id="floater001" style="position:absolute; top:1200px; left:45%; margin-left:-83px; width:250px; height:250px; display:;">
+	<script type="text/javascript" src="http://ad.ilikesponsorad.com/ad/ad.js?adImpMgrCode=9090&width=250&height=250"></script>
+	<h1 style="padding:0px; margin:0px; text-align:right;"><a href="javascript:delLayer();"><img src="http://www.crey.tv/n_news/images/newsFlow_Close.png" border=0></a></h1>
+	
+</div>
+-->
+
+<!--
+<script type='text/javascript'>var form=document.referrer;document.write("<scr"+"ipt type='text/jav"+"ascri"+"pt' src='http://www.dreamsearch.or.kr/servlet/sadbn?from="+escape(form)+"&u=2014052300001&us=1104&s=1381'></scr"+"ipt>");</script>
+-->
+
+<!-- 리얼클릭 플로팅배너 20140610 주석
+<script type='text/javascript'>
+var real_sh_top =2250;
+var real_sh_left = 920;
+</script>
+<script type='text/javascript' src='http://ade.realclick.co.kr/ad_tpl/float_bnr.rc?dsn=1&mcode=YWRvcDg5' charset='euc-kr'></script>
+<!-- 리얼클릭 플로팅배너 -->
+
+
+
+<!-- Code provided by Google 구글 번역 -->
+<div id="google_translate_element"></div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript">
+    var googleTrans = {
+        evtPageInit:function(){
+            //find the a links element inside the gtranlate first frame
+            var langs = $('.goog-te-menu-frame:first').contents().find('.goog-te-menu2 a');
+            //var paramLang = ""; 
+                
+            langs.each(function(){
+                var txtHtml = $(this).find('span.text').html();
+                if (txtHtml == "한국어")
+                {
+                    langs.eq($(this).index()).find('span.text').click();
+                }
+            });
+        }
+    }
+
+    $(window).load(function() {
+        $('.translation-icons a').click(function(e) {
+            e.preventDefault();
+            var $frame = $('.goog-te-menu-frame:first');
+            if (!$frame.size()) 
+            {
+                alert("Error: Could not find Google translate frame.");
+                return false;
+            }
+
+            //find the a links element inside the gtranlate first frame
+            var langs = $('.goog-te-menu-frame:first').contents().find('.goog-te-menu2 a');
+            var $lang = $(this).data('lang'),
+                $lang_txt = "";
+
+            switch($lang) 
+            {
+                case "en": $lang_txt = "영어"; break;
+                case "ja": $lang_txt = "일본어"; break;
+                case "zh-CN": $lang_txt = "중국어(간체)"; break;
+                case "fr": $lang_txt = "프랑스어"; break;
+                case "es": $lang_txt = "스페인어"; break;
+                case "ru": $lang_txt = "러시아어"; break;
+                case "id": $lang_txt = "인도네시아어"; break;
+                case "ko": 
+                default: $lang_txt = "한국어"; break;
+            }
+
+            langs.each(function(){
+                var txtHtml = $(this).find('span.text').html();
+                if (txtHtml == $lang_txt) langs.eq($(this).index()).find('span.text').click();
+            });
+            return;
+        });
+
+        googleTrans.evtPageInit();
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,1805 @@
+
+
+<!doctype html>
+<html id="ctl00_html" lang="en" class=" wide">
+<head><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d955319030","applicationID":"16321485","transactionName":"b1MBMEsEC0UHVxFZX1YZIjdpShZCCUYcHlFLRhs=","queueTime":0,"applicationTime":1045,"ttGuid":"50E5858455C715BB","agent":""}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function c(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),c=a.length,u=0;c>u;u++)a[u].apply(i,r);return i}function u(t,e){p[t]=f(t).concat(e)}function f(t){return p[t]||[]}function s(){return r(c)}var p={};return{on:u,emit:c,create:s,listeners:f,context:e,_events:p}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!v++){var t=l.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(p,function(e,n){t[e]||(t[e]=n)});var n="https"===s.split(":")[0]||t.sslForHttp;l.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=l.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),c=t(1),u=window,f=u.document;t(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),l=e.exports={offset:i(),origin:s,features:{},xhrWrappable:d};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var v=0},{1:12,2:3,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],12:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],13:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}]},{},["G9z0Bl"]);</script><link type="image/png" rel="apple-touch-icon" title="" href="/images/logos/site/site.png" /><link type="text/css" rel="Stylesheet" title="Core_CSS" href="//s3.amazonaws.com/assets.sidearmsports.com/common/css/default/5/core_compressed.css" /><link type="application/rss+xml" rel="alternate" title="RSS Feed" href="/rss.aspx?path=wtrack" /><link type="text/css" rel="stylesheet" title="" href="/less/story-templates.less" /><link type="" rel="image_src" title="" href="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2016/2/10/Geneva_at_Pistols.jpg" /><link rel="stylesheet" href="http://fonts.sidearmsports.com/sidearm/sidearm_font.css" /><link id="ctl00_lnkStyleSheet" rel="stylesheet" type="text/css" href="/site/site.less?0.5736194" /><link rel="shortcut icon" href="/images/favicon.ico" type="image/vnd.microsoft.icon" /><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/rss.aspx" />
+<script type ="text/javascript" src ="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
+<meta property="og:image" content="http://s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2016/2/10/Geneva_at_Pistols.jpg" /><meta property="og:title" content="Getting to Know Geneva Anderson"></meta><meta property="og:type" content="sports_team"></meta><meta property="og:url" content="http://goutrgv.com/news/2016/2/10/WTRACK_0210161834.aspx"></meta><meta property="og:description" content="Getting to Know Geneva Anderson"></meta><meta name="twitter:card" content="summary_large_image"></meta><meta name="twitter:title" content="Getting to Know Geneva Anderson"></meta><meta name="twitter:description" content="EDINBURG – University of Texas Rio Grande Valley track and field senior Geneva Anderson loves to compete in the hurdles but it wasn't always that way."></meta><meta property="og:site_name" content="The University of Texas Rio Grande Valley"></meta><script>window.client_hostname = "goutrgv.com";window.client_division = "DI";window.targetting_criteria = {"page_template":"story","sport_name":"wtrack","sport_name_custom":"wtrack","site":"utpa","content_id":"story-8810","sect":"wtrack"};window.client_shortname = "utpa";window.dfp_network_code = "";window.img_dfp_unit_name = "";</script><title>
+	The Official Athletics Website of the University of Texas Rio Grande Valley - Getting to Know Geneva Anderson
+</title></head>
+<!--[if IE 8 ]><body class="ie8"> <![endif]--><body>
+
+	<div class="skip"><a href="#content">Skip Navigation Links</a></div>
+	
+	<form name="aspnetForm" method="post" action="/news/2016/2/10/WTRACK_0210161834.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTM4MjcwMDA0MWQYLAUnY3RsMDAkY3RsNTAkcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDQyJHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjdGwxOSRycHRBZHMkY3RsMDAkbWVkaWFBZCRtb1ZpZXcPD2RmZAUnY3RsMDAkY3RsNTQkcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDQ3JHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjdGwzMSRycHRBZHMkY3RsMDAkbWVkaWFBZCRtb1ZpZXcPD2RmZAUnY3RsMDAkY3RsMjckcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDIxJHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjdGw0OSRycHRBZHMkY3RsMDAkbWVkaWFBZCRtb1ZpZXcPD2RmZAUnY3RsMDAkY3RsMjIkcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDUxJHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjdGwxOCRycHRBZHMkY3RsMDAkbWVkaWFBZCRtb1ZpZXcPD2RmZAUnY3RsMDAkY3RsMDckcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDMzJHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjdGwzNSRycHRBZHMkY3RsMDAkbWVkaWFBZCRtb1ZpZXcPD2RmZAUnY3RsMDAkY3RsMTAkcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDM0JHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjdGw1MiRycHRBZHMkY3RsMDAkbWVkaWFBZCRtb1ZpZXcPD2RmZAUnY3RsMDAkY3RsMzkkcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDQ2JHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkBS5jdGwwMCRjcGxoTWFpbkNvbnRlbnQkY3RsMDAkc3RvcnlfbWVkaWEkbW9WaWV3Dw9kAgFkBSdjdGwwMCRjdGw0OCRycHRBZHMkY3RsMDAkbWVkaWFBZCRtb1ZpZXcPD2RmZAUnY3RsMDAkY3RsMDkkcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDI5JHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjdGw1MyRycHRBZHMkY3RsMDAkbWVkaWFBZCRtb1ZpZXcPD2RmZAUnY3RsMDAkY3RsNTUkcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDQzJHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjdGw0NSRycHRBZHMkY3RsMDAkbWVkaWFBZCRtb1ZpZXcPD2RmZAUnY3RsMDAkY3RsNDQkcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDQwJHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjdGwwOCRycHRBZHMkY3RsMDAkbWVkaWFBZCRtb1ZpZXcPD2RmZAUnY3RsMDAkY3RsMzYkcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDMyJHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjdGwxMSRycHRBZHMkY3RsMDAkbWVkaWFBZCRtb1ZpZXcPD2RmZAUnY3RsMDAkY3RsMzckcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDI4JHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjdGwyNiRycHRBZHMkY3RsMDAkbWVkaWFBZCRtb1ZpZXcPD2RmZAUnY3RsMDAkY3RsMDYkcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDEyJHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjdGwyMyRycHRBZHMkY3RsMDAkbWVkaWFBZCRtb1ZpZXcPD2RmZAUnY3RsMDAkY3RsMjUkcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmQFJ2N0bDAwJGN0bDI0JHJwdEFkcyRjdGwwMCRtZWRpYUFkJG1vVmlldw8PZGZkBSdjdGwwMCRjdGwxMyRycHRBZHMkY3RsMDAkbWVkaWFBZCRtb1ZpZXcPD2RmZAUnY3RsMDAkY3RsMTUkcnB0QWRzJGN0bDAwJG1lZGlhQWQkbW9WaWV3Dw9kZmTJktr5KughN2IbhSa8hrGt3euMxw==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=6VdlL4MMQi3wSOy4o8e1ts6-4Pjm6GDXU9fLx_gT4EztlLHms5W8e4tWWBeyjUkQhy4E2zYpGw76z_H4FIHKzhnYXeE1&amp;t=635588399086469712" type="text/javascript"></script>
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.24/jquery-ui.min.js" type="text/javascript"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript"></script>
+<script src="//s3.amazonaws.com/assets.sidearmsports.com/common/js/default/10/master_compressed_v5.js" type="text/javascript"></script>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script><script type='text/javascript'>$(function () {setTimeout('movePlus1()', 150);});function movePlus1(){var $plus1 = $('.google_plus1_container');var $addThis = $('a[href*="http://www.addthis.com"]'); if ($addThis.length > 0) { $addThis.parent().append($plus1); } else { $('body').append($plus1) }}</script><script type='text/javascript'>$(function () {setTimeout('moveTwitter()', 200);});function moveTwitter(){var $twitterShare = $('.story_tweet_button');var $addThis = $('a[href*="http://www.addthis.com"]'); if ($addThis.length > 0) { $addThis.parent().append($twitterShare); } else { $('body').append($twitterShare) }}</script>
+<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script><script type='text/javascript'>$(function () {setTimeout('moveLinkedIn()', 250);});function moveLinkedIn(){var $linkedIn = $('.linkedin_container');var $addThis = $('a[href*="http://www.addthis.com"]'); if ($addThis.length > 0) { $addThis.parent().append($linkedIn); } else { $('body').append($linkedIn) }}</script><script type='text/javascript'>$(function () {setTimeout('movePintrest()', 235);});function movePintrest(){var $pintrest= $('.pintrest_container');var $addThis = $('a[href*="http://www.addthis.com"]'); if ($addThis.length > 0) { $addThis.parent().append($pintrest); } else { $('body').append($pintrest) }}</script>
+<script src="http://assets.sidearmsports.com/common/js/msajax.js" type="text/javascript"></script>
+		<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$sManager', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+//]]>
+</script>
+
+		
+		<header id="header">
+			<h1 class="hide">The Official Athletics Website of the University of Texas Rio Grande Valley</h1>
+			<div class="row pad">	
+				<div class="twelve columns">
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+				</div>
+			</div>
+            <div id="nav_container">
+                <div class="row pad">
+                    <div class="twelve columns relative">
+                        <a href="/index.aspx" id="header_logo"><img src="/images/header_logo.png" alt="Header Logo"></a>
+                        <a href="/index.aspx" id="header_text"><img src="/images/header_official.png" alt="The Official Athletics Website of the University of Texas Rio Grande Valley"></a>
+                        <div class="clear"></div>
+                        <nav id="nav">
+                            
+                            <div id="search_selector">
+                                <div id="ctl00_search_panel" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ImageButton1')">
+	
+                                    <div style="float:right;">
+                                        <label for="ctl00_ImageButton1">Search Button</label>
+                                        <a id="ctl00_ImageButton1" class="icon-search" href="javascript:__doPostBack('ctl00$ImageButton1','')"></a>
+                                    </div>
+                                    <div style="float:right;">
+                                        <label for="ctl00_txtSearch">Search Text</label>
+                                        <input name="ctl00$txtSearch" type="text" value="SEARCH" id="ctl00_txtSearch" onfocus="this.value=''" style="border-style:None;" />
+                                    </div>
+                                
+</div>
+                            </div>
+                            
+
+<ul class='accessible_nav' role='menubar'><li class=sports role='menuitem'><a href='#'>Sports</a><div role='menu' aria-hidden='true'><ul><li class='separator'><span>Men's Sports</span></li><li ><a  href='/index.aspx?path=baseball&' >Baseball</a><a aria-label='Baseball Schedule' href="/schedule.aspx?path=baseball" class="srn srn-schedule" >Schedule</a><a aria-label='Baseball Roster' href="/roster.aspx?path=baseball" class="srn srn-roster" >Roster</a><a aria-label='Baseball News' href="/archives.aspx?path=baseball" class="srn srn-news" >News</a><a class="social facebook"></a><a target='_blank' aria-label='Baseball Twitter' href="//twitter.com/UTRGVBaseball" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=mbball&' >Basketball</a><a aria-label='Mens Basketball Schedule' href="/schedule.aspx?path=mbball" class="srn srn-schedule" >Schedule</a><a aria-label='Mens Basketball Roster' href="/roster.aspx?path=mbball" class="srn srn-roster" >Roster</a><a aria-label='Mens Basketball News' href="/archives.aspx?path=mbball" class="srn srn-news" >News</a><a class="social facebook"></a><a class="social twitter"></a></li><li ><a  href='/index.aspx?path=mcross&' >Cross Country</a><a aria-label='Mens Cross Country Schedule' href="/schedule.aspx?path=mcross" class="srn srn-schedule" >Schedule</a><a aria-label='Mens Cross Country Roster' href="/roster.aspx?path=mcross" class="srn srn-roster" >Roster</a><a aria-label='Mens Cross Country News' href="/archives.aspx?path=mcross" class="srn srn-news" >News</a><a target='_blank' aria-label='Mens Cross Country Facebook' href="https://www.facebook.com/utrgv.tracknfield" class="social facebook" >Facebook</a><a target='_blank' aria-label='Mens Cross Country Twitter' href="//twitter.com/UTRGVTrackField" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=mgolf&' >Golf</a><a aria-label='Mens Golf Schedule' href="/schedule.aspx?path=mgolf" class="srn srn-schedule" >Schedule</a><a aria-label='Mens Golf Roster' href="/roster.aspx?path=mgolf" class="srn srn-roster" >Roster</a><a aria-label='Mens Golf News' href="/archives.aspx?path=mgolf" class="srn srn-news" >News</a><a class="social facebook"></a><a target='_blank' aria-label='Mens Golf Twitter' href="//twitter.com/utrgvmensgolf" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=msoc&' >Soccer</a><a aria-label='Mens Soccer Schedule' href="/schedule.aspx?path=msoc" class="srn srn-schedule" >Schedule</a><a aria-label='Mens Soccer Roster' href="/roster.aspx?path=msoc" class="srn srn-roster" >Roster</a><a aria-label='Mens Soccer News' href="/archives.aspx?path=msoc" class="srn srn-news" >News</a><a target='_blank' aria-label='Mens Soccer Facebook' href="http://www.facebook.com/UTRGVMSoccer" class="social facebook" >Facebook</a><a target='_blank' aria-label='Mens Soccer Twitter' href="//twitter.com/UTRGVMSoccer" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=mten&' >Tennis</a><a aria-label='Mens Tennis Schedule' href="/schedule.aspx?path=mten" class="srn srn-schedule" >Schedule</a><a aria-label='Mens Tennis Roster' href="/roster.aspx?path=mten" class="srn srn-roster" >Roster</a><a aria-label='Mens Tennis News' href="/archives.aspx?path=mten" class="srn srn-news" >News</a><a target='_blank' aria-label='Mens Tennis Facebook' href="https://www.facebook.com/UTRGVMTENNIS" class="social facebook" >Facebook</a><a target='_blank' aria-label='Mens Tennis Twitter' href="//twitter.com/utrgvmenstennis" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=mtrack&' >Track & Field</a><a aria-label='Mens Track & Field Schedule' href="/schedule.aspx?path=mtrack" class="srn srn-schedule" >Schedule</a><a aria-label='Mens Track & Field Roster' href="/roster.aspx?path=mtrack" class="srn srn-roster" >Roster</a><a aria-label='Mens Track & Field News' href="/archives.aspx?path=mtrack" class="srn srn-news" >News</a><a target='_blank' aria-label='Mens Track & Field Facebook' href="https://www.facebook.com/utrgv.tracknfield" class="social facebook" >Facebook</a><a target='_blank' aria-label='Mens Track & Field Twitter' href="//twitter.com/UTRGVTrackField" class="social twitter" >Twitter</a></li></ul><ul><li class='separator'><span>Women's Sports</span></li><li ><a  href='/index.aspx?path=wbball&' >Basketball</a><a aria-label='Womens Basketball Schedule' href="/schedule.aspx?path=wbball" class="srn srn-schedule" >Schedule</a><a aria-label='Womens Basketball Roster' href="/roster.aspx?path=wbball" class="srn srn-roster" >Roster</a><a aria-label='Womens Basketball News' href="/archives.aspx?path=wbball" class="srn srn-news" >News</a><a target='_blank' aria-label='Womens Basketball Facebook' href="https://www.facebook.com/UTRGVWOMENSHOOPS" class="social facebook" >Facebook</a><a target='_blank' aria-label='Womens Basketball Twitter' href="//twitter.com/UTRGVWOMENHOOPS" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=wcross&' >Cross Country</a><a aria-label='Womens Cross Country Schedule' href="/schedule.aspx?path=wcross" class="srn srn-schedule" >Schedule</a><a aria-label='Womens Cross Country Roster' href="/roster.aspx?path=wcross" class="srn srn-roster" >Roster</a><a aria-label='Womens Cross Country News' href="/archives.aspx?path=wcross" class="srn srn-news" >News</a><a target='_blank' aria-label='Womens Cross Country Facebook' href="https://www.facebook.com/utrgv.tracknfield" class="social facebook" >Facebook</a><a target='_blank' aria-label='Womens Cross Country Twitter' href="//twitter.com/UTRGVTrackField" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=wgolf&' >Golf</a><a aria-label='Womens Golf Schedule' href="/schedule.aspx?path=wgolf" class="srn srn-schedule" >Schedule</a><a aria-label='Womens Golf Roster' href="/roster.aspx?path=wgolf" class="srn srn-roster" >Roster</a><a aria-label='Womens Golf News' href="/archives.aspx?path=wgolf" class="srn srn-news" >News</a><a class="social facebook"></a><a target='_blank' aria-label='Womens Golf Twitter' href="//twitter.com/UTRGVWGolf" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=wsoc&' >Soccer</a><a aria-label='Womens Soccer Schedule' href="/schedule.aspx?path=wsoc" class="srn srn-schedule" >Schedule</a><a aria-label='Womens Soccer Roster' href="/roster.aspx?path=wsoc" class="srn srn-roster" >Roster</a><a aria-label='Womens Soccer News' href="/archives.aspx?path=wsoc" class="srn srn-news" >News</a><a target='_blank' aria-label='Womens Soccer Facebook' href="https://www.facebook.com/UTRGVWomensSoccer" class="social facebook" >Facebook</a><a target='_blank' aria-label='Womens Soccer Twitter' href="//twitter.com/UTRGVWSoccer" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=wten&' >Tennis</a><a aria-label='Womens Tennis Schedule' href="/schedule.aspx?path=wten" class="srn srn-schedule" >Schedule</a><a aria-label='Womens Tennis Roster' href="/roster.aspx?path=wten" class="srn srn-roster" >Roster</a><a aria-label='Womens Tennis News' href="/archives.aspx?path=wten" class="srn srn-news" >News</a><a class="social facebook"></a><a target='_blank' aria-label='Womens Tennis Twitter' href="//twitter.com/UTRGVWmnsTennis" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=wtrack&' >Track & Field</a><a aria-label='Womens Track & Field Schedule' href="/schedule.aspx?path=wtrack" class="srn srn-schedule" >Schedule</a><a aria-label='Womens Track & Field Roster' href="/roster.aspx?path=wtrack" class="srn srn-roster" >Roster</a><a aria-label='Womens Track & Field News' href="/archives.aspx?path=wtrack" class="srn srn-news" >News</a><a target='_blank' aria-label='Womens Track & Field Facebook' href="https://www.facebook.com/utrgv.tracknfield" class="social facebook" >Facebook</a><a target='_blank' aria-label='Womens Track & Field Twitter' href="//twitter.com/UTRGVTrackField" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=wvball&' >Volleyball</a><a aria-label='Volleyball Schedule' href="/schedule.aspx?path=wvball" class="srn srn-schedule" >Schedule</a><a aria-label='Volleyball Roster' href="/roster.aspx?path=wvball" class="srn srn-roster" >Roster</a><a aria-label='Volleyball News' href="/archives.aspx?path=wvball" class="srn srn-news" >News</a><a class="social facebook"></a><a target='_blank' aria-label='Volleyball Twitter' href="//twitter.com/UTRGV_vball" class="social twitter" >Twitter</a></li></ul></div></li><li role='menuitem'><a href='#'>Tickets</a><div role='menu' aria-hidden='true'><ul><li class='separator'><span>Baseball</span></li><li ><a  href='/sports/2015/6/23/BB_Tickets.aspx?&tab=2' >Ticket Information</a></li><li ><a  href='/documents/2015/6/24/UTRGV_Baseball_Suite_Agreement.docx' >Suite Agreement</a></li><li ><a  href='/documents/2015/6/29/2016_UTRGV_Baseball_Suite_Procedures.pdf' target='_blank'>Suite Procedures</a></li></ul><ul><li class='separator'><span>Men's Basketball</span></li><li ><a  href='/sports/2015/6/23/MBB_Tickets.aspx?&tab=2' >Ticket Information</a></li><li ><a  href='http://www.utrgvtickets.com' target='_blank'>Buy Tickets</a></li><li ><a  href='/sports/2012/8/16/assist_program.aspx?&tab=2' >Assist Program</a></li><li ><a  href='/wac?path=baseball' >#WACVegas</a></li></ul><ul><li class='separator'><span>Soccer</span></li><li ><a  href='/sports/2015/6/23/SOC_Tickets.aspx?&tab=2' >Ticket Information</a></li><li ><a  href='/documents/2015/7/2/UTRGV_Soccer_Suite_Agreement.docx' >Suite Agreement</a></li><li ><a  href='/documents/2015/7/2/2016_UTRGV_Soccer_Suite_Procedures.pdf' target='_blank'>Suite Procedures</a></li></ul><ul><li class='separator'><span>Other Sports</span></li><li ><a  href='/sports/2015/6/23/WBB_Tickets.aspx?&tab=2' >Women's Basketball</a></li><li ><a  href='/sports/2015/6/23/WVB_Tickets.aspx?&tab=2' >Volleyball</a></li><li ><a  href='/sports/2012/8/16/ticket_and_venue_policy.aspx' >Ticket & Venue Policy</a></li></ul></div></li><li role='menuitem'><a href='#'>Fan Zone</a><div role='menu' aria-hidden='true'><ul><li class='separator'><span>Game Day</span></li><li ><a  href='/sports/2010/12/2/GEN_1202103257.aspx' >Game Day Central</a></li><li ><a  href='/sports/2012/8/17/GEN_0817122712.aspx' >Juego día Central</a></li><li ><a  href='http://utrgvnation.com/sports/2015/7/28/Get%20Involved_0728153945.aspx?path=get_involved' target='_blank'>Kids Club</a></li><li ><a  href='/galleries/' >Photo Galleries</a></li><li ><a  href='http://vfanrewards.com' target='_blank'>V Fan Rewards</a></li><li ><a  href='/documents/2015/7/24/2015_16_Visitors_Guide.pdf' target='_blank'>Visitors' Guide</a></li><li ><a  href='http://wacsports.com/sports/2015/3/27/GEN_0327151717.aspx?id=2&' target='_blank'>WAC Digital Network</a></li><li ><a  href='https://www.youtube.com/user/GoUTRGV/videos?flow=list&view=2' target='_blank'>Watch Live</a></li></ul><ul><li class='separator'><span>Coaches' Twitters</span></li><li ><a  href='http://www.twitter.com/risealexander' target='_blank'>Risë Alexander</a></li><li ><a  href='https://twitter.com/jcbanfield' target='_blank'>Jordon Banfield</a></li><li ><a  href='https://twitter.com/Bretthbernstein' target='_blank'>Brett Bernstein</a></li><li ><a  href='http://www.twitter.com/CoachHansenRGV' target='_blank'>Rob Hansen</a></li><li ><a  href='https://twitter.com/Leesey06' target='_blank'>Paul Leese</a></li><li ><a  href='http://twitter.com/coachnelly11' target='_blank'>Brian Nelson</a></li><li ><a  href='https://twitter.com/ItsCoachX' target='_blank'>Xavier Richardson</a></li><li ><a  href='https://twitter.com/jaisteadman' target='_blank'>Jai Steadman</a></li><li ><a  href='http://twitter.com/utrgvsc' target='_blank'>Matt Taylor</a></li><li ><a  href='https://twitter.com/lrvera' target='_blank'>Lindsay Vera</a></li><li ><a  href='https://twitter.com/CoachWilliewat' target='_blank'>Willie Watson</a></li><li ><a  href='http://www.twitter.com/CoachSWQ' target='_blank'>Stephanie Wooten</a></li></ul><ul><li class='separator'><span>Staff Twitters</span></li><li ><a  href='https://twitter.com/UTRGV_AD' target='_blank'>Chris King</a></li><li ><a  href='http://twitter.com/vince_volpe' target='_blank'>Vince Volpe</a></li><li ><a  href='https://twitter.com/jonahutrgv' target='_blank'>Jonah Goldberg</a></li><li ><a  href='http://twitter.com/blakeday13' target='_blank'>Blake Day</a></li><li ><a  href='https://twitter.com/RiggsUTRGV' target='_blank'>David Riggs</a></li></ul><ul><li class='separator'><span>Other Social Media</span></li><li ><a  href='https://twitter.com/utrgvcompliance' target='_blank'>Compliance Twitter</a></li><li ><a  href='https://www.facebook.com/pages/UTRGV-Strength/1540726466179386' target='_blank'>Strength & Conditioning Facebook</a></li><li ><a  href='https://twitter.com/UTRGVSTRENGTH1' target='_blank'>Strength & Conditioning Twitter</a></li><li ><a  href='http://instagram.com/UTRGVWmnsTennis' target='_blank'>Women's Tennis Instagram</a></li></ul></div></li><li role='menuitem'><a href='#'>Student Services</a><div role='menu' aria-hidden='true'><ul><li class='separator'><span>Current Student-Athletes</span></li><li ><a  href='/sports/2015/6/22/academics.aspx?&tab=6' >Academics</a></li><li ><a  href='/sports/2011/4/5/GEN_0405112046.aspx' >Compliance</a></li><li>Diversity/Inclusion (Coming Soon)</li><li ><a  href='http://portal.utpa.edu/utpa_main/pres_home/eoaa_home_new/' target='_blank'>Title IX</a></li><li ><a  href='/sports/2014/7/25/SportsMedicine.aspx' >Sports Medicine </a></li><li ><a  href='/sports/2012/12/20/GEN_1220123138.aspx' >Strength & Conditioning</a></li><li ><a  href='/sports/2014/7/25/WAD.aspx' >Welfare & Development</a></li></ul><ul><li class='separator'><span>Prospective Student-Athletes</span></li><li ><a  href='/sports/2013/3/11/GEN_0311130305.aspx' >Compliance</a></li><li ><a  href='/sports/2014/7/25/Future_SAs.aspx?' >Future Student-Athletes</a></li><li ><a  href='http://www.ncaa.org/student-athletes/resources/division-i-initial-eligibility-toolkit' target='_blank'>Initial Eligibility Toolkit</a></li><li ><a  href='http://web3.ncaa.org/ECWR2/NCAA_EMS/NCAA.jsp' target='_blank'>NCAA Eligibility Center</a></li><li ><a  href='/documents/2014/10/8/EB15.pdf' target='_blank'>NCAA Eligibility Center Info</a></li><li ><a  href='/sb_output.aspx?form=3' >Questionnaire</a></li><li ><a  href='http://www.utrgv.edu' target='_blank'>UTRGV</a></li><li ><a  href='http://www.utrgv.edu/en-us/academics' target='_blank'>UTRGV Programs</a></li></ul></div></li><li role='menuitem'><a href='#'>Athletics</a><div role='menu' aria-hidden='true'><ul><li class='separator'><span>Inside Athletics</span></li><li ><a  href='/calendar.aspx' >Composite Calendar </a></li><li ><a  href='/sports/2014/4/29/facilities.aspx' >Facilities</a></li><li ><a  href='/sports/2011/2/8/GEN_0208114701.aspx' >Hall of Fame</a></li><li ><a  href='http://www.utrgv.edu/en-us/about-utrgv/careers' >Prospective Employees </a></li><li ><a  href='/staff.aspx' >Staff Directory</a></li></ul><ul><li class='separator'><span>Forms & Documents</span></li><li ><a  href='/sb_output.aspx?form=8' >Appearance Requests</a></li><li ><a  href='/sports/2012/3/30/Business Forms Orientation.aspx' >Business Forms</a></li><li ><a  href='http://www.utpabroncs.com/sports/2012/1/13/GEN_0113121813.aspx' >Trademark Licensing</a></li></ul><ul><li class='separator'><span>News</span></li><li ><a  href='https://www.youtube.com/playlist?list=PLO22UzCvui4iwu1iraooN6DB9fz845A45' target='_blank'>Archived Episodes of V Nation</a></li><li ><a  href='/archives.aspx?path=general' >News Archive</a></li><li ><a  href='/sports/2015/7/17/UTB_History.aspx' >UTB Athletics History</a></li></ul></div></li><li role='menuitem'><a href='#'>V Club</a><div role='menu' aria-hidden='true'><ul><li ><a  href='/index.aspx?path=vclub' >Information</a></li><li ><a  href='/sports/2015/9/21/VClubWaystoDonate.aspx' >Ways to Donate</a></li><li ><a  href='/sports/2015/9/25/VClubBenefits.aspx' >Benefits</a></li><li ><a  href='/sports/2015/9/11/AboutVClub.aspx' >About Us</a></li><li ><a  href='/sports/2015/9/23/GEN_0923155330.aspx' >Contact Us</a></li></ul><ul><li ><a  href='/sports/2015/9/22/VClubCapitalProjects.aspx' >Capital Projects</a></li><li ><a  href='/sports/2015/9/22/VClubCampaigns.aspx' >Campaigns</a></li><li ><a  href='/sports/2015/9/22/VClubEndowments.aspx' >Endowments</a></li><li ><a  href='/sports/2015/11/17/VClubDonorGuidebook.aspx' >Donor Guidebook</a></li><li ><a  href='https://give.utrgv.edu/DonateNow' target='_blank'>Donate Now</a></li></ul><ul><li ><a  href='http://www.utrgvnation.com' target='_blank'>UTRGVNation.com</a></li></ul></div></li><li role='menuitem'><a href='/sports/2013/8/19/v_nation_partners.aspx' >Sponsorships</a></li><li role='menuitem'><a href='http://www.utrgvgear.com' target='_blank'>Store</a></li></ul>
+
+
+
+
+
+
+
+
+                            <span></span>
+                            <div class="clear"></div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+		</header>
+		
+        
+        <main id="ctl00_contentDiv_container" class="contentDiv_container" role="main">
+            <div id="ctl00_contentDiv" class="contentDiv">
+        		<div id="ctl00_innerPage" class="sidebars">
+        			
+
+<ul class="sidebar-links"><li class='sport-home'><a href='/index.aspx?path=wtrack'>Women's Track & Field</a></li><li class=''><a href="/schedule.aspx?path=wtrack" >Schedule</a></li><li class=''><a href="/roster.aspx?path=wtrack" >Roster</a></li><li class=''><a href="/archives.aspx?path=wtrack" >Archived Stories</a></li><li class='parent '><a href="" >Home Meets</a><ul><li class=''><a href="/documents/2016/1/22/Valley_Classic_Meet_Info.pdf" >Valley Classic High School Invitational</a></li></ul></li><li class="parent additional-links"><a>Additional Links</a><ul><li class=''><a href="http://www.tfrrs.org/teams/TX_college_f_Texas_Pan_American.html" target='_blank'>Statistics</a></li><li class=''><a href="http://sidearmdmg.com/utrgv/xctrack/" >Digital Information Guide</a></li><li class=''><a href="/documents/2015/6/26/2015_16_XCTF_DMG.pdf" >Information Guide (PDF)</a></li><li class=''><a href="http://portal.utpa.edu/utpa_main/dess_home/admissions_home_new/visit_home/tour_home" target='_blank'>Virtual Tour of Campus</a></li><li class=''><a href="http://college.jumpforward.com/questionnaire.aspx?iid=451&amp;sportid=58" target='_blank'>Recruiting Questionare</a></li><li class=''><a href="/documents/2015/8/25/UTRGV_Track_Walk_on_Tryout_Info.pdf" >Tryout Information</a></li></ul></li></ul>
+
+
+
+
+
+
+
+
+        		</div>
+				<a name="content"></a>
+				
+				
+				
+    
+    <div style="clear:both;"></div>
+    <div class="story_wrapper news">
+        <div class="story_image">
+        <div id="ctl00_cplhMainContent_ctl00_story_media_divImage" class="media_object_image" style="width:1040px;;">
+        
+            
+                <img id="ctl00_cplhMainContent_ctl00_story_media_imgPrimary" src="/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2016/2/10/Geneva_at_Pistols.jpg" alt="Geneva at Pistols" style="border-width:0px;z-index:1" />
+            
+            
+            
+            <div style="clear:both"></div>
+            
+        </div>
+         
+    </div>
+        
+        <div class="story_inner_wrapper">
+            <div class="story_link_container"><span class="story_headline">Getting to Know Geneva Anderson</span></div>
+            <div class="story_subheadline"></div>
+            <div class="story_byline"></div>
+            <div class="story_date">2/10/2016 5:13:00 PM</div>     
+            <div class="noprint story_email">
+                <a href="http://www.addthis.com/bookmark.php?v=250&pub=xa-4a7320e7645958d0" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a7320e7645958d0"></script>
+            </div>      
+			<div class="story_content">
+				 <strong>EDINBURG </strong>– University of Texas Rio Grande Valley track and field senior <dfn><a href="/roster.aspx?rp_id=4959" rel="smarttag" rev="4959">Geneva Anderson</a></dfn> loves to compete in the hurdles but it wasn't always that way.<br> <br>&quot;My freshman year, I went out in conference and I thought I was going to do ok,&quot; Anderson said. &quot;Well I fell over the first hurdle and that broke me down. I was very skeptical about running the hurdles the following year.&quot;<br> <br>Anderson used that moment in her career to grow as an athlete. She knew that she had to have faith in her training and to have the confidence to be the best at the hurdles.<br> <br>&quot;Honestly, I fell in love with the hurdles,&quot; Anderson laughed. &quot;I don't know why. I came back to get third at conference my sophomore year. Last year, I had a great year when I finished second. This year I am hoping, God willing, that I win conference and go further than conference.&quot;<br> <br>Anderson didn't start working with the hurdles until she was a sophomore in high school. Although it was only during summer track, she didn't start competing in the hurdles until her senior year.<br> <br>Track has always been a part of Anderson's life but she did play basketball and even tried some flag football. She quickly realized that her passion was for track.<br> <br>&quot;My passion for track was more than my passion for basketball,&quot; Anderson said. &quot;I loved track more than anything.&quot;<br> <br>Anderson was born in Austin but was raised in Washington, D.C. where she competed with one of the best Track AAU teams. Anderson loved the fact that track took her to different places like Florida, California and even back to Texas.<br> <br>Anderson moved to Washington because her mom wanted her to get a taste of a different environment but before entering high school it was her mom who believed she would be better recruited in Texas.<br> <br>&quot;My mom wanted me to get a taste of a different environment,&quot; Anderson said. &quot;She also felt that I could get recruited better in Texas instead of D.C. so we moved back to Texas.&quot;<br> <br>Anderson made the move back to Texas before enrolling at Round Rock High School where she lettered in basketball and track and field for four years. She thrived in both sports as she earned Defensive Player of the Year and First Team All-District as a senior, All-District Honorable Mention as a junior, All-District as a sophomore and Freshman Player of the Year as a freshman.<br> <br>On the track, she was named Best Female Athlete and earned All-District 16-5A as a senior after winning championships in the 300-meter hurdles, the 4x200-meter relay and the 4x400-meter relay.<br> <br>She also was a regional finalist as a junior, regional qualifier as a sophomore and was named the Most Outstanding Newcomer as a freshman.<br> <br>Coming out of high school, Anderson was happy to come to the Rio Grande Valley. There was one big reason why she chose the University of Texas-Pan American and that was because of Vaqueros head coach <dfn><a href="/coaches.aspx?rc=1054" rel="smarttag" rev="1054">Xavier Richardson</a></dfn>.<br> <br>&quot;Coach X came to my practice either my sophomore or junior year,&quot; Anderson said. &quot;He came to one of my summer practices and he watched me die out there. I met him then and we have had a great relationship since then. He always checked up on me and it made me feel more at home. When I finally signed here, I was very happy.&quot;<br> <br>Anderson isn't the first student-athlete to say that Coach Richardson is the reason they chose to be here. Anderson points to the way he genuinely cares about the members on his team and how he wants them to be the best that they can be.<br> <br>&quot;He wants us to have faith in him and to trust the process of becoming a better athlete,&quot; Anderson said. &quot;That is how my relationship with him grew. I have trusted him for years and this year has been one of my best so far.&quot;<br> <br>Anderson likes the fact that Coach Richardson always pushes her to be better. Coach Richardson knows where they are coming from and Anderson likes that he can relate to their situations.<br> <br>&quot;He makes sure I am on top of my stuff,&quot; Anderson said. &quot;He is very understandable, so when I talk to him, I can talk to him about anything. He understands and he gives great advice.&quot;<br> <br>All the advice she has taken over her four years at UTRGV has allowed her to grow as a person. Early on in her collegiate career, Anderson made some bad choices but she did what most college students do and that is learn from her mistakes.<br> <br>&quot;My freshman year was my toughest year,&quot; Anderson said. &quot;I got into some trouble by hanging out with the wrong people. I started to grow and learn though and finally I started to build on whom I was. I started maturing and now in my senior year I feel even more mature.&quot;<br> <br>Looking back to her time here, Anderson realizes that she must be a role model for her teammates. She knows how difficult it can be for a student-athlete and she tries to lead by example.<br> <br>&quot;I know I have people looking up to me and depending on me,&quot; Anderson said. &quot;It is always important to stay positive and keep encouraging everybody. I just try to encourage everyone to do good even when someone is feeling down. I just try to help others.&quot;<br> <br>On the track, Anderson has grown as well. After her performance at the conference meet her freshman season, Anderson bounced back with a third place finish in the 400-meter hurdles as a sophomore.<br> <br>She then improved her standing as a junior after finishing in second place in the 400-meter hurdles at the WAC Outdoor Championships where her and her teammates finished in first, second and third to dominate the podium.<br> <br>That moment where she and her teammates, <dfn><a href="/roster.aspx?rp_id=4487" rel="smarttag" rev="4487">Deandra Barroso</a></dfn> and <dfn><a href="/roster.aspx?rp_id=4988" rel="smarttag" rev="4988">Stephanie Vazquez</a></dfn>, stood on the podium has been Anderson's favorite moment of her collegiate career, so far.<br> <br>&quot;My favorite memory came last year when we took top three in the hurdles,&quot; Anderson said. &quot;That was the best. I had never seen coach so happy. That was our dream since our freshman year and we got it.&quot;<br> <br>Anderson hopes to repeat that feat this year. With Barroso now graduated it will be up to Anderson and Vazquez to hold up their end. Anderson believes it can happen again this year.<br> <br>&quot;We have three good hurdlers,&quot; Anderson said. &quot;We are running with each other and we are trusting in the process. We trust in coach and we trust in the workouts. When it comes down to it, I believe we can do it again this year.&quot;<br> <br>Anderson is majoring in criminal justice with a minor in legal studies. She plans on graduating in August and maybe one-day work with a sports agency or in sports management.<br> <br>Anderson is willing to go wherever she can get a good job at, even if it is outside of Texas. She wouldn't mind going back to the east coast.<br> <br>Once the time comes where she will have to leave UTRGV, Anderson is going to miss being able to bond with her teammates, traveling with them and of course the running.<br> <br>&quot;I am going to miss running,&quot; Anderson laughed. &quot;I am going to miss the traveling and having the team bonding. I am going to miss waking up every morning and going to weights, going to class and then going to practice. I am going to miss it all.&quot;<br><br><a href="https://give.utrgv.edu/DonateNow">Support UTRGV Track and Field</a> | <a href="https://www.facebook.com/UTRGVAthletics">Become a Fan on Facebook</a> | <a href="https://twitter.com/GoUTRGV">Follow us on Twitter</a> | <a href="http://instagram.com/goutrgv/">Follow us on Instagram</a> | <a href="http://www.youtube.com/c/goutrgvathletics">Follow us on YouTube</a><br> <div class='print-friendly-story-button'><a onclick='window.open(this.href,"_blank");return false;' href='/news/2016/2/10/WTRACK_0210161834.aspx?print=true'>Print Friendly Version</a></div>
+				<br /><br />
+				<center>
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+</center>
+			</div>
+        </div>    
+    </div>
+
+    <div id="ctl00_cplhMainContent_fan_interaction_controls">
+	<div class='google_plus1_container'><g:plusone size='medium' count='true'></g:plusone></div><div class='story_tweet_button'><a href='http://twitter.com/share' class='twitter-share-button' data-count='horizontal'>Tweet</a><script type='text/javascript' src='http://platform.twitter.com/widgets.js'></script></div><div class='linkedin_container'><script type='IN/Share' data-counter='right'></script></div><div class='pintrest_container'><a href='http://pinterest.com/pin/create/button/?url=%2fnews%2f2016%2f2%2f10%2fwtrack_0210161834.aspx&media=http%3a%2f%2fgoutrgv.com%2fimages%2f2016%2f2%2f10%2fGeneva_at_Pistols.jpg&description=Getting to Know Geneva Anderson' class='pin-it-button' count-layout='horizontal'><img border='0' src='//assets.pinterest.com/images/PinExt.png' title='Pin It' alt='Pinterest - Pin It' /></a><script type="text/javascript">js = document.createElement('script');js.src = 'http://assets.pinterest.com/js/pinit.js';js.type = 'text/javascript';document.body.appendChild(js);</script></div>
+</div>
+    
+
+			</div>
+		</main>
+
+        <div id="bottom_ads">
+            
+    
+    
+    
+            <a href="/halloffame" id="ctl00_ctl06_rptAds_ctl00_hlAdSpot" onclick="window.open('/common/controls/adhandler.aspx?ad_id=305&amp;target=/halloffame', '_self'); return false;" rel="nofollow" class=" " rev="sponsor_ad_1">
+                
+        <img id="ctl00_ctl06_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/25/promo_235x120_hof.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/25/promo_235x120_hof.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/25/promo_235x120_hof.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+            
+    
+    
+    
+            <a href="https://www.youtube.com/playlist?list=PLO22UzCvui4iwu1iraooN6DB9fz845A45" id="ctl00_ctl07_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=306&amp;target=https://www.youtube.com/playlist?list=PLO22UzCvui4iwu1iraooN6DB9fz845A45', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_ad_2">
+                
+        <img id="ctl00_ctl07_rptAds_ctl00_mediaAd_imgPrimary_LS" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2016/1/19/WatchVNati0n235x120.jpg" alt="Watch V Nation" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+            
+    
+    
+    
+            <a href="https://www.youtube.com/c/GoUTRGVAthletics/videos?flow=list&view=2" id="ctl00_ctl08_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=307&amp;target=https://www.youtube.com/c/GoUTRGVAthletics/videos?flow=list$$view=2', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_ad_3">
+                
+        <img id="ctl00_ctl08_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/25/promo_235x120_watch.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/25/promo_235x120_watch.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/25/promo_235x120_watch.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+            
+    
+    
+    
+            <a href="https://www.geico.com/landingpage/member-discount/?logo=70716" id="ctl00_ctl09_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=308&amp;target=https://www.geico.com/landingpage/member-discount/?logo=70716', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_ad_4">
+                
+        <img id="ctl00_ctl09_rptAds_ctl00_mediaAd_imgPrimary_LS" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2016/2/9/Geico_2_8.jpg" alt="Geico 2-8-16" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+            <div class="clear"></div>
+            <div id="sponsor_overflow">
+                <div class="belt">
+                    
+    
+    
+    
+            <a href="http://www.dhr-rgv.com/" id="ctl00_ctl10_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=320&amp;target=http://www.dhr-rgv.com/', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_1">
+                
+        <img id="ctl00_ctl10_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/10/9/NewDHR184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/10/9/NewDHR184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/10/9/NewDHR184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.universitydrafthouse.com/#!contact/c2q4" id="ctl00_ctl11_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=360&amp;target=http://www.universitydrafthouse.com/#!contact/c2q4', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_2">
+                
+        <img id="ctl00_ctl11_rptAds_ctl00_mediaAd_imgPrimary_LS" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/8/24/UniversityDrafthouse184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://edinburgedc.com" id="ctl00_ctl12_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=321&amp;target=http://edinburgedc.com', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_3">
+                
+        <img id="ctl00_ctl12_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/EdinburgEDC184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/EdinburgEDC184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/EdinburgEDC184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="https://www.wellsfargo.com/locator/#tx" id="ctl00_ctl13_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=322&amp;target=https://www.wellsfargo.com/locator/#tx', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_4">
+                
+        <img id="ctl00_ctl13_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/WellsFargo184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/WellsFargo184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/WellsFargo184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.cityofedinburg.com" id="ctl00_ctl15_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=324&amp;target=http://www.cityofedinburg.com', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_6">
+                
+        <img id="ctl00_ctl15_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/CityofEdinburg184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/CityofEdinburg184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/CityofEdinburg184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://http//www.pharrlegalservices.com" id="ctl00_ctl18_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=327&amp;target=http://http//www.pharrlegalservices.com', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_9">
+                
+        <img id="ctl00_ctl18_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Thompson184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Thompson184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Thompson184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="https://www.txfb-ins.com/Pages/default.aspx" id="ctl00_ctl19_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=328&amp;target=https://www.txfb-ins.com/Pages/default.aspx', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_10">
+                
+        <img id="ctl00_ctl19_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/TexasFarmBureau184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/TexasFarmBureau184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/TexasFarmBureau184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.krgv.com" id="ctl00_ctl21_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=330&amp;target=http://www.krgv.com', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_12">
+                
+        <img id="ctl00_ctl21_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/KRGV184x90_2.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/KRGV184x90_2.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/KRGV184x90_2.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="https://www.aeptexas.com" id="ctl00_ctl22_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=331&amp;target=https://www.aeptexas.com', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_13">
+                
+        <img id="ctl00_ctl22_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/AEPTexas184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/AEPTexas184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/AEPTexas184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="https://www.texasregionalbank.com" id="ctl00_ctl23_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=332&amp;target=https://www.texasregionalbank.com', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_14">
+                
+        <img id="ctl00_ctl23_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/TexasRegionalBank184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/TexasRegionalBank184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/TexasRegionalBank184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="https://www.lonestarnationalbank.com/atm-locator/" id="ctl00_ctl24_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=333&amp;target=https://www.lonestarnationalbank.com/atm-locator/', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_15">
+                
+        <img id="ctl00_ctl24_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/LSNB184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/LSNB184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/LSNB184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.bluewaveexpress.com" id="ctl00_ctl25_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=334&amp;target=http://www.bluewaveexpress.com', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_16">
+                
+        <img id="ctl00_ctl25_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2016/2/4/Blue_Wave_Logo_Rotator.jpg'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2016/2/4/Blue_Wave_Logo_Rotator.jpg'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2016/2/4/Blue_Wave_Logo_Rotator.jpg" alt="Blue Wave Rotator" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="common/controls/plazasportscenter.com/" id="ctl00_ctl26_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=368&amp;target=plazasportscenter.com/', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_17">
+                
+        <img id="ctl00_ctl26_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2016/1/29/Plaza_Sports_Rotator.jpg'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2016/1/29/Plaza_Sports_Rotator.jpg'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2016/1/29/Plaza_Sports_Rotator.jpg" alt="Plaza Sports Rotator" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.academy.com/shop/store/store-locator" id="ctl00_ctl27_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=314&amp;target=http://www.academy.com/shop/store/store-locator', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_18">
+                
+        <img id="ctl00_ctl27_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Academy184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Academy184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Academy184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.alphabuilding.com" id="ctl00_ctl28_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=315&amp;target=http://www.alphabuilding.com', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_19">
+                
+        <img id="ctl00_ctl28_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/7/1/AlphaBuilding184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/7/1/AlphaBuilding184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/7/1/AlphaBuilding184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://portal.utpa.edu/utpa_main/daa_home/cosbs_home/rotc_home/news_events" id="ctl00_ctl29_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=316&amp;target=http://portal.utpa.edu/utpa_main/daa_home/cosbs_home/rotc_home/news_events', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_20">
+                
+        <img id="ctl00_ctl29_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/ArmyROTC184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/ArmyROTC184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/ArmyROTC184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="https://www.riobk.com/Locations-Hours.aspx" id="ctl00_ctl31_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=335&amp;target=https://www.riobk.com/Locations-Hours.aspx', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_22">
+                
+        <img id="ctl00_ctl31_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/RioBank184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/RioBank184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/RioBank184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.utpaalumni.com" id="ctl00_ctl32_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=336&amp;target=http://www.utpaalumni.com', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_23">
+                
+        <img id="ctl00_ctl32_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/UTPAAlumniAssociation184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/UTPAAlumniAssociation184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/UTPAAlumniAssociation184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.chemcal.com/contact/" id="ctl00_ctl33_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=337&amp;target=http://www.chemcal.com/contact/', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_24">
+                
+        <img id="ctl00_ctl33_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/ChemCal184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/ChemCal184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/ChemCal184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.magicvalley.coop/contact-us" id="ctl00_ctl34_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=338&amp;target=http://www.magicvalley.coop/contact-us', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_25">
+                
+        <img id="ctl00_ctl34_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/MagicValleyElectric184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/MagicValleyElectric184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/MagicValleyElectric184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="common/controls/www.cardenasautogroup.com" id="ctl00_ctl35_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=365&amp;target=www.cardenasautogroup.com', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_26">
+                
+        <img id="ctl00_ctl35_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2016/1/29/Cardenas Logo.jpg'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2016/1/29/Cardenas Logo.jpg'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2016/1/29/Cardenas Logo.jpg" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="common/controls/buyhaciendaford.com" id="ctl00_ctl36_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=366&amp;target=buyhaciendaford.com', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_27">
+                
+        <img id="ctl00_ctl36_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2016/1/29/Hacienda Logo.jpg'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2016/1/29/Hacienda Logo.jpg'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2016/1/29/Hacienda Logo.jpg" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="common/controls/www.ibc.com/en-us/Pages/Default.aspx" id="ctl00_ctl37_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=367&amp;target=www.ibc.com/en-us/Pages/Default.aspx', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_28">
+                
+        <img id="ctl00_ctl37_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2016/1/29/IBC Bank Logo.jpg'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2016/1/29/IBC Bank Logo.jpg'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2016/1/29/IBC Bank Logo.jpg" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.southtexasgmc.net/ContactUsForm" id="ctl00_ctl39_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=343&amp;target=http://www.southtexasgmc.net/ContactUsForm', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_30">
+                
+        <img id="ctl00_ctl39_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/SouthTexasGMC184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/SouthTexasGMC184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/SouthTexasGMC184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.spikesford.net/contact.htm" id="ctl00_ctl40_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=344&amp;target=http://www.spikesford.net/contact.htm', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_31">
+                
+        <img id="ctl00_ctl40_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/SpikesFord184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/SpikesFord184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/SpikesFord184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.lq.com/en.html" id="ctl00_ctl42_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=346&amp;target=http://www.lq.com/en.html', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_33">
+                
+        <img id="ctl00_ctl42_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/LaQuinta184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/LaQuinta184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/LaQuinta184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="https://www.motel6.com/content/g6/motel6/motel6-com/en/motels.tx.pharr.4194.html" id="ctl00_ctl43_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=347&amp;target=https://www.motel6.com/content/g6/motel6/motel6-com/en/motels.tx.pharr.4194.html', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_34">
+                
+        <img id="ctl00_ctl43_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Motel6184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Motel6184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Motel6184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.cornerbakerycafe.com" id="ctl00_ctl44_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=348&amp;target=http://www.cornerbakerycafe.com', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_35">
+                
+        <img id="ctl00_ctl44_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/CornerBakery184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/CornerBakery184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/CornerBakery184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://carpetexpressrgv.com" id="ctl00_ctl45_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=349&amp;target=http://carpetexpressrgv.com', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_36">
+                
+        <img id="ctl00_ctl45_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/CarpetExpress184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/CarpetExpress184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/CarpetExpress184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://doubletree3.hilton.com/en/hotels/texas/doubletree-suites-by-hilton-hotel-mcallen-MFEDTDT/index.html" id="ctl00_ctl46_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=350&amp;target=http://doubletree3.hilton.com/en/hotels/texas/doubletree-suites-by-hilton-hotel-mcallen-MFEDTDT/index.html', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_37">
+                
+        <img id="ctl00_ctl46_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/DoubleTree184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/DoubleTree184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/DoubleTree184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.marriott.com/hotels/travel/mfebr-casa-de-palmas-renaissance-mcallen-hotel/" id="ctl00_ctl47_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=351&amp;target=http://www.marriott.com/hotels/travel/mfebr-casa-de-palmas-renaissance-mcallen-hotel/', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_38">
+                
+        <img id="ctl00_ctl47_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Renaissance184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Renaissance184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Renaissance184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.marriott.com/hotels/travel/mfecy-courtyard-mcallen-airport/" id="ctl00_ctl48_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=352&amp;target=http://www.marriott.com/hotels/travel/mfecy-courtyard-mcallen-airport/', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_39">
+                
+        <img id="ctl00_ctl48_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Courtyard184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Courtyard184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Courtyard184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.marriott.com/hotels/travel/mfema-springhill-suites-mcallen/" id="ctl00_ctl49_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=353&amp;target=http://www.marriott.com/hotels/travel/mfema-springhill-suites-mcallen/', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_40">
+                
+        <img id="ctl00_ctl49_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/SpringHill184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/SpringHill184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/SpringHill184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.marriott.com/hotels/travel/mfefi-fairfield-inn-and-suites-mcallen-airport/" id="ctl00_ctl50_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=354&amp;target=http://www.marriott.com/hotels/travel/mfefi-fairfield-inn-and-suites-mcallen-airport/', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_41">
+                
+        <img id="ctl00_ctl50_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Fairfield184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Fairfield184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Fairfield184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://homewoodsuites3.hilton.com/en/hotels/texas/homewood-suites-by-hilton-mcallen-MFEWRHW/index.html" id="ctl00_ctl51_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=355&amp;target=http://homewoodsuites3.hilton.com/en/hotels/texas/homewood-suites-by-hilton-mcallen-MFEWRHW/index.html', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_42">
+                
+        <img id="ctl00_ctl51_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Homewood184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Homewood184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Homewood184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://hamptoninn3.hilton.com/en/hotels/texas/hampton-inn-and-suites-mcallen-MFESPHX/index.html" id="ctl00_ctl52_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=356&amp;target=http://hamptoninn3.hilton.com/en/hotels/texas/hampton-inn-and-suites-mcallen-MFESPHX/index.html', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_43">
+                
+        <img id="ctl00_ctl52_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/HamptonInn184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/HamptonInn184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/HamptonInn184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://cordonstasteofchicago.com" id="ctl00_ctl53_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=357&amp;target=http://cordonstasteofchicago.com', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_44">
+                
+        <img id="ctl00_ctl53_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Cordons184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Cordons184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/Cordons184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://embroidme-mcallentx.com" id="ctl00_ctl54_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=358&amp;target=http://embroidme-mcallentx.com', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_45">
+                
+        <img id="ctl00_ctl54_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/EmbroidMe184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/EmbroidMe184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/EmbroidMe184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.coca-cola.com/global/glp.html" id="ctl00_ctl55_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=359&amp;target=http://www.coca-cola.com/global/glp.html', '_blank'); return false;" rel="nofollow" class=" " rev="sponsor_rotator_46">
+                
+        <img id="ctl00_ctl55_rptAds_ctl00_mediaAd_imgPrimary_LS" onmouseover="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/CocaCola184x90.png'" onmouseout="this.src = '//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/CocaCola184x90.png'" src="//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/29/CocaCola184x90.png" style="border-width:0px;z-index:1;display:block;" />
+    
+            </a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                </div>
+            </div>
+        </div>
+			
+		<footer id="footer">
+            
+    
+    
+    
+            <a href="http://www.utrgv.edu" id="ctl00_ctl85_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='0px 0px '" rel="nofollow" class="sprite-ad " target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=294&amp;target=http://www.utrgv.edu', '_blank'); return false;" onmouseover="this.style.backgroundPosition='0px 0px '" style="width:135px;height:75px;background:url(//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/9/footer_sprite.png) no-repeat 0px 0px " rev="sponsor_footer_1">UTRGV</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+            
+    
+    
+    
+            <a href="http://adidas.com" id="ctl00_ctl86_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-135px 0px '" rel="nofollow" class="sprite-ad " target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=295&amp;target=http://adidas.com', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-135px 0px '" style="width:220px;height:75px;background:url(//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/9/footer_sprite.png) no-repeat -135px 0px " rev="sponsor_footer_2">Adidas</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+            
+    
+    
+    
+            <a href="http://www.wacsports.com" id="ctl00_ctl87_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-355px 0px '" rel="nofollow" class="sprite-ad " target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=296&amp;target=http://www.wacsports.com', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-355px 0px '" style="width:150px;height:75px;background:url(//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/9/footer_sprite.png) no-repeat -355px 0px " rev="sponsor_footer_3">WAC</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+            
+    
+    
+    
+            <a href="http://www.ncaa.com" id="ctl00_ctl88_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-505px 0px '" rel="nofollow" class="sprite-ad " target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=297&amp;target=http://www.ncaa.com', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-505px 0px '" style="width:75px;height:75px;background:url(//s3.amazonaws.com/sidearm.sites/utpabroncs.com/images/2015/6/9/footer_sprite.png) no-repeat -505px 0px " rev="sponsor_footer_4">NCAA</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+            <a href="http://www.sidearmsports.com" id="sidearm_logo">www.sidearmsports.com</a>
+            <p>Preparing our student-athletes for excellence in life</p>
+			<div id='sidearm_copyright'><a href='//www.sidearmsports.com/privacypolicy/' target='_blank'>Privacy Policy </a><a href='//www.sidearmsports.com/terms-of-service/' target='_blank'>Terms of Service</a></div>
+		</footer>
+
+        <div id="stickybar">
+            <div>
+                <a href="/index.aspx"><img src="/images/sticky_logo.png" alt="Stickybar Logo"></a>
+                <div id="scoreboard"></div>
+                <div id="sticky_social_ads">
+                    
+    
+    
+    
+            <a href="http://www.facebook.com/UTRGVAthletics" id="ctl00_ctl89_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=298&amp;target=http://www.facebook.com/UTRGVAthletics', '_blank'); return false;" rel="nofollow" class=" " rev="sticky_social_1"><i class='sidearm-ad-icon icon-facebook_v2'><span class ='icon_title'>Stickybar Facebook</span></i></a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="https://www.twitter/goutrgv" id="ctl00_ctl90_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=299&amp;target=https://www.twitter/goutrgv', '_blank'); return false;" rel="nofollow" class=" " rev="sticky_social_2"><i class='sidearm-ad-icon icon-twitter'><span class ='icon_title'>Stickybar Twitter</span></i></a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="https://instagram.com/goutrgv" id="ctl00_ctl91_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=300&amp;target=https://instagram.com/goutrgv', '_blank'); return false;" rel="nofollow" class=" " rev="sticky_social_3"><i class='sidearm-ad-icon icon-instagram'><span class ='icon_title'>Stickybar Instagram</span></i></a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://youtube.com/c/goutrgvathletics" id="ctl00_ctl92_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=301&amp;target=http://youtube.com/c/goutrgvathletics', '_blank'); return false;" rel="nofollow" class=" " rev="sticky_social_4"><i class='sidearm-ad-icon icon-youtube'><span class ='icon_title'>Stickybar Youtube</span></i></a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="http://www.utrgvtickets.com" id="ctl00_ctl93_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=302&amp;target=http://www.utrgvtickets.com', '_blank'); return false;" rel="nofollow" class=" " rev="sticky_social_5"><i class='sidearm-ad-icon icon-tickets'><span class ='icon_title'>Stickybar Tickets</span></i></a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+
+
+
+
+  
+
+
+
+    
+
+                    
+    
+    
+    
+            <a href="/rss_feeds.aspx" id="ctl00_ctl95_rptAds_ctl00_hlAdSpot" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=304&amp;target=/rss_feeds.aspx', '_blank'); return false;" rel="nofollow" class=" " rev="sticky_social_7"><i class='sidearm-ad-icon icon-rss'><span class ='icon_title'>Stickybar Rss</span></i></a>
+        
+
+
+
+
+  
+
+
+
+    
+
+                    
+                </div>
+            </div>
+        </div>
+    
+<script type="text/javascript">addLoadEvent(count_ad_master);</script><script type="text/javascript">checkVersion;</script><script type="text/javascript">fkey = '48e83e2aec850027c71'</script><script type="text/javascript">count_ad(305);</script><script type="text/javascript">launch_ads ('sponsor_ad_1',true,8000)</script><script type="text/javascript">count_ad(306);</script><script type="text/javascript">launch_ads ('sponsor_ad_2',true,8000)</script><script type="text/javascript">count_ad(307);</script><script type="text/javascript">launch_ads ('sponsor_ad_3',true,8000)</script><script type="text/javascript">count_ad(308);</script><script type="text/javascript">launch_ads ('sponsor_ad_4',true,8000)</script><script type="text/javascript">count_ad(320);</script><script type="text/javascript">launch_ads ('sponsor_rotator_1',true,8000)</script><script type="text/javascript">count_ad(360);</script><script type="text/javascript">launch_ads ('sponsor_rotator_2',true,8000)</script><script type="text/javascript">count_ad(321);</script><script type="text/javascript">launch_ads ('sponsor_rotator_3',true,8000)</script><script type="text/javascript">count_ad(322);</script><script type="text/javascript">launch_ads ('sponsor_rotator_4',true,8000)</script><script type="text/javascript">count_ad(324);</script><script type="text/javascript">launch_ads ('sponsor_rotator_6',true,8000)</script><script type="text/javascript">count_ad(327);</script><script type="text/javascript">launch_ads ('sponsor_rotator_9',true,8000)</script><script type="text/javascript">count_ad(328);</script><script type="text/javascript">launch_ads ('sponsor_rotator_10',true,8000)</script><script type="text/javascript">count_ad(330);</script><script type="text/javascript">launch_ads ('sponsor_rotator_12',true,8000)</script><script type="text/javascript">count_ad(331);</script><script type="text/javascript">launch_ads ('sponsor_rotator_13',true,8000)</script><script type="text/javascript">count_ad(332);</script><script type="text/javascript">launch_ads ('sponsor_rotator_14',true,8000)</script><script type="text/javascript">count_ad(333);</script><script type="text/javascript">launch_ads ('sponsor_rotator_15',true,8000)</script><script type="text/javascript">count_ad(334);</script><script type="text/javascript">launch_ads ('sponsor_rotator_16',true,8000)</script><script type="text/javascript">count_ad(368);</script><script type="text/javascript">launch_ads ('sponsor_rotator_17',true,8000)</script><script type="text/javascript">count_ad(314);</script><script type="text/javascript">launch_ads ('sponsor_rotator_18',true,8000)</script><script type="text/javascript">count_ad(315);</script><script type="text/javascript">launch_ads ('sponsor_rotator_19',true,8000)</script><script type="text/javascript">count_ad(316);</script><script type="text/javascript">launch_ads ('sponsor_rotator_20',true,8000)</script><script type="text/javascript">count_ad(335);</script><script type="text/javascript">launch_ads ('sponsor_rotator_22',true,8000)</script><script type="text/javascript">count_ad(336);</script><script type="text/javascript">launch_ads ('sponsor_rotator_23',true,8000)</script><script type="text/javascript">count_ad(337);</script><script type="text/javascript">launch_ads ('sponsor_rotator_24',true,8000)</script><script type="text/javascript">count_ad(338);</script><script type="text/javascript">launch_ads ('sponsor_rotator_25',true,8000)</script><script type="text/javascript">count_ad(365);</script><script type="text/javascript">launch_ads ('sponsor_rotator_26',true,8000)</script><script type="text/javascript">count_ad(366);</script><script type="text/javascript">launch_ads ('sponsor_rotator_27',true,8000)</script><script type="text/javascript">count_ad(367);</script><script type="text/javascript">launch_ads ('sponsor_rotator_28',true,8000)</script><script type="text/javascript">count_ad(343);</script><script type="text/javascript">launch_ads ('sponsor_rotator_30',true,8000)</script><script type="text/javascript">count_ad(344);</script><script type="text/javascript">launch_ads ('sponsor_rotator_31',true,8000)</script><script type="text/javascript">count_ad(346);</script><script type="text/javascript">launch_ads ('sponsor_rotator_33',true,8000)</script><script type="text/javascript">count_ad(347);</script><script type="text/javascript">launch_ads ('sponsor_rotator_34',true,8000)</script><script type="text/javascript">count_ad(348);</script><script type="text/javascript">launch_ads ('sponsor_rotator_35',true,8000)</script><script type="text/javascript">count_ad(349);</script><script type="text/javascript">launch_ads ('sponsor_rotator_36',true,8000)</script><script type="text/javascript">count_ad(350);</script><script type="text/javascript">launch_ads ('sponsor_rotator_37',true,8000)</script><script type="text/javascript">count_ad(351);</script><script type="text/javascript">launch_ads ('sponsor_rotator_38',true,8000)</script><script type="text/javascript">count_ad(352);</script><script type="text/javascript">launch_ads ('sponsor_rotator_39',true,8000)</script><script type="text/javascript">count_ad(353);</script><script type="text/javascript">launch_ads ('sponsor_rotator_40',true,8000)</script><script type="text/javascript">count_ad(354);</script><script type="text/javascript">launch_ads ('sponsor_rotator_41',true,8000)</script><script type="text/javascript">count_ad(355);</script><script type="text/javascript">launch_ads ('sponsor_rotator_42',true,8000)</script><script type="text/javascript">count_ad(356);</script><script type="text/javascript">launch_ads ('sponsor_rotator_43',true,8000)</script><script type="text/javascript">count_ad(357);</script><script type="text/javascript">launch_ads ('sponsor_rotator_44',true,8000)</script><script type="text/javascript">count_ad(358);</script><script type="text/javascript">launch_ads ('sponsor_rotator_45',true,8000)</script><script type="text/javascript">count_ad(359);</script><script type="text/javascript">launch_ads ('sponsor_rotator_46',true,8000)</script><script type="text/javascript">count_ad(294);</script><script type="text/javascript">launch_ads ('sponsor_footer_1',true,8000)</script><script type="text/javascript">count_ad(295);</script><script type="text/javascript">launch_ads ('sponsor_footer_2',true,8000)</script><script type="text/javascript">count_ad(296);</script><script type="text/javascript">launch_ads ('sponsor_footer_3',true,8000)</script><script type="text/javascript">count_ad(297);</script><script type="text/javascript">launch_ads ('sponsor_footer_4',true,8000)</script><script type="text/javascript">count_ad(298);</script><script type="text/javascript">launch_ads ('sticky_social_1',true,8000)</script><script type="text/javascript">count_ad(299);</script><script type="text/javascript">launch_ads ('sticky_social_2',true,8000)</script><script type="text/javascript">count_ad(300);</script><script type="text/javascript">launch_ads ('sticky_social_3',true,8000)</script><script type="text/javascript">count_ad(301);</script><script type="text/javascript">launch_ads ('sticky_social_4',true,8000)</script><script type="text/javascript">count_ad(302);</script><script type="text/javascript">launch_ads ('sticky_social_5',true,8000)</script><script type="text/javascript">count_ad(304);</script><script type="text/javascript">launch_ads ('sticky_social_7',true,8000)</script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+<script>
+    $(function(){
+        $("#search_selector").appendTo("#nav > ul");
+        $("#nav .social.facebook").append("<i class='icon-facebook_v2'></i>");
+        $("#nav .social.twitter").append("<i class='icon-twitter'></i>");
+        var $sticky = $("#nav_container");
+        $(window).scroll(function(){
+            $sticky.toggleClass("stuck", $(window).scrollTop() >= 110);
+        });
+
+        $("#scoreboard").scoreboard({
+            "width":680, // container width
+            "height":50, // container width
+            "btmskin": "", // container background
+            "btns": "http://assets.sidearmsports.com/common/images/scoreboard_buttons_white", // button set, optional defaults to white
+            "bx": 0, // button left offset
+            "by": 18, // button top offset
+            "tx": 60, // ticker left offset
+            "ty": 0, // ticker top offset
+            "th": 50, // ticker height
+            "tw": 800 // ticker width
+        });
+    });// end function ready 
+
+    $(window).load(function(){
+        $("#sponsor_overflow").overflow({
+
+        })
+    })//end window load function
+    
+</script>
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19738706-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>

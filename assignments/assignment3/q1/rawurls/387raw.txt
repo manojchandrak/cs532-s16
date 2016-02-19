@@ -1,0 +1,8 @@
+<html>
+<body onload="document.forms[0].submit()">
+<form action="http://mainichi.jp/articles/20160210/ddl/k22/040/095000c" method="post" id="form" name="form">
+<input type="hidden" name="ck" value=1>
+<button type="submit" style="background-color:#ffffff;border-color:#ffffff;border-width:0px"></button>
+</form>
+</body>
+<html>

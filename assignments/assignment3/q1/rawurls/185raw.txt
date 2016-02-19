@@ -1,0 +1,2799 @@
+<!DOCTYPE html>
+<html>
+<head><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Uw8BVlNADAEDUFdbDw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function s(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);return i}function c(t,e){d[t]=f(t).concat(e)}function f(t){return d[t]||[]}function u(){return r(s)}var d={};return{on:c,emit:s,create:u,listeners:f,context:e,_events:d}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:21,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),a.xhrWrappable&&t(2),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:22,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").create(),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:23,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:23,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:23,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,l,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-",o)}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:23,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=this.lastSize||n(t);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t){var e=t.responseType,n="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return r(n)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=0,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:12,4:8,5:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:21,2:22,handle:"D5DuLP"}],12:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var h=0},{1:21,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],21:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],22:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],23:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:22,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+	<link href='http://fonts.googleapis.com/css?family=Ledger|Oswald&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+	<title>SLIPKNOT&#039;s Corey Taylor Says Phil Anselmo Controversy Is Part of A Bigger Problem In Metal - Metal Injection</title>
+	 <meta name="viewport" content="width=device-width, initial-scale=1">
+
+		
+<!-- This site is optimized with the Yoast SEO plugin v3.0.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.metalinjection.net/latest-news/drama/slipknots-corey-taylor-says-phil-anselmo-controversy-is-part-of-a-bigger-problem-in-metal" />
+<link rel="publisher" href="https://plus.google.com/metalinjection"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="SLIPKNOT&#039;s Corey Taylor Says Phil Anselmo Controversy Is Part of A Bigger Problem In Metal - Metal Injection" />
+<meta property="og:description" content="Here&#039;s what Corey Taylor thinks of the Phil Anselmo controversy." />
+<meta property="og:url" content="http://www.metalinjection.net/latest-news/drama/slipknots-corey-taylor-says-phil-anselmo-controversy-is-part-of-a-bigger-problem-in-metal" />
+<meta property="og:site_name" content="Metal Injection" />
+<meta property="article:publisher" content="http://facebook.com/metalinjection" />
+<meta property="article:tag" content="corey taylor" />
+<meta property="article:tag" content="phil anselmo" />
+<meta property="article:tag" content="slipknot" />
+<meta property="article:section" content="Drama" />
+<meta property="article:published_time" content="2016-02-10T15:56:23+00:00" />
+<meta property="article:modified_time" content="2016-02-10T16:18:06+00:00" />
+<meta property="og:updated_time" content="2016-02-10T16:18:06+00:00" />
+<meta property="fb:app_id" content="151197663443" />
+<meta property="og:image" content="http://metalinjection.junipconcepts.netdna-cdn.com/wp-content/uploads/2016/01/Corey-Taylor-Slipknot.jpg?5a13a1" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="Here&#039;s what Corey Taylor thinks of the Phil Anselmo controversy. "/>
+<meta name="twitter:title" content="SLIPKNOT&#039;s Corey Taylor Says Phil Anselmo Controversy Is Part of A Bigger Problem In Metal - Metal Injection"/>
+<meta name="twitter:site" content="@metalinjection"/>
+<meta name="twitter:image" content="http://i2.wp.com/www.metalinjection.net/wp-content/uploads/2016/01/Corey-Taylor-Slipknot.jpg?fit=640%2C360"/>
+<meta name="twitter:creator" content="@robinjection"/>
+<!-- / Yoast SEO plugin. -->
+
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.metalinjection.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<style type="text/css">
+.powerpress_player .wp-audio-shortcode { max-width: 100%; }
+</style>
+<link rel='stylesheet' id='taxonomy-image-plugin-public-css'  href='http://metalinjection.junipconcepts.netdna-cdn.com/wp-content/plugins/taxonomy-images/css/style.css?5a13a1?ver=0.9.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='migration-style-css'  href='http://metalinjection.junipconcepts.netdna-cdn.com/wp-content/themes/mi5/style.css?5a13a1?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://metalinjection.junipconcepts.netdna-cdn.com/wp-content/plugins/jetpack/css/jetpack.css?5a13a1?ver=3.9.1' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.7 - Universal enabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-1535202-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('require', 'linkid', 'linkid.js');
+	__gaTracker('set', 'dimension1', 'Robert Pasbani');
+	__gaTracker('set', 'dimension2', 'drama');
+	__gaTracker('set', 'dimension3', 'corey taylor,phil anselmo,slipknot');
+	__gaTracker('send','pageview');
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js?ver=1.7'></script>
+<link rel='https://api.w.org/' href='http://www.metalinjection.net/wp-json/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.metalinjection.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.metalinjection.net%2Flatest-news%2Fdrama%2Fslipknots-corey-taylor-says-phil-anselmo-controversy-is-part-of-a-bigger-problem-in-metal" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.metalinjection.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.metalinjection.net%2Flatest-news%2Fdrama%2Fslipknots-corey-taylor-says-phil-anselmo-controversy-is-part-of-a-bigger-problem-in-metal&#038;format=xml" />
+
+	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+	<script type="text/javascript">
+		var arrAffiliates = {
+			'com'   : 'alternapunkco-20',
+			'co.uk'	: '',
+			'de'	: '',
+			'fr'	: '',
+			'ca'	: '',
+			'co.jp'	: '',
+			'jp'	: '',
+			'it'	: '',
+			'cn'	: '',
+			'es'	: '',
+			'in'	: ''
+		};
+		var strUrlAjax = 'http://www.metalinjection.net/wp-content/plugins/amazon-affiliate-link-localizer/ajax.php';
+	</script>
+	<script type="text/javascript" src="http://metalinjection.junipconcepts.netdna-cdn.com/wp-content/plugins/amazon-affiliate-link-localizer/js/amazon_linker.min.js?5a13a1?v=1.9"></script><script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<style type="text/css">.g2_column {width: 738px;margin: 0px 1px 0px 12px;}</style>
+
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<style type='text/css'>img#wpstats{display:none}</style><!-- Vipers Video Quicktags v6.5.2 | http://www.viper007bond.com/wordpress-plugins/vipers-video-quicktags/ -->
+<style type="text/css">
+.vvqbox { display: block; max-width: 100%; visibility: visible !important; margin: 10px auto; } .vvqbox img { max-width: 100%; height: 100%; } .vvqbox object { max-width: 100%; } 
+</style>
+<script type="text/javascript">
+// <![CDATA[
+	var vvqflashvars = {};
+	var vvqparams = { wmode: "opaque", allowfullscreen: "true", allowscriptaccess: "always" };
+	var vvqattributes = {};
+	var vvqexpressinstall = "http://www.metalinjection.net/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
+// ]]>
+</script>
+
+<script type='text/javascript'>
+    window.google_analytics_uacct = 'UA-1535202-1';
+</script>
+	
+  <link rel="shortcut icon" href="http://metalinjection.s3.amazonaws.com/mi5/favicon.ico" />
+  <script type="text/javascript" src="http://metalinjection.s3.amazonaws.com/mi5/modernizr.js"></script>
+  <script type="text/javascript" src="http://metalinjection.s3.amazonaws.com/mi5/metal-injection.js"></script>
+	
+
+
+
+  <!-- DFP CODE -->
+  
+
+<!-- Start: GPT Sync -->
+<script type='text/javascript'>
+	var gptadslots=[];
+
+	(function() {
+		var useSSL = 'https:' == document.location.protocol;
+		var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+		document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+	})();
+
+</script>
+
+
+<script type="text/javascript">
+
+	googletag.cmd.push(function () {
+
+	var leader_map = googletag.sizeMapping().addSize([1000,500], [[1000, 220], [970, 250], [728, 90]]).build();
+	var mobile_map = googletag.sizeMapping().addSize([300,200], [[320, 50],[300,250]]).build();
+	var sidebar_map = googletag.sizeMapping().addSize([700,200], [[300,250], [300,600]]).build();
+	var rocko_map = googletag.sizeMapping().addSize([728,500],[600,125]).addSize([300,200],[320,63]).build();
+
+	//Adslot 1 declaration ::: Top Leaderboard
+	gptadslots[1] = googletag.defineSlot('/188050911/Metalinjection_Leader', [[1000, 500], [1000, 220], [970, 250], [728, 90]],'adpos-leader-top').defineSizeMapping(leader_map).setTargeting('pos',['728_1']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+
+	//Adslot 3 declaration ::: 300x250
+	gptadslots[3] = googletag.defineSlot('/188050911/MetalInjection_Box_real', [[300, 250], [300, 600]],'adpos-300-1').defineSizeMapping(sidebar_map).setTargeting('pos',['300_1']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+
+	//Adslot 4 declaration ::: Skyscraper
+	gptadslots[4] = googletag.defineSlot('/188050911/Metalinjection_skyscraper_BTF', [[300, 250], [300, 600]],'adpos-300-2').defineSizeMapping(sidebar_map).setTargeting('pos',['300_2']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+
+
+	//Adslot 6 declaration ::: Skin
+	gptadslots[6] = googletag.defineSlot('/188050911/Metalinjection_Skin', [[1,1]],'adpos-skin').setTargeting('pos',['skin']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+
+	//Adslot 7 declaration ::: Rockabilia
+	gptadslots[7] = googletag.defineSlot('/188050911/metalinjection_600_125', [[600, 125], [320, 63]],'adpos-600-1').defineSizeMapping(rocko_map).setTargeting('pos',['600']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+
+	gptadslots[8] = googletag.defineSlot('/188050911/MI_Widget', [[1,2]],'adpos-widget').setTargeting('pos',['widget']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+
+	//Adslot 9 declaration
+	gptadslots[9] = googletag.defineSlot('/188050911/Metal_Injection_Mobile', [[300, 250]],'adpos-300-4').setTargeting('pos',['300_4']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+
+	//Adslot 10 declaration
+	gptadslots[10] = googletag.defineSlot('/188050911/MetalInjection_Mobile_Skin', [[300, 250], [320, 50]],'mobile-placement').setTargeting('pos',['mobile_placement']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+
+
+	googletag.pubads().enableSingleRequest();
+	googletag.pubads().setTargeting('page',['slipknots-corey-taylor-says-phil-anselmo-controversy-is-part-of-a-bigger-problem-in-metal', 'single']);
+	googletag.pubads().enableSyncRendering();
+	googletag.enableServices();
+
+	});
+
+</script>
+
+
+	
+<!-- BEGIN Krux Control Tag for "Metal Injection" -->
+<!-- Source: /snippet/controltag?confid=J7Rwq5m0&site=Metal%20Injection&edit=1 -->
+<script class="kxct" data-id="J7Rwq5m0" data-timing="async" data-version="1.9" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+    k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=J7Rwq5m0"
+  ;
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+  
+</script>
+<!-- END Krux Controltag -->
+
+
+
+</head>
+
+<body class='article-detail'>
+
+  <div id="skinoverlay"></div>
+
+  <div class="container">
+		<header class="clearfix">
+      <a href="/" title="Go to Homepage">
+        <img src="http://i1.wp.com/www.metalinjection.net/image/metal-injection-logo.png" alt="Metal Injection" id="site-logo" />
+      </a>
+     
+     
+     	  <div class="sharebar sharebarmobile visible-xs"> Share This: 
+	 	<a target="_blank" href="http://www.facebook.com/sharer.php?u=http://www.metalinjection.net/latest-news/drama/slipknots-corey-taylor-says-phil-anselmo-controversy-is-part-of-a-bigger-problem-in-metal&amp;t=SLIPKNOT%26%23039%3Bs+Corey+Taylor+Says+Phil+Anselmo+Controversy+Is+Part+of+A+Bigger+Problem+In+Metal" title="Share this post on Facebook" class="pure-button socicon-button social-fb"><span class="socicon socicon-facebook"></span></a>
+        <a href="http://twitter.com/intent/tweet?text=SLIPKNOT%26%23039%3Bs+Corey+Taylor+Says+Phil+Anselmo+Controversy+Is+Part+of+A+Bigger+Problem+In+Metal http://www.metalinjection.net/latest-news/drama/slipknots-corey-taylor-says-phil-anselmo-controversy-is-part-of-a-bigger-problem-in-metal" class="pure-button socicon-button social-tw"><span class="socicon socicon-twitter"></span></a>
+        <a href="mailto:?subject=SLIPKNOT%26%23039%3Bs+Corey+Taylor+Says+Phil+Anselmo+Controversy+Is+Part+of+A+Bigger+Problem+In+Metal&body=http://www.metalinjection.net/latest-news/drama/slipknots-corey-taylor-says-phil-anselmo-controversy-is-part-of-a-bigger-problem-in-metal" class="pure-button socicon-button social-em"><span class="socicon socicon-mail"></span></a>
+	  </div>
+	 
+
+      <a href="#" id="mobile-navigation-button" class="visible-xs">
+       <img src="http://i0.wp.com/www.metalinjection.net/menu.png" width="96%" height="auto" scale="0">
+
+       <a href="#" id="mobile-search-button" class="visible-xs">
+        <img src="http://i0.wp.com/www.metalinjection.net/search.png" width="96%" height="auto" scale="0">      </a>
+       
+
+      </a>
+
+     
+     
+     
+      
+      <div class="content">
+        <nav>
+          <ul class="list-inline">
+			<li><a href="/" >Home</a></li>
+			<li><a href="/video" >Video</a>
+				<div class="sub-menu-float">
+				<ul class="sub-menu">
+				<li><dl>
+					<dd><a href="/video" >Latest Videos Listing</a></dd>
+					<dd><a href="/channels" >All Channels</a></dd>
+				
+					<dt>Popular Channels</dt>
+					<dd><a href="/channels/music-videos" >Music Videos</a></dd>
+					<dd><a href="/channels/metal-injection-exclusives" >Metal Injection Exclusives</a></dd>
+					<dd><a href="/channels/live-footage" >Live Footage</a></dd>
+					<dd><a href="/channels/br00tal-comedy" >br00tal Comedy</a></dd>
+					<dd><a href="/channels/ask-the-artist" >ASK THE ARTIST</a></dd>
+					<dd><a href="/channels/kids-in-metal" >Kids In Metal</a></dd>
+					<dd><a href="/channels/pit-full-of-shit" >Pit Full of Shit Live Footage</a></dd>
+					<dd><a href="/channels/rockumentary" >Rockumentary</a></dd>
+					<dd><a href="/channels/show-your-skills" >Show Your Skills</a></dd>
+				
+					<dt>Original Series</dt>
+					<dd><a href="/channels/louder-education-series">Louder Education</a></dd>
+					<dd><a href="/channels/on-the-record">On The Record</a></dd>
+					<dd><a href="/channels/countdown">Countdown</a></dd>
+					<dd><a href="/channels/spotlight" >Spotlight</a></dd>
+				</dl></li>
+				</ul>
+				</div>
+			</li>
+			<li class="active"><a href="/#content-filter" >News</a>
+				<div class="sub-menu-float">
+				<ul class="sub-menu">
+				<li><dl>
+					<dd><a href="/category/tour-dates" >Tour Dates</a></dd>
+					<dd><a href="/category/upcoming-releases/weekly-injection" >New Albums Out This Week</a></dd>
+					<dd><a href="/category/av" >Audio/Video</a></dd>
+					<dd><a href="/category/reviews" >Reviews</a></dd>
+					<dd><a href="/category/upcoming-releases" >Upcoming Releases</a></dd>
+					<dd><a href="/category/around-the-interwebs" >Around the Interwebs (Funny)</a></dd>
+					<dd><a href="/category/lists" >Lists</a></dd>
+					<dd><a href="/category/editorials" >Editorials</a></dd>
+				</dl></li>
+				</ul>
+				</div>
+			</li>
+			<li><a href="/category/podcasts" >Podcasts</a>
+				<div class="sub-menu-float">
+				<ul class="sub-menu">
+				<li><dl>
+					<dd><a href="/category/podcasts" >Latest Podcasts</a></dd>
+					<dd><a href="/livecast" >Metal Injection Livecast</a></dd>
+					<dd><a href="/category/podcasts/decibels-extremely-extreme-podcast" >Decibel&#039;s Extremely Extreme Podcast</a></dd>
+					<dd><a href="/category/podcasts/msrcast" >MSRcast</a></dd>
+					<dd><a href="/category/podcasts/open-metalcast" >Open Metacast</a></dd>
+					<dd><a href="/category/podcasts/relapse-records-podcast" >Relapse Records Podcast</a></dd>
+					<dd><a href="/category/podcasts/heavy-metal-happy-hour" >Heavy Metal Happy Hour</a></dd>
+					<dd><a href="/category/podcasts/hand-ov-doom" >Hand Ov Doom</a></dd>
+				</dl></li>
+				</ul>
+				</div>
+			</li>
+			<li><a href="/category/reviews" >Reviews</a></li>
+			<li><a href="/photo-gallery" >Photos</a></li>
+			<li><a href="/category/free-swag" >Contests</a></li>
+			<li><a href="http://www.indiemerch.com/metalinjection/">Merch</a></li>
+			</ul>                                                                              
+          </ul>
+        </nav>
+        <form action="/" method="get" id="site-search">
+          <fieldset>
+            <input type="submit" alt="Search" id="site-search-submit" />
+            <input type="text" name="s" id="site-search-input" value="" placeholder="Search the site" />
+          </fieldset>
+        </form>
+
+        <ul id="social-links" class="list-inline">
+          <li class="facebook"><a target="_blank" href="http://www.facebook.com/metalinjection">Facebook</a></li>
+          <li class="twitter"><a target="_blank" href="http://www.twitter.com/metalinjection">Twitter</a></li>
+          <li class="youtube"><a target="_blank" href="http://www.youtube.com/metalinjection">You Tube</a></li>
+          <li class="instagram"><a target="_blank" href="http://www.instagram.com/metal_injection">Instagram</a></li>
+          <li class="tumblr"><a target="_blank" href="http://metalinjection.tumblr.com/">Tumblr</a></li>
+          <li class="google"><a target="_blank" href="http://www.google.com/+metalinjection">Google</a></li>
+          <li class="itunes"><a target="_blank" href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=73799807">iTunes</a></li>
+          <li class="appstore"><a target="_blank" href="http://itunes.apple.com/us/app/metal-injection/id478735893">App Store</a></li>
+          <li class="rss"><a target="_blank" href="/rss-feeds">RSS</a></li>
+        </ul>
+
+        <ul id="quicklinks" class="visible-xs list-unstyled">
+          <li><a href="/channels/music-videos">Music Videos</a></li>
+          <li><a href="/channels/br00tal-comedy">Funny Videos</a></li>
+          <li><a href="/category/tour-dates">Tour Dates</a></li>
+          <li><a href="/channels/kids-in-metal">Kids In Metal</a></li>
+          <li><a href="/livecast">Metal Injection Livecast</a></li>
+          <li><a href="/channels/rockumentary">Rockumentary</a></li>
+        </ul>
+      </div>
+		</header>
+
+				<div class="detail-features hidden-xs">
+			
+			<div class="featureditem">
+				<a href="http://www.metalinjection.net/av/full-album-stream/after-the-burial-dig-deep"><img src="http://i1.wp.com/www.metalinjection.net/wp-content/uploads/2016/02/After-The-Burial-green-screen.jpg?resize=485%2C270" class="img-responsive wp-post-image" alt="After-The-Burial-green-screen" />				<h3>Full Album Stream: AFTER THE BURIAL <em>Dig Deep</em> Is A Return To Form</h3></a>
+			</div>
+			
+			<div class="featureditem">
+				<a href="http://www.metalinjection.net/video/alice-cooper-leads-hollywood-vampires-killer-tribute-to-lemmy-at-the-grammys"><img src="http://i1.wp.com/www.metalinjection.net/wp-content/uploads/2016/02/Hollywood-Vampires-rings.jpg?resize=485%2C270" class="img-responsive wp-post-image" alt="Hollywood Vampires rings" />				<h3>Watch: Alice Cooper Leads Hollywood Vampires&#039; Tribute To LEMMY At The Grammys</h3></a>
+			</div>
+			
+			<div class="featureditem">
+				<a href="http://www.metalinjection.net/metal-in-the-mainstream/and-the-winner-of-the-2016-grammy-for-best-metal-performance-is"><img src="http://i1.wp.com/www.metalinjection.net/wp-content/uploads/2016/02/Ghost-Grammy.jpg?resize=485%2C270" class="img-responsive wp-post-image" alt="Ghost accept their Grammy for Best Metal Performance" />				<h3>…And The Winner of the 2016 Grammy for Best Metal Performance Is…</h3></a>
+			</div>
+			
+			<div class="featureditem">
+				<a href="http://www.metalinjection.net/latest-news/metallicas-kirk-hammett-pisses-off-entire-music-instrumentation-industry-with-single-tweet"><img src="http://i0.wp.com/www.metalinjection.net/wp-content/uploads/2015/11/Kirk-Hammett.jpg?resize=485%2C270" class="img-responsive wp-post-image" alt="Kirk-Hammett" />				<h3>METALLICA&#039;s Kirk Hammett Pisses Off Entire Music Instrumentation Industry With Single Tweet</h3></a>
+			</div>
+						<div class="clearfix">&nbsp;</div>
+		</div>
+
+			
+		
+		<!-- DFP Leader Top -->
+		<div id="ad-header">
+		<script>var screenWidth = document.documentElement.clientWidth; if(screenWidth > 700) {document.write("<div id='adpos-leader-top' class='single-300-insert hidden-xs hidden-sm'>\n<script type='text\/javascript'>\ngoogletag.display('adpos-leader-top');\n<\/script>\n<\/div>\n");}</script>
+		</div>
+	
+		
+
+
+
+
+<div class="row">
+			<div class="col-md-8" id="region-main">
+
+
+
+				<section id="primary-content">
+				 <div class="article-detail-cat">
+					 <h2><a href="http://www.metalinjection.net/category/latest-news/drama" rel="category tag">Drama</a></h2>
+					 
+					 <a href="/" class="article-detail-btn hidden-xs">&laquo; Back to News</a>
+				 </div>
+		          <div class="article-detail-content">
+		            <article>
+		              <h1>SLIPKNOT&#039;s Corey Taylor Says Phil Anselmo Controversy Is Part of A Bigger Problem In Metal</h1>
+		              
+		              <p class="article-detail-meta"> Posted by <a href="http://www.metalinjection.net/author/robinjection" title="Posts by Robert Pasbani" rel="author">Robert Pasbani</a> on February 10, 2016 at 3:56 pm</p>
+
+
+					  		              
+		              
+		              
+					  <div class="sharebar hidden-xs">
+						
+						  
+			              
+					  	<a href="http://www.facebook.com/sharer.php?u=http://www.metalinjection.net/latest-news/drama/slipknots-corey-taylor-says-phil-anselmo-controversy-is-part-of-a-bigger-problem-in-metal&amp;t=SLIPKNOT%26%23039%3Bs+Corey+Taylor+Says+Phil+Anselmo+Controversy+Is+Part+of+A+Bigger+Problem+In+Metal" title="Share this post on Facebook" class="fb-share pure-button socicon-button social-fb"><span class="socicon socicon-facebook"></span><span class="social-text">Share on Facebook</a></span></a>
+
+			              <a href="http://twitter.com/intent/tweet?text=SLIPKNOT%26%23039%3Bs+Corey+Taylor+Says+Phil+Anselmo+Controversy+Is+Part+of+A+Bigger+Problem+In+Metal http://www.metalinjection.net/latest-news/drama/slipknots-corey-taylor-says-phil-anselmo-controversy-is-part-of-a-bigger-problem-in-metal&via=metalinjection" class="pure-button socicon-button social-tw"><span class="socicon socicon-twitter" title="Tweet this story"></span><span class="social-text">Share on Twitter</span></a>
+			              
+			              <a href="mailto:?subject=SLIPKNOT&#039;s Corey Taylor Says Phil Anselmo Controversy Is Part of A Bigger Problem In Metal&body=http://www.metalinjection.net/latest-news/drama/slipknots-corey-taylor-says-phil-anselmo-controversy-is-part-of-a-bigger-problem-in-metal" class="pure-button socicon-button social-em"><span class="socicon socicon-mail"></span> <span class="social-text" title="E-mail this story">E-mail</span></a>
+			          </div>
+
+		              
+		              		              
+		              
+		              
+		              
+		              
+		              
+
+		              
+					  <div class="article-detail-media"><img src="http://i2.wp.com/www.metalinjection.net/wp-content/uploads/2016/01/Corey-Taylor-Slipknot.jpg?fit=640%2C360" class="aligncenter wp-post-image" alt="Corey Taylor Slipknot" srcset="http://i2.wp.com/www.metalinjection.net/wp-content/uploads/2016/01/Corey-Taylor-Slipknot.jpg?resize=300%2C169 300w, http://i2.wp.com/www.metalinjection.net/wp-content/uploads/2016/01/Corey-Taylor-Slipknot.jpg?w=640 640w" sizes="(max-width: 640px) 100vw, 640px" /><div class="clearfix"></div></div>	
+					  
+		              <div class="article-detail">
+			              
+			              
+<img src="http://static.urx.io/units/web/urx-unit-loader.gif" style="display:none;" onload="
+var a=document.createElement('script');a.setAttribute('src','//static.urx.io/units/web/cb993231-9bb7-4553-8734-89d7b1d24ac0.min.js'),this.parentNode.insertBefore(a,this);">			              
+			              
+<!--temp fix-->
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+		             	<p>Regardless on your feelings about the aftermath, I think we can all agree that what Phil Anselmo did a few weeks ago was unequivocally wrong. For those who just awoke out of a coma, he<a href="http://www.metalinjection.net/shocking-revelations/phil-anselmo-gives-nazi-salute-shouts-white-power-at-dimebash-claims-it-was-all-a-joke"> shouted &#034;white power&#034; and gave the Nazi salute</a>. Anselmo has <a href="http://www.metalinjection.net/video/phil-anselmo-issues-full-apology">apologized</a> numerous <a href="http://www.metalinjection.net/shocking-revelations/phil-anselmo-tells-down-to-move-on-without-him-in-new-apology-letter">times</a> and will face a long road of rebuilding his image. The true aftermath of the incident was seeing all these racists come out of nowhere validating his stupid message. Slipknot&#039;s Corey Taylor feels there is no place for such racism in heavy metal.</p>
+<p>In a new feature for UK&#039;s <a href="http://www.theguardian.com/music/2016/feb/10/slipknot-corey-taylor-answers-your-questions?CMP=twt_a-music_b-gdnmusic" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.theguardian.com/music/2016/feb/10/slipknot-corey-taylor-answers-your-questions?CMP=twt_a-music_b-gdnmusic', 'The Guardian');" target="_blank">The Guardian</a> where he answered fan questions, Taylor was asked what his reaction to the Anselmo video was. Taylor admitted he hadn&#039;t seen it, but said it was part of a bigger problem in the scene:</p>
+<script>var screenWidth = document.documentElement.clientWidth; if(screenWidth < 700) {document.write("<div class='mobile-advert'><span>ADVERTISEMENT</span><div id='adpos-300-4' class='single-300-insert visible-xs visible-sm'>\n<script type='text\/javascript'>\ngoogletag.display('adpos-300-4');\n<\/script>\n<\/div><\/div>\n");}</script>
+
+<blockquote><p>I’ve been watching this all and I’ve kept mum for the most part, because I wasn’t there. So I don’t know the background on what happened, I haven’t seen the video of it – though I’ve been told by many people that it’s blatant, and there’s no way to misrepresent what was done.</p>
+<p>I will say this. This is a bigger problem than what happened that night. Slipknot has dedicated itself to bringing people together, to fighting racism, to fighting hate in general since the day we were started. I don’t have time for people who judge other people by the colour of their skin. If that in itself offends some of my fans, then I’m sorry, you’re wrong. I don’t ever want our fans to feel like we’re judging them because of colour, religion, culture, upbringing, etc. We welcome everyone, we always have and we always will.</p>
+<p>I know there is a problem in metal, and it all comes down to, at least in America, where you grow up and what that culture is passed on from: parents, family members, friends, adults. It’s a generational thing. I thought we were close to phasing it out, but unfortunately I was proven wrong. So I just dedicate myself to fighting it. It’s across the board in music, though – it’s not a specifically metal thing. But it has come up in the metal community. It’s risen its ugly head because of the incident we’re talking about.</p>
+<p>But I’ve not only played a lot of metal shows, I’ve been to a lot of metal shows, and I know for a fact they are quite diverse and they always have been. We welcome the tribe of misfits – we’re the island of misfit toys, and we always have been. It will take very little to eradicate racism from metal because the majority of it isn’t racist.</p></blockquote>
+<p>So that&#039;s what Corey Taylor thinks, if you were wondering.</p>
+
+
+		             	
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"BlogPosting","headline":"SLIPKNOT&#039;s Corey Taylor Says Phil Anselmo Controversy Is Part of A Bigger Problem In Metal","image":["http:\/\/www.metalinjection.net\/wp-content\/uploads\/2016\/01\/Corey-Taylor-Slipknot.jpg"],"datePublished":"2016-02-10T15:56:23+00:00","description":"","articleBody":"Regardless on your feelings about the aftermath, I think we can all agree that what Phil Anselmo did a few weeks ago was unequivocally wrong. For those who just awoke out of a coma, he<a href=\"http:\/\/www.metalinjection.net\/shocking-revelations\/phil-anselmo-gives-nazi-salute-shouts-white-power-at-dimebash-claims-it-was-all-a-joke\"> shouted \"white power\" and gave the Nazi salute<\/a>. Anselmo has <a href=\"http:\/\/www.metalinjection.net\/video\/phil-anselmo-issues-full-apology\">apologized<\/a> numerous <a href=\"http:\/\/www.metalinjection.net\/shocking-revelations\/phil-anselmo-tells-down-to-move-on-without-him-in-new-apology-letter\">times<\/a> and will face a long road of rebuilding his image. The true aftermath of the incident was seeing all these racists come out of nowhere validating his stupid message. Slipknot's Corey Taylor feels there is no place for such racism in heavy metal.\r\n\r\nIn a new feature for UK's <a href=\"http:\/\/www.theguardian.com\/music\/2016\/feb\/10\/slipknot-corey-taylor-answers-your-questions?CMP=twt_a-music_b-gdnmusic\" target=\"_blank\">The Guardian<\/a> where he answered fan questions, Taylor was asked what his reaction to the Anselmo video was. Taylor admitted he hadn't seen it, but said it was part of a bigger problem in the scene:\r\n\r\n<blockquote>I\u2019ve been watching this all and I\u2019ve kept mum for the most part, because I wasn\u2019t there. So I don\u2019t know the background on what happened, I haven\u2019t seen the video of it \u2013 though I\u2019ve been told by many people that it\u2019s blatant, and there\u2019s no way to misrepresent what was done.\r\n\r\nI will say this. This is a bigger problem than what happened that night. Slipknot has dedicated itself to bringing people together, to fighting racism, to fighting hate in general since the day we were started. I don\u2019t have time for people who judge other people by the colour of their skin. If that in itself offends some of my fans, then I\u2019m sorry, you\u2019re wrong. I don\u2019t ever want our fans to feel like we\u2019re judging them because of colour, religion, culture, upbringing, etc. We welcome everyone, we always have and we always will.\r\n\r\nI know there is a problem in metal, and it all comes down to, at least in America, where you grow up and what that culture is passed on from: parents, family members, friends, adults. It\u2019s a generational thing. I thought we were close to phasing it out, but unfortunately I was proven wrong. So I just dedicate myself to fighting it. It\u2019s across the board in music, though \u2013 it\u2019s not a specifically metal thing. But it has come up in the metal community. It\u2019s risen its ugly head because of the incident we\u2019re talking about.\r\n\r\nBut I\u2019ve not only played a lot of metal shows, I\u2019ve been to a lot of metal shows, and I know for a fact they are quite diverse and they always have been. We welcome the tribe of misfits \u2013 we\u2019re the island of misfit toys, and we always have been. It will take very little to eradicate racism from metal because the majority of it isn\u2019t racist.<\/blockquote>\r\n\r\nSo that's what Corey Taylor thinks, if you were wondering."}</script>		             	
+		    
+
+		             	
+
+
+
+
+				  
+						
+
+						<p><a href="#comments">What do you think? <strong>Leave a Comment</strong> &rarr;</a></p>						
+					<div class="sharebar hidden-xs sharebarbottom">
+						
+						  
+			              
+					  	<a href="http://www.facebook.com/sharer.php?u=http://www.metalinjection.net/latest-news/drama/slipknots-corey-taylor-says-phil-anselmo-controversy-is-part-of-a-bigger-problem-in-metal&amp;t=SLIPKNOT%26%23039%3Bs+Corey+Taylor+Says+Phil+Anselmo+Controversy+Is+Part+of+A+Bigger+Problem+In+Metal" title="Share this post on Facebook" class="pure-button socicon-button social-fb fb-share"><span class="socicon socicon-facebook"></span><span class="social-text">Share on Facebook</a></span></a>
+
+			              <a href="http://twitter.com/intent/tweet?text=SLIPKNOT%26%23039%3Bs+Corey+Taylor+Says+Phil+Anselmo+Controversy+Is+Part+of+A+Bigger+Problem+In+Metal http://www.metalinjection.net/latest-news/drama/slipknots-corey-taylor-says-phil-anselmo-controversy-is-part-of-a-bigger-problem-in-metal&via=metalinjection" class="pure-button socicon-button social-tw"><span class="socicon socicon-twitter" title="Tweet this story"></span><span class="social-text">Share on Twitter</span></a>
+			              
+			              <a href="mailto:?subject=SLIPKNOT&#039;s Corey Taylor Says Phil Anselmo Controversy Is Part of A Bigger Problem In Metal&body=http://www.metalinjection.net/latest-news/drama/slipknots-corey-taylor-says-phil-anselmo-controversy-is-part-of-a-bigger-problem-in-metal" class="pure-button socicon-button social-em"><span class="socicon socicon-mail"></span> <span class="social-text" title="E-mail this story">E-mail</span></a>
+			          </div>
+						
+						
+		              </div>
+		            </article>
+		            
+          
+		          </div>
+		          
+			          
+
+		<!--rockabilia 300x250 ad-->
+
+				<div id='adpos-600-1'>
+					<script type='text/javascript'>
+						googletag.display('adpos-600-1');
+					</script>
+				</div>					
+					
+
+
+
+				 
+
+
+
+				  	<!--MGID-->
+				  	<div class="related-articles">
+			  			<h3>Sponsored Links from Around the Internet</h3>
+				  		<article>
+				  			<div class="linksinternet">
+
+
+					<div id='adpos-widget'>
+				  		<script type='text/javascript'>
+				  		googletag.display('adpos-widget');
+						</script>
+					</div>		
+
+
+
+				  			</div>
+				  		</article>
+				  	</div>
+
+
+
+			      					  	<div class="article-detail-cat">
+						<h2>COMMENTS</h2>
+						<a name="comments"></a>
+				 	</div>
+				  	<div class="article-detail-content article-detail-comments">
+				  		
+				  		
+<div id="disqus_thread">
+            <div id="dsq-content">
+
+
+            <ul id="dsq-comments">
+                    <li class="comment even thread-even depth-1" id="dsq-comment-380730">
+        <div id="dsq-comment-header-380730" class="dsq-comment-header">
+            <cite id="dsq-cite-380730">
+                <span id="dsq-author-user-380730">Katy Daigler</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380730" class="dsq-comment-body">
+            <div id="dsq-comment-message-380730" class="dsq-comment-message"><p>This is why I adore slipknot and Corey Taylor. I&#039;m a 17yr old white female who faces racism on a daily basis. I am dating a black male and I get all the hate from random by standers. It&#039;s disgusting and I wish it never exsisted. I have a good friend who is black and loves metal! But she faces male metal heads bashing on her because of her color and for the face she is a female and she likes metal. I greatly appriciate Slipknot for being against racism along with many other metal bands. I love you guys keep rocking! m/</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-380734">
+        <div id="dsq-comment-header-380734" class="dsq-comment-header">
+            <cite id="dsq-cite-380734">
+                <span id="dsq-author-user-380734">Dammage</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380734" class="dsq-comment-body">
+            <div id="dsq-comment-message-380734" class="dsq-comment-message"><p>Is this copypasta?</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-2" id="dsq-comment-380755">
+        <div id="dsq-comment-header-380755" class="dsq-comment-header">
+            <cite id="dsq-cite-380755">
+                <span id="dsq-author-user-380755">Motley King</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380755" class="dsq-comment-body">
+            <div id="dsq-comment-message-380755" class="dsq-comment-message"><p>Katy,</p>
+<p>Sorry to hear about your struggles by random by standers. They&#039;re walking pieces of shit. As for your friend, those that hate on her have bigger issues in their lives because they are traditionally the pricks in the pit throwing punches. Let&#039;s just put it this way, me and the boys take care of these bastards in the pit. I&#039;ve seen first hand the hate and don&#039;t tolerate it as I have been in the scene for over 20 years. Most of the fans show nothing but love, but like in everyday society there&#039;s always the few scumbags that will get theirs. Stay loyal and rock on!</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-3" id="dsq-comment-381082">
+        <div id="dsq-comment-header-381082" class="dsq-comment-header">
+            <cite id="dsq-cite-381082">
+                <span id="dsq-author-user-381082">Nice try</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381082" class="dsq-comment-body">
+            <div id="dsq-comment-message-381082" class="dsq-comment-message"><p>Ooh, you and the bois take care of business in the pit. Way to go! Never knew that was the difference maker for the change we needed. Something makes me think those you abuse in the pit, only want to fight back instead of saying oh I get it. I need to change my whole life views so I can mosh. Pfft</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even depth-2" id="dsq-comment-380784">
+        <div id="dsq-comment-header-380784" class="dsq-comment-header">
+            <cite id="dsq-cite-380784">
+                <span id="dsq-author-user-380784">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380784" class="dsq-comment-body">
+            <div id="dsq-comment-message-380784" class="dsq-comment-message"><p>no white man would have you. so, go ahead and muddy the gene pool and make your parents proud. what a champion of diversity you are. you are a shill for zionism. well done.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-3" id="dsq-comment-380800">
+        <div id="dsq-comment-header-380800" class="dsq-comment-header">
+            <cite id="dsq-cite-380800">
+                <span id="dsq-author-user-380800">Fuckthisguy</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380800" class="dsq-comment-body">
+            <div id="dsq-comment-message-380800" class="dsq-comment-message"><p>And what a shill for ignorance you are.  Keep being angry at young girls you don&#039;t even know for no reason at all.  Well done.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-4" id="dsq-comment-380818">
+        <div id="dsq-comment-header-380818" class="dsq-comment-header">
+            <cite id="dsq-cite-380818">
+                <span id="dsq-author-user-380818">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380818" class="dsq-comment-body">
+            <div id="dsq-comment-message-380818" class="dsq-comment-message"><p>where was the anger? i just called out a brainwashed shill for talking nonsense. are you honestly saying that race mixing doesn&#039;t muddy the gene pool? and you have the nerve to call me ignorant. well done indeed, pip squeak.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-5" id="dsq-comment-380822">
+        <div id="dsq-comment-header-380822" class="dsq-comment-header">
+            <cite id="dsq-cite-380822">
+                <span id="dsq-author-user-380822">Fuckthisguy</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380822" class="dsq-comment-body">
+            <div id="dsq-comment-message-380822" class="dsq-comment-message"><p>You insulted her for no reason, seemed angry to me, but maybe more disrespectful than anything.  I&#039;ll call you ignorant again for telling a kid (well a kid compared to me) that no white man would want them just because of how they look.  If race mixing muddies up the gene pool then what&#039;s your excuse for how you turned out?</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-380828">
+        <div id="dsq-comment-header-380828" class="dsq-comment-header">
+            <cite id="dsq-cite-380828">
+                <span id="dsq-author-user-380828">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380828" class="dsq-comment-body">
+            <div id="dsq-comment-message-380828" class="dsq-comment-message"><p>i congratulated her, &#034;what a champion of diversity you are. you are a shill for zionism. well done.&#034; that is a far cry from being insulting or disrespectful. she chose her pitiful life, &#034;I&#039;m a 17yr old white female who faces racism on a daily basis. I am<br />
+dating a black male and I get all the hate from random by standers.&#034;. so, i am not sorry that she has to lay down in the bed that she made for herself.<br />
+i have perfect DNA to breed with, because my parents are both perfect specimens of the white race. i had no reason to cry about nonsense when i was 17. clearly i was raised very well and i make no apologies for this.</p>
+<p>&#034; If race mixing muddies up the gene pool then what&#039;s your excuse for how you turned out?&#034;</p>
+<p>what&#039;s with the insult?</p>
+<p>i guess you have nothing intelligent to say, pip squeak.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-380837">
+        <div id="dsq-comment-header-380837" class="dsq-comment-header">
+            <cite id="dsq-cite-380837">
+                <span id="dsq-author-user-380837">Fuckthisguy</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380837" class="dsq-comment-body">
+            <div id="dsq-comment-message-380837" class="dsq-comment-message"><p>Haha, perfect specimens of the white race&#8230;now there&#039;s an oxymoron if I&#039;ve heard one.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-380844">
+        <div id="dsq-comment-header-380844" class="dsq-comment-header">
+            <cite id="dsq-cite-380844">
+                <span id="dsq-author-user-380844">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380844" class="dsq-comment-body">
+            <div id="dsq-comment-message-380844" class="dsq-comment-message"><p>you clearly hate white people. well done, racist.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-380854">
+        <div id="dsq-comment-header-380854" class="dsq-comment-header">
+            <cite id="dsq-cite-380854">
+                <span id="dsq-author-user-380854">Fuckthisguy</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380854" class="dsq-comment-body">
+            <div id="dsq-comment-message-380854" class="dsq-comment-message"><p>I don&#039;t hate anyone.  I&#039;m a white guy who believes you shouldn&#039;t hate someone because they don&#039;t look how you want them to.  Clearly we don&#039;t see eye to eye there so it&#039;s time I fade into obscurity.  Enjoy your perfect life with your perfect DNA.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-380857">
+        <div id="dsq-comment-header-380857" class="dsq-comment-header">
+            <cite id="dsq-cite-380857">
+                <span id="dsq-author-user-380857">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380857" class="dsq-comment-body">
+            <div id="dsq-comment-message-380857" class="dsq-comment-message"><p>i will, cheers.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-380927">
+        <div id="dsq-comment-header-380927" class="dsq-comment-header">
+            <cite id="dsq-cite-380927">
+                <span id="dsq-author-user-380927">Black trash</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380927" class="dsq-comment-body">
+            <div id="dsq-comment-message-380927" class="dsq-comment-message"><p>I hate every race, does that make me racist?</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-380970">
+        <div id="dsq-comment-header-380970" class="dsq-comment-header">
+            <cite id="dsq-cite-380970">
+                <span id="dsq-author-user-380970">more beer</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380970" class="dsq-comment-body">
+            <div id="dsq-comment-message-380970" class="dsq-comment-message"><p>Nope as long as you hate everyone equally.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-380974">
+        <div id="dsq-comment-header-380974" class="dsq-comment-header">
+            <cite id="dsq-cite-380974">
+                <span id="dsq-author-user-380974">Black trash</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380974" class="dsq-comment-body">
+            <div id="dsq-comment-message-380974" class="dsq-comment-message"><p>Yeah!!!!! :) <a href="https://uploads.disquscdn.com/images/50729ba57ebbdf50893e515efd05b0315bf285f844fba100b6e69b9c0d980537.gif" onclick="__gaTracker('send', 'event', 'outbound-comment', 'https://uploads.disquscdn.com/images/50729ba57ebbdf50893e515efd05b0315bf285f844fba100b6e69b9c0d980537.gif', 'https://uploads.disquscdn.com/images/50729ba57ebbdf50893e515efd05b0315bf285f844fba100b6e69b9c0d980537.gif');" rel="nofollow">https://uploads.disquscdn.com/images/50729ba57ebbdf50893e515efd05b0315bf285f844fba100b6e69b9c0d980537.gif</a></p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-380975">
+        <div id="dsq-comment-header-380975" class="dsq-comment-header">
+            <cite id="dsq-cite-380975">
+                <span id="dsq-author-user-380975">more beer</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380975" class="dsq-comment-body">
+            <div id="dsq-comment-message-380975" class="dsq-comment-message"><p>You know it&#039;s all about the equality.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-380894">
+        <div id="dsq-comment-header-380894" class="dsq-comment-header">
+            <cite id="dsq-cite-380894">
+                <span id="dsq-author-user-380894">Michael Biddlecom</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380894" class="dsq-comment-body">
+            <div id="dsq-comment-message-380894" class="dsq-comment-message"><p>Truthfully you all need to stop, I&#039;m not saying why but you just need to believe me. She deals with enough and this Shit online and gonna help. I actually know her, she has gone through enough and she doesn&#039;t need you guys making it worse. So for the sake of god y&#039;all need to stop.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-381048">
+        <div id="dsq-comment-header-381048" class="dsq-comment-header">
+            <cite id="dsq-cite-381048">
+                <span id="dsq-author-user-381048">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381048" class="dsq-comment-body">
+            <div id="dsq-comment-message-381048" class="dsq-comment-message"><p>maybe she should keep off of the computer. it seems that her big mouth is her worst enemy. she is the one that needs to stop. cheers.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-380897">
+        <div id="dsq-comment-header-380897" class="dsq-comment-header">
+            <cite id="dsq-cite-380897">
+                <span id="dsq-author-user-380897">ヒロユキ</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380897" class="dsq-comment-body">
+            <div id="dsq-comment-message-380897" class="dsq-comment-message"><p>Oh I did Nazi this coming&#8230;</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-380915">
+        <div id="dsq-comment-header-380915" class="dsq-comment-header">
+            <cite id="dsq-cite-380915">
+                <span id="dsq-author-user-380915">Gadriel</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380915" class="dsq-comment-body">
+            <div id="dsq-comment-message-380915" class="dsq-comment-message"><p>But did you see kyle?</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-380953">
+        <div id="dsq-comment-header-380953" class="dsq-comment-header">
+            <cite id="dsq-cite-380953">
+                <span id="dsq-author-user-380953">MoreBabyMetalThanYou</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380953" class="dsq-comment-body">
+            <div id="dsq-comment-message-380953" class="dsq-comment-message"><p>Muddy? Shut yo ass bitch. </p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-381047">
+        <div id="dsq-comment-header-381047" class="dsq-comment-header">
+            <cite id="dsq-cite-381047">
+                <span id="dsq-author-user-381047">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381047" class="dsq-comment-body">
+            <div id="dsq-comment-message-381047" class="dsq-comment-message"><p>yo? i don&#039;t understand ebonics. try english.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-381054">
+        <div id="dsq-comment-header-381054" class="dsq-comment-header">
+            <cite id="dsq-cite-381054">
+                <span id="dsq-author-user-381054">MoreBabyMetalThanYou</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381054" class="dsq-comment-body">
+            <div id="dsq-comment-message-381054" class="dsq-comment-message"><p>Snarf snarf</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-381068">
+        <div id="dsq-comment-header-381068" class="dsq-comment-header">
+            <cite id="dsq-cite-381068">
+                <span id="dsq-author-user-381068">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381068" class="dsq-comment-body">
+            <div id="dsq-comment-message-381068" class="dsq-comment-message"><p>stop smoking crack and try harder.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt depth-4" id="dsq-comment-380956">
+        <div id="dsq-comment-header-380956" class="dsq-comment-header">
+            <cite id="dsq-cite-380956">
+                <span id="dsq-author-user-380956">MoreBabyMetalThanYou</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380956" class="dsq-comment-body">
+            <div id="dsq-comment-message-380956" class="dsq-comment-message"><p>His Call of Duty playing, double stack burrito eating, anime loving, virgin ass won&#039;t have to worry about muddying anyone&#039;s gene pool.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even depth-3" id="dsq-comment-380908">
+        <div id="dsq-comment-header-380908" class="dsq-comment-header">
+            <cite id="dsq-cite-380908">
+                <span id="dsq-author-user-380908">Christopher Richey</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380908" class="dsq-comment-body">
+            <div id="dsq-comment-message-380908" class="dsq-comment-message"><p>Put your hand on this screen.</p>
+<p>Are you &#039;White?&#039;</p>
+<p>No.</p>
+<p>You are not.</p>
+<p>Nor, is ANYONE else.</p>
+<p>You are a person of color.</p>
+<p>Just like the rest of us.</p>
+<p>So, fuck your &#039;gene pool.&#039;</p>
+<p>It appears to be muddy already.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-4" id="dsq-comment-381045">
+        <div id="dsq-comment-header-381045" class="dsq-comment-header">
+            <cite id="dsq-cite-381045">
+                <span id="dsq-author-user-381045">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381045" class="dsq-comment-body">
+            <div id="dsq-comment-message-381045" class="dsq-comment-message"><p>i just looked in the mirror and i am still white. white is the absence of color. so, look in the mirror and if you are not white, then you are a person of color. sorry to disturb you with actual facts.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-5" id="dsq-comment-381123">
+        <div id="dsq-comment-header-381123" class="dsq-comment-header">
+            <cite id="dsq-cite-381123">
+                <span id="dsq-author-user-381123">Christopher Richey</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381123" class="dsq-comment-body">
+            <div id="dsq-comment-message-381123" class="dsq-comment-message"><p>Nope.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-381291">
+        <div id="dsq-comment-header-381291" class="dsq-comment-header">
+            <cite id="dsq-cite-381291">
+                <span id="dsq-author-user-381291">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381291" class="dsq-comment-body">
+            <div id="dsq-comment-message-381291" class="dsq-comment-message"><p>yep.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-381376">
+        <div id="dsq-comment-header-381376" class="dsq-comment-header">
+            <cite id="dsq-cite-381376">
+                <span id="dsq-author-user-381376">Christopher Richey</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381376" class="dsq-comment-body">
+            <div id="dsq-comment-message-381376" class="dsq-comment-message"><p>Then you have just exposed your &#039;mentality&#039; in contrast to your &#039;reality.&#039;</p>
+<p>You. Are. Not. White.</p>
+<p>You are Melanin&#8230;and one of a thousand variations of it.</p>
+<p>If you believe that being &#039;white&#039; is a special kind of Human, then, know this:</p>
+<p>The &#039;white&#039; Humans are mere babies on this planet.</p>
+<p>And they are white by no other reason than the multi-generational ice age that clouded the Sun&#8230;which, ironically, only affects a very small minority of the Human population that was NOT affected by the Ice Age.  </p>
+<p>Adaptation is not difference.</p>
+<p>Adaptation is not superiority.</p>
+<p>Adaptation is nothing more than a multi-generational sun burn.</p>
+<p>As for your DNA&#8230;you are &#039;racially&#039; equivalent to every other Human on the planet&#8230;</p>
+<p>Ideologically?</p>
+<p>Well, that&#039;s YOUR brain&#8230;and that&#039;s all that it is&#8230;YOUR brain.</p>
+<p>Among Billions&#8230;</p>
+<p>So&#8230;</p>
+<p>Nope.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-381479">
+        <div id="dsq-comment-header-381479" class="dsq-comment-header">
+            <cite id="dsq-cite-381479">
+                <span id="dsq-author-user-381479">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381479" class="dsq-comment-body">
+            <div id="dsq-comment-message-381479" class="dsq-comment-message"><p>&#034;The &#039;white&#039; Humans are mere babies on this planet.&#034; </p>
+<p>hmmm, ok. the australian aborigines said the white man was already in australia when they arrived. the same story in new zealand and the same story in north america. hence why many of the native languages have an irish origin.</p>
+<p>what nonsense have you been reading? pip squeak.</p>
+<p>we are separated through race and DNA, however, we are all human beings. as such, we are all equal. this does not mean that we should interbreed. diversity is maintaining the integrity of all races. </p>
+<p>so, i am sorry that i was born white and didn&#039;t adapt to it later in life.</p>
+<p>save your darwinisms for someone who cares. </p>
+<p>cheers.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-381526">
+        <div id="dsq-comment-header-381526" class="dsq-comment-header">
+            <cite id="dsq-cite-381526">
+                <span id="dsq-author-user-381526">Christopher Richey</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381526" class="dsq-comment-body">
+            <div id="dsq-comment-message-381526" class="dsq-comment-message"><p>Sorry.  Your diversions from reality are false.  Patently so, even.  I&#039;m not sure where you got them but it does not matter.</p>
+<p>Take your &#039;supremacy&#039; and hug it until you feel safe&#8230;and best of luck to you.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-381559">
+        <div id="dsq-comment-header-381559" class="dsq-comment-header">
+            <cite id="dsq-cite-381559">
+                <span id="dsq-author-user-381559">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381559" class="dsq-comment-body">
+            <div id="dsq-comment-message-381559" class="dsq-comment-message"><p>i am right and you are wrong. at least we can all agree on that.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-381592">
+        <div id="dsq-comment-header-381592" class="dsq-comment-header">
+            <cite id="dsq-cite-381592">
+                <span id="dsq-author-user-381592">Christopher Richey</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381592" class="dsq-comment-body">
+            <div id="dsq-comment-message-381592" class="dsq-comment-message"><p>Um&#8230;no.  We cannot.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt depth-3" id="dsq-comment-380917">
+        <div id="dsq-comment-header-380917" class="dsq-comment-header">
+            <cite id="dsq-cite-380917">
+http://ascendantlogic.com/                <span id="dsq-author-user-380917">Matthew Case</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380917" class="dsq-comment-body">
+            <div id="dsq-comment-message-380917" class="dsq-comment-message"><p>Guys we found the racist.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-4" id="dsq-comment-381044">
+        <div id="dsq-comment-header-381044" class="dsq-comment-header">
+            <cite id="dsq-cite-381044">
+                <span id="dsq-author-user-381044">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381044" class="dsq-comment-body">
+            <div id="dsq-comment-message-381044" class="dsq-comment-message"><p>guys we found the jew.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt depth-2" id="dsq-comment-380829">
+        <div id="dsq-comment-header-380829" class="dsq-comment-header">
+            <cite id="dsq-cite-380829">
+                <span id="dsq-author-user-380829">Someone had to say it</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380829" class="dsq-comment-body">
+            <div id="dsq-comment-message-380829" class="dsq-comment-message"><p>I&#039;d say this is all about attention, one way or the other&#8230; You don&#039;t see &#034;everyone&#034; in similar situations parading like they deserve a gold star for a selfie.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-2" id="dsq-comment-380832">
+        <div id="dsq-comment-header-380832" class="dsq-comment-header">
+            <cite id="dsq-cite-380832">
+                <span id="dsq-author-user-380832">bloopdebloop</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380832" class="dsq-comment-body">
+            <div id="dsq-comment-message-380832" class="dsq-comment-message"><p>Takes a shit, then takes a selfie. Why not just take a selfie with the shit?</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-2" id="dsq-comment-380838">
+        <div id="dsq-comment-header-380838" class="dsq-comment-header">
+            <cite id="dsq-cite-380838">
+                <span id="dsq-author-user-380838">Bazini</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380838" class="dsq-comment-body">
+            <div id="dsq-comment-message-380838" class="dsq-comment-message"><p>Once you go black you ain&#039;t goin back #LongDickStyle</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-2" id="dsq-comment-380839">
+        <div id="dsq-comment-header-380839" class="dsq-comment-header">
+            <cite id="dsq-cite-380839">
+                <span id="dsq-author-user-380839">Bazini</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380839" class="dsq-comment-body">
+            <div id="dsq-comment-message-380839" class="dsq-comment-message"><p>Once you go black you ain&#039;t going back #LongDickStyle</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-3" id="dsq-comment-380853">
+        <div id="dsq-comment-header-380853" class="dsq-comment-header">
+            <cite id="dsq-cite-380853">
+                <span id="dsq-author-user-380853">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380853" class="dsq-comment-body">
+            <div id="dsq-comment-message-380853" class="dsq-comment-message"><p>you can&#039;t go back because no one will have you. just thought i&#039;d clear things up for you.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-3" id="dsq-comment-380926">
+        <div id="dsq-comment-header-380926" class="dsq-comment-header">
+            <cite id="dsq-cite-380926">
+                <span id="dsq-author-user-380926">Black trash</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380926" class="dsq-comment-body">
+            <div id="dsq-comment-message-380926" class="dsq-comment-message"><p>Oh, be quiet with that bullshit!</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt depth-2" id="dsq-comment-380895">
+        <div id="dsq-comment-header-380895" class="dsq-comment-header">
+            <cite id="dsq-cite-380895">
+                <span id="dsq-author-user-380895">ヒロユキ</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380895" class="dsq-comment-body">
+            <div id="dsq-comment-message-380895" class="dsq-comment-message"><p>Wow, so much racist replies on this&#8230;even if this article clearly<br />
+implies that it is against racism. Stay strong, Katy. Don&#039;t pay any<br />
+attention to the scumbags in the community.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-2" id="dsq-comment-380939">
+        <div id="dsq-comment-header-380939" class="dsq-comment-header">
+            <cite id="dsq-cite-380939">
+                <span id="dsq-author-user-380939">Oversensitive Millennial</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380939" class="dsq-comment-body">
+            <div id="dsq-comment-message-380939" class="dsq-comment-message"><p>Another &#034;special snowflake&#034;.  F*** you.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-2" id="dsq-comment-380955">
+        <div id="dsq-comment-header-380955" class="dsq-comment-header">
+            <cite id="dsq-cite-380955">
+                <span id="dsq-author-user-380955">Jewy Jewburg</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380955" class="dsq-comment-body">
+            <div id="dsq-comment-message-380955" class="dsq-comment-message"><p>Prediction: two years from now, you&#039;re raising his baby alone because he&#039;s in jail for theft, drugs, or something of that nature.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-3" id="dsq-comment-381067">
+        <div id="dsq-comment-header-381067" class="dsq-comment-header">
+            <cite id="dsq-cite-381067">
+                <span id="dsq-author-user-381067">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381067" class="dsq-comment-body">
+            <div id="dsq-comment-message-381067" class="dsq-comment-message"><p>my guess is that she will end up being forced into prostitution. she has been warned, only time will tell. i hope poor katy keeps us updated. the odds are in our favor.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-380731">
+        <div id="dsq-comment-header-380731" class="dsq-comment-header">
+            <cite id="dsq-cite-380731">
+                <span id="dsq-author-user-380731">Carl Young</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380731" class="dsq-comment-body">
+            <div id="dsq-comment-message-380731" class="dsq-comment-message"><p>This is why I respect the hell out of Corey Taylor as a human being even more so as an artist, he&#039;s not afraid to speak truth to power and sees the bigger picture. I am a fan of SlipKnot and a fan of all different genres of music, Music should be about unification and is inclusive not about division and exclusion. I am proud of be a fan of SlipKnot&#8230;</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-2" id="dsq-comment-380836">
+        <div id="dsq-comment-header-380836" class="dsq-comment-header">
+            <cite id="dsq-cite-380836">
+                <span id="dsq-author-user-380836">bloopdebloop</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380836" class="dsq-comment-body">
+            <div id="dsq-comment-message-380836" class="dsq-comment-message"><p>ALL different genres?</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-3" id="dsq-comment-380849">
+        <div id="dsq-comment-header-380849" class="dsq-comment-header">
+            <cite id="dsq-cite-380849">
+                <span id="dsq-author-user-380849">Carl Young</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380849" class="dsq-comment-body">
+            <div id="dsq-comment-message-380849" class="dsq-comment-message"><p>Yes, I would hope you don&#039;t just listen to just one style of music? I could listen to Subliminal Verses one night and listen to Mozart on another, it would depend on the vibe and mood at the time.. That is what makes music so wonderful to me.. But that is just me..</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-380732">
+        <div id="dsq-comment-header-380732" class="dsq-comment-header">
+            <cite id="dsq-cite-380732">
+                <span id="dsq-author-user-380732">Carlos Haak</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380732" class="dsq-comment-body">
+            <div id="dsq-comment-message-380732" class="dsq-comment-message"><p>No I was not. As always.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-380736">
+        <div id="dsq-comment-header-380736" class="dsq-comment-header">
+            <cite id="dsq-cite-380736">
+                <span id="dsq-author-user-380736">Mr. Nobody</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380736" class="dsq-comment-body">
+            <div id="dsq-comment-message-380736" class="dsq-comment-message"><p>Corey Taylor laying it down&#8230; like 2 weeks after the fact! Still, good thoughts here&#8230; fuck racism!</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-380737">
+        <div id="dsq-comment-header-380737" class="dsq-comment-header">
+            <cite id="dsq-cite-380737">
+                <span id="dsq-author-user-380737">G Nunchuk</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380737" class="dsq-comment-body">
+            <div id="dsq-comment-message-380737" class="dsq-comment-message"><p>You don&#039;t have to be a fan to love Taylor&#039;s views, and his music&#8230;regardless of which project that comes out of. It&#039;s rare to find someone in the biz that will speak up. Well done Corey. Continued success</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-380741">
+        <div id="dsq-comment-header-380741" class="dsq-comment-header">
+            <cite id="dsq-cite-380741">
+                <span id="dsq-author-user-380741">Tom Jones</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380741" class="dsq-comment-body">
+            <div id="dsq-comment-message-380741" class="dsq-comment-message"><p>Good point Corey!  Racism is also a part of a bigger problem of prejudice&#8230;And prejudice is part of not being open minded.  Slipknot is brilliant because they are so open minded.  Check out our music which is also OpeN MinDed:<a href="https://soundcloud.com/aquatic-ape-196736544" onclick="__gaTracker('send', 'event', 'outbound-comment', 'https://soundcloud.com/aquatic-ape-196736544', 'https://soundcloud.com/aquatic-ape-196736544');" rel="nofollow">https://soundcloud.com/aquatic-ape-196736544</a></p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-380746">
+        <div id="dsq-comment-header-380746" class="dsq-comment-header">
+            <cite id="dsq-cite-380746">
+                <span id="dsq-author-user-380746">Don Gato</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380746" class="dsq-comment-body">
+            <div id="dsq-comment-message-380746" class="dsq-comment-message"><p>Who the hell cares about what says a clown?</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-381083">
+        <div id="dsq-comment-header-381083" class="dsq-comment-header">
+            <cite id="dsq-cite-381083">
+                <span id="dsq-author-user-381083">Custer contradictory</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381083" class="dsq-comment-body">
+            <div id="dsq-comment-message-381083" class="dsq-comment-message"><p>Exactly&#8230; at this point its almost like come out against Phil to oneself look better and get in the news.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even thread-odd thread-alt depth-1" id="dsq-comment-380758">
+        <div id="dsq-comment-header-380758" class="dsq-comment-header">
+            <cite id="dsq-cite-380758">
+                <span id="dsq-author-user-380758">cunt butter</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380758" class="dsq-comment-body">
+            <div id="dsq-comment-message-380758" class="dsq-comment-message"><p>we get it, white power means phil needs years to rebuild his image, but Black panther anti cop beyonce does racist tribute during super bowl, and thats justfine&#8230; fuck off</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-380799">
+        <div id="dsq-comment-header-380799" class="dsq-comment-header">
+            <cite id="dsq-cite-380799">
+                <span id="dsq-author-user-380799">bloopdebloop</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380799" class="dsq-comment-body">
+            <div id="dsq-comment-message-380799" class="dsq-comment-message"><p>How was what Beyonce did racist?</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-3" id="dsq-comment-380803">
+        <div id="dsq-comment-header-380803" class="dsq-comment-header">
+            <cite id="dsq-cite-380803">
+                <span id="dsq-author-user-380803">cunt butter</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380803" class="dsq-comment-body">
+            <div id="dsq-comment-message-380803" class="dsq-comment-message"><p>hmmm, lets see, black power fist, black panther costume, song bashing police&#8230; thats all ok, a drunk jerk off yells white power and its bad? double standard. if you cant see that your a fucking moron,</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-4" id="dsq-comment-380830">
+        <div id="dsq-comment-header-380830" class="dsq-comment-header">
+            <cite id="dsq-cite-380830">
+                <span id="dsq-author-user-380830">bloopdebloop</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380830" class="dsq-comment-body">
+            <div id="dsq-comment-message-380830" class="dsq-comment-message"><p>Okay&#8230;so how is any of that racist?</p>
+<p>Also, if you&#039;re going to call someone a moron, you should probably learn the difference between your and you&#039;re. My 7 year old nephew knows the difference, so what&#039;s your excuse?</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-5" id="dsq-comment-380921">
+        <div id="dsq-comment-header-380921" class="dsq-comment-header">
+            <cite id="dsq-cite-380921">
+                <span id="dsq-author-user-380921">cunt butter</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380921" class="dsq-comment-body">
+            <div id="dsq-comment-message-380921" class="dsq-comment-message"><p>like i said faggot, your a fucking moron&#8230;and you&#039;re grammar nazi bullshit proves it, get aids and die in a fire, fucktard. you obviously are to fucking dumb to see the double standard, like a said a guilty white bitch, or a stupid nigger. either way, get aids and drop dead faggot</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-380930">
+        <div id="dsq-comment-header-380930" class="dsq-comment-header">
+            <cite id="dsq-cite-380930">
+                <span id="dsq-author-user-380930">Black trash</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380930" class="dsq-comment-body">
+            <div id="dsq-comment-message-380930" class="dsq-comment-message"><p>Calling people insults won&#039;t help you in your favor. I&#039;m not saying your original comment is wrong, but insulted people when they start questioning you won&#039;t help.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-380952">
+        <div id="dsq-comment-header-380952" class="dsq-comment-header">
+            <cite id="dsq-cite-380952">
+                <span id="dsq-author-user-380952">Joshua Chap</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380952" class="dsq-comment-body">
+            <div id="dsq-comment-message-380952" class="dsq-comment-message"><p>Well you see that what children do when they are scared and have nothing to back then up with what dumb shit they say, so they use name calling as a self defense. It pretty much admits defeat </p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-381065">
+        <div id="dsq-comment-header-381065" class="dsq-comment-header">
+            <cite id="dsq-cite-381065">
+                <span id="dsq-author-user-381065">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381065" class="dsq-comment-body">
+            <div id="dsq-comment-message-381065" class="dsq-comment-message"><p>look at the comments directed at me. so many scared little shills screaming racist and abusing me. oh the horror of it all. does that mean i won the debate?</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-381032">
+        <div id="dsq-comment-header-381032" class="dsq-comment-header">
+            <cite id="dsq-cite-381032">
+                <span id="dsq-author-user-381032">bloopdebloop</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381032" class="dsq-comment-body">
+            <div id="dsq-comment-message-381032" class="dsq-comment-message"><p>lol whatever you say, kid. You&#039;re obviously too fucking dumb (or maybe that should read &#034;to fucking dumb&#034; so it makes sense to you) to see the irony in calling someone dumb while spelling like a child, or to realize that pointing out spelling mistakes does not make one a grammar Nazi. Spelling is not grammar. It&#039;s spelling. And you&#039;re terrible at it.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt depth-4" id="dsq-comment-380833">
+        <div id="dsq-comment-header-380833" class="dsq-comment-header">
+            <cite id="dsq-cite-380833">
+                <span id="dsq-author-user-380833">Cuntbelieveit&#039;snotbutter</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380833" class="dsq-comment-body">
+            <div id="dsq-comment-message-380833" class="dsq-comment-message"><p>It&#039;s &#034;you&#039;re&#034; not your&#8230;so maybe don&#039;t call someone a moron if you can&#039;t get that right.    </p>
+<p>I would say, yes, white power is bad. Who wants to align themselves with white supremacists who believe their race is superior to all others?  And not to mention he threw in a Heil Hitler for good measure&#8230;all without provocation.  So to me&#8230;white power+Hitler=not good.  </p>
+<p>The black power statement isn&#039;t as clear cut, if Beyonce is aligning herself with the NBPP, then her statement is also racist, because she would be aligning herself with a black supremacy hate group.  If she&#039;s making a political stance against law enforcement treating black people unfairly and killing them for no reason and honouring Malcolm X, then I personally don&#039;t believe it&#039;s racist&#8230;some may disagree, which is fine.  I feel like the lines are a lot more blurred in this situation than it is with whatever Anselmo was doing.  </p>
+<p>This is just my take on it as a white person who doesn&#039;t believe we white people have it all that bad just because we don&#039;t have a White History Month or can&#039;t yell old hate filled slogans or flash a symbol associated with one of history&#039;s notorious genocidal maniacs in public.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-5" id="dsq-comment-380847">
+        <div id="dsq-comment-header-380847" class="dsq-comment-header">
+            <cite id="dsq-cite-380847">
+                <span id="dsq-author-user-380847">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380847" class="dsq-comment-body">
+            <div id="dsq-comment-message-380847" class="dsq-comment-message"><p>so, a black man kills a white cop and he is honoring malcom x. but a white cop kills a black man and he is a racist. clearly saying white power is evil. i love your logic. </p>
+<p>ps: did i use &#034;your&#034; correctly?</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-380851">
+        <div id="dsq-comment-header-380851" class="dsq-comment-header">
+            <cite id="dsq-cite-380851">
+                <span id="dsq-author-user-380851">Cuntbelieveit&#039;snotbutter</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380851" class="dsq-comment-body">
+            <div id="dsq-comment-message-380851" class="dsq-comment-message"><p>That&#039;s what you got out of that?  If a black man kills a white cop he is a murderer.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-380856">
+        <div id="dsq-comment-header-380856" class="dsq-comment-header">
+            <cite id="dsq-cite-380856">
+                <span id="dsq-author-user-380856">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380856" class="dsq-comment-body">
+            <div id="dsq-comment-message-380856" class="dsq-comment-message"><p>i saw you make an excuse for black people that say black power, or who align themselves with the NBPP.<br />
+doing the peace sign doesn&#039;t make you a hippie. so, saying white power while doing the nazi salute doesn&#039;t make you a racist.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-380861">
+        <div id="dsq-comment-header-380861" class="dsq-comment-header">
+            <cite id="dsq-cite-380861">
+                <span id="dsq-author-user-380861">Cuntbelieveit&#039;snotbutter</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380861" class="dsq-comment-body">
+            <div id="dsq-comment-message-380861" class="dsq-comment-message"><p>I didn&#039;t make any excuses for people who align themselves with the NBPP.  I said if they do, then they too are racist because the NBPP is a black supremacy group.  </p>
+<p>I agree that saying white pride and doing a Nazi salute doesn&#039;t make you a racist&#8230;saying white power absolutely does, especially on more than one occasion. All the defenders of lovable Phil want to equate &#034;white power&#034; with taking immense pride in your whiteness for some reason, when that term is all about superiority over all other races.  </p>
+<p>Did you read my post or did you see the words racist, Malcolm X, Anselmo, Hitler and get all agitated? If you hate blacks then that&#039;s your prerogative, I just hope you have a good reason to hate them other than they don&#039;t look the way you do when you look in your sad little mirror. </p>
+<p>And yes, you did use &#034;your&#034; correctly&#8230;congratulations on showing off your 2nd grade education skills. </p>
+<p>Your views are obviously extremely prejudiced against non-whites, so I probably just wasted my time by replying.  Keep enjoying your intolerant ways!</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-381043">
+        <div id="dsq-comment-header-381043" class="dsq-comment-header">
+            <cite id="dsq-cite-381043">
+                <span id="dsq-author-user-381043">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381043" class="dsq-comment-body">
+            <div id="dsq-comment-message-381043" class="dsq-comment-message"><p>my views are not prejudiced against anyone. all races should stay in their country of birth and not mix with other races. i guess it&#039;s only ok for jews not to mix with other races. </p>
+<p>&#034;This is probably the first time and this is the first country in which people are being taught to realize that, of all the tasks which we have to face, the noblest and most sacred for mankind is that EACH racial species must preserve the purity of the blood which God has given it.&#034; &#8211; hitler</p>
+<p>geez, how racist is that.</p>
+<p>ps: i am glad that my 2nd grade education skills are up to par.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-381057">
+        <div id="dsq-comment-header-381057" class="dsq-comment-header">
+            <cite id="dsq-cite-381057">
+                <span id="dsq-author-user-381057">Yourabitch</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381057" class="dsq-comment-body">
+            <div id="dsq-comment-message-381057" class="dsq-comment-message"><p>Guess people should bow down to your opinions, to bad the world doesn&#039;t revolve around you. Ignorant dick. Sorry I won&#039;t be around to reply, really don&#039;t care what you have to say back but by all means put your all you have into it.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-381064">
+        <div id="dsq-comment-header-381064" class="dsq-comment-header">
+            <cite id="dsq-cite-381064">
+                <span id="dsq-author-user-381064">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381064" class="dsq-comment-body">
+            <div id="dsq-comment-message-381064" class="dsq-comment-message"><p>your opinion is of great value to no one and that is to be applauded. bye bye.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-381090">
+        <div id="dsq-comment-header-381090" class="dsq-comment-header">
+            <cite id="dsq-cite-381090">
+                <span id="dsq-author-user-381090">Cuntbelieveit&#039;snotbutter</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381090" class="dsq-comment-body">
+            <div id="dsq-comment-message-381090" class="dsq-comment-message"><p>All races should stay in their country of birth? So all white people should leave North America?  </p>
+<p>Quoting Hitler too?  Well, doesn&#039;t that just make you a shining beacon for tolerance and acceptance.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-380928">
+        <div id="dsq-comment-header-380928" class="dsq-comment-header">
+            <cite id="dsq-cite-380928">
+                <span id="dsq-author-user-380928">Black trash</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380928" class="dsq-comment-body">
+            <div id="dsq-comment-message-380928" class="dsq-comment-message"><p>If it&#039;s White power, Black Power, or even Asian Power it would always be double standards to the other race. I never understand having pride for an race, if you didn&#039;t pick it yourself. In the end of the day, your race pride is going to be shit once you die,</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-380972">
+        <div id="dsq-comment-header-380972" class="dsq-comment-header">
+            <cite id="dsq-cite-380972">
+                <span id="dsq-author-user-380972">more beer</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380972" class="dsq-comment-body">
+            <div id="dsq-comment-message-380972" class="dsq-comment-message"><p>I am by no means a cop supporter. But if you are going to rob and beat up. Hard working store owners. Then fight with the cops. You should expect to get beat up, tazed or shot. Supporting this type of behavior is just as bad as being a racist.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-380997">
+        <div id="dsq-comment-header-380997" class="dsq-comment-header">
+            <cite id="dsq-cite-380997">
+                <span id="dsq-author-user-380997">Cuntbelieveit&#039;snotbutter</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380997" class="dsq-comment-body">
+            <div id="dsq-comment-message-380997" class="dsq-comment-message"><p>Who said anything about supporting criminal behaviour?  If you are being fought or robbed or someone pulls a weapon on you and your life is in danger&#8230;defend yourself.  If someone is surrendering or just walking down the street or even running away several cops should be able to take them down without a kill shot.  Or do you feel they are criminals anyways and their lives are destined to stay that way so who cares if they are dead before they see their 15th, 20th or 30th birthdays?</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt depth-3" id="dsq-comment-380804">
+        <div id="dsq-comment-header-380804" class="dsq-comment-header">
+            <cite id="dsq-cite-380804">
+                <span id="dsq-author-user-380804">cunt butter</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380804" class="dsq-comment-body">
+            <div id="dsq-comment-message-380804" class="dsq-comment-message"><p>my guess is your a guilty white bitch, or a racist black jerk off&#8230;.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-4" id="dsq-comment-380831">
+        <div id="dsq-comment-header-380831" class="dsq-comment-header">
+            <cite id="dsq-cite-380831">
+                <span id="dsq-author-user-380831">bloopdebloop</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380831" class="dsq-comment-body">
+            <div id="dsq-comment-message-380831" class="dsq-comment-message"><p>Sure. And judging by your shitty spelling skills, my guess is you&#039;re no older than 10.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-5" id="dsq-comment-380859">
+        <div id="dsq-comment-header-380859" class="dsq-comment-header">
+            <cite id="dsq-cite-380859">
+                <span id="dsq-author-user-380859">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380859" class="dsq-comment-body">
+            <div id="dsq-comment-message-380859" class="dsq-comment-message"><p>i am sure that cunt butter would win a spelling bee against the compton allstars any day of the week. i&#039;d bet my house on it.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-381000">
+        <div id="dsq-comment-header-381000" class="dsq-comment-header">
+            <cite id="dsq-cite-381000">
+                <span id="dsq-author-user-381000">Dustin Neumann</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381000" class="dsq-comment-body">
+            <div id="dsq-comment-message-381000" class="dsq-comment-message"><p>Oh look . More racism . Man you guys are true Trump supporters .</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-381022">
+        <div id="dsq-comment-header-381022" class="dsq-comment-header">
+            <cite id="dsq-cite-381022">
+http://www.fingerslam.com/                <span id="dsq-author-user-381022">Cool Chad McRad</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381022" class="dsq-comment-body">
+            <div id="dsq-comment-message-381022" class="dsq-comment-message"><p>stop being a faggot and find a girlfriend</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-381062">
+        <div id="dsq-comment-header-381062" class="dsq-comment-header">
+            <cite id="dsq-cite-381062">
+                <span id="dsq-author-user-381062">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381062" class="dsq-comment-body">
+            <div id="dsq-comment-message-381062" class="dsq-comment-message"><p>it really is sad that many of you hate white people so much. what&#039;s with the racism? pip squeak.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt depth-3" id="dsq-comment-380998">
+        <div id="dsq-comment-header-380998" class="dsq-comment-header">
+            <cite id="dsq-cite-380998">
+                <span id="dsq-author-user-380998">Dustin Neumann</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380998" class="dsq-comment-body">
+            <div id="dsq-comment-message-380998" class="dsq-comment-message"><p>It wasn&#039;t written for the white man of course. The white man needs to be pandered to or his feelings get hurt :/</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-380787">
+        <div id="dsq-comment-header-380787" class="dsq-comment-header">
+            <cite id="dsq-cite-380787">
+                <span id="dsq-author-user-380787">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380787" class="dsq-comment-body">
+            <div id="dsq-comment-message-380787" class="dsq-comment-message"><p>well corey, i guess we should all become useless junkie scum like you and your fellow drug addict band mates. what an inspiration and role model you all are. love the message, people=shit. does that include black people and jews, or only white people? douche bag zionist apologist.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-380810">
+        <div id="dsq-comment-header-380810" class="dsq-comment-header">
+            <cite id="dsq-cite-380810">
+                <span id="dsq-author-user-380810">aikhooligan=shit</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380810" class="dsq-comment-body">
+            <div id="dsq-comment-message-380810" class="dsq-comment-message"><p>I think he was just talking about you when he wrote people=shit.  Unfortunately, your name was too long so he knew how hard it would be for people to shout along, so he changed it.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-3" id="dsq-comment-380817">
+        <div id="dsq-comment-header-380817" class="dsq-comment-header">
+            <cite id="dsq-cite-380817">
+                <span id="dsq-author-user-380817">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380817" class="dsq-comment-body">
+            <div id="dsq-comment-message-380817" class="dsq-comment-message"><p>you really hurt my feelings. that&#039;s worse than imaginary racism. now be like corey and go whack up some heroin, pip squeak.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-4" id="dsq-comment-380840">
+        <div id="dsq-comment-header-380840" class="dsq-comment-header">
+            <cite id="dsq-cite-380840">
+                <span id="dsq-author-user-380840">aikhooligan=shit</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380840" class="dsq-comment-body">
+            <div id="dsq-comment-message-380840" class="dsq-comment-message"><p>What exactly is imaginary racism?  Enlighten us all.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-5" id="dsq-comment-380842">
+        <div id="dsq-comment-header-380842" class="dsq-comment-header">
+            <cite id="dsq-cite-380842">
+                <span id="dsq-author-user-380842">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380842" class="dsq-comment-body">
+            <div id="dsq-comment-message-380842" class="dsq-comment-message"><p>imaginary racism=being proud of your white heritage and saying white power while doing the nazi salute.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-380871">
+        <div id="dsq-comment-header-380871" class="dsq-comment-header">
+            <cite id="dsq-cite-380871">
+                <span id="dsq-author-user-380871">aikhooligan=shit</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380871" class="dsq-comment-body">
+            <div id="dsq-comment-message-380871" class="dsq-comment-message"><p>White power is the call for separation of the races and the ideology that other races are inferior.  Seems like real racism to me.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-381041">
+        <div id="dsq-comment-header-381041" class="dsq-comment-header">
+            <cite id="dsq-cite-381041">
+                <span id="dsq-author-user-381041">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381041" class="dsq-comment-body">
+            <div id="dsq-comment-message-381041" class="dsq-comment-message"><p>white power is the call for separation of the races and the ideology that the noblest and most sacred thing for mankind is that each racial species must preserve the purity of the blood which God has given it.</p>
+<p>and that&#039;s not racism. it&#039;s common sense.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-381050">
+        <div id="dsq-comment-header-381050" class="dsq-comment-header">
+            <cite id="dsq-cite-381050">
+                <span id="dsq-author-user-381050">aikhooligan=shit</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381050" class="dsq-comment-body">
+            <div id="dsq-comment-message-381050" class="dsq-comment-message"><p>So you just took the first part of the definition of the guy who actually coined the term &#034;white power&#034; and then mashed it up with some shit Hitler said to come up with your own personal conclusion of the term so you can conveniently say it&#039;s not racist?  Ok then.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-381056">
+        <div id="dsq-comment-header-381056" class="dsq-comment-header">
+            <cite id="dsq-cite-381056">
+                <span id="dsq-author-user-381056">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381056" class="dsq-comment-body">
+            <div id="dsq-comment-message-381056" class="dsq-comment-message"><p>don&#039;t cry because i am so smart. just admit that you got owned royally and i won the debate. clearly saying &#034;white power&#034; is not racist at all. cheers.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-381066">
+        <div id="dsq-comment-header-381066" class="dsq-comment-header">
+            <cite id="dsq-cite-381066">
+                <span id="dsq-author-user-381066">aikhooligan=shit</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381066" class="dsq-comment-body">
+            <div id="dsq-comment-message-381066" class="dsq-comment-message"><p>In online debates, especially on a site like this, everyone loses.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-381069">
+        <div id="dsq-comment-header-381069" class="dsq-comment-header">
+            <cite id="dsq-cite-381069">
+                <span id="dsq-author-user-381069">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381069" class="dsq-comment-body">
+            <div id="dsq-comment-message-381069" class="dsq-comment-message"><p>i clearly won.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-380790">
+        <div id="dsq-comment-header-380790" class="dsq-comment-header">
+            <cite id="dsq-cite-380790">
+                <span id="dsq-author-user-380790">stuff &amp; things</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380790" class="dsq-comment-body">
+            <div id="dsq-comment-message-380790" class="dsq-comment-message"><p>&#034;Slipknot has dedicated itself to bringing people together to fighting hate in general since the day we were started.&#034; What? Why you always lyin&#039;?</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-2" id="dsq-comment-380821">
+        <div id="dsq-comment-header-380821" class="dsq-comment-header">
+            <cite id="dsq-cite-380821">
+                <span id="dsq-author-user-380821">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380821" class="dsq-comment-body">
+            <div id="dsq-comment-message-380821" class="dsq-comment-message"><p>yes, we all had a massive laugh at that one. i never did see a slipknot song called peace, love and happiness. it&#039;s all filth, as far as i can see.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-3" id="dsq-comment-381708">
+        <div id="dsq-comment-header-381708" class="dsq-comment-header">
+            <cite id="dsq-cite-381708">
+                <span id="dsq-author-user-381708">Jean-Christophe</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381708" class="dsq-comment-body">
+            <div id="dsq-comment-message-381708" class="dsq-comment-message"><p>Come on, read between the lines. Anyway, to send off a huge middle finger in the face of &#034;the institution&#034; or christianity is not like persecuting a group of people being oppressed in any way. They are actually denouncing the oppressor and the strenght of that anger relates to hatred&#8230; but the point is it is done in a cathartic way, not a violent one. You know. Like colonialism and national socialism&#8230;</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-380798">
+        <div id="dsq-comment-header-380798" class="dsq-comment-header">
+            <cite id="dsq-cite-380798">
+                <span id="dsq-author-user-380798">kuntface</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380798" class="dsq-comment-body">
+            <div id="dsq-comment-message-380798" class="dsq-comment-message"><p>only problem with these &#034;statements&#034; are that they don&#039;t really represent the real person, only the person who is constantly in touch with the media. perhaps the private person has a different opinion but he cannot say it because it would classify him as a racist. this is common behavior with politicians, athletes, actors etc.. they have to take care of their public image and cannot have &#034;negative&#034; opinions about, well, almost anything. in private people are very different.<br />
+if mr. taylor would publicly say that he supports mr. anselmo in this matter, it would cause irreversible damage to Slipknot and their business. so of course he says he don&#039;t condone this message. it&#039;s bad for business.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-380925">
+        <div id="dsq-comment-header-380925" class="dsq-comment-header">
+            <cite id="dsq-cite-380925">
+                <span id="dsq-author-user-380925">Angry Tom</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380925" class="dsq-comment-body">
+            <div id="dsq-comment-message-380925" class="dsq-comment-message"><p>And Anselmo&#039;s &#034;message&#034; is racist and stupid, which is enough reason to distance oneself from it. I doubt Corey Taylor wants to align himself with ignorance either publicly or privately.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even thread-odd thread-alt depth-1" id="dsq-comment-380813">
+        <div id="dsq-comment-header-380813" class="dsq-comment-header">
+            <cite id="dsq-cite-380813">
+                <span id="dsq-author-user-380813">KMFCM</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380813" class="dsq-comment-body">
+            <div id="dsq-comment-message-380813" class="dsq-comment-message"><p>I am glad he mentioned that this is not a specifically metal thing. Too many other people are trying to spin it as if it is.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-381004">
+        <div id="dsq-comment-header-381004" class="dsq-comment-header">
+            <cite id="dsq-cite-381004">
+                <span id="dsq-author-user-381004">Dustin Neumann</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381004" class="dsq-comment-body">
+            <div id="dsq-comment-message-381004" class="dsq-comment-message"><p>You haven&#039;t read the comments i take it &#8230;..</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-380823">
+        <div id="dsq-comment-header-380823" class="dsq-comment-header">
+            <cite id="dsq-cite-380823">
+                <span id="dsq-author-user-380823">steve shoesmith</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380823" class="dsq-comment-body">
+            <div id="dsq-comment-message-380823" class="dsq-comment-message"><p>Guys my best friend and moshpit brother is black we go to every gig we can together and I am native peoples </p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-380825">
+        <div id="dsq-comment-header-380825" class="dsq-comment-header">
+            <cite id="dsq-cite-380825">
+                <span id="dsq-author-user-380825">steve shoesmith</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380825" class="dsq-comment-body">
+            <div id="dsq-comment-message-380825" class="dsq-comment-message"><p>Hey guys to finish what I said that I never even look at the colour of his skin and we just got back from seeing slipknot in London I never thought that people would judge anyone especially at a slipknot gig like Corey said the music brings us together and I&#039;m really shy and I was talking and jumping around with people I don&#039;t know that Asimov is a dick </p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-380845">
+        <div id="dsq-comment-header-380845" class="dsq-comment-header">
+            <cite id="dsq-cite-380845">
+                <span id="dsq-author-user-380845">Joel Nair</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380845" class="dsq-comment-body">
+            <div id="dsq-comment-message-380845" class="dsq-comment-message"><p>It&#039;s been scientifically proven that there is no such thing as race to begin with.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-380850">
+        <div id="dsq-comment-header-380850" class="dsq-comment-header">
+            <cite id="dsq-cite-380850">
+                <span id="dsq-author-user-380850">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380850" class="dsq-comment-body">
+            <div id="dsq-comment-message-380850" class="dsq-comment-message"><p>there is no &#034;human race&#034; but many different races, that should not mix with each other. i think that&#039;s the scientific fact you were thinking of. glad to help.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-3" id="dsq-comment-380865">
+        <div id="dsq-comment-header-380865" class="dsq-comment-header">
+            <cite id="dsq-cite-380865">
+                <span id="dsq-author-user-380865">TreyP</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380865" class="dsq-comment-body">
+            <div id="dsq-comment-message-380865" class="dsq-comment-message"><p>Race is a social construct. The genetic differences between people of different &#034;races&#034; is infinitesimal. We are one species with different concentrations of melanin depending on the region. Its really not a difficult concept.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-4" id="dsq-comment-380875">
+        <div id="dsq-comment-header-380875" class="dsq-comment-header">
+            <cite id="dsq-cite-380875">
+                <span id="dsq-author-user-380875">Einar</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380875" class="dsq-comment-body">
+            <div id="dsq-comment-message-380875" class="dsq-comment-message"><p>Wrong. While race is social constructed to sustain stereotypes and prejudice and ignorance it is -also- a biological reality which is why scientists can establish the race of a perpetrator with nothing more than a trace of DNA. Try reading the science instead of the lies of the media every once in a while and sharing these with others as brainwashed as you clearly are.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even depth-2" id="dsq-comment-380876">
+        <div id="dsq-comment-header-380876" class="dsq-comment-header">
+            <cite id="dsq-cite-380876">
+                <span id="dsq-author-user-380876">Einar</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380876" class="dsq-comment-body">
+            <div id="dsq-comment-message-380876" class="dsq-comment-message"><p>No, it hasn&#039;t. Scientists can establish the race of a perpetrator with a trace of DNA and yet you buy liberal mythic narratives about race as if they are divine truth? People like you are an embarrassment to mature and rational discussion. It isn&#039;t scientists who say race is not real but post-structural social scientists  &#8211; that is, political ideologues &#8211; but thank you for demonstrating your sheer ignorance.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-3" id="dsq-comment-380992">
+        <div id="dsq-comment-header-380992" class="dsq-comment-header">
+            <cite id="dsq-cite-380992">
+http://www.defineinsanityband.com                <span id="dsq-author-user-380992">Justahusk</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380992" class="dsq-comment-body">
+            <div id="dsq-comment-message-380992" class="dsq-comment-message"><p>Well, the thing is that the definition of the word &#034;race&#034; is not as clear cut as one would think. Geographic separation of two groups of the same species can be enough to separate them into two different &#034;races&#034; for classification purposes. And yes, there are slight biological differences between people from different places, but the few papers i have checked out on the subject have marked them as &#034;not interesting&#034;. So in a way you can say that there are different human races, but they have no significant differences from each other, and the term in itself can mean many different things.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-4" id="dsq-comment-380995">
+        <div id="dsq-comment-header-380995" class="dsq-comment-header">
+            <cite id="dsq-cite-380995">
+                <span id="dsq-author-user-380995">Dustin Neumann</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380995" class="dsq-comment-body">
+            <div id="dsq-comment-message-380995" class="dsq-comment-message"><p>Link to All these &#034;papers&#034; you speak of .</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-5" id="dsq-comment-381005">
+        <div id="dsq-comment-header-381005" class="dsq-comment-header">
+            <cite id="dsq-cite-381005">
+http://www.defineinsanityband.com                <span id="dsq-author-user-381005">Justahusk</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381005" class="dsq-comment-body">
+            <div id="dsq-comment-message-381005" class="dsq-comment-message"><p><a href="http://link.springer.com/chapter/10.1007%2F978-1-4684-9063-3_14" onclick="__gaTracker('send', 'event', 'outbound-comment', 'http://link.springer.com/chapter/10.1007%2F978-1-4684-9063-3_14', 'http://link.springer.com/chapter/10.1007%2F978-1-4684-9063-3_14');" rel="nofollow">http://link.springer.com/chapter/10.1007%2F978-1-4684-9063-3_14</a></p>
+<p>Could only find this now. I must admit that i&#039;m not sure if i read the formulation of &#034;not interesting&#034; from this one, or if i heard or read it some place else. The point still stands though. This text say that 85% of the biological differences find place within the traditional racialgroups, while only 15% finds place between them.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-381091">
+        <div id="dsq-comment-header-381091" class="dsq-comment-header">
+            <cite id="dsq-cite-381091">
+                <span id="dsq-author-user-381091">Einar</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381091" class="dsq-comment-body">
+            <div id="dsq-comment-message-381091" class="dsq-comment-message"><p>You link to a paper from 1972 that is today the subject of critique and ridicule among many a lay and scientist mimd alike.</p>
+<p>Richard Dawkins says of the paper:</p>
+<p>&#034;However small the racial partition of the total variation may be, if such racial characteristics as there are highly correlate with other racial characteristics, they are by definition informative, and therefore of taxonomic significance&#034;</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-381113">
+        <div id="dsq-comment-header-381113" class="dsq-comment-header">
+            <cite id="dsq-cite-381113">
+http://www.defineinsanityband.com                <span id="dsq-author-user-381113">Justahusk</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381113" class="dsq-comment-body">
+            <div id="dsq-comment-message-381113" class="dsq-comment-message"><p>&#034;Taxonomic significance&#034; only means that it has enough substance to classify people as different from each other. He doesn&#039;t sau anything about what the differenses are. </p>
+<p>And to be honest, this is not ny field of study. I haven&#039;t read carefully about this, but just briefly checked some stuff out. </p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-381116">
+        <div id="dsq-comment-header-381116" class="dsq-comment-header">
+            <cite id="dsq-cite-381116">
+                <span id="dsq-author-user-381116">Einar</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381116" class="dsq-comment-body">
+            <div id="dsq-comment-message-381116" class="dsq-comment-message"><p>&#034;He doesn&#039;t sau anything about what the differenses are.&#034;</p>
+<p>Actually, he does. That quote comes from a book in which Dawkins talks about genetic variance among the races and here he criticises Lewontin&#039;s paper in -direct response- to its dubious claim that because the differences are only slight it must be unnecessary to categorize people by race.</p>
+<p>I selected -one- among -many- critics of Lewontin&#039;s paper and you still seem to hold fast to its flawed methodology like it is divine truth. What you are doing here is analogous with climate change deniers finding a single paper that has been dissected and dismissed by others and waving it in the faces of your opponents as if by virtue of that and of that alone you have magically won the war. Lewontin is an ideologue. Any scientist with integrity seeks the truth and not distortions of such to support their politics and principles. And that goes for extremists at either left or right ends of the spectrum.</p>
+<p>&#034;And to be honest, this is not ny field of study.&#034;</p>
+<p>Then don&#039;t claim that race isn&#039;t a biological reality as if you know what you are talking about.</p>
+<p>As somebody with Aboriginal Australian blood and therefore more susceptible to certain illnesses I can assure you that the good intentions of the liberal idiot herd to do away with race will have and have already had catastrophic consequences for others.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt depth-5" id="dsq-comment-381122">
+        <div id="dsq-comment-header-381122" class="dsq-comment-header">
+            <cite id="dsq-cite-381122">
+http://www.defineinsanityband.com                <span id="dsq-author-user-381122">Justahusk</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381122" class="dsq-comment-body">
+            <div id="dsq-comment-message-381122" class="dsq-comment-message"><p>Okey, dude. I have enough understanding of how academia works to know when it&#039;s not fruitful for me to continue and support my argument (I just don&#039;t know enough to compete wih you), and i would also like to know what differences Dawkins are talking about! So please enlighten me.<br />
+But i will say that the way race have effected the world, through racism, slavery, white pride and so one, is mostly a social construct. By that i mean that no matter how big or small the differences biologically are, it doesn&#039;t legitimize the way a lot of people, blacks in particulare, have gone through. In anthropology (inspired by Gregory Bateson) we talk about &#034;a difference which makes a difference&#034; as a way to seperate &#034;us&#034; and &#034;them&#034;. The differences, in theory, doesn&#039;t have to be big at all, but as long as one group finds the differences significant they will separate people. A very simple example would be if e.g. red hair was the criteria for inclusion. The two people can be similare in almost everything, but the red hair is the difference which makes a difference and thus excludes the brownhaired. Where i&#039;m going with this is that the choise to treat africans like shit and continue to treat them like shit when they came to america isn&#039;t something that stems from biology, but a socialy constructed pattern of behaviour that we continue doing. And this is my line of study.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-5" id="dsq-comment-381137">
+        <div id="dsq-comment-header-381137" class="dsq-comment-header">
+            <cite id="dsq-cite-381137">
+                <span id="dsq-author-user-381137">Einar</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381137" class="dsq-comment-body">
+            <div id="dsq-comment-message-381137" class="dsq-comment-message"><p>&#034;but a socialy constructed pattern of behaviour that we continue doing&#034;</p>
+<p>Nowhere did I say that race was not constructed socially to sustain stereotypes and prejudice and ignorance. I know this all too well rather. But sustaining the lie that race does not exist or that we are all the same because it is politically expedient to do so is as wretched an idea as any. It is allowing ideology however good its intentions to trump science.</p>
+<p>if indeed your line of study is in post-structural theories about race and racism then you should probably know that a multitude of models of critique of racism exists and that it is not as reductive as this or that person -is- a racist or that raging hysterically at the Anselmos among us is anything but a pointless exercise in self-righteousness. Post-structural theories about race are as scientific as gender theory. Which is to say -not at all-. I wager money I could find a feminist theorist that would conclude that you are a misogynist by virtue of your thinking or acting a particular way and that would not be any more or less fair or reasonable than you screaming racism at others because they fit into your convenient definition of what does or does not constitute racism. More than a few academic models of racism go so far as to insist an inherent racism exists in contempt toward the distinct cultures and traditions of ethnic communities and not just the ethnicity itself. And this is a racism to be found among even the most progressive as well as among bogeyman fascists and rednecks. Maybe even you. Any idiot can throw the label at his or her opponent. It means nothing. Personally  I have little to no faith in white people &#8211; left or right, liberal or conservative &#8211; meeting my personal interpretation of what makes a man or woman -not- a racist and all I see in this discussion is the height of sanctimony and it is frankly sickening.</p>
+<p>&#034;and i would also like to know what differences Dawkins are talking about! &#034;</p>
+<p>Then read the book The Ancestor&#039;s Tale : A Pilgrimage to the Dawn of Evolution. It is not my job to hold your hand and walk you through it anymore than I wager you would not be able to wax lyrical about evolutionary theory in an argument with a creationist.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt depth-4" id="dsq-comment-381089">
+        <div id="dsq-comment-header-381089" class="dsq-comment-header">
+            <cite id="dsq-cite-381089">
+                <span id="dsq-author-user-381089">Einar</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381089" class="dsq-comment-body">
+            <div id="dsq-comment-message-381089" class="dsq-comment-message"><p>Please take the time to ask yourself why the researchers in question might say such a thing. Do you want a hint? Perhaps it is not -politically expedient-. We now live in an age and society where it is no secret that even the hard sciences face the threat of losing funding and academics tenure if they do not say what is expected of them. Look no further than how the media and &#034;popular science&#034; uphold the Out of Africa -theory- -despite the reality- that more evidences points toward Asia as the cradle of civilisation.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even thread-odd thread-alt depth-1" id="dsq-comment-380860">
+        <div id="dsq-comment-header-380860" class="dsq-comment-header">
+            <cite id="dsq-cite-380860">
+                <span id="dsq-author-user-380860">Philip Ayr</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380860" class="dsq-comment-body">
+            <div id="dsq-comment-message-380860" class="dsq-comment-message"><p>Shameless self promotion Corey, and I thought you were ABOVE THAT. Ow well, no one&#039;s perfect.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-even depth-1" id="dsq-comment-380881">
+        <div id="dsq-comment-header-380881" class="dsq-comment-header">
+            <cite id="dsq-cite-380881">
+                <span id="dsq-author-user-380881">Shayne FV</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380881" class="dsq-comment-body">
+            <div id="dsq-comment-message-380881" class="dsq-comment-message"><p>Anselmo is an asshole &#8230; always was. There will always be racists and elitists, so the best you can do is get past it and cut those people out of your life as best you can.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-2" id="dsq-comment-380898">
+        <div id="dsq-comment-header-380898" class="dsq-comment-header">
+            <cite id="dsq-cite-380898">
+                <span id="dsq-author-user-380898">Michael Biddlecom</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380898" class="dsq-comment-body">
+            <div id="dsq-comment-message-380898" class="dsq-comment-message"><p>Truthfully you all need to stop, I&#039;m not saying why but you just need to believe me. She deals with enough and this Shit online and gonna help. I actually know her, she has gone through enough and she doesn&#039;t need you guys making it worse. So for the sake of god y&#039;all need to stop.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-3" id="dsq-comment-381002">
+        <div id="dsq-comment-header-381002" class="dsq-comment-header">
+            <cite id="dsq-cite-381002">
+                <span id="dsq-author-user-381002">Dustin Neumann</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381002" class="dsq-comment-body">
+            <div id="dsq-comment-message-381002" class="dsq-comment-message"><p>WTF are you talking about . And who are you talking to?</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even thread-odd thread-alt depth-1" id="dsq-comment-380938">
+        <div id="dsq-comment-header-380938" class="dsq-comment-header">
+            <cite id="dsq-cite-380938">
+                <span id="dsq-author-user-380938">Oversensitive Millennial</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380938" class="dsq-comment-body">
+            <div id="dsq-comment-message-380938" class="dsq-comment-message"><p>Corey Taylor, the opportunist. Trying so hard to inject himself into the cool kids celebrity table by raising the flag of anti-racism.  Unoriginal. </p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-even depth-1" id="dsq-comment-380948">
+        <div id="dsq-comment-header-380948" class="dsq-comment-header">
+            <cite id="dsq-cite-380948">
+                <span id="dsq-author-user-380948">Joshua Chap</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380948" class="dsq-comment-body">
+            <div id="dsq-comment-message-380948" class="dsq-comment-message"><p>Not that I give a shit what he thinks but he makes a good point about they&#039;re being a problem in metal. </p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-odd thread-alt depth-1" id="dsq-comment-380959">
+        <div id="dsq-comment-header-380959" class="dsq-comment-header">
+            <cite id="dsq-cite-380959">
+                <span id="dsq-author-user-380959">Qayin&#039;s Homie</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380959" class="dsq-comment-body">
+            <div id="dsq-comment-message-380959" class="dsq-comment-message"><p>&#034;Slipknot has dedicated itself to bringing people together, (&#8230;) to fighting hate in general since the day we were started.&#034;<br />
+&#034;FUCK IT ALL, FUCK THIS WORLD, FUCK EVERYTHING THAT YOU STAND FOR&#034;</p>
+<p>Oh, Corey Taylor, you silly little person.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-381076">
+        <div id="dsq-comment-header-381076" class="dsq-comment-header">
+            <cite id="dsq-cite-381076">
+                <span id="dsq-author-user-381076">DoomGuy</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381076" class="dsq-comment-body">
+            <div id="dsq-comment-message-381076" class="dsq-comment-message"><p>Don&#039;t forget, from the same song&#8230;</p>
+<p>&#034;When I get my hands on you<br />
+Ain&#039;t a fucking thing you can do&#034;</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-3" id="dsq-comment-381087">
+        <div id="dsq-comment-header-381087" class="dsq-comment-header">
+            <cite id="dsq-cite-381087">
+                <span id="dsq-author-user-381087">RickySomebody</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381087" class="dsq-comment-body">
+            <div id="dsq-comment-message-381087" class="dsq-comment-message"><p>Because every metal artist literally means and believes in every single lyric they write.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-4" id="dsq-comment-381106">
+        <div id="dsq-comment-header-381106" class="dsq-comment-header">
+            <cite id="dsq-cite-381106">
+                <span id="dsq-author-user-381106">Qayin&#039;s Homie</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381106" class="dsq-comment-body">
+            <div id="dsq-comment-message-381106" class="dsq-comment-message"><p>Yeah, but, you can&#039;t really deny that it&#039;s like a band saying non-ironically that they are all about spreading the message of christ, while their lyrics are mostly about devilworship.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even depth-4" id="dsq-comment-381382">
+        <div id="dsq-comment-header-381382" class="dsq-comment-header">
+            <cite id="dsq-cite-381382">
+                <span id="dsq-author-user-381382">DoomGuy</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381382" class="dsq-comment-body">
+            <div id="dsq-comment-message-381382" class="dsq-comment-message"><p>Lighten up brah, I&#039;m just joking around. I actually liked the first 2 albums a lot.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt thread-even depth-1" id="dsq-comment-380968">
+        <div id="dsq-comment-header-380968" class="dsq-comment-header">
+            <cite id="dsq-cite-380968">
+                <span id="dsq-author-user-380968">Jason Bunch</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380968" class="dsq-comment-body">
+            <div id="dsq-comment-message-380968" class="dsq-comment-message"><p>The fucking levels of racism here are revolting.  I&#039;ve said it before, I&#039;ll say it again: THERE IS NOTHING EXTREME OR METAL ABOUT RACISM.  It&#039;s nothing more than pure ignorance.  If you are a racist fuck, just fucking kill yourself and do us all a fucking favor, you shit stain on humanity. Also if you think you are superior simply because you were born white, you are a true fucking moron who probably hasn&#039;t accomplished anything of actual value in life as an individual and so you have to pat yourself on the back for being born as a white man, because it&#039;s all you got. Congratulations, it means nothing, you mean nothing.  You will die and the earth won&#039;t give a fuck what color your skin was as it eats it whole and you are reduced to nothing but a pile of fucking bones that knows no color.  Fuck you worm food; die, sooner than later.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-2" id="dsq-comment-381363">
+        <div id="dsq-comment-header-381363" class="dsq-comment-header">
+            <cite id="dsq-cite-381363">
+                <span id="dsq-author-user-381363">Einar</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381363" class="dsq-comment-body">
+            <div id="dsq-comment-message-381363" class="dsq-comment-message"><p>Listen here, you -fucking moron-: There is more than one model of critique of racism and at least one exists that would consider -you- a racist. Take it from a man of color. You just come off as a sanctimonious loser trying and failing desperately to convince others that there isn&#039;t the slightest possibility that you are racist. Just because you attach the label to others doesn&#039;t mean you are innocent, you -white- liberal idiot.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-380971">
+        <div id="dsq-comment-header-380971" class="dsq-comment-header">
+            <cite id="dsq-cite-380971">
+                <span id="dsq-author-user-380971">David DeJesus</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380971" class="dsq-comment-body">
+            <div id="dsq-comment-message-380971" class="dsq-comment-message"><p>As a fan of all genres..you are 100% correct ..sir</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-380987">
+        <div id="dsq-comment-header-380987" class="dsq-comment-header">
+            <cite id="dsq-cite-380987">
+                <span id="dsq-author-user-380987">Mayhem</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380987" class="dsq-comment-body">
+            <div id="dsq-comment-message-380987" class="dsq-comment-message"><p>I come from country where almost no nigger lives. I guess that&#039;s why racism seems so fine to me. Not like I admire it or take part in it, but it seems like a regular black humor (like a dark comedy, not jokes about black people), but apparently in states it&#039;s completely different thing.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-381381">
+        <div id="dsq-comment-header-381381" class="dsq-comment-header">
+            <cite id="dsq-cite-381381">
+                <span id="dsq-author-user-381381">Heliocrat</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381381" class="dsq-comment-body">
+            <div id="dsq-comment-message-381381" class="dsq-comment-message"><p>Kill youself</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-3" id="dsq-comment-381390">
+        <div id="dsq-comment-header-381390" class="dsq-comment-header">
+            <cite id="dsq-cite-381390">
+                <span id="dsq-author-user-381390">Mayhem</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381390" class="dsq-comment-body">
+            <div id="dsq-comment-message-381390" class="dsq-comment-message"><p>yourself*</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-4" id="dsq-comment-381423">
+        <div id="dsq-comment-header-381423" class="dsq-comment-header">
+            <cite id="dsq-cite-381423">
+                <span id="dsq-author-user-381423">Heliocrat</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381423" class="dsq-comment-body">
+            <div id="dsq-comment-message-381423" class="dsq-comment-message"><p>No I meant kill youself. I come from A country where almost no proper grammar exists. I guess that&#039;s why bad grammar seems so fine to me. </p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-5" id="dsq-comment-381442">
+        <div id="dsq-comment-header-381442" class="dsq-comment-header">
+            <cite id="dsq-cite-381442">
+                <span id="dsq-author-user-381442">Mayhem</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381442" class="dsq-comment-body">
+            <div id="dsq-comment-message-381442" class="dsq-comment-message"><p>Oh, then it&#039;s fine. Here grammar is really important, you&#039;d be all over the news with such comments.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-380994">
+        <div id="dsq-comment-header-380994" class="dsq-comment-header">
+            <cite id="dsq-cite-380994">
+                <span id="dsq-author-user-380994">Dustin Neumann</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-380994" class="dsq-comment-body">
+            <div id="dsq-comment-message-380994" class="dsq-comment-message"><p>Jesus go look at the &#034;fan comments&#034; All a bunch of racist idiots. WTF has Trump done to this country ?<br />
+Now this shit is somehow acceptable again?</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-381014">
+        <div id="dsq-comment-header-381014" class="dsq-comment-header">
+            <cite id="dsq-cite-381014">
+                <span id="dsq-author-user-381014">ReaverofSouls</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381014" class="dsq-comment-body">
+            <div id="dsq-comment-message-381014" class="dsq-comment-message"><p>Anyone who has &#034;racial pride&#034; is an imbecile who subscribes to group-think.  White, black, brown, yellow, red, it&#039;s all the same.  If your identity is defined by your skin color and not your own name, then you&#039;re a fool with no sense of individuality.</p>
+<p>Also, fuck Corey Taylor and Slipknot.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-381035">
+        <div id="dsq-comment-header-381035" class="dsq-comment-header">
+            <cite id="dsq-cite-381035">
+                <span id="dsq-author-user-381035">Apex</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381035" class="dsq-comment-body">
+            <div id="dsq-comment-message-381035" class="dsq-comment-message"><p>The only thing Phil did wrong was apologize.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-2" id="dsq-comment-381040">
+        <div id="dsq-comment-header-381040" class="dsq-comment-header">
+            <cite id="dsq-cite-381040">
+                <span id="dsq-author-user-381040">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381040" class="dsq-comment-body">
+            <div id="dsq-comment-message-381040" class="dsq-comment-message"><p>well said.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt thread-even depth-1" id="dsq-comment-381071">
+        <div id="dsq-comment-header-381071" class="dsq-comment-header">
+            <cite id="dsq-cite-381071">
+                <span id="dsq-author-user-381071">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381071" class="dsq-comment-body">
+            <div id="dsq-comment-message-381071" class="dsq-comment-message"><p>&#034;The variant &#034;Nigga&#034; is sometimes used among African Americans in a non-derogatory sense.&#034;</p>
+<p>much like the term &#034;white power&#034; is used among a room full of white people in a non-derogatory sense.</p>
+<p>sorry for owning this debate. i hope the pc crowd enjoyed their humble pie.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-2" id="dsq-comment-381078">
+        <div id="dsq-comment-header-381078" class="dsq-comment-header">
+            <cite id="dsq-cite-381078">
+                <span id="dsq-author-user-381078">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381078" class="dsq-comment-body">
+            <div id="dsq-comment-message-381078" class="dsq-comment-message"><p>Dave Lombardo and Robert Trujillo are both not white and I&#039;d be shocked if the entire audience was entirely white.  If they were, they definitely didn&#039;t feel that harmless &#034;nigga-like&#034; sentiment Anselmo was casually tossing out there, otherwise there wouldn&#039;t have been so many boos.  </p>
+<p>The only thing you own, in my opinion, is a very ignorant attitude towards the world and I&#039;m assuming an 8th grade education at best?  Lucky for us, you are absolutely allowed to have those opinions and spread all that sunshine amongst the metalinjection community.  </p>
+<p>Keep it real Adolf.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-3" id="dsq-comment-381080">
+        <div id="dsq-comment-header-381080" class="dsq-comment-header">
+            <cite id="dsq-cite-381080">
+                <span id="dsq-author-user-381080">aikhooligan=shit</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381080" class="dsq-comment-body">
+            <div id="dsq-comment-message-381080" class="dsq-comment-message"><p>Oops forgot my entire name&#8230;now it just looks like you are talking to yourself&#8230;which you kind of are in a sense.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-4" id="dsq-comment-381093">
+        <div id="dsq-comment-header-381093" class="dsq-comment-header">
+            <cite id="dsq-cite-381093">
+                <span id="dsq-author-user-381093">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381093" class="dsq-comment-body">
+            <div id="dsq-comment-message-381093" class="dsq-comment-message"><p>i would love to be me if i were you. too bad.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt depth-3" id="dsq-comment-381092">
+        <div id="dsq-comment-header-381092" class="dsq-comment-header">
+            <cite id="dsq-cite-381092">
+                <span id="dsq-author-user-381092">aikhooligan</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381092" class="dsq-comment-body">
+            <div id="dsq-comment-message-381092" class="dsq-comment-message"><p>the current and ex band mates of Dave Lombardo and Robert Trujillo are a lovely bunch of people, who seemed to have a great affection for national socialist germany. shouting &#034;white power&#034; would hardly offend them. great point.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even thread-odd thread-alt depth-1" id="dsq-comment-381112">
+        <div id="dsq-comment-header-381112" class="dsq-comment-header">
+            <cite id="dsq-cite-381112">
+                <span id="dsq-author-user-381112">CaptainChapstick</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381112" class="dsq-comment-body">
+            <div id="dsq-comment-message-381112" class="dsq-comment-message"><p>Who cares? Rap talks about race and extensively attempts to separate itself from white society. No one bats an eye. Now rap is on top. Phil used to be on top. Now he plays clubs and there are black rappers filling the stadiums he used to. They also talk about fucking &#034;white bitches&#034; like they&#039;re a commodity. So, from Phil&#039;s perspective he sees a bunch skill-less hacks, who happen to be black, occupying what used to be his position and inadvertently, through their lyrical content, calling him a weak bitch because of the color of his skin and acting like callously running around fucking women of his skin color is a game. So, some latent reciprocal racism expressed during a drunken fit of idiocy is totally understandable in my opinion. Essentially, it was like Phil had this great multi-million dollar a year job and he got fired then some black guy who could barely speak English was his replacement. And then while Phil was packing up his office and on his way out the doos that guy knocked his shit out of his hands and called him a white bitch, gave him the finger and then asked for his wife&#039;s number.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-even depth-1" id="dsq-comment-381400">
+        <div id="dsq-comment-header-381400" class="dsq-comment-header">
+            <cite id="dsq-cite-381400">
+                <span id="dsq-author-user-381400">Thor_is_the_real_son_of_god</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-381400" class="dsq-comment-body">
+            <div id="dsq-comment-message-381400" class="dsq-comment-message"><p>Slipknot sucks</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+            </ul>
+
+
+        </div>
+
+    </div>
+
+<script type="text/javascript">
+var disqus_url = 'http://www.metalinjection.net/latest-news/drama/slipknots-corey-taylor-says-phil-anselmo-controversy-is-part-of-a-bigger-problem-in-metal';
+var disqus_identifier = '75918 http://www.metalinjection.net/?p=75918';
+var disqus_container_id = 'disqus_thread';
+var disqus_shortname = 'metalinjection';
+var disqus_title = "SLIPKNOT&#039;s Corey Taylor Says Phil Anselmo Controversy Is Part of A Bigger Problem In Metal";
+var disqus_config_custom = window.disqus_config;
+var disqus_config = function () {
+    /*
+    All currently supported events:
+    onReady: fires when everything is ready,
+    onNewComment: fires when a new comment is posted,
+    onIdentify: fires when user is authenticated
+    */
+    
+    
+    this.language = '';
+        this.callbacks.onReady.push(function () {
+
+        // sync comments in the background so we don't block the page
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = '?cf_action=sync_comments&post_id=75918';
+
+        var firstScript = document.getElementsByTagName('script')[0];
+        firstScript.parentNode.insertBefore(script, firstScript);
+    });
+    
+    if (disqus_config_custom) {
+        disqus_config_custom.call(this);
+    }
+};
+
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+
+				  	</div>
+				  
+						</section><!-- #primary-content -->
+						</div><!-- #region-content -->
+
+
+
+
+
+
+		
+
+
+
+  <div class="col-md-4 hidden-xs" id="region-sidebar">
+        
+    <!-- Ad Sidebar Top -->
+    <!-- MetalInjection_Box_real -->
+    <div id="sidebar-ad-top">
+		<script>var screenWidth = document.documentElement.clientWidth; if(screenWidth >= 768) {document.write("<div id='adpos-300-1' class='ad300'>\n<script type='text\/javascript'>\ngoogletag.display('adpos-300-1');\n<\/script>\n<\/div>\n");}</script>
+	</div>
+
+
+
+    <!-- Videos -->
+
+    
+    <!-- start newsletter -->
+<form action="//metalinjection.us10.list-manage.com/subscribe/post?u=d8ef228d1a250b7f3aef1f63c&amp;id=98b4d25436" method="post" target="_blank" >
+    <div id="newsletter-form">
+      <h3>Newsletter</h3>
+        <fieldset>
+                    <input type="email" value="" name="EMAIL"class="text required email"  id="email_address" placeholder="Enter Your Email Address">
+                    <div style="position: absolute; left: -5000px;"><input type="text" name="b_d8ef228d1a250b7f3aef1f63c_98b4d25436" tabindex="-1" value=""></div>
+
+          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="submit">
+        </fieldset>
+      </form>
+    </div>
+</form>
+<!--end newsletter-->
+
+
+    <aside id="videos-sidebar">
+      <h3><a href="/video">Videos</a></h3>
+      
+      
+												<div class="featured">
+						        <article>
+						          <a class="with-play-button featuredvideo" href="http://www.metalinjection.net/video/grandma-fronted-the-grindmother-has-a-crushign-new-song-and-video"><img src="http://i0.wp.com/www.metalinjection.net/wp-content/uploads/2016/02/grandma-fronted-the-grindmother.jpg?resize=450%2C300" class="img-responsive full-width wp-post-image" alt="Grandma-Fronted THE GRINDMOTHER Has A Crushing New Song And Video" /></a>
+						          <a href="http://www.metalinjection.net/video/grandma-fronted-the-grindmother-has-a-crushign-new-song-and-video">Grandma-Fronted THE GRINDMOTHER Welcomes You To The &#034;Age of Destruction&#034;</a>
+						        </article>
+						      </div> 
+						  
+      <article>
+        <a href="http://www.metalinjection.net/video/the-fix-155-tribulations-favorite-black-metal-videos" class="with-play-button">
+         <img src="http://i0.wp.com/www.metalinjection.net/wp-content/uploads/2015/12/the-fix-155-tribulations-favorit.jpg?resize=285%2C155" class="img-responsive full-width wp-post-image" alt="The Fix #155 &#8211; TRIBULATION&#039;s Favorite Black Metal Videos" />        </a>
+        <a class="secondaryvideo" href="http://www.metalinjection.net/video/the-fix-155-tribulations-favorite-black-metal-videos">The Fix #155 &#8211; TRIBULATION&#039;s Favorite Black Metal Videos</a>
+      </article>
+	  
+      <article>
+        <a href="http://www.metalinjection.net/video/ghost-papa-emeritus-award-first-interview-on-the-grammys-red-carpet" class="with-play-button">
+         <img src="http://i0.wp.com/www.metalinjection.net/wp-content/uploads/2016/02/ghost-papa-emeritus-award-first.jpg?resize=285%2C155" class="img-responsive full-width wp-post-image" alt="GHOST Papa Emeritus&#039; Award First Interview on The GRAMMYS Red Carpet" />        </a>
+        <a class="secondaryvideo" href="http://www.metalinjection.net/video/ghost-papa-emeritus-award-first-interview-on-the-grammys-red-carpet">GHOST Papa Emeritus&#039; Awkward First Interview on The GRAMMYS Red Carpet Is Hilarious</a>
+      </article>
+	  
+      <article>
+        <a href="http://www.metalinjection.net/video/alice-cooper-leads-hollywood-vampires-killer-tribute-to-lemmy-at-the-grammys" class="with-play-button">
+         <img src="http://i2.wp.com/www.metalinjection.net/wp-content/uploads/2016/02/alice-cooper-leads-hollywood-vam.jpg?resize=285%2C155" class="img-responsive full-width wp-post-image" alt="Alice Cooper Leads Hollywood Vampires&#039; Killer Tribute To LEMMY At The Grammys" />        </a>
+        <a class="secondaryvideo" href="http://www.metalinjection.net/video/alice-cooper-leads-hollywood-vampires-killer-tribute-to-lemmy-at-the-grammys">Alice Cooper Leads Hollywood Vampires&#039; Killer Tribute To LEMMY At The Grammys</a>
+      </article>
+	                                         
+    </aside>
+    <a href="/video" class="view-more">All Videos</a>
+
+
+    
+
+    
+
+
+
+
+   
+
+
+    <!-- Livecast Sidebar -->
+               
+
+
+
+<div id="facebook-box">
+	<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fmetalinjection&amp;width=400&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=151197663443" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100%; height:258px;" allowTransparency="true"></iframe>
+	
+</div>
+
+    <aside id="reviews-sidebar">
+      <h3><a href="/free-swag">GIVEAWAYS</a></h3>
+      
+      
+											
+
+      <article>
+        <a href="http://www.metalinjection.net/free-swag/caption-contest/caption-contest-enter-your-funniest-caption-you-could-win-a-free-cd-from-our-giveaway-pile-44">
+         <img src="http://i0.wp.com/www.metalinjection.net/wp-content/uploads/2016/02/slayer-snoop-dogg.jpg?resize=285%2C155" class="img-responsive full-width wp-post-image" alt="slayer snoop dogg" />        </a>
+        <a class="secondaryvideo" href="http://www.metalinjection.net/free-swag/caption-contest/caption-contest-enter-your-funniest-caption-you-could-win-a-free-cd-from-our-giveaway-pile-44">CAPTION CONTEST: Enter Your Funniest Caption &#038; You Could Win A Free CD From Our Giveaway Pile</a>
+      </article>
+	  						
+
+      <article>
+        <a href="http://www.metalinjection.net/free-swag/contest-win-a-black-sabbath-prize-pack-from-rhino-records">
+         <img src="http://i1.wp.com/www.metalinjection.net/wp-content/uploads/2016/02/black-sabbath-contest-cds-poster.jpg?resize=285%2C155" class="img-responsive full-width wp-post-image" alt="black-sabbath-contest-cds-poster" />        </a>
+        <a class="secondaryvideo" href="http://www.metalinjection.net/free-swag/contest-win-a-black-sabbath-prize-pack-from-rhino-records">Contest: Win a Black Sabbath Prize Pack from Rhino Records!</a>
+      </article>
+	                                         
+    </aside>
+
+
+    
+    <!-- Ad Sidebar Bottom -->
+
+    <div id="sidebar-bottom-ad">
+	<script>var screenWidth = document.documentElement.clientWidth; if(screenWidth >= 970) {document.write("<div id='adpos-300-2' class='ad300'>\n<script type='text\/javascript'>\ngoogletag.display('adpos-300-2');\n<\/script>\n<\/div>\n");}</script>
+    </div>
+
+  	</div>
+  </div> <!-- .col-md-4 -->
+
+
+
+
+
+
+</div> <!-- container -->
+
+
+<!-- footer -->
+
+
+
+
+         <!-- Load the Facebook JavaScript SDK -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.2";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+<footer>
+    <div class="container">
+      <a class="visible-xs" href="/" title="Go to Homepage">
+        <img src="http://metalinjection.s3.amazonaws.com/mi5/metal-injection-logo.png" alt="Metal Injection" id="site-logo-footer">
+      </a>
+      <nav>
+        <ul class="list-inline">
+          <li class="active"><a href="#">Home</a></li>
+          <li><a href="/video">Videos</a></li>
+          <li><a href="/">News</a></li>
+          <li><a href="/photo-gallery">Photos</a></li>
+          <li><a href="/category/podcasts">Podcasts</a></li>
+          <li><a href="/merch">Merch</a></li>
+          <li><a href="/category/free-swag">Contests</a></li>
+          <li><a href="/reviews">Reviews</a></li>
+          <li><a href="/fm">.FM</a></li>
+        </ul>
+      </nav>
+      <p id="copyright">© 2004 - 2016 Metal Injection LLC. All rights reserved. | <a href="/wanted">Help Wanted</a> | <a href="/advertising">Advertising Info</a> | <a href="/contact-us">Contact Us</a> | <a href="/terms-conditions">Terms &amp; Conditions</a> | Metal Injection is a proud member of <a href="http://www.blastbeatnetwork.com" target="_blank">the Blast Beat, Heavy Metal Advertising Network</a></p>
+
+      <div class="visible-xs" id="mobile-footer">
+        <ul id="social-links-mobile" class="list-inline">
+          <li class="facebook"><a href="http://www.facebook.com/metalinjection" target="_blank">Facebook</a></li>
+          <li class="twitter"><a href="http://twitter.com/metalinjection" target="_blank">Twitter</a></li>
+          <li class="youtube"><a href="http://www.youtube.com/metalinjection" target="_blank">You Tube</a></li>
+          <li class="rss"><a href="/rss-feeds">RSS</a></li>
+        </ul>
+        <a href="/terms-conditions">Privacy Policy</a>
+        <p>© 2015 METAL INJECTION. All Rights Reserved</p>
+      </div>
+    </div>
+  </footer>
+
+
+
+
+
+<script>var screenWidth = document.documentElement.clientWidth; if(screenWidth >= 1000) {document.write("<div id='adpos-skin' style='width: 1px; height: 1px;'>\n<script type='text\/javascript'>\ngoogletag.display('adpos-skin');\n<\/script>\n<\/div>\n");}</script>
+
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+sc_project=2344906;
+sc_invisible=1;
+sc_partition=21;
+sc_security="be12ac99";
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a href="http://www.statcounter.com/" target="_blank"><img class="statcounter" src="http://c22.statcounter.com/2344906/0/be12ac99/1/" alt="counter easy hit" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-qKELvQhgtyzqE"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-qKELvQhgtyzqE.gif?5a13a1" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+
+
+<!-- /// MOBILE AD PLACEMENT /// -->
+<script>var screenWidth = document.documentElement.clientWidth; if(screenWidth < 500) {document.write("<div id='mobile-placement' class='visible-xs visible-sm'>\n<script type='text\/javascript'>\ngoogletag.display('mobile-placement');\n<\/script>\n<\/div>\n");}</script>
+
+        <script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = 'metalinjection';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); 
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+        <script type='text/javascript' src='http://metalinjection.junipconcepts.netdna-cdn.com/wp-content/plugins/jetpack/modules/photon/photon.js?5a13a1?ver=20130122'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201607'></script>
+<script type='text/javascript' src='http://metalinjection.junipconcepts.netdna-cdn.com/wp-includes/js/wp-embed.min.js?5a13a1?ver=4.4.2'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201607.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.9.1',blog:'63772647',post:'75918',tz:'-5',srv:'www.metalinjection.net'} ]);
+	_stq.push([ 'clickTrackerInit', '63772647', '75918' ]);
+</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"76d7e8bf23","applicationID":"4234698","transactionName":"YVAAbBFQV0QFURJRCVgaN0oKHlBZAFceFhZeRQ==","queueTime":0,"applicationTime":9,"atts":"TRcDGllKREo=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using apc
+Database Caching using apc
+Object Caching 3303/3613 objects using apc
+Content Delivery Network via metalinjection.junipconcepts.netdna-cdn.com
+
+ Served from: www.metalinjection.net @ 2016-02-18 01:07:19 by W3 Total Cache -->

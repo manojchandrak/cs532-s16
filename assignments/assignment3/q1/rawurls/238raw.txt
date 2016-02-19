@@ -1,0 +1,388 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+	<head><meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+		<title>e수원뉴스 - 수원시 인터넷신문</title>
+		<meta http-equiv='content-type' content='text/html; charset=euc-kr' />		<style type='text/css' media='all'>
+@import '/main/css/base.css';
+@import '/main/css/Section/base.css';
+@import '/main/css/Section/view.css';
+@import '/main/css/IdgEvaluator/base.css';
+@import '/main/css/IdgComment/base.css';
+</style>
+		<script type='text/javascript' src='/mad/js/prototype.js'></script>
+<script type='text/javascript' src='/mad/js/base.js'></script>
+<script type='text/javascript' src='/main/js/base.js'></script>
+<script type='text/javascript' src='/main/js/Section/base.js'></script>
+<script type='text/javascript' src='/main/js/Section/view.js'></script>
+<script type='text/javascript' src='/mad/js/scriptaculous.js'></script>
+<script type='text/javascript' src='/main/js/IdgEvaluator/base.js'></script>
+<script type='text/javascript' src='/main/js/IdgComment/base.js'></script>
+	</head>
+	<body>
+
+				<div id="container">
+			<div id="top"><link rel="stylesheet" type="text/css" href="/main/css/new3.css">
+<script type="text/javascript" src="/main/css/new3.js?v=1"></script>
+
+<div id=newtop1>
+		<div id=nwtop1_1>
+                <script type='text/javascript' src="/kweather/content/weather_window/flashWrite.js"></script>
+                <script type='text/javascript'>flashWrite("https://news.suwon.go.kr/kweather/content/weather_window/suwon_news.swf?dataPath=https://news.suwon.go.kr/kweather/content/weather_window/data.txt","270","26","weather","","");</script>
+        </div>
+        <div id=newtop1_2>
+        	<A href='/main/' target='_blank'><img src='/imgnew3/suwonlogo.gif' width=199 height=58 alt='휴먼시티 수원, 사람이 반갑습니다'/></a>
+        </div>
+</div>
+<div id=newtop2>
+        <a href='/main/index.php'><img src='/imgnew3/logo.gif' alt='e수원뉴스' wdth=241 height=81></a>
+</div>
+<div id=newtop3>
+	<div id=newtop3_1>
+			<a id='toHomepage' href="javascript:;" onclick"this.stle.behavior='url(#efault#homepage)';thi.setHomePage('https://news.suwon.go.kr/main')" title="시작페이지 등록" style='color:black'><img src='/imgnew3/tmenu1.gif' alt='시작페이지 등록'></a>
+			<a href='/common/php/gudok.php' target='_blank'><img src='/imgnew3/tmenu2.gif' alt='웹진구독하기'></a>
+			<a href='/common/skin/cp_join_info.html' target='_blank'><img src='/images/main/top/btnRegistCp.jpg' alt='시민기자가입'></a>
+			<a href='/common/php/login_cp.php' target='_blank'><img src='/images/main/top/btnWriteArticle.gif' alt='시민기자로그인'></a>
+        </div>
+
+        <div id=newtop3_2>
+                <form id="searchForm2" method="get" action="/main/section/search" onsubmit='return SearchForm1()'>
+               <ul id='sTypeSelector2'>
+                       <li><a id='sTypeSelector2_1' class='current' href='#1' onclick='SearchForm2(1)'>제목/내용</a></li>
+                       <li><a id='sTypeSelector2_2' href='#2' onclick='SearchForm2(2)'>작성자</a></li>
+                </ul>
+                <fieldset>
+                       <legend>Search</legend>
+                      <input type='hidden' name='searchType' value='search' />
+                      <input type='hidden' id='s_type' name='s_type' value='1' />
+                      <input class="intext" type="text" id="s_word" name="s_word" value=""/>
+                      <button class="btnSearch" type="submit">검색</button>
+                </fieldset>
+        </form>
+        </div>
+</div>
+
+
+<ul id=newtop4>
+        <li onmouseover='tmenuover(1)' onmouseout='tmenuout(1)'><a href='/main/section/list?section_idx=61'><img id=tmenu1 src='/imgnew3/topmenu1_.gif' alt='종합뉴스'></a><ul id='tmenudiv1' class='tmenudiv tmenudivcol1' style='display:none; left:0px;'><li class='fir'><a href='/main/section/list?section_idx=61&amp;section_sub_idx=14'>포커스</a></li><li ><a href='/main/section/list?section_idx=61&amp;section_sub_idx=46'>이모저모</a></li><li ><a href='/main/section/list?section_idx=61&amp;section_sub_idx=48'>의  회</a></li><li ><a href='/main/section/list?section_idx=61&amp;section_sub_idx=59'>우리동네</a></li><li ><a href='/main/section/list?section_idx=61&amp;section_sub_idx=63'>단    신</a></li><li ><a href='/main/section/list?section_idx=61&amp;section_sub_idx=72'>수도권뉴스</a></li><li class='last'><a href='/main/section/list?section_idx=61&amp;section_sub_idx=80'>웹진</a></li></ul></li>
+        <li onmouseover='tmenuover(2)' onmouseout='tmenuout(2)'><a href='/main/section/list?section_idx=64'><img id=tmenu2 src='/imgnew3/topmenu2.gif' alt='문화교육'></a><ul id='tmenudiv2' class='tmenudiv tmenudivcol1' style='display:none; left:0px;'><li class='fir'><a href='/main/section/list?section_idx=64&amp;section_sub_idx=37'>문 화</a></li><li ><a href='/main/section/list?section_idx=64&amp;section_sub_idx=44'>교 육</a></li><li class='last'><a href='/main/section/list?section_idx=64&amp;section_sub_idx=115'>여행.축제</a></li></ul></li>
+        <li onmouseover='tmenuover(3)' onmouseout='tmenuout(3)'><a href='/main/section/list?section_idx=66'><img id=tmenu3 src='/imgnew3/topmenu3.gif' alt='생활'></a><ul id='tmenudiv3' class='tmenudiv tmenudivcol1' style='display:none; left:0px;'><li class='fir'><a href='/main/section/list?section_idx=66&amp;section_sub_idx=26'>건강.음식</a></li><li ><a href='/main/section/list?section_idx=66&amp;section_sub_idx=43'>가정.여성.아동 </a></li><li ><a href='/main/section/list?section_idx=66&amp;section_sub_idx=39'>스포츠</a></li><li class='last'><a href='/main/section/list?section_idx=66&amp;section_sub_idx=64'>레 저</a></li></ul></li>
+        <li onmouseover='tmenuover(4)' onmouseout='tmenuout(4)'><a href='/main/section/list?section_idx=63'><img id=tmenu4 src='/imgnew3/topmenu4.gif' alt='경제'></a><ul id='tmenudiv4' class='tmenudiv tmenudivcol1' style='display:none; left:0px;'><li class='fir'><a href='/main/section/list?section_idx=63&amp;section_sub_idx=112'>미스터일자리</a></li><li ><a href='/main/section/list?section_idx=63&amp;section_sub_idx=49'>일반.세정</a></li><li class='last'><a href='/main/section/list?section_idx=63&amp;section_sub_idx=53'>생활 경제</a></li></ul></li>
+        <li onmouseover='tmenuover(5)' onmouseout='tmenuout(5)'><a href='/main/section/list?section_idx=110'><img id=tmenu5 src='/imgnew3/topmenu5.gif' alt='환경'></a></li>
+        <li onmouseover='tmenuover(6)' onmouseout='tmenuout(6)'><a href='/main/section/list?section_idx=68'><img id=tmenu6 src='/imgnew3/topmenu6.gif' alt='참여마당'></a><ul id='tmenudiv6' class='tmenudiv tmenudivcol2' style='display:none; left:0px;'><li class='fir'><a href='/main/section/list?section_idx=68&amp;section_sub_idx=32'>출동!시민기자</a></li><li ><a href='/main/section/list?section_idx=68&amp;section_sub_idx=34'>시민투고</a></li><li ><a href='/main/section/list?section_idx=68&amp;section_sub_idx=81'>사는이야기</a></li><li ><a href='/main/section/list?section_idx=68&amp;section_sub_idx=61'>칼럼</a></li><li ><a href='/main/section/list?section_idx=68&amp;section_sub_idx=58'>웹툰</a></li><li class='last'><a href='/main/section/list?section_idx=68&amp;section_sub_idx=113'>詩, 수원을 노래하다</a></li></ul></li>
+        <li onmouseover='tmenuover(7)' onmouseout='tmenuout(7)'><a href='/main/section/list?section_idx=67'><img id=tmenu7 src='/imgnew3/topmenu7.gif' alt='수원알기'></a><ul id='tmenudiv7' class='tmenudiv tmenudivcol2' style='display:none; left:0px;'><li class='fir'><a href='/main/section/list?section_idx=67&amp;section_sub_idx=69'>수원여행</a></li><li ><a href='/main/section/list?section_idx=67&amp;section_sub_idx=29'>유래·역사</a></li><li ><a href='/main/section/list?section_idx=67&amp;section_sub_idx=30'>인 물</a></li><li ><a href='/main/section/list?section_idx=67&amp;section_sub_idx=31'>전 설</a></li><li ><a href='/main/section/list?section_idx=67&amp;section_sub_idx=36'>문화재</a></li><li ><a href='/main/section/list?section_idx=67&amp;section_sub_idx=60'>축 제</a></li><li class='last'><a href='/main/section/list?section_idx=67&amp;section_sub_idx=70'>연재소설</a></li></ul></li>
+</ul>
+
+<style>#middle{width:1000px;padding-left:25px;}</style>
+
+</div><!-- end of top -->
+			<div id="middle">
+				<div id="left"></div><!-- end of left -->
+        		<div id="main">
+<form id='mailSender' method='post' action='?idx=1015046' style='display: none'>
+	<a name='toMail'></a>
+	<input type='hidden' name='Section' value='sendEmail' />
+	<h2>메일보내기</h2>
+	<h3></h3>
+	<fieldset>
+		<legend>보내는 분</legend>
+		<label for='senderName'>성명</label>
+		<input type='text' id='senderName' name='senderName' />
+		<label for='senderMail'>이메일</label>
+		<input type='text' id='senderMail' name='senderMail' />
+	</fieldset>
+	<fieldset>
+		<legend>받는 분</legend>
+		<label for='receiverName'>성명</label>
+		<input type='text' id='receiverName' name='receiverName' />
+		<label for='receiverMail'>이메일</label>
+		<input type='text' id='receiverMail' name='receiverMail' />
+	</fieldset>
+	<div class='buttons'>
+		<button class='btnSubmit' type='submit'>보내기</button>
+		<button class='btnCancel' type='reset'>취소</button>
+	</div>
+</form>
+
+<meta property="og:title" content="공자님도 바가지에 음식 담아 부모 제사를 지냈다" />
+<meta property="og:description" content="공자님도 바가지에 음식 담아 부모 제사를 지냈다" />
+<meta property="og:image" content="http://news.suwon.go.kr/article3/201602/170916136856ba787bc295c_gd800.JPG" />
+
+<div class='viewerPwdNavi'>
+	<ul id="pwdNavi">
+	<li class="home">Home</li>
+	<li><a href="/main/section/list?section_idx=68">참여마당</a></li>
+	 
+	<li class="last"><a href="/main/section/list?section_idx=68&amp;section_sub_idx=81">사는이야기</a></li>
+	</ul>
+	
+	<div class="viewerMenu2">		
+	
+	<div class="viewerMenu">
+		<!--<li><a class="twitter" href="http://twitter.com/home?status=%EA%B3%B5%EC%9E%90%EB%8B%98%EB%8F%84+%EB%B0%94%EA%B0%80%EC%A7%80%EC%97%90+%EC%9D%8C%EC%8B%9D+%EB%8B%B4%EC%95%84+%EB%B6%80%EB%AA%A8+%EC%A0%9C%EC%82%AC%EB%A5%BC+%EC%A7%80%EB%83%88%EB%8B%A4+http%3A%2F%2Fnews.suwon.go.kr%2Fmain%2Fsection%2Fview%3Fidx%3D1015046" title="트위터내보내기" target="_blank">트위터내보내기</a></li>-->
+		<li><a class="toBig" href="#toBig" title="크게">크게</a></li>
+		<li><a class="toSmall" href="#toSmall" title="작게">작게</a></li>
+		<li><a class="toPrint" href="#toPrint" title="프린트">프린트</a></li>
+		<li><a class="toMail" href="#toMail" title="메일보내기">메일보내기</a></li>
+	</div>
+	
+	<ul class="viewerMenu3">
+		&nbsp;
+	
+		<a href="http://blog.naver.com/ScrapForm.nhn?blogId=naver&source_type=3&title=%EA%B3%B5%EC%9E%90%EB%8B%98%EB%8F%84+%EB%B0%94%EA%B0%80%EC%A7%80%EC%97%90+%EC%9D%8C%EC%8B%9D+%EB%8B%B4%EC%95%84+%EB%B6%80%EB%AA%A8+%EC%A0%9C%EC%82%AC%EB%A5%BC+%EC%A7%80%EB%83%88%EB%8B%A4&source_url=http%3A%2F%2Fnews.suwon.go.kr%2Fmain%2Fsection%2Fview%3Fidx%3D1015046" title="블로그 전송" target="_blank"><img src="/images/main/banners/send_facebook7.gif" alt="블로그 전송"></a>
+		<a href="http://cafe.naver.com/CafeScrapView.nhn?source_type=3&title=%B0%F8%C0%DA%B4%D4%B5%B5+%B9%D9%B0%A1%C1%F6%BF%A1+%C0%BD%BD%C4+%B4%E3%BE%C6+%BA%CE%B8%F0+%C1%A6%BB%E7%B8%A6+%C1%F6%B3%C2%B4%D9&source_title=%EC%88%98%EC%9B%90%EB%89%B4%EC%8A%A4&source_url=http%3A%2F%2Fnews.suwon.go.kr%2Fmain%2Fsection%2Fview%3Fidx%3D1015046" title="카페 전송" target="_blank"><img src="/images/main/banners/send_facebook8.gif" alt="카페 전송"></a>
+		<a href="http://post.naver.com/post/share.nhn?service=&url=http%3A%2F%2Fnews.suwon.go.kr%2Fmain%2Fsection%2Fview%3Fidx%3D1015046&title=%EA%B3%B5%EC%9E%90%EB%8B%98%EB%8F%84+%EB%B0%94%EA%B0%80%EC%A7%80%EC%97%90+%EC%9D%8C%EC%8B%9D+%EB%8B%B4%EC%95%84+%EB%B6%80%EB%AA%A8+%EC%A0%9C%EC%82%AC%EB%A5%BC+%EC%A7%80%EB%83%88%EB%8B%A4" title="포스트 전송" target="_blank"><img src="/images/main/banners/send_facebook9.gif" alt="포스트 전송"></a>
+		<a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fnews.suwon.go.kr%2Fmain%2Fsection%2Fview%3Fidx%3D1015046" title="페이스북 전송" target="_blank"><img src="/images/main/banners/send_facebook1.gif" alt="페이스북 전송"></a>
+		<a href="http://twitter.com/home?status=%EA%B3%B5%EC%9E%90%EB%8B%98%EB%8F%84+%EB%B0%94%EA%B0%80%EC%A7%80%EC%97%90+%EC%9D%8C%EC%8B%9D+%EB%8B%B4%EC%95%84+%EB%B6%80%EB%AA%A8+%EC%A0%9C%EC%82%AC%EB%A5%BC+%EC%A7%80%EB%83%88%EB%8B%A4+http%3A%2F%2Fnews.suwon.go.kr%2Fmain%2Fsection%2Fview%3Fidx%3D1015046" title="트위터 전송" target="_blank"><img src="/images/main/banners/send_facebook2.gif" alt="트위터 전송"></a>
+		<a href="http://www.google.com/bookmarks/mark?op=add&title=&quot;%EA%B3%B5%EC%9E%90%EB%8B%98%EB%8F%84+%EB%B0%94%EA%B0%80%EC%A7%80%EC%97%90+%EC%9D%8C%EC%8B%9D+%EB%8B%B4%EC%95%84+%EB%B6%80%EB%AA%A8+%EC%A0%9C%EC%82%AC%EB%A5%BC+%EC%A7%80%EB%83%88%EB%8B%A4&quot;&bkmk=http%3A%2F%2Fnews.suwon.go.kr%2Fmain%2Fsection%2Fview%3Fidx%3D1015046" title="구글 전송" target="_blank"><img src="/images/main/banners/send_facebook6.gif" alt="구글 전송"></a>
+		<!--
+		<a href="http://me2day.net/posts/new?new_post[body]=&quot;%EA%B3%B5%EC%9E%90%EB%8B%98%EB%8F%84+%EB%B0%94%EA%B0%80%EC%A7%80%EC%97%90+%EC%9D%8C%EC%8B%9D+%EB%8B%B4%EC%95%84+%EB%B6%80%EB%AA%A8+%EC%A0%9C%EC%82%AC%EB%A5%BC+%EC%A7%80%EB%83%88%EB%8B%A4&quot;:http%3A%2F%2Fnews.suwon.go.kr%2Fmain%2Fsection%2Fview%3Fidx%3D1015046&new_post[tags]=" title="미투데이전송" target="_blank"><img src="/images/main/banners/send_facebook4.gif" alt="미투데이전송"></a>
+		<a href="http://csp.cyworld.com/bi/bi_recommend_pop.php?url=http%3A%2F%2Fnews.suwon.go.kr%2Fmain%2Fsection%2Fview%3Fidx%3D1015046&title_nobase64=&title=6rO17J6Q64uY64+EIOuwlOqwgOyngOyXkCDsnYzsi50g64u07JWEIOu2gOuqqCDsoJzsgqzrpbwg7KeA64OI64uk&thumbnail=&summary_nobase64=&summary=&writer=&corpid=" title="싸이월드전송" target="_blank"><img src="/images/main/banners/send_facebook5.gif" alt="싸이월드전송"></a>
+		-->
+
+	</ul>
+	
+	</div>
+	 
+</div>
+<div id='SectionView'>
+	<input type='hidden' id='idx' name='idx' value='1015046' />
+	<h1><!--DAUM_TITLE-->공자님도 바가지에 음식 담아 부모 제사를 지냈다<!--/DAUM_TITLE--></h1>
+	<h2></h2>
+	<div class='writeInfo'>등록일 : <!--DAUM_TIME-->2016-02-10 09:42:10<!--/DAUM_TIME--> | <b>작성자 : 시민기자 차봉규</b></div>
+	<div class='content'><!--DAUM_CONTENTS--><p><div width='500' align='center' style='padding:5px;'><img src='/upload//article3/201602/170916136856ba787bc295c_gd800.JPG' alt='' width='500' align='center'/><p align='center' style='padding:5px; background:#efefef; width:500px;' style='margin-top:0px;'>가족들이 다 모여 설명절을 즐기고 있다.</p></div><br />설 명절에는 먼저 조상님께 제사부터 지내야 우리들 명절이 비로서 시작된다. 우리나라 예절이나 생활 풍습은 중국 문화가 깊숙히 자리잡고 있다. 그중 하나인 '제사상 진설법'도 공자의 유가사상 법도중 하나다.<br />공자(孔子)는 춘추 전국시대 노나라 장수와 제나라 노비 사이에서 태어났다.&nbsp; 지혜와 학문이 높고 덕망 있는 학자였다. 본명은 공구(孔丘)다. 중국에서는 끝에 子(자)를 붙이는것은 학문이 높은 사람에게 붙이는 높임말이다.<br /><br />우리나라에서도 학생들에게 글을 가르치는 사람을 선생님이라고 부르는것과 같다. 또 상대를 높혀 부를때 'ㅇ선생' 하고 부르는것과 같은 이치다. 공자는 '공선생' 이라는 뜻이다.&nbsp;<br /><br /><strong>조선에 자리잡은&nbsp; 공자의 유가사상<br /></strong><br />공자는 유가(儒家)의 시조다. 유가는 조선의 통치이념 이기도 했다. 조선왕조 이성계는 고려의 숭불(崇佛)사상을 타파하고 공자의 유가사상(儒家思想)을 받아들여 통치이념으로 삼았다.<br />유교(儒敎)를 흔히 종교로 잘못 알고 있는 사람들도 있다. 유교라는 말은 공자의 유가사상(儒家思想)을 가르치다는 것을 말하는 것이다.&nbsp;<br /><br />향교(鄕敎)에서 공자의 유가사상을 가르쳤고 배우는 사람들을 유생(儒生)이라고 했다. 유생들은 조선의 지식층으로 신분을 유지 하기도 했다.<br />조선왕조가&nbsp; 유가사상을 통치 이념으로 삼은 것은 '삼강오륜(三綱五倫)'에 기초를 두었다. 유가에서는 전통적으로 忠(충)과 孝(효)를 강조 했으며 3강의 통치기준과 5가지의 실천윤리를 강조했다.<br /><br />삼강(三綱)<br />1. 군위신강 (君爲臣綱) 신하는 임금을 섬기는 것이 해야할 도리요 2. 부위자강 (父爲子綱) 아들은 아버지를 섬기는 것이 해야할 도리고 3. 부위부강 (夫爲婦綱) 아내는 남편을 섬기것이 해야할 도리다.<br /><br />오륜(五倫)<br />1.군신유의 (君臣有義) 신하는 임금에게 의리를 지키는 것을 근본으로 하고 2.부자유친 (父子有親) 아버지와 아들은 친함이 있어야 하고 3.부부유별 (夫婦有別) 남편과 아내는 분별이 있어야하며 4.장유유서 (長幼有序) 어른과 아이들은 차례가 있어야하고 5. 붕우유신 (朋友有信) 친구 사이에는 믿음이 있어야 한다.<br /><br /><strong>우리 생활에 자리잡은 공자의 제사상 진설법&nbsp;<br /></strong><br />공자의 유가사상은 충.효 뿐만 아니라&nbsp; 제사절차 상차림 장례절차 등 우리 생활에도 깊숙히 뿌리를 밖고 있다. 설 명절에 조상님께 제사를 지내는 것도 공자 맹자의 유가 법도다.<br />공자가 바가지에다 부모님 제사를 지낸 일화가 있다. 공자는 어느날 제자들에게 '제사상 진설법'을 가르쳤다. 제사를 지내는 절차와 제사상에 제물을 놓는 순서를 다음과 같이 설명했다.<br /><br />첫째줄.&nbsp; 시접. 잔반. 메(밥). 떡국이나 송편은 우측 술잔은 좌측에 놓는다. <br />둘째줄&nbsp;&nbsp; 어동육서(漁東肉西) 생선은 동쪽에 놓고 고기는 서쪽에 놓는다. 두동미서(頭東尾西) 생<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 선머리는 동쪽을 향 하고 꼬리는 서쪽을 향한다.<br />셋째줄.&nbsp; 탕류 (湯類) 육탕(肉湯). 소탕(蔬湯). 어탕(漁湯)순으로 놓는다.<br />넷째줄.&nbsp; 좌포우혜(左脯右醯) 좌측에는 생선포를 놓고 우측에는 식혜를 놓는다.<br />다섯줄.&nbsp; 조율이시(棗栗梨枾)대추. 밤. 배. 감 을놓고 홍동백서(紅東白西) 붉은 과일은 동쪽에 흰 <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 과일은 서쪽에 놓는다.&nbsp;<br /><br />제사상에 못올리는 과일과 생선도 있다. 복숭아는 요사스런 기운을 품어 귀신을 내쫓는다는 설이 있어 제사상에 올리지 않는다. 생선은 끝에 치 자가 들어가는 멸치 꽁치 갈치 삼치를 올리지 않는다. 고추가루와 마늘을 쓰지 않는다. 짜고 매운것도 안된다. 등을 강의를 했다.&nbsp;<br /><br />그런데 공교롭게도 강의한 날 밤이 공자 어머니의 제삿날이었다. 짖궂은 제자들 몇이 이를 알고 공자의 제사 지내는 것을 구경 가기로 했다. 귀신은 늦은 밤에만 다닌다고 했다. <br />그래서 밤 11시가 넘어야 제사를 지낸다. 밤늦게 공자네 집을 찾아가보니 방에 불이켜 있다. 제자 하나가 손가락에 침을 발라 문 구멍을 뚫고 방안을 들여다보고 깜짝 놀랐다.&nbsp;<br /><br /><div width='500' align='center' style='padding:5px;'><img src='/upload//article3/201602/62814393956ba9622b77c2_gd800.jpg' alt='' width='500' align='center'/><p align='center' style='padding:5px; background:#efefef; width:500px;' style='margin-top:0px;'>중국 곡부에 있는 공자의 묘/사진 김우영</p></div><br />이게 웬일인가? 바가지에다 밥. 나물 등 짬봉을 해놓고 제사를 지내는것이 아닌가? 옛날 선비들은 청빈(淸貧)하게 사는것이 미덕이었다. 공자도 가난을 면치 못했다. 그러다보니 제사지낼 목기(木器)조차도 장만하지 못했던 모양이다. <br />다음날 제자가 질문을 했다. 공자님 우리들에게는 '제사상 진설법'을 가르쳐주시고 공자님은 왜 바가지에다 제사 음식을 다 모아놓고 제사를 지내십니까? 하고 물었다. 다른 제자들까지 깜짝 놀란다.<br /><br />그러자 공자가 대답하기를 제사상 진설법은 그렇지만&nbsp; 형편대로 지내면 된다고 했다. 제사상 진설법을 만든 공자님도 형편에 맞게 제사를 지내는데 설에 제사 모신다고&nbsp; 과다한 생돈쓰고 부인들 피곤하게 했다가 부부간에 한바탕 전쟁을 치른 집이나 없는지 모르겠다. 명절 끝에 이런저런 이야기를 들어보면 명절이 모두가 마냥 즐거운 날만은 아닌것 같기도 하다.<br /></p>	<!--
+	<font color='white'>작성자 : 시민기자 차봉규</font>
+	-->
+	<!--/DAUM_CONTENTS-->
+	</div>
+	<div></div>
+	<ul class="tag">
+			</ul>
+	<div></div>
+	</div>
+
+
+                                <div align="center">
+                                <img src="http://cp.news.search.daum.net/api/publish.json?nurl=http%3A%2F%2Fnews.suwon.ne.kr%2Fmain%2Fsection%2Fview%3Fidx%3D1015046&xml_url=http%3A%2F%2Fnews.suwon.ne.kr%2Fmain%2Fsection%2Fxml%3Fidx%3D1015046&channel=politics" style="display:none;"/>
+                                </div>
+                                <div class="viewerPwdNavi">
+	<div class="viewerMenu2">		
+	
+	<ul class="viewerMenu">
+		<!--<li><a class="twitter" href="http://twitter.com/home?status=%EA%B3%B5%EC%9E%90%EB%8B%98%EB%8F%84+%EB%B0%94%EA%B0%80%EC%A7%80%EC%97%90+%EC%9D%8C%EC%8B%9D+%EB%8B%B4%EC%95%84+%EB%B6%80%EB%AA%A8+%EC%A0%9C%EC%82%AC%EB%A5%BC+%EC%A7%80%EB%83%88%EB%8B%A4+http%3A%2F%2Fnews.suwon.go.kr%2Fmain%2Fsection%2Fview%3Fidx%3D1015046" title="트위터내보내기" target="_blank">트위터내보내기</a></li>-->
+		<li><a class="toBig" href="#toBig" title="크게">크게</a></li>
+		<li><a class="toSmall" href="#toSmall" title="작게">작게</a></li>
+		<li><a class="toPrint" href="#toPrint" title="프린트">프린트</a></li>
+		<li><a class="toMail" href="#toMail" title="메일보내기">메일보내기</a></li>
+	</ul>
+	
+	<div class="viewerMenu3">
+		&nbsp;
+		<a href="http://blog.naver.com/ScrapForm.nhn?blogId=naver&source_type=3&title=%EA%B3%B5%EC%9E%90%EB%8B%98%EB%8F%84+%EB%B0%94%EA%B0%80%EC%A7%80%EC%97%90+%EC%9D%8C%EC%8B%9D+%EB%8B%B4%EC%95%84+%EB%B6%80%EB%AA%A8+%EC%A0%9C%EC%82%AC%EB%A5%BC+%EC%A7%80%EB%83%88%EB%8B%A4&source_url=http%3A%2F%2Fnews.suwon.go.kr%2Fmain%2Fsection%2Fview%3Fidx%3D1015046" title="블로그 전송" target="_blank"><img src="/images/main/banners/send_facebook7.gif" alt="블로그 전송"></a>
+		<a href="http://cafe.naver.com/CafeScrapView.nhn?source_type=3&title=%B0%F8%C0%DA%B4%D4%B5%B5+%B9%D9%B0%A1%C1%F6%BF%A1+%C0%BD%BD%C4+%B4%E3%BE%C6+%BA%CE%B8%F0+%C1%A6%BB%E7%B8%A6+%C1%F6%B3%C2%B4%D9&source_title=%EC%88%98%EC%9B%90%EB%89%B4%EC%8A%A4&source_url=http%3A%2F%2Fnews.suwon.go.kr%2Fmain%2Fsection%2Fview%3Fidx%3D1015046" title="카페 전송" target="_blank"><img src="/images/main/banners/send_facebook8.gif" alt="카페 전송"></a>
+		<a href="http://post.naver.com/post/share.nhn?service=&url=http%3A%2F%2Fnews.suwon.go.kr%2Fmain%2Fsection%2Fview%3Fidx%3D1015046&title=%EA%B3%B5%EC%9E%90%EB%8B%98%EB%8F%84+%EB%B0%94%EA%B0%80%EC%A7%80%EC%97%90+%EC%9D%8C%EC%8B%9D+%EB%8B%B4%EC%95%84+%EB%B6%80%EB%AA%A8+%EC%A0%9C%EC%82%AC%EB%A5%BC+%EC%A7%80%EB%83%88%EB%8B%A4" title="포스트 전송" target="_blank"><img src="/images/main/banners/send_facebook9.gif" alt="포스트 전송"></a>
+		<a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fnews.suwon.go.kr%2Fmain%2Fsection%2Fview%3Fidx%3D1015046" title="페이스북 전송" target="_blank"><img src="/images/main/banners/send_facebook1.gif" alt="페이스북 전송"></a>
+		<a href="http://twitter.com/home?status=%EA%B3%B5%EC%9E%90%EB%8B%98%EB%8F%84+%EB%B0%94%EA%B0%80%EC%A7%80%EC%97%90+%EC%9D%8C%EC%8B%9D+%EB%8B%B4%EC%95%84+%EB%B6%80%EB%AA%A8+%EC%A0%9C%EC%82%AC%EB%A5%BC+%EC%A7%80%EB%83%88%EB%8B%A4+http%3A%2F%2Fnews.suwon.go.kr%2Fmain%2Fsection%2Fview%3Fidx%3D1015046" title="트위터 전송" target="_blank"><img src="/images/main/banners/send_facebook2.gif" alt="트위터 전송"></a>
+		<a href="http://www.google.com/bookmarks/mark?op=add&title=&quot;%EA%B3%B5%EC%9E%90%EB%8B%98%EB%8F%84+%EB%B0%94%EA%B0%80%EC%A7%80%EC%97%90+%EC%9D%8C%EC%8B%9D+%EB%8B%B4%EC%95%84+%EB%B6%80%EB%AA%A8+%EC%A0%9C%EC%82%AC%EB%A5%BC+%EC%A7%80%EB%83%88%EB%8B%A4&quot;&bkmk=http%3A%2F%2Fnews.suwon.go.kr%2Fmain%2Fsection%2Fview%3Fidx%3D1015046" title="구글 전송" target="_blank"><img src="/images/main/banners/send_facebook6.gif" alt="구글 전송"></a>
+		<!--
+		<a href="http://me2day.net/posts/new?new_post[body]=&quot;%EA%B3%B5%EC%9E%90%EB%8B%98%EB%8F%84+%EB%B0%94%EA%B0%80%EC%A7%80%EC%97%90+%EC%9D%8C%EC%8B%9D+%EB%8B%B4%EC%95%84+%EB%B6%80%EB%AA%A8+%EC%A0%9C%EC%82%AC%EB%A5%BC+%EC%A7%80%EB%83%88%EB%8B%A4&quot;:http%3A%2F%2Fnews.suwon.go.kr%2Fmain%2Fsection%2Fview%3Fidx%3D1015046&new_post[tags]=" title="미투데이전송" target="_blank"><img src="/images/main/banners/send_facebook4.gif" alt="미투데이전송"></a>
+		<a href="http://csp.cyworld.com/bi/bi_recommend_pop.php?url=http%3A%2F%2Fnews.suwon.go.kr%2Fmain%2Fsection%2Fview%3Fidx%3D1015046&title_nobase64=&title=6rO17J6Q64uY64+EIOuwlOqwgOyngOyXkCDsnYzsi50g64u07JWEIOu2gOuqqCDsoJzsgqzrpbwg7KeA64OI64uk&thumbnail=&summary_nobase64=&summary=&writer=&corpid=" title="싸이월드전송" target="_blank"><img src="/images/main/banners/send_facebook5.gif" alt="싸이월드전송"></a>
+		-->
+	</div>
+	
+	</div>
+
+</div>
+<!--<form id='IdgEvaluator' method='post' action='?idx=1015046'>
+	<input type='hidden' id='tail' name='tail' value='section' />
+		<input type='radio' id='point5' class='idgPoint' name='point' value='5' />
+	<label for='point5'>매우만족</label>
+	<span>0</span>
+		<input type='radio' id='point4' class='idgPoint' name='point' value='4' />
+	<label for='point4'>만족</label>
+	<span>0</span>
+		<input type='radio' id='point3' class='idgPoint' name='point' value='3' />
+	<label for='point3'>보통</label>
+	<span>0</span>
+		<input type='radio' id='point2' class='idgPoint' name='point' value='2' />
+	<label for='point2'>불만족</label>
+	<span>0</span>
+		<input type='radio' id='point1' class='idgPoint' name='point' value='1' />
+	<label for='point1'>매우불만족</label>
+	<span>0</span>
+		<button class='btnEvaluatorSubmit' type='submit'>기사평가</button>
+</form>-->
+<script>
+function nextFocus(sFormName,sNow,sNext)
+{
+        var sForm = 'document.'+ sFormName +'.'
+                var oNow = eval(sForm + sNow);
+        if (typeof oNow == 'object')
+        {
+                if ( oNow.value.length == oNow.maxLength)
+                {
+                        var oNext = eval(sForm + sNext);
+                        if ((typeof oNext) == 'object')
+                                oNext.focus();
+                }
+        }
+}
+function fnSubmit()
+{
+        document.realNameForm.action = "https://news.suwon.ne.kr/main/php/nc_commint.php";
+        document.realNameForm.submit();
+}
+function iclick(num){
+        if(num == 1){
+                document.getElementById('regTopRadio').style.display = 'none';
+                document.getElementById('ipinTable02').style.display = '';
+        }else{
+                document.getElementById('regTopRadio').style.display = '';
+                document.getElementById('ipinTable02').style.display = 'none';
+        }
+}
+function gpinSubmit()
+{
+        document.gPinForm.action = "/main/php/nc_commint2.php";
+        document.gPinForm.submit();
+}
+function fnPopup(){
+                //한국신용평가정보 안심 실명확인 팝업페이지를 띄웁니다.
+        window.open('', 'popup','width=410, height=590');
+        document.form1.target = "popup";
+        document.form1.action = "https://cert.namecheck.co.kr/certnc_input.asp";
+        document.form1.submit();
+ }
+
+</script>
+<iframe name='auth' id='auth' style='display: none'></iframe>
+<input type='hidden' id='idgCommentTail' value='section' />
+<div id='IdgComment'>
+<p class="countComment"><span>전체댓글</span> 0개</p>
+<form id="IdgCommentForm" class="box528" action="?">
+<input type='hidden' id='relIdx' name='relIdx' value='1015046' />
+<input type='hidden' name='IdgComment' value='ins' />
+<ul class="loginComment">
+<li><strong>의견쓰기</strong></li>
+<span>
+<li id='niknameForm'><label>닉네임</label> <input type="text" id='nikname' class="intext" value="" name="nikname"/></li>
+<li id='passwordForm'><label>비밀번호</label> <input type="password" id='pass' class="intext" value="" name="pass"/></li>
+</span>
+</ul>
+<textarea id='commentContent' name='commentContent'></textarea><button id="commentSubmit" type="submit">등록</button>
+<div class="clear"></div>
+</form>
+<div id='IdgCommentList'>
+<ul>
+</ul>
+</div>
+<form id='IdgCommentRemoveForm' method='post' action='?' style='display:none'>
+<input type='hidden' id='removeTargetIdx' value='' />
+<input type='password' id='removePassword' /><button type='submit' id='deletebutton'>삭제</button>
+</form>
+<form id='gPinForm' name = "gPingForm"method='post' style='display:none' target="auth">
+</form>
+<p class="caution">불건전한 내용, 저속한 표현, 기사와 관련없는 내용은 관리자 임의로 삭제될 수 있습니다.</p>
+</div>
+</div><!-- end of main -->
+        		<div id="right">	
+
+<div class="listBox">
+	<h2><a href="/main/section/search?searchType=hit"><img src="/images/main/Index/h2Best.jpg" alt="화제기사" /></a></h2>
+	<ul class="number">
+				<li class="no1"><h3><a href="/main/section/view?idx=1015114">관광객들이 많이 오는 생태교통마을이 됐으면</a></h3></li>
+				<li class="no2"><h3><a href="/main/section/view?idx=1015089">수원 박물관에서 내고장 이야기 배워요</a></h3></li>
+				<li class="no3"><h3><a href="/main/section/view?idx=1015098">도 경찰교육센터인문학 강좌 우수 강사 모집</a></h3></li>
+				<li class="no4"><h3><a href="/main/section/view?idx=1015192">나혜석거리 노점상, 기존상가들과 상생발전하길</a></h3></li>
+				<li class="no5"><h3><a href="/main/section/view?idx=1015144">"원하는 일정에..." 맞춤형 영화 관람해요</a></h3></li>
+			</ul>
+</div>
+<div class="listBox">
+	<h2><a href="/main/section/search?searchType=recent"><img src="/images/main/Index/h2News.jpg" alt="최신뉴스" /></a></h2>
+	<ul>
+		<li class='no1'><h3><a href='/main/section/view?idx=1015430'>복지에서 소외된 주민들을 알려주세요</a></h3></li><li class='no2'><h3><a href='/main/section/view?idx=1015428'>'대입을 위한 진로와 진학' 특강</a></h3></li><li class='no3'><h3><a href='/main/section/view?idx=1015427'>부모가 되기 위해서 준비가 필요해요  </a></h3></li><li class='no4'><h3><a href='/main/section/view?idx=1015423'>화서1동, 마을만들기협의회 월례회의 개최</a></h3></li><li class='no5'><h3><a href='/main/section/view?idx=1015421'>광교2동 새봄맞이 일제 대청소</a></h3></li><li class='no6'><h3><a href='/main/section/view?idx=1015420'>만석거 축조 당시 규모는 어느 정도 였을까?</a></h3></li><li class='no7'><h3><a href='/main/section/view?idx=1015418'>배우고 함께 성장하는 다양한 평생교육 강좌</a></h3></li><li class='no8'><h3><a href='/main/section/view?idx=1015416'>&quot;30만 명 자원봉사자는 바로 수원의 힘&quot; </a></h3></li><li class='no9'><h3><a href='/main/section/view?idx=1015415'>수원영상미디어센터, 3월 다양한 미디어 강좌 마련</a></h3></li><li class='no10'><h3><a href='/main/section/view?idx=1015414'>조원1동 주민자치위원회 3년째 사랑의 장학금</a></h3></li><li class='no11'><h3><a href='/main/section/view?idx=1015407'>도태호 제2부시장 권선구 방문</a></h3></li><li class='no12'><h3><a href='/main/section/view?idx=1015403'>정월 대보름맞이 윷놀이로 흥겨운 태장동</a></h3></li><li class='no13'><h3><a href='/main/section/view?idx=1015402'>20&#8231;30대처럼 다시 공부할 수 있을까?</a></h3></li><li class='no14'><h3><a href='/main/section/view?idx=1015398'>태장동의 안녕과 발전을 기원합니다</a></h3></li><li class='no15'><h3><a href='/main/section/view?idx=1015396'>보건소에서 노인 건강 중점 관리</a></h3></li>	</ul>
+</div>
+<div class="listBox cartoonBox">
+	<h2><img src="/images/main/Index/h2Catoon.jpg" alt="연재만화" /></h2>
+		<div class="cartoonBox1">
+		<div class="imageFrame">
+			<a href="/main/section/view?idx=1014718"><img alt="" src="/upload/article3/201602/194167372556b14d05aae1a_gd800.JPG" width='99' height='72' /></a>
+		</div>
+		<h3><a href="/main/section/view?idx=1014718">[웹툰]날마다 좋은날 - 화내고 계신가요? -</a></h3>
+	</div>
+		<div class="cartoonBox2">
+		<div class="imageFrame">
+			<a href="/main/section/view?idx=1014717"><img alt="" src="/upload/article3/201602/88393121756b14cae9977d_gd800.JPG" width='99' height='72' /></a>
+		</div>
+		<h3><a href="/main/section/view?idx=1014717">[웹툰]날마다 좋은날 - 밤하늘 -</a></h3>
+	</div>
+	</div>
+
+<div class="listBox">
+	<h2><a href="/main/section/list?section_idx=64&amp;section_sub_idx=37"><img src="/images/main/Index/h2Culture.jpg" alt="문화마당" /></a></h2>
+	<ul>
+				<li class="no1"><h3><a href="/main/section/view?idx=1015418">배우고 함께 성장하는 다양한 평생교육 강좌</a></h3></li>
+				<li class="no2"><h3><a href="/main/section/view?idx=1015415">수원영상미디어센터, 3월 다양한 미디어 강좌 마련</a></h3></li>
+				<li class="no3"><h3><a href="/main/section/view?idx=1015385">'봄에 피는 소리' 김덕수 등 명인들 국악 진수 선사</a></h3></li>
+				<li class="no4"><h3><a href="/main/section/view?idx=1015383">한옥에서 올리는 특별한 전통혼례</a></h3></li>
+				<li class="no5"><h3><a href="/main/section/view?idx=1015344">수원시립공연단, 코믹뮤지컬 ‘아싸라비아 춘향전’공</a></h3></li>
+			</ul>
+</div>
+
+	
+
+
+<div class="banner">
+	<a href="http://ebook.suwon.ne.kr/" target="_blank"><img src="/images/main/banners/ebook.jpg" title="ebook 자료홍보관" alt="ebook 자료홍보관" /></a>
+</div>
+<div class="banner">
+	<a href="http://www.suwon.go.kr/web/deptHome/dep_job/eco03/BD_index.do?q_searchRegion1=41000&q_searchResion2=41110" target='blank'><img src="/images/main/banners/banner3.jpg" title="구인/구직 정보" alt="구인/구직 정보"  /></a>
+</div>
+
+<div class="banner">
+	<a href="http://its.suwon.go.kr" target='blank'><img src="/images/main/banners/banner4.jpg" title="교통상황정보" alt="교통상황정보"  /></a>
+</div>
+
+<div class="banner">
+	<a href="http://tour.suwon.ne.kr/" target='blank'><img src="/images/main/banners/banner5.jpg" title="문화/관광/정보" alt="문화/관광/정보"  /></a>
+</div>
+
+<div class="banner">
+		<a href=" http://www.facebook.com/suwonloves" target="_blank" title="새창으로 이동"><img src="/images/main/banners/facebook1.gif" title="페이스북" alt="페이스북"></a><a href="http://twitter.com/suwonloves" target="_blank" title="새창으로 이동"><img src="/images/main/banners/facebook2.gif" title="트위터" alt="트위터"></a><a href="http://blog.naver.com/suwonloves" target="_blank" title="새창으로 이동"><img src="/images/main/banners/facebook3.gif" title="블로그" alt="블로그"></a>
+		</div>
+</div><!-- end of right -->
+			</div>
+<div style='clear:both;height:30px;'></div>
+			<div id="bottom"> 
+<div id=bottomcate>
+<div id=bottomcate1><span class=bcate1><A href='/main/section/list?section_idx=61'>종합뉴스</a></span><Span class=bcate2> | &nbsp;<A href='/main/section/list?section_idx=61&section_sub_idx=14'>포커스</a>&nbsp; &nbsp;<A href='/main/section/list?section_idx=61&section_sub_idx=46'>이모저모</a>&nbsp; &nbsp;<A href='/main/section/list?section_idx=61&section_sub_idx=48'>의  회</a>&nbsp; &nbsp;<A href='/main/section/list?section_idx=61&section_sub_idx=59'>우리동네</a>&nbsp; &nbsp;<A href='/main/section/list?section_idx=61&section_sub_idx=63'>단    신</a>&nbsp; &nbsp;<A href='/main/section/list?section_idx=61&section_sub_idx=72'>수도권뉴스</a>&nbsp; &nbsp;<A href='/main/section/list?section_idx=61&section_sub_idx=80'>웹진</a></span><Br><span class=bcate1><A href='/main/section/list?section_idx=64'>문화교육</a></span><Span class=bcate2> | &nbsp;<A href='/main/section/list?section_idx=64&section_sub_idx=37'>문 화</a> &nbsp; &nbsp; <A href='/main/section/list?section_idx=64&section_sub_idx=44'>교 육</a> &nbsp; &nbsp; <A href='/main/section/list?section_idx=64&section_sub_idx=115'>여행.축제</a></span><Br><span class=bcate1><A href='/main/section/list?section_idx=66'>생활</a></span><Span class=bcate2> | &nbsp;<A href='/main/section/list?section_idx=66&section_sub_idx=26'>건강.음식</a> &nbsp; &nbsp; <A href='/main/section/list?section_idx=66&section_sub_idx=43'>가정.여성.아동 </a> &nbsp; &nbsp; <A href='/main/section/list?section_idx=66&section_sub_idx=39'>스포츠</a> &nbsp; &nbsp; <A href='/main/section/list?section_idx=66&section_sub_idx=64'>레 저</a></span><Br><span class=bcate1><A href='/main/section/list?section_idx=63'>경제</a></span><Span class=bcate2> | &nbsp;<A href='/main/section/list?section_idx=63&section_sub_idx=112'>미스터일자리</a> &nbsp; &nbsp; <A href='/main/section/list?section_idx=63&section_sub_idx=49'>일반.세정</a> &nbsp; &nbsp; <A href='/main/section/list?section_idx=63&section_sub_idx=53'>생활 경제</a></span><Br><span class=bcate1><A href='/main/section/list?section_idx=110'>환경</a></span><Span class=bcate2> | &nbsp;<A href='/main/section/list?section_idx=110'>환경</a> &nbsp; &nbsp; </span><Br></div>
+<div id=bottomcate2>
+		<span class=bcate1><A href='/main/section/list?section_idx=68'>참여마당</a></span><Span class=bcate2> | &nbsp;<A href='/main/section/list?section_idx=68&section_sub_idx=32'>출동!시민기자</a>&nbsp; &nbsp;<A href='/main/section/list?section_idx=68&section_sub_idx=34'>시민투고</a>&nbsp; &nbsp;<A href='/main/section/list?section_idx=68&section_sub_idx=81'>사는이야기</a>&nbsp; &nbsp;<A href='/main/section/list?section_idx=68&section_sub_idx=61'>칼럼</a>&nbsp; &nbsp;<A href='/main/section/list?section_idx=68&section_sub_idx=58'>웹툰</a>&nbsp; &nbsp;<A href='/main/section/list?section_idx=68&section_sub_idx=113'>詩, 수원을 노래하다</a></span><Br><span class=bcate1><A href='/main/section/list?section_idx=67'>수원알기</a></span><Span class=bcate2> | &nbsp;<A href='/main/section/list?section_idx=67&section_sub_idx=69'>수원여행</a>&nbsp; &nbsp;<A href='/main/section/list?section_idx=67&section_sub_idx=29'>유래·역사</a>&nbsp; &nbsp;<A href='/main/section/list?section_idx=67&section_sub_idx=30'>인 물</a>&nbsp; &nbsp;<A href='/main/section/list?section_idx=67&section_sub_idx=31'>전 설</a>&nbsp; &nbsp;<A href='/main/section/list?section_idx=67&section_sub_idx=36'>문화재</a>&nbsp; &nbsp;<A href='/main/section/list?section_idx=67&section_sub_idx=60'>축 제</a>&nbsp; &nbsp;<A href='/main/section/list?section_idx=67&section_sub_idx=70'>연재소설</a></span><Br>		<div id=bottomsns>
+			<a href='http://blog.naver.com/suwonloves' target='_blank'><img src='/imgnew3/bsns1.gif' alt='네이버블로그'></a>
+			<a href='https://www.facebook.com/suwonloves' target='_blank'><img src='/imgnew3/bsns2.gif' alt='페이스북'></a>
+			<a href='https://twitter.com/suwonloves' target='_blank'><img src='/imgnew3/bsns3.gif' alt='트위터'></a>
+		</div>
+</div>
+</div>
+
+<ul id=bottom1>
+	<li><a href='http://www.suwon.go.kr' target='_blank'><img src='/imgnew/bottom_banner1.gif' alt='수원시'></a></li>
+	<li><a href='http://photo.suwon.go.kr' target='_blank'><img src='/imgnew/bottom_banner2.gif' alt='포토뱅크'></a></li>
+	<li><a href='http://ebook.suwon.go.kr' target='_blank'><img src='/imgnew/bottom_banner3.gif' alt='e-book 자료홍보관'></a></li>
+	<li><a href='http://www.suwon.go.kr/web/deptHome/dep_job/eco03/BD_index.do?q_searchRegion1=41000&q_searchResion2=41110' target='_blank'><img src='/imgnew/bottom_banner4.gif' alt='구인&구직'></a></li>
+	<li><a href='http://its.suwon.go.kr' target='_blank'><img src='/imgnew/bottom_banner5.gif' alt='실시간교통상황안내'></a></li>
+	<li><a href='http://tour.suwon.go.kr' target='_blank'><img src='/imgnew/bottom_banner6.gif' alt='문화/관광 정보'></a></li>
+</ul>
+<div id=bottom2>
+	<img id='bottomimg1' src='/imgnew/bottom_logo.gif' alt='휴먼시티수원'>
+	<img id='bottomimg2' src='/imgnew/bottom_gubun.gif' alt=''>
+	<img id='bottomimg3' src='/imgnew/bottom_copy.gif' alt='발행처:수원시청, 발행인:수원시장, 편집인:공보관, (442-701)경기도 수원시 팔달구 효원로 241(인계동) 031-228-3069,3628,2628'>
+	<a href='http://www.suwon.go.kr/sw-www/sw-www_09/sw-www_09_02.jsp' target='_blank'><img id='bottomimg4' src='/imgnew/bottom_link1.gif' alt='저작권보호정책'></a>
+	<a href="javascript:void(window.open('/imgnew/privatereadme.html','temp3','width=800,height=700,scrollbars=yes'))"><img id='bottomimg5' src='/imgnew/bottom_link2.gif' alt='개인정보처리방침'></a>
+	<a href="javascript:void(window.open('/main2/skin/rss.html', 'temp', 'width=600, height=610'));"><img id='bottomimg6' src='/imgnew/bottom_link3.gif' alt='RSS'></a>
+</div>
+
+</div><!-- end of bottom -->
+		</div><!-- end of container -->
+	</body>
+</html>

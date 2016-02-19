@@ -1,0 +1,991 @@
+
+
+
+
+
+      		
+
+
+
+
+      		
+
+
+
+      		
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0,user-scalable=no"/>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+
+    <!--   V2 STYLES -->
+    <link rel="shortcut icon" href="/etc/designs/platform/v2/images/favicon.ico"/>
+    <link rel="stylesheet" href="/etc/designs/platform/v2/styles/main.ngsversion.33e02ccc.css" media="all">
+    
+    <link rel="stylesheet" href="https://fonts.ngeo.com/hoefler/1-0-1/hco_fonts.css">
+    
+
+    
+
+    <title>Manta Rays Get Crittercams for First Time Ever</title>
+    <meta property="og:title" content="Manta Rays Get Crittercams for First Time Ever"/>
+<meta name="description" content="Suction cup cameras allow scientists to observe elusive manta behavior, which may help conservationists protect the threatened animals."/>
+    <meta property="og:description" content="Suction cup cameras allow scientists to observe elusive manta behavior, which may help conservationists protect the threatened animals."/>
+<meta name="keywords" content="rays, manta rays, crittercam, "/>
+<meta name="news_keywords" content="rays, manta rays, crittercam, , environment"/>
+<meta property="og:url" content="http://news.nationalgeographic.com/2016/01/160129-manta-ray-crittercam-animals/"/>
+<link rel="canonical" href="http://news.nationalgeographic.com/2016/01/160129-manta-ray-crittercam-animals/"/>
+<meta property="og:type" content="article"/>
+<meta name="og:site_name" content="National Geographic News"/>
+<meta property="article:publisher" content="https://www.facebook.com/natgeo"/>
+<meta property="article:published_time" content="Fri Jan 29 05:00:00 EST 2016"/>
+    <meta property="article:modified_time" content="Fri Feb 12 12:07:27 EST 2016"/>
+    <meta property="article:section" content="News"/>
+    <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@NatGeo">
+    <meta name="twitter:creator" content="@NatGeo">
+<meta name="twitter:site:id" content="17471979">
+<meta name="twitter:title" content="Manta Rays Get Crittercams for First Time Ever">
+<meta name="twitter:description" content="Suction cup cameras allow scientists to observe elusive manta behavior, which may help conservationists protect the threatened animals.">
+<meta property="twitter:url" content="http://news.nationalgeographic.com/2016/01/160129-manta-ray-crittercam-animals/"/>
+<meta property="og:image" content="http://pmdvod.nationalgeographic.com/NG_Video/694/767/160129-news-Crittercam-Manta-vin_final-ds1602001-07_640x360_611463747716.jpg"/>
+<meta name="twitter:image:src" content="http://pmdvod.nationalgeographic.com/NG_Video/694/767/160129-news-Crittercam-Manta-vin_final-ds1602001-07_640x360_611463747716.jpg">
+    
+    <meta property="gsa_publish_date" content="Fri Feb 12 12:07:27 EST 2016"/>
+
+    
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Uw4AWVVADgMEUVVVBA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function s(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);return i}function c(t,e){d[t]=f(t).concat(e)}function f(t){return d[t]||[]}function u(){return r(s)}var d={};return{on:c,emit:s,create:u,listeners:f,context:e,_events:d}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:25,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:26,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").create(),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:27,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:27,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:27,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:27,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,l,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-",o)}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:27,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=this.lastSize||n(t);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t){var e=t.responseType,n="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return r(n)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=0,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:16,4:12,5:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:25,2:26,handle:"D5DuLP"}],16:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var h=0},{1:25,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],25:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],26:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],27:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:26,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+
+          		
+
+
+
+      		
+
+
+
+
+
+<meta name="tax:source" content="news">
+<meta name="tax:firstSubjectAncestor" content="animals">
+<meta name="tax:firstSubject" content="rays">
+<meta name="tax:adKeywords" content="">
+<meta name="tax:otherSubjects" content="">
+<meta name="tax:locations" content="mexico">
+<meta name="tax:series" content="editors_picks facebook_instant">
+<meta name="tax:genres" content="">
+<meta name="tax:people" content="">
+<meta name="tax:organizations" content="">
+<meta name="tax:events" content="">
+<meta name="tax:concepts" content="">
+<meta name="tax:audiences" content="general">
+<meta name="aem:pageType" content="base-page">
+<meta name="aem:commentsSetting" content="enabled">
+<meta name="cq:editMode" content="false">
+
+
+          		
+
+
+
+      		
+
+
+<meta name="dfp:adLoadBuffer" content="300">
+<meta name="dfp:domain" content="news">
+<meta name="dfp:networkCode" content="2994">
+<meta name="dfp:outOfPageEnabled" content="false">
+<meta name="dfp:refreshRate" content="15">
+<meta name="dfp:activeEngagementInterval" content="120">
+<meta name="dfp:adFavorability" content="viewability">
+
+<meta name="dfp:bigWebAdInterval" content="1700">
+<meta name="dfp:tabletAdInterval" content="1700">
+<meta name="dfp:mobileAdInterval" content="1700">
+
+<meta name="dfp:bigWebMaxAdCount" content="5">
+<meta name="dfp:tabletMaxAdCount" content="5">
+<meta name="dfp:mobileMaxAdCount" content="5">
+
+<meta name="dfp:sizeMapping" content='{"sponsorAd_small":[{"browser":["970","250"],"ad_sizes":["[88, 31]"],"lazy":false,"refresh":false},{"browser":["728","90"],"ad_sizes":["[88, 31]"],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":["[88, 31]"],"lazy":false,"refresh":false}],"adslotsponsor-2":[{"browser":["970","250"],"ad_sizes":["[257, 90]"],"lazy":false,"refresh":false},{"browser":["728","90"],"ad_sizes":[],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":[],"lazy":false,"refresh":false}],"adslotsponsor-1":[{"browser":["970","250"],"ad_sizes":["[257, 90]"],"lazy":false,"refresh":false},{"browser":["728","90"],"ad_sizes":[],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":[],"lazy":false,"refresh":false}],"commentsBoxAd":[{"browser":["970","250"],"ad_sizes":["[300, 250]","[300, 600]"],"lazy":false,"refresh":false,"stickydimensions":["[300, 250]","[300, 600]"]},{"browser":["728","90"],"ad_sizes":["[300, 250]"],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":["[300, 250]"],"lazy":false,"refresh":false}],"bodyBox":[{"browser":["970","250"],"ad_sizes":["[300, 250]","[300, 600]","[300, 1050]"],"lazy":false,"refresh":false,"stickydimensions":["[300, 250]","[300, 600]"]},{"browser":["728","90"],"ad_sizes":["[300, 250]","[300, 600]"],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":["[300, 250]"],"lazy":false,"refresh":false}],"sponsorAd_upperRight":[{"browser":["970","250"],"ad_sizes":["[210, 50]"],"lazy":false,"refresh":false},{"browser":["728","90"],"ad_sizes":["[210, 50]"],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":["[210, 50]"],"lazy":false,"refresh":false}],"pixel":[{"browser":["970","250"],"ad_sizes":["[1, 1]"],"lazy":false,"refresh":false},{"browser":["728","90"],"ad_sizes":["[1, 1]"],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":["[1, 1]"],"lazy":false,"refresh":false}],"stickyLeadAd":[{"browser":["970","250"],"ad_sizes":["[300, 250]","[300, 600]","[300, 1050]"],"lazy":false,"refresh":false,"stickydimensions":["[300, 600]","[300, 250]"]},{"browser":["728","90"],"ad_sizes":[],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":[],"lazy":false,"refresh":false}],"257x90":[{"browser":["970","250"],"ad_sizes":["[257, 90]"],"lazy":false,"refresh":false},{"browser":["728","90"],"ad_sizes":[],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":[],"lazy":false,"refresh":false}],"bodyLeaderboard":[{"browser":["970","250"],"ad_sizes":["[728, 90]"],"lazy":false,"refresh":false},{"browser":["728","90"],"ad_sizes":["[728, 90]"],"lazy":false,"refresh":false,"stickydimensions":["[728, 90]"]},{"browser":["300","250"],"ad_sizes":["[300, 250]"],"lazy":false,"refresh":false}],"article_dynamic":[{"browser":["970","250"],"ad_sizes":[],"lazy":false,"refresh":false},{"browser":["728","90"],"ad_sizes":["[728, 90]","[300, 250]"],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":["[300, 250]"],"lazy":false,"refresh":false}],"header":[{"browser":["970","250"],"ad_sizes":["[728, 90]","[970, 250]","[970, 300]","[970, 66]","[970, 90]"],"lazy":false,"refresh":false,"stickydimensions":["[728, 90]","[970, 90]"]},{"browser":["728","90"],"ad_sizes":["[728, 90]"],"lazy":false,"refresh":false,"stickydimensions":["[728, 90]"]},{"browser":["300","250"],"ad_sizes":["[320, 50]","[300, 50]"],"lazy":false,"refresh":false,"stickydimensions":["[320, 50]","[300, 50]"]}],"stickyBumperFixtureAd":[{"browser":["970","250"],"ad_sizes":["[300, 250]"],"lazy":false,"refresh":false,"stickydimensions":["[300, 250]"]},{"browser":["728","90"],"ad_sizes":[],"lazy":false,"refresh":false},{"browser":["300","250"],"ad_sizes":[],"lazy":false,"refresh":false}]}'>
+<meta name="dfp:lazy:sizeMapping" content='[]'>
+<meta name="dfp:template" content="article">
+
+          		
+
+
+
+      		
+
+
+<meta name="flag:disableAds" content="false"/>
+
+          		
+
+
+
+      		
+
+
+<meta name="picturefill" content='[{"width":133,"densities":[1],"media":"(max-width: 130px)"}, {"width":152,"densities":[1],"media":"(max-width: 150px)"}, {"width":162,"densities":[1],"media":"(max-width: 160px)"}, {"width":210,"densities":[1],"media":"(max-width: 205px)"}, {"width":224,"densities":[1],"media":"(max-width: 220px)"}, {"width":225,"densities":[1],"media":"(max-width: 225px)"}, {"width":280,"densities":[1],"media":"(max-width: 280px)"}, {"width":352,"densities":[1],"media":"(max-width: 352px)"}, {"width":470,"densities":[1],"media":"(max-width: 470px)"}, {"width":536,"densities":[1],"media":"(max-width: 536px)"}, {"width":590,"densities":[1],"media":"(max-width: 590px)"}, {"width":676,"densities":[1],"media":"(max-width: 676px)"}, {"width":710,"densities":[1],"media":"(max-width: 710px)"}, {"width":768,"densities":[1],"media":"(max-width: 768px)"}, {"width":885,"densities":[1],"media":"(max-width: 885px)"}, {"width":945,"densities":[1],"media":"(max-width: 945px)"}, {"width":1190,"densities":[1],"media":"(max-width: 1190px)"}, {"width":1900,"densities":[1],"media":"(max-width: 1900px)"}]'/>
+
+</head>
+
+
+
+<body itemscope="itemscope" itemtype="http://schema.org/WebPage">
+    <div id="page">
+        
+
+<!-- Google Tag Manager -->
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  dataLayer.push({
+    'aemGuid': '57a9b199-a6f0-45cc-a911-cfd2607c0aec'
+    ,'aemShortDescription':'Suction+cup+cameras+allow+scientists+to+observe+elusive+manta+behavior%2C+which+may+help+conservationists+protect+the+threatened+animals.'
+    ,'aemLeadImage': 'http://pmdvod.nationalgeographic.com/NG_Video/694/767/160129-news-Crittercam-Manta-vin_final-ds1602001-07_640x360_611463747716.jpg'
+
+	
+		,'aemTemplateType': 'base-page'
+	
+	
+    
+        ,'aemSeries': 'None'
+    
+     });
+</script>
+
+      		
+
+
+
+
+      		
+
+
+
+
+      		
+
+
+
+
+
+
+
+
+
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    dataLayer.push({'aemTaxonomyData': '{&#034;ngs_audiences&#034;:[{&#034;name&#034;:&#034;General&#034;,&#034;uuid&#034;:&#034;3e7d872e-f731-34a8-aec4-d48e72f452f1&#034;,&#034;hierarchy&#034;:&#034;&#034;}],&#034;ngs_source&#034;:[{&#034;name&#034;:&#034;News&#034;,&#034;uuid&#034;:&#034;2ea1233d-1a91-36a5-b06b-52819a1fd03c&#034;,&#034;hierarchy&#034;:&#034;&#034;}],&#034;ngs_series&#034;:[{&#034;name&#034;:&#034;Editors&#039; Picks&#034;,&#034;uuid&#034;:&#034;98b69a87-2e2b-3430-8bd0-6a65aa07455a&#034;,&#034;hierarchy&#034;:&#034;&#034;},{&#034;name&#034;:&#034;Facebook Instant&#034;,&#034;uuid&#034;:&#034;87dffeda-5773-38de-8328-a4c591de8e5b&#034;,&#034;hierarchy&#034;:&#034;&#034;}],&#034;title&#034;:&#034;Manta Rays Get Crittercams for First Time Ever&#034;,&#034;ngs_locations&#034;:[{&#034;name&#034;:&#034;Mexico&#034;,&#034;uuid&#034;:&#034;8e744ecb-72ce-3369-80e3-7c7bdd145d63&#034;,&#034;hierarchy&#034;:&#034;Earth|North America&#034;}],&#034;ngs_subjects&#034;:[{&#034;name&#034;:&#034;Rays&#034;,&#034;uuid&#034;:&#034;4dd6d3c2-7833-3697-8931-2aed0f05e01e&#034;,&#034;hierarchy&#034;:&#034;Animals|Fish&#034;}],&#034;url&#034;:&#034;http:\/\/news.nationalgeographic.com\/2016\/01\/160129-manta-ray-crittercam-animals.html&#034;}'});
+</script>
+
+
+      		
+
+
+
+
+      		
+
+
+
+
+      		
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        dataLayer.push({'pageCategory': 'NG|News'});
+    </script>
+
+
+
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        dataLayer.push({'aemSiteName': 'News'});
+    </script>
+
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-S6J5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-S6J5');</script>
+
+
+
+<!-- End Google Tag Manager -->
+
+        
+
+        
+        
+            <div id="template-id" data-template="article"></div>
+        
+
+        
+      		
+
+
+
+
+      		
+
+
+
+
+
+      		
+
+
+
+
+<div class="global-nav globalNav biggie">
+    <header id="global_nav"
+            data-platform-component="GlobalNav"
+            data-platform-base-container="#global_nav"
+            data-platform-nav-container="#gn_JS_panelcontainer"
+            data-platform-drawer="#gn_JS_global-nav"
+            data-platform-toggle-drawer-button=".gn_JS_toggle-drawer-button"
+            data-platform-template="layout_base"
+            data-platform-nav_template="layout_navigation"
+            data-platform-display="biggie"
+            data-platform-localization="true"
+            data-platform-show-search="true"
+            data-platform-auto-init="true"
+            data-platform-render-base="true"
+            data-platform-load-registration="true"
+            data-platform-search-url="https://www-s.nationalgeographic.com/search"
+            data-platform-local-section="null"
+            data-platform-registration-options='{"mmdbHost":"https://mmdb.nationalgeographic.com","memcenHost":"https://members.nationalgeographic.com","notificationsHost":"https://notifications.nationalgeographic.com","notificationsKey":"e6c4b4af844c454fc2110a4d09828559489837313bd2e519cf","staticMedia":"//assets.nationalgeographic.com/reg_beta/","debug":false,"debugLvl":"0"}'
+            data-platform-load-type-kit="true"
+     ></header>
+</div>
+
+
+        
+
+
+<div id="ad-component-base"></div>
+
+
+
+    <div id='pixel-ad' class="ad-holder" data-ad-component="single" data-ad-config-key="pixel"></div>
+    <div id='out-of-page-ad' class="ad-holder" data-ad-component="outOfPage" data-ad-config-key="out-of-page"></div>
+
+<div id='header-ad' class="ad-holder" data-ad-component="stickyComposedLeaderboard" data-ad-config-key="header" data-ad-config-secondary-key="257x90"></div>
+
+
+
+        
+<div class="pre-content">
+    <div class="parsys iparsys pre-content"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys pre-content">
+</div>
+</div>
+</div>
+
+</div>
+		
+		      
+		      
+		      	
+
+
+
+
+<script> var deepLinkProvided = null </script>
+<div class="presentationMode">      		
+
+
+
+      		
+
+
+
+
+
+
+
+
+    
+    <div id="loadingPresentation" class="presentation-gallery presentation-gallery__loading-version">
+        <div class="presentation-gallery__loading-version__header">
+            <a href="http://nationalgeographic.com" class="presentation-gallery__logo-link">
+                <div class="presentation-gallery__box-logo"></div>
+            </a>
+        </div>
+        <div class="presentation-gallery__loading-version__right-rail"></div>
+        <div class="presentation-gallery__loading-version__footer"></div>
+    </div>
+    
+    <script>
+        //get provided hash link for use by deeplinking
+        var deepLinkProvided = window.location.hash != null && window.location.hash != "" && window.location.hash != "#/" && window.location.hash != "#" ? window.location.hash.replace("#", "").replace("/", "") : null;;
+
+        //launch "loading presentation" state if deeplink found. Presentation Mode component will remove/replace once deeplink has been evaluated
+        if(deepLinkProvided) {
+            document.getElementById("loadingPresentation").className += " on-screen";
+            document.getElementsByTagName( 'html' )[0].setAttribute('class','ngs-generic-modal__noscroll');
+            document.getElementsByTagName( 'body' )[0].setAttribute('class','ngs-generic-modal__noscroll')
+        }
+    </script>
+
+    <div data-platform-endpoint="http://news.nationalgeographic.com/2016/01/160129-manta-ray-crittercam-animals/_jcr_content/presentation-mode.pres.json" data-platform-component="PresentationMode" data-platform-social-links='[{"socialLink":{"icon":"icongs-facebook","class":"addthis_button_facebook","analyticsEvent":"Facebook"}},{"socialLink":{"icon":"icongs-twitter","class":"addthis_button_twitter","analyticsEvent":"Twitter"}},{"socialLink":{"icon":"icongs-googleplus","class":"addthis_button_google_plusone_share","analyticsEvent":"Googleplus"}},{"socialLink":{"icon":"icongs-pinterest","class":"addthis_button_pinterest_share","analyticsEvent":"Pinterest"}},{"socialLink":{"icon":"icongs-linkedin","class":"addthis_button_linkedin","analyticsEvent":"Linkedin"}},{"socialLink":{"icon":"icongs-email","class":"addthis_button_email","analyticsEvent":"Email"}}]' data-platform-analytics-event-site="News" data-platform-max-visible="3"></div>
+
+
+</div>
+
+
+
+<div class="print-only clearfix">
+    <img src="/etc/designs/platform/v2/images/logos/ng-black-logo.ngsversion.33e02ccc.png" class="print-logo print-img"/>
+    <a class="print-link" href="http://news.nationalgeographic.com/2016/01/160129-manta-ray-crittercam-animals.html" target="_blank">http://news.nationalgeographic.com/2016/01/160129-manta-ray-crittercam-animals.html</a>
+    <hr>
+</div>
+
+<section itemprop="mainContentOfPage" role="main" class="main-section">
+    <article itemscope="itemscope" itemtype="http://schema.org/NewsArticle" class="news__article">
+        <div class="container">
+            
+            <div class="row clearfix row--mainArt">
+                <div class="mt_col-12">
+                    
+<div class="parsys mainArt"><div class="kicker section">      		
+
+
+
+
+
+</div>
+<div class="titleAndDek section">      		
+
+
+
+
+      		
+
+
+
+
+
+
+<span data-platform-component="TitleAndDek" class="hidden dateline"/></span>
+<div class="mt_row">
+    <div class="mt_col-12">
+        
+        
+            
+            
+        
+        
+            
+                
+                    <h1 class="main-title md-title mt_col-12 mt_col-lg-9"><span itemprop="headline">Manta Rays Get Crittercams for First Time Ever</span>
+                    </h1>
+                
+                <div class="upper-right-ad mt_col-12 mt_col-lg-3">
+                    <div id='upper-right-ad' class="ad-holder" data-ad-component="single" data-ad-config-key="sponsorAd_upperRight"></div>
+                </div>
+                
+                    <div class="article__deck mt_col-12 mt_col-lg-9"><p>Suction cup cameras allow scientists to observe elusive manta behavior, which may help conservationists protect the threatened animals.</p>
+</div>
+                
+            
+            
+        
+    </div>
+</div>
+</div>
+<div class="UniversalVideo section">      		
+
+
+
+
+
+
+
+    
+        
+            
+            
+                
+                
+                    <span class="bumper--bottom bumper--add-margin bumper--bottom_addthis"></span>
+                    <div class="fullsize-element ">
+                        <div class="media__medium--container container">
+                            <div class="row">
+                                <div class="col-md-13">
+                
+                
+                
+
+                <figure itemscope="itemscope" itemtype="http://schema.org/VideoObject" class="section Video media-video media--medium align-none   ">
+                    <div id="inlinePlayer00000152-88eb-d480-a756-dbef4e150000" class="inline ngs-video" data-platform-overlay-play-button="true" data-platform-sharing="true" data-platform-configuration="manual" data-platform-videoguid="00000152-88eb-d480-a756-dbef4e150000" data-platform-instance="inlinePlayer00000152-88eb-d480-a756-dbef4e150000" data-platform-type="inline" data-platform-component="UniversalVideo"></div>
+
+                    
+                        <figcaption class="media__caption ">
+                            <div class="media__caption--text">
+                                
+                                
+                                    <span itemprop="description">
+                                    
+                                        
+                                            <p>Watch: See the watery world from the eyes of a giant ray.</p>
+
+                                        
+                                        
+                                    
+                                    </span>
+                                
+                                
+                            </div>
+                        </figcaption>
+                    
+                    
+                    
+
+                </figure>
+
+                
+                
+                
+                
+                    </div>
+                    </div>
+                    </div>
+                    </div>
+                    <span class="bumper--top bumper--top_addthis"></span>
+                
+            
+        
+    
+    
+
+</div>
+
+</div>
+
+                </div>
+            </div>
+
+            
+            <span class="bumper--bottom bumper--leaderboard-desktop bumper--add-margin"></span>
+
+            
+            <div class="row article__body--container">
+                
+                <div class=" mt_col-12 mt_col-lg-1 icon-menu addthis_toolbox ">
+                    <div class="sticky-addthis_toolbox__wrap">
+                        <div data-platform-component="CommentButton" data-platform-minimumamounttoshow="0" class="social-icons comment-button"></div>
+                        <div class="AddThis">      		
+
+
+
+
+      		
+
+
+
+
+
+
+
+    
+        <div class="add-this__init" data-platform-id="mxt3pbu3" data-platform-component="AddThis" data-platform-social-links='[{"socialLink":{"icon":"icongs-facebook","class":"addthis_button_facebook","analyticsEvent":"Facebook"}},{"socialLink":{"icon":"icongs-twitter","class":"addthis_button_twitter","analyticsEvent":"Twitter"}},{"socialLink":{"icon":"icongs-googleplus","class":"addthis_button_google_plusone_share","analyticsEvent":"Googleplus"}},{"socialLink":{"icon":"icongs-pinterest","class":"addthis_button_pinterest_share","analyticsEvent":"Pinterest"}},{"socialLink":{"icon":"icongs-linkedin","class":"addthis_button_linkedin","analyticsEvent":"Linkedin"}},{"socialLink":{"icon":"icongs-email","class":"addthis_button_email","analyticsEvent":"Email"}}]' data-platform-analytics-event-site="News" data-platform-max-visible="3" data-platform-configuration="vertical"></div>
+    
+    
+</div>
+
+                    </div>
+                </div>
+                <div id="article__body" class="paragraphs mt_col-12 mt_col-lg-7 ">
+                    
+                    <span class="bumper--top bumper--top_addthis"></span>
+                    <div id='StickyBoxAd' class="ad-holder" data-ad-component="stickyBoxAd" data-ad-config-key="stickyLeadAd"></div>
+
+                    
+                    <span itemprop="articleBody">
+                        <div class="content parsys"><div class="byline section">      		
+
+
+
+
+      		
+
+
+
+
+
+
+
+    
+        <div class="byline-component">
+            
+                
+                    <div itemprop="creator" itemscope="itemscope" itemtype="http://schema.org/Person" class="byline-component__category byline-component__contributor">
+                        
+                            By <b><span itemprop="name">Brian Clark Howard</span></b><br/>
+                        
+                    </div>
+                
+                
+                
+                
+                
+            
+            
+                <div class="byline-component__publish"><p>PUBLISHED <time itemprop="datePublished" datetime="Fri Jan 29 05:00:00 EST 2016">Fri Jan 29 05:00:00 EST 2016</time></p></div>
+            
+        </div>
+    
+    
+</div>
+<div class="text smartbody parbase section">
+<p><a href="http://ngm.nationalgeographic.com/2009/07/manta-rays/barcott-text">Manta rays</a>, which are among the bigger and more charismatic animals in the ocean, have captured humans' imagination for generations. And yet scientists still have many unanswered questions about rays' behavior. Why do they dive so deep? What do they eat in each season? Why do they congregate in certain areas?&nbsp;</p></div>
+<div class="text smartbody parbase section">
+<p>To answer some of these questions, and to find&nbsp;information that could stem population decline, National Geographic's <a href="http://animals.nationalgeographic.com/animals/crittercam-about/">Crittercam</a> team joined forces with the <a href="https://scripps.ucsd.edu/">Scripps Institution of Oceanography</a> in southern California and the <a href="http://www.mantatrust.org/">Manta Trust</a> in the U.K. to attach cameras to wild mantas.&nbsp;</p></div>
+<div class="text smartbody parbase section">
+<p>Recent trials in the Revillagigedo Islands off central Mexico's Pacific coast marked the first time cameras were ever successfully attached to the animals, which can reach widths&nbsp;of up to 23 feet (7 meters). (<a href="http://news.nationalgeographic.com/2016/01/160108-manta-rays-conservation-wildaid-traditional-medicine-china-bycatch-peru/">Learn about new protections for manta rays in South America</a>.)</p></div>
+<div class="text smartbody parbase section">
+<p>We spoke with Scripps and Manta Trust researcher&nbsp;<a href="http://www.semmenslab.org/staff-members/joshua-stewart/">Joshua Stewart</a> about the Crittercam project. &nbsp;</p></div>
+<div class="text smartbody parbase section">
+<p><b>What challenges did you have to overcome to get cameras on wild mantas?</b></p></div>
+<div class="text smartbody parbase section">
+<p>The biggest technical challenge was finding a way to attach the cameras. Mantas are basically big flat disks. Unlike sharks, say, their dorsal fin is all the way at the back of their body, so you can't see anything if you attach a camera there. We looked at hooking it onto their snout or looping it onto their horns, but we decided both of those would impact the animals quite a bit. We thought about clipping on tags, the way scientists attach satellite transmitters to rays, but our thinking was that would be too invasive.</p></div>
+<div class="rightRailSlot section">      		
+
+
+
+
+
+      		
+
+
+
+
+
+
+<div class="right-rail-slot bumper--bottom bumper--add-margin" style="margin-top:px">
+    <div class="parsys rightRailContent"><div class="relatedContentList promo section">      		
+
+
+
+
+      		
+
+
+
+
+      		
+
+
+
+
+
+
+    
+        <div class="bumper--bottom_addthis"></div>
+        <div class="related-content-list">
+            <h6 class="related-content-list__title">
+                
+                    
+                        <p>Related Stories</p>
+                    
+                    
+                
+            </h6>
+            <div class="related-content-list__body">
+                
+                    
+                
+                    
+                
+                    
+                
+                <ul>
+                    
+                        <li>
+                            <span itemprop="relatedLink"><a href="http://news.nationalgeographic.com/2015/08/150801-pictures-sunbathing-tanning-tan-beach-ocean-summer" target="_self" itemprop="url">Endless Summer: 16 Smoking-Hot Pictures of Sunbathing </a></span>
+                        </li>
+                    
+                        <li>
+                            <span itemprop="relatedLink"><a href="http://news.nationalgeographic.com/2015/06/150601-virgin-birth-animals-sawfish-endangered-genetics-science" target="_self" itemprop="url">Rare Fish Performs "Virgin Births"—First Known in The Wild </a></span>
+                        </li>
+                    
+                        <li>
+                            <span itemprop="relatedLink"><a href="http://news.nationalgeographic.com/2015/03/150327-fish-stingrays-skates-sharks-science-animals-giant" target="_self" itemprop="url">Beyond the Car-Size Stingray: Five Cool Facts About Rays and Skates </a></span>
+                        </li>
+                    
+                </ul>
+                
+            </div>
+            <div class="bumper--top_addthis bumper--add-margin"></div>
+        </div>
+    
+    
+
+</div>
+
+</div>
+
+    <span class="bumper--top bumper--add-margin"></span>
+</div></div>
+<div class="text smartbody parbase section">
+<p>We didn't think suction cups would work because manta ray skin is really rough like sand paper. We knew suction cups worked well on the smooth skin of whales. The cups were originally designed to move pieces of glass. But we gave it a try, and with a solid push with our hands we discovered it would actually stick on for two and a half to three hours.</p></div>
+<div class="text smartbody parbase section">
+<p><b>Why did you go to the Revillagigedo Islands to test the cameras?&nbsp;&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></div>
+<div class="text smartbody parbase section">
+<p>We needed to find manta rays that are around consistently and are friendly enough so you can swim up to them. The Revillagigedo Islands are ideal for that. People have been diving there with rays for 30+ years and they have become very friendly. In areas where there is no dive tourism manta rays can be really skittish.</p></div>
+<div class="text smartbody parbase section">
+<p><b>Do you have to get the cameras back to retrieve the footage or do they transmit the video?</b></p></div>
+<div class="text smartbody parbase section">
+<p>We have to get them back. There's a little VHF radio antenna on top of the camera, and when it pops off it's weighted to float in a way that keeps the antenna pointing out of the water. The Crittercam team has a radio receiver so we can track it down.</p></div>
+<div class="text smartbody parbase section">
+<p><b>What specifically do you hope to document about the rays?</b></p></div>
+<div class="text smartbody parbase section">
+<p>One of the things we're really interested in is feeding behavior. We can see what depths they dive to with satellite tags but we don't know what they are doing down there. We think they are feeding, but we never actually know until we see it.&nbsp;</p></div>
+<div class="text smartbody parbase section">
+<p>We're interested from an ecological perspective but it also plays into conservation, because if you can figure out what they are eating at certain times of year it becomes easier to predict where they will be, based on those food sources. A big threat to mantas is <a href="http://voices.nationalgeographic.com/2015/11/23/say-goodbye-to-by-catch-fishing-smarter-in-the-21st-century/">bycatch</a>, when they are caught accidentally by fishermen. It's a notoriously difficult problem to tackle because it is not targeted and it's unclear when you'll catch one. We hope to identify where they are feeding, to better predict when they are most vulnerable to bycatch.</p></div>
+<div class="text smartbody parbase section">
+<p><b>How are manta rays faring?</b></p></div>
+<div class="text smartbody parbase section">
+<p>Manta populations are declining around the world, from both bycatch and some commercial fisheries. Any information we can get about them is really important for feeding back into conservation and management strategies, to try to start reversing those declines.&nbsp;</p></div>
+<div class="UniversalVideo section">      		
+
+
+
+
+
+
+
+    
+        
+            
+            
+                
+                
+                
+                
+
+                <figure itemscope="itemscope" itemtype="http://schema.org/VideoObject" class="section Video media-video media--small align-none   ">
+                    <div id="inlinePlayer0000014e-ac18-deef-a9ee-ae3e0cb30001" class="inline ngs-video" data-platform-overlay-play-button="true" data-platform-sharing="true" data-platform-configuration="manual" data-platform-videoguid="0000014e-ac18-deef-a9ee-ae3e0cb30001" data-platform-instance="inlinePlayer0000014e-ac18-deef-a9ee-ae3e0cb30001" data-platform-type="inline" data-platform-component="UniversalVideo"></div>
+
+                    
+                        <figcaption class="media__caption ">
+                            <div class="media__caption--text">
+                                
+                                
+                                    <span itemprop="description">
+                                    
+                                        
+                                            <p>Watch: Learn more about manta rays.</p>
+
+                                        
+                                        
+                                    
+                                    </span>
+                                
+                                
+                            </div>
+                        </figcaption>
+                    
+                    
+                    
+
+                </figure>
+
+                
+                
+                
+                
+            
+        
+    
+    
+
+</div>
+<div class="text smartbody parbase section">
+<p><b>Why do you think people are so intrigued by mantas?</b></p></div>
+<div class="text smartbody parbase section">
+<p>People love mantas because they are the only really big megafauna that you can have close personal interactions with. Even with other large herbivores, like an elephant or rhino, you can't go walk up to them and look them in the eye. That goes double for any kind of predatory animal. Mantas are enormous, weighing several tons, but you can swim inches from them. They'll come and play with you and look you in the eye, and you can tell there is intelligence there.&nbsp;</p></div>
+<div class="text smartbody parbase section">
+<p><b>What's next for the project?&nbsp;&nbsp;&nbsp;</b></p></div>
+<div class="text smartbody parbase section">
+<p>We're working on adding active suction to the cups, with an air pump, so they stay on better. It's tough underwater, but hopefully we can get a camera to stay on for up to 10 hours, so we can record more behavior. We're planning on going out again in April to a study site on mainland Mexico.&nbsp;</p></div>
+<div class="text smartbody parbase section">
+<p><i>This interview has been edited.</i></p></div>
+<div class="text smartbody parbase section">
+<p><i>Follow Brian Clark Howard on</i><a href="https://twitter.com/socialpyramid"><i> Twitter</i></a><i> and</i><a href="https://plus.google.com/u/0/101635119865418193306/"><i> Google+</i></a><i>.</i></p></div>
+
+</div>
+
+                    </span>
+
+                    
+                    
+                        <div data-platform-component="CommentsCallToActionButton" data-platform-label="Comment on This Story" data-platform-iconclass="icongs-comment" class="comments-call-to-action-button">
+                        </div>
+                    
+
+                    
+                    <section class="inline-gallery__container">
+                        <div class="parsys related-content"><div class="inline section related">      		
+
+
+
+
+      		
+
+
+
+
+
+
+
+
+
+
+
+    <span class="bumper--add-margin bumper--bottom_addthis"></span>
+
+
+<div class="gallery--init" data-platform-component="InlineGallery" data-platform-id="a13b0202-8720-42c3-9368-4cab1f7bdb22" data-platform-background-color="#061423" data-platform-hide-for-mobile="false" data-platform-show-titles="true" data-platform-show-abstracts="true" data-platform-show-credits="true" data-platform-show-asset-sources="true" data-platform-size="small" data-platform-endpoint="http://news.nationalgeographic.com/2016/01/160129-manta-ray-crittercam-animals/_jcr_content/related-content/gallery.gallery.json" data-platform-random-sort="true" data-pagewide-presentation-disabled="false" data-platform-preview-aspect-ratio="three-two" data-platform-title='{"inPageLink":false,"linkTarget":"_self"}' data-platform-page-title="Manta Rays Get Crittercams for First Time Ever" data-platform-gallery-type="related"></div>
+
+
+
+
+
+    <span class="bumper--top_addthis"></span>
+</div>
+
+</div>
+
+                    </section>
+
+                    
+                    <span class="bumper--bottom bumper--bottom_addthis"></span>
+
+                </div>
+            </div>
+        </div>
+    </article>
+</section>
+
+
+<div data-platform-component="SocialMobile" class="social-mobile hidden-md hidden-pt">
+</div>
+
+
+
+<div class="promobottom parsys"><div class="threeUp multiLayout section">      		
+
+
+
+
+      		
+
+
+
+
+      		
+
+
+
+
+
+
+    
+
+    
+
+
+<div class="anchor">      		
+
+
+
+      		
+
+
+
+
+
+
+
+
+
+    <a name="you_might_also_like" id="you_might_also_like" class="anchor__link"></a>
+</div>
+
+
+
+
+<div class="multi-layout-promos__init" data-platform-id="frsipazj" data-platform-component-type="multiLayout" data-platform-component="MultiLayoutPromos" data-platform-configuration="automatic" data-platform-ad-config="leaderboard-ads" data-platform-size="small" data-platform-include-size-option="false" data-platform-heading-style="secondary" data-platform-heading="&lt;p&gt;&lt;b&gt;You Might Also Like&lt;/b&gt;&lt;/p&gt;" data-platform-teaser="null" data-platform-show-all="false" data-platform-show-images="true" data-platform-show-titles="true" data-platform-show-abstracts="true" data-platform-show-series="false" data-platform-infinite-scroll="false" data-platform-button-label="Show More" data-platform-endpoint="http://news.nationalgeographic.com/2016/01/160129-manta-ray-crittercam-animals/_jcr_content/promobottom/threeUp.promo-all.json"></div>
+</div>
+
+</div>
+
+
+
+
+    <div class="container livefyre-comments">
+        <div class="mt_col-12 mt_col-lg-8 comments">      		
+
+
+
+      		
+
+
+
+      		
+
+
+
+
+
+
+
+
+<div id="livefyre" data-guid="57a9b199-a6f0-45cc-a911-cfd2607c0aec" data-platform-component="Comments" data-lfnetworkname="natgeo.fyre.co" data-lfsiteid="318027" data-pageguid="57a9b199-a6f0-45cc-a911-cfd2607c0aec" data-lfelement="livefyre-comments" data-lfmetadata="eyJhbGciOiJIUzI1NiIsImN0eSI6InRleHRcL3BsYWluIn0.eyJ0aXRsZSI6Ik1hbnRhIFJheXMgR2V0IENyaXR0ZXJjYW1zIGZvciBGaXJzdCBUaW1lIEV2ZXIiLCJ1cmwiOiJodHRwOi8vbmV3cy5uYXRpb25hbGdlb2dyYXBoaWMuY29tLzIwMTYvMDEvMTYwMTI5LW1hbnRhLXJheS1jcml0dGVyY2FtLWFuaW1hbHMuaHRtbCIsImNoZWNrc3VtIjoiMWI3Mjk2NDYxODU0NWM0ZTdmODZhYzIxZjQyN2RmMmYiLCJhcnRpY2xlSWQiOiI1N2E5YjE5OS1hNmYwLTQ1Y2MtYTkxMS1jZmQyNjA3YzBhZWMifQ.XV2bOtXa0x1PwFaTT0Pq89nmnpk51YjWLR_9x0Pn5I8" data-checksum="1b72964618545c4e7f86ac21f427df2f">
+    <div class="comments--title">
+        <p><strong>Comment on This Story</strong></p>
+    </div>
+    <!-- start livefyre Comments -->
+    <div id="livefyre-comments" class="NGS_livefyre"></div>
+    <!-- stop livefyre Comments -->
+</div>
+</div>
+
+        <div id='commentsAd' class="ad-holder mt_col-12 mt_col-lg-4 comments-box-ad" data-ad-component="boxAd" data-ad-config-key="commentsBoxAd"></div>
+    </div>
+    <span class="bumper--bottom bumper--bottom-of-comments-ad "></span>
+
+
+
+<div class="print-only clearfix">
+    <hr>
+    <img src="/etc/designs/platform/v2/images/logos/ng-black-logo.ngsversion.33e02ccc.png" class="print-logo print-img"/>
+    <p class="print-only__copyright">&copy; 1996-Fri Feb 12 12:07:27 EST 2016 National Geographic Society.</p>
+</div>
+
+
+<div class="listicleController">      		
+
+
+
+      		
+
+
+
+
+
+
+
+<div data-platform-show-numbering="true" data-platform-endpoint="http://news.nationalgeographic.com/2016/01/160129-manta-ray-crittercam-animals/_jcr_content/listicleController.listiclecards.json" data-platform-component="Listicle"></div>
+</div>
+
+		      
+		
+        
+
+<div class="post-content">
+    <div class="parsys iparsys post-content"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys post-content">
+</div>
+</div>
+</div>
+
+</div>
+
+
+        
+
+<footer class="global-footer"></footer>
+
+      		
+
+
+
+
+
+      		
+
+
+
+
+
+      		
+
+
+
+
+
+
+<div data-platform-component="GlobalFooter" data-platform-autoinit="true" data-platform-basecontainer=".global-footer">
+</div>
+
+
+
+
+
+
+
+
+<script>
+
+    window.NGS = {
+        'pestlecfg': {
+            'debug': {
+                'logLevel': 4, // this value should be overwritten by all sites and have a value of 5 in the production env
+                'sentry': {
+                    'endPoint': 'http://3b86f5cfe41448d19e6ad20441fea85c@platform-sentry1.int.ngeo.com/26',
+                    'options': {
+                        'collectWindowErrors': false
+                    }
+                }
+            },
+        }
+    };
+</script>
+
+<!--   V2 script, platform -->
+<script src="/etc/designs/platform/v2/scripts/ngs-vendor.ngsversion.33e02ccc.js"></script>
+<script src="/etc/designs/platform/v2/scripts/ngs-global.ngsversion.33e02ccc.js"></script>
+<script src="/etc/designs/news/scripts/main.ngsversion.33e02ccc.js"></script>
+
+
+
+
+
+
+
+        <span class="bumper--bottom bumper--leaderboard"></span>
+        
+    </div>
+</body>
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"6045473","applicationTime":345,"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"114b3a1f69","transactionName":"NFVSbRBSCxFYAUBeWA0fYlwTRgARTSNAQ0UKUkVNBxwLB04RG1RYDkBfVwddEREWElVQUhdJQFwRHBYLVBJYUhoCQkRQAV8A","agent":"","errorBeacon":"bam.nr-data.net"}</script>
+</html>

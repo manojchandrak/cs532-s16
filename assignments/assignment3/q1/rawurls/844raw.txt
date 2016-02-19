@@ -1,0 +1,435 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"  />
+<meta http-equiv="content-style-type" content="text/css" />
+<title>Hockey: Level 1 Umpire Course - Suffolk Sport</title>
+<script src="library/js/tools.js" type="text/javascript"></script>
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"  />
+<meta name="title" content="Hockey: Level 1 Umpire Course - Suffolk Sport" />
+<meta name="identifier" content="http://www.suffolksport.com" />
+<meta name="country" content="United Kingdom" />
+<meta name="coverage" content="Worldwide" />
+<meta name="Keywords" content="News, sport, Suffolk" />
+<meta name="Description" content="The latest sports news in Suffolk" />
+<meta name="language" content="English" />
+
+<meta property="og:title" content="Hockey: Level 1 Umpire Course" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.suffolksport.com/news.asp?itemid=8257&itemTitle=Hockey:+Level+1+Umpire+Course&section=000100010005&utm_source=twitterfeed&utm_medium=twitter" />
+<meta property="og:image" content="http://www.suffolksport.com/images/logo.gif" />
+<meta property="og:site_name" content="Suffolk Sport" />
+<meta property="fb:admins" content="205942036111782" />
+<meta property="fb:app_id" content="205942036111782">
+<!--[if lt IE 7]><link href="ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+<!--
+<link href="print.css" rel="stylesheet" type="text/css" media="print" />
+<script type="text/javascript" src="targetlinks.js"></script>
+<script type="text/javascript" src="library/js/layerScript.js"></script>
+-->
+
+
+<!--
+<script type="text/vbscript">
+	Function VBGetSwfVer(i)
+	  on error resume next
+	  Dim swControl, swVersion
+	  swVersion = 0
+	  set swControl = CreateObject("ShockwaveFlash.ShockwaveFlash." + CStr(i))
+	  if (IsObject(swControl)) then
+	    swVersion = swControl.GetVariable("$version")
+	  end if
+	  VBGetSwfVer = swVersion
+	End Function
+</script>
+<script type="text/javascript" src="flashdetect.js"></script>
+<script type="text/javascript" src="sifr.js"></script>
+<script type="text/javascript" src="sifr-addons.js"></script>
+-->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.suffolksport.com/rss.asp"/>
+
+<script type="text/javascript">
+	var twitter_handler_url = 'handlers/TweetHandler.ashx?params=9F3A261F5D401EBE5582C59F8BC4063A221DD0E7F8E074A306CB5C7F';
+</script>
+
+<link media="all" rel="stylesheet" type="text/css" href="css/all.css?1" />
+<link media="all" rel="stylesheet" type="text/css" href="css/all.mod.css?1" />
+
+<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="js/jquery.jcarousel.js"></script>
+<script type="text/javascript" src="js/jquery.main.js"></script>
+<script type="text/javascript" src="js/jquery.main.more.js"></script>
+
+<!-- Add fancyBox main JS and CSS files -->
+<script type="text/javascript" src="js/jquery.fancybox.js?v=2.1.5"></script>
+<link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css?v=2.1.5" media="screen" />
+	<script type="text/javascript" src="js/jquery.fancybox-media.js?v=1.0.6"></script>
+
+<script type="text/javascript" src="js/jquery.tweet.js"></script>	
+
+	<script type="text/javascript" src="js/jquery.cookie.js"></script> 
+	<style>
+		.cookie_bar
+		{
+			background-color:#352d2d;
+			height: 100px;
+			color:#fff;
+		}
+		.cookie_bar_inner
+		{
+			width:940px;
+			margin: 0 auto;
+			padding: 5px 0 0 0;
+		}
+		
+		.cookie_logo
+		{
+			/*width:200px;*/
+			width:0px;
+			float:left;	
+			margin-left: 0;
+		}
+		.cookie_logo h2
+		{
+			font-weight:bold;
+			font-size: 20px;
+		}
+		
+		.cookie_bar_content
+		{
+			width:950px;
+			float:right;
+			font-size: 12px;
+			padding-top: 10px;
+		}
+		
+		.cookie_bar_content p
+		{
+			margin: 0;
+		}
+		
+		.cookie_bar_content a
+		{
+			color:#fff;
+			font-weight: bold;
+			text-decoration:none;
+		}
+		
+		.continue_link
+		{
+			font-size:18px;
+		}
+		
+		#cookie_options {
+			width: 100%;
+			margin: 0;
+			padding: 0 6px;
+			position: relative;
+			z-index:200;
+			float:right;
+		}
+		
+		#cookie_options li {
+			font-size:11px;
+			line-height:22px;
+			white-space:nowrap;
+			float:right;
+			margin-left:10px;
+			padding:0;
+			list-style: none;
+		}
+		
+		#cookie_options li a
+		{
+			color: #fff;
+			font-weight: bold;
+		}
+	</style>
+	
+	<script>
+		jQuery(function() {
+
+			//$.cookie("suffolkSportCookieCheck", "", { expires: 365, path: "/" });
+
+			if (jQuery.cookie("suffolkSportCookieCheck") == null) {
+				jQuery.cookie("suffolkSportCookieCheck", "n", { expires: 365, path: "/" });
+			}
+
+			//alert('cookie banner val = ' + $.cookie("suffolkSportCookieCheck"));
+
+			if (jQuery.cookie("suffolkSportCookieCheck") != "y") {
+
+				var referrer = '';
+				if (referrer.indexOf('http://www.suffolksport.com') >= 0) {
+					jQuery.cookie("suffolkSportCookieCheck", "y", { expires: 365, path: "/" });
+				}
+
+				if (jQuery.cookie("suffolkSportCookieCheck", { expires: 365, path: "/" }) != "y") {
+					var cookieBar = '<div class="cookie_bar"><div class="cookie_bar_inner"><div class="cookie_logo"></div><div class="cookie_bar_content"><p>We use cookies to ensure that we give you the best experience on our website. If you continue without changing your settings, we will assume that you are happy to receive all cookies on our website. However, if you would like to, you can change your cookie settings at any time. <a href="http://www.nemisys.uk.com/cookies" target="_blank">How to change your Cookie Settings</a> </p><ul id="cookie_options"><li><a href="http://www.suffolksport.com/cookies" target="_blank">Find Out More</a></li><li><a href="#" onclick="Javascript:setCookie();" class="continue_link">Continue</a></li></ul></div></div></div>';
+					jQuery(cookieBar).insertBefore('#wrapper');
+				}
+			}
+		});
+
+		function setCookie()
+		{
+			jQuery.cookie("suffolkSportCookieCheck", "y", { expires: 365, path: "/" });
+			jQuery('.cookie_bar').remove();
+		}
+	</script>
+
+	</head>
+	<body onload="loadPartners();">
+			<div id="wrapper">	
+		<noscript><div>Javascript must be enabled for the correct page display</div></noscript>
+		<a class="skip" href="#main" accesskey="S" tabindex="1">Skip to Content</a>
+		<div id="header">
+			<h1 class="logo"><a href="http://www.suffolksport.com/" accesskey="1">Suffolk Sport make it happen</a></h1>
+			<a href="login.asp" class="log-in">Log In</a>
+			
+			<a class="btn-book" href="courses.asp?section=00010001003900010007&sectionTitle=Courses">Book It</a>
+			
+			<!--<a class="btn-join" href="register.asp">Join Us</a>-->
+			
+			<ul class="social-networks">
+				<li><a class="ico-facebook" href="http://www.facebook.com/pages/Suffolk-Sport/211224589596?v=wall#/pages/Suffolk-Sport/211224589596?v=wall" target="_blank">facebook</a></li><li><a class="ico-twitter" href="http://twitter.com/Suffolksport/
+" target="_blank">twitter</a></li><li><a class="ico-youtube" href="http://www.youtube.com/user/Suffolksport" target="_blank">youtube</a></li><li><a class="ico-linkedin" href="http://www.linkedin.com/groups/Suffolk-Sport-4003840/about" target="_blank">linkedin</a></li><li><a class="ico-blogger" href="http://suffolksport.blogspot.com/" target="_blank">blogger</a></li><li><a class="ico-google" href="https://plus.google.com/u/0/b/117622879376996916322/117622879376996916322/posts" target="_blank">google</a></li>
+			</ul>
+			<form action="search.asp" class="search-form" method="get">
+				<fieldset>
+					<legend>Search form</legend>
+					<input title="search-field" type="text" accesskey="4" name="keywords" id="keywords"value="Search" onfocus="if(this.value=='Search'){this.value='';}" onblur="if(this.value==''){this.value='Search';}" />
+					<input type="submit" value="Search" />
+				</fieldset>
+			</form>
+			
+		</div>
+		<ul id="nav">
+			<li>
+<a href="page.asp?section=000100010038&amp;sectionTitle=About+Us">
+<strong><span><em>About Us</em></span></strong>
+</a>
+
+
+<ul class="sub-nav">
+<li><a href="page.asp?section=0001000100380007&amp;sectionTitle=Vision%2C+Aims+and+Principles">Vision, Aims and Principles</a></li><li><a href="page.asp?section=0001000100380008&amp;sectionTitle=Suffolk+Sport+Staff">Meet the Team</a></li><li><a href="page.asp?section=0001000100380003&amp;sectionTitle=Suffolk+Sport+Management+Board">Management Board</a></li><li><a href="page.asp?section=0001000100380004&amp;sectionTitle=Partnership+Contacts">Partnership Contacts</a></li><li><a href="page.asp?section=0001000100380005&amp;sectionTitle=Partners">Partners</a></li><li><a href="page.asp?section=0001000100380006&amp;sectionTitle=Contact+Us">Contact Us</a></li>
+</ul>		
+</li><li>
+<a href="page.asp?section=000100010044&amp;sectionTitle=This+Girl+Can+%2D+Suffolk">
+<strong><span><em>This Girl Can</em></span></strong>
+</a>
+
+
+<ul class="sub-nav">
+<li><a href="page.asp?section=0001000100440001&amp;sectionTitle=This+Girl+Can+%2D+Partners+page">Our partners page</a></li>
+</ul>		
+</li><li>
+<a href="page.asp?section=000100010035&amp;sectionTitle=Get+Involved">
+<strong><span><em>Get Involved</em></span></strong>
+</a>
+
+
+<ul class="sub-nav">
+<li><a href="page.asp?section=0001000100350001&amp;sectionTitle=Clubs">Clubs</a></li><li><a href="landingpage.asp?section=0001000100350005&amp;sectionTitle=Be+Inspired+Too">Be Inspired Too</a></li><li><a href="page.asp?section=0001000100350002&amp;sectionTitle=Coaching">Coaching</a></li><li><a href="page.asp?section=0001000100350004&amp;sectionTitle=Topleader">Topleader</a></li><li><a href="page.asp?section=0001000100350003&amp;sectionTitle=Volunteering+In+Sport">Volunteers</a></li>
+</ul>		
+</li><li>
+<a href="page.asp?section=000100010039&amp;sectionTitle=Get+Support">
+<strong><span><em>Get Support</em></span></strong>
+</a>
+
+
+<ul class="sub-nav">
+<li><a href="page.asp?section=0001000100390003&amp;sectionTitle=Jobs">Jobs</a></li><li><a href="http://www.suffolksport.com/courses.asp?section=00010001003900010007&amp;sectionTitle=Courses">Courses</a></li><li><a href="http://www.suffolksport.com/coaches.asp?section=00010001003900010010&amp;sectionTitle=Find+a+Coach">Find a Coach</a></li><li><a href="page.asp?section=0001000100390002&amp;sectionTitle=Funding">Funding</a></li><li><a href="page.asp?section=0001000100390008&amp;sectionTitle=Promoting+Sport+In+Suffolk">Marketing</a></li><li><a href="page.asp?section=0001000100390010&amp;sectionTitle=Safeguarding+%26+Child+Protection">Safeguarding &amp; Child Protection</a></li><li><a href="landingpage.asp?section=0001000100390001&amp;sectionTitle=Find+It">Find It</a></li>
+</ul>		
+</li><li>
+<a href="page.asp?section=000100010040&amp;sectionTitle=Get+Active">
+<strong><span><em>Get Active</em></span></strong>
+</a>
+
+
+<ul class="sub-nav">
+<li><a href="http://www.suffolksport.com/activity_search.asp?section=00010001003900010006&amp;sectionTitle=Activity+Search">Club/Activity Search</a></li><li><a href="http://www.cyclesuffolk.org">Cycle Suffolk</a></li><li><a href="page.asp?section=0001000100400009&amp;sectionTitle=Active+Wellbeing">Health &amp; Wellbeing</a></li><li><a href="page.asp?section=0001000100400001&amp;sectionTitle=Welcome+to+Sportivate">Sportivate</a></li><li><a href="page.asp?section=0001000100400002&amp;sectionTitle=Get+your+workplace+active+in+2016">Workplace Challenge</a></li><li><a href="page.asp?section=0001000100400003&amp;sectionTitle=Fit+Villages">Fit Villages</a></li><li><a href="page.asp?section=0001000100400005&amp;sectionTitle=What+is+iCAN%3F">iCAN Disability Sport</a></li><li><a href="page.asp?section=0001000100400004&amp;sectionTitle=Most+Active+County">Most Active County</a></li><li><a href="landingpage.asp?section=0001000100400006&amp;sectionTitle=More">More</a></li>
+</ul>		
+</li><li>
+<a href="page.asp?section=000100010042&amp;sectionTitle=Discover+a+new+sport">
+<strong><span><em>Sports</em></span></strong>
+</a>
+
+
+<ul class="sub-nav">
+<li><a href="page.asp?section=0001000100420001&amp;sectionTitle=Angling">Angling</a></li><li><a href="page.asp?section=0001000100420002&amp;sectionTitle=Archery">Archery</a></li><li><a href="page.asp?section=0001000100420003&amp;sectionTitle=Athletics">Athletics</a></li><li><a href="page.asp?section=0001000100420004&amp;sectionTitle=Badminton">Badminton</a></li><li><a href="page.asp?section=0001000100420005&amp;sectionTitle=Billiards+and+Snooker">Billiards and Snooker</a></li><li><a href="page.asp?section=0001000100420051&amp;sectionTitle=Baseball+%26+Softball">Baseball &amp; Softball</a></li><li><a href="page.asp?section=0001000100420006&amp;sectionTitle=Basketball">Basketball</a></li><li><a href="page.asp?section=0001000100420007&amp;sectionTitle=Basketball+%28Wheelchair%29">Basketball (Wheelchair)</a></li><li><a href="page.asp?section=0001000100420008&amp;sectionTitle=Boccia">Boccia</a></li><li><a href="page.asp?section=0001000100420010&amp;sectionTitle=Bowls+Development+Alliance">Bowls</a></li><li><a href="page.asp?section=0001000100420009&amp;sectionTitle=Boxing">Boxing</a></li><li><a href="page.asp?section=0001000100420011&amp;sectionTitle=Canoeing">Canoeing</a></li><li><a href="page.asp?section=0001000100420012&amp;sectionTitle=Cricket">Cricket</a></li><li><a href="page.asp?section=0001000100420013&amp;sectionTitle=Clay+Pigeon+Shooting">Clay Pigeon Shooting</a></li><li><a href="page.asp?section=0001000100420014&amp;sectionTitle=Cycling">Cycling</a></li><li><a href="page.asp?section=0001000100420016&amp;sectionTitle=Equestrian+Sports">Equestrian Sports</a></li><li><a href="page.asp?section=0001000100420052&amp;sectionTitle=Exercise+Movement+%26+Dance">Exercise Movement &amp; Dance</a></li><li><a href="page.asp?section=0001000100420017&amp;sectionTitle=Fencing">Fencing</a></li><li><a href="page.asp?section=0001000100420018&amp;sectionTitle=Football">Football</a></li><li><a href="page.asp?section=0001000100420019&amp;sectionTitle=Goalball">Goalball</a></li><li><a href="page.asp?section=0001000100420020&amp;sectionTitle=Golf">Golf</a></li><li><a href="page.asp?section=0001000100420021&amp;sectionTitle=Gymnastics">Gymnastics</a></li><li><a href="page.asp?section=0001000100420022&amp;sectionTitle=Handball">Handball</a></li><li><a href="page.asp?section=0001000100420023&amp;sectionTitle=Hockey">Hockey</a></li><li><a href="page.asp?section=0001000100420024&amp;sectionTitle=Judo">Judo</a></li><li><a href="page.asp?section=0001000100420025&amp;sectionTitle=Lacrosse">Lacrosse</a></li><li><a href="page.asp?section=0001000100420026&amp;sectionTitle=Pentathlon">Pentathlon</a></li><li><a href="page.asp?section=0001000100420027&amp;sectionTitle=Mountaineering">Mountaineering</a></li><li><a href="page.asp?section=0001000100420028&amp;sectionTitle=Netball">Netball</a></li><li><a href="page.asp?section=0001000100420029&amp;sectionTitle=Orienteering">Orienteering</a></li><li><a href="page.asp?section=0001000100420030&amp;sectionTitle=Rounders">Rounders</a></li><li><a href="page.asp?section=0001000100420031&amp;sectionTitle=Rowing">Rowing</a></li><li><a href="page.asp?section=0001000100420032&amp;sectionTitle=Wheelchair+Rugby">Wheelchair Rugby</a></li><li><a href="page.asp?section=0001000100420033&amp;sectionTitle=Rugby+League">Rugby League</a></li><li><a href="page.asp?section=0001000100420034&amp;sectionTitle=Rugby+Union">Rugby Union</a></li><li><a href="page.asp?section=0001000100420035&amp;sectionTitle=Sailing+%26+Windsurfing">Sailing &amp; Windsurfing</a></li><li><a href="page.asp?section=0001000100420036&amp;sectionTitle=Scuba">Scuba</a></li><li><a href="page.asp?section=0001000100420037&amp;sectionTitle=Shooting">Shooting</a></li><li><a href="page.asp?section=0001000100420038&amp;sectionTitle=Snowsport">Snowsport</a></li><li><a href="page.asp?section=0001000100420053&amp;sectionTitle=Squash+%26+Racketball">Squash &amp; Racketball</a></li><li><a href="page.asp?section=0001000100420039&amp;sectionTitle=Stoolball">Stoolball</a></li><li><a href="page.asp?section=0001000100420040&amp;sectionTitle=Swimming">Swimming</a></li><li><a href="page.asp?section=0001000100420041&amp;sectionTitle=Table+Tennis">Table Tennis</a></li><li><a href="page.asp?section=0001000100420042&amp;sectionTitle=Taekwondo">Taekwondo</a></li><li><a href="page.asp?section=0001000100420043&amp;sectionTitle=Tchoukball">Tchoukball</a></li><li><a href="page.asp?section=0001000100420044&amp;sectionTitle=Tennis">Tennis</a></li><li><a href="page.asp?section=0001000100420045&amp;sectionTitle=Triathlon">Triathlon</a></li><li><a href="page.asp?section=0001000100420046&amp;sectionTitle=Volleyball">Volleyball</a></li><li><a href="page.asp?section=0001000100420055&amp;sectionTitle=Walking+Football">Walking Football</a></li><li><a href="page.asp?section=0001000100420054&amp;sectionTitle=Waterski+%26+Wakeboarding">Waterski &amp; Wakeboarding</a></li><li><a href="page.asp?section=0001000100420048&amp;sectionTitle=Weightlifting">Weightlifting</a></li><li><a href="page.asp?section=0001000100420049&amp;sectionTitle=Wrestling">Wrestling</a></li>
+</ul>		
+</li><li>
+<a href="http://www.suffolkschoolgames.com/">
+<strong><span><em>School Sport</em></span></strong>
+</a>
+
+
+
+
+		
+</li><li class='active' class='active'>
+<a href="news.asp?section=000100010005&amp;sectionTitle=News">
+<strong><span><em>News</em></span></strong>
+</a>
+
+
+<ul class="sub-nav">
+<li><a href="news_event_uploader.asp?section=0001000100050001&amp;sectionTitle=News+Uploader">News Uploader</a></li>
+</ul>		
+</li><li>
+<a href="events.asp?section=000100010004&amp;sectionTitle=Events">
+<strong><span><em>Events</em></span></strong>
+</a>
+
+
+<ul class="sub-nav">
+<li><a href="page.asp?section=0001000100040010&amp;sectionTitle=Suffolk+Sports+Awards+2015">Suffolk Sports Awards</a></li><li><a href="page.asp?section=0001000100040011&amp;sectionTitle=Suffolk+Sport+Village+2015">Suffolk Sport Village 2015</a></li><li><a href="page.asp?section=0001000100040008&amp;sectionTitle=Great+East+Swim">Great East Swim</a></li><li><a href="news_event_uploader.asp?section=0001000100040001&amp;sectionTitle=Event+Uploader">Event Uploader</a></li>
+</ul>		
+</li>			
+		</ul>
+		<div id="main">
+<!--
+<ul class="sub-nav">
+	<li><a href="news_event_uploader.asp?section=0001000100050001&amp;sectionTitle=News+Uploader">News Uploader</a></li>
+</ul>
+-->
+
+<ul class="breadcrumbs">
+	<li><a href="default.asp?section=00010001&amp;itemTitle=Home">Home</a></li><span class="hidden">&nbsp;</span><li><a href="news.asp?section=000100010005&amp;sectionTitle=News">News</a></li><span class="hidden">&nbsp;</span><li>February 2016</li>
+</ul><div class="fade_bar">
+	<span class="hidden">&nbsp;</span>
+	
+	<div class="clearboth"><!-- --></div>
+</div>
+<div class="heading">
+				<h1>Headlines</h1>
+				<div class="paging">
+					<a href="news.asp?section=000100010005&amp;monthinview=2016/02/01" class="prev-link">&lt; February 2016 Listing</a>
+					
+					&nbsp;<a href="news.asp?itemTitle=Hockey:+Level+1+Umpire+Course&amp;section=000100010005&amp;utm_source=twitterfeed&amp;utm_medium=twitter&amp;itemid=8259" class="next-link">Next Story &gt;</a>
+<span class="hidden">&nbsp;</span><a href="news.asp?itemTitle=Hockey:+Level+1+Umpire+Course&amp;section=000100010005&amp;utm_source=twitterfeed&amp;utm_medium=twitter&amp;itemid=8262" class="next-link">&lt; Previous Story</a><span class="hidden">&nbsp;</span>
+
+				</div>
+			</div>
+			<div id="two-columns">
+				<div id="content">
+					<div class="article">
+												
+										
+									<div class="item_image floatleft"><img class="floatleft" src="image-cache/image-4409-150-auto-scale-both-85-5.jpg" alt="England Hockey Logo" /></div>
+									<div class="article-content">
+										<div class="holder">
+											<em class="date">11.02.2016</em>
+											<h2>Hockey: Level 1 Umpire Course</h2>
+											<div class="addthis">
+												
+												<div class="addthis_toolbox addthis_default_style ">
+												<a class="addthis_button_preferred_1"></a>
+												<a class="addthis_button_preferred_2"></a>
+												<a class="addthis_button_preferred_3"></a>
+												<a class="addthis_button_preferred_4"></a>
+												<a class="addthis_button_compact"></a>
+												<a class="addthis_counter addthis_bubble_style"></a>
+												</div>
+												<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f8be83d19304110"></script>
+												
+											</div>
+											<div>We are pleased to announce that a Level 1 Umpire Course is being held at &nbsp;Framlingham Hockey Club on Sunday 3rd April. &nbsp;More details and to book can be found here &gt;&gt; http://englandhockey.co.uk/courses.asp?section=296&amp;sectionTitle=Find+a+Course (currently page 2).</div><div>&nbsp;</div><div>Places are first come first served and only secure when booked and paid for online. Minimum participants is 14.&nbsp;</div><div>&nbsp;</div><div>Details of the course are as follows:</div><div>&nbsp;</div><div>Date:&nbsp;Sunday 3rd April 2016&nbsp;</div><div>Time:&nbsp;9am-4:40pm</div><div>Venue:&nbsp;College Rd, Framlingham, Woodbridge IP13 9EY</div><div>Course Format:&nbsp;Option 2</div><div>&nbsp;</div><div>Please be advised bookings must be made in the name of the participant &#8211; bookings cannot be made on behalf of someone else. Guidance for those having trouble with the booking process is available at the link above.</div><div>&nbsp;</div><div>Before attending the course participants need to complete the online rules test via http://rules.englandhockey.co.uk/ (separate log in) and bring their certificate to the course.</div><div>&nbsp;</div><div>Please book early to avoid disappointment. &nbsp; &nbsp; &nbsp; &nbsp;</div><div>&nbsp;</div><div>Please send any queries to umpiring@englandhockey.co.uk&nbsp;</div><div><br /></div>
+											
+											
+
+										</div>
+										
+										<div class="facebook-comments">
+											<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=205942036111782&amp;xfbml=1"></script><fb:like href="http://www.suffolksport.com/news.asp?itemid=8257&itemTitle=Hockey:+Level+1+Umpire+Course&section=000100010005&utm_source=twitterfeed&utm_medium=twitter" send="true" width="450" show_faces="true" font=""></fb:like>
+											<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:comments href="http://www.suffolksport.com/news.asp?itemid=8257&itemTitle=Hockey:+Level+1+Umpire+Course&section=000100010005&utm_source=twitterfeed&utm_medium=twitter" num_posts="5" width="535"></fb:comments>
+										</div>
+									</div>
+					</div>
+				</div>
+				<div id="sidebar">
+					<div class="archive">
+						<ul class="year-list">
+				
+					<li class="active"><a href="news.asp?section=000100010005&monthinview=2016/01/01">2016</a></li>
+				
+					<li><a href="news.asp?section=000100010005&monthinview=2015/01/01">2015</a></li>
+				
+					<li><a href="news.asp?section=000100010005&monthinview=2014/01/01">2014</a></li>
+				
+					<li><a href="news.asp?section=000100010005&monthinview=2013/01/01">2013</a></li>
+				
+					<li><a href="news.asp?section=000100010005&monthinview=2012/01/01">2012</a></li>
+				
+					<li><a href="news.asp?section=000100010005&monthinview=2011/01/01">2011</a></li>
+				
+					<li><a href="news.asp?section=000100010005&monthinview=2010/01/01">2010</a></li>
+				
+					<li><a href="news.asp?section=000100010005&monthinview=2009/01/01">2009</a></li>
+				
+					<li><a href="news.asp?section=000100010005&monthinview=2008/01/01">2008</a></li>
+				
+			</ul>
+			<ul class="month-list">
+				
+						<li><a href="news.asp?section=000100010005&amp;monthinview=2016/1/01">January</a></li>
+						
+						<li class="active"><a href="news.asp?section=000100010005&amp;monthinview=2016/2/01">February</a></li>
+						
+						<li><a href="#">March</a></li>
+						
+						<li><a href="#">April</a></li>
+						
+						<li><a href="#">May</a></li>
+						
+						<li><a href="#">June</a></li>
+						
+						<li><a href="#">July</a></li>
+						
+						<li><a href="#">August</a></li>
+						
+						<li><a href="#">September</a></li>
+						
+						<li><a href="#">October</a></li>
+						
+						<li><a href="#">November</a></li>
+						
+						<li><a href="#">December</a></li>
+						
+			</ul>
+					</div>
+				</div>
+			</div>		</div>
+		
+        
+		<div id="footer">
+			<ul>
+				<li>
+					<address>Suffolk Sport</address>
+				</li>
+				<li><strong>T: 01394 444605</strong></li>
+				<li><strong>E: <a href="mailto:&#105;&#110;&#102;&#111;&#064;&#115;&#117;&#102;&#102;&#111;&#108;&#107;&#115;&#112;&#111;&#114;&#116;&#046;&#099;&#111;&#109;">&#105;&#110;&#102;&#111;&#064;&#115;&#117;&#102;&#102;&#111;&#108;&#107;&#115;&#112;&#111;&#114;&#116;&#046;&#099;&#111;&#109;</a></strong></li>
+				<!--
+				<li><a href="#" accesskey="8">Ts &amp; Cs</a></li>
+				<li><a href="#">Legals</a></li>
+				-->
+				<li><a href="page.asp?section=0001000100010007&amp;sectionTitle=Contact+Suffolk+Sport">Find Us</a></li><li><a href="page.asp?section=000100020002&amp;sectionTitle=Legals">Legals</a></li><li><a href="page.asp?section=000100020003&amp;sectionTitle=Accessibility">Accessibility</a></li><li><a href="sitemap.asp?section=000100020004&amp;sectionTitle=Sitemap">Sitemap</a></li><li><a href="rss.asp">RSS</a></li>
+			</ul>
+		</div>
+		
+        <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5659603-1");
+pageTracker._trackPageview();
+</script>
+		
+		<a class="skip" href="#header">Back to top</a>
+
+</div>
+	</body>
+</html>

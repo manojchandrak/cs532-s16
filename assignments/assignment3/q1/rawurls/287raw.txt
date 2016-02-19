@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <form method="POST" action="">
+	    <input type="hidden" name="url" value="http://www.dailystar.co.uk/news/latest-news/493773/Drive-by-killer-Spain-jaild?utm_campaign=Contact+SNS+For+More+Referrer&amp;utm_medium=twitter&amp;utm_source=snsanalytics" id="id_url" />
+	    <input type="hidden" name="urlHash" value="fXxzy5" id="id_urlHash" />
+	    <input type="hidden" name="username" value="2217017:0" id="id_username" />
+	    <input type="hidden" name="country" value="US" id="id_country" />
+	    <input type="hidden" name="referrer" id="id_referrer" />
+	    <input type="hidden" name="type" value="0" id="id_type" />
+        
+        
+	</form>
+	<!-- Form is submitted in iframe -->
+	<iframe name="track_iframe" style="display:none;" src="/fXxzy5?type=track_iframe&amp;utm_campaign=dailystar.co.uk+world&amp;utm_medium=614344514%40TheSpainNews&amp;utm_source=dailystar.co.uk&amp;utm_content=Countries+-+Europe"></iframe>
+</body>
+</html>

@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{a1}
+Tutorial to run Shell Commands in Python:.
+\newblock
+  http://unix.stackexchange.com/questions/238180/execute-shell-commands-in-python/.
+
+\bibitem{a2}
+Tutorial for Grep Command.
+\newblock https://en.wikipedia.org/wiki/Grepl:.
+
+\bibitem{a3}
+Using Grep command to retrieve find files matching keyword :.
+\newblock
+ http://stackoverflow.com/questions/4121803/how-can-i-use-grep-to-find-a-word-inside-a-folder.
+
+\bibitem{a4}
+To find Corpus size of Bing:.
+\newblock http://www.worldwidewebsize.com/l.
+
+\bibitem{a5}
+Web Service to find the page rank of a URI:.
+\newblock
+ http://www.seocentro.com/tools/search-engines/pagerank.html.
+
+\bibitem{a6}
+Seperating characters and digits from a string:.
+\newblock
+  http://stackoverflow.com/questions/1450897/python-removing-characters-except-digits-from-stringl.
+
+\end{thebibliography}

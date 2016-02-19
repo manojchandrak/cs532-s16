@@ -1,0 +1,769 @@
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://watchtoweronline.net/xmlrpc.php" />
+<title>WATCHTOWER &bull; Online Magazine on Viral / Bizarre / Weird / Crime Related News</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v3.0.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Online Magazine on Viral / Bizarre / Weird / Crime Related News"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://watchtoweronline.net" />
+<link rel="next" href="http://watchtoweronline.net/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="WATCHTOWER &bull; Online Magazine on Viral / Bizarre / Weird / Crime Related News" />
+<meta property="og:description" content="Online Magazine on Viral / Bizarre / Weird / Crime Related News" />
+<meta property="og:url" content="http://watchtoweronline.net" />
+<meta property="og:site_name" content="WATCHTOWER" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="Online Magazine on Viral / Bizarre / Weird / Crime Related News"/>
+<meta name="twitter:title" content="WATCHTOWER &bull; Online Magazine on Viral / Bizarre / Weird / Crime Related News"/>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/watchtoweronline.net\/","name":"WATCHTOWER","potentialAction":{"@type":"SearchAction","target":"http:\/\/watchtoweronline.net\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/watchtoweronline.net","sameAs":[],"name":"WATCHTOWER","logo":"http:\/\/watchtoweronline.net\/wp-content\/uploads\/2016\/02\/watchtower_512.png"}</script>
+<meta name="alexaVerifyID" content="K0Nxsc5cRbDrimgnUNkqgX0PSVQ" />
+<meta name="msvalidate.01" content="3A5C50702B4A9EC91517EE4E8CF37F26" />
+<meta name="google-site-verification" content="S96CHr6R7Y1-OmKcazOYSG_Xg8BS9D1FjAkWlAgC0p4" />
+<meta name="yandex-verification" content="56896e026c568cf7" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="WATCHTOWER &raquo; Feed" href="http://watchtoweronline.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="WATCHTOWER &raquo; Comments Feed" href="http://watchtoweronline.net/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/watchtoweronline.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='mediaelement-css'  href='http://watchtoweronline.net/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.18.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='http://watchtoweronline.net/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='colormag_google_fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C600&#038;ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='colormag_style-css'  href='http://watchtoweronline.net/wp-content/themes/colormag/style.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='colormag-fontawesome-css'  href='http://watchtoweronline.net/wp-content/themes/colormag/fontawesome/css/font-awesome.css?ver=4.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-lazyloadxt-spinner-css-css'  href='//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/css/jquery.lazyloadxt.spinner.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='a3a3_lazy_load-css'  href='//watchtoweronline.net/wp-content/uploads/sass/a3_lazy_load.min.css?ver=1.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://watchtoweronline.net/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://watchtoweronline.net/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://watchtoweronline.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://watchtoweronline.net/wp-content/themes/colormag/js/colormag-custom.js?ver=4.4.2'></script>
+<link rel='https://api.w.org/' href='http://watchtoweronline.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://watchtoweronline.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://watchtoweronline.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.2" />
+<link rel='shortlink' href='http://wp.me/6TUMt' />
+
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<style type='text/css'>img#wpstats{display:none}</style><link rel="shortcut icon" href="http://watchtoweronline.net/wp-content/uploads/2016/02/watchtower80.png" type="image/x-icon" /><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f24000; }
+</style>
+<link rel="icon" href="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/cropped-watchtower_512.png?fit=32%2C32" sizes="32x32" />
+<link rel="icon" href="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/cropped-watchtower_512.png?fit=192%2C192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/cropped-watchtower_512.png?fit=180%2C180" />
+<meta name="msapplication-TileImage" content="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/cropped-watchtower_512.png?fit=270%2C270" />
+</head>
+
+<body class="home blog custom-background  wide">
+<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header clearfix">
+		<div id="header-text-nav-container" class="clearfix">
+         
+			
+			<div class="inner-wrap">
+
+				<div id="header-text-nav-wrap" class="clearfix">
+					<div id="header-left-section">
+													<div id="header-logo-image">
+
+								<a href="http://watchtoweronline.net/" title="WATCHTOWER" rel="home"><img src="http://watchtoweronline.net/wp-content/uploads/2016/02/watchtower80.png" alt="WATCHTOWER"></a>
+							</div><!-- #header-logo-image -->
+												<div id="header-text" class="">
+                        							<h1 id="site-title">
+   								<a href="http://watchtoweronline.net/" title="WATCHTOWER" rel="home">WATCHTOWER</a>
+   							</h1>
+                     							                        <p id="site-description">Online Magazine on Viral / Bizarre / Weird / Crime Related News</p>
+                     <!-- #site-description -->
+						</div><!-- #header-text -->
+					</div><!-- #header-left-section -->
+					<div id="header-right-section">
+									    	</div><!-- #header-right-section -->
+
+			   </div><!-- #header-text-nav-wrap -->
+
+			</div><!-- .inner-wrap -->
+
+			
+			<nav id="site-navigation" class="main-navigation clearfix" role="navigation">
+				<div class="inner-wrap clearfix">
+					                  <div class="home-icon front_page_on">
+                     <a href="http://watchtoweronline.net/" title="WATCHTOWER"><i class="fa fa-home"></i></a>
+                  </div>
+                                 <h4 class="menu-toggle"></h4>
+               <div class="menu-primary-container"><ul id="menu-watchtower" class="menu"><li id="menu-item-17" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17"><a href="http://watchtoweronline.net/category/watchtower/">Watchtower</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10"><a href="http://watchtoweronline.net/category/bizarre/">Bizarre</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16"><a href="http://watchtoweronline.net/category/viral/">Viral</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a href="http://watchtoweronline.net/category/crime/">Crime</a></li>
+<li id="menu-item-7071" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7071"><a href="http://watchtoweronline.net/category/controversy/">Controversy</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12"><a href="http://watchtoweronline.net/category/gossip/">Gossip and Celebrity</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13"><a href="http://watchtoweronline.net/category/hot/">Hot and Sexy</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14"><a href="http://watchtoweronline.net/category/trending/">Trending</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="http://watchtoweronline.net/category/variety/">Variety</a></li>
+</ul></div>                                                <i class="fa fa-search search-top"></i>
+                  <div class="search-form-top">
+                     <form action="http://watchtoweronline.net/" class="search-form searchform clearfix" method="get">
+   <div class="search-wrap">
+      <input type="text" placeholder="Search" class="s field" name="s">
+      <button class="search-icon" type="submit"></button>
+   </div>
+</form><!-- .searchform -->                  </div>
+               				</div>
+			</nav>
+
+		</div><!-- #header-text-nav-container -->
+
+		
+	</header>
+			<div id="main" class="clearfix">
+		<div class="inner-wrap clearfix">
+   <div class="front-page-top-section clearfix">
+      <div class="widget_slider_area">
+         <section id="colormag_featured_posts_slider_widget-3" class="widget widget_featured_slider widget_featured_meta clearfix">               <div class="widget_slider_area_rotate">
+                     <div class="single-slide displayblock">
+               <figure class="slider-featured-image"><a href="http://watchtoweronline.net/at-least-18-people-dead-and-45-injured-after-car-bomb-explodes-in-turkish-capital/" title="At least 18 people dead and 45 injured after car bomb explodes in Turkish capital"><img width="800" height="445" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160218_001854.jpg?resize=800%2C445" class="lazy lazy-hidden attachment-colormag-featured-image size-colormag-featured-image wp-post-image" alt="At least 18 people dead and 45 injured after car bomb explodes in Turkish capital" title="At least 18 people dead and 45 injured after car bomb explodes in Turkish capital" srcset="" data-srcset="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160218_001854.jpg?resize=392%2C218 392w, http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160218_001854.jpg?w=800 800w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="445" src="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160218_001854.jpg?resize=800%2C445" class="attachment-colormag-featured-image size-colormag-featured-image wp-post-image" alt="At least 18 people dead and 45 injured after car bomb explodes in Turkish capital" title="At least 18 people dead and 45 injured after car bomb explodes in Turkish capital" srcset="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160218_001854.jpg?resize=392%2C218 392w, http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160218_001854.jpg?w=800 800w" sizes="(max-width: 800px) 100vw, 800px" /></noscript></a></figure>               <div class="slide-content">
+                  <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/just-in/" style="background:#93225a" rel="category tag">Just In</a>&nbsp;<a href="http://watchtoweronline.net/category/trending/" style="background:#dd0000" rel="category tag">Trending</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                  <h3 class="entry-title">
+                     <a href="http://watchtoweronline.net/at-least-18-people-dead-and-45-injured-after-car-bomb-explodes-in-turkish-capital/" title="At least 18 people dead and 45 injured after car bomb explodes in Turkish capital">At least 18 people dead and 45 injured after car bomb explodes in Turkish capital</a>
+                  </h3>
+                  <div class="below-entry-meta">
+                     <span class="posted-on"><a href="http://watchtoweronline.net/at-least-18-people-dead-and-45-injured-after-car-bomb-explodes-in-turkish-capital/" title="12:23 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T00:23:46+00:00">02/18/2016</time></a></span>                     <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                     <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/at-least-18-people-dead-and-45-injured-after-car-bomb-explodes-in-turkish-capital/#respond">0</a></span>
+                  </div>
+               </div>
+
+            </div>
+                     <div class="single-slide displaynone">
+               <figure class="slider-featured-image"><a href="http://watchtoweronline.net/isis-believed-stolen-highly-dangerous-radioactive-material-us-firm-iraq-make-dirty-bomb-breaking/" title="ISIS Believed To Have Stolen ‘Highly Dangerous’ Radioactive Material From US Firm In Iraq, Could Make ‘Dirty’ Bomb [Breaking]"><img width="800" height="445" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160217_235727.jpg?resize=800%2C445" class="lazy lazy-hidden attachment-colormag-featured-image size-colormag-featured-image wp-post-image" alt="ISIS Believed To Have Stolen ‘Highly Dangerous’ Radioactive Material From US Firm In Iraq, Could Make ‘Dirty’ Bomb [Breaking]" title="ISIS Believed To Have Stolen ‘Highly Dangerous’ Radioactive Material From US Firm In Iraq, Could Make ‘Dirty’ Bomb [Breaking]" srcset="" data-srcset="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160217_235727.jpg?resize=392%2C218 392w, http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160217_235727.jpg?w=800 800w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="445" src="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160217_235727.jpg?resize=800%2C445" class="attachment-colormag-featured-image size-colormag-featured-image wp-post-image" alt="ISIS Believed To Have Stolen ‘Highly Dangerous’ Radioactive Material From US Firm In Iraq, Could Make ‘Dirty’ Bomb [Breaking]" title="ISIS Believed To Have Stolen ‘Highly Dangerous’ Radioactive Material From US Firm In Iraq, Could Make ‘Dirty’ Bomb [Breaking]" srcset="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160217_235727.jpg?resize=392%2C218 392w, http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160217_235727.jpg?w=800 800w" sizes="(max-width: 800px) 100vw, 800px" /></noscript></a></figure>               <div class="slide-content">
+                  <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/trending/" style="background:#dd0000" rel="category tag">Trending</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                  <h3 class="entry-title">
+                     <a href="http://watchtoweronline.net/isis-believed-stolen-highly-dangerous-radioactive-material-us-firm-iraq-make-dirty-bomb-breaking/" title="ISIS Believed To Have Stolen ‘Highly Dangerous’ Radioactive Material From US Firm In Iraq, Could Make ‘Dirty’ Bomb [Breaking]">ISIS Believed To Have Stolen ‘Highly Dangerous’ Radioactive Material From US Firm In Iraq, Could Make ‘Dirty’ Bomb [Breaking]</a>
+                  </h3>
+                  <div class="below-entry-meta">
+                     <span class="posted-on"><a href="http://watchtoweronline.net/isis-believed-stolen-highly-dangerous-radioactive-material-us-firm-iraq-make-dirty-bomb-breaking/" title="12:00 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T00:00:28+00:00">02/18/2016</time></a></span>                     <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                     <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/isis-believed-stolen-highly-dangerous-radioactive-material-us-firm-iraq-make-dirty-bomb-breaking/#respond">0</a></span>
+                  </div>
+               </div>
+
+            </div>
+                     <div class="single-slide displaynone">
+               <figure class="slider-featured-image"><a href="http://watchtoweronline.net/sri-srinivasan-shortlisted-replace-supreme-courts-scalia-found-dead-pillow-head/" title="Sri Srinivasan Shortlisted To Replace Supreme Court’s Scalia Found Dead With Pillow Over His Head"><img width="800" height="445" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160217_000510.jpg?resize=800%2C445" class="lazy lazy-hidden attachment-colormag-featured-image size-colormag-featured-image wp-post-image" alt="Sri Srinivasan Shortlisted To Replace Supreme Court’s Scalia Found Dead With Pillow Over His Head" title="Sri Srinivasan Shortlisted To Replace Supreme Court’s Scalia Found Dead With Pillow Over His Head" srcset="" data-srcset="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160217_000510.jpg?resize=392%2C218 392w, http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160217_000510.jpg?w=800 800w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="445" src="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160217_000510.jpg?resize=800%2C445" class="attachment-colormag-featured-image size-colormag-featured-image wp-post-image" alt="Sri Srinivasan Shortlisted To Replace Supreme Court’s Scalia Found Dead With Pillow Over His Head" title="Sri Srinivasan Shortlisted To Replace Supreme Court’s Scalia Found Dead With Pillow Over His Head" srcset="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160217_000510.jpg?resize=392%2C218 392w, http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160217_000510.jpg?w=800 800w" sizes="(max-width: 800px) 100vw, 800px" /></noscript></a></figure>               <div class="slide-content">
+                  <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/trending/" style="background:#dd0000" rel="category tag">Trending</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                  <h3 class="entry-title">
+                     <a href="http://watchtoweronline.net/sri-srinivasan-shortlisted-replace-supreme-courts-scalia-found-dead-pillow-head/" title="Sri Srinivasan Shortlisted To Replace Supreme Court’s Scalia Found Dead With Pillow Over His Head">Sri Srinivasan Shortlisted To Replace Supreme Court’s Scalia Found Dead With Pillow Over His Head</a>
+                  </h3>
+                  <div class="below-entry-meta">
+                     <span class="posted-on"><a href="http://watchtoweronline.net/sri-srinivasan-shortlisted-replace-supreme-courts-scalia-found-dead-pillow-head/" title="12:07 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-17T00:07:55+00:00">02/17/2016</time></a></span>                     <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                     <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/sri-srinivasan-shortlisted-replace-supreme-courts-scalia-found-dead-pillow-head/#respond">0</a></span>
+                  </div>
+               </div>
+
+            </div>
+                     <div class="single-slide displaynone">
+               <figure class="slider-featured-image"><a href="http://watchtoweronline.net/grammy-winners-2016-full-list/" title="Grammy winners 2016: the full list"><img width="800" height="445" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160216_072047.jpg?resize=800%2C445" class="lazy lazy-hidden attachment-colormag-featured-image size-colormag-featured-image wp-post-image" alt="Grammy winners 2016: the full list" title="Grammy winners 2016: the full list" srcset="" data-srcset="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160216_072047.jpg?resize=392%2C218 392w, http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160216_072047.jpg?w=800 800w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="445" src="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160216_072047.jpg?resize=800%2C445" class="attachment-colormag-featured-image size-colormag-featured-image wp-post-image" alt="Grammy winners 2016: the full list" title="Grammy winners 2016: the full list" srcset="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160216_072047.jpg?resize=392%2C218 392w, http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160216_072047.jpg?w=800 800w" sizes="(max-width: 800px) 100vw, 800px" /></noscript></a></figure>               <div class="slide-content">
+                  <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/just-in/" style="background:#93225a" rel="category tag">Just In</a>&nbsp;<a href="http://watchtoweronline.net/category/trending/" style="background:#dd0000" rel="category tag">Trending</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                  <h3 class="entry-title">
+                     <a href="http://watchtoweronline.net/grammy-winners-2016-full-list/" title="Grammy winners 2016: the full list">Grammy winners 2016: the full list</a>
+                  </h3>
+                  <div class="below-entry-meta">
+                     <span class="posted-on"><a href="http://watchtoweronline.net/grammy-winners-2016-full-list/" title="7:22 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-16T07:22:22+00:00">02/16/2016</time></a></span>                     <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                     <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/grammy-winners-2016-full-list/#respond">0</a></span>
+                  </div>
+               </div>
+
+            </div>
+               </div>
+      </section>      </div>
+
+      <div class="widget_beside_slider">
+         <section id="colormag_highlighted_posts_widget-3" class="widget widget_highlighted_posts widget_featured_meta clearfix">      <div class="widget_highlighted_post_area">
+                           <div class="single-article">
+               <figure class="highlights-featured-image"><a href="http://watchtoweronline.net/kim-kardashian-just-revealed-she-uses-tons-of-tape-to-get-great-boobs/" title="Kim Kardashian Just Revealed She Uses Tons Of Tape To Get Great Boobs"><img width="392" height="272" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160218_005202.jpg?resize=392%2C272" class="lazy lazy-hidden attachment-colormag-highlighted-post size-colormag-highlighted-post wp-post-image" alt="Kim Kardashian Just Revealed She Uses Tons Of Tape To Get Great Boobs" title="Kim Kardashian Just Revealed She Uses Tons Of Tape To Get Great Boobs" /><noscript><img width="392" height="272" src="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160218_005202.jpg?resize=392%2C272" class="attachment-colormag-highlighted-post size-colormag-highlighted-post wp-post-image" alt="Kim Kardashian Just Revealed She Uses Tons Of Tape To Get Great Boobs" title="Kim Kardashian Just Revealed She Uses Tons Of Tape To Get Great Boobs" /></noscript></a></figure>               <div class="article-content">
+                  <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/gossip/" style="background:#afa103" rel="category tag">Gossip and Celebrity</a>&nbsp;<a href="http://watchtoweronline.net/category/hot/" style="background:#e900ff" rel="category tag">Hot and Sexy</a>&nbsp;</span></div>                  <h3 class="entry-title">
+                     <a href="http://watchtoweronline.net/kim-kardashian-just-revealed-she-uses-tons-of-tape-to-get-great-boobs/" title="Kim Kardashian Just Revealed She Uses Tons Of Tape To Get Great Boobs">Kim Kardashian Just Revealed She Uses Tons Of Tape To Get Great Boobs</a>
+                  </h3>
+                  <div class="below-entry-meta">
+                     <span class="posted-on"><a href="http://watchtoweronline.net/kim-kardashian-just-revealed-she-uses-tons-of-tape-to-get-great-boobs/" title="9:00 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T09:00:56+00:00">02/18/2016</time></a></span>                     <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                     <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/kim-kardashian-just-revealed-she-uses-tons-of-tape-to-get-great-boobs/#respond">0</a></span>
+                  </div>
+               </div>
+
+            </div>
+                     <div class="single-article">
+               <figure class="highlights-featured-image"><a href="http://watchtoweronline.net/kylie-jenner-richard-kern-wonderland-day/" title="Kylie Jenner for Richard Kern in Wonderland of the Day"><img width="392" height="272" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/KYLIE-769x1024-769x1024.jpg?resize=392%2C272" class="lazy lazy-hidden attachment-colormag-highlighted-post size-colormag-highlighted-post wp-post-image" alt="Kylie Jenner for Richard Kern in Wonderland of the Day" title="Kylie Jenner for Richard Kern in Wonderland of the Day" srcset="" data-srcset="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/KYLIE-769x1024-769x1024.jpg?resize=392%2C272 392w, http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/KYLIE-769x1024-769x1024.jpg?resize=130%2C90 130w" sizes="(max-width: 392px) 100vw, 392px" /><noscript><img width="392" height="272" src="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/KYLIE-769x1024-769x1024.jpg?resize=392%2C272" class="attachment-colormag-highlighted-post size-colormag-highlighted-post wp-post-image" alt="Kylie Jenner for Richard Kern in Wonderland of the Day" title="Kylie Jenner for Richard Kern in Wonderland of the Day" srcset="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/KYLIE-769x1024-769x1024.jpg?resize=392%2C272 392w, http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/KYLIE-769x1024-769x1024.jpg?resize=130%2C90 130w" sizes="(max-width: 392px) 100vw, 392px" /></noscript></a></figure>               <div class="article-content">
+                  <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/hot/" style="background:#e900ff" rel="category tag">Hot and Sexy</a>&nbsp;</span></div>                  <h3 class="entry-title">
+                     <a href="http://watchtoweronline.net/kylie-jenner-richard-kern-wonderland-day/" title="Kylie Jenner for Richard Kern in Wonderland of the Day">Kylie Jenner for Richard Kern in Wonderland of the Day</a>
+                  </h3>
+                  <div class="below-entry-meta">
+                     <span class="posted-on"><a href="http://watchtoweronline.net/kylie-jenner-richard-kern-wonderland-day/" title="2:00 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T02:00:48+00:00">02/18/2016</time></a></span>                     <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                     <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/kylie-jenner-richard-kern-wonderland-day/#respond">0</a></span>
+                  </div>
+               </div>
+
+            </div>
+                     <div class="single-article">
+               <figure class="highlights-featured-image"><a href="http://watchtoweronline.net/kendall-jenner-vs-twinks-day/" title="Kendall Jenner VS Twinks of the Day"><img width="392" height="272" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Kendall-Jenner-1.jpg?resize=392%2C272" class="lazy lazy-hidden attachment-colormag-highlighted-post size-colormag-highlighted-post wp-post-image" alt="Kendall Jenner VS Twinks of the Day" title="Kendall Jenner VS Twinks of the Day" srcset="" data-srcset="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Kendall-Jenner-1.jpg?resize=392%2C272 392w, http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Kendall-Jenner-1.jpg?resize=130%2C90 130w" sizes="(max-width: 392px) 100vw, 392px" /><noscript><img width="392" height="272" src="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Kendall-Jenner-1.jpg?resize=392%2C272" class="attachment-colormag-highlighted-post size-colormag-highlighted-post wp-post-image" alt="Kendall Jenner VS Twinks of the Day" title="Kendall Jenner VS Twinks of the Day" srcset="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Kendall-Jenner-1.jpg?resize=392%2C272 392w, http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Kendall-Jenner-1.jpg?resize=130%2C90 130w" sizes="(max-width: 392px) 100vw, 392px" /></noscript></a></figure>               <div class="article-content">
+                  <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/hot/" style="background:#e900ff" rel="category tag">Hot and Sexy</a>&nbsp;</span></div>                  <h3 class="entry-title">
+                     <a href="http://watchtoweronline.net/kendall-jenner-vs-twinks-day/" title="Kendall Jenner VS Twinks of the Day">Kendall Jenner VS Twinks of the Day</a>
+                  </h3>
+                  <div class="below-entry-meta">
+                     <span class="posted-on"><a href="http://watchtoweronline.net/kendall-jenner-vs-twinks-day/" title="1:26 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T01:26:42+00:00">02/18/2016</time></a></span>                     <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                     <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/kendall-jenner-vs-twinks-day/#respond">0</a></span>
+                  </div>
+               </div>
+
+            </div>
+                     <div class="single-article">
+               <figure class="highlights-featured-image"><a href="http://watchtoweronline.net/leann-rimes-tight-tush-tuesday-day/" title="LeAnn Rimes and Her Tight Tush Tuesday of the Day"><img width="392" height="272" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Leann-rimes.jpg?resize=392%2C272" class="lazy lazy-hidden attachment-colormag-highlighted-post size-colormag-highlighted-post wp-post-image" alt="LeAnn Rimes and Her Tight Tush Tuesday of the Day" title="LeAnn Rimes and Her Tight Tush Tuesday of the Day" srcset="" data-srcset="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Leann-rimes.jpg?resize=392%2C272 392w, http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Leann-rimes.jpg?resize=130%2C90 130w, http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Leann-rimes.jpg?resize=640%2C445 640w" sizes="(max-width: 392px) 100vw, 392px" /><noscript><img width="392" height="272" src="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Leann-rimes.jpg?resize=392%2C272" class="attachment-colormag-highlighted-post size-colormag-highlighted-post wp-post-image" alt="LeAnn Rimes and Her Tight Tush Tuesday of the Day" title="LeAnn Rimes and Her Tight Tush Tuesday of the Day" srcset="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Leann-rimes.jpg?resize=392%2C272 392w, http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Leann-rimes.jpg?resize=130%2C90 130w, http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Leann-rimes.jpg?resize=640%2C445 640w" sizes="(max-width: 392px) 100vw, 392px" /></noscript></a></figure>               <div class="article-content">
+                  <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/hot/" style="background:#e900ff" rel="category tag">Hot and Sexy</a>&nbsp;</span></div>                  <h3 class="entry-title">
+                     <a href="http://watchtoweronline.net/leann-rimes-tight-tush-tuesday-day/" title="LeAnn Rimes and Her Tight Tush Tuesday of the Day">LeAnn Rimes and Her Tight Tush Tuesday of the Day</a>
+                  </h3>
+                  <div class="below-entry-meta">
+                     <span class="posted-on"><a href="http://watchtoweronline.net/leann-rimes-tight-tush-tuesday-day/" title="12:44 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T00:44:28+00:00">02/18/2016</time></a></span>                     <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                     <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/leann-rimes-tight-tush-tuesday-day/#respond">0</a></span>
+                  </div>
+               </div>
+
+            </div>
+               </div>
+      </section>      </div>
+   </div>
+   <div class="main-content-section clearfix">
+      <div id="primary">
+         <div id="content" class="clearfix">
+
+         <section id="colormag_featured_posts_widget-3" class="widget widget_featured_posts widget_featured_meta clearfix">      <h3 class="widget-title" style="border-bottom-color:#7226ff;"><span style="background-color:#7226ff;">WATCHTOWER: Viral / Bizarre / Crime and Controversial News </span></h3>                                 <div class="first-post">               <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/restaurant-workers-notice-blood-trail-leading-bathroom-discover-umbilical-cord-hanging-toilet-race-time-begins/" title="Restaurant Workers Notice a Blood Trail Leading to Bathroom and Discover Umbilical Cord Hanging From Toilet — and a Race Against Time Begins"><img width="390" height="205" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/abandoned-newborn-5-e1455733067911.jpg?resize=390%2C205" class="lazy lazy-hidden attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" alt="Restaurant Workers Notice a Blood Trail Leading to Bathroom and Discover Umbilical Cord Hanging From Toilet — and a Race Against Time Begins" title="Restaurant Workers Notice a Blood Trail Leading to Bathroom and Discover Umbilical Cord Hanging From Toilet — and a Race Against Time Begins" /><noscript><img width="390" height="205" src="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/abandoned-newborn-5-e1455733067911.jpg?resize=390%2C205" class="attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" alt="Restaurant Workers Notice a Blood Trail Leading to Bathroom and Discover Umbilical Cord Hanging From Toilet — and a Race Against Time Begins" title="Restaurant Workers Notice a Blood Trail Leading to Bathroom and Discover Umbilical Cord Hanging From Toilet — and a Race Against Time Begins" /></noscript></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/bizarre/" style="background:#7100e2" rel="category tag">Bizarre</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/restaurant-workers-notice-blood-trail-leading-bathroom-discover-umbilical-cord-hanging-toilet-race-time-begins/" title="Restaurant Workers Notice a Blood Trail Leading to Bathroom and Discover Umbilical Cord Hanging From Toilet — and a Race Against Time Begins">Restaurant Workers Notice a Blood Trail Leading to Bathroom and Discover Umbilical Cord Hanging From Toilet — and a Race Against Time Begins</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/restaurant-workers-notice-blood-trail-leading-bathroom-discover-umbilical-cord-hanging-toilet-race-time-begins/" title="9:32 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T09:32:02+00:00">02/18/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/restaurant-workers-notice-blood-trail-leading-bathroom-discover-umbilical-cord-hanging-toilet-race-time-begins/#respond">0</a></span>
+                     </div>
+                                          <div class="entry-content">
+                        <p>After a woman entered the bathroom of a Southern California Subway restaurant Monday morning, customers and workers realized things weren’t</p>
+                     </div>
+                                       </div>
+
+               </div>
+            </div>                                 <div class="following-post">               <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/aliens-are-armed-and-dangerous-incredible-nasa-photo-reveals-gun-on-mars/" title="Aliens are armed and dangerous – incredible NASA photo reveals GUN on Mars"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Aliens are armed and dangerous – incredible NASA photo reveals GUN on Mars" title="Aliens are armed and dangerous – incredible NASA photo reveals GUN on Mars" sizes="(max-width: 130px) 100vw, 130px" data-src="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/56c45b0cf0897_Marsgun1.jpg?resize=130%2C90" data-lazy-type="image" data-srcset="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/56c45b0cf0897_Marsgun1.jpg?resize=392%2C272 392w, http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/56c45b0cf0897_Marsgun1.jpg?resize=130%2C90 130w" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/controversy/"  rel="category tag">Controversy</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/aliens-are-armed-and-dangerous-incredible-nasa-photo-reveals-gun-on-mars/" title="Aliens are armed and dangerous – incredible NASA photo reveals GUN on Mars">Aliens are armed and dangerous – incredible NASA photo reveals GUN on Mars</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/aliens-are-armed-and-dangerous-incredible-nasa-photo-reveals-gun-on-mars/" title="8:43 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T08:43:16+00:00">02/18/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/aliens-are-armed-and-dangerous-incredible-nasa-photo-reveals-gun-on-mars/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                                                            <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/deadly-snake-becomes-dinner-for-a-mongoose-after-rodent-sneaks-up-on-it-in-tree/" title="Deadly snake becomes dinner for a mongoose after rodent sneaks up on it in tree"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Deadly snake becomes dinner for a mongoose after rodent sneaks up on it in tree" title="Deadly snake becomes dinner for a mongoose after rodent sneaks up on it in tree" sizes="(max-width: 130px) 100vw, 130px" data-src="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160218_003727-e1455736101843-1.jpg?resize=130%2C90" data-lazy-type="image" data-srcset="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160218_003727-e1455736101843-1.jpg?resize=392%2C272 392w, http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160218_003727-e1455736101843-1.jpg?resize=130%2C90 130w" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/bizarre/" style="background:#7100e2" rel="category tag">Bizarre</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/deadly-snake-becomes-dinner-for-a-mongoose-after-rodent-sneaks-up-on-it-in-tree/" title="Deadly snake becomes dinner for a mongoose after rodent sneaks up on it in tree">Deadly snake becomes dinner for a mongoose after rodent sneaks up on it in tree</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/deadly-snake-becomes-dinner-for-a-mongoose-after-rodent-sneaks-up-on-it-in-tree/" title="7:36 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T07:36:12+00:00">02/18/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/deadly-snake-becomes-dinner-for-a-mongoose-after-rodent-sneaks-up-on-it-in-tree/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                                                            <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/what-are-these-mysterious-alien-beams-ufo-investigator-shave-been-called-in-to-probe/" title="What are these mysterious &#8216;alien&#8217; beams UFO investigator shave been called in to probe?"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="What are these mysterious &#8216;alien&#8217; beams UFO investigator shave been called in to probe?" title="What are these mysterious &#8216;alien&#8217; beams UFO investigator shave been called in to probe?" sizes="(max-width: 130px) 100vw, 130px" data-src="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Red-Beam-644959.jpg?resize=130%2C90" data-lazy-type="image" data-srcset="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Red-Beam-644959.jpg?resize=392%2C272 392w, http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Red-Beam-644959.jpg?resize=130%2C90 130w" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/controversy/"  rel="category tag">Controversy</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/what-are-these-mysterious-alien-beams-ufo-investigator-shave-been-called-in-to-probe/" title="What are these mysterious &#8216;alien&#8217; beams UFO investigator shave been called in to probe?">What are these mysterious &#8216;alien&#8217; beams UFO investigator shave been called in to probe?</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/what-are-these-mysterious-alien-beams-ufo-investigator-shave-been-called-in-to-probe/" title="6:28 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T06:28:15+00:00">02/18/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/what-are-these-mysterious-alien-beams-ufo-investigator-shave-been-called-in-to-probe/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                     </div>      <!-- </div> -->
+      </section>            <div class="tg-one-half">
+               <section id="colormag_featured_posts_vertical_widget-3" class="widget widget_featured_posts widget_featured_posts_vertical widget_featured_meta clearfix">      <h3 class="widget-title" style="border-bottom-color:#59d600;"><span style="background-color:#59d600;">Viral News</span></h3>                                 <div class="first-post">               <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/dad-accidentally-puts-dick-pic-snapchat-story-traumatizes-daughter/" title="Dad Accidentally Puts Dick Pic On Snapchat Story, Traumatizes Daughter"><img width="390" height="205" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" alt="Dad Accidentally Puts Dick Pic On Snapchat Story, Traumatizes Daughter" title="Dad Accidentally Puts Dick Pic On Snapchat Story, Traumatizes Daughter" data-src="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/dad-puts-dick-pic-on-snapchat-by-accident1.jpg?resize=390%2C205" data-lazy-type="image" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/viral/" style="background:#59d600" rel="category tag">Viral</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/dad-accidentally-puts-dick-pic-snapchat-story-traumatizes-daughter/" title="Dad Accidentally Puts Dick Pic On Snapchat Story, Traumatizes Daughter">Dad Accidentally Puts Dick Pic On Snapchat Story, Traumatizes Daughter</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/dad-accidentally-puts-dick-pic-snapchat-story-traumatizes-daughter/" title="4:47 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T04:47:26+00:00">02/18/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/dad-accidentally-puts-dick-pic-snapchat-story-traumatizes-daughter/#respond">0</a></span>
+                     </div>
+                                          <div class="entry-content">
+                        <p>If you don&#8217;t exactly have a handle on an app it&#8217;s probably best you steer clear of sending dick pics</p>
+                     </div>
+                                       </div>
+
+               </div>
+            </div>                                 <div class="following-post">               <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/video-teenage-girl-beating-boy-goes-viral-video/" title="Video Of Teenage Girl Beating Boy Up Goes Viral (Video)"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Video Of Teenage Girl Beating Boy Up Goes Viral (Video)" title="Video Of Teenage Girl Beating Boy Up Goes Viral (Video)" data-src="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/fight.png?resize=130%2C90" data-lazy-type="image" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/viral/" style="background:#59d600" rel="category tag">Viral</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/video-teenage-girl-beating-boy-goes-viral-video/" title="Video Of Teenage Girl Beating Boy Up Goes Viral (Video)">Video Of Teenage Girl Beating Boy Up Goes Viral (Video)</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/video-teenage-girl-beating-boy-goes-viral-video/" title="3:36 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T03:36:44+00:00">02/18/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/video-teenage-girl-beating-boy-goes-viral-video/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                                                            <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/dramatic-dashcam-video-captures-mans-harrowing-drive-tornado/" title="Dramatic Dashcam Video Captures Man’s Harrowing Drive Through a Tornado"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Dramatic Dashcam Video Captures Man’s Harrowing Drive Through a Tornado" title="Dramatic Dashcam Video Captures Man’s Harrowing Drive Through a Tornado" sizes="(max-width: 130px) 100vw, 130px" data-src="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Tornado-.jpg?resize=130%2C90" data-lazy-type="image" data-srcset="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Tornado-.jpg?resize=392%2C272 392w, http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Tornado-.jpg?resize=130%2C90 130w" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/viral/" style="background:#59d600" rel="category tag">Viral</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/dramatic-dashcam-video-captures-mans-harrowing-drive-tornado/" title="Dramatic Dashcam Video Captures Man’s Harrowing Drive Through a Tornado">Dramatic Dashcam Video Captures Man’s Harrowing Drive Through a Tornado</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/dramatic-dashcam-video-captures-mans-harrowing-drive-tornado/" title="11:14 PM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-17T23:14:44+00:00">02/17/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/dramatic-dashcam-video-captures-mans-harrowing-drive-tornado/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                                                            <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/woman-wakes-surgery-completely-stunned-doesnt-see-removes-bandages/" title="Woman Wakes Up From Surgery and Is Completely Stunned by What She Doesn’t See When She Removes Bandages"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Woman Wakes Up From Surgery and Is Completely Stunned by What She Doesn’t See When She Removes Bandages" title="Woman Wakes Up From Surgery and Is Completely Stunned by What She Doesn’t See When She Removes Bandages" sizes="(max-width: 130px) 100vw, 130px" data-src="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/nowzardan-620x361.png?resize=130%2C90" data-lazy-type="image" data-srcset="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/nowzardan-620x361.png?resize=392%2C272 392w, http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/nowzardan-620x361.png?resize=130%2C90 130w" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/viral/" style="background:#59d600" rel="category tag">Viral</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/woman-wakes-surgery-completely-stunned-doesnt-see-removes-bandages/" title="Woman Wakes Up From Surgery and Is Completely Stunned by What She Doesn’t See When She Removes Bandages">Woman Wakes Up From Surgery and Is Completely Stunned by What She Doesn’t See When She Removes Bandages</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/woman-wakes-surgery-completely-stunned-doesnt-see-removes-bandages/" title="10:08 PM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-17T22:08:47+00:00">02/17/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/woman-wakes-surgery-completely-stunned-doesnt-see-removes-bandages/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                     </div>      </section><section id="colormag_featured_posts_vertical_widget-4" class="widget widget_featured_posts widget_featured_posts_vertical widget_featured_meta clearfix">      <h3 class="widget-title" style="border-bottom-color:#931f3e;"><span style="background-color:#931f3e;">Crime Related News</span></h3>                                 <div class="first-post">               <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/man-shot-killed-police-viciously-attacked-wife-three-kids/" title="Man Shot And Killed By Police After He Viciously Attacked His Wife And Three Kids"><img width="390" height="205" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" alt="Man Shot And Killed By Police After He Viciously Attacked His Wife And Three Kids" title="Man Shot And Killed By Police After He Viciously Attacked His Wife And Three Kids" data-src="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Crime-Scene.jpg?resize=390%2C205" data-lazy-type="image" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/crime/" style="background:#931f3e" rel="category tag">Crime</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/man-shot-killed-police-viciously-attacked-wife-three-kids/" title="Man Shot And Killed By Police After He Viciously Attacked His Wife And Three Kids">Man Shot And Killed By Police After He Viciously Attacked His Wife And Three Kids</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/man-shot-killed-police-viciously-attacked-wife-three-kids/" title="10:30 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-17T10:30:49+00:00">02/17/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/man-shot-killed-police-viciously-attacked-wife-three-kids/#respond">0</a></span>
+                     </div>
+                                          <div class="entry-content">
+                        <p>&nbsp; On Tuesday morning police officers were forced to shoot and kill a Connecticut man after he viciously attacked his</p>
+                     </div>
+                                       </div>
+
+               </div>
+            </div>                                 <div class="following-post">               <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/armed-robber-gets-arm-ripped-off-theft-attempt-goes-wrong-video/" title="Armed Robber Gets Arm Ripped Off After Theft Attempt Goes Wrong (VIDEO)"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Armed Robber Gets Arm Ripped Off After Theft Attempt Goes Wrong (VIDEO)" title="Armed Robber Gets Arm Ripped Off After Theft Attempt Goes Wrong (VIDEO)" sizes="(max-width: 130px) 100vw, 130px" data-src="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Teen-Robber-Gets-Arm-Ripped-Off-During-Botched-Crime.jpg?resize=130%2C90" data-lazy-type="image" data-srcset="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Teen-Robber-Gets-Arm-Ripped-Off-During-Botched-Crime.jpg?resize=392%2C272 392w, http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Teen-Robber-Gets-Arm-Ripped-Off-During-Botched-Crime.jpg?resize=130%2C90 130w" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/crime/" style="background:#931f3e" rel="category tag">Crime</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/armed-robber-gets-arm-ripped-off-theft-attempt-goes-wrong-video/" title="Armed Robber Gets Arm Ripped Off After Theft Attempt Goes Wrong (VIDEO)">Armed Robber Gets Arm Ripped Off After Theft Attempt Goes Wrong (VIDEO)</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/armed-robber-gets-arm-ripped-off-theft-attempt-goes-wrong-video/" title="3:16 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-14T03:16:56+00:00">02/14/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/armed-robber-gets-arm-ripped-off-theft-attempt-goes-wrong-video/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                                                            <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/new-mexico-judge-rules-teenager-murdered-five-family-members-will-tried-juvenile/" title="New Mexico Judge Rules Teenager Who Murdered Five Family Members Will Be Tried As A Juvenile"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="New Mexico Judge Rules Teenager Who Murdered Five Family Members Will Be Tried As A Juvenile" title="New Mexico Judge Rules Teenager Who Murdered Five Family Members Will Be Tried As A Juvenile" data-src="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/AlbuquerqueHomeWhereMurdersCarriedOut.jpg?resize=130%2C90" data-lazy-type="image" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/crime/" style="background:#931f3e" rel="category tag">Crime</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/new-mexico-judge-rules-teenager-murdered-five-family-members-will-tried-juvenile/" title="New Mexico Judge Rules Teenager Who Murdered Five Family Members Will Be Tried As A Juvenile">New Mexico Judge Rules Teenager Who Murdered Five Family Members Will Be Tried As A Juvenile</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/new-mexico-judge-rules-teenager-murdered-five-family-members-will-tried-juvenile/" title="10:33 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-13T10:33:35+00:00">02/13/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/new-mexico-judge-rules-teenager-murdered-five-family-members-will-tried-juvenile/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                                                            <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/schoolteacher-irene-garza-gets-justice-56-years-raped-killed-priest/" title="Schoolteacher Irene Garza Gets Justice, 56 Years After Being Raped, Killed By Her Priest"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Schoolteacher Irene Garza Gets Justice, 56 Years After Being Raped, Killed By Her Priest" title="Schoolteacher Irene Garza Gets Justice, 56 Years After Being Raped, Killed By Her Priest" sizes="(max-width: 130px) 100vw, 130px" data-src="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Irene-Garza.jpg?resize=130%2C90" data-lazy-type="image" data-srcset="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Irene-Garza.jpg?resize=392%2C272 392w, http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Irene-Garza.jpg?resize=130%2C90 130w" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/crime/" style="background:#931f3e" rel="category tag">Crime</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/schoolteacher-irene-garza-gets-justice-56-years-raped-killed-priest/" title="Schoolteacher Irene Garza Gets Justice, 56 Years After Being Raped, Killed By Her Priest">Schoolteacher Irene Garza Gets Justice, 56 Years After Being Raped, Killed By Her Priest</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/schoolteacher-irene-garza-gets-justice-56-years-raped-killed-priest/" title="12:47 PM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-12T12:47:43+00:00">02/12/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/schoolteacher-irene-garza-gets-justice-56-years-raped-killed-priest/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                     </div>      </section>            </div>
+            <div class="tg-one-half tg-one-half-last">
+               <section id="colormag_featured_posts_vertical_widget-5" class="widget widget_featured_posts widget_featured_posts_vertical widget_featured_meta clearfix">      <h3 class="widget-title" style="border-bottom-color:#7100e2;"><span style="background-color:#7100e2;">Bizarre News</span></h3>                                 <div class="first-post">               <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/restaurant-workers-notice-blood-trail-leading-bathroom-discover-umbilical-cord-hanging-toilet-race-time-begins/" title="Restaurant Workers Notice a Blood Trail Leading to Bathroom and Discover Umbilical Cord Hanging From Toilet — and a Race Against Time Begins"><img width="390" height="205" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" alt="Restaurant Workers Notice a Blood Trail Leading to Bathroom and Discover Umbilical Cord Hanging From Toilet — and a Race Against Time Begins" title="Restaurant Workers Notice a Blood Trail Leading to Bathroom and Discover Umbilical Cord Hanging From Toilet — and a Race Against Time Begins" data-src="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/abandoned-newborn-5-e1455733067911.jpg?resize=390%2C205" data-lazy-type="image" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/bizarre/" style="background:#7100e2" rel="category tag">Bizarre</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/restaurant-workers-notice-blood-trail-leading-bathroom-discover-umbilical-cord-hanging-toilet-race-time-begins/" title="Restaurant Workers Notice a Blood Trail Leading to Bathroom and Discover Umbilical Cord Hanging From Toilet — and a Race Against Time Begins">Restaurant Workers Notice a Blood Trail Leading to Bathroom and Discover Umbilical Cord Hanging From Toilet — and a Race Against Time Begins</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/restaurant-workers-notice-blood-trail-leading-bathroom-discover-umbilical-cord-hanging-toilet-race-time-begins/" title="9:32 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T09:32:02+00:00">02/18/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/restaurant-workers-notice-blood-trail-leading-bathroom-discover-umbilical-cord-hanging-toilet-race-time-begins/#respond">0</a></span>
+                     </div>
+                                          <div class="entry-content">
+                        <p>After a woman entered the bathroom of a Southern California Subway restaurant Monday morning, customers and workers realized things weren’t</p>
+                     </div>
+                                       </div>
+
+               </div>
+            </div>                                 <div class="following-post">               <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/deadly-snake-becomes-dinner-for-a-mongoose-after-rodent-sneaks-up-on-it-in-tree/" title="Deadly snake becomes dinner for a mongoose after rodent sneaks up on it in tree"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Deadly snake becomes dinner for a mongoose after rodent sneaks up on it in tree" title="Deadly snake becomes dinner for a mongoose after rodent sneaks up on it in tree" sizes="(max-width: 130px) 100vw, 130px" data-src="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160218_003727-e1455736101843-1.jpg?resize=130%2C90" data-lazy-type="image" data-srcset="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160218_003727-e1455736101843-1.jpg?resize=392%2C272 392w, http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160218_003727-e1455736101843-1.jpg?resize=130%2C90 130w" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/bizarre/" style="background:#7100e2" rel="category tag">Bizarre</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/deadly-snake-becomes-dinner-for-a-mongoose-after-rodent-sneaks-up-on-it-in-tree/" title="Deadly snake becomes dinner for a mongoose after rodent sneaks up on it in tree">Deadly snake becomes dinner for a mongoose after rodent sneaks up on it in tree</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/deadly-snake-becomes-dinner-for-a-mongoose-after-rodent-sneaks-up-on-it-in-tree/" title="7:36 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T07:36:12+00:00">02/18/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/deadly-snake-becomes-dinner-for-a-mongoose-after-rodent-sneaks-up-on-it-in-tree/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                                                            <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/veterinarian-gets-cage-dog-something-shocking-video/" title="Veterinarian Gets In Cage With Dog, Does Something Shocking (Video)"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Veterinarian Gets In Cage With Dog, Does Something Shocking (Video)" title="Veterinarian Gets In Cage With Dog, Does Something Shocking (Video)" data-src="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/graycie1.jpg?resize=130%2C90" data-lazy-type="image" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/bizarre/" style="background:#7100e2" rel="category tag">Bizarre</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/veterinarian-gets-cage-dog-something-shocking-video/" title="Veterinarian Gets In Cage With Dog, Does Something Shocking (Video)">Veterinarian Gets In Cage With Dog, Does Something Shocking (Video)</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/veterinarian-gets-cage-dog-something-shocking-video/" title="2:33 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T02:33:19+00:00">02/18/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/veterinarian-gets-cage-dog-something-shocking-video/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                                                            <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/man-pleads-guilty-raping-18-month-old-motel-recording-video-horrendous-act/" title="Man Pleads Guilty To Raping 18-Month-Old In Motel, Recording Video Of Horrendous Act"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Man Pleads Guilty To Raping 18-Month-Old In Motel, Recording Video Of Horrendous Act" title="Man Pleads Guilty To Raping 18-Month-Old In Motel, Recording Video Of Horrendous Act" data-src="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/masters1.jpg?resize=130%2C90" data-lazy-type="image" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/bizarre/" style="background:#7100e2" rel="category tag">Bizarre</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/man-pleads-guilty-raping-18-month-old-motel-recording-video-horrendous-act/" title="Man Pleads Guilty To Raping 18-Month-Old In Motel, Recording Video Of Horrendous Act">Man Pleads Guilty To Raping 18-Month-Old In Motel, Recording Video Of Horrendous Act</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/man-pleads-guilty-raping-18-month-old-motel-recording-video-horrendous-act/" title="4:07 PM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-17T16:07:37+00:00">02/17/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/man-pleads-guilty-raping-18-month-old-motel-recording-video-horrendous-act/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                     </div>      </section><section id="colormag_featured_posts_vertical_widget-6" class="widget widget_featured_posts widget_featured_posts_vertical widget_featured_meta clearfix">      <h3 class="widget-title" style="border-bottom-color:;"><span style="background-color:;">Controversial News</span></h3>                                 <div class="first-post">               <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/aliens-are-armed-and-dangerous-incredible-nasa-photo-reveals-gun-on-mars/" title="Aliens are armed and dangerous – incredible NASA photo reveals GUN on Mars"><img width="390" height="205" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" alt="Aliens are armed and dangerous – incredible NASA photo reveals GUN on Mars" title="Aliens are armed and dangerous – incredible NASA photo reveals GUN on Mars" data-src="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/56c45b0cf0897_Marsgun1.jpg?resize=390%2C205" data-lazy-type="image" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/controversy/"  rel="category tag">Controversy</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/aliens-are-armed-and-dangerous-incredible-nasa-photo-reveals-gun-on-mars/" title="Aliens are armed and dangerous – incredible NASA photo reveals GUN on Mars">Aliens are armed and dangerous – incredible NASA photo reveals GUN on Mars</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/aliens-are-armed-and-dangerous-incredible-nasa-photo-reveals-gun-on-mars/" title="8:43 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T08:43:16+00:00">02/18/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/aliens-are-armed-and-dangerous-incredible-nasa-photo-reveals-gun-on-mars/#respond">0</a></span>
+                     </div>
+                                          <div class="entry-content">
+                        <p>Incredible NASA photo reveals GUN on Mars  That&#8217;s what UFO hunters claim, having spotted what looks like a firearm in</p>
+                     </div>
+                                       </div>
+
+               </div>
+            </div>                                 <div class="following-post">               <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/what-are-these-mysterious-alien-beams-ufo-investigator-shave-been-called-in-to-probe/" title="What are these mysterious &#8216;alien&#8217; beams UFO investigator shave been called in to probe?"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="What are these mysterious &#8216;alien&#8217; beams UFO investigator shave been called in to probe?" title="What are these mysterious &#8216;alien&#8217; beams UFO investigator shave been called in to probe?" sizes="(max-width: 130px) 100vw, 130px" data-src="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Red-Beam-644959.jpg?resize=130%2C90" data-lazy-type="image" data-srcset="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Red-Beam-644959.jpg?resize=392%2C272 392w, http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Red-Beam-644959.jpg?resize=130%2C90 130w" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/controversy/"  rel="category tag">Controversy</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/what-are-these-mysterious-alien-beams-ufo-investigator-shave-been-called-in-to-probe/" title="What are these mysterious &#8216;alien&#8217; beams UFO investigator shave been called in to probe?">What are these mysterious &#8216;alien&#8217; beams UFO investigator shave been called in to probe?</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/what-are-these-mysterious-alien-beams-ufo-investigator-shave-been-called-in-to-probe/" title="6:28 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T06:28:15+00:00">02/18/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/what-are-these-mysterious-alien-beams-ufo-investigator-shave-been-called-in-to-probe/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                                                            <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/palestinian-mufti-says-one-step-islamic-way-heal-marriage-hit-wife-allah-said/" title="Palestinian Mufti Says One Step in Islamic Way to Heal Marriage Is to Hit Your Wife: ‘Allah Said…’"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Palestinian Mufti Says One Step in Islamic Way to Heal Marriage Is to Hit Your Wife: ‘Allah Said…’" title="Palestinian Mufti Says One Step in Islamic Way to Heal Marriage Is to Hit Your Wife: ‘Allah Said…’" sizes="(max-width: 130px) 100vw, 130px" data-src="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Gaza-Mufti-Marriages-620x326.jpg?resize=130%2C90" data-lazy-type="image" data-srcset="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Gaza-Mufti-Marriages-620x326.jpg?resize=392%2C272 392w, http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Gaza-Mufti-Marriages-620x326.jpg?resize=130%2C90 130w" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/controversy/"  rel="category tag">Controversy</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/palestinian-mufti-says-one-step-islamic-way-heal-marriage-hit-wife-allah-said/" title="Palestinian Mufti Says One Step in Islamic Way to Heal Marriage Is to Hit Your Wife: ‘Allah Said…’">Palestinian Mufti Says One Step in Islamic Way to Heal Marriage Is to Hit Your Wife: ‘Allah Said…’</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/palestinian-mufti-says-one-step-islamic-way-heal-marriage-hit-wife-allah-said/" title="12:12 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T00:12:06+00:00">02/18/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/palestinian-mufti-says-one-step-islamic-way-heal-marriage-hit-wife-allah-said/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                                                            <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/scalias-son-breaks-silence-nasty-comments-father-heres-said/" title="Scalia’s Son Breaks His Silence on ‘Nasty’ Comments About His Father — Here’s What He Said"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Scalia’s Son Breaks His Silence on ‘Nasty’ Comments About His Father — Here’s What He Said" title="Scalia’s Son Breaks His Silence on ‘Nasty’ Comments About His Father — Here’s What He Said" sizes="(max-width: 130px) 100vw, 130px" data-src="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Screen-Shot-2016-02-17-at-12.20.57-AM-620x348.png?resize=130%2C90" data-lazy-type="image" data-srcset="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Screen-Shot-2016-02-17-at-12.20.57-AM-620x348.png?resize=392%2C272 392w, http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Screen-Shot-2016-02-17-at-12.20.57-AM-620x348.png?resize=130%2C90 130w" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/controversy/"  rel="category tag">Controversy</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/scalias-son-breaks-silence-nasty-comments-father-heres-said/" title="Scalia’s Son Breaks His Silence on ‘Nasty’ Comments About His Father — Here’s What He Said">Scalia’s Son Breaks His Silence on ‘Nasty’ Comments About His Father — Here’s What He Said</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/scalias-son-breaks-silence-nasty-comments-father-heres-said/" title="7:16 PM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-17T19:16:05+00:00">02/17/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/scalias-son-breaks-silence-nasty-comments-father-heres-said/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                     </div>      </section>            </div>
+         <div class="clearfix"></div>
+         <section id="colormag_featured_posts_widget-4" class="widget widget_featured_posts widget_featured_meta clearfix">      <h3 class="widget-title" style="border-bottom-color:#afa103;"><span style="background-color:#afa103;">WATCHTOWER:  Gossip and Celebrity </span></h3>                                 <div class="first-post">               <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/kim-kardashian-just-revealed-she-uses-tons-of-tape-to-get-great-boobs/" title="Kim Kardashian Just Revealed She Uses Tons Of Tape To Get Great Boobs"><img width="390" height="205" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" alt="Kim Kardashian Just Revealed She Uses Tons Of Tape To Get Great Boobs" title="Kim Kardashian Just Revealed She Uses Tons Of Tape To Get Great Boobs" data-src="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160218_005202.jpg?resize=390%2C205" data-lazy-type="image" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/gossip/" style="background:#afa103" rel="category tag">Gossip and Celebrity</a>&nbsp;<a href="http://watchtoweronline.net/category/hot/" style="background:#e900ff" rel="category tag">Hot and Sexy</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/kim-kardashian-just-revealed-she-uses-tons-of-tape-to-get-great-boobs/" title="Kim Kardashian Just Revealed She Uses Tons Of Tape To Get Great Boobs">Kim Kardashian Just Revealed She Uses Tons Of Tape To Get Great Boobs</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/kim-kardashian-just-revealed-she-uses-tons-of-tape-to-get-great-boobs/" title="9:00 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T09:00:56+00:00">02/18/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/kim-kardashian-just-revealed-she-uses-tons-of-tape-to-get-great-boobs/#respond">0</a></span>
+                     </div>
+                                          <div class="entry-content">
+                        <p>Kim Kardashian Just Revealed She Uses Tons Of Tape To Get Great Boobs 1. Listen, people: Great boobs do not</p>
+                     </div>
+                                       </div>
+
+               </div>
+            </div>                                 <div class="following-post">               <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/beyonce-conspiracy-theories-update-bruno-mars-joins-queen-bey-illuminati/" title="Beyonce Conspiracy Theories Update: Bruno Mars Joins Queen Bey In The Illuminati?"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Beyonce Conspiracy Theories Update: Bruno Mars Joins Queen Bey In The Illuminati?" title="Beyonce Conspiracy Theories Update: Bruno Mars Joins Queen Bey In The Illuminati?" sizes="(max-width: 130px) 100vw, 130px" data-src="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Beyonce-Conspiracy-Theories-Update-Bruno-Mars-Joins-Queen-Bey-In-The-Illuminati.jpg?resize=130%2C90" data-lazy-type="image" data-srcset="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Beyonce-Conspiracy-Theories-Update-Bruno-Mars-Joins-Queen-Bey-In-The-Illuminati.jpg?resize=392%2C272 392w, http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Beyonce-Conspiracy-Theories-Update-Bruno-Mars-Joins-Queen-Bey-In-The-Illuminati.jpg?resize=130%2C90 130w" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/gossip/" style="background:#afa103" rel="category tag">Gossip and Celebrity</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/beyonce-conspiracy-theories-update-bruno-mars-joins-queen-bey-illuminati/" title="Beyonce Conspiracy Theories Update: Bruno Mars Joins Queen Bey In The Illuminati?">Beyonce Conspiracy Theories Update: Bruno Mars Joins Queen Bey In The Illuminati?</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/beyonce-conspiracy-theories-update-bruno-mars-joins-queen-bey-illuminati/" title="11:59 PM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-17T23:59:59+00:00">02/17/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/beyonce-conspiracy-theories-update-bruno-mars-joins-queen-bey-illuminati/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                                                            <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/havent-told-anyone-ufc-star-ronda-rousey-shares-intimate-details-personal-struggle-stunning-november-upset/" title="‘I Haven’t Told Anyone That’: UFC Star Ronda Rousey Shares Intimate Details of Personal Struggle After Stunning November Upset"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="‘I Haven’t Told Anyone That’: UFC Star Ronda Rousey Shares Intimate Details of Personal Struggle After Stunning November Upset" title="‘I Haven’t Told Anyone That’: UFC Star Ronda Rousey Shares Intimate Details of Personal Struggle After Stunning November Upset" sizes="(max-width: 130px) 100vw, 130px" data-src="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/GettyImages-497207086.jpg?resize=130%2C90" data-lazy-type="image" data-srcset="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/GettyImages-497207086.jpg?resize=392%2C272 392w, http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/GettyImages-497207086.jpg?resize=130%2C90 130w" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/gossip/" style="background:#afa103" rel="category tag">Gossip and Celebrity</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/havent-told-anyone-ufc-star-ronda-rousey-shares-intimate-details-personal-struggle-stunning-november-upset/" title="‘I Haven’t Told Anyone That’: UFC Star Ronda Rousey Shares Intimate Details of Personal Struggle After Stunning November Upset">‘I Haven’t Told Anyone That’: UFC Star Ronda Rousey Shares Intimate Details of Personal Struggle After Stunning November Upset</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/havent-told-anyone-ufc-star-ronda-rousey-shares-intimate-details-personal-struggle-stunning-november-upset/" title="5:11 PM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-17T17:11:57+00:00">02/17/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/havent-told-anyone-ufc-star-ronda-rousey-shares-intimate-details-personal-struggle-stunning-november-upset/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                                                            <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/kim-kardashians-cleavage-plastic-surgery-secrets-revealed/" title="Kim Kardashian’s Cleavage And Plastic Surgery Secrets Revealed"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Kim Kardashian’s Cleavage And Plastic Surgery Secrets Revealed" title="Kim Kardashian’s Cleavage And Plastic Surgery Secrets Revealed" sizes="(max-width: 130px) 100vw, 130px" data-src="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/kim-kardashian-braless-secrets.png?resize=130%2C90" data-lazy-type="image" data-srcset="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/kim-kardashian-braless-secrets.png?resize=392%2C272 392w, http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/kim-kardashian-braless-secrets.png?resize=130%2C90 130w" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/gossip/" style="background:#afa103" rel="category tag">Gossip and Celebrity</a>&nbsp;<a href="http://watchtoweronline.net/category/hot/" style="background:#e900ff" rel="category tag">Hot and Sexy</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/kim-kardashians-cleavage-plastic-surgery-secrets-revealed/" title="Kim Kardashian’s Cleavage And Plastic Surgery Secrets Revealed">Kim Kardashian’s Cleavage And Plastic Surgery Secrets Revealed</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/kim-kardashians-cleavage-plastic-surgery-secrets-revealed/" title="9:46 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-17T09:46:07+00:00">02/17/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/kim-kardashians-cleavage-plastic-surgery-secrets-revealed/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                     </div>      <!-- </div> -->
+      </section>         </div>
+      </div>
+      
+<div id="secondary">
+			
+		<aside id="colormag_featured_posts_vertical_widget-9" class="widget widget_featured_posts widget_featured_posts_vertical widget_featured_meta clearfix">      <h3 class="widget-title" style="border-bottom-color:#93225a;"><span style="background-color:#93225a;">Just In</span></h3>                                 <div class="first-post">               <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/at-least-18-people-dead-and-45-injured-after-car-bomb-explodes-in-turkish-capital/" title="At least 18 people dead and 45 injured after car bomb explodes in Turkish capital"><img width="390" height="205" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" alt="At least 18 people dead and 45 injured after car bomb explodes in Turkish capital" title="At least 18 people dead and 45 injured after car bomb explodes in Turkish capital" data-src="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/IMG_20160218_001854.jpg?resize=390%2C205" data-lazy-type="image" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/just-in/" style="background:#93225a" rel="category tag">Just In</a>&nbsp;<a href="http://watchtoweronline.net/category/trending/" style="background:#dd0000" rel="category tag">Trending</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/at-least-18-people-dead-and-45-injured-after-car-bomb-explodes-in-turkish-capital/" title="At least 18 people dead and 45 injured after car bomb explodes in Turkish capital">At least 18 people dead and 45 injured after car bomb explodes in Turkish capital</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/at-least-18-people-dead-and-45-injured-after-car-bomb-explodes-in-turkish-capital/" title="12:23 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T00:23:46+00:00">02/18/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/at-least-18-people-dead-and-45-injured-after-car-bomb-explodes-in-turkish-capital/#respond">0</a></span>
+                     </div>
+                                          <div class="entry-content">
+                        <p>BREAKING NEWS: At least 18 people dead and 45 injured after car bomb explodes outside military barracks in Turkish capital</p>
+                     </div>
+                                       </div>
+
+               </div>
+            </div>                                 <div class="following-post">               <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/large-explosion-near-military-headquarters-turkish-capital-kills-least-five-people-injures-10/" title="Large explosion near military headquarters in Turkish capital kills at least five people and injures 10 more"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Large explosion near military headquarters in Turkish capital kills at least five people and injures 10 more" title="Large explosion near military headquarters in Turkish capital kills at least five people and injures 10 more" sizes="(max-width: 130px) 100vw, 130px" data-src="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/549044813-1.jpg?resize=130%2C90" data-lazy-type="image" data-srcset="http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/549044813-1.jpg?resize=392%2C272 392w, http://i0.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/549044813-1.jpg?resize=130%2C90 130w" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/just-in/" style="background:#93225a" rel="category tag">Just In</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/large-explosion-near-military-headquarters-turkish-capital-kills-least-five-people-injures-10/" title="Large explosion near military headquarters in Turkish capital kills at least five people and injures 10 more">Large explosion near military headquarters in Turkish capital kills at least five people and injures 10 more</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/large-explosion-near-military-headquarters-turkish-capital-kills-least-five-people-injures-10/" title="12:04 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T00:04:49+00:00">02/18/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/large-explosion-near-military-headquarters-turkish-capital-kills-least-five-people-injures-10/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                     </div>      </aside><aside id="colormag_featured_posts_vertical_widget-7" class="widget widget_featured_posts widget_featured_posts_vertical widget_featured_meta clearfix">      <h3 class="widget-title" style="border-bottom-color:#2c848e;"><span style="background-color:#2c848e;">Variety </span></h3>                                 <div class="first-post">               <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/twitter-finally-getting-searchable-gifs/" title="Twitter Is Finally Getting Searchable GIFs"><img width="390" height="205" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" alt="Twitter Is Finally Getting Searchable GIFs" title="Twitter Is Finally Getting Searchable GIFs" data-src="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/image-1.png?resize=390%2C205" data-lazy-type="image" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/variety/" style="background:#2c848e" rel="category tag">Variety</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/twitter-finally-getting-searchable-gifs/" title="Twitter Is Finally Getting Searchable GIFs">Twitter Is Finally Getting Searchable GIFs</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/twitter-finally-getting-searchable-gifs/" title="5:05 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-18T05:05:55+00:00">02/18/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/twitter-finally-getting-searchable-gifs/#respond">0</a></span>
+                     </div>
+                                          <div class="entry-content">
+                        <p>We&#8217;re creeping closer to a time when all human communication can be conducted via GIFs, and we&#8217;re not going to</p>
+                     </div>
+                                       </div>
+
+               </div>
+            </div>                                 <div class="following-post">               <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/nintendo-unveils-brand-new-pokemon-magearna-weird-one/" title="Nintendo Unveils Brand New Pokémon, Magearna — And It’s A Weird One"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Nintendo Unveils Brand New Pokémon, Magearna — And It’s A Weird One" title="Nintendo Unveils Brand New Pokémon, Magearna — And It’s A Weird One" sizes="(max-width: 130px) 100vw, 130px" data-src="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Magearna.png?resize=130%2C90" data-lazy-type="image" data-srcset="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Magearna.png?resize=392%2C272 392w, http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/Magearna.png?resize=130%2C90 130w" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/variety/" style="background:#2c848e" rel="category tag">Variety</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/nintendo-unveils-brand-new-pokemon-magearna-weird-one/" title="Nintendo Unveils Brand New Pokémon, Magearna — And It’s A Weird One">Nintendo Unveils Brand New Pokémon, Magearna — And It’s A Weird One</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/nintendo-unveils-brand-new-pokemon-magearna-weird-one/" title="1:35 PM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-16T13:35:24+00:00">02/16/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/nintendo-unveils-brand-new-pokemon-magearna-weird-one/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                                                            <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/taylor-swifts-grammys-getup-looks-really-familiar/" title="Taylor Swift&#8217;s Grammys Getup Looks Really Familiar"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Taylor Swift&#8217;s Grammys Getup Looks Really Familiar" title="Taylor Swift&#8217;s Grammys Getup Looks Really Familiar" sizes="(max-width: 130px) 100vw, 130px" data-src="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/image-3.jpg?resize=130%2C90" data-lazy-type="image" data-srcset="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/image-3.jpg?resize=392%2C272 392w, http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/image-3.jpg?resize=130%2C90 130w" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/variety/" style="background:#2c848e" rel="category tag">Variety</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/taylor-swifts-grammys-getup-looks-really-familiar/" title="Taylor Swift&#8217;s Grammys Getup Looks Really Familiar">Taylor Swift&#8217;s Grammys Getup Looks Really Familiar</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/taylor-swifts-grammys-getup-looks-really-familiar/" title="12:32 PM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-16T12:32:26+00:00">02/16/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/taylor-swifts-grammys-getup-looks-really-familiar/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                                                            <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/bella-hadids-cleavage-win-grammy/" title="Bella Hadid&#8217;s Cleavage Should Win A Grammy"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Bella Hadid&#8217;s Cleavage Should Win A Grammy" title="Bella Hadid&#8217;s Cleavage Should Win A Grammy" sizes="(max-width: 130px) 100vw, 130px" data-src="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/4a718a74aa1f46e5b3e118805f5ee546.jpeg.jpg?resize=130%2C90" data-lazy-type="image" data-srcset="http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/4a718a74aa1f46e5b3e118805f5ee546.jpeg.jpg?resize=392%2C272 392w, http://i2.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/4a718a74aa1f46e5b3e118805f5ee546.jpeg.jpg?resize=130%2C90 130w" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/variety/" style="background:#2c848e" rel="category tag">Variety</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/bella-hadids-cleavage-win-grammy/" title="Bella Hadid&#8217;s Cleavage Should Win A Grammy">Bella Hadid&#8217;s Cleavage Should Win A Grammy</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/bella-hadids-cleavage-win-grammy/" title="11:29 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-16T11:29:55+00:00">02/16/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/bella-hadids-cleavage-win-grammy/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                                                            <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/ciara-showed-off-insane-legs-2016-grammy-awards/" title="Ciara Showed Off Her Insane Legs At The 2016 Grammy Awards"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Ciara Showed Off Her Insane Legs At The 2016 Grammy Awards" title="Ciara Showed Off Her Insane Legs At The 2016 Grammy Awards" sizes="(max-width: 130px) 100vw, 130px" data-src="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/510448276.jpg?resize=130%2C90" data-lazy-type="image" data-srcset="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/510448276.jpg?resize=392%2C272 392w, http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/510448276.jpg?resize=130%2C90 130w" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/variety/" style="background:#2c848e" rel="category tag">Variety</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/ciara-showed-off-insane-legs-2016-grammy-awards/" title="Ciara Showed Off Her Insane Legs At The 2016 Grammy Awards">Ciara Showed Off Her Insane Legs At The 2016 Grammy Awards</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/ciara-showed-off-insane-legs-2016-grammy-awards/" title="10:25 AM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-16T10:25:27+00:00">02/16/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/ciara-showed-off-insane-legs-2016-grammy-awards/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                                                            <div class="single-article clearfix">
+                  <figure><a href="http://watchtoweronline.net/tim-tebow-threw-surprise-prom-special-needs-orphans-haiti/" title="Tim Tebow Threw A Surprise Prom For Special Needs Orphans In Haiti"><img width="130" height="90" src="//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-colormag-featured-post-small size-colormag-featured-post-small wp-post-image" alt="Tim Tebow Threw A Surprise Prom For Special Needs Orphans In Haiti" title="Tim Tebow Threw A Surprise Prom For Special Needs Orphans In Haiti" sizes="(max-width: 130px) 100vw, 130px" data-src="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/open.jpg?resize=130%2C90" data-lazy-type="image" data-srcset="http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/open.jpg?resize=392%2C272 392w, http://i1.wp.com/watchtoweronline.net/wp-content/uploads/2016/02/open.jpg?resize=130%2C90 130w" /></a></figure>                  <div class="article-content">
+                     <div class="above-entry-meta"><span class="cat-links"><a href="http://watchtoweronline.net/category/variety/" style="background:#2c848e" rel="category tag">Variety</a>&nbsp;<a href="http://watchtoweronline.net/category/watchtower/" style="background:#7226ff" rel="category tag">Watchtower</a>&nbsp;</span></div>                     <h3 class="entry-title">
+                        <a href="http://watchtoweronline.net/tim-tebow-threw-surprise-prom-special-needs-orphans-haiti/" title="Tim Tebow Threw A Surprise Prom For Special Needs Orphans In Haiti">Tim Tebow Threw A Surprise Prom For Special Needs Orphans In Haiti</a>
+                     </h3>
+                     <div class="below-entry-meta">
+                        <span class="posted-on"><a href="http://watchtoweronline.net/tim-tebow-threw-surprise-prom-special-needs-orphans-haiti/" title="7:12 PM" rel="bookmark"><i class="fa fa-calendar-o"></i> <time class="entry-date published" datetime="2016-02-15T19:12:41+00:00">02/15/2016</time></a></span>                        <span class="byline"><span class="author vcard"><i class="fa fa-user"></i><a class="url fn n" href="http://watchtoweronline.net/author/watchtower/" title="WATCHTOWER">WATCHTOWER</a></span></span>
+                        <span class="comments"><i class="fa fa-comment"></i><a href="http://watchtoweronline.net/tim-tebow-threw-surprise-prom-special-needs-orphans-haiti/#respond">0</a></span>
+                     </div>
+                                       </div>
+
+               </div>
+                     </div>      </aside><aside id="twitter_timeline-3" class="widget widget_twitter_timeline clearfix"><h3 class="widget-title"><span>Follow @WATCHTOWER</span></h3><a class="twitter-timeline" data-widget-id="566148493333368833" data-theme="light" data-link-color="#f96e5b" data-border-color="#e8e8e8" data-tweet-limit="3" height="400" lang="EN">My Tweets</a></aside>
+	</div>   </div>
+
+
+		</div><!-- .inner-wrap -->
+	</div><!-- #main -->
+   			<footer id="colophon" class="clearfix">
+			
+			<div class="footer-socket-wrapper clearfix">
+				<div class="inner-wrap">
+					<div class="footer-socket-area">
+                  <div class="footer-socket-right-section">
+   						                  </div>
+                  <div class="footer-socket-left-sectoin">
+   						<div class="copyright">Copyright &copy; 2016 <a href="http://watchtoweronline.net/" title="WATCHTOWER" ><span>WATCHTOWER</span></a>. All rights reserved.<br>Theme: ColorMag by <a href="http://themegrill.com/themes/colormag" target="_blank" title="ThemeGrill" rel="designer"><span>ThemeGrill</span></a>. Powered by <a href="http://wordpress.org" target="_blank" title="WordPress"><span>WordPress</span></a>.</div>                  </div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<a href="#masthead" id="scroll-up"><i class="fa fa-chevron-up"></i></a>
+	</div><!-- #page -->
+		<div style="display:none">
+	</div>
+		<script type="text/javascript">
+			!function(d,s,id){
+				var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+				if(!d.getElementById(id)){
+					js=d.createElement(s);
+					js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
+					fjs.parentNode.insertBefore(js,fjs);
+				}
+			}(document,"script","twitter-wjs");
+		</script>
+		<script type='text/javascript' src='http://watchtoweronline.net/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201607'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://watchtoweronline.net/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.18.1'></script>
+<script type='text/javascript' src='http://watchtoweronline.net/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2016Febaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://watchtoweronline.net/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://watchtoweronline.net/wp-content/themes/colormag/js/jquery.bxslider.min.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://watchtoweronline.net/wp-content/themes/colormag/js/colormag-slider-setting.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://watchtoweronline.net/wp-content/themes/colormag/js/navigation.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://watchtoweronline.net/wp-content/themes/colormag/js/sticky/jquery.sticky.js?ver=20150309'></script>
+<script type='text/javascript' src='http://watchtoweronline.net/wp-content/themes/colormag/js/sticky/sticky-setting.js?ver=20150309'></script>
+<script type='text/javascript' src='http://watchtoweronline.net/wp-content/themes/colormag/js/fitvids/jquery.fitvids.js?ver=20150311'></script>
+<script type='text/javascript' src='http://watchtoweronline.net/wp-content/themes/colormag/js/fitvids/fitvids-setting.js?ver=20150311'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var a3_lazyload_params = {"apply_images":"1","apply_videos":"1"};
+var a3_lazyload_params = {"apply_images":"1","apply_videos":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.min.js?ver=1.6.0'></script>
+<script type='text/javascript' src='//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.srcset.min.js?ver=1.6.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var a3_lazyload_extend_params = {"edgeY":"0"};
+var a3_lazyload_extend_params = {"edgeY":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//watchtoweronline.net/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extend.js?ver=1.6.0'></script>
+<script type='text/javascript' src='http://watchtoweronline.net/wp-includes/js/wp-embed.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201607.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.9.1',blog:'101984325',post:'0',tz:'5.5',srv:'watchtoweronline.net'} ]);
+	_stq.push([ 'clickTrackerInit', '101984325', '0' ]);
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55033178-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
+<!-- Dynamic page generated in 3.434 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-02-18 10:21:59 -->
+
+<!-- super cache -->

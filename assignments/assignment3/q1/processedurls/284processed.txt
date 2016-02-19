@@ -1,0 +1,409 @@
+
+[1]KOKI FOX 23
+
+   [2]LIVE
+   http://www.fox23.com/cmg-main-theme/css
+
+[3]KOKI FOX 23
+
+     *
+     *
+     *
+
+     * [4]Sign in
+     * [5]Sign Out
+     * [6]Member Center
+     * [7]Register
+
+SIGN IN
+
+   [logo-main-koki.png]
+
+   Sign in using your koki profile
+   {* #userInformationForm *} {* traditionalSignIn_emailAddress *} {*
+   traditionalSignIn_password *}
+   [ ] Remember Me
+   [8]Forgot password?
+   {* traditionalSignIn_signInButton *}
+   {* /userInformationForm *}
+
+   Need a profile? [9]Register now.
+   OR
+
+Sign in with:
+
+   {* loginWidget *}
+
+Sign Up / Sign In
+
+Welcome Back {* welcomeName *}
+
+   {* loginWidget *}
+   [10]Use another account
+
+Sign Up / Sign In
+
+Welcome back. Please sign in
+
+   {* #userInformationForm *} {* traditionalSignIn_emailAddress *} {*
+   traditionalSignIn_password *}
+   {* traditionalSignIn_signInButton *}
+   {* /userInformationForm *}
+   [11]Use another account
+
+You're Almost Done!
+
+Please confirm the information below before signing in.
+
+   {* #socialRegistrationForm *} {* socialRegistration_displayName *} {*
+   socialRegistration_emailAddress *}
+   *Indicates Required Field
+   {* backButton *}
+   {* socialRegistration_signInButton *}
+   {* /socialRegistrationForm *}
+
+REGISTER
+
+   Already have an account? [12]Sign In
+   *Required
+   {* #registrationForm *} {* registration_firstName *} {*
+   registration_lastName *} {* traditionalRegistration_emailAddress *} {*
+   registration_postalZip *} {* registration_birthday *} {*
+   traditionalRegistration_password *} {*
+   traditionalRegistration_passwordConfirm *} {*
+   traditionalRegistration_displayName *}
+
+   By submitting your registration information, you agree to our [13]Terms
+   of Service and [14]Privacy Policy.
+   {* createAccountButton *} {* /registrationForm *}
+
+Thank you for registering!
+
+   We have sent a confirmation email to {* data_emailAddress *}. Please
+   check your email and click on the link to activate your account.
+
+Thank you for registering!
+
+   We look forward to seeing you on [website] frequently. Visit us and
+   sign in to update your profile, receive the latest news and keep up to
+   date with mobile alerts.
+
+   Click [15]here to return to the page you were visiting.
+
+Create a new password
+
+Don't worry, it happens. We'll send you a link to create a new password.
+
+   {* #forgotPasswordForm *} {* forgotPassword_emailAddress *}
+   {* backButton *}
+   {* forgotPassword_sendButton *}
+   {* /forgotPasswordForm *}
+
+Email sent
+
+   We have sent you an email with a link to change your password.
+   {* mergeAccounts *}
+
+Sign in to complete account merge
+
+   {* #tradAuthenticateMergeForm *} {* traditionalSignIn_emailAddress *}
+   {* mergePassword *}
+   {* backButton *}
+   {* traditionalSignIn_signInButton *}
+   {* /tradAuthenticateMergeForm *}
+
+Why are we asking this?
+
+We collect zip code so that we may deliver news, weather, special offers and
+other content related to your specific geographic area.
+
+Thanks for verifying your email address
+
+   [16]Edit your profile
+
+Resend Email Verification
+
+   Sorry we could not verify that email address. Enter your email below
+   and we'll send you another email.
+   {* #resendVerificationForm *} {* traditionalSignIn_emailAddress *}
+   {* submitButton *}
+   {* /resendVerificationForm *}
+
+Resend Email Verification
+
+   Click submit to receive another verification email
+   {* #resendVerificationForm *} {* traditionalSignIn_emailAddress *}
+   Submit
+   {* /resendVerificationForm *}
+
+Your Verification Email Has Been Sent
+
+   Check your email for a verification link
+   [17]Close
+     * 12396774 [18]Home
+     * 12396780 [19]Weather
+          + [20]5 Day Forecast
+          + [21]FOX23 Doppler Radar
+          + [22]RadarScope
+          + [23]Tornadoes
+          + [24]School Closings
+          + [25]Earthquakes
+          + [26]Fish and Game
+     * 12396834 [27]News
+          + [28]News Videos
+          + [29]FOX23 Investigates
+          + [30]FOX23 You Decide
+          + [31]Nation & World
+          + [32]Green Country Crime
+          + [33]Education
+          + [34]DC Coverage
+          + [35]FOX News Sunday
+          + [36]Golden Apple Award
+     * 12396954 [37]Video
+          + [38]Watch Live
+          + [39]Video Weather Forecast
+          + [40]News Now
+     * 12396984 [41]Live Stream
+     * 12396888 [42]Traffic
+          + [43]Download FOX23 apps
+     * 12397116 [44]Consumer
+          + [45]Clark Howard
+          + [46]Gas Prices
+          + [47]Recalls
+     * 12397056 [48]Entertainment
+          + [49]What's On Today?
+          + [50]Get Social
+          + [51]Contests
+          + [52]Tulsa Daily
+          + [53]BOK Center
+     * 12396900 [54]Sports
+          + [55]High School Football
+     * 12397146 [56]About FOX23
+          + [57]FoxBox
+          + [58]FOX23 Staff
+          + [59]Advertise With Us
+          + [60]Jobs at FOX23
+          + [61]Contact Us
+          + [62]My41Tulsa
+          + [63]Closed Caption help
+     * [64]More
+
+Acting Tulsa sheriff proposes idea to make money from inmate cell phone calls
+
+   Updated: Jan 29, 2016 - 8:15 PM
+   PHOTO - Tulsa County Jail PHOTO - Tulsa County Jail
+
+   TULSA, Okla. —
+
+   Quick Facts:
+
+
+     * We the People Oklahoma are upset with a proposed plan from acting
+       Tulsa County Sheriff Michelle Robinetter
+     * A new FCC regulation lowered rate caps on inmate cell phones
+     * Robinette proposed selling cell phone use to inmates through the
+       commissary to make up for lost revenue
+     * Marq Lewis of We the People called this a way to get around the FCC
+       regulation
+
+   A Green Country group is upset with the acting sheriff of Tulsa County
+   for proposing an idea they believe it meant to get around federal
+   regulations.
+
+   The FCC recently lowered rate caps on inmate cell phone calls. This
+   week, acting sheriff Michelle Robinette told the Tulsa Jail Authority
+   she was looking into an idea to make up for the lost revenue.
+
+   The FCC decided jails were charging too much money for inmates to call
+   family members and attorneys.
+
+   The high costs were affecting families of the inmates and they bear the
+   responsibility of putting money into their account.
+
+   Robinette said she’d like to buy cell phones to charge the inmates to
+   use. The FCC regulation doesn’t address how inmates are charged for
+   this.
+
+   “You’re purchasing it through the commissary so it’s a roundabout, back
+   door way to get around the FCC rules,” said attorney Lori Phillips.
+
+   Marq Lewis with We the People Oklahoma said he doesn’t think taking
+   more money from the families of inmates is how the jail should try to
+   make more money.
+
+   “I think the focus is not on the inmates, how to help them or how to
+   reduce incarceration. The focus is, ‘we need more money,’” Lewis said.
+
+   The Jail Authority said the plan is something they would have to
+   approve before it could go into effect. The Sheriff’s Office did not
+   immediately comment on the plan.
+
+Trending
+
+     * [65]Headline Goes Here
+
+Pope Francis urges governments to 'open hearts' to migrants
+     * [66]Headline Goes Here
+
+Muskogee notifies residents of water contaminants
+     * [67]Headline Goes Here
+
+Tulsa health officials warn student of Zika virus
+
+     * [68]Headline Goes Here
+
+Acting Tulsa sheriff proposes idea to make money from inmate cell phone calls
+     * [69]Headline Goes Here
+
+Muskogee notifies residents of water contaminants
+     * [70]Headline Goes Here
+
+Tulsa health officials warn student of Zika virus
+     * [71]Headline Goes Here
+
+Senate committee approves updated beer laws
+     * [72]Headline Goes Here
+
+Crews from across the US battle blaze near Skiatook Lake
+
+News
+
+     * [73]Local News
+     * [74]Nation & World
+     * [75]News Video
+     * [76]Traffic
+
+FOX23 Weather
+
+     * [77]Weather
+     * [78]FOX23 Doppler Radar
+
+Advertisers & Sponsors
+
+     * [79]Cars at Autotrader
+     * [80]Local Services at Kudzu
+     * [81]Coupons at Valpak
+
+About Us
+
+     * [82]About FOX23
+     * [83]What's on FOX23
+     * [84]KOKI EEOC Statement
+     * [85]KMYT EEOC Statement
+     * [86]KOKI Public File
+     * [87]KMYT Public File
+
+   © 2016 [88]Cox Media Group.
+
+   By using this website, you accept the terms of our[89] Visitor
+   Agreement and [90]Privacy Policy, and understand your options regarding
+   [91]Ad Choices.
+
+   This station is part of Cox Media Group Television.
+
+   Learn about[92] careers at Cox Media Group.
+
+References
+
+   Visible links
+   1. http://www.fox23.com/
+   2. http://www.fox23.com/live-stream
+   3. http://www.fox23.com/
+   4. javascript:void;(0)
+   5. javascript:void(0)
+   6. http://www.fox23.com/edit-profile
+   7. javascript:void(0)
+   8. http://www.fox23.com/news/acting-tulsa-sheriff-proposes-idea-to-make-money-from-inmate-cell-phone-calls/47960035
+   9. http://www.fox23.com/news/acting-tulsa-sheriff-proposes-idea-to-make-money-from-inmate-cell-phone-calls/47960035
+  10. http://www.fox23.com/news/acting-tulsa-sheriff-proposes-idea-to-make-money-from-inmate-cell-phone-calls/47960035
+  11. http://www.fox23.com/news/acting-tulsa-sheriff-proposes-idea-to-make-money-from-inmate-cell-phone-calls/47960035
+  12. http://www.fox23.com/news/acting-tulsa-sheriff-proposes-idea-to-make-money-from-inmate-cell-phone-calls/47960035
+  13. http://www.coxmediagroup.com/visitor_agreement/
+  14. http://www.coxmediagroup.com/privacy_policy/
+  15. javascript:void(0)
+  16. http://www.fox23.com/edit-profile
+  17. http://www.fox23.com/news/acting-tulsa-sheriff-proposes-idea-to-make-money-from-inmate-cell-phone-calls/47960035
+  18. http://www.fox23.com/home
+  19. http://www.fox23.com/weather
+  20. http://www.fox23.com/weather/5day
+  21. http://www.fox23.com/weather/doppler
+  22. http://www.fox23.com/weather/radarscope
+  23. http://www.fox23.com/s/news/storms
+  24. http://www.fox23.com/weather/school-closings
+  25. http://www.fox23.com/s/weather/earthquakes
+  26. http://www.fox23.com/s/weather/fish-game
+  27. http://www.fox23.com/news
+  28. http://www.fox23.com/s/news/videos
+  29. http://www.fox23.com/s/news/fox23investigates
+  30. http://www.fox23.com/s/news/youdecide
+  31. http://www.fox23.com/s/news/nation-world
+  32. http://www.fox23.com/s/news/tulsa-crime
+  33. http://www.fox23.com/s/news/education
+  34. http://www.fox23.com/s/news/dcbureau
+  35. http://www.fox23.com/news/foxnews-sunday
+  36. http://www.fox23.com/golden-apple-award
+  37. http://www.fox23.com/video
+  38. http://www.fox23.com/s/watchlive
+  39. http://www.fox23.com/videos/weather
+  40. http://www.fox23.com/s/video/newsnow
+  41. http://www.fox23.com/live-stream
+  42. http://www.fox23.com/traffic
+  43. http://www.fox23.com/mobile-apps
+  44. http://www.fox23.com/consumer
+  45. http://www.fox23.com/consumer/clark-howard1
+  46. http://www.fox23.com/consumer/pump-patrol
+  47. http://www.fox23.com/consumer/recalls
+  48. http://www.fox23.com/entertainment
+  49. http://www.fox23.com/entertainment/tv-listings
+  50. http://www.fox23.com/entertainment/socialmedia
+  51. http://www.fox23.com/entertainment/contests
+  52. http://www.fox23.com/station/tulsadaily
+  53. http://bokcenter.com/
+  54. http://www.fox23.com/sports
+  55. http://www.fox23.com/sports/high-school-football
+  56. http://www.fox23.com/station/aboutus
+  57. http://www.fox23.com/foxbox
+  58. http://www.fox23.com/station/staff
+  59. http://www.fox23.com/station/advertise
+  60. http://jobs.coxmediagroup.com/cox-television-tulsa/company-jobs
+  61. http://www.fox23.com/station/contact
+  62. http://www.fox23.com/station/my41tulsa
+  63. http://www.fox23.com/station/closed-caption
+  64. http://www.fox23.com/news/acting-tulsa-sheriff-proposes-idea-to-make-money-from-inmate-cell-phone-calls/47960035
+  65. http://www.fox23.com/news/national/pope-concludes-mexico-trip-with-visits-to-prison-us-border/89829874
+  66. http://www.fox23.com/news/muskogee-notifies-residents-of-water-contaminants/92252351
+  67. http://www.fox23.com/news/tulsa-health-officials-warn-student-of-zika-virus/92231756
+  68. http://www.fox23.com/news/acting-tulsa-sheriff-proposes-idea-to-make-money-from-inmate-cell-phone-calls/47960035
+  69. http://www.fox23.com/news/acting-tulsa-sheriff-proposes-idea-to-make-money-from-inmate-cell-phone-calls/47960035
+  70. http://www.fox23.com/news/acting-tulsa-sheriff-proposes-idea-to-make-money-from-inmate-cell-phone-calls/47960035
+  71. http://www.fox23.com/news/acting-tulsa-sheriff-proposes-idea-to-make-money-from-inmate-cell-phone-calls/47960035
+  72. http://www.fox23.com/news/acting-tulsa-sheriff-proposes-idea-to-make-money-from-inmate-cell-phone-calls/47960035
+  73. http://www.fox23.com/news
+  74. http://www.fox23.com/s/news/nation-world
+  75. http://www.fox23.com/s/news/videos
+  76. http://www.fox23.com/traffic
+  77. http://www.fox23.com/weather
+  78. http://www.fox23.com/weather/doppler
+  79. http://www.autotrader.com/
+  80. http://www.kudzu.com/
+  81. https://www.valpak.com/coupons/savings/all/tulsa/ok
+  82. http://www.fox23.com/station/aboutus
+  83. http://www.fox23.com/entertainment/tv-listings
+  84. http://www.fox23.com/koki-eeo-report
+  85. http://www.fox23.com/kmyt-eeo-report
+  86. https://stations.fcc.gov/station-profile/koki-tv
+  87. https://stations.fcc.gov/station-profile/kmyt-tv
+  88. http://www.coxmediagroup.com/
+  89. http://www.fox23.com/visitor_agreement/
+  90. http://www.fox23.com/privacy_policy/
+  91. http://www.fox23.com/station/privacy-policy/privacy-policy/16444731#ad-choices
+  92. http://jobs.coxmediagroup.com/cox-television-tulsa/company-jobs
+
+   Hidden links:
+  94. http://www.fox23.com/news/acting-tulsa-sheriff-proposes-idea-to-make-money-from-inmate-cell-phone-calls/47960035
+  95. http://www.fox23.com/news/acting-tulsa-sheriff-proposes-idea-to-make-money-from-inmate-cell-phone-calls/47960035
+  96. http://www.fox23.com/news/acting-tulsa-sheriff-proposes-idea-to-make-money-from-inmate-cell-phone-calls/47960035
+  97. http://www.fox23.com/news/acting-tulsa-sheriff-proposes-idea-to-make-money-from-inmate-cell-phone-calls/47960035
+  98. http://www.fox23.com/news/acting-tulsa-sheriff-proposes-idea-to-make-money-from-inmate-cell-phone-calls/47960035
+  99. http://www.fox23.com/news/acting-tulsa-sheriff-proposes-idea-to-make-money-from-inmate-cell-phone-calls/47960035
+ 100. http://www.fox23.com/news/acting-tulsa-sheriff-proposes-idea-to-make-money-from-inmate-cell-phone-calls/47960035

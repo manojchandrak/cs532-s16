@@ -1,0 +1,678 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+(function(a,b,c){if(c in b&&b[c]){var d,e=a.location,f=/^(a|html)$/i;a.addEventListener("click",function(a){d=a.target;while(!f.test(d.nodeName))d=d.parentNode;"href"in d&&(chref=d.href).replace(e.href,"").indexOf("#")&&(!/^[a-z\+\.\-]+:/i.test(chref)||chref.indexOf(e.protocol+"//"+e.host)===0)&&(a.preventDefault(),e.href=d.href)},!1)}})(document,window.navigator,"standalone");
+</script>
+
+    <script src="/assets/front_end-de5dcc60bf6a6c79c96d84c0adc610d1.js"></script>
+
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <title>Report: Bulls willing to give Pau Gasol new contract worth $20M per year | theScore.com</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, minimum-scale=1">
+
+    <link href="/assets/front_end-e55c5c010946200f4e205110c49c41d5.css" media="screen" rel="stylesheet" />
+
+    <link href="/assets/front_end/favicon.png" rel="icon" type="image/png" />
+    <link href="/assets/front_end/icon.png" rel="apple-touch-icon" type="image/png" />
+    <link href="/assets/front_end/icon-76X76.png" rel="apple-touch-icon" sizes="76X76" type="image/png" />
+    <link href="/assets/front_end/icon-120X120.png" rel="apple-touch-icon" sizes="120X120" type="image/png" />
+    <link href="/assets/front_end/icon-152X152.png" rel="apple-touch-icon" sizes="152X152" type="image/png" />
+
+    <meta property="fb:app_id" content="124052647629735" />
+<meta property="og:site_name" content="theScore.com" />
+
+<!-- base tags -->
+<meta name="twitter:app:name:iphone" content="theScore App">
+<meta name="twitter:app:id:iphone" content="285692706">
+<meta name="twitter:app:name:ipad" content="theScore App">
+<meta name="twitter:app:id:ipad" content="285692706">
+<meta name="twitter:app:name:googleplay" content="theScore App">
+<meta name="twitter:app:id:googleplay" content="com.fivemobile.thescore">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@theScore">
+
+<!-- extended tags -->
+<meta property="og:title" content="Report: Bulls willing to give Pau Gasol new contract worth $20M per year"><meta name="twitter:title" content="Report: Bulls willing to give Pau Gasol new contract worth $20M per year">
+<meta name="twitter:description" content="With the salary cap projected to jump to $90 million next season, the Chicago Bulls appear interested in using the influx of cash to retain their talent.Re-signing Pau Gasol is a priority for Chicago, and the Bulls are willing to offer the 7-foot Spaniard a contract worth $20 million per year, ESPN&#39;s Brian Windhorst said on the &quot;Waddle &amp; Silvy Show.&quot;At 35 years of age, it's unlikely the term of the deal would run more than a few years, especially given the the high dollar value. Gasol has put together another good year with the Bulls, earning his sixth All-Star selection Tuesday after teammate Jimmy Butler was ruled out. The 14-year veteran is averaging 17 points, 10.9 rebounds, two blocks, and 42.3 percent from three.If Gasol re-signs at $20 million per year, the Bulls will have almost $60 million committed to three players for next season, with Derrick Rose and Jimmy Butler earning $38.875 million between them.">
+<meta property="og:image" content="https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/159569/cropped_REU_2359637.jpg?ts=1455145142"><meta name="twitter:image" content="https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/159569/cropped_REU_2359637.jpg?ts=1455145142">
+<meta property="og:url" content="http://www.thescore.com/nba/news/957160"><meta name="twitter:url" content="http://www.thescore.com/nba/news/957160">
+<meta property="og:type" content="article">
+<!-- We need to include a blank og:description for facebook so that the first sentence in not included when we share the article. -->
+<meta property="og:description" content="&nbsp;">
+<!-- Verification for Google Webmaster Tools -->
+<meta name="google-site-verification" content="XU3XiPEtzqLB6Fr8oJzJiX_pt2fWjB6Fy6GtEExSYg8" />
+    <!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type='text/javascript'>
+var _vwo_code=(function(){
+var account_id=208306,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
+
+    <script type='text/javascript'>
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+      (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+      })();
+    </script>
+
+    <script src="//fonts.thescore.com/gsr6pft.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+
+  </head>
+
+  <body ontouchstart="" onmouseover="">
+
+    <div class="fixed-header app-content">
+
+      <header class="app-header" data-turbolinks-permanent>
+  <div class="main-menu-row">
+    <div class="container">
+      <div class="main-menu-content row">
+        <div data-react-class="FrontEndSiteMenu" data-react-props="{&quot;facebookUrl&quot;:&quot;https://www.facebook.com/theScore&quot;,&quot;twitterUrl&quot;:&quot;https://twitter.com/theScore&quot;,&quot;leaguesHeading&quot;:&quot;Leagues&quot;}"></div>
+
+        <span class="header-title ff-regular fw-medium hidden-xs uppercase">
+            nba
+        </span>
+
+          <div class="pull-right visible-md visible-lg">
+            <div data-react-class="FrontEndSearch"></div>
+          </div>
+
+        <div class="share-links hidden-xs visible-sm visible-md visible-lg share-links-wrapper font-share-links">
+  <section class="pull-right font-data">
+  <!-- tracking needs to be added to facebook and twitter clicks -->
+  <div class="nav-share-links txt-secondary">
+    <a href=https://www.facebook.com/theScore class="text-center fb-hover">
+      <i class="icon-facebook align-middle"></i>
+      <span class="sr-only">Share on facebook</span>
+    </a>
+  </div>
+
+  <div class="nav-share-links txt-secondary">
+    <a href=https://twitter.com/theScore class="text-center twtr-hover">
+      <i class="icon-twitter align-middle"></i>
+      <span class="sr-only">Tweet it</span>
+    </a>
+  </div>
+
+  <div class="nav-share-links txt-secondary">
+    <a class="text-center rss-hover" href="/rss">
+      <i class="icon-rss align-middle"></i>
+      <span class="sr-only">RSS Feed</span>
+</a>  </div>
+
+  </section>
+</div>
+
+
+        <div class="hidden-lg">
+          <div data-react-class="FrontEndArticlesGetAppButton"></div>
+        </div>
+
+        <div class="visible-lg">
+          <div data-react-class="FrontEndArticlesGetTheAppPopup" data-react-props="{&quot;iosImage&quot;:&quot;/assets/front_end/app-store-button-d4cd6bed30fa65a6c0a80ccf55e291f5.png&quot;,&quot;androidImage&quot;:&quot;/assets/front_end/play-store-button-ccce53fe0242b9c30751862b08638031.png&quot;,&quot;androidAppURL&quot;:&quot;http://thesco.re/Get_theScoreAppAndroid&quot;,&quot;iosAppURL&quot;:&quot;http://thesco.re/Get_theScoreAppiOS&quot;,&quot;messagingURL&quot;:&quot;http://messaging.thescore.com&quot;,&quot;property&quot;:&quot;&quot;,&quot;messages&quot;:{&quot;email&quot;:{&quot;success&quot;:&quot;Success! A link to download theScore has been sent to your email.&quot;,&quot;error&quot;:&quot;There was an error with the email. Please try entering it again.&quot;,&quot;invalid&quot;:&quot;Invalid email entered. Please try again.&quot;},&quot;sms&quot;:{&quot;success&quot;:&quot;Success! A link to download theScore has been sent to your phone.&quot;,&quot;error&quot;:&quot;There was an error. Please try your phone # again.&quot;,&quot;invalid&quot;:&quot;Invalid phone number entered. Please try again.&quot;}}}"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="context-menu-wrapper" data-react-class="FrontEndSubNavigation" data-react-props="{&quot;url&quot;:&quot;http://www.thescore.com/nba/news/957160&quot;,&quot;league&quot;:&quot;nba&quot;,&quot;title&quot;:&quot;nba&quot;,&quot;activeSection&quot;:&quot;articles&quot;,&quot;wrapperDivClassName&quot;:&quot;context-menu-wrapper&quot;}"></div>
+
+</header>
+
+
+      <div class="wrapped-content main-content-wrapper">
+
+        <div class="tablet-leaderboard visible-lg">
+  <div id="ad-leaderboard-top"
+       class="ad-outlet"
+       data-out-of-page="false"
+       data-ad-unit="728x90"
+       data-ad-size="[728, 90]"
+       data-viewport="desktop"
+       data-league="nba"
+       data-section="article"
+       data-article-id="957160">
+  </div>
+</div>
+
+
+        <div class="scrollable-content">
+          <div class="main-content bg-backdrop">
+            <div data-react-class="FrontEndArticlesInterstitialAd" data-react-props="{&quot;currentLeague&quot;:&quot;nba&quot;,&quot;expires&quot;:7,&quot;imageUrls&quot;:{&quot;android&quot;:{&quot;default&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/android_default_w174-605200dc2ad1031e7450fb5161dc4a8c.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/android_default_w347-7c9c82b9f47c9dca9348807db9b3f9b5.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/android_default_w434-dbbf320627cd375a0c4ca37405415577.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/android_default_w600.png&quot;},&quot;mlb&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/android_mlb_w174-e1feef717e5648c17545b283a78caa39.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/android_mlb_w347-776befd1c89608b9068daf81000c92e9.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/android_mlb_w434-c1a10f87995dc6623a68224b5f2d3804.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/android_mlb_w600.png&quot;},&quot;mma&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/android_mma_w174-be5b8bbf81dff5263ecfb13041c1d78d.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/android_mma_w347-9ab2349cbebb0ef3c9aaf83d1e7de526.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/android_mma_w434-2a7dc7d546dae7875210de86367aee35.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/android_mma_w600.png&quot;},&quot;nba&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/android_nba_w174-9102b3dc32cd23065acf90f26806541e.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/android_nba_w347-b494820a975975a596ef4e38019c6e95.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/android_nba_w434-a92a26edbe84dc5b5514ec2c58bcec8f.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/android_nba_w600.png&quot;},&quot;ncaab&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/android_ncaab_w174-9d6bcc551922cef4ec6f3bc7f73fb7d0.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/android_ncaab_w347-352e44ccbf538b21d40771dfcb8596e3.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/android_ncaab_w434-80b418e5dfe537e886b1f60338370298.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/android_ncaab_w600.png&quot;},&quot;ncaaf&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/android_ncaaf_w174-88fa918cae1c105317928f4356c43e87.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/android_ncaaf_w347-80c78aa87bf3e58fb14f47a1ea9c48df.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/android_ncaaf_w434-c1ac69febd64091735736fce508f9088.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/android_ncaaf_w600.png&quot;},&quot;nfl&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/android_nfl_w174-8750b7dc82d44dab8987014198db07d9.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/android_nfl_w347-b2b12170e3ba4a98fb2e5ff47672f0c7.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/android_nfl_w434-04ed358f67c487f0d3f0ada55112607b.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/android_nfl_w600.png&quot;},&quot;nhl&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/android_nhl_w174-d7696d5742e5dfe6110b5b298170f255.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/android_nhl_w347-c39c89e609c5d318de6e6b2b9ae34bec.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/android_nhl_w434-a49a6e9988b7e7bb18c0232fefb33766.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/android_nhl_w600.png&quot;},&quot;wcbk&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/android_wcbk_w174-446cf060c8c0f2e2e7a425e92bd756fc.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/android_wcbk_w347-264da8c3687e62d3b2ff133d6b6c4190.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/android_wcbk_w434-6979a64ddb63c3b329e315f0d2c9681f.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/android_wcbk_w600.png&quot;},&quot;auto&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/android_auto_w174-b5d4c040ba75c7b525b064f6534d7475.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/android_auto_w347-85acd3bccfb53192240941e7dc7871fa.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/android_auto_w434-09d20ba624f7fb1d61c2f58ecc6150a6.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/android_auto_w600.png&quot;},&quot;golf&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/android_golf_w174-b1911f4a67e93f7a354a6fc07fc6a4c3.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/android_golf_w347-b67f1ef0d8322fe196df86cb5663af28.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/android_golf_w434-ea2a3d444abe2ab83813d12b6f381915.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/android_golf_w600.png&quot;},&quot;soccer&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/android_soccer_w174-d40fff2405a6787c5b0326e60e9e3609.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/android_soccer_w347-97b2de2e1dbe6604be107011678070a9.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/android_soccer_w434-d28b3fba47fe53d7f068c8b1ad83de9c.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/android_soccer_w600.png&quot;},&quot;tennis&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/android_tennis_w174-8fa9ed9c8acaee3cebff5a3c71419420.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/android_tennis_w347-b9bd97a962018b31580a097ca04e8ce6.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/android_tennis_w434-7d4de4c9cde459492a54f52123792224.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/android_tennis_w600.png&quot;}},&quot;ios&quot;:{&quot;default&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/ios_default_w174-3d9cb7bb6e260dc63bc60cabc4c0087f.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/ios_default_w347-137fb8977441953756f086b7dfaf3eb6.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/ios_default_w434-59bf3be83b14cb695f9a68b413fd963d.png&quot;,&quot;w600&quot;:&quot;/assets/front_end/interstitial/ios_default_w600-2c94f20e326f6e40ed47acd45064a372.png&quot;},&quot;mlb&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/ios_mlb_w174-af4358c903d99c6e772d0e08d6f2581c.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/ios_mlb_w347-f45a430711a83dff0aa0d826f73cefd8.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/ios_mlb_w434-76ced4578920906396841d54f3e47161.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/ios_mlb_w600.png&quot;},&quot;mma&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/ios_mma_w174-55300ea04048660c87f21ecfae387c0b.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/ios_mma_w347-8d2fe299887b8c561a97fbe79cf0afbd.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/ios_mma_w434-2d6366a05b8f75f61299c60058fba371.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/ios_mma_w600.png&quot;},&quot;nba&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/ios_nba_w174-724aca4d79f4ddc2ec2377d4249da25f.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/ios_nba_w347-13f18e2f099ca4fc5238d88cee2ddb1a.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/ios_nba_w434-a276ac478975f16285d09e22c69c60f9.png&quot;,&quot;w600&quot;:&quot;/assets/front_end/interstitial/ios_nba_w600-6e2071f0499f6e2d03dcea4aaf2ab090.png&quot;},&quot;ncaab&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/ios_ncaab_w174-82e195d4ab5914667befa6ef44659636.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/ios_ncaab_w347-e54bcc2a2d5e93d57cd78a2b636dfc52.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/ios_ncaab_w434-492063c1afb29229d52ab0100e3e9767.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/ios_ncaab_w600.png&quot;},&quot;ncaaf&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/ios_ncaaf_w174-3c86b133e9ef6e799c66846aa26f11ea.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/ios_ncaaf_w347-accb5d76abd67f205c9207feeb605e02.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/ios_ncaaf_w434-acb85496fd4486083e2ae1e9cb9165a6.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/ios_ncaaf_w600.png&quot;},&quot;nfl&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/ios_nfl_w174-871a86adf2ff67f426ee69a0ebf4fe4b.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/ios_nfl_w347-886fb5420dc733222c1d015abc675483.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/ios_nfl_w434-5840487b34ee4a72cd2fa094d784e6b1.png&quot;,&quot;w600&quot;:&quot;/assets/front_end/interstitial/ios_nfl_w600-c1a9b47b77c44a72fe0075d18b349ef8.png&quot;},&quot;nhl&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/ios_nhl_w174-0228d2dc4dc3581de79c45c9526ee661.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/ios_nhl_w347-cea9bc974519fbbeb59978dce6368375.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/ios_nhl_w434-6adb0056f047c261389b1b0975bfb168.png&quot;,&quot;w600&quot;:&quot;/assets/front_end/interstitial/ios_nhl_w600-7d30e1eb096283b991205977a0677e9d.png&quot;},&quot;wcbk&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/ios_wcbk_w174-5ffe66cc67271d6ef84eb5dc02aabcf8.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/ios_wcbk_w347-93f0413971d7e3dd23b556e6b76fee88.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/ios_wcbk_w434-7f71923bbd23f9cbe8a1065ad66a77db.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/ios_wcbk_w600.png&quot;},&quot;auto&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/ios_auto_w174-dd8119be856b8dee7d94c403bc098f28.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/ios_auto_w347-9de69575a7d43e5ffa1e476552155972.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/ios_auto_w434-e6890f50c54f073c5113b34a49135161.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/ios_auto_w600.png&quot;},&quot;golf&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/ios_golf_w174-2754038658e73dfce14a11c5cbdf10f2.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/ios_golf_w347-476201f039668479987650ce80f42ebf.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/ios_golf_w434-7122e29e21d49586dd70c85f4ffb6437.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/ios_golf_w600.png&quot;},&quot;soccer&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/ios_soccer_w174-9238e6084372ee3ec8e4bf06832618b3.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/ios_soccer_w347-0d111dd58744454a6efaa096f00e0f3f.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/ios_soccer_w434-926d102f429b8d200f3e619af628bf4a.png&quot;,&quot;w600&quot;:&quot;/assets/front_end/interstitial/ios_soccer_w600-6db0d95dccaf184e54d4cbb181fd6d6e.png&quot;},&quot;tennis&quot;:{&quot;w174&quot;:&quot;/assets/front_end/interstitial/ios_tennis_w174-d6eeba7e65aa804bc649ba75194fcd35.png&quot;,&quot;w347&quot;:&quot;/assets/front_end/interstitial/ios_tennis_w347-9e815abf929f8b806da326fbdc933d00.png&quot;,&quot;w434&quot;:&quot;/assets/front_end/interstitial/ios_tennis_w434-41061f0e54d48137649afce008135377.png&quot;,&quot;w600&quot;:&quot;/images/front_end/interstitial/ios_tennis_w600.png&quot;}}},&quot;clickUrls&quot;:{&quot;default&quot;:&quot;http://thesco.re/Interstitial_CatchAll&quot;,&quot;nfl&quot;:&quot;http://thesco.re/Interstitial_NFL&quot;,&quot;nba&quot;:&quot;http://thesco.re/Interstitial_NBA&quot;,&quot;nhl&quot;:&quot;http://thesco.re/Interstitial_NHL&quot;,&quot;mlb&quot;:&quot;http://thesco.re/Interstitial_MLB&quot;,&quot;soccer&quot;:&quot;http://thesco.re/Interstitial_Soccer&quot;,&quot;ncaaf&quot;:&quot;http://thesco.re/Interstitial_NCAAFootball&quot;,&quot;ncaab&quot;:&quot;http://thesco.re/Interstitial_NCAABasketball&quot;,&quot;wcbk&quot;:&quot;http://thesco.re/Interstitial_W_College_Basketball&quot;,&quot;golf&quot;:&quot;http://thesco.re/Interstitial_Golf&quot;,&quot;tennis&quot;:&quot;http://thesco.re/Interstitial_Tennis&quot;,&quot;mma&quot;:&quot;http://thesco.re/Interstitial_Fighting&quot;,&quot;auto&quot;:&quot;http://thesco.re/Interstitial_Racing&quot;},&quot;iPadClickUrls&quot;:{&quot;default&quot;:&quot;http://thesco.re/iPadCatchAll&quot;,&quot;nba&quot;:&quot;http://thesco.re/iPadNBA&quot;,&quot;nfl&quot;:&quot;http://thesco.re/iPadNFL&quot;,&quot;nhl&quot;:&quot;http://thesco.re/iPadNHL&quot;,&quot;soccer&quot;:&quot;http://thesco.re/iPadSoccer&quot;,&quot;mma&quot;:&quot;http://thesco.re/iPadFighting&quot;,&quot;mlb&quot;:&quot;http://thesco.re/iPadMLB&quot;},&quot;messages&quot;:{&quot;default&quot;:&quot;The latest sports news, scores, and stats personalized for you.&quot;,&quot;soccer&quot;:&quot;The latest footy news, scores, and stats personalized for you.&quot;,&quot;ncaaf&quot;:&quot;The latest College Football news, scores, and stats personalized for you.&quot;,&quot;ncaab&quot;:&quot;The latest College Basketball news, scores, and stats personalized for you.&quot;,&quot;wcbk&quot;:&quot;The latest College Basketball news, scores, and stats personalized for you.&quot;,&quot;golf&quot;:&quot;The latest Golf news, scores, and stats personalized for you.&quot;,&quot;tennis&quot;:&quot;The latest Tennis news, scores, and stats personalized for you.&quot;,&quot;mma&quot;:&quot;The latest Fight news and results personalized for you.&quot;,&quot;auto&quot;:&quot;The latest Racing news, scores, and stats personalized for you.&quot;,&quot;nfl&quot;:&quot;The latest NFL news, scores, and stats personalized for you.&quot;,&quot;nba&quot;:&quot;The latest NBA news, scores, and stats personalized for you.&quot;,&quot;mlb&quot;:&quot;The latest MLB news, scores, and stats personalized for you.&quot;,&quot;nhl&quot;:&quot;The latest NHL news, scores, and stats personalized for you.&quot;},&quot;referrer&quot;:null,&quot;sports&quot;:true}"></div>
+
+  <div class="article-display sticky-container container">
+    <div class="row">
+      <div class="articles col-xs-12 col-md-8">
+        <div class="article-social-header container hidden-xs">
+          <div class="league-name fs-smedium ff-regular fw-medium color-highlight pull-left">
+            nba
+          </div>
+          <div class="hidden-xs">
+            <div data-react-class="FrontEndArticlesShareLinks" data-react-props="{&quot;url&quot;:&quot;http://www.thescore.com/news/957160&quot;,&quot;title&quot;:&quot;Report: Bulls willing to give Pau Gasol new contract worth $20M per year&quot;,&quot;twitterUsername&quot;:&quot;theScore&quot;,&quot;signature&quot;:&quot;Sent via theScore - The best sports app for scores, news and alerts for the world&#39;s biggest sports leagues.&quot;,&quot;order&quot;:[&quot;Facebook&quot;,&quot;Twitter&quot;,&quot;Reddit&quot;,&quot;WhatsApp&quot;,&quot;E-Mail&quot;,&quot;SMS&quot;]}"></div>
+          </div>
+        </div>
+        <div class="main-article">
+          <div class="article-wrapper has-image">
+  <header class="article-header">
+    <h1 class="article-title font-headline">Report: Bulls willing to give Pau Gasol new contract worth $20M per year</h1>
+    <div class="article-details txt-secondary fw-book fs-small">
+        <span class="authors-list">by
+            <span class="article-author-name">
+              <a href="/author/patrick-britton">Patrick Britton</a>
+            </span>
+        </span>
+      <span class="article-publication-date">
+        <time data-local="time-ago" datetime="2016-02-10T23:44:53Z">February 10, 2016 11:44pm</time>
+      </span>
+    </div>
+      <div class="article-image">
+        <img class="hidden-xs"
+             sizes="(min-width: 810px) 768px, (min-width: 1024px) 646px, 100vw"
+             srcset="https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/159569/w220xh166_REU_2359637.jpg?ts=1455145142 220w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/159569/w320xh240_REU_2359637.jpg?ts=1455145142 320w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/159569/w640xh480_REU_2359637.jpg?ts=1455145142 640w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/159569/w768xh576_REU_2359637.jpg?ts=1455145142 768w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/159569/w1080xh810_REU_2359637.jpg?ts=1455145142 1080w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/159569/w1280xh966_REU_2359637.jpg?ts=1455145142 1280w"
+             src="https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/159569/cropped_REU_2359637.jpg?ts=1455145142"
+             width="100%">
+        <img class="visible-xs"
+             srcset="https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/159569/w320xh240_REU_2359637.jpg?ts=1455145142 1x, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/159569/w640xh480_REU_2359637.jpg?ts=1455145142 2x, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/159569/w1080xh810_REU_2359637.jpg?ts=1455145142 2.5x, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/159569/w1280xh966_REU_2359637.jpg?ts=1455145142 3x"
+             src="https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/159569/cropped_REU_2359637.jpg?ts=1455145142"
+             width="100%">
+
+        <div class="article-image-aspect"></div>
+        <div class="article-image-attribution txt-secondary fw-book fs-small text-right">
+          Benny Sieu / USA TODAY Sports / Reuters
+        </div>
+      </div>
+
+      <div class="visible-xs clearfix">
+        <div data-react-class="FrontEndArticlesShareLinks" data-react-props="{&quot;url&quot;:&quot;http://www.thescore.com/news/957160&quot;,&quot;title&quot;:&quot;Report: Bulls willing to give Pau Gasol new contract worth $20M per year&quot;,&quot;twitterUsername&quot;:&quot;theScore&quot;,&quot;signature&quot;:&quot;Sent via theScore - The best sports app for scores, news and alerts for the world&#39;s biggest sports leagues.&quot;,&quot;order&quot;:[&quot;Facebook&quot;,&quot;Twitter&quot;,&quot;Reddit&quot;,&quot;WhatsApp&quot;,&quot;E-Mail&quot;,&quot;SMS&quot;]}"></div>
+      </div>
+  </header>
+  <article class="ember-view article-content font-body copy-text" data-no-turbolink>
+    <p>With the <a href="http://espn.go.com/nba/story/_/id/13224161/nba-salary-cap-set-70-million-2015-16-season">salary cap projected</a> to jump to $90 million next season, the <a data-in-app-uri="thescore:///nba/teams/6" href="http://www.thescore.com/nba/teams/6">Chicago Bulls</a> appear interested in using the influx of cash to retain their talent.</p><p>Re-signing <a data-in-app-uri="thescore:///nba/players/207" href="http://www.thescore.com/nba/players/207">Pau Gasol</a> is a priority for Chicago, and the Bulls are willing to offer the 7-foot Spaniard a contract worth $20 million per year, <a href="https://twitter.com/WaddleandSilvy/status/697533118245421057">ESPN&#39;s Brian Windhorst</a> said on the &quot;Waddle &amp; Silvy Show.&quot;</p><p>At 35 years of age, it's unlikely the term of the deal would run more than a few years, especially given the the high dollar value. </p><p>Gasol has put together another good year with the Bulls, <a href="http://www.thescore.com/nba/news/949883">earning his sixth</a> All-Star selection Tuesday after teammate <a data-in-app-uri="thescore:///nba/players/2809" href="http://www.thescore.com/nba/players/2809">Jimmy Butler</a> was ruled out. The 14-year veteran is averaging 17 points, 10.9 rebounds, two blocks, and 42.3 percent from three.</p><p>If Gasol re-signs at $20 million per year, the Bulls will have almost $60 million committed to three players for next season, with <a data-in-app-uri="thescore:///nba/players/63" href="http://www.thescore.com/nba/players/63">Derrick Rose</a> and <a data-in-app-uri="thescore:///nba/players/2809" href="http://www.thescore.com/nba/players/2809">Jimmy Butler</a> earning $38.875 million between them.</p>
+  </article>
+</div>
+
+        </div>
+
+        <div class="fb-comments" data-colorscheme="light" data-href="http://www.thescore.com/news/957160" data-numposts="5" data-width="100%"></div>
+
+      </div>
+
+      <div class="articles-sidebar col-xs-12 col-md-4">
+
+        <div class="facebook-page-box">
+  <div class="fb-page"
+       data-href="https://www.facebook.com/theScore"
+       data-width="320"
+       data-small-header="true"
+       data-hide-cover="false"
+       data-show-facepile="true"
+       data-show-posts="false">
+        <div class="fb-xfbml-parse-ignore">
+          <blockquote cite="https://www.facebook.com/theScore">
+            <a href="https://www.facebook.com/theScore">theScore.com</a>
+          </blockquote>
+        </div>
+  </div>
+</div>
+
+
+        <div class="tablet-big-box hidden-xs">
+  <div id="ad-big-box-top"
+       class="ad-outlet"
+       data-out-of-page="false"
+       data-ad-unit="300x250"
+       data-ad-size="[[300, 600], [300, 250]]"
+       data-viewport="tablet"
+       data-league="nba"
+       data-section="article"
+       data-article-id="957160">
+  </div>
+</div>
+
+
+          <div class="related-articles">
+            <h2 class="heading-h2">Trending Articles</h2>
+
+              <div class="row">
+                    <div class="article-tile-wrapper col-xs-6 col-sm-12">
+                      <a class="related-article__link" href="/nhl/news/961987">
+                        <div class="article-tile has-image">
+                            <div class="article-thumbnail">
+                              <img alt="Cropped gettyimages 510903096" src="https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160942/cropped_GettyImages-510903096.jpg?ts=1455762843" srcset="https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160942/w220xh166_GettyImages-510903096.jpg?ts=1455762843 220w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160942/w320xh240_GettyImages-510903096.jpg?ts=1455762843 320w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160942/w640xh480_GettyImages-510903096.jpg?ts=1455762843 640w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160942/w768xh576_GettyImages-510903096.jpg?ts=1455762843 768w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160942/w1080xh810_GettyImages-510903096.jpg?ts=1455762843 1080w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160942/w1280xh966_GettyImages-510903096.jpg?ts=1455762843 1280w" />
+                            </div>
+
+                          <div class="article-tile-text">
+                            <div class="article-headline article-headline--xs visible-xs ff-condensed">
+                              Artemi Panarin&#39;s 1st career hat trick leads Blackhawks over Rangers
+                            </div>
+                            <div class="article-headline article-headline--sm hidden-xs font-feed">
+                              Artemi Panarin&#39;s 1st career hat trick leads Blackhawks over Rangers
+                            </div>
+
+                            <div class="article-details">
+                              <span class="league font-label txt-highlight">
+                                nhl
+                              </span>
+                              <div class="pull-right">
+                                <span class="time-ago font-stamp txt-secondary">
+                                  3h ago
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+</a>                    </div>
+                    <div class="article-tile-wrapper col-xs-6 col-sm-12">
+                      <a class="related-article__link" href="/nba/news/962029">
+                        <div class="article-tile has-image">
+                            <div class="article-thumbnail">
+                              <img alt="Cropped reu 1594246" src="https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160960/cropped_REU_1594246.jpg?ts=1455771588" srcset="https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160960/w220xh166_REU_1594246.jpg?ts=1455771588 220w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160960/w320xh240_REU_1594246.jpg?ts=1455771588 320w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160960/w640xh480_REU_1594246.jpg?ts=1455771588 640w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160960/w768xh576_REU_1594246.jpg?ts=1455771588 768w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160960/w1080xh810_REU_1594246.jpg?ts=1455771588 1080w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160960/w1280xh966_REU_1594246.jpg?ts=1455771588 1280w" />
+                            </div>
+
+                          <div class="article-tile-text">
+                            <div class="article-headline article-headline--xs visible-xs ff-condensed">
+                              Colangelo concerned about Coach K&#39;s heath, considering replacements for Olympics
+                            </div>
+                            <div class="article-headline article-headline--sm hidden-xs font-feed">
+                              Colangelo concerned about Coach K&#39;s heath, considering replacements for Olympics
+                            </div>
+
+                            <div class="article-details">
+                              <span class="league font-label txt-highlight">
+                                nba
+                              </span>
+                              <div class="pull-right">
+                                <span class="time-ago font-stamp txt-secondary">
+                                  2h ago
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+</a>                    </div>
+              </div>
+              <div class="row">
+                    <div class="article-tile-wrapper col-xs-6 col-sm-12">
+                      <a class="related-article__link" href="/nba/news/959186">
+                        <div class="article-tile has-image">
+                            <div class="article-thumbnail">
+                              <img alt="Cropped reu 2362542" src="https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160945/cropped_REU_2362542.jpg?ts=1455763392" srcset="https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160945/w220xh166_REU_2362542.jpg?ts=1455763392 220w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160945/w320xh240_REU_2362542.jpg?ts=1455763392 320w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160945/w640xh480_REU_2362542.jpg?ts=1455763392 640w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160945/w768xh576_REU_2362542.jpg?ts=1455763392 768w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160945/w1080xh810_REU_2362542.jpg?ts=1455763392 1080w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160945/w1280xh966_REU_2362542.jpg?ts=1455763392 1280w" />
+                            </div>
+
+                          <div class="article-tile-text">
+                            <div class="article-headline article-headline--xs visible-xs ff-condensed">
+                              Report: 76ers &#39;gauging interest in Okafor&#39; around the league
+                            </div>
+                            <div class="article-headline article-headline--sm hidden-xs font-feed">
+                              Report: 76ers &#39;gauging interest in Okafor&#39; around the league
+                            </div>
+
+                            <div class="article-details">
+                              <span class="league font-label txt-highlight">
+                                nba
+                              </span>
+                              <div class="pull-right">
+                                <span class="time-ago font-stamp txt-secondary">
+                                  3h ago
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+</a>                    </div>
+                    <div class="article-tile-wrapper col-xs-6 col-sm-12">
+                      <a class="related-article__link" href="/nba/news/962037">
+                        <div class="article-tile has-image">
+                            <div class="article-thumbnail">
+                              <img alt="Cropped uspw 569139" src="https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160957/cropped_USPW_569139.jpg?ts=1455770504" srcset="https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160957/w220xh166_USPW_569139.jpg?ts=1455770504 220w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160957/w320xh240_USPW_569139.jpg?ts=1455770504 320w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160957/w640xh480_USPW_569139.jpg?ts=1455770504 640w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160957/w768xh576_USPW_569139.jpg?ts=1455770504 768w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160957/w1080xh810_USPW_569139.jpg?ts=1455770504 1080w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160957/w1280xh966_USPW_569139.jpg?ts=1455770504 1280w" />
+                            </div>
+
+                          <div class="article-tile-text">
+                            <div class="article-headline article-headline--xs visible-xs ff-condensed">
+                              Report: Kings pursuing Gasol, who wants to stay with Bulls
+                            </div>
+                            <div class="article-headline article-headline--sm hidden-xs font-feed">
+                              Report: Kings pursuing Gasol, who wants to stay with Bulls
+                            </div>
+
+                            <div class="article-details">
+                              <span class="league font-label txt-highlight">
+                                nba
+                              </span>
+                              <div class="pull-right">
+                                <span class="time-ago font-stamp txt-secondary">
+                                  2h ago
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+</a>                    </div>
+              </div>
+              <div class="row">
+                    <div class="article-tile-wrapper col-xs-6 col-sm-12">
+                      <a class="related-article__link" href="/nfl/news/961892">
+                        <div class="article-tile has-image">
+                            <div class="article-thumbnail">
+                              <img alt="Cropped gettyimages 499186050" src="https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/150168/cropped_GettyImages-499186050.jpg?ts=1450796547" srcset="https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/150168/w220xh166_GettyImages-499186050.jpg?ts=1450796547 220w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/150168/w320xh240_GettyImages-499186050.jpg?ts=1450796547 320w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/150168/w640xh480_GettyImages-499186050.jpg?ts=1450796547 640w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/150168/w768xh576_GettyImages-499186050.jpg?ts=1450796547 768w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/150168/w1080xh810_GettyImages-499186050.jpg?ts=1450796547 1080w, https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/150168/w1280xh966_GettyImages-499186050.jpg?ts=1450796547 1280w" />
+                            </div>
+
+                          <div class="article-tile-text">
+                            <div class="article-headline article-headline--xs visible-xs ff-condensed">
+                              Roddy White is Alexander Ovechkin&#39;s latest fan 
+                            </div>
+                            <div class="article-headline article-headline--sm hidden-xs font-feed">
+                              Roddy White is Alexander Ovechkin&#39;s latest fan 
+                            </div>
+
+                            <div class="article-details">
+                              <span class="league font-label txt-highlight">
+                                nfl
+                              </span>
+                              <div class="pull-right">
+                                <span class="time-ago font-stamp txt-secondary">
+                                  4h ago
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+</a>                    </div>
+              </div>
+          </div>
+
+        <div class="tablet-big-box hidden-xs">
+  <div id="ad-big-box-bottom"
+       class="ad-outlet"
+       data-out-of-page="false"
+       data-ad-unit="300x250"
+       data-ad-size="[[300, 600], [300, 250]]"
+       data-viewport="tablet"
+       data-league="nba"
+       data-section="article"
+       data-article-id="957160">
+  </div>
+</div>
+
+
+          <div data-react-class="FrontEndArticlesNewsletterPanel" data-react-props="{&quot;loadingGif&quot;:&quot;/assets/front_end/sm-ajax-loader-e664fc8af68e9a67744d69b167912607.gif&quot;,&quot;messagingURL&quot;:&quot;http://messaging.thescore.com&quot;}"></div>
+
+        <div class="hidden-xs">
+          <div data-react-class="FrontEndArticlesSlideIn" data-react-props="{&quot;loadingGif&quot;:&quot;/assets/front_end/sm-ajax-loader-e664fc8af68e9a67744d69b167912607.gif&quot;,&quot;messagingUrl&quot;:&quot;http://messaging.thescore.com&quot;,&quot;facebookUrl&quot;:&quot;https://www.facebook.com/theScore&quot;,&quot;facebookText&quot;:{&quot;slider_text&quot;:&quot;Follow theScore on Facebook&quot;,&quot;button_text&quot;:&quot;Like theScore&quot;},&quot;twitterUrl&quot;:&quot;https://twitter.com/theScore&quot;,&quot;twitterText&quot;:{&quot;slider_text&quot;:&quot;Follow theScore on Twitter&quot;,&quot;button_text&quot;:&quot;Follow @theScore&quot;},&quot;article&quot;:{&quot;id&quot;:961883,&quot;leagueSlug&quot;:&quot;nba&quot;,&quot;title&quot;:&quot;Your guide to the NBA trade deadline&quot;,&quot;featureImageUrl&quot;:&quot;https://d13csqd2kn0ewr.cloudfront.net/uploads/image/file/160550/cropped_GettyImages-461001574.jpg?ts=1455555874&quot;}}"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="tablet-leaderboard visible-lg">
+  <div id="ad-leaderboard-bottom"
+       class="ad-outlet"
+       data-out-of-page="false"
+       data-ad-unit="728x90"
+       data-ad-size="[728, 90]"
+       data-viewport="desktop"
+       data-league="nba"
+       data-section="article"
+       data-article-id="957160">
+  </div>
+</div>
+
+
+  </div>
+
+
+
+            <div class="mobile-leaderboard visible-xs">
+  <div id="ad-mobile-standard"
+       class="ad-outlet"
+       data-out-of-page="false"
+       data-ad-unit="320x50"
+       data-ad-size="[320, 50]"
+       data-viewport="mobile"
+       data-league="nba"
+       data-section="article"
+       data-article-id="957160">
+  </div>
+</div>
+
+          </div>
+        </div>
+
+      </div>
+
+      <a id="wrap-link-left" class="wrap-link left hide" target="_blank"></a>
+      <a id="wrap-link-right" class="wrap-link right hide" target="_blank"></a>
+
+      <div class="wrap-slot-container">
+        <div class="">
+  <div id="ad-wrap"
+       class="ad-outlet"
+       data-out-of-page="true"
+       data-ad-unit="Wrap"
+       data-ad-size="[1, 1]"
+       data-viewport="desktop"
+       data-league="nba"
+       data-section="article"
+       data-article-id="957160">
+  </div>
+</div>
+
+      </div>
+
+      <footer class="footer font-footer" data-turbolinks-permanent>
+  <div class="footer__container container">
+    <div class="footer__row--logo row">
+      <div class="col-xs-12">
+        <a href="/news">
+          <div class="thescore-logo">
+  <div class="thescore-logo__wrapper">
+    <span class="thescore-logo__text">
+      <i class="icon-score-logo"></i>
+    </span>
+    <span class="thescore-logo__highlight">
+      <i class="icon-score-logo"></i>
+    </span>
+  </div>
+</div>
+
+</a>      </div>
+    </div>
+
+    <div class="row">
+      <div class="footer__get-the-app col-xs-12 col-sm-3 col-sm-push-6">
+        <div class="footer__tagline font-footer-text">
+          The ultimate, personalized mobile sports experience.
+        </div>
+
+        <img alt="Phones 440w" class="footer__image footer__image--phones" sizes="(min-width: 768px) 220vw,
+                    192vw" src="/assets/front_end/footer/phones-440w-94278be71feb1a1e12c0a288b9ed1722.png" srcset="/assets/front_end/footer/phones-192w-3063ba3aedd938239364c1720a9e6be9.png 192w, /assets/front_end/footer/phones-220w-9c5d6c4ccf245735d545bbf2ab08d6fb.png 1x, /assets/front_end/footer/phones-220w-9c5d6c4ccf245735d545bbf2ab08d6fb.png 220w, /assets/front_end/footer/phones-384w-e5eb8531561fdef0fd4f83cf4a9ced88.png 384w, /assets/front_end/footer/phones-440w-94278be71feb1a1e12c0a288b9ed1722.png 2x, /assets/front_end/footer/phones-440w-94278be71feb1a1e12c0a288b9ed1722.png 440x" />
+
+        <div class="footer__get-the-app-buttons">
+          <a href="http://thesco.re/Get_theScoreAppiOS">
+            <img alt="Get the app ios 148w" class="footer__image footer__image--get-the-app-ios" sizes="148w" src="/assets/front_end/footer/get-the-app-ios-148w-b4a999f66cac30e56da339317327dffa.png" srcset="/assets/front_end/footer/get-the-app-ios-132w-b981a5733a00c768b591a039cf1de3eb.png 132w, /assets/front_end/footer/get-the-app-ios-148w-b4a999f66cac30e56da339317327dffa.png 1x, /assets/front_end/footer/get-the-app-ios-264w-9ac07f8a6c08dbb60e1c373b9ecc49dd.png 264w, /assets/front_end/footer/get-the-app-ios-296w-1758a90bc8af18347744c599fe4be4a3.png 2x" />
+</a>
+          <a href="http://thesco.re/Get_theScoreAppAndroid">
+            <img alt="Get the app android 138w" class="footer__image footer__image--get-the-app-android" sizes="148w" src="/assets/front_end/footer/get-the-app-android-138w-5be4c5306efb6c099ec085b06539b330.png" srcset="/assets/front_end/footer/get-the-app-android-120w-7f394c8c3a8cc0a436f04307248bc1bb.png 120w, /assets/front_end/footer/get-the-app-android-138w-5be4c5306efb6c099ec085b06539b330.png 1x, /assets/front_end/footer/get-the-app-android-240w-789db2e42d29a34a33834e807e90b68d.png 240w, /assets/front_end/footer/get-the-app-android-270w-0865c4b4f94acfad075f1265bba3c0bf.png 2x" />
+</a>        </div>
+      </div>
+
+      <div class="footer__leagues col-sm-2 col-sm-pull-3 hidden-xs">
+        <h2 class="footer__title font-footer-title">Top Leagues</h2>
+        <div data-react-class="FrontEndTopLeagues"></div>
+      </div>
+
+      <div class="footer__company col-xs-12 col-sm-2 col-sm-pull-3">
+        <h2 class="footer__title font-footer-title">Company</h2>
+        <ul class="footer__list">
+          <li class="footer__list-item"><a href="http://mobile.thescore.com/about-us/" class="footer__link">About Us</a></li>
+          <li class="footer__list-item"><a href="http://mobile.thescore.com/category/blog" class="footer__link">Blog</a></li>
+          <li class="footer__list-item hidden-xs"><a href="https://thescore.zendesk.com/hc/en-us" class="footer__link">Support</a></li>
+          <li class="footer__list-item hidden-xs"><a href="http://mobile.thescore.com/investor-relations/" class="footer__link">Investor Relations</a></li>
+          <li class="footer__list-item"><a href="http://mobile.thescore.com/contact/" class="footer__link">Contact</a></li>
+          <li class="footer__list-item"><a href="http://mobile.thescore.com/careers/" class="footer__link">Careers</a></li>
+        </ul>
+      </div>
+
+      <div class="footer__social-links col-xs-12 col-sm-2 col-sm-pull-3">
+        <h2 class="footer__title font-footer-title">Follow Us</h2>
+        <ul class="footer__list">
+  <li class="footer__list-item">
+    <a class="footer__link" href="https://twitter.com/theScore" target="_blank">
+      <i class="icon icon-twitter"></i>
+      <span class="social-text hidden-xs">Twitter</span>
+</a>  </li>
+  <li class="footer__list-item">
+    <a class="footer__link" href="https://www.facebook.com/theScore" target="_blank">
+      <i class="icon icon-facebook"></i>
+      <span class="social-text hidden-xs">Facebook</span>
+</a>  </li>
+  <li class="footer__list-item">
+    <a class="footer__link" href="https://plus.google.com/+theScore/" target="_blank">
+      <i class="icon icon-google-plus"></i>
+      <span class="social-text hidden-xs">Google+</span>
+</a>  </li>
+  <li class="footer__list-item">
+    <a class="footer__link" href="http://instagram.com/thescore" target="_blank">
+      <i class="icon icon-instagram"></i>
+      <span class="social-text hidden-xs">Instagram</span>
+</a>  </li>
+  <li class="footer__list-item">
+    <a class="footer__link" href="http://thescore.tumblr.com" target="_blank">
+      <i class="icon icon-tumblr"></i>
+      <span class="social-text hidden-xs">Tumblr</span>
+</a>  </li>
+</ul>
+
+      </div>
+    </div>
+
+    <div class="footer__row--copyright-legal row">
+      <div class="col-xs-12">
+        <div class="footer__copyright">
+          <a class="footer__link" href="/pages/copyright">
+            <span class="footer__copyright__text">Copyright &copy; 2016 Score Media Ventures Inc.</span>
+            <span class="footer__copyright__text">All Rights Reserved.</span>
+            <span class="footer__copyright__text">Certain content reproduced under license.</span>
+</a>        </div>
+        <div class="footer__legal">
+          <ul class="footer__list footer__list--horizontal">
+            <li class="footer__list-item"><a class="footer__link" href="/pages/privacy">Privacy Policy</a></li>
+            <li class="footer__list-item"><a class="footer__link" href="/pages/terms">Terms of Use</a></li>
+            <li class="footer__list-item" data-react-class="FrontEndAdChoices"></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    </div>
+
+    <div id="fb-root"></div>
+<script data-turbolinks-eval="false">
+  // Comscore
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "3005676" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+
+  // Google Analytics ga.js
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-94948-1', 'auto');
+
+  // Facebook tracking
+  (function(){
+    window._fbds = window._fbds || {};
+    _fbds.pixelId = 1394729700793296;
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+  })();
+  window._fbq = window._fbq || [];
+  window._fbq.push(["track", "PixelInitialized", {}]);
+
+  // Facebook JS SDK
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId: '124052647629735',
+      xfbml: true,
+      version: 'v2.3'
+    });
+  };
+
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+
+  // TWITTER API
+  window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+      t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+    t._e = [];
+    t.ready = function(f) {
+      t._e.push(f);
+    }; return t;
+  }(document, "script", "twitter-wjs"));
+
+    // Embedly loader
+  (function(w, d){
+     var id='embedly-platform', n = 'script';
+     if (!d.getElementById(id)){
+       w.embedly = w.embedly || function() {(w.embedly.q = w.embedly.q || []).push(arguments);};
+       var e = d.createElement(n); e.id = id; e.async=1;
+       e.src = ('https:' === document.location.protocol ? 'https' : 'http') + '://cdn.embedly.com/widgets/platform.js';
+       var s = d.getElementsByTagName(n)[0];
+       s.parentNode.insertBefore(e, s);
+     }
+    })(window, document);
+
+</script>
+
+
+<!-- Facebook -->
+<noscript>
+  <img height="1" width="1" border="0" alt="" style="display:none"
+    src="https://www.facebook.com/tr?id=1394729700793296&amp;ev=NoScript" />
+</noscript>
+
+<!-- Comscore -->
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=3005676&cv=2.0&cj=1" />
+</noscript>
+
+<!-- Ad block check -->
+<div id="adsense" style="visibility:hidden;height:1px;">adsense ad</div>
+  </body>
+</html>

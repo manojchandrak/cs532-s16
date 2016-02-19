@@ -1,0 +1,3946 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+		<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+<title>개성공단 중단 '후속조치'…남측 인원·자재·장비 철수</title>
+<meta name="robots" content="index,follow">
+<meta name="author" content="메트로신문">
+<meta name="description" content="[메트로신문 연미란 기자]우리 정부의 개성공단 가동 중단 선언에 따른 남측 인원 철수 등 후속 조치가 11일부터 시작된다. 통일부 당국자는 &quot;오늘 개성공단으로 출경할 예정이었던 인원은 1084명이지만, 체류 중인 직원이 없는 53…">
+<meta name="keywords" content="">
+<meta name="news_keywords" content="" />
+
+<meta property="og:title" content="개성공단 중단 '후속조치'…남측 인원·자재·장비 철수" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.metroseoul.co.kr/news/newsview?newscd=2016021100022" />
+<meta property="og:site_name" content="메트로신문" />
+<meta property="og:image" content="http://cdn.emetro.co.kr/imagebank/2016/02/11/0480/20160211000014.jpg" />
+<meta property="og:description" content="[메트로신문 연미란 기자]우리 정부의 개성공단 가동 중단 선언에 따른 남측 인원 철수 등 후속 조치가 11일부터 시작된다. 통일부 당국자는 &quot;오늘 개성공단으로 출경할 예정이었던 인원은 1084명이지만, 체류 중인 직원이 없는 53…" />
+<meta property="og:article:author" content="연미란" />
+<meta property="fb:admins" content="100007330591054" />
+<meta property="fb:app_id" content="190716054451729" /> 
+<link rel="canonical" href="http://www.metroseoul.co.kr/news/newsview?newscd=2016021100022"/>
+
+<meta name="naver-site-verification" content="b2e30361c3f53a4d9969b3fdfe230e89dd62e3f3"/>
+<meta name="naver-site-verification" content="69a5a91d27ab0c8f935cd87879cf4c05c6444a54">
+		<link rel="canonical" href="#">
+
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" href="/common/bootstrap/css/bootstrap.css" media="screen">
+<link rel="stylesheet" href="/common/bootstrap/css/bootstrap-responsive.css">
+
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/nanumgothic.css">
+<link rel="stylesheet" href="/common/font-awesome/css/font-awesome.min.css">
+<!--[if IE 7]>
+	<link rel="stylesheet" href="/common/font-awesome/css/font-awesome-ie7.min.css">
+<![endif]-->
+
+<!-- 사용자 css -->
+<link rel="stylesheet" href="/common/_css/base.css">
+<link rel="stylesheet" href="/common/_css/layout.css">
+<link rel="stylesheet" href="/common/_css/default.css">		<style>
+
+			/**** View 전용 Layout ****/
+
+				.width-wide{
+					width:1260px;
+				}
+				.width-default{
+					width:1040px;
+				}
+
+				#util{
+					margin-left:60px;
+				}
+				#content-header{
+					margin-left:60px;
+				}
+				#content-body{
+					margin-left:60px;
+				}
+				#footer{
+					margin-left:60px;
+				}
+				.sideADBox{
+					margin-left:-60px;
+				}
+
+			/**** View 전용 Layout END ****/
+
+			#news_title{
+				padding: 19px 21px 7px 21px;
+				font-family: 'Nanum Gothic', serif;
+			}
+			#news_subtitle{
+				padding: 0px 21px 7px 21px;
+				font-family: 'Nanum Gothic', serif;
+				color: #666;
+				font-weight: normal;
+				white-space: nowrap;
+				overflow: hidden;
+				text-overflow: ellipsis;
+				-o-text-overflow: ellipsis;
+				-ms-text-overflow: ellipsis;
+			}
+			/*이미지*/
+			.left_img { float:left; border:0px solid #d5d5d5; margin:0 20px 0 0; display:inline;}
+			.left_img dd img {vertical-align:top;}
+			.left_img dt {margin:5px 0 5px 0; color:#757575; font-size:11px; line-height:16px; font-family:"돋움",Dotum,"굴림",Gulim,AppleGothic,Sans-serif;}
+			.left_img dt span {font-size:11px; color:#333;}
+
+			.right_img { float:right; border:0px solid #d5d5d5; margin:0 0 10px 20px; display:inline;}
+			.right_img dd img {vertical-align:top;}
+			.right_img dt {margin:5px 0 5px 0; color:#757575; font-size:11px; line-height:16px; font-family:"돋움",Dotum,"굴림",Gulim,AppleGothic,Sans-serif;}
+			.right_img dt span {font-size:11px; color:#333;}
+
+			.center_img { border:0px solid #d5d5d5; padding:4px 0; margin:0 auto 23px auto;}
+			.center_img {margin:0 auto; text-align:center;margin-bottom:41px;}
+			.center_img dd img {vertical-align:top; margin:0 auto;}
+			.center_img dt {margin-top:5px; color:#999; font-size:12px; line-height:16px; text-align:left; font-family:"돋움",Dotum,"굴림",Gulim,AppleGothic,Sans-serif;font-weight:normal;}
+			.center_img dt span {font-size:11px; color:#333;}
+
+			.right_ad{float:right; border:0px solid #d5d5d5; margin:0 0 10px 20px; display:inline;}
+
+			.pathBox{
+				width:100%;
+				border-bottom:1px solid #cccccc;
+				height:25px;
+				/*margin-top: 10px;*/
+			}
+			.path{
+				color:#9a9a9a;
+				font-size:13px;
+				float:left;
+				border-bottom:0px;
+				margin-bottom:0px;
+				padding-bottom:0px;
+			}
+			.path a{
+				color:#888;
+				font-size:14px;
+				font-family: 'Nanum Gothic', serif;
+			}
+			.path span a{
+				font-size:17px;
+				color:#ff7c12;
+				font-weight:bold;
+			}
+			.news_date_time{
+				float: right;
+				color:#999999;
+				font-size: 12px;
+				padding-top:8px;
+			}
+
+			.news_utilBox{
+				color:#676767;
+				font-size:12px;
+				border-bottom:1px solid #cccccc;
+				margin-top:3px;
+			}
+			.news_btnZone{
+				width:337px;
+				float:right;
+				margin-bottom:13px;
+				margin-right:21px;
+			}
+			.news_topBox{
+				min-height:113px;
+				background-color:#fafafa;
+				margin-bottom:24px;
+			}
+			.news_writer{
+				color:#999999;
+				float:left;
+				margin-top:28px;
+				margin-left:21px;
+			}
+			.news_writer a{
+				color:#666;
+			}
+			.news_writer ul li{
+				float:left;
+				line-height:15px;
+			}
+			.news_btnZone ul li{
+				float:left;
+				width:37px;
+				height:28px;
+				cursor:pointer;
+				text-align: center;
+			}
+			.news_btnZone #btn_right li{
+				width:28px;
+				height:29px;
+				margin-top:8px;
+				border:1px solid #cccccc;
+			}
+			#btn_left li i{
+				color:white;
+				font-size:21px;
+			}
+
+			.newsview-box{
+				margin-bottom:22px;
+			}
+			.newsview-box #CmAdContents p {
+				margin-bottom: 1.6em;
+				font-size: 1.2em;
+				color: #222;
+				text-align: justify;
+				line-height: 1.6em;
+				color:#555555;
+			}
+
+			.sideADBox{
+				float:left;
+			}
+			.viewMarginLeft{ /* 좌측 광고를 생각한 margin-left:81px; class */
+				margin-left:93px;
+				overflow:hidden;
+			}
+			.disqus-comment-count{
+				margin-top:-22px;
+			}
+			.disqus-comment-count a{
+				color:#999999;
+			}
+			#editor li {
+				margin-bottom: 7px;
+				display: block;
+				padding-right: 5px;
+				text-align: right;
+				color: #777;
+				font-size: 0.82em;
+
+			}
+			#copyright{
+				font-size:11px;
+				margin-top:20px;
+				text-align: center;
+				color:#999999;
+			}
+			#copyright a{
+				color:#999999;
+			}
+			.relations_news{
+				margin-top:23px;
+			}
+			.relations_news h4{
+				color:#ff7400;
+				font-size:18px;
+				font-weight: bold;
+				margin-bottom:7px;
+			}
+			.relations_news ul li{
+				margin-bottom: 7px;
+				padding-left: 20px;
+				background: url(/images/ico/ico_reply.png) no-repeat 3px 5px;
+			}
+			.relations_news ul li a{
+				color:black;
+				font-size:15px;
+				font-weight:bold;
+			}
+			#news_pipe{
+				margin:0 10px;
+				float:left;
+			}
+			.viewBottomWideBar{
+				margin-top:30px;
+			}
+
+			#btn_fontDown{
+				border-left:0px;
+				border-right:0px;
+			}
+
+			#btn_fontUp a{background: url("/images/ico/view/ico_fontUp.jpg") no-repeat;display: block;height: 28px;width: 27px;}
+			#btn_fontUp a:hover{background: url("/images/ico/view/ico_fontUp_on.jpg") no-repeat;display: block;height: 28px;width: 27px;}
+			#btn_fontDown a{background: url("/images/ico/view/ico_fontDown.jpg") no-repeat;display: block;height: 28px;width: 27px;}
+			#btn_fontDown a:hover{background: url("/images/ico/view/ico_fontDown_on.jpg") no-repeat;display: block;height: 28px;width: 27px;}
+			#btn_print a{background: url("/images/ico/view/ico_print.jpg") no-repeat;display: block;height: 28px;width: 27px;}
+			#btn_print a:hover{background: url("/images/ico/view/ico_print_on.jpg") no-repeat;display: block;height: 28px;width: 27px;}
+
+
+
+			#btn_comment{background: url("/images/ico/view/ico_comment.jpg") no-repeat;display: block;height: 38px;width: 37px;padding-top: 19px;
+text-decoration: none;color:#9f9f9f;}
+			#btn_comment:hover{background: url("/images/ico/view/ico_comment_on.jpg") no-repeat;display: block;height: 38px;width: 37px;color:#999999;}
+
+			/* Share Button */
+				#shareZone i{
+					font-size:40px;
+				}
+				#shareZone div{
+					float:left;
+					margin-right:2px;
+					cursor:pointer;
+				}
+				#share_twitter i{
+					color:#55acee;
+				}
+				#share_facebook i{
+					color:#3b5998;
+				}
+				#share_google i{
+					color:#e02f2f;
+				}
+				.shareCnt{
+					background-image: url("/images/common/bg_shareCnt.png");
+					width: 37px;
+					height: 23px;
+					padding-top: 9px;
+					background-repeat: no-repeat;
+					text-align: center;
+					padding-left: 3px;
+					margin-top: 5px;
+					margin-left: -5px;
+					font-size: 13px;
+				}
+				#shareZone{
+					height: 40px;
+					padding: 5px 20px;
+				}
+				#shareZone #share_kakaostory{
+					background-color: #fcb700;
+					padding: 6px 13px;
+					margin-top: 1px;
+					margin-right: 10px;
+				}
+
+				.reporter_info{background-color:#f7f7f7;margin-top:10px;height:86px;}
+				.reporter_photo{
+					float:left;
+					width:61px;
+					overflow:hidden;
+					margin:12px;
+					position:relative;
+				}
+				.reporter_infoDetail{
+					float:left;
+					margin-top:16px;
+					width:240px;
+					overflow:hidden;
+				}
+				.reporter_infoDetail ul li{
+					float:left;
+					margin-right:8px;
+				}
+				.reporter_infoDetail ul li i{
+					color:white;
+				}
+				.reporter_facebook{
+					background-color:#4b679e;
+					padding: 7px 12px 3px 12px;
+				}
+				.reporter_facebook i{
+					font-size:19px;
+				}
+				.reporter_twitter{
+					background-color:#4ed2ff;
+					padding: 6px 6px 4px 8px;
+				}
+				.reporter_twitter i{
+					font-size:19px;
+				}
+				.btn_article_more{
+					padding-top:10px;
+				}
+				.btn_article_more a{
+					font-size:12px;
+					color:#ff8629;
+				}
+				.reporter_info_text{
+
+				}
+				.reporter_info_text .reporter_name{
+					font-weight:bold;
+					font-size:14px;
+				}
+				.reporter_info_text .reporter_email, .reporter_info_text .reporter_email a{
+					color:#929292;
+					font-size:12px;
+				}
+				.reporter_info_text p{
+					margin-bottom:9px;
+				}
+				.reporter_more_post{
+				  float: right;
+				  padding-left: 15px;
+				  margin-top: 15px;
+				  margin-right: 20px;
+				  width: 230px;
+				  border-left: 1px solid #e0e0e0;
+				}
+				.reporter_more_post a{
+					color:#8b8b8b;
+				}
+				.reporter_more_post a:hover{
+					text-decoration: underline;
+				}
+				.reporter_more_post ul li{
+					font-size:12px;
+					white-space: nowrap;
+					width:230px;
+					color:#8b8b8b;
+					overflow: hidden;
+					text-overflow: ellipsis;
+					-o-text-overflow: ellipsis;
+					-ms-text-overflow: ellipsis;
+				}
+				.photoOver{
+					position: absolute;
+					top: 0px;
+					text-align: center;
+					width: 100%;
+					z-index: 99999;
+					color: white;
+					height: 100%;
+					cursor:pointer;
+					display: none;
+				}
+				#photoOver_bg{
+					background-color: black;
+					-moz-opacity: 0.46;
+					-khtml-opacity: 0.46;
+					opacity: 0.46;
+					-ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=46);
+					filter: progid:DXImageTransform.Microsoft.Alpha(opacity=46);
+					filter:alpha(opacity=46);
+				}
+				#photoOver_icon{
+					font-size: 25px;
+					top: 14px;
+				}
+				.uiBlock{
+					position: fixed;
+					top: 0px;
+					height: 100%;
+					width: 100%;
+					z-index: 99999999999;
+					background-color:black;
+					-moz-opacity: 0.46;
+					-khtml-opacity: 0.46;
+					opacity: 0.46;
+					-ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=46);
+					filter: progid:DXImageTransform.Microsoft.Alpha(opacity=46);
+					filter:alpha(opacity=46);
+					display:none;
+				}
+				#reporter_detail{
+					position:fixed;
+					top:0px;
+					left:0px;
+					z-index: 9999999999;
+					display: none;
+				}
+				#photoViewerClose{
+					cursor:pointer;
+					position:fixed;
+					top:0px;
+					width:38px;
+				}
+
+				#news_content {margin-top:20px;}
+				#news_content p {margin-bottom:1.6em; font-size:1em; color:#222; text-align:justify; line-height:1.6em;}
+
+
+				#news_content .box-01 {margin-bottom:1.6em; padding:38px; border-top:1px dotted #d3d3d3; background-color:#f7f7f7;}
+				#news_content .box-01 p {margin-bottom:20; line-height:none; font-size:1em; color:#888888; text-align:justify;line-height:1.6em;font-size:15px;}
+
+			.video-container {
+				margin: 8px 8px 25px;
+				margin-left:115px; width:540px;
+			}
+
+			.video-container .video-viewer {
+				position: relative;
+				padding-bottom: 56.25%;
+				padding-top: 10px;
+				height: 0;
+				overflow: hidden;
+			}
+
+			.video-container .video-viewer iframe,
+			.video-container .video-viewer object,
+			.video-container .video-viewer embed {
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+			}
+
+			.video-container .video-caption {
+				margin-top: 5px;
+				color: #999;
+				font-size: 1em;
+			}
+
+		</style>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="/common/_js/libs/jquery.infieldlabel.min.js"></script>
+
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+
+<script src="/common/bootstrap/js/bootstrap.js"></script>
+
+<script src="/common/_js/libs/imagesloaded.pkgd.min.js"></script>
+<script src="/common/_js/libs/jquery.cookie.js"></script>
+<script src="/common/_js/libs/jquery.slider.js"></script>
+<script src="/common/_js/libs/jquery.imagesloaded.js"></script>
+<script src="/common/_js/libs/jquery.sharrre.js"></script>
+<!-- <script src="/common/_js/libs/masonry.pkgd.min.js"></script> -->
+
+<script src="/common/_js/base.js"></script>
+<script src="/common/_js/main.js"></script>
+		<script type="text/javascript" src="https://developers.kakao.com/sdk/js/kakao.min.js"></script>
+		<script src="http://ad.adnmore.co.kr/adnmore/metroseoul.js"></script>
+		<script src="/common/_js/libs/jquery.sharrre.js"></script>
+		<script>
+		$(window).resize(function(){
+			fixPhotoViewPos();
+
+		});
+
+		function close_detailBox(){
+
+			$(".uiBlock").fadeOut(200);
+			$("#reporter_detail").fadeOut(200);
+
+		}
+
+		function open_detailBox(){
+			$(".uiBlock").fadeIn(200);
+			$("#reporter_detail").fadeIn(200);
+		}
+
+		function fixPhotoViewPos(){
+				var option = 0;
+
+				var winHeight = $(window).height() - 40;
+				var winWidth = $(window).width();
+
+				var ori_picHeight = $("#reporter_detail img").attr("max_height");
+				var ori_picWidth = $("#reporter_detail img").attr("max_width");
+
+				var title_height = $("#photoTextBox").height() + 40;
+				var title_width = $("#photoTextBox").width();
+
+				//var ad_height = $("#photoAds").height();
+				//var ad_width = $("#photoAds").width();
+
+				var ad_height = 0;
+				var ad_width = 0;
+
+
+				/* Photo Size Setting */
+				if(ori_picHeight > winHeight - (title_height + ad_height + 66)){
+					option = option + 1;
+				}
+
+				if(ori_picWidth > winWidth){
+					option = option + 2;
+				}
+				//console.log(option);
+				switch(option){// Image Setting
+					case 1: // 세로만 긴 경우
+						//가로 길이 계산
+						//$("#photoViewer").css("width",winWidth + "px");
+						//$("#photoViewer").css("height",winHeight + "px");
+						var imgHeight = winHeight - (title_height + ad_height);
+						var imgWidth = (ori_picWidth*imgHeight)/ori_picHeight;
+						$("#reporter_detail img").attr("width",imgWidth);
+						$("#reporter_detail img").attr("height",imgHeight);
+						$("#reporter_detail").width(imgWidth);
+						$("#reporter_detail").height(imgHeight);
+					break;
+
+					case 2: // 가로만 긴 경우
+						$("#reporter_detail").width(winWidth);
+						$("#reporter_detail").height("");
+
+						//$("#photoViewer").animate({ width: winWidth },300);
+						//$("#photoViewer").animate({ height: "" },300);
+
+					break;
+
+					case 3: // 가로와 세로가 모두 긴 경우
+						if(Number(ori_picHeight) > Number(ori_picWidth)){//세로가 긴 경우
+							var imgHeight = winHeight - (title_height + ad_height);
+							var imgWidth = (ori_picWidth*imgHeight)/ori_picHeight;
+							$("#reporter_detail img").attr("width",imgWidth);
+							$("#reporter_detail img").attr("height",imgHeight);
+							$("#reporter_detail").width(imgWidth);
+							$("#reporter_detail").height(imgHeight);
+							//console.log(ori_picWidth + " : " + ori_picHeight + " : type 1");
+ 						}else{
+ 						 	//var imgHeight = winHeight - (title_height + ad_height);
+ 						 	/*
+			 				boxWidth = winWidth;
+							boxHeight = (oriImgHeight*oriImgWidth)/oriImgWidth;
+
+							var posImgBoxLeft = windowWidth/2 - boxWidth/2;
+							var posImgBoxTop = windowHeight/2 - (boxHeight+31)/2;
+							*/
+
+							$("#reporter_detail img").attr("width",winWidth);
+ 							$("#reporter_detail img").attr("height","");
+							$("#reporter_detail").width(winWidth);
+							$("#reporter_detail").height("");
+
+							//console.log(ori_picWidth + " : " + ori_picHeight + " : type 2");
+ 						}
+
+
+
+					break;
+				}
+
+						var picWrapperHeight = $("#reporter_detail").height();
+						var picWrapperWidth = $("#reporter_detail").width();
+
+						var photoTop = (winHeight/2) - (picWrapperHeight/2) + 40;
+						var photoLeft = (winWidth/2) - (picWrapperWidth/2);
+
+						/* Photo Position Setting */
+
+						//$(".photoViewerWrapper").animate({ top: photoTop },150);
+						//$(".photoViewerWrapper").animate({ left: photoLeft },150);
+						$("#reporter_detail").css("top",photoTop);
+						$("#reporter_detail").css("left",photoLeft);
+
+						/* Navi Position */
+						/*
+						var naviPos_left = photoLeft - 100;
+						var naviPos_right = photoLeft + picWrapperWidth + 45;
+						var naviPos_top = winHeight/2 - ($(".photoViewerNavi").height()/2);
+
+						if(naviPos_left < 0){//고정 값 처리
+							naviPos_left = 40;
+						}
+
+						if(naviPos_right + 55 > winWidth){//고정 값 처리
+							naviPos_right = winWidth - 95;
+						}
+
+						$(".photoViewerNavi").css('top',naviPos_top);
+
+						$("#photoViewerNavi_Left").css("left",naviPos_left);
+						$("#photoViewerNavi_Right").css("left",naviPos_right);
+						*/
+						/* Close POS 처리 */
+						var closeBtnPos_left = photoLeft + picWrapperWidth;
+						var closeBtnPos_top = photoTop - 76;
+
+						if(closeBtnPos_top < 40){
+							closeBtnPos_top = 40;
+						}
+						if(closeBtnPos_left + 38 > winWidth){
+							closeBtnPos_left =  winWidth - 78;
+						}
+						$("#photoViewerClose").css("left",closeBtnPos_left);
+						$("#photoViewerClose").css("top",closeBtnPos_top);
+
+
+		}
+
+		$(document).ready(function(){
+			/* UI Fixer */
+		//	$(".reporter_photoBig").
+			$(".uiBlock").click(function(){
+				close_detailBox();
+			});
+			$("#photoViewerClose").click(function(){
+				close_detailBox();
+			});
+			$(".reporter_photo").mouseenter(function(){
+				$(".photoOver").fadeIn(250);
+
+			}).mouseleave(function(){
+				$(".photoOver").fadeOut(250);
+			});
+
+			$(".reporter_photo").click(function(){
+				open_detailBox();
+			});
+
+			$("#shareTwitter").off().bind("click",function(){
+					var url = encodeURI(document.URL);
+				 	var targetUrl = "https://twitter.com/intent/tweet?url=" + url + "&text=%EA%B0%9C%EC%84%B1%EA%B3%B5%EB%8B%A8+%EC%A4%91%EB%8B%A8+%27%ED%9B%84%EC%86%8D%EC%A1%B0%EC%B9%98%27%E2%80%A6%EB%82%A8%EC%B8%A1+%EC%9D%B8%EC%9B%90%C2%B7%EC%9E%90%EC%9E%AC%C2%B7%EC%9E%A5%EB%B9%84+%EC%B2%A0%EC%88%98&hashtags=#metroseoulnews";
+				 	var popOption = "width=370, height=360, resizable=no, scrollbars=no, status=no;";    //팝업창 옵션(optoin)
+				 	window.open(targetUrl,"",popOption);
+			});
+			$("#shareFacebook").off().bind("click",function(){
+				var url = document.URL;
+				var targetUrl = "http://www.facebook.com/sharer/sharer.php?u=" + url + "&t=%EA%B0%9C%EC%84%B1%EA%B3%B5%EB%8B%A8+%EC%A4%91%EB%8B%A8+%27%ED%9B%84%EC%86%8D%EC%A1%B0%EC%B9%98%27%E2%80%A6%EB%82%A8%EC%B8%A1+%EC%9D%B8%EC%9B%90%C2%B7%EC%9E%90%EC%9E%AC%C2%B7%EC%9E%A5%EB%B9%84+%EC%B2%A0%EC%88%98";
+				 	var popOption = "width=370, height=360, resizable=no, scrollbars=no, status=no;";    //팝업창 옵션(optoin)
+				 	window.open(targetUrl,"",popOption);
+			});
+			$("#shareGoogle").off().bind("click",function(){
+				var url = document.URL;
+				var targetUrl = "https://plus.google.com/share?url=" + url;
+				 	var popOption = "width=370, height=360, resizable=no, scrollbars=no, status=no;";    //팝업창 옵션(optoin)
+				 	window.open(targetUrl,"",popOption);
+			});
+
+			$("#shareBand").off().bind("click",function(){
+								window.open('http://www.band.us/plugin/share?body=%EA%B0%9C%EC%84%B1%EA%B3%B5%EB%8B%A8%20%EC%A4%91%EB%8B%A8%20%27%ED%9B%84%EC%86%8D%EC%A1%B0%EC%B9%98%27%E2%80%A6%EB%82%A8%EC%B8%A1%20%EC%9D%B8%EC%9B%90%C2%B7%EC%9E%90%EC%9E%AC%C2%B7%EC%9E%A5%EB%B9%84%20%EC%B2%A0%EC%88%98http%3A%2F%2Fwww.metroseoul.co.kr%2Fnews%2Fnewsview%3Fnewscd%3D2016021100022', 'band_pop', 'width=700,height=550,scrollbars=no,resizable=no');
+			});
+
+			Kakao.init('e7ceaca76d51059c9b18188acddd574a');
+			$("#share_kakaostory").click(function(){
+
+				Kakao.Auth.getStatus(function(statusObj) {
+
+			    if (statusObj.status == "not_connected") {
+				         Kakao.Auth.login({
+					        success: function(authObj) {
+						        shareKakaoStory();
+					        }
+					      });
+				        } else {
+							shareKakaoStory();
+
+						}
+			    });
+			});
+			$("#shareKakaostory").click(function(){
+
+				Kakao.Auth.getStatus(function(statusObj) {
+
+			    if (statusObj.status == "not_connected") {
+				         Kakao.Auth.login({
+					        success: function(authObj) {
+						        shareKakaoStory();
+					        }
+					      });
+				        } else {
+							shareKakaoStory();
+
+						}
+			    });
+			});
+
+			$("#btn_fontUp").mouseenter(function(){
+				$(this).css("border","1px solid #999999");
+
+			}).mouseleave(function(){
+				$(this).css("border","1px solid #cccccc");
+			});
+
+			$("#btn_fontDown").mouseenter(function(){
+				$(this).css("border","1px solid #999999");
+				$("#btn_fontUp").css("border-right","0px");
+				$("#btn_print").css("border-left","0px");
+			}).mouseleave(function(){
+				$(this).css("border","1px solid #cccccc");
+				$(this).css("border-right","0px");
+				$(this).css("border-left","0px");
+
+				$("#btn_fontUp").css("border-right","1px solid #cccccc");
+				$("#btn_print").css("border-left","1px solid #cccccc");
+			});
+
+			$("#btn_print").mouseenter(function(){
+				$(this).css("border","1px solid #999999");
+			}).mouseleave(function(){
+				$(this).css("border","1px solid #cccccc");
+			});
+
+		});
+
+		function font_up(){
+				var currentFont = $('#CmAdContents').css("font-size");
+				currentFont = currentFont.replace("px","");
+				nextFont = Number(currentFont);
+				if(nextFont < 20){
+					nextFont = nextFont+1;
+					$('#CmAdContents').css("font-size", nextFont + "px");
+				}
+
+		};
+
+		function font_down(){
+				var currentFont = $('#CmAdContents').css("font-size");
+				currentFont = currentFont.replace("px","");
+				nextFont = Number(currentFont);
+				if(nextFont > 10){
+					nextFont = nextFont-1;
+					$('#CmAdContents').css("font-size", nextFont + "px");
+				}
+
+
+		};
+
+		function print_article(){
+				var newscd = $("#btn_print").attr("newscd");
+				var url = "http://www.metroseoul.co.kr/news/newsview/printer?newscd=" + newscd;
+				var metroprint = window.open(url, 'newsprint', 'width=640,height=700,scrollbars=yes');
+
+		};
+
+		function toComment(){
+
+
+		}
+		</script>
+</head>
+
+<body>
+<!--
+Array
+(
+)
+ -->
+	<div id="container">
+		<div id="tools">
+			<div id="util" class="width-default">
+	<div id="util_left" style="padding-left:5px;">
+		<ul>
+			<li><i class="icon-info-sign"></i> <a href="http://company.emetro.co.kr/" target="_blank" title="메트로소개">메트로소개</a></li>
+			<li class="pipe"></li>
+			<li><i class="icon-file-text"></i> <a href="http://press.metroseoul.co.kr/" target="_blank" title="보도자료" class="pr1">보도자료</a></li>
+			<li class="pipe"></li>
+ 			<li><i class="icon-file-text"></i> <a href="http://pdf.metroseoul.co.kr/main" target="_blank" title="지면 PDF" class="pr2">지면PDF</a></li>
+ 			<li class="pipe"></li>
+			<li><i class="icon-rss"></i> <a href="http://www.metroseoul.co.kr/news/rss/" target="_blank" title="RSS">RSS</a></li>
+		</ul>
+		<div class="clear"></div>
+	</div>
+
+	<div id="util_right" style="padding-right:5px;">
+		<ul>
+			<li><i class="icon-user"></i> <a href="https://member.metroseoul.co.kr/join/member" target="_top" title="회원가입">회원가입</a></li>
+			<li class="pipe"></li>
+			<li><i class="icon-key"></i> <a href="https://member.metroseoul.co.kr/com/login?rf=http%3A%2F%2Fwww.metroseoul.co.kr%2Fnews%2Fnewsview%3Fnewscd%3D2016021100022" target="_self" title="로그인">로그인</a></li>
+			<li class="pipe"></li>
+			<li><i class="icon-magic"></i> <a href="https://member.metroseoul.co.kr/join/member/idnpwsearch" target="_top" title="아이디찾기">아이디찾기</a></li>
+			<li class="pipe"></li>
+			<li><a href="https://twitter.com/metroseoulnews" target="_blank" title="트위터"><i class="icon-twitter-sign"></i></a></li>
+			<li class="pipe"></li>
+			<li><a href="https://www.facebook.com/metroseoulnews?ref=hl" target="_blank" title="페이스북"><i class="icon-facebook-sign"></i></a></li>
+			<li class="pipe"></li>
+			<li><a href="http://www.pinterest.com/metroseoul/pins/" target="_blank"  title="핀터레스트"><i class="icon-pinterest-sign"></i></a></li>
+			<!-- <li class="pipe"></li>
+			<li><a href="#" title="사이트맵">사이트맵</a></li> -->
+		</ul>
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+</div>
+		</div>
+		<div id="adop_top_banner" style='margin-top:30px;'>
+				<div id='' style='margin:0 auto; width:728px; height:90px;'>
+				<script type='text/javascript'>
+				<!--//<![CDATA[
+				   document.MAX_ct0 ='';
+				   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
+				   var m3_r = Math.floor(Math.random()*99999999999);
+				   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+				   document.write ("zoneid=286787");document.write("&amp;nodis=1");
+				   document.write ('&amp;cb=' + m3_r);
+				   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+				   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+				   document.write ("&amp;loc=" + escape(window.location).substring(0,1600));
+				   if (document.context) document.write ("&context=" + escape(document.context));
+				   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+				       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+				   }
+				   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+				   document.write ("'></scr"+"ipt>");
+				//]]>--></script>
+				</div>
+			</div>
+		<div id="content">
+			<div id="content-container" class="width-default">
+				<div id="content-header">
+						
+<div id="header-top">
+	<div class="default-box">
+		<div class="top-logo">
+			<ul id="" class="">
+				<li><a href='/' target='_self'><img src="/images/common/logo.png" width="206" height="55" border="0" alt="" title=""></a></li>
+				<li class="last-date" style="color:#999;text-align:center;font-size: 12px;color: #666666;line-height: 18px;">2016.02.18 목요일 16:15:03</li>
+			</ul>
+
+		</div>
+		<div id="search-news" class="search-box">
+			<div class="search-form-box">
+				<form id="searchFrm" name="searchFrm">
+					<div class="inline-inpupbox">
+						<p>
+						<label id='searchLabel' for='keywd' search_href='' search_keywd='' search_target=''></label>
+						<input type="text" id="keywd" name="keywd" value="" title="검색어 입력" class="search-input"><span class="btn-search"><i class="icon-search"></i></span>
+						</p>
+					</div>
+				</form>
+			</div>
+			<div class="hot-keyword-box">
+
+<!-- 오늘의 운세|,|1|,||,|오늘의 운세|,|_self --><!-- 중국|,|0|,|http://www.metroseoul.co.kr/news/newsview?newscd=2015110800122|,|중국|,|_self --><!-- 한줄뉴스|,|1|,|http://www.metroseoul.co.kr/news/newsview?newscd=2015110400170|,|한줄뉴스|,|_self -->		<div id="hot-keyword-page-1" class="keyword" style="display:block;text-align:center;">
+<a href="http://www.metroseoul.co.kr/news/newsview?newscd=2015110800122" target="_self" title="" alt="">중국</a>
+<span class="pipe">|</span>
+<a href="/news/search?keywd=%ED%95%9C%EC%A4%84%EB%89%B4%EC%8A%A4" target="_self" title="" alt="">한줄뉴스</a>
+<span class="pipe">|</span>
+<a href="/news/search?keywd=%EC%98%A4%EB%8A%98%EC%9D%98+%EC%9A%B4%EC%84%B8" target="_self" title="" alt="">오늘의 운세</a>
+
+						</div>
+			<div class="btnZone"><img class="btn-keywd-previous" src="/images/common/btn_prev.png" width="12" height="14" alt="" /><img  class="btn-keywd-next" src="/images/common/btn_next.png" width="13" height="14" alt="" /></div>
+						<!-- <input type="hidden" id="keywdpage_total" value="1" /> -->
+			</div>
+
+		</div>
+		<div class="ad-box">
+			<!--
+			<iframe src="http://ad.xc.nis.nitmus.com/xc/h/CWDbvU2r" width="350" height="75" frameborder="0" scrolling="no" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0"></iframe>
+			-->
+			<!--
+			<iframe id='a1259e85' name='a1259e85' src='http://ads.emetro.co.kr/www/delivery/afr.php?zoneid=8&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='350' height='75'><a href='http://ads.emetro.co.kr/www/delivery/ck.php?n=ace0c895&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.emetro.co.kr/www/delivery/avw.php?zoneid=8&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ace0c895' border='0' alt='' /></a></iframe>
+			-->
+			<iframe id='a0d7839d' name='a0d7839d' src='http://ads.emetro.co.kr/www/delivery/afr.php?zoneid=8&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='320' height='77'><a href='http://ads.emetro.co.kr/www/delivery/ck.php?n=a1f84eab&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.emetro.co.kr/www/delivery/avw.php?zoneid=8&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a1f84eab' border='0' alt='' /></a></iframe>
+<!-- 			<script type="text/javascript" src="http://ad.xc.nis.nitmus.com/xc/j/CWDbvU2r"></script> -->
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="wide-box">
+		<div class="ad-box">
+			<iframe id='a872af45' name='a872af45' src='http://ads.emetro.co.kr/www/delivery/afr.php?zoneid=9&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='200' height='77'><a href='http://ads.emetro.co.kr/www/delivery/ck.php?n=af8a518f&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.emetro.co.kr/www/delivery/avw.php?zoneid=9&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af8a518f' border='0' alt='' /></a></iframe>
+
+		</div>
+	</div>
+	<div class="clear"></div>
+</div><!-- END HEADER TOP -->					<div id="header-menu">
+						<div class="default-box">
+	<div class="top-menu">
+		<ul>
+		
+			
+							<li><a class='btnMenu' id="topmenu-link-1" targetData="1" href="/news/main" title="뉴스"><img id="topmenu-img-1" src="/images/ico/menu_default/top-menu_01.jpg" class="topmenu-img" alt="" /></a></li>
+							<li><a class='btnMenu' id="topmenu-link-2" targetData="2" href="/news/section?sec=economy" title="경제"><img id="topmenu-img-2" src="/images/ico/menu_default/top-menu_02.jpg" class="topmenu-img" alt="" /></a></li>
+							<li><a class='btnMenu' id="topmenu-link-3" targetData="3" href="/news/section?sec=global" title="국제"><img id="topmenu-img-3" src="/images/ico/menu_default/top-menu_03.jpg" class="topmenu-img" alt="" /></a></li>
+							<li><a class='btnMenu' id="topmenu-link-4" targetData="4" href="/news/section?sec=life" title="라이프"><img id="topmenu-img-4" src="/images/ico/menu_default/top-menu_04.jpg" class="topmenu-img" alt="" /></a></li>
+							<li><a class='btnMenu' id="topmenu-link-5" targetData="5" href="/news/section?sec=opinion" title="오피니언"><img id="topmenu-img-5" src="/images/ico/menu_default/top-menu_05.jpg" class="topmenu-img" alt="" /></a></li>
+							<li><a class='btnMenu' id="topmenu-link-6" targetData="6" href="/news/section?sec=entertainment" title="문화"><img id="topmenu-img-6" src="/images/ico/menu_default/top-menu_07.jpg" class="topmenu-img" alt="" /></a></li>
+							<li><a class='btnMenu' id="topmenu-link-7" targetData="7" href="/news/section?sec=sport" title="스포츠"><img id="topmenu-img-7" src="/images/ico/menu_default/top-menu_06.jpg" class="topmenu-img" alt="" /></a></li>
+		
+		</ul>
+		<div class="clear"></div>
+	</div>
+	<div class="sp-menu">
+		<ul>
+			<li>
+				<img src="/images/common/top-menu_split.png" width="0" height="40" border="0" alt="" title="">
+			</li>
+			<li>
+				<a class='specialMenu' href='/news/photonews' target='_self' id='btn_menuPhoto'>
+					<img src="/images/common/top-menuPhoto.jpg"  border="0" alt="" title="">
+				</a>
+			</li>
+			<li>
+				<a class='specialMenu' href='http://pdf.metroseoul.co.kr/main' target='_self' id='btn_menuPdf'>
+					<img src="/images/common/top-menuPdf.jpg"  border="0" alt="" title="">
+				</a>
+			</li>
+			<li>
+				<a class='specialMenu' href='https://event.metroseoul.co.kr/event/event' target='_self' id='btn_menuEvent'>
+					<img src="/images/common/top-menuEvent.jpg"  border="0" alt="" title="">
+				</a>
+			</li>
+		</ul>
+		<div class="clear"></div>
+	</div>
+	<div id='switch' class="switch_off">
+		<img src="/images/common/top-menu_fold.jpg" border="0" alt="" title="">
+	</div>
+	<div class="clear"></div>
+</div>
+<div id='btnSpecial' class="wide-box" target='_self'>
+	<a href='/news/group/main' style='block'>
+		<img src="/images/common/top-menuSpecial.jpg" border="0" alt="" title="">
+	</a>
+</div>
+<div class="clear"></div>										<!--서브메뉴-->
+				<div id="metro-submenu">
+
+					<!--메인-->
+					<div id="submenu-01" class="depth off">
+					<div class="subcontent-box">
+						<ul class="nav">
+							<li><a href="/news/newslist">전체기사</a></li>
+							<li><a href="/news/newslist?cate=170000000">정치</a></li>
+							<li><a href="/news/newslist?cate=160000000">산업</a></li>
+							<li><a href="/news/newslist?cate=120000000">금융</a></li>
+							<li><a href="/news/newslist?cate=130000000">증권</a></li>							
+							<li><a href="/news/newslist?cate=140000000">사회</a></li>
+							<li><a href="/news/newslist?cate=180000000">건설&middot;부동산</a></li>
+							<li><a href="/news/newslist?cate=190000000">IT&middot;과학</a></li>
+							<li><a color='#a60000' href="/news/issue/main/">핫이슈</a></li>
+							<li><a color='#a60000' href="/news/group/main/">스페셜기획</a></li>											
+						</ul>
+						<div class="conA">
+	<div class="sheadline1">
+				<div class="photo"><a href="/news/newsview?newscd=2016021700120"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000119.jpg&x=157&y=105&b=0&p=tc&ds=320" width="157" height="105" alt=""></a></div>
+				<div class="txt" style=''>
+			<!-- 글자수 줄임 css로 처리 -->
+			<h2><a href="/news/newsview?newscd=2016021700120">선거구획정 지연, 대혼란 '째깍 째깍'</a></h2>
+			<!-- //글자수 줄임 css로 처리 -->
+			<div><a href="/news/newsview?newscd=2016021700120">[메트로신문 연미란 기자]여야가 공직선거법상 선거구획정안에 대한 획정 시한(지난해 11월 13일)을 넘기면서 현행 선거구가 모두 무효화되는 초유의 사태가 3개월째 지속되고 있다. …</a></div>
+		</div>
+		<div class="clear"></div>
+	</div>
+
+							<ul class="list">
+								<li><a href="/news/newsview?newscd=2016021800110"><span><b>금융</b> </span> 박인규 DGB금융 회장 “청렴경영으로 고객과 신뢰 쌓을 것”</a></li>
+								<li><a href="/news/newsview?newscd=2016021800073"><span><b>산업</b> </span> 중기청, "실패없는 성공은 없다"</a></li>
+								<li><a href="/news/newsview?newscd=2016021800057"><span><b>산업</b> </span> 소니코리아, "바다에서도 워크맨 쓰세요"</a></li>
+								<li><a href="/news/newsview?newscd=2016021800062"><span><b>금융</b> </span> [인터뷰] 국민은행 오택 채용팀장 "지원자 모두 눈에 밟히지만…"</a></li>
+								<li><a href="/news/newsview?newscd=2016021800088"><span><b>건설/부동산</b> </span> 1월 지방 아파트값, 3년 만에 첫 하락</a></li>
+							</ul>
+
+						</div><!--//conA-->
+						<!--conB-->
+						<div class="conB">
+							<div class="section1 fl">
+								<div class="photo"><a href="/news/newsview?newscd=2016021600055"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160216000039.jpg&x=148&y=183&b=0&p=tc&ds=320" width="148" height="183" alt=""></a></div>
+								<div class="txt"><a href="/news/newsview?newscd=2016021600055">사랑과 이별, 스물일곱 조권의 솔직한…</a></div>
+							</div>
+
+							<div class="section1 fr">
+								<div class="photo"><a href="/news/photonews"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160218000077.jpg&x=148&y=183&b=0&p=tc&ds=320" width="148" height="183" alt=""></a></div>
+								<div class="txt"><a href="/news/photonews">캐논코리아, EOS-ID X Ⅱ·EOS</a></div>
+							</div>
+
+							<ul class="list">
+								<li><a href="/news/newsview?newscd=2016020400196"><span><b>날씨</b> </span> 연휴 하루 전 구름 많고 바람</a></li>
+								<li><a href="/news/newsview?newscd=2016021700049"><span><b>운세</b> </span> 2월 18일 목요일 (음력 1월 11일)</a></li>
+								<li><a href="/news/newsview?newscd=2016021700048"><span><b>사주</b> </span> 개명을 해야 하는지요</a></li>
+							</ul>
+						</div><!--//conB-->
+						<div class="clear"></div>
+					</div>
+					</div><!--//메인-->
+
+					<!--경제-->
+					<div id="submenu-02" class="depth off">
+					<div class="subcontent-box">
+						<ul class="nav">
+							<li><a href="/news/newslist?cate=110000000">전체기사</a></li>
+							<li><a href="/news/newslist?cate=110110000">경제정책</a></li>
+							<li><a href="/news/newslist?cate=110120000">경기동향</a></li>
+							<li><a href="/news/newslist?cate=110130000">세금</a></li>
+							<li><a href="/news/newslist?cate=110140000">창업&middot;취업</a></li>
+							<li><a href="/news/newslist?cate=110990000">경제일반</a></li>
+						</ul>
+						<div class="conA">
+	<div class="sheadline1">
+				<div class="photo"><a href="/news/newsview?newscd=2016021500174"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160215000161.jpg&x=157&y=105&b=0&p=cc&ds=320" width="157" height="105" alt=""></a></div>
+				<div class="txt" style=''>
+			<!-- 글자수 줄임 css로 처리 -->
+			<h2><a href="/news/newsview?newscd=2016021500174">신규 코픽스 넉달 만에 하락…주담대 금리상승세 꺾이나</a></h2>
+			<!-- //글자수 줄임 css로 처리 -->
+			<div><a href="/news/newsview?newscd=2016021500174">주택담보대출을 기준금리로 이용되는 신규 코픽스(COFIX·자금조달비용지수)가 넉 달 만에 하락했다. 이에 따라 주택담보대출의 금리 상승세도 주춤할 것으로 보인다. 15일 전국…</a></div>
+		</div>
+		<div class="clear"></div>
+	</div>
+
+							<ul class="list">
+								<li><a href="/news/newsview?newscd=2016021800050"><span><b>경제정책</b> </span> 금감원, 카드사 수수료 인하 실태 점검</a></li>
+								<li><a href="/news/newsview?newscd=2016021800052"><span><b>경제정책</b> </span> 여신금융협회, IC단말기 '무상' 교체해준다</a></li>
+								<li><a href="/news/newsview?newscd=2016021800058"><span><b>경제정책</b> </span> 신용생명보험 시장 커진다</a></li>
+								<li><a href="/news/newsview?newscd=2016021800090"><span><b>경제정책</b> </span> 교보생명, '2016 투명경영대상' 대상 수상…금융권 최초</a></li>
+								<li><a href="/news/newsview?newscd=2016021800097"><span><b>경제정책</b> </span> 오는 24일 '중국 대전환, 한국경제 해법' 세미나</a></li>
+							</ul>
+
+						</div><!--//conA-->
+						<!--conB-->
+						<div class="conB">
+							<div class="section1 fl">
+								<div class="photo"><a href="/news/newsview?newscd=2016021600055"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160216000039.jpg&x=148&y=183&b=0&p=cc&ds=320" width="148" height="183" alt=""></a></div>
+								<div class="txt"><a href="/news/newsview?newscd=2016021600055">사랑과 이별, 스물일곱 조권의 솔직한…</a></div>
+							</div>
+
+							<div class="section1 fr">
+								<div class="photo"><a href="/news/photonews"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160218000077.jpg&x=148&y=183&b=0&p=cc&ds=320" width="148" height="183" alt=""></a></div>
+								<div class="txt"><a href="/news/photonews">캐논코리아, EOS-ID X Ⅱ·EOS</a></div>
+							</div>
+
+							<ul class="list">
+								<li><a href="/news/newsview?newscd=2016020400196"><span><b>날씨</b> </span> 연휴 하루 전 구름 많고 바람</a></li>
+								<li><a href="/news/newsview?newscd=2016021700049"><span><b>운세</b> </span> 2월 18일 목요일 (음력 1월 11일)</a></li>
+								<li><a href="/news/newsview?newscd=2016021700048"><span><b>사주</b> </span> 개명을 해야 하는지요</a></li>
+							</ul>
+						</div><!--//conB-->
+						<div class="clear"></div>
+					</div>
+					</div><!--//경제-->
+
+					<!--국제-->
+					<div id="submenu-03" class="depth off">
+					<div class="subcontent-box">
+						<ul class="nav">
+							<li><a href="/news/newslist?cate=150000000">전체기사</a></li>
+							<li><a href="/news/globalmetro">Global Metro</a></li>
+							<li><a href="/news/newslist?cate=150120000">정치</a></li>
+							<li><a href="/news/newslist?cate=150140000">금융</a></li>
+							<li><a href="/news/newslist?cate=150150000">산업</a></li>
+							<li><a href="/news/newslist?cate=150160000">경영</a></li>
+							<li><a href="/news/newslist?cate=150170000">인물</a></li>
+							<li><a href="/news/newslist?cate=150180000">이슈</a></li>
+						</ul>
+						<div class="conA">
+
+
+							<div class="sheadline2">
+								<div class="photo"><a href="/news/newsview?newscd=2016021700173"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000169.jpg&x=157&y=105&b=0&p=tc&ds=320" width="157" height="105" alt=""></a></div>
+								<div class="txt">
+									<!-- 글자수 줄임 css로 처리 -->
+									<h2><a href="/news/newsview?newscd=2016021700173">중국, 교통인프라에 3년 동안 돈 쏟아붓는다</a></h2>
+									<!-- //글자수 줄임 css로 처리 -->
+									<div><a href="/news/newsview?newscd=2016021700173">중국 교통인프라에 3년 동안 돈 쏟아붓는다 [메트로신문 송병형기자] 중국 정부가 2018년까지 향후 3년간 철도, 도로, 공항 등 교통분야 건설 프로젝트를 가속화해 나가겠다는 계획을 …</a></div>
+								</div>
+								<div class="clear"></div>
+							</div>
+
+
+							<div class="line"></div>
+							<div style="padding-top:18px;"></div>
+
+
+							<div class="sheadline2">
+								<div class="photo"><a href="/news/newsview?newscd=2016021700162"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000158.jpg&x=157&y=105&b=0&p=tc&ds=320" width="157" height="105" alt=""></a></div>
+								<div class="txt">
+									<!-- 글자수 줄임 css로 처리 -->
+									<h2><a href="/news/newsview?newscd=2016021700162">임금 올려 경기 살리자는 아베, 노조에도 무시당했다</a></h2>
+									<!-- //글자수 줄임 css로 처리 -->
+									<div><a href="/news/newsview?newscd=2016021700162">임금 올려 경기 살리자는 아베, 노조에도 무시당했다 [메트로신문 송병형기자] 일본 자동차 대기업 노조가 춘투(매년 봄 노사교섭을 통해 새해 임금수준을 결정하는 일본식 임금인상…</a></div>
+								</div>
+								<div class="clear"></div>
+							</div>
+
+
+
+						</div><!--//conA-->
+						<!--conB-->
+						<div class="conB">
+							<div class="section1 fl">
+								<div class="photo"><a href="/news/newsview?newscd=2016021300014"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160216000038.jpg&x=148&y=183&b=0&p=tc&ds=320" width="148" height="183" alt=""></a></div>
+								<div class="txt"><a href="/news/newsview?newscd=2016021300014">남극 펭귄 15만 마리 떼죽음…20년 내 펭…</a></div>
+							</div>
+							<div class="section1 fr">
+								<div class="photo"><a href="/news/photonews"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=&x=148&y=183&b=0&p=tc&ds=320" width="148" height="183" alt=""></a></div>
+								<div class="txt"><a href="/news/photonews">美 패트리엇 미사일 부대, 한국에 추가…</a></div>
+							</div>
+							<ul class="list">
+								<li><a href="/news/newsview?newscd=2016021300009"><span><b>Global</b> </span> 오바마 서명 후 대북제재 강화 공식발효</a></li>
+								<li><a href="/news/newsview?newscd=2016021300006"><span><b>Global</b> </span> 국제유가, 감산 기대에 급등…원유 29.44달러에 거래</a></li>
+								<li><a href="/news/newsview?newscd=2016021300003"><span><b>Global</b> </span> 뉴욕 연방은행장 "마이너스 금리 언급, 지나치게 성급하다"</a></li>
+							</ul>
+						</div><!--//conB-->
+
+						<div class="clear"></div>
+					</div>
+					</div><!--//국제-->
+
+					<!--유통-->
+					<div id="submenu-04" class="depth off">
+					<div class="subcontent-box">
+						<ul class="nav">
+							<li><a href="/news/newslist?cate=200000000">전체기사</a></li>
+							<!-- <li><a href="/news/newslist?cate=200130000">여행&middot;레져</a></li> -->
+							<li><a href="/news/newslist?cate=200190000">업계</a></li>
+							<li><a href="/news/newslist?cate=200180000">소비자</a></li>
+							<!-- <li><a href="/news/newslist?cate=200140000">건강</a></li> -->
+							<li><a href="/news/newslist?cate=200110000">푸드</a></li>
+							<li><a href="/news/newslist?cate=200120000">패션</a></li>
+							<!-- <li><a href="/news/newslist?cate=200150000">도서</a></li> -->
+							<li><a href="/news/newslist?cate=200160000">뷰티</a></li>
+							<!-- <li><a href="/news/newslist?cate=200200000">제약⋅의료⋅건강</a></li> -->
+						</ul>
+						<div class="conA">
+	<div class="sheadline1">
+				<div class="photo"><a href="/news/newsview?newscd=2016021700181"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000173.jpg&x=157&y=105&b=0&p=bc&ds=320" width="157" height="105" alt=""></a></div>
+				<div class="txt" style=''>
+			<!-- 글자수 줄임 css로 처리 -->
+			<h2><a href="/news/newsview?newscd=2016021700181">롯데百, 개성공단 철수 파트너사 돕기 나선다</a></h2>
+			<!-- //글자수 줄임 css로 처리 -->
+			<div><a href="/news/newsview?newscd=2016021700181">[메트로신문 김성현기자] 롯데백화점은 개성공단 긴급 철수로 피해가 예상되는 파트너사들에게 다양한 지원과 상품행사를 선보인다고 18일 밝혔다. 롯데백화점 파트너사 중 개성공단…</a></div>
+		</div>
+		<div class="clear"></div>
+	</div>
+
+							<ul class="list">
+								<li><a href="/news/newsview?newscd=2016021800098"><span><b>유통일반</b> </span> 타겟은 '소셜커머스'…대형마트 업계 '최저가 경쟁' 돌입</a></li>
+								<li><a href="/news/newsview?newscd=2016021800033"><span><b>푸드</b> </span> 짬뽕라면 열풍 햄버거로 번졌다...롯데리아 마짬버거 출시</a></li>
+								<li><a href="/news/newsview?newscd=2016021800032"><span><b>푸드</b> </span> 한국인 1명 연간 야쿠르트 67개 마신다</a></li>
+								<li><a href="/news/newsview?newscd=2016021700182"><span><b>유통일반</b> </span> 홈플러스, 국내 최초 '칠레산 체리' 선봬</a></li>
+								<li><a href="/news/newsview?newscd=2016021700128"><span><b>푸드</b> </span> 액상분유 나홀로 성장...LG생건 독주 속 남양·매일·일동도 가세</a></li>
+							</ul>
+
+						</div><!--//conA-->
+						<!--conB-->
+						<div class="conB">
+							<div class="section1 fl">
+								<div class="photo"><a href="/news/newsview?newscd=2016021600112"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20151122000102.jpg&x=148&y=183&b=0&p=bc&ds=320" width="148" height="183" alt=""></a></div>
+								<div class="txt"><a href="/news/newsview?newscd=2016021600112">소비자119-중고차 팔 때 이것만은 꼭 확…</a></div>
+							</div>
+
+							<div class="section1 fr">
+								<div class="photo"><a href="/news/photonews"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160218000077.jpg&x=148&y=183&b=0&p=bc&ds=320" width="148" height="183" alt=""></a></div>
+								<div class="txt"><a href="/news/photonews">캐논코리아, EOS-ID X Ⅱ·EOS</a></div>
+							</div>
+
+							<ul class="list">
+								<li><a href="/news/newsview?newscd=2016020400196"><span><b>날씨</b> </span> 연휴 하루 전 구름 많고 바람</a></li>
+								<li><a href="/news/newsview?newscd=2016021700049"><span><b>운세</b> </span> 2월 18일 목요일 (음력 1월 11일)</a></li>
+								<li><a href="/news/newsview?newscd=2016021700048"><span><b>사주</b> </span> 개명을 해야 하는지요</a></li>
+							</ul>
+						</div><!--//conB-->
+						<div class="clear"></div>
+					</div>
+					</div><!--//라이프-->
+
+					<!--오피니언-->
+					<div id="submenu-05" class="depth off">
+					<div class="subcontent-box">
+						<ul class="nav">
+							<li><a href="/news/newslist?cate=210000000">전체기사</a></li>
+							<li><a href="/news/newslist?cate=210110000">사설</a></li>
+							<li><a href="/news/plan/main">외부기고</a></li>
+							<li><a href="/news/newslist?cate=210130000">기자수첩</a></li>
+							<li><a href="/news/newslist?cate=210140000">인사</a></li>
+							<li><a href="/news/newslist?cate=210150000">동정</a></li>
+							<li><a href="/news/newslist?cate=210160000">부음</a></li>
+						</ul>
+						<div class="conA">
+
+
+							<div class="sheadline2">
+								<div class="photo"><a href="/news/newsview?newscd=2016021600136"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160216000121.jpg&x=157&y=105&b=0&p=cc&ds=320" width="157" height="105" alt=""></a></div>
+								<div class="txt">
+									<!-- 글자수 줄임 css로 처리 -->
+									<h2><a href="/news/newsview?newscd=2016021600136">[김필수의 차이야기] BMW코리아의 화재사고 대책, 타 기업이 배워야</a></h2>
+									<!-- //글자수 줄임 css로 처리 -->
+									<div><a href="/news/newsview?newscd=2016021600136">[김필수의 차이야기] BMW코리아의 화재사고 대책, 타 기업이 배워야 연간 자동차 화재건수는 5000건이 넘는다. 원인은 다양하다. 주로 뜨거운 엔진룸에서 주로 발생하고 엔진오일이…</a></div>
+								</div>
+								<div class="clear"></div>
+							</div>
+
+
+							<div class="line"></div>
+							<div style="padding-top:18px;"></div>
+
+
+							<div class="sheadline2">
+								<div class="photo"><a href="/news/newsview?newscd=2016021600072"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160216000064.jpg&x=157&y=105&b=0&p=tc&ds=320" width="157" height="105" alt=""></a></div>
+								<div class="txt">
+									<!-- 글자수 줄임 css로 처리 -->
+									<h2><a href="/news/newsview?newscd=2016021600072">노희영의 브랜드 만들기 &quot;매일 새로운 하루를 '세상의 모든 아침'과 함께&quot;</a></h2>
+									<!-- //글자수 줄임 css로 처리 -->
+									<div><a href="/news/newsview?newscd=2016021600072">노희영의 브랜드 만들기 3편- 더 스카이팜 The SKYFARM 2부 전경련 회관 1980㎡(600평)의 공간을 기획하면서 가장 멋진 조건은 12m의 드라마틱한 천정 높이였다. 그러나 막상 식당…</a></div>
+								</div>
+								<div class="clear"></div>
+							</div>
+
+
+
+						</div><!--//conA-->
+						<!--conB-->
+						<div class="conB">
+							<div class="section1 fl">
+								<div class="photo"><a href="/news/newsview?newscd=2016021700106"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000111.jpg&x=148&y=183&b=0&p=cl&ds=320" width="148" height="183" alt=""></a></div>
+								<div class="txt"><a href="/news/newsview?newscd=2016021700106">CD금리 담합 진실은</a></div>
+							</div>
+							<div class="section1 fr">
+								<div class="photo"><a href="/news/newsview?newscd=2016021500081"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160215000070.jpg&x=148&y=183&b=0&p=cl&ds=320" width="148" height="183" alt=""></a></div>
+								<div class="txt"><a href="/news/newsview?newscd=2016021500081">개성공단 기업인들의 절규</a></div>
+							</div>
+
+							<ul class="list">
+								<li><a href="/news/newsview?newscd=2016021700144"><span><b>인사</b> </span> 인사-2월17일</a></li>
+								<li><a href="/news/newsview?newscd=2016021700150"><span><b>동정</b> </span> 배우 권상우, "꿈과 희망을 위해 도전하라"</a></li>
+								<li><a href="/news/newsview?newscd=2016021500136"><span><b>인사</b> </span> 인사-2월15일</a></li>
+							</ul>
+						</div><!--//conB-->
+						<div class="clear"></div>
+					</div>
+					</div><!--//오피니언-->
+
+					<!--연예-->
+					<div id="submenu-06" class="depth off">
+					<div class="subcontent-box">
+						<ul class="nav">
+							<li><a href="/news/newslist?cate=310000000">전체기사</a></li>
+							<li><a href="/news/newslist?cate=310110000">종합</a></li>
+							<li><a href="/news/newslist?cate=310120000">TV방송</a></li>
+							<li><a href="/news/newslist?cate=310130000">영화</a></li>
+							<li><a href="/news/newslist?cate=310140000">음악</a></li>
+							<li><a href="/news/newslist?cate=310180000">도서</a></li>
+							<li><a href="/news/newslist?cate=310170000">공연⋅전시</a></li>
+							<li><a href="/news/newslist?cate=310160000">해외연예</a></li>
+						</ul>
+						<div class="conA">
+
+
+							<div class="sheadline2">
+								<div class="photo"><a href="/news/newsview?newscd=2016021800103"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160218000104.jpg&x=157&y=105&b=0&p=tc&ds=320" width="157" height="105" alt=""></a></div>
+								<div class="txt">
+									<!-- 글자수 줄임 css로 처리 -->
+									<h2><a href="/news/newsview?newscd=2016021800103">'꽃보다 청춘 아프리카' 나영석 &quot;이동휘 빠진 이유 드라마 1회만 보고…&quot;</a></h2>
+									<!-- //글자수 줄임 css로 처리 -->
+									<div><a href="/news/newsview?newscd=2016021800103">'꽃보다 청춘 아프리카' 나영석 &quot;이동휘 빠진 이유 드라마 1회만 보고…&quot; '꽃보다 청춘 아프리카' 나영석 PD가 쌍문동 4인방으로 멤버를 꾸린 이유를 밝혔다. 18일 오후 임피리…</a></div>
+								</div>
+								<div class="clear"></div>
+							</div>
+
+
+							<div class="line"></div>
+							<div style="padding-top:18px;"></div>
+
+
+							<div class="sheadline2">
+								<div class="photo"><a href="/news/newsview?newscd=2016021800107"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160218000108.jpg&x=157&y=105&b=0&p=tc&ds=320" width="157" height="105" alt=""></a></div>
+								<div class="txt">
+									<!-- 글자수 줄임 css로 처리 -->
+									<h2><a href="/news/newsview?newscd=2016021800107">한중 합작 걸그룹 우주소녀, '모모모'로 25일 데뷔</a></h2>
+									<!-- //글자수 줄임 css로 처리 -->
+									<div><a href="/news/newsview?newscd=2016021800107">씨스타, 몬스타엑스 등이 속한 한국의 스타쉽엔터테인먼트와 중국의 위에화엔터테인먼트가 함께 선보이는 12인조 신인 걸그룹 우주소녀가 노래 '모모모(MOMOMO)'로 오는 25일 …</a></div>
+								</div>
+								<div class="clear"></div>
+							</div>
+
+
+
+						</div><!--//conA-->
+						<!--conB-->
+						<div class="conB">
+							<div class="section1 fl">
+								<div class="photo"><a href="/news/photonews?s=2"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000161.jpg&x=148&y=183&b=0&p=tc&ds=320" width="148" height="183" alt=""></a></div>
+								<div class="txt"><a href="/news/photonews?s=2">'남과 여' 화이팅!</a></div>
+							</div>
+							<div class="section1 fr">
+								<div class="photo"><a href="/news/photonews?s=2"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000167.jpg&x=148&y=183&b=0&p=tc&ds=320" width="148" height="183" alt=""></a></div>
+								<div class="txt"><a href="/news/photonews?s=2">'남과 여' 전도연-공유, 다정한 팔짱</a></div>
+							</div>
+
+							<ul class="list">
+								<li><a href="/news/newsview?newscd=2016021800114"><span><b>영화</b> </span> '해어화' 4월13일 개봉 확정…캐릭터 포스터 공개</a></li>
+								<li><a href="/news/newsview?newscd=2016021800111"><span><b>영화</b> </span> BIFF "서병수 시장의 조직위원장 사퇴, 정관 개정 이어져야"</a></li>
+								<li><a href="/news/newsview?newscd=2016021800107"><span><b>음악</b> </span> 한중 합작 걸그룹 우주소녀, '모모모'로 25일 데뷔</a></li>
+							</ul>
+						</div><!--//conB-->
+						<div class="clear"></div>
+					</div>
+					</div><!--//연예-->
+
+					<!--스포츠-->
+					<div id="submenu-07" class="depth off">
+					<div class="subcontent-box">
+						<ul class="nav">
+							<li><a href="/news/newslist?cate=320000000">전체기사</a></li>
+							<li><a href="/news/newslist?cate=320110000">종합</a></li>
+							<li><a href="/news/newslist?cate=320120000">야구</a></li>
+							<li><a href="/news/newslist?cate=320130000">축구</a></li>
+							<li><a href="/news/newslist?cate=320140000">골프</a></li>
+							<li><a href="/news/newslist?cate=320150000">농구</a></li>
+							<li><a href="/news/newslist?cate=320160000">배구</a></li>
+						</ul>
+						<div class="conA">
+
+
+							<div class="sheadline2">
+								<div class="photo"><a href="/news/newsview?newscd=2016021800096"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160218000095.jpg&x=157&y=105&b=0&p=tc&ds=320" width="157" height="105" alt=""></a></div>
+								<div class="txt">
+									<!-- 글자수 줄임 css로 처리 -->
+									<h2><a href="/news/newsview?newscd=2016021800096">LA·파리·로마·부다페스트, 2024 올림픽 후보 도시 경쟁</a></h2>
+									<!-- //글자수 줄임 css로 처리 -->
+									<div><a href="/news/newsview?newscd=2016021800096">미국 로스앤젤레스와 프랑스 파리, 이탈리아 로마와 헝가리 부다페스트가 2024년 하계 올림픽 유치에 나선다. 이들 4개 도시는 2024년 하계올림픽 유치를 위한 계획서를 18일 국제올림픽…</a></div>
+								</div>
+								<div class="clear"></div>
+							</div>
+
+
+							<div class="line"></div>
+							<div style="padding-top:18px;"></div>
+
+
+							<div class="sheadline2">
+								<div class="photo"><a href="/news/newsview?newscd=2016021800053"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160218000042.jpg&x=157&y=105&b=0&p=tc&ds=320" width="157" height="105" alt=""></a></div>
+								<div class="txt">
+									<!-- 글자수 줄임 css로 처리 -->
+									<h2><a href="/news/newsview?newscd=2016021800053">리오넬 메시, 프리메라리가 최초 300골 돌파</a></h2>
+									<!-- //글자수 줄임 css로 처리 -->
+									<div><a href="/news/newsview?newscd=2016021800053">리오넬 메시(29·FC바르셀로나)가 스페인 프리메라리가 통산 300호골과 301호골을 동시에 터트리며 팀의 승리를 이끌었다. 바르셀로나는 18일(한국시간) 스페인 히혼의 엘 몰리논 스타…</a></div>
+								</div>
+								<div class="clear"></div>
+							</div>
+
+
+
+						</div><!--//conA-->
+						<!--conB-->
+						<div class="conB">
+							<div class="section1 fl">
+								<div class="photo"><a href="/news/photonews?s=2"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160107000057.jpg&x=148&y=183&b=0&p=tc&ds=320" width="148" height="183" alt=""></a></div>
+								<div class="txt"><a href="/news/photonews?s=2">박병호, 미네소타에서도 백넘버는 '52'</a></div>
+							</div>
+							<div class="section1 fr">
+								<div class="photo"><a href="/news/photonews?s=2"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160107000056.jpg&x=148&y=183&b=0&p=tc&ds=320" width="148" height="183" alt=""></a></div>
+								<div class="txt"><a href="/news/photonews?s=2">파이팅 포즈 취하는 박병호</a></div>
+							</div>
+
+							<ul class="list">
+								<li><a href="/news/newsview?newscd=2016021800096"><span><b>스포츠종합</b> </span> LA·파리·로마·부다페스트, 2024 올림픽 후보 도시 경쟁</a></li>
+								<li><a href="/news/newsview?newscd=2016021800067"><span><b>스포츠종합</b> </span> 파키아오, 동성애 비하 발언으로 나이키로부터 결별 통보</a></li>
+								<li><a href="/news/newsview?newscd=2016021800066"><span><b>야구</b> </span> ESPN, 시애틀 '논 로스터' 주목할 선수로 이대호 꼽아</a></li>
+							</ul>
+						</div><!--//conB-->
+						<div class="clear"></div>
+					</div>
+					</div><!--//스포츠-->
+
+				</div><!--//서브메뉴-->					</div><!-- END HEADER-MENU -->
+				</div>
+				<div id="content-body">
+					<div class="default-box">
+						<!--body-left-box-->
+						<div class="body-left-box">
+							<!-- 2015-07-01 광고 제거
+							<div style='margin-bottom:15px;margin-left: 10px;'>
+								<IFRAME width="670" height="130" src="http://ad1.eventmanager.co.kr/ADHTML/Ad/metro/metro_top.html" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></IFRAME>
+								<iframe width="670" height="130" src="http://ad.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=00go&out=iframe" allowTransparency = "true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe>
+							</div>-->
+							<div class="pathBox">
+								<div class='path'><a href="/news/main">뉴스</a> &gt; <a href="/news/newslist?cate=170000000">정치</a> &gt; <span><a href="/news/newslist?cate=170140000">북한/한반도</a></span></div>
+								<div id="news_date_time" class="news_date_time"> 최종수정 : 2016-02-11 09:18:10</div>
+								<div class='clear'></div>
+							</div>
+							<div class='news_topBox'>
+								<h3 id="news_title"><!-- s : 기사 제목 -->개성공단 중단 '후속조치'…남측 인원·자재·장비 철수<!-- e : 기사 제목 --></h3>
+								<h4 id="news_subtitle"></h4>
+
+								<div class="news_utilBox">
+									<div id="news_writer" class="news_writer">
+										<ul>
+
+																																		<li> 연미란 기자(<span><a href="mailto:actor@metroseoul.co.kr">actor@</a></span>)</li>
+																								<div class='clear'></div>
+										</ul>
+									</div>
+
+									<div class='news_btnZone'>
+										<ul id='btn_left' class='fl'>
+											<li id='shareFacebook' style='background-color:#3c5a98;padding-top:10px;'><i class="icon-facebook"></i></li>
+											<li id='shareTwitter' style='background-color:#55acef;padding-top:10px;'><i class="icon-twitter"></i></li>
+											<li id='shareGoogle' style='background-color:#de4b39;padding-top:10px;'><i class="icon-google-plus"></i></li>
+											<li id='shareKakaostory' style='background-color:#f9bf15;padding-top:10px;'><img style='width:12px;' width='12' src='/images/ico/ico_kakaostory.png'></li>
+											<li id='shareBand'><img src='/images/ico/ico_band.jpg'></li>
+											<li>
+												<a id='btn_comment' href='#disqus_thread'>0</a>
+											</li>
+										</ul>
+										<ul id='btn_right' class='fr'>
+											<li id='btn_fontUp'><a href='javascript:font_up();'></a></li>
+											<li id='btn_fontDown' style='border-left:0px;border-right:0px;'><a href='javascript:font_down();'></a></li>
+											<li id='btn_print' newscd='2016021100022'><a href='javascript:print_article();'></a></li>
+										</ul>
+										<div class='clear'></div>
+									</div>
+
+									<div class='clear'></div>
+								</div><!-- news-info End -->
+
+
+							</div><!-- news_topBox -->
+							<div class="newsview-box">
+								<div class="sideADBox">
+									<div id='leftSideTopAD' style='width:120px; height:600px;'>
+									<!--/* OptimaA Script Tag v3.0.5 */-->
+										<script type='text/javascript'>
+										<!--//<![CDATA[
+										   document.MAX_ct0 ='';
+										   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
+										   var m3_r = Math.floor(Math.random()*99999999999);
+										   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+										   document.write ("zoneid=286790");document.write("&amp;nodis=1");
+										   document.write ('&amp;cb=' + m3_r);
+										   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+										   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+										   document.write ("&amp;loc=" + escape(window.location).substring(0,1600));
+										   if (document.context) document.write ("&context=" + escape(document.context));
+										   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+										       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+										   }
+										   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+										   document.write ("'></scr"+"ipt>");
+										//]]>--></script>
+									</div><!-- leftSideTopAD -->
+
+									<!-- Right_120x600 -->
+									<div id='leftSideBottomAD' style='margin-top:15px; width:120px; height:600px;'>
+										<!--/* OptimaA Script Tag v3.0.5 */-->
+										<script type='text/javascript'><!--//<![CDATA[
+										
+										   var m3_u = 'http://www.ads-optima.com/www/delivery/ajs.php'
+										   var m3_r = Math.floor(Math.random()*99999999999);
+										   if (!document.MAX_used) document.MAX_used = ',';
+										   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+										   document.write ("?zoneid=154");
+										   document.write ('&amp;cb=' + m3_r);
+										   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+										   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+										   document.write ("&amp;loc=" + escape(window.location));
+										   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+										   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+										   document.write ("'><\/scr"+"ipt>");
+										//]]>--></script>
+										<noscript><a href='http://www.ads-optima.com/www/delivery/ck.php?n=a27eb3b5&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.ads-optima.com/www/delivery/avw.php?zoneid=154&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a27eb3b5' border='0' alt='' /></a></noscript>
+									</div><!-- leftSideBottomAD -->
+								</div>
+
+																<!-- s : 기사 본문 -->
+								<!-- ADOPCONS -->
+								<div class='viewMarginLeft'>
+									<div id="news_content"><div id="CmAdContents"><!-- ADOPIMGS --><dl class='center_img' style='max-width:560px;width:480px;'><dd><img src='http://cdn.emetro.co.kr/imagebank/2016/02/11/0480/20160211000014.jpg' width='480' alt='' title=''></dd><dt>▲ 정부가 북한의 장거리 로켓(미사일) 발사에 대응해 개성공단 조업을 전면 중단하겠다고 발표한 10일 오후 군 차량이 경기도 파주시 통일대교를 건너고 있다./연합뉴스</dt></dl><!-- ADOPIMGE --> <p>[메트로신문 연미란 기자]우리 정부의 개성공단 가동 중단 선언에 따른 남측 인원 철수 등 후속 조치가 11일부터 시작된다.</p> <p>통일부 당국자는 "오늘 개성공단으로 출경할 예정이었던 인원은 1084명이지만, 체류 중인 직원이 없는 53개사 위주로 올려보내 철수를 준비하게 하고 나머지는 출경을 허용하지 않을 방침"이라고 밝혔다.</p> <p>이에 따라 개성공단 내 남측 인원의 철수는 단계적으로 이뤄질 전망이다.</p> <p>아울러 개성공단 철수와 관련, 남측 개성공단관리위원회와 북측 중앙특구개발지도총국 간 협의도 개시될 예정이다.</p> <p>개성공단 철수와 관련된 협의도 이날 시작될 예정이다.</p> <p>정부 당국자는 개성공단 철수 과정에서 갈등 가능성과 관련, "기본원칙은 각 기업의 설비와 자재, 보관 중인 완제품을 모두 철수시킨다는 것이지만, 이와 관련해서는 북측과 협의를 해야 한다"고 설명했다.</p> </div>
+									</div>
+								</div>
+								<!-- ADOPCONE -->
+								<!-- e : 기사 본문 -->
+
+
+								<script>document.write("<scr"+"ipt src='http://cm1.icontact.kr/script/cm_keywordlink_metroseoul.js' charset='euc-kr'></sc"+"ript>");</script>
+									<script type="text/javascript" src="http://js2.keywordsconnect.com/iconad_metroseoul.js"></script>
+
+								<div class='viewMarginLeft'>
+									<div id='shareZone'>
+										<div id='share_twitter'></div>
+										<div id='share_facebook'></div>
+										<div id='share_google'></div>
+										<div id='share_kakaostory'><img width="15" style='width:15px;' src="/images/ico/ico_kakaostory.png"></div>
+										<div id='share_bottom_band' style='margin-top:2px;'><img width="38" src="/images/ico/ico_band.jpg"></div>
+										<div class='clear'></div>
+									</div>
+								</div>
+								<div class='viewMarginLeft'>
+								<!--
+									<div id="editor" class="editor">
+										<ul>
+
+																																		<li> 연미란 기자(<span><a href="mailto:actor@metroseoul.co.kr">actor@</a></span>)</li>
+																						</ul>
+									</div>
+									-->
+								</div>
+								<div class='viewMarginLeft'>
+									<div id="copyright">세계 최대 종합일간지 ⓒ메트로신문(<span><a href="http://www.metroseoul.co.kr">http://www.metroseoul.co.kr</a></span>) 무단전재 및 재배포금지</div>
+								</div>
+								<div class='viewMarginLeft'>
+																				<div class='reporter_info'>
+												<div class='reporter_photo'>
+													<img src="http://cdn.emetro.co.kr/imagebank/editor/actor_metroseoul_co_kr.jpg" style='width:61px; height:62px;'>
+													<div id='photoOver_bg' class='photoOver'></div>
+													<div id='photoOver_icon' class='photoOver'><i class="icon-zoom-in"></i></span></div>
+												</div>
+												<div class='reporter_infoDetail'>
+													<div class='reporter_info_text'>
+														<p>
+															<span class='reporter_name'>
+															연미란 기자															</span>
+															<span class='reporter_email'>
+															( <a href='mailto:actor@metroseoul.co.kr'>actor@</a> )
+															</span>
+														</p>
+													</div>
+													<div class='reporter_info_sns'>
+														<ul>
+																																	<li class='reporter_facebook'><a href='http://www.facebook.com/miran.yeon.18' target='_blank'><i class="icon-facebook"></i></a></li>
+																																			<li class='reporter_twitter'><a href='http://www.twitter.com/yeonrainy' target='_blank'><i class="icon-twitter"></i></a></li>
+																																<li class='btn_article_more'>
+																<a href='/news/newslist/reporter?id=actor@metroseoul.co.kr' target="_self">기사 더보기 ></a>
+															</li>
+															<div class='clear'></div>
+														</ul>
+													</div>
+												</div>
+
+												<div class='reporter_more_post'>
+													<ul>
+													<li><a href='/news/newsview?newscd=2016021800036'>- 정부 "김정은 대남테러 지시…지하철 등 테러 타깃될 수 있어"</a></li><li><a href='/news/newsview?newscd=2016021800021'>- 국회, 오늘 비경제 대정부질문…개성공단·선거구획정 공방</a></li><li><a href='/news/newsview?newscd=2016021800007'>- 朴대통령, 오늘 청와대서 아바스 팔레스타인 수반 접견</a></li>													</ul>
+												</div>
+												<div class='clear'></div>
+											</div>
+																			</div>
+
+
+								
+								<div class='line' style='border-top:1px solid #ddd;margin:20px 10px;margin-left:81px;'></div>
+								<!-- <iframe width="100%" height="84px" src="http://ad.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=01Ro&out=iframe" allowTransparency = "true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe> -->
+								
+								<!-- 2015-07-01 광고 제거
+								<div class='viewMarginLeft' style='margin-left: 99px;padding-top: 9px;padding-bottom:10px;'>
+									<iframe width="560" height="80" src="http://ad.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=00gq&out=iframe" allowTransparency = "true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe>
+								</div>
+
+								<div id='bottomAdbox' class='viewMarginLeft' style='margin-left: 99px;'>
+									<iframe width="560" height="130" src="http://ad.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=00gp&out=iframe" allowTransparency = "true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe>
+								</div> -->
+
+								<div class='viewMarginLeft'>
+									<div id="disqus_thread" style="margin-left:23px;margin-top:20px;"></div>
+								</div>
+								<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+																								<div class="daum">
+																	<img src="http://cp.news.search.daum.net/api/publish.json?nurl=http%3A%2F%2Fwww.metroseoul.co.kr%2Fnews%2Fnewsview%3Fnewscd%3D2016021100022&xml_url=http%3A%2F%2Fapi.emetro.co.kr%2Fdaum%3Fnewscd%3D2016021100022&channel=politics" style="display:none;"/>
+																</div>
+								
+
+								<div class='clear'></div><!-- adBox & ContentBox Clear -->
+
+							</div><!-- newsview-box -->
+
+						<!-- Bottom Wide Box -->
+						<div class='bottomWideBox'>
+
+						<div class='photoBox'>
+							<style>
+*{padding:0px;margin:0px;}
+.bottomBox{
+	display:block;
+	width:690px;
+}
+.bottomBox ul li{
+	float:left;
+	width:214px;
+	display:block;
+	margin-left:18px;
+}
+.bottomBox ul li a{
+	display:block;
+	text-decoration: none;
+}
+.bottomBox .bottomBox_title{
+	margin-top:10px;
+	height:30px;
+	width: 100%;
+	font-size: 14px;
+	font-weight:bold;
+	color: #575757;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-o-text-overflow: ellipsis;
+	-ms-text-overflow: ellipsis;
+	line-height: 1.4em;	
+	margin-bottom:20px;	
+}
+.bottomBox ul li:first-child{
+	margin-left:0px;
+}
+
+</style>
+
+<div class='bottomBox'>
+	<ul>
+			<li>
+				<a href='/news/newsview?newscd=2016021800114'>
+					<div class='bottomBox_img'>
+						<img src='http://cdn.emetro.co.kr//html/image_view.php?f=20160218000115.jpg&amp;x=214&amp;y=114&amp;b=0&amp;p=tc&amp;ds=480'/>
+					</div>
+					<div class='bottomBox_title'>
+					'해어화' 4월13일 개봉 확정…캐릭터 포스터 공개					</div>
+				</a>
+			</li>
+					<li>
+				<a href='/news/newsview?newscd=2016021800111'>
+					<div class='bottomBox_img'>
+						<img src='http://cdn.emetro.co.kr//html/image_view.php?f=&amp;x=214&amp;y=114&amp;b=0&amp;p=tc&amp;ds=480'/>
+					</div>
+					<div class='bottomBox_title'>
+					BIFF "서병수 시장의 조직위원장 사퇴, 정관 개정 이어져야"					</div>
+				</a>
+			</li>
+					<li>
+				<a href='/news/newsview?newscd=2016021800107'>
+					<div class='bottomBox_img'>
+						<img src='http://cdn.emetro.co.kr//html/image_view.php?f=20160218000108.jpg&amp;x=214&amp;y=114&amp;b=0&amp;p=tc&amp;ds=480'/>
+					</div>
+					<div class='bottomBox_title'>
+					한중 합작 걸그룹 우주소녀, '모모모'로 25일 데뷔					</div>
+				</a>
+			</li>
+				<div class="clear"></div>
+	</ul>
+</div>
+
+
+<div class='bottomBox'>
+	<ul>
+			<li>
+				<a href='/news/newsview?newscd=2016021800096'>
+					<div class='bottomBox_img'>
+						<img src='http://cdn.emetro.co.kr//html/image_view.php?f=20160218000095.jpg&amp;x=214&amp;y=114&amp;b=0&amp;p=tc&amp;ds=480'/>
+					</div>
+					<div class='bottomBox_title'>
+					LA·파리·로마·부다페스트, 2024 올림픽 후보 도시 경쟁					</div>	
+				</a>
+			</li>
+					<li>
+				<a href='/news/newsview?newscd=2016021800067'>
+					<div class='bottomBox_img'>
+						<img src='http://cdn.emetro.co.kr//html/image_view.php?f=20160218000067.jpg&amp;x=214&amp;y=114&amp;b=0&amp;p=tc&amp;ds=480'/>
+					</div>
+					<div class='bottomBox_title'>
+					파키아오, 동성애 비하 발언으로 나이키로부터 결별 통보					</div>	
+				</a>
+			</li>
+					<li>
+				<a href='/news/newsview?newscd=2016021800066'>
+					<div class='bottomBox_img'>
+						<img src='http://cdn.emetro.co.kr//html/image_view.php?f=20160218000066.jpg&amp;x=214&amp;y=114&amp;b=0&amp;p=tc&amp;ds=480'/>
+					</div>
+					<div class='bottomBox_title'>
+					ESPN, 시애틀 '논 로스터' 주목할 선수로 이대호 꼽아					</div>	
+				</a>
+			</li>
+				<div class="clear"></div>
+	</ul>
+</div>
+						</div>
+
+						<div id="newsview_top_ad" style="margin:15px 0;">
+							<div id="" style="float:left;">
+								<!-- AD Plus Script Start (메트로신문 브랜드배너 3타입) -->
+								<script language="javascript" src="http://adimg.wisenut.co.kr/common/js/amc/wiseAdSvc.pj?code=75293989ca4dd6613662bb0dbe50dca8" type="text/javascript"></script>
+								<!-- AD Plus Script End -->
+							</div>
+							<div id="" style="float:right;">
+								<!-- AD Plus Script Start (메트로신문 스페셜인포 6타입) -->
+								<script language="javascript" src="http://adimg.wisenut.co.kr/common/js/amc/wiseAdSvc.pj?code=9bae41ef16c98bf50ff9ca4756ed43c0" type="text/javascript"></script>
+								<!-- AD Plus Script End -->
+							</div>
+							<div class="clear"></div>
+						</div>
+
+						 <style>
+/* 핫포토 */
+#hot-photo-news {
+	max-width:660px;
+	margin-top: 50px;
+	min-height: 330px;
+	margin-bottom:15px;
+	position:relative;
+}
+
+.hot-photo-title {
+	background: url("/images/main/hot_photo_bg.png") repeat-x top left;
+	height: 58px;
+}
+
+.hot-photo-title .hot-photo-title-img {
+	text-align: center;
+	float:left;
+	margin-left:270px;
+}
+
+.hot-photo-title .hot-photo-more {
+	float: right;
+	padding-top: 33px;
+	padding-right: 15px;
+	width: 65px;
+	text-align: right;
+	color: #a0a0a0;
+	font-weight: bold;
+	font-size: 12px;
+}
+.hot-photo-title .hot-photo-more a{
+	font-size: 13px;
+	color: #999999;
+}
+.hot-photo-list {
+	margin-top: 12px;
+	height:260px;
+}
+
+.hot-photo-title .hot-photo-navi{
+	float:right;
+	margin-top:36px;
+}
+.hot-photo-title .hot-photo-navi ul li{
+	height:10px;
+	width:10px;
+	background-color:#cccccc;
+	float:left;
+	margin-right:7px;
+	cursor:pointer;
+}
+.hot-photo-title .hot-photo-navi ul li.selected{
+	background-color:#2f9a66;
+	
+}
+.hot-photo-list .hot-photo-pages li {
+	float: left;
+}
+
+.hot-photo-list .hot-photo-pages li.ml-15 {
+	margin-left: 15px;
+}
+
+#cate-news {
+	margin-top: 50px;
+}
+.hot-photo-list-slider{
+	height:260px;
+}
+
+
+.btn_hotPhotoNavi{
+	position:absolute;
+	top:85px;
+}
+.btn_hotPhotoNavi{
+	display:block;
+	padding:10px;
+	opacity: 0.7;
+	text-decoration: none;
+	cursor:pointer;
+}
+.btn_hotPhotoNavi{
+	text-decoration: none;
+}
+.btn_hotPhotoNavi i{
+	color: white;
+	font-size: 75px;
+	-moz-opacity: 0.80;
+	-khtml-opacity: 0.80;
+	opacity: 0.80;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=80);
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=80);
+	filter:alpha(opacity=80);	
+}
+
+.btn_hotPhoto i{
+	font-size:33px;
+}
+#btn_prev_hotPhoto{
+
+	left:0px;
+}
+#btn_next_hotPhoto{
+
+	right:0px;
+}
+</style>
+
+<script>
+	$(document).ready(function(){
+			
+	/* Slider*/
+		$('#hot-photo-news .hot-photo-list').iosSlider({
+			desktopClickDrag: true,
+			snapToChildren: true,
+			navSlideSelector: '.hot-photo-navi ul li',
+			onSlideComplete: slideComplete,
+			onSliderLoaded: sliderLoaded,
+			onSlideChange: slideChange,
+			scrollbar: true,
+			autoSlide: false,
+			autoSlideTimer: 3300,
+			infiniteSlider: true,
+			snapSlideCenter: true
+		  });
+	
+		function slideChange(args) {
+			$('.hot-photo-navi ul li').removeClass('selected');
+			$('.hot-photo-navi ul li:eq(' + (args.currentSlideNumber - 1) + ')').addClass('selected');
+		}
+	
+		function slideComplete(args) {
+			
+			if(!args.slideChanged) return false;
+		}
+	
+		function sliderLoaded(args) {
+			$(".slideBtn").css("display","block");
+	
+			slideChange(args);
+		}
+	
+		$("#btn_prev_hotPhoto").click(function(){
+			$("#hot-photo-news .hot-photo-list").iosSlider('prevSlide');
+		});
+		
+		$("#btn_next_hotPhoto").click(function(){
+			$("#hot-photo-news .hot-photo-list").iosSlider('nextSlide');	
+		});	
+		
+		$(".btn_hotPhotoNavi i").mouseenter(function(){
+					$(this).css("color","#2f9a66");	
+				}).mouseleave(function(){
+					$(this).css("color","#cccccc");	
+				});
+
+		
+	});
+	/*
+	function prevHotPhoto(){
+		var currentId = 1;
+
+		$(".hot-photo-pages").each(function(){
+			if($(this).css("display") == "block"){
+				currentId = this.id;
+			}
+		});
+		currentId = currentId.replace("photo-page-","");
+		currentId = Number(currentId);
+		$( "#photo-page-" + currentId ).effect( "drop", { direction: "left" }, 300, showHotPhotoSlide('prev',currentId) );
+	}
+	function nextHotPhoto(){
+		var currentId = 1;	
+		$(".hot-photo-pages").each(function(){
+			if($(this).css("display") == "block"){
+				currentId = this.id;
+			}
+		});
+		currentId = currentId.replace("photo-page-","");
+		currentId = Number(currentId);	
+		$( "#photo-page-" + currentId ).effect( "drop", { direction: "right" }, 300, showHotPhotoSlide('next',currentId) );
+
+	}
+	function showHotPhotoSlide(type,idx){
+
+		switch(type){
+			case "prev":
+				if(idx > 1){
+					idx = idx - 1;
+				}else{
+					idx = $(".hot-photo-pages").length;
+				}			
+			break;
+			
+			case "next":
+				if(idx < $(".hot-photo-pages").length){
+					idx = idx + 1;	
+				}else{
+					idx = 1;
+				}				
+			break;
+			
+		}
+		setTimeout(function() {
+	        $( "#photo-page-" + idx ).fadeIn(100);
+		}, 400 );
+		
+		
+	}
+	*/
+</script>
+
+
+<div id="hot-photo-news">
+	<div class="hot-photo-title">
+		<div class="row-fluid">
+			<div class="hot-photo-title-img">
+				<img src="/images/main/hot_photo_title.png" width="110" height="58" border="0" alt="" title="">
+			</div>
+			<div class="hot-photo-more">
+				<a href='/news/photonews?s=3'>더보기 &gt;</a>
+			</div>			
+			<div class='hot-photo-navi'>
+				<ul>
+					<li></li>
+					<li></li>
+					<li></li>
+					<li></li>											
+					<li></li>					
+				</ul>
+			</div>
+
+		</div>
+	</div>
+	<div class="hot-photo-list">
+		<div class='hot-photo-list-slider'>
+		
+		<div id="photo-page-1" class="hot-photo-pages">
+			<ul>
+						
+				<li class=''><a href="/news/photonews?s=3"><img src="http://cdn.emetro.co.kr//html/image_view.php?f=20160216000170.jpg&amp;x=210&amp;y=260&amp;b=0&amp;p=cc&amp;ds=480" width="210" height="260" border="0" alt="" title=""></a></li>	
+				
+								
+				<li class='ml-15'><a href="/news/photonews?s=3"><img src="http://cdn.emetro.co.kr//html/image_view.php?f=20160216000181.jpg&amp;x=210&amp;y=260&amp;b=0&amp;p=cc&amp;ds=480" width="210" height="260" border="0" alt="" title=""></a></li>	
+				
+								
+				<li class='ml-15'><a href="/news/photonews?s=3"><img src="http://cdn.emetro.co.kr//html/image_view.php?f=20160215000117.jpg&amp;x=210&amp;y=260&amp;b=0&amp;p=cc&amp;ds=480" width="210" height="260" border="0" alt="" title=""></a></li>	
+				
+						
+			<div class='clear'></div>
+			</ul>
+		</div><!-- Photo-page-# -->
+		
+	
+		<div id="photo-page-2" class="hot-photo-pages">
+			<ul>
+						
+				<li class=''><a href="/news/photonews?s=3"><img src="http://cdn.emetro.co.kr//html/image_view.php?f=20160215000131.jpg&amp;x=210&amp;y=260&amp;b=0&amp;p=cc&amp;ds=480" width="210" height="260" border="0" alt="" title=""></a></li>	
+				
+								
+				<li class='ml-15'><a href="/news/photonews?s=3"><img src="http://cdn.emetro.co.kr//html/image_view.php?f=20160215000125.jpg&amp;x=210&amp;y=260&amp;b=0&amp;p=cc&amp;ds=480" width="210" height="260" border="0" alt="" title=""></a></li>	
+				
+								
+				<li class='ml-15'><a href="/news/photonews?s=3"><img src="http://cdn.emetro.co.kr//html/image_view.php?f=20160201000136.jpg&amp;x=210&amp;y=260&amp;b=0&amp;p=cc&amp;ds=480" width="210" height="260" border="0" alt="" title=""></a></li>	
+				
+						
+			<div class='clear'></div>
+			</ul>
+		</div><!-- Photo-page-# -->
+		
+	
+		<div id="photo-page-3" class="hot-photo-pages">
+			<ul>
+						
+				<li class=''><a href="/news/photonews?s=3"><img src="http://cdn.emetro.co.kr//html/image_view.php?f=20160121000132.jpg&amp;x=210&amp;y=260&amp;b=0&amp;p=cc&amp;ds=480" width="210" height="260" border="0" alt="" title=""></a></li>	
+				
+								
+				<li class='ml-15'><a href="/news/photonews?s=3"><img src="http://cdn.emetro.co.kr//html/image_view.php?f=20160118000148.jpg&amp;x=210&amp;y=260&amp;b=0&amp;p=cc&amp;ds=480" width="210" height="260" border="0" alt="" title=""></a></li>	
+				
+								
+				<li class='ml-15'><a href="/news/photonews?s=3"><img src="http://cdn.emetro.co.kr//html/image_view.php?f=20160118000141.jpg&amp;x=210&amp;y=260&amp;b=0&amp;p=cc&amp;ds=480" width="210" height="260" border="0" alt="" title=""></a></li>	
+				
+						
+			<div class='clear'></div>
+			</ul>
+		</div><!-- Photo-page-# -->
+		
+	
+		<div id="photo-page-4" class="hot-photo-pages">
+			<ul>
+						
+				<li class=''><a href="/news/photonews?s=3"><img src="http://cdn.emetro.co.kr//html/image_view.php?f=20160106000037.jpg&amp;x=210&amp;y=260&amp;b=0&amp;p=cc&amp;ds=480" width="210" height="260" border="0" alt="" title=""></a></li>	
+				
+								
+				<li class='ml-15'><a href="/news/photonews?s=3"><img src="http://cdn.emetro.co.kr//html/image_view.php?f=20160105000163.jpg&amp;x=210&amp;y=260&amp;b=0&amp;p=cc&amp;ds=480" width="210" height="260" border="0" alt="" title=""></a></li>	
+				
+								
+				<li class='ml-15'><a href="/news/photonews?s=3"><img src="http://cdn.emetro.co.kr//html/image_view.php?f=20160105000169.jpg&amp;x=210&amp;y=260&amp;b=0&amp;p=cc&amp;ds=480" width="210" height="260" border="0" alt="" title=""></a></li>	
+				
+						
+			<div class='clear'></div>
+			</ul>
+		</div><!-- Photo-page-# -->
+		
+	
+		<div id="photo-page-5" class="hot-photo-pages">
+			<ul>
+						
+				<li class=''><a href="/news/photonews?s=3"><img src="http://cdn.emetro.co.kr//html/image_view.php?f=20151223000108.jpg&amp;x=210&amp;y=260&amp;b=0&amp;p=cc&amp;ds=480" width="210" height="260" border="0" alt="" title=""></a></li>	
+				
+								
+				<li class='ml-15'><a href="/news/photonews?s=3"><img src="http://cdn.emetro.co.kr//html/image_view.php?f=20151222000165.jpg&amp;x=210&amp;y=260&amp;b=0&amp;p=cc&amp;ds=480" width="210" height="260" border="0" alt="" title=""></a></li>	
+				
+								
+				<li class='ml-15'><a href="/news/photonews?s=3"><img src="http://cdn.emetro.co.kr//html/image_view.php?f=20151222000060.jpg&amp;x=210&amp;y=260&amp;b=0&amp;p=cc&amp;ds=480" width="210" height="260" border="0" alt="" title=""></a></li>	
+				
+						
+			<div class='clear'></div>
+			</ul>
+		</div><!-- Photo-page-# -->
+		
+			
+		</div>	
+		
+		<div id='btn_prev_hotPhoto' class='btn_hotPhotoNavi'>
+			<i class="icon-angle-left"></i>
+		</div>
+		
+		<div id='btn_next_hotPhoto' class='btn_hotPhotoNavi'>
+			<i class="icon-angle-right"></i>
+		</div>			
+		
+	</div><!-- END hot-photo-list -->
+
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+
+						</div><!-- Bottom Wide Box END -->
+
+						</div><!-- Body-left-box END -->
+						<div class="body-right-box">
+
+							<style>
+.plan03-box {margin-bottom:20px;}
+.plan03-box .box .group_title {margin-bottom:7px; padding-bottom:3px; border-bottom:1px solid #e3e3e3;}
+.plan03-box .box .group_title h5 {float:left; font-size:14px;}
+.plan03-box .box .group_title .group_more {float:right; padding-top:5px;}
+.plan03-box .box .group_title .group_more a {font-size:11px; font-weight:100; color:#979797;}
+.plan03-box .box .group_title .group_more a:hover {text-decoration:none;}
+.plan03-box .box .content .news-list li {margin-bottom:8px; max-width:270px;white-space: initial;}
+.plan03-box .box .content .news-list li .news-photo {float:left; width:90px;}
+.plan03-box .box .content .news-list li .news-photo img {border:1px solid #ddd;}
+.plan03-box .box .content .news-list li .news-text {float:right; width:170px; padding-top:4px;}
+.plan03-box .box .content .news-list li .news-text .news-title {margin-bottom:2px;}
+.plan03-box .box .content .news-list li .news-text .news-title a {
+display: inline-block;
+width: 170px;
+color:#676767; font-size:12px; font-weight:bold;white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+-o-text-overflow: ellipsis;
+-ms-text-overflow: ellipsis;}
+.plan03-box .box .content .news-list li .news-text .news-content a {display: inline-block;
+width: 170px;
+color: #999;
+font-size: 12px;
+height: 32px;
+overflow: hidden; }
+
+</style>
+
+<script>
+$(document).ready(function(){
+	$(".sns-group ul li").click(function(){
+		//btn select 처리
+		$(".sns-group ul li").attr("class","");
+		$(this).attr("class","selected");
+		//SNS VIEW 처리
+		var id = this.id;
+		var targetID = id.replace("tab","container");
+		$(".frame").css("display","none");
+		$("#" + targetID).css("display","block");
+	});
+
+
+		/* Photo News */
+	$("#photo-news-list li a").mouseover(function(e) {
+		e.preventDefault();
+		var cur_id = $(this).attr("href");
+
+		$("#photo-news-list li a").removeClass("selected");
+		$("#photo-news-list li .bg_effect").removeClass("selected");
+		$(this).addClass('selected');
+		$(this).parent().find(".bg_effect").addClass('selected');
+
+		var align = "";
+		switch (cur_id)
+		{
+			case "#photo-item-11":
+			case "#photo-item-21":
+			case "#photo-item-12":
+				align = "photo-box-rb";
+				break;
+
+			case "#photo-item-13":
+			case "#photo-item-14":
+			case "#photo-item-24":
+				align = "photo-box-lb";
+				break;
+
+			case "#photo-item-34":
+			case "#photo-item-44":
+			case "#photo-item-43":
+				align = "photo-box-lt";
+				break;
+
+			case "#photo-item-31":
+			case "#photo-item-41":
+			case "#photo-item-42":
+				align = "photo-box-rt";
+				break;
+		}
+		$(".photo-item").prop("class", "photo-item off");
+		$(cur_id).prop("class", "photo-item " + align + " on");
+		//console.log(cur_id + " / " + $(cur_id).prop("id"));
+	});
+
+	$("#photo-news-list li .bg_effect").click(function(e){
+		e.preventDefault();
+		var newscd = $(this).attr("newscd");
+		location.href = "http://www.metroseoul.co.kr/news/newsview?newscd=" + newscd;
+	});
+
+
+});
+
+</script>
+
+<!-- 사이즈별 스타일 로드 -->
+<link rel="stylesheet" href="/common/_css/right_270.css">
+<!-- 기사 리스트 사이드바 -->
+<!--
+<div class='customBanner' style='margin-bottom: 15px;width:270px;background-color:#eaeaea;'>
+		<div style='width:250px;margin:0 auto 0;padding:10px 0;'><img style='width:250px;' src='/images/banner/error_banner.jpg'/></div>
+</div>
+-->
+<div class="ticker">
+	<div class="title"><a href="/news/newslist">속보 - </a></div>
+	<div class="view"><iframe src="/news/ticker" frameborder="0" width="220" height="20" scrolling="no"></iframe></div>
+
+	<div class="clear"></div>
+</div>
+
+
+
+<div style="margin-bottom:15px; margin-top:15px;background-color: #eaeaea;">
+	<div id='' style='margin:0 auto; padding:10px 0; width:250px; height:250px;'>
+<!--/* OptimaA Script Tag v3.0.5 */-->
+<script type='text/javascript'>
+<!--//<![CDATA[
+   document.MAX_ct0 ='';
+   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("zoneid=286793");document.write("&amp;nodis=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location).substring(0,1600));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+//]]>--></script>
+
+	</div>
+</div>
+
+<script type='text/javascript'><!--//<![CDATA[
+/*
+   var m3_u = (location.protocol=='https:'?'https://ads.emetro.co.kr/www/delivery/ajs.php':'http://ads.emetro.co.kr/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=14");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+  */
+//]]>--></script>
+	<!--
+	<noscript><a href='http://ads.emetro.co.kr/www/delivery/ck.php?n=a1e31722&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.emetro.co.kr/www/delivery/avw.php?zoneid=14&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a1e31722' border='0' alt='' /></a></noscript>
+	
+	</div>
+</div>
+-->
+
+<!-- 메트로몰 -->
+<div style='margin-bottom:15px;'>
+	<a href="http://www.metromall.co.kr/product/detail.html?product_no=237&cate_no=25&display_group=1" target="_blank"><img src="/images/banner/2016/20160218_metromall_banner.gif"></a>
+</div>
+
+<div style='margin-bottom:15px;'>
+</div>
+
+<!-- 금연솔루션 -->
+<div style='margin-bottom:15px;' width="240px" height="100px">
+<iframe id='a984ad95' name='a984ad95' src='http://ads.emetro.co.kr/www/delivery/afr.php?zoneid=25&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='270' height='100'><a href='http://ads.emetro.co.kr/www/delivery/ck.php?n=a2f18eb9&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.emetro.co.kr/www/delivery/avw.php?zoneid=25&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a2f18eb9' border='0' alt='' /></a></iframe>
+</div>
+
+<!-- 많이 본 기사 -->
+
+<script>
+$(document).ready(function(){
+  	var bestNews = Math.floor(Math.random() * 3) + 1;
+	$("#bestNews_tabs ul li a").removeClass("selected");
+	$(".bestnews .content-box .content").css("display","none");
+
+  	switch(bestNews){
+	  	case 1 :
+			$("#tab_economy" + " a").addClass("selected");
+			$("#content_economy").css("display","block");
+	  	break;
+	  	case 2 :
+			$("#tab_politics" + " a").addClass("selected");
+			$("#content_politics").css("display","block");
+	  	break;
+	  	case 3 :
+			$("#tab_ent" + " a").addClass("selected");
+			$("#content_ent").css("display","block");
+	  	break;
+  	}
+
+	$(".bestnews .box .tabs li").mouseover(function(){
+		var id = this.id;
+		target_id = id.replace("tab_","");
+		$("#bestNews_tabs ul li a").removeClass("selected");
+		$("#" + id + " a").addClass("selected");
+		$(".bestnews .content-box .content").css("display","none");
+		$("#content_" + target_id).css("display","block");
+	});
+
+	$(".bestnews .box .content-box .content").mouseover(function(){
+		var id = this.id;
+		$("#" + id).css("height","272px");
+	});
+
+	$(".bestnews .box .content-box .content").mouseleave(function(){
+		$(".bestnews .box .content-box .content").css("height","137px");
+	});
+
+});
+
+
+</script>
+<div class="bestnews">
+	<div class="header">
+	</div>
+	<div class="box">
+		<div id='bestNews_tabs' class="tabs">
+			<ul>
+				<li id='tab_economy'>
+					<a class='selected' target='_top' href="http://www.metroseoul.co.kr/news/section?sec=economy">
+						경제
+					</a>
+				</li>
+				<li id='tab_politics'>
+					<a  target='_top' href="http://www.metroseoul.co.kr/news/section?sec=global">
+						시사
+					</a>
+				</li>
+				<li id='tab_ent'>
+					<a  target='_top' href="http://www.metroseoul.co.kr/news/section?sec=entertainment">
+						연예
+					</a>
+				</li>
+			</ul>
+			<div class="clear"></div>
+		</div>
+		<div class="clear"></div>
+
+<div class="content-box">
+		<div id='content_economy' class="content">
+			<ul>
+			<li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021800002'><b><span class='number'>1</span>양재대로 인근 부동산이 들썩거린다</b></a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021700093'><b><span class='number'>2</span>ING생명, 매물로 나온다</b></a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021800003'><b><span class='number'>3</span>랜드마크에 종잣돈 몰린다…오피스텔에도 통하는 '규모의 경제'</b></a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021800001'><span class='number_non'>4</span>박근혜 정부, 전셋값 상승률 가장 높아</a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021700158'><span class='number_non'>5</span>[페이전쟁의 주인공들] IT업계, '라이프 스타일' 담아 승부수 던진다</a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021700148'><span class='number_non'>6</span>제네시스 브랜드 가치 급상승…EQ900 출시후 지속 판매 성장</a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021700128'><span class='number_non'>7</span>액상분유 나홀로 성장...LG생건 독주 속 남양·매일·일동도 가세</a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021700154'><span class='number_non'>8</span>홈쇼핑기업들의 '제2의 QVC' 꿈, '실패와 성공'</a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021700152'><span class='number_non'>9</span>현대차 한전부지 신사옥 2021년 완공…경제적 파급효과 커</a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021700162'><span class='number_non'>10</span>임금 올려 경기 살리자는 아베, 노조에도 무시당했다</a></li>			</ul>
+		</div>
+		<div id='content_politics' class="content" style="display:none;">
+			<!--
+			Array
+(
+    [0] => 2016021700155
+    [1] => 2015021300008
+    [2] => 2016021700161
+    [3] => 2016021700177
+    [4] => 2016021600082
+    [5] => 2016021700180
+    [6] => 2016021700120
+    [7] => 2015021700029
+    [8] => 2016021600148
+    [9] => 2016021700075
+)
+			-->
+			<ul>
+			<li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021700155'><b><span class='number'>1</span>[선거구 지연 대혼란①]'극적 합의냐, 총선 연기냐'…갈림길 처한 여의도</b></a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2015021300008'><b><span class='number'>2</span>세명대학교 포탈시스템, 2015학년도 1학기 수강신청 오늘(13일)까지</b></a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021700161'><b><span class='number'>3</span>메트로신문 2월18일자 한줄뉴스</b></a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021700177'><span class='number_non'>4</span>박대통령 주재 ‘무역투자회의’서 공유경제 활성화 논의</a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021600082'><span class='number_non'>5</span>복정역 복합환승센터 들어선다</a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021700180'><span class='number_non'>6</span>[일문일답] 이찬우 차관보 "수도권 규제 완화 특혜 아니다"</a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021700120'><span class='number_non'>7</span>선거구획정 지연, 대혼란 '째깍 째깍'</a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2015021700029'><span class='number_non'>8</span>차의과학대학교학사관리시스템, 수강신청 오늘(17일)까지 실시</a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021600148'><span class='number_non'>9</span>박 대통령, "개성공단 중단 시작에 불과" 北에 경고…대북정책 전환</a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021700075'><span class='number_non'>10</span>[생활법률]압류물을 허가없이 이동한 경우 처벌은?</a></li>			</ul>
+		</div>
+		<div id='content_ent' class="content" style="display:none;">
+			<ul>
+			<li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021800068'><b><span class='number'>1</span>'헤드윅:뉴 메이크업' 5인 5색 포스터 공개</b></a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021700178'><b><span class='number'>2</span>해외 영화인들, 계속되는 BIFF 지지…서병수 부산시장에 공개서한</b></a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2015061900143'><b><span class='number'>3</span>강하늘 샘컴퍼니와 의리 지켰다…재계약 완료, 황정민과 한솥밥 계속</b></a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021800069'><span class='number_non'>4</span>성현아, 성매매 혐의 벗었다…대법원서 원심 파기환송</a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021700184'><span class='number_non'>5</span>'뷰티풀 민트 라이프 2016' 사전 할인 티켓 2분여 만에 매진</a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021700183'><span class='number_non'>6</span>박원, 뮤직 페스티벌 '해브 어 나이스 데이' 출연</a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021800103'><span class='number_non'>7</span>'꽃보다 청춘 아프리카' 나영석 "이동휘 빠진 이유 드라마 1회만 보고…"</a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021700016'><span class='number_non'>8</span>부산국제영화제 이용관 집행위원장, 임기만료로 해촉</a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021800106'><span class='number_non'>9</span>'꽃보다 청춘 아프리카' 류준열 "나 PD, 폭포에서 제일 신나"</a></li><li><a  target='_top' href='http://www.metroseoul.co.kr/news/newsview?newscd=2016021700171'><span class='number_non'>10</span>[포토] '남과 여' 전도연-공유, 다정한 팔짱</a></li>			</ul>
+		</div>
+
+	</div>
+	</div>
+</div>
+
+
+
+
+<!-- 연예 뉴스 -->
+<div class='rightUtil'>
+	<div class='rightBoxUtil'>
+		<div class='rightBoxUtil_title'>
+			<div class='fl'>
+				연예
+			</div>
+			<div class='fr btn_more'>
+				<a href='/news/section?sec=entertainment'>
+				더보기 >
+				</a>
+			</div>
+			<div class='clear'></div>
+		</div>
+		<ul>
+				<li>
+					<a href='/news/newsview?newscd=2016021800114'>
+						<div class=''>
+							<img src='http://cdn.emetro.co.kr/html/image_view.php?f=20160218000115.jpg&x=129&y=101&b=0&p=tc&ds=120'/>
+						</div>
+						<div class='article_title'>
+						'해어화' 4월13일 개봉 확정…캐릭터 포스터 공개						</div>
+					</a>
+				</li>
+				<li>
+					<a href='/news/newsview?newscd=2016021800111'>
+						<div class=''>
+							<img src='http://cdn.emetro.co.kr/html/image_view.php?f=&x=129&y=101&b=0&p=tc&ds=120'/>
+						</div>
+						<div class='article_title'>
+						BIFF "서병수 시장의 조직위원장 사퇴, 정관 개정 이어져야"						</div>
+					</a>
+				</li>
+		<div class='clear'></div>
+		</ul>
+	</div>
+	<div class='rightBoxUtil'>
+		<div class='rightBoxUtil_title'>
+			<div class='fl'>
+				스포츠
+			</div>
+			<div class='fr btn_more'>
+				<a href='/news/section?sec=sport'>
+				더보기 >
+				</a>
+			</div>
+			<div class='clear'></div>
+		</div>
+		<ul>
+				<li>
+					<a href='/news/newsview?newscd=2016021800096'>
+						<div class=''>
+							<img src='http://cdn.emetro.co.kr/html/image_view.php?f=20160218000095.jpg&x=129&y=101&b=0&p=tc&ds=120'/>
+						</div>
+						<div class='article_title'>
+						LA·파리·로마·부다페스트, 2024 올림픽 후보 도시 경쟁						</div>
+					</a>
+				</li>
+				<li>
+					<a href='/news/newsview?newscd=2016021800067'>
+						<div class=''>
+							<img src='http://cdn.emetro.co.kr/html/image_view.php?f=20160218000067.jpg&x=129&y=101&b=0&p=tc&ds=120'/>
+						</div>
+						<div class='article_title'>
+						파키아오, 동성애 비하 발언으로 나이키로부터 결별 통보						</div>
+					</a>
+				</li>
+		<div class='clear'></div>
+		</ul>
+	</div>
+</div>
+<!-- 포토뉴스 -->
+						<!-- photo news -->
+						<div class="photo-news">
+							<div class="header">
+								<h5>포토뉴스</h5>
+								<div class="more"><a href="http://www.metroseoul.co.kr/news/photonews">더보기 ></a></div>
+								<div class="clear"></div>
+							</div>
+							<div class="box">
+								<ul id="photo-news-list">
+																		
+									<li id="photo-thum-11">
+									<div class='bg_effect ' newscd="2016021800074"></div>
+									<a href="#photo-item-11"  newscd="2016021800074" class=""><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160218000077.jpg&x=67&y=67&b=0&p=tc&ds=120" width="67" height="67" alt="" /></a></li>
+																		
+									<li id="photo-thum-12">
+									<div class='bg_effect ' newscd="2016021800076"></div>
+									<a href="#photo-item-12"  newscd="2016021800076" class=""><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160218000079.jpg&x=67&y=67&b=0&p=tc&ds=120" width="67" height="67" alt="" /></a></li>
+																		
+									<li id="photo-thum-13">
+									<div class='bg_effect ' newscd="2016021800075"></div>
+									<a href="#photo-item-13"  newscd="2016021800075" class=""><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160218000078.jpg&x=67&y=67&b=0&p=tc&ds=120" width="67" height="67" alt="" /></a></li>
+																		
+									<li id="photo-thum-14">
+									<div class='bg_effect ' newscd="2016021700165"></div>
+									<a href="#photo-item-14"  newscd="2016021700165" class=""><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000161.jpg&x=67&y=67&b=0&p=tc&ds=120" width="67" height="67" alt="" /></a></li>
+																		
+									<li id="photo-thum-21">
+									<div class='bg_effect ' newscd="2016021700171"></div>
+									<a href="#photo-item-21"  newscd="2016021700171" class=""><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000167.jpg&x=67&y=67&b=0&p=tc&ds=120" width="67" height="67" alt="" /></a></li>
+									<li id="photo-thum-22"><a href="#photo-item-22"  newscd="2016021700170"></a></li>
+									<li id="photo-thum-23"><a href="#photo-item-23"  newscd="2016021700169"></a></li>
+																		
+									<li id="photo-thum-24">
+									<div class='bg_effect ' newscd="2016021700168"></div>
+									<a href="#photo-item-24"  newscd="2016021700168" class=""><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000164.jpg&x=67&y=67&b=0&p=tc&ds=120" width="67" height="67" alt="" /></a></li>
+																		
+									<li id="photo-thum-31">
+									<div class='bg_effect ' newscd="2016021700167"></div>
+									<a href="#photo-item-31"  newscd="2016021700167" class=""><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000163.jpg&x=67&y=67&b=0&p=tc&ds=120" width="67" height="67" alt="" /></a></li>
+									<li id="photo-thum-32"><a href="#photo-item-32"  newscd="2016021700166"></a></li>
+									<li id="photo-thum-33"><a href="#photo-item-33"  newscd="2016021700172"></a></li>
+																		
+									<li id="photo-thum-34">
+									<div class='bg_effect ' newscd="2016021700085"></div>
+									<a href="#photo-item-34"  newscd="2016021700085" class=""><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000081.jpg&x=67&y=67&b=0&p=tc&ds=120" width="67" height="67" alt="" /></a></li>
+																		
+									<li id="photo-thum-41">
+									<div class='bg_effect ' newscd="2016021700084"></div>
+									<a href="#photo-item-41"  newscd="2016021700084" class=""><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000080.jpg&x=67&y=67&b=0&p=tc&ds=120" width="67" height="67" alt="" /></a></li>
+																		
+									<li id="photo-thum-42">
+									<div class='bg_effect ' newscd="2016021700083"></div>
+									<a href="#photo-item-42"  newscd="2016021700083" class=""><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000079.jpg&x=67&y=67&b=0&p=tc&ds=120" width="67" height="67" alt="" /></a></li>
+																		
+									<li id="photo-thum-43">
+									<div class='bg_effect ' newscd="2016021700082"></div>
+									<a href="#photo-item-43"  newscd="2016021700082" class=""><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000078.jpg&x=67&y=67&b=0&p=tc&ds=120" width="67" height="67" alt="" /></a></li>
+																		
+									<li id="photo-thum-44">
+									<div class='bg_effect selected' newscd="2016021700081"></div>
+									<a href="#photo-item-44"  newscd="2016021700081" class="selected"><img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000077.jpg&x=67&y=67&b=0&p=tc&ds=120" width="67" height="67" alt="" /></a></li>
+								</ul>
+								<div class="clear"></div>
+								<div id="photo-item-11" class="photo-item off">
+									<a href="http://www.metroseoul.co.kr/news/newsview?newscd=2016021800074">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160218000077.jpg&x=201&y=201&b=0&p=tc&ds=480" width="201" height="201" alt="" />
+										<p>[포토] 캐논코리아, EOS-ID X Ⅱ·EOS 80D 출시</p>
+										</a>
+								</div>
+								<div id="photo-item-12" class="photo-item off">
+									<a href="http://www.metroseoul.co.kr/news/newsview?newscd=2016021800076">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160218000079.jpg&x=201&y=201&b=0&p=tc&ds=480" width="201" height="201" alt="" />
+										<p>[포토] 캐논코리아, '프리미엄 중·고급기 DSLR 카메라의 해' 선언</p>
+										</a>
+								</div>
+								<div id="photo-item-13" class="photo-item off">
+									<a href="http://www.metroseoul.co.kr/news/newsview?newscd=2016021800075">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160218000078.jpg&x=201&y=201&b=0&p=tc&ds=480" width="201" height="201" alt="" />
+										<p>[포토] 캐논코리아, 2016년 상반기 전략 신제품 발표회</p>
+										</a>
+								</div>
+								<div id="photo-item-14" class="photo-item off">
+									<a href="http://www.metroseoul.co.kr/news/newsview?newscd=2016021700165">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000161.jpg&x=201&y=201&b=0&p=tc&ds=480" width="201" height="201" alt="" />
+										<p>[포토] '남과 여' 화이팅!</p>
+										</a>
+								</div>
+								<div id="photo-item-21" class="photo-item off">
+									<a href="http://www.metroseoul.co.kr/news/newsview?newscd=2016021700171">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000167.jpg&x=201&y=201&b=0&p=tc&ds=480" width="201" height="201" alt="" />
+										<p>[포토] '남과 여' 전도연-공유, 다정한 팔짱</p>
+										</a>
+								</div>
+								<div id="photo-item-24" class="photo-item off">
+									<a href="http://www.metroseoul.co.kr/news/newsview?newscd=2016021700168">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000164.jpg&x=201&y=201&b=0&p=tc&ds=480" width="201" height="201" alt="" />
+										<p>[포토] '남과 여' 공유-전도연, '눈빛교환' 하는 남과 여</p>
+										</a>
+								</div>
+								<div id="photo-item-31" class="photo-item off">
+									<a href="http://www.metroseoul.co.kr/news/newsview?newscd=2016021700167">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000163.jpg&x=201&y=201&b=0&p=tc&ds=480" width="201" height="201" alt="" />
+										<p>[포토] '남과 여' 전도연, 청초한 미모 여전해</p>
+										</a>
+								</div>
+								<div id="photo-item-34" class="photo-item off">
+									<a href="http://www.metroseoul.co.kr/news/newsview?newscd=2016021700085">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000081.jpg&x=201&y=201&b=0&p=tc&ds=480" width="201" height="201" alt="" />
+										<p>[포토] '대배우' 이경영-오달수-윤제문, 넘나 즐거운것!</p>
+										</a>
+								</div>
+								<div id="photo-item-41" class="photo-item off">
+									<a href="http://www.metroseoul.co.kr/news/newsview?newscd=2016021700084">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000080.jpg&x=201&y=201&b=0&p=tc&ds=480" width="201" height="201" alt="" />
+										<p>[포토] '대배우' 한자리에 모인 충무로 대배우들</p>
+										</a>
+								</div>
+								<div id="photo-item-42" class="photo-item off">
+									<a href="http://www.metroseoul.co.kr/news/newsview?newscd=2016021700083">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000079.jpg&x=201&y=201&b=0&p=tc&ds=480" width="201" height="201" alt="" />
+										<p>[포토] '대배우' 이경영, 충무로 일은 혼자 다해!</p>
+										</a>
+								</div>
+								<div id="photo-item-43" class="photo-item off">
+									<a href="http://www.metroseoul.co.kr/news/newsview?newscd=2016021700082">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000078.jpg&x=201&y=201&b=0&p=tc&ds=480" width="201" height="201" alt="" />
+										<p>[포토] '대배우' 윤제문, 버건디 슈트 잘어울려</p>
+										</a>
+								</div>
+								<div id="photo-item-44" class="photo-item photo-box-lt on">
+									<a href="http://www.metroseoul.co.kr/news/newsview?newscd=2016021700081">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000077.jpg&x=201&y=201&b=0&p=tc&ds=480" width="201" height="201" alt="" />
+										<p>[포토] '대배우' 오달수, 천만요정의 힘찬 화이팅!</p>
+										</a>
+								</div>
+							</div>
+						</div><!-- photo news -->
+
+
+
+
+						<div style="margin-bottom:15px;">
+							<iframe id='a47daaaf' name='a47daaaf' src='http://ads.emetro.co.kr/www/delivery/afr.php?zoneid=11&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='270' height='80'><a href='http://ads.emetro.co.kr/www/delivery/ck.php?n=ae81b186&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.emetro.co.kr/www/delivery/avw.php?zoneid=11&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ae81b186' border='0' alt='' /></a></iframe>
+						</div>
+						<!-- <div style="margin-bottom:15px;">
+							<a href="http://www.metroseoul.co.kr/lifead/advert?cate=1"><img src="/images/banner/2015/lifead_270.jpg" /></a>
+						</div> -->
+						<div style='padding:5px 0px;margin-bottom:15px;background-color: #eaeaea;'>
+							<div style='width:250px; margin:0px auto 0px;'>
+
+							<!-- <iframe src="http://ad.xc.nis.nitmus.com/xc/h/QZUB9fbQ" width="250" height="250" frameborder="0" scrolling="no" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0"></iframe>-->
+								<script type="text/javascript" src="http://ad.xc.nis.nitmus.com/xc/j/QZUB9fbQ"></script>
+							</div>
+						</div>
+<div class='rightUtil' style='border-top:1px solid #ccc;'>
+
+	<div class='rightBoxUtil'>
+		<div class='rightBoxUtil_title'>
+			<div class='fl'>
+				메트로 칼럼			</div>
+			<div class='fr btn_more'>
+				<a href='/news/section?sec=opinion'>
+				더보기 >
+				</a>
+			</div>
+			<div class='clear'></div>
+		</div>
+		
+		<ul>
+
+
+				<li>
+					<a href='/news/newsview?newscd=2016021800093'>
+						<div class=''>
+							<img src='http://cdn.emetro.co.kr/html/image_view.php?f=20160218000091.jpg&x=129&y=101&b=0&p=tc&ds=120'/>
+						</div>
+						<div class='article_title'>
+						[김규정의 처음과 끝] 분양시장 개장, '청약은 신중하게'						</div>
+					</a>
+				</li>
+				<li>
+					<a href='/news/newsview?newscd=2016021700046'>
+						<div class=''>
+							<img src='http://cdn.emetro.co.kr/html/image_view.php?f=20160217000039.jpg&x=129&y=101&b=0&p=tc&ds=120'/>
+						</div>
+						<div class='article_title'>
+						노희영의 브랜드 만들기 3편-매일 새로운 하루를 '세상의 모든 아침'과 함께						</div>
+					</a>
+				</li>
+
+
+
+
+
+		<div class='clear'></div>
+		</ul>
+	</div><!-- rightBoxUtil -->
+
+	<div class='rightBoxUtil'>
+		<div class='rightBoxUtil_title'>
+			<div class='fl'>
+				금융인사이드			</div>
+			<div class='fr btn_more'>
+				<a href='/news/group?grpcd=15'>
+				더보기 >
+				</a>
+			</div>
+			<div class='clear'></div>
+		</div>
+		
+		<ul>
+
+
+				<li>
+					<a href='/news/newsview?newscd=2015120100086'>
+						<div class=''>
+							<img src='http://cdn.emetro.co.kr/html/image_view.php?f=20151201000107.jpg&x=129&y=101&b=0&p=tc&ds=120'/>
+						</div>
+						<div class='article_title'>
+						정해붕 하나카드 사장 "인터넷은행 도입으로 카드산업 어려워"						</div>
+					</a>
+				</li>
+				<li>
+					<a href='/news/newsview?newscd=2015120100029'>
+						<div class=''>
+							<img src='http://cdn.emetro.co.kr/html/image_view.php?f=20151201000024.jpg&x=129&y=101&b=0&p=tc&ds=120'/>
+						</div>
+						<div class='article_title'>
+						10월 은행 가계대출 9조원 급증…기업대출 연체율도 상승						</div>
+					</a>
+				</li>
+
+
+
+
+
+		<div class='clear'></div>
+		</ul>
+	</div><!-- rightBoxUtil -->
+
+	<div class='rightBoxUtil'>
+		<div class='rightBoxUtil_title'>
+			<div class='fl'>
+				m시사회			</div>
+			<div class='fr btn_more'>
+				<a href='/news/group?grpcd=18'>
+				더보기 >
+				</a>
+			</div>
+			<div class='clear'></div>
+		</div>
+		
+		<ul>
+
+
+				<li>
+					<a href='/news/newsview?newscd=2016021400030'>
+						<div class=''>
+							<img src='http://cdn.emetro.co.kr/html/image_view.php?f=20160214000032.jpg&x=129&y=101&b=0&p=tc&ds=120'/>
+						</div>
+						<div class='article_title'>
+						[필름리뷰-주토피아] 차별 없이 무엇이든 꿈꿀 수 있는 세상						</div>
+					</a>
+				</li>
+				<li>
+					<a href='/news/newsview?newscd=2016021200082'>
+						<div class=''>
+							<img src='http://cdn.emetro.co.kr/html/image_view.php?f=20160212000064.jpg&x=129&y=101&b=0&p=tc&ds=120'/>
+						</div>
+						<div class='article_title'>
+						[필름리뷰-데드풀] 거칠고 터프한 슈퍼히어로의 순애보						</div>
+					</a>
+				</li>
+
+
+
+
+
+		<div class='clear'></div>
+		</ul>
+	</div><!-- rightBoxUtil -->
+
+	<div class='rightBoxUtil'>
+		<div class='rightBoxUtil_title'>
+			<div class='fl'>
+				동영상			</div>
+			<div class='fr btn_more'>
+				<a href='/news/group?grpcd=101'>
+				더보기 >
+				</a>
+			</div>
+			<div class='clear'></div>
+		</div>
+		
+		<ul>
+
+
+				<li>
+					<a href='/news/newsview?newscd=2016021500183'>
+						<div class=''>
+							<img src='http://cdn.emetro.co.kr/html/image_view.php?f=20160215000158.jpg&x=129&y=101&b=0&p=tc&ds=120'/>
+						</div>
+						<div class='article_title'>
+						[동영상] 걸그룹 레인보우, 현란한 골반춤으로 컴백!						</div>
+					</a>
+				</li>
+				<li>
+					<a href='/news/newsview?newscd=2016020500134'>
+						<div class=''>
+							<img src='http://cdn.emetro.co.kr/html/image_view.php?f=20160205000103.jpg&x=129&y=101&b=0&p=tc&ds=120'/>
+						</div>
+						<div class='article_title'>
+						[동영상] 스마트허브경영자협회, 경제 활성화 민생법안 조속히 처리 촉구						</div>
+					</a>
+				</li>
+
+
+
+
+
+		<div class='clear'></div>
+		</ul>
+	</div><!-- rightBoxUtil -->
+
+	
+
+</div>
+						<div style="width: 268px; height: 52px; background-color: #F0F0F0; border: 1px solid #ccc; border-bottom: 0px solid #ccc;">
+							<div style="margin: 5px 0px -5px 0px; position:absolute; margin-left: 15px; z-index: 3;">
+								<ul style="width: 100%; list-style:none;">
+									<li style="line-height:18px;"><font style="font-family: 돋움; font-size: 11px;">메트로 신문</font></li>
+									<li style="line-height:18px;"><font style="font-family: 돋움; font-weight: bold; font-size: 14px;">모바일앱 설치 바로가기</font></li>&nbsp;
+								</ul>
+								<div style="width: 100%; position:absolute; margin-left: 163px; margin-top: -51px; z-index: 3;">
+									<a href="https://play.google.com/store/apps/details?id=kr.co.metroseoul.news" target="_blank"><img alt="안드로이드 이미지" src="/images/banner/2015/android_main_300.png" width="35px" height="35px"/></a>
+									<a href="http://webcache.googleusercontent.com/search?q=cache:IMWroPL2ou4J:https://itunes.apple.com/us/app/id929968905%3Fmt%3D8+&cd=1&hl=ko&ct=clnk&gl=kr" target="_blank">
+									<img alt="아이폰 이미지" src="/images/banner/2015/ios_main_300.png" width="35px" height="35px"/></a>
+								</div>
+							</div>
+						</div>
+
+						<div class="sns-group">
+							<ul class="tabs">
+								<li id="tab1" class="selected">페이스북
+								</li>
+								<li id="tab2"> 트위터
+								</li>
+								<div class='clear'></div>
+							</ul>
+							<div class="clear"></div>
+							<div id="container1" class="frame">
+						<div id="fb-root"></div>
+						<script>(function(d, s, id) {
+						  var js, fjs = d.getElementsByTagName(s)[0];
+						  if (d.getElementById(id)) return;
+						  js = d.createElement(s); js.id = id;
+						  js.src = "//connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v2.3";
+						  fjs.parentNode.insertBefore(js, fjs);
+						}(document, 'script', 'facebook-jssdk'));</script>
+
+							<div class="fb-page" data-href="https://www.facebook.com/metroseoulnews" data-width="240" data-height="242" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/metroseoulnews"><a href="https://www.facebook.com/metroseoulnews">메트로신문</a></blockquote></div></div>
+
+
+
+							</div>
+							<div id="container2" class="frame" style="display:none;">
+<a class="twitter-timeline" height='242'  href="https://twitter.com/metroseoulnews"  data-widget-id="349089708166483968">@metroseoulnews 님의 트윗</a>
+								<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+							</div>
+						</div>
+
+						</div>
+						<div class="clear"></div>
+						<div class='viewBottomWideBar' style='min-height:520px;'>
+							
+<style>
+*{
+	padding:0px;
+	margin:0px;
+}
+ul li{
+	display:block;
+}
+.clear {
+	clear: both;
+}
+.bottomWideEntBox{
+	max-width:980px;
+	overflow:hidden;
+	margin-bottom:23px;
+}
+.bottomWideEntBox ul{
+	width:1151px;
+}
+.bottomWideEntBox ul li{
+	background-color:#f7f7f7;	
+}
+.bottomWideEntBox ul li a{
+	text-decoration: none;
+}
+.bottomWideEntBox ul li{float:left;}
+.bottomWideEntBox ul li .photo{
+	float:left;
+}
+.bottomWideEntBox ul li .content{
+	float:left;
+	width:137px;
+}
+.bottomWideEntBox .news_title {
+	margin-top: 16px;
+	margin-left: 10px;
+	height: 40px;
+	overflow: hidden;
+	margin-right: 10px;
+	margin-bottom:4px;
+}
+.bottomWideEntBox .cate_title{
+	margin-left:10px;
+	margin-top:0px;
+}
+.bottomWideEntBox .news_title a{
+	font-size:14px;
+	font-weight:bold;
+	color:black;
+	line-height: 1.6em;
+	letter-spacing: -1px;
+	font-weight:bold;
+}
+.bottomWideEntBox .cate_title a{
+	font-size:13px;
+	color:#888;
+}
+
+.bottomWideHeadlineBox{
+	padding:16px 13px;
+	width:424px;
+	height:358px;
+	border:1px solid #ededed;
+	float:left;
+}
+.bottomWideHeadlineBox ul li{
+	margin-top:16px;
+	float:left;
+	width:204px;
+}
+.bottomWideHeadlineBox ul li .news_title{
+	margin-top: 7px;
+	height: 18px;
+	overflow: hidden;
+	font-weight:bold;
+}
+.bottomWideHeadlineBox ul li:first-child{
+	margin-right:14px;
+}
+.bottomWideHeadlineBox ul li a{
+	text-decoration: none;
+	color:#343434;
+}
+
+
+.bottomWideHeadlineBox .head_01 .photo{
+	float:left;
+}
+.bottomWideHeadlineBox .photo{
+	border:1px solid #ccc;	
+}
+.bottomWideHeadlineBox .head_01 .title{
+float: left;
+width: 180px;
+height: 82px;
+/* margin-top: 28px; */
+margin-left: 11px;
+font-size: 20px;
+font-family: 'Nanum Gothic', serif;
+overflow: hidden;
+}
+.bottomWideHeadlineBox .head_01 .content{
+	float:left;
+	margin-left:10px;
+	margin-top:10px;
+	width:170px;
+	font-size:13px;
+	line-height: 1.3em;
+	font-weight:normal;
+	color:#888;
+}
+.bottomWideHeadlineBox .head_01 a{
+	color:black;
+	line-height: 1.5em;
+	font-weight:bold;
+	font-size:18px;
+}
+.bottomWideMainNewsBox{
+	float:left;
+	width:220px;
+	height:390px;
+	margin-left:19px;
+}
+.bottomWideMainNewsBox .mainTopNews{
+	height:95px;
+}
+.bottomWideMainNewsBox .mainTopNews .photo{
+	float:left;
+	border:1px solid #ccc;
+}
+.bottomWideMainNewsBox .mainTopNews .content{
+	width:110px;
+	/* height:55px; */
+	margin-left:10px;
+	margin-top:9px;
+	float:left;	
+}
+.bottomWideMainNewsBox .news_title{
+	height: 36px;
+	overflow: hidden;
+	margin-bottom: 3px;
+}
+.bottomWideMainNewsBox p{
+	margin:0px;
+}
+.bottomWideMainNewsBox .news_title a{
+	font-size:13px;
+	line-height:19px;
+	color:black;
+	text-decoration:none;
+	font-weight:bold;
+}
+.bottomWideMainNewsBox .cate_title{
+
+}
+.bottomWideMainNewsBox .cate_title a{
+	font-size:13px;
+	color:#888;
+	text-decoration:none;	
+	line-height: 1.6em;
+	letter-spacing: -1px;	
+}
+
+.bottomWideMainNewsBox ul li{
+	border-top: 1px solid #cccccc;
+	height: 56px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
+.bottomSpecialBox{
+	float:left;
+	margin-left:19px;
+	width:270px;
+	height:390px;
+}
+.bottomSpecialBox .specialTitle{
+	font-size:19px;
+	font-weight:bold;
+	text-align: center;
+	border-top:3px solid black;
+	padding-top:20px;
+	padding-bottom:18px;
+}
+.bottomSpecialBox .specialTitle a{
+	font-size:19px;
+	font-weight:bold;
+	color:black;
+	text-decoration: none;
+}
+.bottomSpecialBox ul li{
+	padding-top:10px;
+	padding-bottom:10px;
+	border-top:1px solid #cccccc;
+	height: 65px;
+	overflow:hidden;
+}
+.bottomSpecialBox p{
+	margin:0px;
+}
+
+.bottomSpecialBox ul li:first-child{
+	padding-top:0px;
+	border-top:0px;
+}
+.bottomSpecialBox .photo{
+	float:left;
+	border:1px solid #ccc;
+}
+.bottomSpecialBox .content{
+	float:left;
+	width:145px;
+}
+.bottomSpecialBox .content .news_title{
+	margin-left: 8px;
+	margin-top: 3px;
+	height: 39px;
+	overflow: hidden;
+}
+.bottomSpecialBox .content .news_title a{
+	text-decoration: none;
+	color:black;
+	line-height: 1.6em;
+	letter-spacing: -1px;
+	font-size:13px;
+	font-weight:bold;
+}
+.bottomSpecialBox .content .grp_title{
+	margin-top:3px;
+	margin-left: 8px;
+}
+.bottomSpecialBox .content .grp_title a{
+	text-decoration: none;
+	font-size:13px;
+	color:#888;	
+}
+</style>
+<div class='bottomWideEntBox'>
+	<ul>
+				<li>
+				<div class='photo'>
+					<a href='/news/newsview?newscd=2016021800114'>
+						<img src='http://cdn.emetro.co.kr//html/image_view.php?f=20160218000115.jpg&amp;x=93&amp;y=101&amp;b=0&amp;p=tc&amp;ds=480'/>
+					</a>
+				</div>
+				<div class='content'>
+					<p class='news_title'>
+						<a href='/news/newsview?newscd=2016021800114'>'해어화' 4월13일 개봉 확정…캐릭터 포스터 공개</a>
+					</p>
+					<p class='cate_title'>
+						<a href='/news/newslist?cate=310130000'>영화</a>					
+					</p>
+				
+				</div>
+			
+			</li>
+			
+						<li>
+				<div class='photo'>
+					<a href='/news/newsview?newscd=2016021800111'>
+						<img src='http://cdn.emetro.co.kr//html/image_view.php?f=&amp;x=93&amp;y=101&amp;b=0&amp;p=tc&amp;ds=480'/>
+					</a>
+				</div>
+				<div class='content'>
+					<p class='news_title'>
+						<a href='/news/newsview?newscd=2016021800111'>BIFF "서병수 시장의 조직위원장 사퇴, 정관 개정 이어져야"</a>
+					</p>
+					<p class='cate_title'>
+						<a href='/news/newslist?cate=310130000'>영화</a>					
+					</p>
+				
+				</div>
+			
+			</li>
+			
+						<li>
+				<div class='photo'>
+					<a href='/news/newsview?newscd=2016021800107'>
+						<img src='http://cdn.emetro.co.kr//html/image_view.php?f=20160218000108.jpg&amp;x=93&amp;y=101&amp;b=0&amp;p=tc&amp;ds=480'/>
+					</a>
+				</div>
+				<div class='content'>
+					<p class='news_title'>
+						<a href='/news/newsview?newscd=2016021800107'>한중 합작 걸그룹 우주소녀, '모모모'로 25일 데뷔</a>
+					</p>
+					<p class='cate_title'>
+						<a href='/news/newslist?cate=310140000'>음악</a>					
+					</p>
+				
+				</div>
+			
+			</li>
+			
+						<li>
+				<div class='photo'>
+					<a href='/news/newsview?newscd=2016021800103'>
+						<img src='http://cdn.emetro.co.kr//html/image_view.php?f=20160218000104.jpg&amp;x=93&amp;y=101&amp;b=0&amp;p=tc&amp;ds=480'/>
+					</a>
+				</div>
+				<div class='content'>
+					<p class='news_title'>
+						<a href='/news/newsview?newscd=2016021800103'>'꽃보다 청춘 아프리카' 나영석 "이동휘 빠진 이유 드라마 1회만 보고…"</a>
+					</p>
+					<p class='cate_title'>
+						<a href='/news/newslist?cate=310110000'>문화종합</a>					
+					</p>
+				
+				</div>
+			
+			</li>
+			
+						<li>
+				<div class='photo'>
+					<a href='/news/newsview?newscd=2016021800104'>
+						<img src='http://cdn.emetro.co.kr//html/image_view.php?f=20160218000105.jpg&amp;x=93&amp;y=101&amp;b=0&amp;p=tc&amp;ds=480'/>
+					</a>
+				</div>
+				<div class='content'>
+					<p class='news_title'>
+						<a href='/news/newsview?newscd=2016021800104'>'꽃보다 청춘 아프리카' 안재홍 "짐없이 간 여행…공항 직원이 놀라"</a>
+					</p>
+					<p class='cate_title'>
+						<a href='/news/newslist?cate=310110000'>문화종합</a>					
+					</p>
+				
+				</div>
+			
+			</li>
+			
+					<div class='clear'></div>
+	</ul>
+</div>
+
+<div class='bottomWideHeadlineBox'>
+
+	<div class='head_01'>
+		<a href='/news/newsview?newscd=2016021700120'>
+			<div class='photo'>
+				<img width='230px' height='222px' src='http://cdn.emetro.co.kr//html/image_view.php?f=20160217000119.jpg&amp;x=230&amp;y=222&amp;b=0&amp;p=tc&amp;ds=480'/>
+			</div>
+			<div class='title'>
+				<div class=''>선거구획정 지연, 대혼란 '째깍 째깍'</div>
+			</div>
+			<div class='content'>
+				<div class=''> 여야가 공직선거법상 선거구획정안에 대한 획정 시한(지난해 11월 13일)을 넘기면서 현행 선거구가 모두 무...</div>
+			</div>
+			<div class='clear'></div>
+		</a>
+	</div>
+	<ul>
+		<ul>
+			<li>
+				<a href='/news/newsview?newscd=2016021700155'>
+					<div class='photo'>
+						<img width='204px' height='94px' src='http://cdn.emetro.co.kr//html/image_view.php?f=20160217000150.jpg&amp;x=204&amp;y=94&amp;b=0&amp;p=tc&amp;ds=480'/>
+					</div>
+					<div class='news_title'>[선거구 지연 대혼란①]'극적 합의냐, 총선 연기냐'…갈림길 처한 여의도</div>		
+				</a>		
+			</li>
+			<li>
+				<a href='/news/newsview?newscd=2016021200083'>
+					<div class='photo'>
+						<img width='204px' height='94px' src='http://cdn.emetro.co.kr//html/image_view.php?f=20160212000066.jpg&amp;x=204&amp;y=94&amp;b=0&amp;p=tc&amp;ds=480'/>
+					</div>
+					<div class='news_title'>아인슈타인의 중력파, 100년만에 '직접'관측 성공</div>		
+				</a>						
+			</li>		
+			<div class='clear'></div>			
+		</ul>
+		<div class='clear'></div>
+	</ul>
+</div>
+<div class='bottomWideMainNewsBox'>
+		<div class='mainTopNews'>
+		<div class='photo'>
+			<img src='http://cdn.emetro.co.kr//html/image_view.php?f=20150819000147.jpg&amp;x=88&amp;y=85&amp;b=0&amp;p=tc&amp;ds=480'/>
+		</div>
+		<div class='content'>
+			<p class='news_title'>
+				<a href='/news/newsview?newscd=2015081900117'>갤노트5, 예상보다 싼 80만원대 출고가…중저가폰 돌풍 맞설 수 있을까</a>
+			</p>
+			<p class='cate_title'>
+				<a href='/news/newslist?cate=190130000'>모바일</a>
+			</p>
+
+		</div>
+		<div class='clear'></div>
+	</div>
+		<ul>
+									<li>
+								<p class='news_title'><a href='/news/newsview?newscd=2015081900137'>'불법 정치자금 수수 혐의' 한명숙 20일 최종 선고…의원직 상실될 수도</a></p>
+								<p class='cate_title'><a href='/news/newslist?cate=140110000'>법원/경찰</a></p>
+							</li>
+													<li>
+								<p class='news_title'><a href='/news/newsview?newscd=2015081900174'>자산 290조 하나·외환 통합은행 내달 1일 출범</a></p>
+								<p class='cate_title'><a href='/news/newslist?cate=120110000'>은행</a></p>
+							</li>
+													<li>
+								<p class='news_title'><a href='/news/newsview?newscd=2015081900306'>CJ와 화해 나선 이부진·이서현 사장, 이맹희 명예회장 빈소 이틀 연속 조문</a></p>
+								<p class='cate_title'><a href='/news/newslist?cate=200190000'>업계</a></p>
+							</li>
+													<li>
+								<p class='news_title'><a href='/news/newsview?newscd=2015081900269'>현대중공업 노동조합, 지난해 이어 파업 결정</a></p>
+								<p class='cate_title'><a href='/news/newslist?cate=160150000'>철강/중공업</a></p>
+							</li>
+							</ul>
+</div>
+<div class='bottomSpecialBox'>
+	<div class='specialTitle'><a href='/news/group/main'>스페셜 기획</a></div>
+	<ul>
+			
+				<li>
+					<div class='photo'>
+						<a href='/news/newsview?newscd=2016013100086'>
+							<img src='http://cdn.emetro.co.kr//html/image_view.php?f=20160131000076.jpg&amp;x=112&amp;y=63&amp;b=0&amp;p=tc&amp;ds=480'/>
+						</a>
+					</div>
+					<div class='content'>
+						<p class='news_title'>
+							<a href='/news/newsview?newscd=2016013100086'>[YG의 카톡(Car Talk)] 캐딜락 ATS 강인함 속 반전매력…운전자 지시 즉각 반응</a>
+						</p>
+						<p class='grp_title'>
+							<a href='/news/group?grpcd=35'>시승기</a>
+						</p>
+					</div>
+					<div class='clear'></div>
+				</li>
+				
+							
+				<li>
+					<div class='photo'>
+						<a href='/news/newsview?newscd=2016012800014'>
+							<img src='http://cdn.emetro.co.kr//html/image_view.php?f=20160128000011.jpg&amp;x=112&amp;y=63&amp;b=0&amp;p=tc&amp;ds=480'/>
+						</a>
+					</div>
+					<div class='content'>
+						<p class='news_title'>
+							<a href='/news/newsview?newscd=2016012800014'>[인포그래픽] 우리는 문화와 여가를 어떻게 즐기고 있을까?</a>
+						</p>
+						<p class='grp_title'>
+							<a href='/news/group?grpcd=7'>인포그래픽</a>
+						</p>
+					</div>
+					<div class='clear'></div>
+				</li>
+				
+							
+				<li>
+					<div class='photo'>
+						<a href='/news/newsview?newscd=2015110800118'>
+							<img src='http://cdn.emetro.co.kr//html/image_view.php?f=20151108000113.jpg&amp;x=112&amp;y=63&amp;b=0&amp;p=tc&amp;ds=480'/>
+						</a>
+					</div>
+					<div class='content'>
+						<p class='news_title'>
+							<a href='/news/newsview?newscd=2015110800118'>삼성, 접히는 스마트폰 갤S7 출시설의 진실은?</a>
+						</p>
+						<p class='grp_title'>
+							<a href='/news/group?grpcd=93'>IT스토리</a>
+						</p>
+					</div>
+					<div class='clear'></div>
+				</li>
+				
+							
+				<li>
+					<div class='photo'>
+						<a href='/news/newsview?newscd=2015092900095'>
+							<img src='http://cdn.emetro.co.kr//html/image_view.php?f=20150929000082.jpg&amp;x=112&amp;y=63&amp;b=0&amp;p=tc&amp;ds=480'/>
+						</a>
+					</div>
+					<div class='content'>
+						<p class='news_title'>
+							<a href='/news/newsview?newscd=2015092900095'>경비원 아저씨, 이번 추석은 몸도 마음도 '풍성'</a>
+						</p>
+						<p class='grp_title'>
+							<a href='/news/group?grpcd=77'>사람이야기</a>
+						</p>
+					</div>
+					<div class='clear'></div>
+				</li>
+				
+						
+	<div class='clear'></div>
+	</ul>
+</div>
+<div class='clear'></div>
+						</div>
+
+					</div>
+					<div class="wide-box">
+					<style>
+*{padding:0px;margin:0px;}
+a{
+	text-decoration: none;
+}
+.group-box1{
+	margin-bottom:20px;
+}
+.group-box1 .news-photo{
+	position:relative;
+}
+.group-box1{
+	height:131px;
+}
+.group-box1 .title{
+	position: absolute;
+	bottom: 0px;
+	background-color: white;
+	/* padding: 4px; */
+	padding-right: 5px;
+	padding-top: 5px;	
+}
+.group-box1 .title a{
+	color:#2f9a66;
+	font-size:13px;
+}
+.group-box1 .box_second .title a{
+	color:#ff8629;
+}
+.news-list{
+	margin-top:7px;
+}
+.news-list ul li{
+	display:block;
+	max-width:250px;
+	font-size: 12px;
+	color: #575757;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-o-text-overflow: ellipsis;
+	-ms-text-overflow: ellipsis;
+	line-height: 1.4em;	
+}
+.news-list ul li a{
+	color:#575757;
+	font-size:13px;
+	font-weight:bold;
+}
+</style>
+
+<script>
+
+</script>
+
+						<div id="group-wide-id-116" class="group-box1">
+							<div class="box">
+								<div class="box-wrap">
+									<div class="content">
+										<div class="news-photo"><a href="/news/newsview?newscd=2016021700075">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160217000066.jpg&amp;x=200&amp;y=106&amp;b=0&amp;p=tc&amp;ds=320" width="200" height="106" alt=""></a>
+										<h5>
+										<div class="title">
+											<a href="/news/group?grpcd=116" title="생활법률">생활법률</a>
+											</div>
+										</h5>
+										</div>
+										
+										<div class="news-list">
+											<ul>
+												<li><a href="/news/newsview?newscd=2016021700075" title="압류물을 허가없이 이동한 경우 처벌은?">압류물을 허가없이 이동한 경우 처벌은?</a></li>
+											</ul>
+										</div>
+										<div class="clear"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div id="group-wide-id-110" class="group-box1">
+							<div class="box_second">
+								<div class="box-wrap">
+									<div class="content">
+										<div class="news-photo"><a href="/news/newsview?newscd=2016021600112">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20151122000102.jpg&amp;x=200&amp;y=106&amp;b=0&amp;p=tc&amp;ds=320" width="200" height="106" alt=""></a>
+										<h5>
+										<div class="title">
+											<a href="/news/group?grpcd=110" title="소비자119">소비자119</a>
+											</div>
+										</h5>
+										</div>
+										
+										<div class="news-list">
+											<ul>
+												<li><a href="/news/newsview?newscd=2016021600112" title="소비자119-중고차 팔 때 이것만은 꼭 확인하세요">소비자119-중고차 팔 때 이것만은 꼭 확인하세요</a></li>
+											</ul>
+										</div>
+										<div class="clear"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div id="group-wide-id-157" class="group-box1">
+							<div class="box">
+								<div class="box-wrap">
+									<div class="content">
+										<div class="news-photo"><a href="/news/newsview?newscd=2016021600118">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160216000100.jpg&amp;x=200&amp;y=106&amp;b=0&amp;p=tc&amp;ds=320" width="200" height="106" alt=""></a>
+										<h5>
+										<div class="title">
+											<a href="/news/group?grpcd=157" title="사회초년생 위한 보험 상품">사회초년생 위한 보험 상품</a>
+											</div>
+										</h5>
+										</div>
+										
+										<div class="news-list">
+											<ul>
+												<li><a href="/news/newsview?newscd=2016021600118" title="(17)KB생보, '무배당 KB가족사랑연금+종신보험'">(17)KB생보, '무배당 KB가족사랑연금+종신보험'</a></li>
+											</ul>
+										</div>
+										<div class="clear"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div id="group-wide-id-8" class="group-box1">
+							<div class="box_second">
+								<div class="box-wrap">
+									<div class="content">
+										<div class="news-photo"><a href="/news/newsview?newscd=2016021600055">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160216000039.jpg&amp;x=200&amp;y=106&amp;b=0&amp;p=tc&amp;ds=320" width="200" height="106" alt=""></a>
+										<h5>
+										<div class="title">
+											<a href="/news/group?grpcd=8" title="스타인터뷰">스타인터뷰</a>
+											</div>
+										</h5>
+										</div>
+										
+										<div class="news-list">
+											<ul>
+												<li><a href="/news/newsview?newscd=2016021600055" title="사랑과 이별, 스물일곱 조권의 솔직한 이야기">사랑과 이별, 스물일곱 조권의 솔직한 이야기</a></li>
+											</ul>
+										</div>
+										<div class="clear"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div id="group-wide-id-95" class="group-box1">
+							<div class="box">
+								<div class="box-wrap">
+									<div class="content">
+										<div class="news-photo"><a href="/news/newsview?newscd=2016021500092">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160215000091.jpg&amp;x=200&amp;y=106&amp;b=0&amp;p=tc&amp;ds=320" width="200" height="106" alt=""></a>
+										<h5>
+										<div class="title">
+											<a href="/news/group?grpcd=95" title="車가 좋다">車가 좋다</a>
+											</div>
+										</h5>
+										</div>
+										
+										<div class="news-list">
+											<ul>
+												<li><a href="/news/newsview?newscd=2016021500092" title="강력한 엔진 주행의 즐거움 '재규어 XE 2.0 디젤'">강력한 엔진 주행의 즐거움 '재규어 XE 2.0 디젤'</a></li>
+											</ul>
+										</div>
+										<div class="clear"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div id="group-wide-id-155" class="group-box1">
+							<div class="box_second">
+								<div class="box-wrap">
+									<div class="content">
+										<div class="news-photo"><a href="/news/newsview?newscd=2016021500057">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160215000046.jpg&amp;x=200&amp;y=106&amp;b=0&amp;p=tc&amp;ds=320" width="200" height="106" alt=""></a>
+										<h5>
+										<div class="title">
+											<a href="/news/group?grpcd=155" title="지하철은 문화를 싣고">지하철은 문화를 싣고</a>
+											</div>
+										</h5>
+										</div>
+										
+										<div class="news-list">
+											<ul>
+												<li><a href="/news/newsview?newscd=2016021500057" title="3·4호선 충무로역 - 남산의 옛 정취를 찾아, 남산골한옥마을">3·4호선 충무로역 - 남산의 옛 정취를 찾아, 남산골한옥마을</a></li>
+											</ul>
+										</div>
+										<div class="clear"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div id="group-wide-id-147" class="group-box1">
+							<div class="box">
+								<div class="box-wrap">
+									<div class="content">
+										<div class="news-photo"><a href="/news/newsview?newscd=2016021500150">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160215000145.jpg&amp;x=200&amp;y=106&amp;b=0&amp;p=tc&amp;ds=320" width="200" height="106" alt=""></a>
+										<h5>
+										<div class="title">
+											<a href="/news/group?grpcd=147" title="이상헌의 실패하지 않는 창업전략">이상헌의 실패하지 않는 창업전략</a>
+											</div>
+										</h5>
+										</div>
+										
+										<div class="news-list">
+											<ul>
+												<li><a href="/news/newsview?newscd=2016021500150" title=""점주는 제 1의 고객이다"">"점주는 제 1의 고객이다"</a></li>
+											</ul>
+										</div>
+										<div class="clear"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div id="group-wide-id-158" class="group-box1">
+							<div class="box_second">
+								<div class="box-wrap">
+									<div class="content">
+										<div class="news-photo"><a href="/news/newsview?newscd=2016021000066">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160212000058.jpg&amp;x=200&amp;y=106&amp;b=0&amp;p=tc&amp;ds=320" width="200" height="106" alt=""></a>
+										<h5>
+										<div class="title">
+											<a href="/news/group?grpcd=158" title="2016 부동산 시장 엿보기">2016 부동산 시장 엿보기</a>
+											</div>
+										</h5>
+										</div>
+										
+										<div class="news-list">
+											<ul>
+												<li><a href="/news/newsview?newscd=2016021000066" title="설 이후 부동산 시장 하향 안정세 지속될 듯">설 이후 부동산 시장 하향 안정세 지속될 듯</a></li>
+											</ul>
+										</div>
+										<div class="clear"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div id="group-wide-id-156" class="group-box1">
+							<div class="box">
+								<div class="box-wrap">
+									<div class="content">
+										<div class="news-photo"><a href="/news/newsview?newscd=2016012600049">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160126000039.png&amp;x=200&amp;y=106&amp;b=0&amp;p=tc&amp;ds=320" width="200" height="106" alt=""></a>
+										<h5>
+										<div class="title">
+											<a href="/news/group?grpcd=156" title="직원이 평가하는 나의 은행">직원이 평가하는 나의 은행</a>
+											</div>
+										</h5>
+										</div>
+										
+										<div class="news-list">
+											<ul>
+												<li><a href="/news/newsview?newscd=2016012600049" title="<끝> 대구은행, 지역에서 브랜드 가치 높아"><끝> 대구은행, 지역에서 브랜드 가치 높아</a></li>
+											</ul>
+										</div>
+										<div class="clear"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div id="group-wide-id-144" class="group-box1">
+							<div class="box_second">
+								<div class="box-wrap">
+									<div class="content">
+										<div class="news-photo"><a href="/news/newsview?newscd=2016011200045">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160112000043.jpg&amp;x=200&amp;y=106&amp;b=0&amp;p=tc&amp;ds=320" width="200" height="106" alt=""></a>
+										<h5>
+										<div class="title">
+											<a href="/news/group?grpcd=144" title="O2O 프론티어">O2O 프론티어</a>
+											</div>
+										</h5>
+										</div>
+										
+										<div class="news-list">
+											<ul>
+												<li><a href="/news/newsview?newscd=2016011200045" title="#O2O프론티어-나도사장님">#O2O프론티어-나도사장님</a></li>
+											</ul>
+										</div>
+										<div class="clear"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div id="group-wide-id-154" class="group-box1">
+							<div class="box">
+								<div class="box-wrap">
+									<div class="content">
+										<div class="news-photo"><a href="/news/newsview?newscd=2016011300103">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20160113000106.jpg&amp;x=200&amp;y=106&amp;b=0&amp;p=tc&amp;ds=320" width="200" height="106" alt=""></a>
+										<h5>
+										<div class="title">
+											<a href="/news/group?grpcd=154" title="은행 강추 연령대별 금융상품">은행 강추 연령대별 금융상품</a>
+											</div>
+										</h5>
+										</div>
+										
+										<div class="news-list">
+											<ul>
+												<li><a href="/news/newsview?newscd=2016011300103" title="<6> KEB하나銀, 금융상품으로 '라이프 스테이지' 설계한다"><6> KEB하나銀, 금융상품으로 '라이프 스테이지' 설계한다</a></li>
+											</ul>
+										</div>
+										<div class="clear"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div id="group-wide-id-93" class="group-box1">
+							<div class="box_second">
+								<div class="box-wrap">
+									<div class="content">
+										<div class="news-photo"><a href="/news/newsview?newscd=2015110800118">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20151108000113.jpg&amp;x=200&amp;y=106&amp;b=0&amp;p=tc&amp;ds=320" width="200" height="106" alt=""></a>
+										<h5>
+										<div class="title">
+											<a href="/news/group?grpcd=93" title="IT스토리">IT스토리</a>
+											</div>
+										</h5>
+										</div>
+										
+										<div class="news-list">
+											<ul>
+												<li><a href="/news/newsview?newscd=2015110800118" title="삼성, 접히는 스마트폰 갤S7 출시설의 진실은?">삼성, 접히는 스마트폰 갤S7 출시설의 진실은?</a></li>
+											</ul>
+										</div>
+										<div class="clear"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div id="group-wide-id-135" class="group-box1">
+							<div class="box">
+								<div class="box-wrap">
+									<div class="content">
+										<div class="news-photo"><a href="/news/newsview?newscd=2015110300077">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20151109000085.jpg&amp;x=200&amp;y=106&amp;b=0&amp;p=tc&amp;ds=320" width="200" height="106" alt=""></a>
+										<h5>
+										<div class="title">
+											<a href="/news/group?grpcd=135" title="생활건강">생활건강</a>
+											</div>
+										</h5>
+										</div>
+										
+										<div class="news-list">
+											<ul>
+												<li><a href="/news/newsview?newscd=2015110300077" title="환절기 심쿵주의보 부정맥 이렇게 예방하세요">환절기 심쿵주의보 부정맥 이렇게 예방하세요</a></li>
+											</ul>
+										</div>
+										<div class="clear"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div id="group-wide-id-67" class="group-box1">
+							<div class="box_second">
+								<div class="box-wrap">
+									<div class="content">
+										<div class="news-photo"><a href="/news/newsview?newscd=2015091600075">
+										<img src="http://cdn.emetro.co.kr/html/image_view.php?f=20150916000120.jpg&amp;x=200&amp;y=106&amp;b=0&amp;p=tc&amp;ds=320" width="200" height="106" alt=""></a>
+										<h5>
+										<div class="title">
+											<a href="/news/group?grpcd=67" title="엔터ON">엔터ON</a>
+											</div>
+										</h5>
+										</div>
+										
+										<div class="news-list">
+											<ul>
+												<li><a href="/news/newsview?newscd=2015091600075" title="깊어가는 가을, 록과 함께…본 조비·뮤즈 내한공연">깊어가는 가을, 록과 함께…본 조비·뮤즈 내한공연</a></li>
+											</ul>
+										</div>
+										<div class="clear"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+		</div>
+		<div id="footer-box">
+								<div id="footer" class='width-default'>
+					<div class="footer_contain">
+						<!-- <div class="wings"></div>  -->
+						<div class="slogo"><a href="http://www.metroseoul.co.kr/news/main"><img src="/images/common/img_slogo.png" width="170" height="49" alt="" /></a></div>
+						<div class="info">
+							<div class="nav">
+								<p><a href="http://company.emetro.co.kr/intro/greeting" target="_blank">회사소개</a>
+									<span class="pipe">|</span>
+									<a href="http://company.emetro.co.kr/biz/infoads" target="_blank">광고안내</a>
+									<span class="pipe">|</span>
+									<a href="http://company.emetro.co.kr/service/pubservice" target="_blank">배포문의</a>
+									<span class="pipe">|</span>
+									<a href="http://company.emetro.co.kr/notice/contactus" target="_blank">기사제보</a>
+									<span class="pipe">|</span>
+									<a href="http://company.emetro.co.kr/notice/contactads" target="_blank">제휴문의</a>
+								<p>
+									<a href="http://company.emetro.co.kr/notice/problem" target="_blank">고충처리</a>
+									<span class="pipe">|</span>
+									<a href="http://company.emetro.co.kr/notice/terms" target="_blank">이용약관</a>
+									<span class="pipe">|</span>
+									<a href="http://company.emetro.co.kr/notice/privacy" target="_blank"><b>개인정보취급방침</b></a>
+									<span class="pipe">|</span>
+									<a href="http://company.emetro.co.kr/notice/email_security" target="_blank">이메일무단수집거부</a>
+									<span class="pipe">|</span>
+									<a href="http://company.emetro.co.kr/notice/location" target="_blank">오시는 길</a>
+								</p>
+							</div>
+							<div class="add">
+								<p>Copyright ⓒ Metro. All rights reserved. <b>(주)메트로미디어</b>의 모든 기사 또는 컨텐츠에 대한 무단 전재ㆍ복사ㆍ배포를 금합니다.</p>
+								<p>서울특별시 종로구 자하문로17길 18 (주)메트로미디어 &nbsp;&nbsp;&nbsp; Tel : 02. 721. 9800  /  Fax : 02. 730. 2100&nbsp;&nbsp;<a href="mailto:webmaster@metroseoul.co.kr">문의메일</a></p>
+								<p>
+									<span style='color:#666666;margin-right:15px;'>발행인 : 이장규</span>
+									<span style='color:#666666;margin-right:15px;'>신문사업 등록번호 : 서울, 가00206</span>
+									<span style='color:#666666;margin-right:15px;'>인터넷신문 등록번호 : 서울, 아02546</span>													<!-- <span style='color:#666666;margin-right:15px;'>통신판매 등록번호 : </span>	 -->
+									<span style='color:#666666;'></span>
+								</p>
+								<p>
+									<span style='color:#666666;margin-right:15px;'>대표이사 : 이장규</span>
+									<span style='color:#666666;margin-right:15px;'>사업자등록번호 : 242-88-00131</span>
+									<span style='color:#666666;'></span>
+								</p>
+							</div>
+						</div>
+						<!-- <div class="wings"></div> -->
+						<div class="clear"></div>
+					</div>
+				</div>
+				<!--
+				<div style="margin:30px auto; width:980px;">
+					<script type='text/javascript' src='http://ad.openmatch.co.kr/AppCm/contents_match_scroll_1.js.asp?part=metroseoul_eb&swidth=980'></script>
+				</div>
+
+				<script type="text/javascript" src="http://wcs.naver.net/wcslog.js"></script> <script type="text/javascript"> if(!wcs_add) var wcs_add = {}; wcs_add["wa"] = "fcba6cb5e26880"; wcs_do(); </script>
+				-->
+
+
+				<script type="text/javascript">
+				/*
+					$("#btn_newssearch").goNewsSearch1();
+					$("#keywd").goNewsSearch2();
+				*/
+				</script>
+
+<!-- 서버1 -->
+		</div>
+			<div style="margin:30px auto; width:980px;">
+				<script type='text/javascript' src='http://ad.openmatch.co.kr/AppCm/contents_match_scroll_1.js.asp?part=metroseoul_eb&swidth=980'></script>
+			</div>
+
+			<script type="text/javascript" src="http://wcs.naver.net/wcslog.js"></script> <script type="text/javascript"> if(!wcs_add) var wcs_add = {}; wcs_add["wa"] = "fcba6cb5e26880"; wcs_do(); </script>
+
+	</div>
+
+	<div class='uiBlock'></div>
+
+	<div id='reporter_detail'>
+		<img src="http://cdn.emetro.co.kr/imagebank/editor/actor_metroseoul_co_kr.jpg" style='width:350px;' max_width='350' max_height='357'>
+		<div id='photoViewerClose'>
+			<img src='/images/photonews/photonews_close.png'/>
+		</div>
+	</div>
+
+
+	<!-- Modal -->
+	<div id="myModal01" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+			<h3 id="myModalLabel">Modal header</h3>
+		</div>
+		<div class="modal-body">
+			<p>One fine body…</p>
+		</div>
+		<div class="modal-footer">
+			<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+			<button class="btn btn-primary">Save changes</button>
+		</div>
+	</div>
+
+
+<input type="hidden" id="document-type" value="journalist" />
+<input type="hidden" id="document-tags" value="actor@metroseoul.co.kr" />
+<script src="/common/_js/google_metro_new.js"></script>
+<script type="text/javascript" src="http://js2.keywordsconnect.com/inspace_metroseoul.js"></script>
+<!-- <script type='text/javascript' src="http://www.dreamsearch.or.kr/servlet/adbnFloating?u=2014050900002&us=1004&s=1303&iwh=180_180&igb=7"></script> -->
+<script src="http://www.dreamsearch.or.kr/servlet/adBannerFloating?from=&u=2014050900002&us=1004&s=1303&iwh=180_180&igb=70&fType=2" type="text/javascript"></script>
+
+<script>
+$("#share_bottom_band").on("click",function(){
+						window.open('http://www.band.us/plugin/share?body=%EA%B0%9C%EC%84%B1%EA%B3%B5%EB%8B%A8%20%EC%A4%91%EB%8B%A8%20%27%ED%9B%84%EC%86%8D%EC%A1%B0%EC%B9%98%27%E2%80%A6%EB%82%A8%EC%B8%A1%20%EC%9D%B8%EC%9B%90%C2%B7%EC%9E%90%EC%9E%AC%C2%B7%EC%9E%A5%EB%B9%84%20%EC%B2%A0%EC%88%98http%3A%2F%2Fwww.metroseoul.co.kr%2Fnews%2Fnewsview%3Fnewscd%3D2016021100022', 'band_pop', 'width=700,height=550,scrollbars=no,resizable=no');
+});
+$('#share_twitter').sharrre({
+share: {
+	  twitter: true
+	},
+	template: '<div class="share_sns"><i class="icon-twitter-sign"></i></div><div class="shareCnt">{total}</div>',
+	url: "http://www.metroseoul.co.kr/news/newsview?newscd=2016021100022",
+		enableHover: false,
+	  enableTracking: true,
+	  click: function(api, options){
+	    api.simulateClick();
+	    api.openPopup('twitter');
+	  }
+});
+
+$('#share_facebook').sharrre({
+share: {
+	  facebook: true
+	},
+	template: '<div class="share_sns"><i class="icon-facebook-sign"></i></div><div class="shareCnt">{total}</div>',
+	url: "http://www.metroseoul.co.kr/news/newsview?newscd=2016021100022",
+		enableHover: false,
+	  enableTracking: true,
+	  click: function(api, options){
+	    api.simulateClick();
+	    api.openPopup('facebook');
+	  }
+});
+
+
+$('#share_google').sharrre({
+share: {
+    googlePlus: true
+  },
+  template: '<div class="share_sns"><i class="icon-google-plus-sign"></i></div><div class="shareCnt">{total}</div>',
+  url: "http://www.metroseoul.co.kr/news/newsview?newscd=2016021100022",
+  enableHover: false,
+  enableTracking: true,
+  click: function(api, options){
+    api.simulateClick();
+    api.openPopup('googlePlus');
+  }
+});
+	$("#share_kakaostory").click(function(){
+
+		Kakao.Auth.getStatus(function(statusObj) {
+
+	    if (statusObj.status == "not_connected") {
+		         Kakao.Auth.login({
+			        success: function(authObj) {
+				        shareKakaoStory();
+			        }
+			      });
+		        } else {
+					shareKakaoStory();
+
+				}
+
+	    });
+	});
+
+	function shareKakaoStory(){
+
+	        // 로그인 성공시, API를 호출합니다.
+
+	        Kakao.API.request( {
+	          url : '/v1/api/story/linkinfo',
+	          data : {
+	            url : 'http://www.metroseoul.co.kr/news/newsview?newscd=2016021100022'
+	          }
+	        }).then(function(res) {// 이전 API 호출이 성공한 경우 다음 API를 호출합니다.
+	          return Kakao.API.request( {
+	            url : '/v1/api/story/post/link',
+	            data : {
+	              link_info : res
+	            }
+	          });
+	        }).then(function(res) {
+	          return Kakao.API.request( {
+	            url : '/v1/api/story/mystory',
+	            data : { id : res.id }
+	          });
+	        }).then(function(res) {
+	          alert("카카오스토리 공유가 완료 되었습니다.");
+	        }, function (err) {
+	          alert("카카오스토리 공유 중 에러가 발생하였습니다.");
+	        });
+	}
+
+
+</script>
+
+	<script type="text/javascript">
+		/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+		var disqus_shortname = 'metroseoulcokr'; // required: replace example with your forum shortname
+
+		/* * * DON'T EDIT BELOW THIS LINE * * */
+		(function () {
+		var s = document.createElement('script'); s.async = true;
+		s.type = 'text/javascript';
+		s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+		(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+		}());
+	</script>
+
+	<script type="text/javascript">
+	    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+	    var disqus_shortname = 'metroseoulcokr'; // required: replace example with your forum shortname
+
+	    /* * * DON'T EDIT BELOW THIS LINE * * */
+	    (function() {
+	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+	        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+	        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	    })();
+	</script>
+	<script src="http://ad.adnmore.co.kr/adnmore/machbox/metroseoul.js"></script>
+</body>
+</html>

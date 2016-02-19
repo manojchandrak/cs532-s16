@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <base href="/">
+    <meta charset="utf-8"/>
+    <title>The Pack</title>
+    <meta property="environment" content="staging" />
+    <meta property="og:title" content="James Jones: 2015 Packers Player Report Card" />
+    <meta property="og:type" content="" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:site_name" content="The Pack" />
+    <meta property="og:description" content="James Jones
+
+		Age: 31
+
+		Ht./Wt: 6&#39;1&#34;, 208lbs
+
+		College: San Jose State
+
+		NFL Experience: 9 years
+View player&#39;s stats and more     
+Expectations coming into the season:  Expectations for Jones were iffy. Remember, he was cut by Oakland on May 5 and then he was cut by the Giants on Sept. 5. People wondered if he could still get any separation at 31, but the Packers saw something and that&#39;s why they signed him quickly on Sept. 6. 
+Player’s highlights/low-lights: In the season opener at Chicago, Jones makes it seem like he never left. He makes a great one-handed catch in touchdown..." />
+    <meta property="og:image" content="http://d1s25m6npd4nen.cloudfront.net/sites/default/files/jon404681.png" />
+    
+    <meta property="article:publisher" content="feedproxy.google.com">
+    
+    
+    <meta property="article:author" content="Cory Jennerjohn">
+    
+
+    <meta name="title" content="The Pack">
+    <meta name="description" content="The Pack">
+    
+    <meta name="publisher" content="feedproxy.google.com">
+    
+    
+    <meta name="author" content="Cory Jennerjohn">
+    
+    <meta name="referrer" content="always">
+
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@readful">
+    <meta name="twitter:title" content="James Jones: 2015 Packers Player Report Card">
+    <meta name="twitter:description" content="James Jones
+
+		Age: 31
+
+		Ht./Wt: 6&#39;1&#34;, 208lbs
+
+		College: San Jose State
+
+		NFL Experience: 9 years
+View player&#39;s stats and more     
+Expectations coming into the season:  Expectations for Jones were iffy. Remember, he was cut by Oakland on May 5 and then he was cut by the Giants on Sept. 5. People wondered if he could still get any separation at 31, but the Packers saw something and that&#39;s why they signed him quickly on Sept. 6. 
+Player’s highlights/low-lights: In the season opener at Chicago, Jones makes it seem like he never left. He makes a great one-handed catch in touchdown...">
+    <meta name="twitter:creator" content="@readfulapp">
+    <meta name="twitter:image:src" content="http://d1s25m6npd4nen.cloudfront.net/sites/default/files/jon404681.png">
+    <meta name="twitter:domain" content="readfulapp.com">
+
+    <meta name="twitter:app:country" content="US"/>
+    
+    
+
+    <link rel="image_src" id="favicon" href="http://d1s25m6npd4nen.cloudfront.net/sites/default/files/jon404681.png">
+    <link rel="icon" id="favicon2" href="http://static.readfulapp.com/images/5d0154fbc20e47599e3132a4e043337f.png" sizes="128x128">
+    <link rel="apple-touch-icon" href="http://static.readfulapp.com/images/5d0154fbc20e47599e3132a4e043337f.png" />
+    <link rel="publisher" href="feedproxy.google.com" />
+    <link rel="author" href="Cory Jennerjohn" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="description" content=""/>
+    <meta name="keywords" content=""/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+
+    <link rel="alternate" type="application/rss+xml" title="The Pack RSS" href="http://static.readfulapp.com/sites/Packers/all.xml" />
+    
+    <link rel="alternate" type="application/rss+xml" title="The Pack - News RSS" href="http://static.readfulapp.com/Packers/News.xml" />
+    
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://d2gpj9hi2itc82.cloudfront.net/css/index-84a94f36.css"/>
+
+    
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-34481169-12', 'readfulapp.com');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+
+    </script>
+    
+
+</head>
+
+<body>
+
+<div ng-app="ClearCoat" bn-document-click="handleClick( $event )">
+    <div toaster-container toaster-options="{'position-class': 'toast-bottom-right'}"></div>
+    <div class="wrapper" ng-view></div>
+</div>
+
+<script src='//login.persona.org/include.js'></script>
+
+<script src="https://d2gpj9hi2itc82.cloudfront.net/js/index_app_dependencies-63c35d5f.js"></script>
+
+<script src="https://d2gpj9hi2itc82.cloudfront.net/js/index-05d344e8.js"></script>
+<div id="fb-root"></div>
+
+</body>
+</html>

@@ -1,0 +1,472 @@
+<!DOCTYPE HTML>
+<html lang="en-gb" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1 minimal-ui">
+  <base href="https://moneymatters.net/news-media/articles-education/stock-market/999-am-i-predicting-a-bear-market.html" />
+  <meta name="description" content="Ken Moraif is a financial advisor with offices in Dallas, Fort Worth, Houston, Oklahoma City, Phoenix, and California." />
+  <meta name="generator" content="Solid web Solutions for everything under the Solasus.com" />
+  <title>Am I Predicting a Bear Market? | Money Matters with Ken Moraif</title>
+  <link href="/templates/yoo_nano2/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/cache/widgetkit/widgetkit-d6c53cb5.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_nano2/css/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="https://moneymatters.net/components/com_chronoforms/css/frontforms_tight.css" type="text/css" />
+  <link rel="stylesheet" href="https://moneymatters.net/components/com_chronoforms/css/formcheck/theme/classic/formcheck.css" type="text/css" />
+  <link rel="stylesheet" href="https://moneymatters.net/components/com_chronoforms/css/formcheck_fix.css" type="text/css" />
+  <style type="text/css">
+
+		#page-peel-banner{
+			background:transparent!important;
+		}
+		#page-peel-banner img{
+			z-index:9999;
+			position:absolute;
+	
+			right:0;
+		
+		top:0;
+		width:80px;
+		height:83.2px;
+		-ms-interpolation-mode:bicubic;
+	
+		}
+		#page-peel-banner .page-peel-banner-img{
+			z-index:8888;
+			position:absolute;
+	
+			right:0;
+		
+			top:0;
+			width:80px;
+			height:80px;
+			text-indent:-9999px;
+		}
+
+		.peeloverlay {
+			top: 0;
+			z-index: 999999;
+			display: block;
+			width:80px;
+			height:80px;
+			position: absolute;
+	
+			background: url(/modules/mod_pagepeel_banner/assets/peeloverlay.png) no-repeat top right;
+			right: 0;
+      
+			-moz-background-size: 80px 80px;
+			-o-background-size: 80px 80px;
+			-webkit-background-size: 80px 80px;
+			-khtml-background-size: 80px 80px;
+			background-size: 80px 80px !important;
+		}
+	
+  </style>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/cache/widgetkit/widgetkit-5352fd0f.js" type="text/javascript"></script>
+  <script src="/modules/mod_pagepeel_banner/assets/cookie.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="https://moneymatters.net/components/com_chronoforms/js/formcheck/formcheck-yui.js" type="text/javascript"></script>
+  <script src="https://moneymatters.net/components/com_chronoforms/js/formcheck/formcheck-max.js" type="text/javascript"></script>
+  <script src="https://moneymatters.net/components/com_chronoforms/js/formcheck/lang/en.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+		jQuery.noConflict();
+		var blinking = null;
+		var bannerOpened = false;
+		var isIE = jQuery.browser.msie;
+		IEVersion = 9;
+		if(isIE){
+  		var IEVersion = parseInt(jQuery.browser.version, 10);
+		}
+
+		if( isIE && IEVersion < 9 ){
+			jQuery(".peeloverlay").remove();
+		}else{
+			function doBlink(){
+				jQuery(".peeloverlay").animate({opacity:0.8}, 300).animate({opacity:0.4}, 300);
+				blinking = setTimeout("doBlink()", 600);
+			}
+		}
+		
+		var openBanner = function(){
+			if( !isIE || IEVersion > 8 ){
+				jQuery(".peeloverlay").hide();
+			}
+	jQuery(".page-peel-banner-img").css('background-image', 'url(/images/banners/pp-big.png)');
+			jQuery("#page-peel-banner img").stop().animate({width: '500px', height: '520px'}, 800);
+			jQuery(".page-peel-banner-img").stop().animate({width: '500px', height: '500px'}, 800);
+		}
+
+		var closeBanner = function(){
+			jQuery("#page-peel-banner img").stop().animate({width: '80px', height: '83.2px'}, 800);
+	jQuery(".page-peel-banner-img").stop().animate({width: '80px', height: '80px'}, 800, function(){
+			jQuery(".page-peel-banner-img").css('background-image', 'url(/images/banners/pp-small.png)');
+			if( !isIE || IEVersion > 8 ){
+				jQuery(".peeloverlay").show();
+			}
+		});
+			bannerOpened = false;
+		}
+
+		jQuery(document).ready(function(){
+			if( isIE && IEVersion < 9 ){
+				jQuery(".peeloverlay").remove();
+			}
+			jQuery("#page-peel-banner").remove().prependTo('body');
+	
+			if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/iPad/i)) || (navigator.userAgent.toLowerCase().indexOf("android") > -1) ) {
+				var href = jQuery("#page-peel-banner a").attr("href");
+				jQuery("#page-peel-banner a").removeAttr("href").attr("rel", href);
+
+				jQuery("#page-peel-banner a").click(function(){
+					if(bannerOpened == false){
+						openBanner();
+						bannerOpened = true;
+						jQuery("#page-peel-banner a").removeAttr("rel").attr("href", href);
+						setTimeout("closeBanner()", 5000);
+						return false;
+					}else{
+						return true;
+					}
+				});
+			}else{
+				jQuery("#page-peel-banner").hover(function(){
+					openBanner();
+				}, function(){
+					closeBanner();
+				});
+			}
+
+			if( !isIE || IEVersion > 8 ){
+				doBlink();
+			}
+		});
+	//<![CDATA[
+			window.addEvent('domready', function() {
+				document.id('chronoform_maillist_01a').addClass('hasValidation');
+				formCheck_maillist_01a = new FormCheckMax('chronoform_maillist_01a', {
+					onValidateSuccess: function(){},
+					display : {
+						showErrors : 0,
+						errorsLocation: 1					}
+				});										
+			});
+			
+//]]>
+  </script>
+  <script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js"></script>
+
+<link rel="apple-touch-icon-precomposed" href="/templates/yoo_nano2/apple_touch_icon.png" />
+<link rel="stylesheet" href="/templates/yoo_nano2/css/base.css" />
+<link rel="stylesheet" href="/templates/yoo_nano2/styles/page/css/layout.css" />
+<link rel="stylesheet" href="/templates/yoo_nano2/styles/page/css/menus.css" />
+<style>.wrapper { max-width: 980px; }
+#sidebar-a { width: 25%; }
+#maininner { width: 75%; }
+#menu .dropdown { width: 250px; }
+#menu .columns2 { width: 500px; }
+#menu .columns3 { width: 750px; }
+#menu .columns4 { width: 1000px; }</style>
+<link rel="stylesheet" href="/templates/yoo_nano2/styles/page/css/modules.css" />
+<link rel="stylesheet" href="/templates/yoo_nano2/css/tools.css" />
+<link rel="stylesheet" href="/templates/yoo_nano2/styles/page/css/system.css" />
+<link rel="stylesheet" href="/templates/yoo_nano2/css/extensions.css" />
+<link rel="stylesheet" href="/templates/yoo_nano2/css/custom.css" />
+<link rel="stylesheet" href="/templates/yoo_nano2/css/font2/arial.css" />
+<link rel="stylesheet" href="/templates/yoo_nano2/css/font3/trebuchet.css" />
+<link rel="stylesheet" href="/templates/yoo_nano2/styles/page/css/style.css" />
+<link rel="stylesheet" href="/templates/yoo_nano2/styles/page/css/responsive.css" />
+<link rel="stylesheet" href="/templates/yoo_nano2/css/print.css" />
+<script src="/templates/yoo_nano2/warp/js/warp.js"></script>
+<script src="/templates/yoo_nano2/warp/js/responsive.js"></script>
+<script src="/templates/yoo_nano2/warp/js/accordionmenu.js"></script>
+<script src="/templates/yoo_nano2/warp/js/dropdownmenu.js"></script>
+<script src="/templates/yoo_nano2/js/jquery-cookie/jquery.cookie.js"></script>
+<script src="/templates/yoo_nano2/js/template.js"></script>
+<link rel="stylesheet" href="/templates/yoo_nano2/css/custom.css?d=04015018201602"><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24488590-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-2196887-64', 'moneymatters.net');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="page" class="page sidebar-a-right sidebars-1  isblog " data-config='{"twitter":0,"plusone":0,"facebook":0}'>
+			<div class="module page-peel page-peel deepest">
+
+			
+
+<div id="page-peel-banner">
+	<a href="/buy-hold-sell/">
+		<img src="/modules/mod_pagepeel_banner/assets/bg.png" alt="" />
+		<div class="peeloverlay"></div>
+		<span class="page-peel-banner-img" style="background:#FFFFFF url(/images/banners/pp-small.png) no-repeat right top;">Money Matters with Ken Moraif</span>
+	</a>
+</div>
+<img src="/images/banners/pp-small.png" alt="" style="display:none" />
+
+
+		
+</div>			
+	<div class="wrapper clearfix"><div>
+
+		<header id="header">
+
+						<div id="toolbar" class="clearfix">
+
+									
+								<div class="float-right"><div class="module top_menu top_menu deepest">
+
+			<ul class="menu menu-line"><li class="level1 item191"><a class="link_portfolio level1" href="/free-portfolio-review.html"><span>Free Portfolio Review</span></a></li><li class="level1 item358"><a class="link_seminars level1" href="/seminars.html"><span>Seminar Sign-Up</span></a></li><li class="level1 item193"><a class="link_alerts level1" href="/newsroom/email-market-alerts.html"><span>Email Market Alerts</span></a></li></ul>		
+</div>
+<div class="module   deepest">
+
+			
+<table class="header_phone">
+<tbody>
+<tr>
+<td valign="middle"><a href="/newsroom/podcasts.html"><img src="/images/icons/Podcasts.png" alt="Podcasts" width="35" height="35" style="margin-right: 5px;" /></a></td>
+<td valign="middle"><a href="/newsroom/podcasts.html"><span style="font-weight: bold;">Radio Show</span></a></td>
+<td valign="middle">&nbsp;|&nbsp;</td>
+<td valign="middle"><a href="/client-login" class="client_login"><span style="font-weight: bold;">Client Login</span></a></td>
+<td valign="middle">&nbsp;|&nbsp;</td>
+<td valign="middle"><a class="tel_link" href="tel:8009940302">Call Today&nbsp;</a></td>
+<td valign="middle"><a class="tel_link" href="tel:8009940302"><span style="font-size: 135%;">(800) 994-0302</span></a></td>
+</tr>
+</tbody>
+</table>
+<form action="https://moneymatters.net/news-media/articles-education/stock-market/999-am-i-predicting-a-bear-market.html?chronoform=maillist_01a&amp;event=submit" name="maillist_01a" id="chronoform_maillist_01a" method="post" class="Chronoform"><div class="ccms_form_element cfdiv_text" id="email_container_div" style=""><label for="email">Email</label><input id="email" maxlength="150" size="30" class="email validate['required','email']" title="" type="text" value="enter your email to get our market alerts" name="email" />
+<div class="clear"></div><div id="error-message-email"></div></div><div class="ccms_form_element cfdiv_submit" id="button01_container_div" style="text-align:left"><input name="button01" id="button01" class="button" value="Go" type="submit" />
+<div class="clear"></div><div id="error-message-button01"></div></div><input id="source" type="hidden" value="" name="source" />
+<div class="ccms_form_element cfdiv_empty" id="empty_container_div" style=""><div class="clear"></div><div id="error-message-empty"></div></div><input type="hidden" name="fb95dc64103b8e1c4416cc1e758b1699" value="1" /></form>		
+</div></div>
+								
+			</div>
+			
+				
+			<div id="headerbar" class="clearfix">
+			
+					
+				<a id="logo" href="https://moneymatters.net">
+<div><img src="/images/money_matters.png" alt="money matters" width="206" height="150" /></div></a>
+								
+								
+			</div>
+			
+						<div id="menubar" class="clearfix">
+				
+								<nav id="menu"><ul class="menu menu-dropdown"><li class="level1 item584"><a href="/" class="level1"><span>Home</span></a></li><li class="level1 item113 parent"><a href="/who-we-are.html" class="level1 parent"><span>Who We Are</span></a><div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="nav-child unstyled small level2"><li class="level2 item219 parent"><a href="/who-we-are.html" class="level2 parent"><span>About Money Matters</span></a><ul class="nav-child unstyled small level3"><li class="level3 item224"><a href="/who-we-are.html#senior_advisors" class="level3"><span>Senior Advisors</span></a></li><li class="level3 item225"><a href="/who-we-are.html#advisors" class="level3"><span>Advisors</span></a></li><li class="level3 item344"><a href="/who-we-are.html#operations" class="level3"><span>Operations</span></a></li></ul></li><li class="level2 item195"><a href="/who-we-are/contact-us.html" class="level2"><span>Contact Us</span></a></li><li class="level2 item116 parent"><a href="/who-we-are/philanthropy.html" class="level2 parent"><span>Philanthropy</span></a><ul class="nav-child unstyled small level3"><li class="level3 item230"><a href="/who-we-are/philanthropy.html" class="level3"><span>Money Matters in the Community</span></a></li><li class="level3 item231"><a href="/who-we-are/philanthropy/boys-girls-club.html" class="level3"><span>Boys &amp; Girls Club</span></a></li><li class="level3 item232"><a href="/who-we-are/philanthropy/habitat-for-humanity.html" class="level3"><span>Habitat for Humanity</span></a></li></ul></li></ul></div></div></div></div></li><li class="level1 item114 parent"><a href="/what-we-do.html" class="level1 parent"><span>What We Do</span></a><div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="nav-child unstyled small level2"><li class="level2 item220"><a href="/what-we-do.html" class="level2"><span>Financial Services</span></a></li><li class="level2 item138"><a href="/what-we-do/rate-yours.html" class="level2"><span>Rate Yours</span></a></li><li class="level2 item405"><a href="/client-events.html" class="level2"><span>Client Events</span></a></li></ul></div></div></div></div></li><li class="level1 item137 parent"><a href="/where-we-are.html" class="level1 parent"><span>Where We Are</span></a><div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="nav-child unstyled small level2"><li class="level2 item139"><a href="/where-we-are/north-dallas-office.html" class="level2"><span>TX | North Dallas Headquarters</span></a></li><li class="level2 item345"><a href="/where-we-are/scottsdale-az-office.html" class="level2"><span>AZ | Scottsdale Office</span></a></li><li class="level2 item563"><a href="/where-we-are/west-phoenix-az-office.html" class="level2"><span>AZ | West Phoenix Office</span></a></li><li class="level2 item542"><a href="/where-we-are/ca-el-segundo-office.html" class="level2"><span>CA | El Segundo Office</span></a></li><li class="level2 item406"><a href="/where-we-are/orange-county-california-office.html" class="level2"><span>CA | Orange County Office</span></a></li><li class="level2 item613"><a href="/where-we-are/pasadena-ca-office.html" class="level2"><span>CA | Pasadena Office</span></a></li><li class="level2 item562"><a href="/where-we-are/woodland-hills-ca-office.html" class="level2"><span>CA | Woodland Hills Office</span></a></li><li class="level2 item227"><a href="/where-we-are/oklahoma-city.html" class="level2"><span>OK | Oklahoma City Office</span></a></li><li class="level2 item396"><a href="/where-we-are/austin-tx-office.html" class="level2"><span>TX | Austin Office</span></a></li><li class="level2 item142"><a href="/where-we-are/coppell-office.html" class="level2"><span>TX | Coppell Office</span></a></li><li class="level2 item140"><a href="/where-we-are/houston-office.html" class="level2"><span>TX | Houston Office</span></a></li><li class="level2 item141"><a href="/where-we-are/fort-worth-office.html" class="level2"><span>TX | Fort Worth Office</span></a></li><li class="level2 item438"><a href="/where-we-are/the-woodlands-office.html" class="level2"><span>TX | The Woodlands Office</span></a></li></ul></div></div></div></div></li><li class="level1 item115 parent active"><span class="separator level1 parent active"><span>Videos &amp; Articles</span></span>
+<div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="nav-child unstyled small level2"><li class="level2 item188"><a href="/news-media/strategy-videos.html" class="level2"><span>Strategy Videos</span></a></li><li class="level2 item357"><a href="/news-media/financial-tip-videos.html" class="level2"><span>Financial Tip Videos</span></a></li><li class="level2 item143 parent active"><a href="/news-media/articles-education.html" class="level2 parent active"><span>Articles &amp; Education</span></a><ul class="nav-child unstyled small level3"><li class="level3 item172"><a href="/news-media/articles-education/bond-market.html" class="level3"><span>Bond Market</span></a></li><li class="level3 item144"><a href="/news-media/articles-education/insurance.html" class="level3"><span>Insurance</span></a></li><li class="level3 item145"><a href="/news-media/articles-education/retirement-planning.html" class="level3"><span>Retirement Planning</span></a></li><li class="level3 item147 active current"><a href="/news-media/articles-education/stock-market.html" class="level3 active current"><span>Stock Market</span></a></li><li class="level3 item173"><a href="/news-media/articles-education/securities.html" class="level3"><span>Securities</span></a></li><li class="level3 item176"><a href="/news-media/articles-education/social-security.html" class="level3"><span>Social Security</span></a></li><li class="level3 item175"><a href="/news-media/articles-education/tax-planning.html" class="level3"><span>Tax Planning</span></a></li><li class="level3 item174"><a href="/news-media/articles-education/the-economy.html" class="level3"><span>The Economy</span></a></li><li class="level3 item146"><a href="/news-media/articles-education/world-economy.html" class="level3"><span>World Economy</span></a></li></ul></li><li class="level2 item392"><a href="/news-media/podcasts.html" class="level2"><span>Podcasts</span></a></li><li class="level2 item393"><a href="/news-media/email-market-alerts.html" class="level2"><span>Email Market Alerts</span></a></li><li class="level2 item394"><a href="/news-media/news-and-events.html" class="level2"><span>Press and News</span></a></li></ul></div></div></div></div></li><li class="level1 item364 parent"><span class="separator level1 parent"><span>Newsroom</span></span>
+<div class="dropdown columns1"><div class="dropdown-bg"><div><div class="width100 column"><ul class="nav-child unstyled small level2"><li class="level2 item229"><a href="/newsroom/radio-show-air-times.html" class="level2"><span>Radio Show Air Times</span></a></li><li class="level2 item343"><a href="/newsroom/podcasts.html" class="level2"><span>Podcasts</span></a></li><li class="level2 item190"><a href="/newsroom/email-market-alerts.html" class="level2"><span>Email Market Alerts</span></a></li><li class="level2 item281"><a href="/newsroom/press-and-news.html" class="level2"><span>Press and News</span></a></li></ul></div></div></div></div></li></ul></nav>
+				
+								
+			</div>
+					
+					
+		</header>
+
+				
+				
+		
+				<div id="main" class="grid-block">
+
+			<div id="maininner" class="grid-box">
+
+								<section id="breadcrumbs"><div class="breadcrumbs"><a href="/">Home</a><span>Videos &amp; Articles</span><a href="/news-media/articles-education.html">Articles &amp; Education</a><a href="/news-media/articles-education/stock-market.html">Stock Market</a><strong>Am I Predicting a Bear Market?</strong></div></section>
+				
+								<div id="addthis_wrapper"><section id="addthis"><div class="module   deepest">
+
+			 <div class='joomla_add_this'><!-- AddThis Button BEGIN -->
+<script type='text/javascript'>
+var addthis_product = 'jlp-2.0';
+var addthis_config = {
+pubid:'ra-520326e534b10bd3',
+services_exclude:'count',
+ui_hover_direction:false,
+data_track_clickback:true,
+ui_language:'en',
+ui_use_css:true,
+data_ga_property:'AddThis'
+}
+</script>
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style ">
+									<a class="addthis_button_preferred_1"></a>
+									<a class="addthis_button_preferred_2"></a>
+									<a class="addthis_button_preferred_3"></a>
+									<a class="addthis_button_preferred_4"></a>
+									<a class="addthis_button_compact"></a>
+									<a class="addthis_counter addthis_bubble_style"></a>
+								</div> <!-- AddThis Button END -->
+</div>		
+</div></section></div>
+				
+				
+								<section id="content" class="grid-block"><div id="system-message-container">
+	</div>
+
+
+<div id="system">
+
+	
+	<article class="item" data-permalink="http://moneymatters.net/news-media/articles-education/stock-market/999-am-i-predicting-a-bear-market.html">
+
+		
+				<header>
+
+										
+								
+			<h1 class="title">Am I Predicting a Bear Market?</h1>
+
+						<p class="meta">
+		
+				 Posted on  <time datetime="2016-02-10" pubdate>10 February 2016</time>. Category |  <a href="/news-media/articles-education/stock-market.html">Stock Market</a>	
+			
+			</p>
+			
+		</header>
+			
+		
+		<div class="content clearfix">
+
+		
+<p>No. I think I’m watching it happen right now. As you may recall, in my <a href="/news-media/articles-education/970-fearless-forecast-2016.html">2016 Fearless Forecast,</a> I predicted we’d see a recession. I think we’re already in one: the recent volatility seems to be validating it. I also said the Dow would drop to 11,500 this year, which doesn’t sound as crazy as it did at the beginning of the year—and remember, I'm the same guy that anticipated the Dow at 7,000 back in 2008. It sounded crazy then, too. <span style="color: #1a1a1a;">And I’m not someone who sees bear markets around every corner. If you’ve read my Fearless Forecasts over the years, I’ve been very bullish on many occasions.</span></p>
+ 
+<p>What makes me think we’re in a bear market? The first clue: Governments around the world are printing money, borrowing money, and instigating negative interest rates. Would they be doing that if everything were fine?&nbsp; I think this global stimulus tells us that the world economies are not in good shape.&nbsp;</p>
+<p>Next clue: The US economy has slowed down. It was growing at about 2 percent in the third quarter of 2015, and slowed to a .7 percent annualized rate in the fourth quarter of last year. We are barely keeping our head above water, and I think the global economy could pull us under.</p>
+<p>We also have negative growth. Companies’ profits shrunk for the fourth quarter in a row, and earnings per share dropped for the third consecutive quarter in a row. On top of this negative growth trend, global corporate debt is now so high that companies can't borrow enough to fix their problems, and they're being downgraded.&nbsp; The S&amp;P just announced that they are downgrading more corporations around the world than they have since the worst of the credit crisis in 2009.</p>
+<p>You can see why I think this is a very dangerous time in the stock market.&nbsp; Recessions bring bear markets and if we have the average bear market drop of 35 percent, that will put the Dow at 11,500.&nbsp; In my opinion, the foundation upon which the stock market is standing is sand, and it's slowly dribbling away. It’s getting very,</p>
+<p>very dicey out there.</p>		</div>
+
+		
+		
+			
+	</article>
+
+</div></section>
+				
+								<section id="innerbottom" class="grid-block"><div class="grid-box width100 grid-v"><div class="module mod-line  deepest">
+
+			
+<div class="box-info">All expressions of opinion reflect the judgment of the author as of the date of publication and are subject to change. Information presented does not involve the rendering of personalized investment advice. Different types of investments involve varying degrees of risk, and there can be no assurance that any specific investment will either be suitable or profitable for a client's investment portfolio. All investment strategies have the potential for profit or loss.</div>		
+</div></div></section>
+				
+			</div>
+			<!-- maininner end -->
+			
+						<aside id="sidebar-a" class="grid-box"><div class="grid-box width100 grid-v"><div class="module mod-line seminar_locations deepest">
+
+			<ul class="menu menu-sidebar"><li class="level1 item301"><a href="/seminars-cal/61-phoenix-az.html" class="level1"><span>AZ | Metro Phoenix</span></a></li><li class="level1 item407"><a href="/seminars-cal/68-los-angeles-ca-orange-county.html" class="level1"><span>CA | Greater L.A. &amp; O.C.</span></a></li><li class="level1 item200"><a href="/seminars-cal/48-oklahoma-city-ok.html" class="level1"><span>OK | Oklahoma City Metro</span></a></li><li class="level1 item197"><a href="/seminars-cal/45-dallas-fort-worth-tx.html" class="level1"><span>TX | DFW Metroplex</span></a></li><li class="level1 item322"><a href="/seminars-cal/62-austin-tx.html" class="level1"><span>TX | Greater Austin</span></a></li><li class="level1 item199"><a href="/seminars-cal/47-houston-tx.html" class="level1"><span>TX | Greater Houston</span></a></li></ul>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line  deepest">
+
+		<h3 class="module-title">Categories</h3>	<ul class="menu menu-sidebar"><li class="level1 item177"><a href="/news-media/articles-education.html" class="level1"><span>Most Recent</span></a></li><li class="level1 item182"><a href="/news-media/articles-education/bond-market.html" class="level1"><span>Bond Market</span></a></li><li class="level1 item178"><a href="/news-media/articles-education/insurance.html" class="level1"><span>Insurance</span></a></li><li class="level1 item179"><a href="/news-media/articles-education/retirement-planning.html" class="level1"><span>Retirement Planning</span></a></li><li class="level1 item183"><a href="/news-media/articles-education/securities.html" class="level1"><span>Securities</span></a></li><li class="level1 item186"><a href="/news-media/articles-education/social-security.html" class="level1"><span>Social Security</span></a></li><li class="level1 item181 active current"><a href="/news-media/articles-education/stock-market.html" class="level1 active current"><span>Stock Market</span></a></li><li class="level1 item185"><a href="/news-media/articles-education/tax-planning.html" class="level1"><span>Tax Planning</span></a></li><li class="level1 item184"><a href="/news-media/articles-education/the-economy.html" class="level1"><span>The Economy</span></a></li><li class="level1 item180"><a href="/news-media/articles-education/world-economy.html" class="level1"><span>World Economy</span></a></li></ul>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line  deepest">
+
+			
+<div style="text-align: center; margin-bottom: 15px;"><a href="http://www.forbes.com/top-wealth-managers/" target="_blank"><img src="/images/awards/top100_forbes_2015.png" alt="top100 forbes 2015" width="210" height="124" /></a></div>
+<div style="text-align: center; margin-bottom: 15px;"><a href="https://www.money-media.com/images/email/FT_300/FT300-Top-RIAs-2014.pdf" style="display: block; background: #fff; border: 1px #ccc solid; width: 195px; padding: 3px 0 0; margin: 10px 0 0;"><img src="/images/banners/FT_300_Advisers_Logo_2014.jpg" alt="FT 300 Advisers Logo 2014" width="151" height="93" /></a></div>
+<div style="text-align: center; margin-bottom: 15px;"><a href="http://www.barrons.com/report/top-financial-advisors/independent/2015" target="_blank"><img src="/images/commendations/barrons_top100.png" alt="barrons top100" width="210" height="124" /></a></div>
+<div style="text-align: center; margin-bottom: 15px;"><a href="http://online.barrons.com/report/top-financial-advisors/independent" target="_blank"><img src="/images/commendations/top50.png" alt="top50" width="210" height="124" /></a></div>		
+</div></div></aside>
+						
+			
+		</div>
+				<!-- main end -->
+
+				
+				
+				<footer id="footer">
+
+						<a id="totop-scroller" href="#page"></a>
+			
+			<div class="module   deepest">
+
+			<ul class="menu menu-line"><li class="level1 item101"><a href="/" class="level1"><span>Home</span></a></li><li class="level1 item238"><a href="/careers.html" class="level1"><span>Careers</span></a></li><li class="level1 item194"><a href="/disclosures.html" class="level1"><span>Disclosures</span></a></li><li class="level1 item280"><a href="/privacy-policy.html" class="level1"><span>Privacy Policy</span></a></li><li class="level1 item307"><a href="/client-login.html" class="level1"><span>Client Login</span></a></li><li class="level1 item256"><a href="/who-we-are/contact-us.html" class="level1"><span>Contact Us</span></a></li><li class="level1 item196"><a href="/sitemap.html" class="level1"><span>Sitemap</span></a></li></ul>		
+</div>
+<div class="module seminars_title seminars_title deepest">
+
+			
+<div style="display:none;"><div class="seminar-title">
+<h3><a href="/seminars.html">SIGN UP FOR THE NEXT SEMINAR IN YOUR AREA!</a></h3>
+<p class="borders">Choose your desired seminar location.<br />Don't see a location near you, <a href="/seminar-location-request.html">click here</a></p>
+</div></div>		
+</div>
+<div class="module social-icons social-icons deepest">
+
+			
+<div><a href="https://www.facebook.com/moneymatters" target="_blank"><img src="/images/icons/social/fb.png" alt="fb" /></a><a href="https://www.linkedin.com/company/money-matters-with-ken-moraif" target="_blank"><img src="/images/icons/social/linkedin.png" alt="linkedin" /></a><a href="https://twitter.com/KenMoraif" target="_blank"><img src="/images/icons/social/twitter.png" alt="twitter" /></a><a href="https://plus.google.com/110801563331046659199/posts" target="_blank"><img src="/images/icons/social/google+.png" alt="google+" /></a><a href="https://www.youtube.com/user/moneymatterswithken" target="_blank"><img src="/images/icons/social/youtube.png" alt="youtube" /></a><a href="mailto:info@moneymatters.net?subject=Contact%20from%20MoneyMatters.net" target="_blank"><img src="/images/icons/social/email.png" alt="email" /></a></div>		
+</div>
+<div class="module mobile_header mobile_header deepest">
+
+			
+<div class="mobile_top">
+<p style="text-align: center;"><a class="tel_link" href="tel:8009940302">Call Today <span style="font-size: 135%;">(800) 994-0302</span></a></p>
+<div class="mobile_menu">
+<p style="text-align: center;"><a href="/seminars.html" class="link_seminars level1"><span>Seminar Sign-Up</span></a></p>
+<p style="text-align: center;"><a class="link_portfolio level1" href="/free-portfolio-review.html"><span>Free Portfolio Review</span></a></p>
+<p style="text-align: center;"><a class="link_alerts level1" href="/newsroom/email-market-alerts.html"><span>Email Market Alerts</span></a></p>
+<p style="text-align: center;"><a class="link_podcasts level1" href="/newsroom/podcasts.html"><span>Listen to Podcasts</span></a></p>
+<p style="text-align: center;"><a class="link_alerts level1" href="/news-media/strategy-videos.html"><span>Watch Our Strategy Videos</span></a></p>
+</div>
+</div>		
+</div>
+<div class="module   deepest">
+
+			
+<p><a href="/disclosures.html"><span style="line-height: 1.3em;">©&nbsp;Copyright  
+2016 
+ All Rights Reserved. Legal Disclaimer.</span></a></p>		
+</div>
+<div class="module rss_feed rss_feed deepest">
+
+					
+</div>
+<div class="module   deepest">
+
+			
+<div> 
+<script async src="https://i.simpli.fi/dpx.js?cid=22155&action=100&segment=moneymatterslal&m=1&sifi_tuid=6628"></script> 
+</div>		
+</div>
+		</footer>
+		
+	</div></div>
+	
+	<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1056429047;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1056429047/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<a href="#" id="viewmobile"></a>
+<a href="#" id="viewfullsite"></a>
+</body>
+</html>

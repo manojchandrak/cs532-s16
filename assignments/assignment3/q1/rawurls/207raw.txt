@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+        <title>Страница не найдена</title>
+        <link rel="shortcut icon" type="image/png" href="//static.lpgenerator.ru/media/favicon.png" />
+        <link rel="stylesheet" type="text/css" href="//static.lpgenerator.ru/media/css/screen.css?v=2015.04.25" />
+        <link rel="stylesheet" type="text/css" href="//static.lpgenerator.ru/media/css/print.css?v=2015.04.25" media="print" />
+        <style>
+            /* 404_client begin */
+            .p404Client .header .logo {
+                width: 184px;
+                padding: 28px 0 0 22px;
+            }
+            .p404Client .header .logo img {
+                max-width: 100%;
+            }
+            .p404Client .content .container {
+                min-height: 635px;
+                background: url('//static.lpgenerator.ru/media/css/images/bg_404_client.jpg') 0 4px no-repeat;
+            }
+            .p404Client .footer {
+                background-color: #2f2f2f;
+            }
+            /* 404_client end */
+            #social_links a {
+                display: inline-block; width: 50px; height: 50px;
+                background: #e6e9ec url('//static.lpgenerator.ru/media/css/images/404_client_social_14042014.png') no-repeat;
+                margin: 0 0;
+                border-radius: 25px;
+            }
+            #social_links a:hover {
+                background-color: #f1f3f4;
+            }
+            #social_links .bl { background-position: 0 0; }
+            #social_links .rss { background-position: -53px 0; }
+            #social_links .tw { background-position: -106px 0; }
+            #social_links .yt { background-position: -159px 0; }
+            #social_links .fb { background-position: -212px 0; }
+            #social_links .gp { background-position: -265px 0; }
+        </style>
+    </head>
+
+    <body class="p404Client">
+        <div class="header">
+            <div class="container">
+                <div class="logo">
+                    <img src="//static.lpgenerator.ru/media/css/images/new_logo_black.png" alt="" />
+                </div>
+            </div>
+        </div>
+        <div class="content">
+            <div class="container">
+                <div class="span-24 last">
+                    <div class="clearfix">
+                        <p class="prepend-15 span-7 last" style="color: #2f2f2f; margin-top: 231px;">
+                            <span  style="font-size: 28px; line-height: 32px;">
+                                К сожалению, запрашиваемая вами страница не найдена.
+                            </span>
+                            <br><br>
+                            <span  style="font-size: 17px; line-height: 20px;">Куда желаете перейти дальше?</span>
+                        </p>
+                    </div>
+                    <div class="clearfix" style="margin-top: 40px;">
+                        <div id="social_links" class="prepend-15 span-8 last">
+                            <a class="bl" href="http://lpgenerator.ru/blog/"></a>
+                            <a class="rss" href="http://feeds.feedburner.com/LPgenerator"></a>
+                            <a class="tw" href="http://twitter.com/lpgenerator"></a>
+                            <a class="yt" href="http://www.youtube.com/user/LandingPageGenerator"></a>
+                            <a class="fb" href="http://www.facebook.com/lpgenerator"></a>
+                            <a class="gp" href="https://plus.google.com/u/0/104102035117250562711/posts"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="container">
+                    <p style="color: #888; font-size: 12px; padding-top: 14px;">
+                        &copy; 2011&ndash;2015 LPGenerator.<br>
+                        LPgenerator - простые маркетинговые решения сложных задач. Преврати трафик в реальные продажи!
+                    </p>
+            </div>
+        </div>
+
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-39204509-1']);
+            _gaq.push(['_setDomainName', 'lpgenerator.ru']);
+            _gaq.push(['_setAllowLinker', true]);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+
+        </script>
+    </body>
+
+</html>
+
+

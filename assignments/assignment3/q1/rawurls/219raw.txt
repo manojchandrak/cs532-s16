@@ -1,0 +1,2131 @@
+<!DOCTYPE html>
+<html class='v2' dir='ltr'>
+<head>
+<meta content='width=1100' name='viewport'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<script type="text/javascript">(function() { (function(){function c(a){this.t={};this.tick=function(a,c,b){var d=void 0!=b?b:(new Date).getTime();this.t[a]=[d,c];if(void 0==b)try{window.console.timeStamp("CSI/"+a)}catch(e){}};this.tick("start",null,a)}var a;window.performance&&(a=window.performance.timing);var h=a?new c(a.responseStart):new c;window.jstiming={Timer:c,load:h};if(a){var b=a.navigationStart,e=a.responseStart;0<b&&e>=b&&(window.jstiming.srt=e-b)}if(a){var d=window.jstiming.load;0<b&&e>=b&&(d.tick("_wtsrt",void 0,b),d.tick("wtsrt_",
+"_wtsrt",e),d.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),d&&0<b&&(d.tick("_tbnd",void 0,window.chrome.csi().startE),d.tick("tbnd_","_tbnd",b))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,d&&0<b&&(d.tick("_tbnd",void 0,window.external.startE),d.tick("tbnd_","_tbnd",b))),a&&(window.jstiming.pt=a)}catch(k){}})();window.tickAboveFold=function(c){var a=0;if(c.offsetParent){do a+=c.offsetTop;while(c=c.offsetParent)}c=a;750>=c&&window.jstiming.load.tick("aft")};var f=!1;function g(){f||(f=!0,window.jstiming.load.tick("firstScrollTime"))}window.addEventListener?window.addEventListener("scroll",g,!1):window.attachEvent("onscroll",g);
+ })();</script>
+<meta content='blogger' name='generator'/>
+<link href='http://travelorereport.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://travelorereport.blogspot.com/2016/01/travelore-news-melia-hotels.html' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Travelore Report, Monthly In Print Since 1971 - Atom" href="http://travelorereport.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Travelore Report, Monthly In Print Since 1971 - RSS" href="http://travelorereport.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Travelore Report, Monthly In Print Since 1971 - Atom" href="https://www.blogger.com/feeds/4717564006622477703/posts/default" />
+
+<link rel="alternate" type="application/atom+xml" title="Travelore Report, Monthly In Print Since 1971 - Atom" href="http://travelorereport.blogspot.com/feeds/8379395241412689084/comments/default" />
+<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/3978477444-ieretrofit.js"></script>
+<![endif]-->
+<link href='http://www.melia.com/en/hotels/jamaica/trelawny/melia-braco-village/img/logojamaica.jpg' rel='image_src'/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>Travelore Report, Monthly In Print Since 1971: Travelore News: Meliá Hotels International Introduces Its First Property In Jamaica, The All-Inclusive Meliá Braco Village in Rio Bueno</title>
+<link type='text/css' rel='stylesheet' href='https://www.blogger.com/static/v1/widgets/2973171168-css_bundle_v2.css' />
+<link type='text/css' rel='stylesheet' href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=4717564006622477703&zx=d081164f-c0ef-425a-ab79-5b7ab208f669' />
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Travel
+Designer: Sookhee Lee
+URL:      www.plyfly.net
+----------------------------------------------- */
+/* Variable definitions
+====================
+<Variable name="keycolor" description="Main Color" type="color" default="#539bcd"/>
+<Group description="Page Text" selector="body">
+<Variable name="body.font" description="Font" type="font"
+default="normal normal 13px 'Trebuchet MS',Trebuchet,sans-serif"/>
+<Variable name="body.text.color" description="Text Color" type="color" default="#bbbbbb"/>
+</Group>
+<Group description="Backgrounds" selector=".body-fauxcolumns-outer">
+<Variable name="body.background.color" description="Outer Background" type="color" default="#539bcd"/>
+<Variable name="content.background.color" description="Main Background" type="color" default="transparent"/>
+</Group>
+<Group description="Links" selector=".main-outer">
+<Variable name="link.color" description="Link Color" type="color" default="#ff9900"/>
+<Variable name="link.visited.color" description="Visited Color" type="color" default="#b87209"/>
+<Variable name="link.hover.color" description="Hover Color" type="color" default="#ff9900"/>
+</Group>
+<Group description="Blog Title" selector=".header h1">
+<Variable name="header.font" description="Font" type="font"
+default="normal normal 60px 'Trebuchet MS',Trebuchet,sans-serif"/>
+<Variable name="header.text.color" description="Text Color" type="color" default="#ffffff" />
+</Group>
+<Group description="Blog Description" selector=".header .description">
+<Variable name="description.text.color" description="Description Color" type="color"
+default="#bbbbbb" />
+</Group>
+<Group description="Tabs Text" selector=".tabs-inner .widget li a">
+<Variable name="tabs.font" description="Font" type="font"
+default="normal bold 16px 'Trebuchet MS',Trebuchet,sans-serif"/>
+<Variable name="tabs.text.color" description="Text Color" type="color" default="#ffffff"/>
+<Variable name="tabs.selected.text.color" description="Selected Color" type="color" default="#ffffff"/>
+</Group>
+<Group description="Tabs Background" selector=".tabs-outer .PageList">
+<Variable name="tabs.background.color" description="Background Color" type="color" default="transparent"/>
+<Variable name="tabs.selected.background.color" description="Selected Color" type="color" default="transparent"/>
+</Group>
+<Group description="Date Header" selector=".main-inner h2.date-header">
+<Variable name="date.font" description="Font" type="font"
+default="normal normal 14px 'Trebuchet MS',Trebuchet,sans-serif"/>
+<Variable name="date.text.color" description="Text Color" type="color" default="#bbbbbb"/>
+</Group>
+<Group description="Post Title" selector="h3.post-title a">
+<Variable name="post.title.font" description="Font" type="font"
+default="normal bold 20px 'Trebuchet MS',Trebuchet,sans-serif"/>
+<Variable name="post.title.text.color" description="Text Color" type="color"
+default="#ffffff"/>
+</Group>
+<Group description="Post Background" selector=".column-center-inner">
+<Variable name="post.background.color" description="Background Color" type="color"
+default="transparent"/>
+<Variable name="post.background.url" description="Post Background URL" type="url" default="none"/>
+</Group>
+<Group description="Gadget Title Color" selector="h2">
+<Variable name="widget.title.font" description="Font" type="font"
+default="normal bold 14px 'Trebuchet MS',Trebuchet,sans-serif"/>
+<Variable name="widget.title.text.color" description="Title Color" type="color" default="#ffffff"/>
+</Group>
+<Group description="Gadget Text" selector=".footer-inner .widget, .sidebar .widget">
+<Variable name="widget.font" description="Font" type="font"
+default="normal normal 13px 'Trebuchet MS',Trebuchet,sans-serif"/>
+<Variable name="widget.text.color" description="Text Color" type="color" default="#bbbbbb"/>
+</Group>
+<Group description="Gadget Links" selector=".sidebar .widget">
+<Variable name="widget.link.color" description="Link Color" type="color" default="#bbbbbb"/>
+<Variable name="widget.link.visited.color" description="Visited Color" type="color" default="#a5b809"/>
+<Variable name="widget.alternate.text.color" description="Alternate Color" type="color" default="#ffffff"/>
+</Group>
+<Group description="Sidebar Background" selector=".column-left-inner .column-right-inner">
+<Variable name="widget.outer.background.color" description="Background Color" type="color" default="transparent" />
+<Variable name="widget.border.bevel.color" description="Bevel Color" type="color" default="transparent" />
+</Group>
+<Variable name="body.background" description="Body Background" type="background"
+color="#525dcd" default="$(color) none repeat-x scroll top center"/>
+<Variable name="content.background" description="Content Background" type="background"
+color="transparent" default="$(color) none repeat scroll top center"/>
+<Variable name="comments.background" description="Comments Background" type="background"
+default="#cccccc none repeat scroll top center"/>
+<Variable name="content.imageBorder.top.space" description="Content Image Border Top Space" type="length" default="0" min="0" max="100px"/>
+<Variable name="content.imageBorder.top" description="Content Image Border Top" type="url" default="none"/>
+<Variable name="content.margin" description="Content Margin Top" type="length" default="20px" min="0" max="100px"/>
+<Variable name="content.padding" description="Content Padding" type="length" default="20px" min="0" max="100px"/>
+<Variable name="content.posts.padding" description="Posts Content Padding" type="length" default="10px" min="0" max="100px"/>
+<Variable name="tabs.background.gradient" description="Tabs Background Gradient" type="url"
+default="url(//www.blogblog.com/1kt/travel/bg_black_50.png)"/>
+<Variable name="tabs.selected.background.gradient" description="Tabs Selected Background Gradient" type="url"
+default="url(//www.blogblog.com/1kt/travel/bg_black_50.png)"/>
+<Variable name="widget.outer.background.gradient" description="Sidebar Gradient" type="url"
+default="url(//www.blogblog.com/1kt/travel/bg_black_50.png)"/>
+<Variable name="footer.background.gradient" description="Footer Background Gradient" type="url" default="none"/>
+<Variable name="mobile.background.overlay" description="Mobile Background Overlay" type="string"
+default="transparent none repeat scroll top left"/>
+<Variable name="mobile.button.color" description="Mobile Button Color" type="color" default="#ffffff" />
+<Variable name="startSide" description="Side where text starts in blog language" type="automatic" default="left"/>
+<Variable name="endSide" description="Side where text ends in blog language" type="automatic" default="right"/>
+*/
+/* Content
+----------------------------------------------- */
+body {
+font: normal normal 13px 'Trebuchet MS',Trebuchet,sans-serif;
+color: #bbbbbb;
+background: #525dcd url(http://themes.googleusercontent.com/image?id=1Ul4yPKnCfV-Z12SsWfF6g3-KlOwHmLlX7yXp6FYfFJYZN_3P2Aab-txRhhQiQfKYwTFw) no-repeat scroll top center /* Credit: Leontura (http://www.istockphoto.com/googleimages.php?id=1360043&platform=blogger) */;
+}
+html body .region-inner {
+min-width: 0;
+max-width: 100%;
+width: auto;
+}
+a:link {
+text-decoration:none;
+color: #e3ff00;
+}
+a:visited {
+text-decoration:none;
+color: #a5b809;
+}
+a:hover {
+text-decoration:underline;
+color: #e3ff00;
+}
+.content-outer .content-cap-top {
+height: 0;
+background: transparent none repeat-x scroll top center;
+}
+.content-outer {
+margin: 0 auto;
+padding-top: 20px;
+}
+.content-inner {
+background: transparent url(http://blogblog.com/1kt/travel/bg_black_70.png) repeat scroll top left;
+background-position: left -0;
+background-color: transparent;
+padding: 20px;
+}
+.main-inner .date-outer {
+margin-bottom: 2em;
+}
+/* Header
+----------------------------------------------- */
+.header-inner .Header .titlewrapper,
+.header-inner .Header .descriptionwrapper {
+padding-left: 10px;
+padding-right: 10px;
+}
+.Header h1 {
+font: normal normal 60px 'Trebuchet MS',Trebuchet,sans-serif;
+color: #ffffff;
+}
+.Header h1 a {
+color: #ffffff;
+}
+.Header .description {
+font-size: 130%;
+}
+/* Tabs
+----------------------------------------------- */
+.tabs-inner {
+margin: 1em 0 0;
+padding: 0;
+}
+.tabs-inner .section {
+margin: 0;
+}
+.tabs-inner .widget ul {
+padding: 0;
+background: transparent url(//www.blogblog.com/1kt/travel/bg_black_50.png) repeat scroll top center;
+}
+.tabs-inner .widget li {
+border: none;
+}
+.tabs-inner .widget li a {
+display: inline-block;
+padding: 1em 1.5em;
+color: #ffffff;
+font: normal bold 16px 'Trebuchet MS',Trebuchet,sans-serif;
+}
+.tabs-inner .widget li.selected a,
+.tabs-inner .widget li a:hover {
+position: relative;
+z-index: 1;
+background: transparent url(//www.blogblog.com/1kt/travel/bg_black_50.png) repeat scroll top center;
+color: #ffffff;
+}
+/* Headings
+----------------------------------------------- */
+h2 {
+font: normal bold 14px 'Trebuchet MS',Trebuchet,sans-serif;
+color: #ffffff;
+}
+.main-inner h2.date-header {
+font: normal normal 14px 'Trebuchet MS',Trebuchet,sans-serif;
+color: #bbbbbb;
+}
+.footer-inner .widget h2,
+.sidebar .widget h2 {
+padding-bottom: .5em;
+}
+/* Main
+----------------------------------------------- */
+.main-inner {
+padding: 20px 0;
+}
+.main-inner .column-center-inner {
+padding: 10px 0;
+}
+.main-inner .column-center-inner .section {
+margin: 0 10px;
+}
+.main-inner .column-right-inner {
+margin-left: 20px;
+}
+.main-inner .fauxcolumn-right-outer .fauxcolumn-inner {
+margin-left: 20px;
+background: transparent url(//www.blogblog.com/1kt/travel/bg_black_50.png) repeat scroll top left;
+}
+.main-inner .column-left-inner {
+margin-right: 20px;
+}
+.main-inner .fauxcolumn-left-outer .fauxcolumn-inner {
+margin-right: 20px;
+background: transparent url(//www.blogblog.com/1kt/travel/bg_black_50.png) repeat scroll top left;
+}
+.main-inner .column-left-inner,
+.main-inner .column-right-inner {
+padding: 15px 0;
+}
+/* Posts
+----------------------------------------------- */
+h3.post-title {
+margin-top: 20px;
+}
+h3.post-title a {
+font: normal bold 20px 'Trebuchet MS',Trebuchet,sans-serif;
+color: #ffffff;
+}
+h3.post-title a:hover {
+text-decoration: underline;
+}
+.main-inner .column-center-outer {
+background: transparent none repeat scroll top left;
+_background-image: none;
+}
+.post-body {
+line-height: 1.4;
+position: relative;
+}
+.post-header {
+margin: 0 0 1em;
+line-height: 1.6;
+}
+.post-footer {
+margin: .5em 0;
+line-height: 1.6;
+}
+#blog-pager {
+font-size: 140%;
+}
+#comments {
+background: transparent url(http://blogblog.com/1kt/travel/bg_black_50.png) repeat scroll top center;
+padding: 15px;
+}
+#comments .comment-author {
+padding-top: 1.5em;
+}
+#comments h4,
+#comments .comment-author a,
+#comments .comment-timestamp a {
+color: #ffffff;
+}
+#comments .comment-author:first-child {
+padding-top: 0;
+border-top: none;
+}
+.avatar-image-container {
+margin: .2em 0 0;
+}
+/* Comments
+----------------------------------------------- */
+#comments a {
+color: #ffffff;
+}
+.comments .comments-content .icon.blog-author {
+background-repeat: no-repeat;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg==);
+}
+.comments .comments-content .loadmore a {
+border-top: 1px solid #ffffff;
+border-bottom: 1px solid #ffffff;
+}
+.comments .comment-thread.inline-thread {
+background: transparent;
+}
+.comments .continue {
+border-top: 2px solid #ffffff;
+}
+/* Widgets
+----------------------------------------------- */
+.sidebar .widget {
+border-bottom: 2px solid transparent;
+padding-bottom: 10px;
+margin: 10px 0;
+}
+.sidebar .widget:first-child {
+margin-top: 0;
+}
+.sidebar .widget:last-child {
+border-bottom: none;
+margin-bottom: 0;
+padding-bottom: 0;
+}
+.footer-inner .widget,
+.sidebar .widget {
+font: normal normal 13px 'Trebuchet MS',Trebuchet,sans-serif;
+color: #bbbbbb;
+}
+.sidebar .widget a:link {
+color: #bbbbbb;
+text-decoration: none;
+}
+.sidebar .widget a:visited {
+color: #b87309;
+}
+.sidebar .widget a:hover {
+color: #bbbbbb;
+text-decoration: underline;
+}
+.footer-inner .widget a:link {
+color: #e3ff00;
+text-decoration: none;
+}
+.footer-inner .widget a:visited {
+color: #a5b809;
+}
+.footer-inner .widget a:hover {
+color: #e3ff00;
+text-decoration: underline;
+}
+.widget .zippy {
+color: #ffffff;
+}
+.footer-inner {
+background: transparent none repeat scroll top center;
+}
+/* Mobile
+----------------------------------------------- */
+body.mobile  {
+background-size: 100% auto;
+}
+body.mobile .AdSense {
+margin: 0 -10px;
+}
+.mobile .body-fauxcolumn-outer {
+background: transparent none repeat scroll top left;
+}
+.mobile .footer-inner .widget a:link {
+color: #bbbbbb;
+text-decoration: none;
+}
+.mobile .footer-inner .widget a:visited {
+color: #b87309;
+}
+.mobile-post-outer a {
+color: #ffffff;
+}
+.mobile-link-button {
+background-color: #e3ff00;
+}
+.mobile-link-button a:link, .mobile-link-button a:visited {
+color: #ffffff;
+}
+.mobile-index-contents {
+color: #bbbbbb;
+}
+.mobile .tabs-inner .PageList .widget-content {
+background: transparent url(//www.blogblog.com/1kt/travel/bg_black_50.png) repeat scroll top center;
+color: #ffffff;
+}
+.mobile .tabs-inner .PageList .widget-content .pagelist-arrow {
+border-left: 1px solid #ffffff;
+}
+
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+body {
+min-width: 960px;
+}
+.content-outer, .content-fauxcolumn-outer, .region-inner {
+min-width: 960px;
+max-width: 960px;
+_width: 960px;
+}
+.main-inner .columns {
+padding-left: 0px;
+padding-right: 310px;
+}
+.main-inner .fauxcolumn-center-outer {
+left: 0px;
+right: 310px;
+/* IE6 does not respect left and right together */
+_width: expression(this.parentNode.offsetWidth -
+parseInt("0px") -
+parseInt("310px") + 'px');
+}
+.main-inner .fauxcolumn-left-outer {
+width: 0px;
+}
+.main-inner .fauxcolumn-right-outer {
+width: 310px;
+}
+.main-inner .column-left-outer {
+width: 0px;
+right: 100%;
+margin-left: -0px;
+}
+.main-inner .column-right-outer {
+width: 310px;
+margin-right: -310px;
+}
+#layout {
+min-width: 0;
+}
+#layout .content-outer {
+min-width: 0;
+width: 800px;
+}
+#layout .region-inner {
+min-width: 0;
+width: auto;
+}
+--></style>
+<script type="text/javascript">var a="&m=1",d="(^|&)m=",e="?",f="?m=1";function g(){var b=window.location.href,c=b.split(e);switch(c.length){case 1:return b+f;case 2:return 0<=c[1].search(d)?null:b+a;default:return null}}var h=navigator.userAgent;if(-1!=h.indexOf("Mobile")&&-1!=h.indexOf("WebKit")&&-1==h.indexOf("iPad")||-1!=h.indexOf("Opera Mini")||-1!=h.indexOf("IEMobile")){var k=g();k&&window.location.replace(k)};
+</script><script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('headEnd');
+</script></head>
+<body class='loading variant-studio'>
+<div class='navbar section' id='navbar' name='Navbar'><div class='widget Navbar' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+        gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+          if (gapi.iframes && gapi.iframes.getContext) {
+            gapi.iframes.getContext().openChild({
+                url: 'https://www.blogger.com/navbar.g?targetBlogID\0754717564006622477703\46blogName\75Travelore+Report,+Monthly+In+Print+Si...\46publishMode\75PUBLISH_MODE_BLOGSPOT\46navbarType\75BLUE\46layoutType\75LAYOUTS\46searchRoot\75http://travelorereport.blogspot.com/search\46blogLocale\75en\46v\0752\46homepageUrl\75http://travelorereport.blogspot.com/\46targetPostID\758379395241412689084\46blogPostOrPageUrl\75http://travelorereport.blogspot.com/2016/01/travelore-news-melia-hotels.html\46vt\0753398476890765617667',
+                where: document.getElementById("navbar-iframe-container"),
+                id: "navbar-iframe"
+            });
+          }
+        });
+      </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div class='body-fauxcolumns'>
+<div class='fauxcolumn-outer body-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content'>
+<div class='content-fauxcolumns'>
+<div class='fauxcolumn-outer content-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content-outer'>
+<div class='content-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left content-fauxborder-left'>
+<div class='fauxborder-right content-fauxborder-right'></div>
+<div class='content-inner'>
+<header>
+<div class='header-outer'>
+<div class='header-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left header-fauxborder-left'>
+<div class='fauxborder-right header-fauxborder-right'></div>
+<div class='region-inner header-inner'>
+<div class='header section' id='header' name='Header'><div class='widget Header' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<h1 class='title'>
+<a href='http://travelorereport.blogspot.com/'>Travelore Report, Monthly In Print Since 1971</a>
+</h1>
+</div>
+<div class='descriptionwrapper'>
+<p class='description'><span>
+</span></p>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='header-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</header>
+<div class='tabs-outer'>
+<div class='tabs-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left tabs-fauxborder-left'>
+<div class='fauxborder-right tabs-fauxborder-right'></div>
+<div class='region-inner tabs-inner'>
+<div class='tabs section' id='crosscol' name='Cross-Column'></div>
+<div class='tabs section' id='crosscol-overflow' name='Cross-Column 2'></div>
+</div>
+</div>
+<div class='tabs-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='main-outer'>
+<div class='main-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left main-fauxborder-left'>
+<div class='fauxborder-right main-fauxborder-right'></div>
+<div class='region-inner main-inner'>
+<div class='columns fauxcolumns'>
+<div class='fauxcolumn-outer fauxcolumn-center-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-left-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-right-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<!-- corrects IE6 width calculation -->
+<div class='columns-inner'>
+<div class='column-center-outer'>
+<div class='column-center-inner'>
+<div class='main section' id='main' name='Main'><div class='widget Blog' id='Blog1'>
+<div class='blog-posts hfeed'>
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Monday, January 4, 2016</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://www.melia.com/en/hotels/jamaica/trelawny/melia-braco-village/img/logojamaica.jpg' itemprop='image_url'/>
+<meta content='4717564006622477703' itemprop='blogId'/>
+<meta content='8379395241412689084' itemprop='postId'/>
+<a name='8379395241412689084'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+Travelore News: Meliá Hotels International Introduces Its First Property In Jamaica, The All-Inclusive Meliá Braco Village in Rio Bueno
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-8379395241412689084' itemprop='description articleBody'>
+<div align="center" class="yiv2742611794MsoNormal" id="yui_3_16_0_1_1451922763615_48704" style="background-color: white; font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; margin-bottom: 0.0001pt; padding: 0px; text-align: center;">
+<img alt="Logo del Meliá Atlanta" src="http://www.melia.com/en/hotels/jamaica/trelawny/melia-braco-village/img/logojamaica.jpg" /></div>
+<div align="center" class="yiv2742611794MsoNormal" id="yui_3_16_0_1_1451922763615_48711" style="background-color: white; font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; margin-bottom: 0.0001pt; padding: 0px; text-align: center;">
+<br /></div>
+<div align="center" class="yiv2742611794MsoNormal" id="yui_3_16_0_1_1451922763615_48692" style="background-color: white; font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; padding: 0px; text-align: center;">
+<i id="yui_3_16_0_1_1451922763615_48691"><span id="yui_3_16_0_1_1451922763615_48690" style="font-size: 12pt; line-height: 18.4px;">Largest Spanish Hotel Company Opens Second Hotel in the English-speaking Caribbean, and Its First in Jamaica</span></i></div>
+<div align="center" class="yiv2742611794MsoNormal" id="yui_3_16_0_1_1451922763615_48692" style="background-color: white; font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; padding: 0px; text-align: center;">
+<i><span style="font-size: 12pt; line-height: 18.4px;"><br /></span></i></div>
+<div align="center" class="yiv2742611794MsoNormal" id="yui_3_16_0_1_1451922763615_48692" style="background-color: white; font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; padding: 0px; text-align: center;">
+<i><span style="font-size: 12pt; line-height: 18.4px;"><br /></span></i></div>
+<div class="yiv2742611794MsoNormal" id="yui_3_16_0_1_1451922763615_48688" style="background-color: white; font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; padding: 0px;">
+&nbsp;<a href="http://www.meliahotelsinternational.com/en" rel="nofollow" style="background: transparent; color: #196ad4; margin: 0px; outline: none; padding: 0px;" target="_blank">Meliá Hotels International</a>, one of the largest hotel companies in the world, announced today the opening of the all-inclusive&nbsp;<a href="http://www.melia.com/en/hotels/jamaica/trelawny/melia-braco-village/index.html" id="yui_3_16_0_1_1451922763615_48689" rel="nofollow" style="background: transparent; color: #196ad4; margin: 0px; outline: none; padding: 0px;" target="_blank">Meliá Braco Village</a>&nbsp;in Rio Bueno, Jamaica as part of its&nbsp;<a href="http://www.melia-hotels.com/en/" rel="nofollow" style="background: transparent; color: #196ad4; margin: 0px; outline: none; padding: 0px;" target="_blank">Meliá Hotels &amp; Resorts</a>&nbsp;brand. This highly anticipated opening is the company&#8217;s second hotel in the English-speaking Caribbean after&nbsp;<a href="http://www.melia.com/en/hotels/bahamas/nassau/melia-nassau-beach/index.html" rel="nofollow" style="background: transparent; color: #196ad4; margin: 0px; outline: none; padding: 0px;" target="_blank">Meliá Nassau Beach</a>&nbsp;in the Bahamas, and it&#8217;s first in Jamaica.</div>
+<div class="yiv2742611794MsoNormal" id="yui_3_16_0_1_1451922763615_48688" style="background-color: white; font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; padding: 0px;">
+<br /></div>
+<div class="yiv2742611794MsoNormal" style="background-color: white; font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; padding: 0px;">
+With a total of 226 spacious guest rooms, including 61 suites, the all-inclusive Meliá Braco Village features a choice of six restaurants, three bars and two exquisite swimming pools. Guests can choose from a variety of garden view and oceanfront rooms equipped with plush bathrobes and slippers, Nespresso coffee machines, minibar, iron, 42 inch Flat Screen TV, high speed Wi-Fi internet and 24 hour room service.</div>
+<div class="yiv2742611794MsoNormal" style="background-color: white; font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; padding: 0px;">
+<br /></div>
+<div class="yiv2742611794MsoNormal" style="background-color: white; font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; padding: 0px;">
+The resort offers an exceptional gourmet experience with six on-site restaurants including&nbsp;<b><i>The Market Place</i></b>, an open-kitchen concept featuring an international buffet;&nbsp;<b><i>876 PRIME</i></b>&nbsp;serving up steaks and chops;&nbsp;<b><i>O&#8217;Grille</i></b>, a beachside Jamaican restaurant that incorporates traditional Caribbean dishes made with authentic, locally sourced ingredients;&nbsp;<b><i>Rasta Pasta</i></b>, an a-la-carte Italian restaurant;&nbsp;<b><i>Nikkei</i></b>, an innovative culinary concept featuring Japanese and Peruvian fusion cuisine served at Teppanyaki style tables; and&nbsp;<b><i>Golden Sand</i></b>, serving as the property&#8217;s beachside restaurant. In addition to dining options, Meliá Braco Village will have three distinct bars, each offering a different atmosphere:&nbsp;<b><i>Jigger</i></b>&nbsp;is the hotel&#8217;s piano bar that is perfect for a quiet, intimate drink;&nbsp;<b><i>The Shaker</i></b>, complete with a curated DJ experience complete with modern tropical cocktails in a vibrant seaside setting; and&nbsp;<b><i>Chill Out Bar</i></b>, which offers traditional jerk style roasted cuisine during the daytime and a relaxing cocktail experience at night.</div>
+<div class="yiv2742611794MsoNormal" style="background-color: white; font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; padding: 0px;">
+<br /></div>
+<div class="yiv2742611794MsoNormal" id="yui_3_16_0_1_1451922763615_48685" style="background-color: white; font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; padding: 0px;">
+For the discerning traveler, Meliá Braco Village offers Meliá Hotels &amp; Resorts&#8217; signature concept,&nbsp;<a href="http://www.melia-hotels.com/en/hotels-resorts/royal-service-the-level-75/" rel="nofollow" style="background: transparent; color: #196ad4; margin: 0px; outline: none; padding: 0px;" target="_blank"><b><i>THE LEVEL</i></b></a>, complete with a VIP Level Lounge featuring private check-in service and light bites in the afternoon; the beachside Golden Sand restaurant serving breakfast, lunch and dinner daily; exclusive designated areas for families, couples and groups; personalized concierge service; top-category rooms; and premium alcohol service. Room choices include breathtaking oceanfront rooms and decadent beachside rooms, each option replete with magnificent views. THE LEVEL lounge boasts floor to ceiling windows with breathtaking ocean views, as well as its own YHI spa treatment suites as part of the lounge, a first for Meliá Hotels and Resorts brand. In addition, guests of THE LEVEL are treated to the ultimate pampering experience with complimentary sunscreen and cooling Aloe Vera lotion at a dedicated pool and daily turndown service. Amenities provided at THE LEVEL offer guests the perfect hotel within a hotel experience.<span style="background: yellow;"></span></div>
+<div class="yiv2742611794MsoNormal" id="yui_3_16_0_1_1451922763615_48685" style="background-color: white; font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; padding: 0px;">
+<br /></div>
+<div class="yiv2742611794MsoNormal" id="yui_3_16_0_1_1451922763615_48684" style="background-color: white; font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; padding: 0px;">
+During the day, all guests have access to two dazzling pools, as well as an array of activities. A variety of restoring spa treatments are offered in the signature&nbsp;<a href="http://www.melia-hotels.com/en/hotels-resorts/yhi-spa-spa-80/" rel="nofollow" style="background: transparent; color: #196ad4; margin: 0px; outline: none; padding: 0px;" target="_blank">YHI Spa</a><span class="yiv2742611794MsoHyperlink">&nbsp;</span><span class="yiv2742611794MsoHyperlink">with 8 massage rooms available</span>, and an onsite fitness center is open 24 hours a day so guests can workout at their leisure. Guests can also engage in a friendly sports match at the resort&#8217;s basketball court or football pitch, perfect for families and groups.</div>
+<div class="yiv2742611794MsoNormal" id="yui_3_16_0_1_1451922763615_48683" style="background-color: white; font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; margin-bottom: 0.0001pt; padding: 0px;">
+Families are catered to with a wide assortment of specialty services including a babysitting service and Meliá Hotels &amp; Resorts&#8217;&nbsp;<a href="http://www.melia-hotels.com/en/hotels-resorts/family-hotels-77/" rel="nofollow" style="background: transparent; color: #196ad4; margin: 0px; outline: none; padding: 0px;" target="_blank">Kids &amp; Co.</a>concept for children ages five to 12. Melia Braco Village&#8217;s youngest guests can partake in a range of interactive games, arts and crafts projects and more.</div>
+<div class="yiv2742611794MsoNormal" id="yui_3_16_0_1_1451922763615_48682" style="background-color: white; font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; margin-bottom: 0.0001pt; padding: 0px;">
+<br /></div>
+<div class="yiv2742611794MsoNormal" id="yui_3_16_0_1_1451922763615_48681" style="background-color: white; font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; padding: 0px;">
+For the business traveler, Meliá Braco Village offers a business center, Wi-Fi in public spaces, and two designated rooms for meetings and events with capacity for up to 100 people. The hotel&#8217;s two intimate meeting venues are perfect for small to medium-size groups, and there is a variety of outdoor and indoor public spaces for all types of events and special occasions.</div>
+<div class="yiv2742611794MsoNormal" id="yui_3_16_0_1_1451922763615_48681" style="background-color: white; font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; padding: 0px;">
+<br /></div>
+<div class="yiv2742611794MsoNormal" id="yui_3_16_0_1_1451922763615_48680" style="background-color: white; font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; padding: 0px;">
+A picturesque destination for weddings and special events, Meliá Braco Village offers a multitude of romance experiences for guests. Two gazebos, one overlooking the ocean and one in the property&#8217;s lush garden area, are the ideal setting for couple to exchange their vows, along with a variety of indoor options as well. For more information about Melia Hotels &amp; Resorts&#8217; romance offerings, visit&nbsp;<a href="http://www.romancebymelia.com/" rel="nofollow" style="background: transparent; color: #196ad4; margin: 0px; outline: none; padding: 0px;" target="_blank">www.romancebymelia.com</a>.</div>
+<div class="yiv2742611794MsoNormal" id="yui_3_16_0_1_1451922763615_48673" style="background-color: white; font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 13px; padding: 0px;">
+Starting rates for Meliá Braco Village are $200/per person per night. For more information please visit&nbsp;<a href="http://www.melia.com/en/hotels/jamaica/trelawny/melia-braco-village/index.html" id="yui_3_16_0_1_1451922763615_48679" rel="nofollow" style="background: transparent; color: #196ad4; margin: 0px; outline: none; padding: 0px;" target="_blank">www.melia.com</a>.&nbsp;&nbsp;</div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/00530514837686913484' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/00530514837686913484' rel='author' title='author profile'>
+<span itemprop='name'>TraveloreReport</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://travelorereport.blogspot.com/2016/01/travelore-news-melia-hotels.html' itemprop='url'/>
+<a class='timestamp-link' href='http://travelorereport.blogspot.com/2016/01/travelore-news-melia-hotels.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2016-01-04T12:51:00-08:00'>12:51 PM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1182900941'>
+<a href='https://www.blogger.com/post-edit.g?blogID=4717564006622477703&postID=8379395241412689084&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='//img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=4717564006622477703&postID=8379395241412689084&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=4717564006622477703&postID=8379395241412689084&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=4717564006622477703&postID=8379395241412689084&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=4717564006622477703&postID=8379395241412689084&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=4717564006622477703&postID=8379395241412689084&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='http://travelorereport.blogspot.com/2016/01/travelore-news-melia-hotels.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Labels:
+<a href='http://travelorereport.blogspot.com/search/label/%23Caribbean' rel='tag'>#Caribbean</a>,
+<a href='http://travelorereport.blogspot.com/search/label/%23Jamaica' rel='tag'>#Jamaica</a>,
+<a href='http://travelorereport.blogspot.com/search/label/%23Melia' rel='tag'>#Melia</a>,
+<a href='http://travelorereport.blogspot.com/search/label/All%20inclusive%20hotels%20in%20Jamaica' rel='tag'>All inclusive hotels in Jamaica</a>,
+<a href='http://travelorereport.blogspot.com/search/label/All%20inclusive%20resorts' rel='tag'>All inclusive resorts</a>,
+<a href='http://travelorereport.blogspot.com/search/label/Caribbean' rel='tag'>Caribbean</a>,
+<a href='http://travelorereport.blogspot.com/search/label/Jamaica' rel='tag'>Jamaica</a>,
+<a href='http://travelorereport.blogspot.com/search/label/Melia' rel='tag'>Melia</a>,
+<a href='http://travelorereport.blogspot.com/search/label/Melia%20Braco%20Village' rel='tag'>Melia Braco Village</a>,
+<a href='http://travelorereport.blogspot.com/search/label/Melia%20Hotels' rel='tag'>Melia Hotels</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+<div class='comments' id='comments'>
+<a name='comments'></a>
+<h4>No comments:</h4>
+<div id='Blog1_comments-block-wrapper'>
+<dl class='avatar-comment-indent' id='comments-block'>
+</dl>
+</div>
+<p class='comment-footer'>
+<div class='comment-form'>
+<a name='comment-form'></a>
+<h4 id='comment-post-message'>Post a Comment</h4>
+<p>
+</p>
+<a href='https://www.blogger.com/comment-iframe.g?blogID=4717564006622477703&postID=8379395241412689084' id='comment-editor-src'></a>
+<iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410px' id='comment-editor' name='comment-editor' src='' width='100%'></iframe>
+<script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/519965303-comment_from_post_iframe.js"></script>
+<script type='text/javascript'>
+      BLOG_CMT_createIframe('https://www.blogger.com/rpc_relay.html');
+    </script>
+</div>
+</p>
+<div id='backlinks-container'>
+<div id='Blog1_backlinks-container'>
+</div>
+</div>
+</div>
+</div>
+<div class='inline-ad'>
+<script type="text/javascript"><!--
+google_ad_client="pub-7423518447762386";
+google_ad_host="pub-1556223355139109";
+google_ad_width=300;
+google_ad_height=250;
+google_ad_format="300x250_as";
+google_ad_type="text_image";
+google_ad_host_channel="0001+S0009+L0007";
+google_color_border="525DCD";
+google_color_bg="525DCD";
+google_color_link="FFFFFF";
+google_color_url="BBBBBB";
+google_color_text="BBBBBB";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+        </div></div>
+      
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-newer-link'>
+<a class='blog-pager-newer-link' href='http://travelorereport.blogspot.com/2016/01/marriott-rewards-members-can-now-earn.html' id='Blog1_blog-pager-newer-link' title='Newer Post'>Newer Post</a>
+</span>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://travelorereport.blogspot.com/2016/01/these-are-best-family-restaurants-in.html' id='Blog1_blog-pager-older-link' title='Older Post'>Older Post</a>
+</span>
+<a class='home-link' href='http://travelorereport.blogspot.com/'>Home</a>
+</div>
+<div class='clear'></div>
+<div class='post-feeds'>
+<div class='feed-links'>
+Subscribe to:
+<a class='feed-link' href='http://travelorereport.blogspot.com/feeds/8379395241412689084/comments/default' target='_blank' type='application/atom+xml'>Post Comments (Atom)</a>
+</div>
+</div>
+<script type="text/javascript">window.___gcfg = {'lang': 'en'};</script>
+</div></div>
+</div>
+</div>
+<div class='column-left-outer'>
+<div class='column-left-inner'>
+<aside>
+</aside>
+</div>
+</div>
+<div class='column-right-outer'>
+<div class='column-right-inner'>
+<aside>
+<div class='sidebar section' id='sidebar-right-1'><div class='widget AdSense' id='AdSense2'>
+<div class='widget-content'>
+<script type="text/javascript"><!--
+google_ad_client="pub-7423518447762386";
+google_ad_host="pub-1556223355139109";
+google_alternate_ad_url="http://img2.blogblog.com/img/blogger_ad.html";
+google_ad_width=250;
+google_ad_height=250;
+google_ad_format="250x250_as";
+google_ad_type="text_image";
+google_ad_host_channel="0001+S0008+L0001";
+google_color_border="525DCD";
+google_color_bg="525DCD";
+google_color_link="FFFFFF";
+google_color_url="E3FF00";
+google_color_text="BBBBBB";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=4717564006622477703&widgetType=AdSense&widgetId=AdSense2&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("AdSense2"));' target='configAdSense2' title='Edit'>
+<img alt='' height='18' src='//img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget AdSense' id='AdSense1'>
+<div class='widget-content'>
+<script type="text/javascript"><!--
+google_ad_client="pub-7423518447762386";
+google_ad_host="pub-1556223355139109";
+google_alternate_ad_url="http://img2.blogblog.com/img/blogger_ad.html";
+google_ad_width=250;
+google_ad_height=250;
+google_ad_format="250x250_as";
+google_ad_type="text_image";
+google_ad_host_channel="0001+S0008+L0001";
+google_color_border="525DCD";
+google_color_bg="525DCD";
+google_color_link="FFFFFF";
+google_color_url="E3FF00";
+google_color_text="BBBBBB";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=4717564006622477703&widgetType=AdSense&widgetId=AdSense1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("AdSense1"));' target='configAdSense1' title='Edit'>
+<img alt='' height='18' src='//img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Followers' id='Followers1'>
+<h2 class='title'>Followers</h2>
+<div class='widget-content'>
+<div id='Followers1-wrapper'>
+<div style='margin-right:2px;'>
+<script type="text/javascript">
+        if (!window.google || !google.friendconnect) {
+          document.write('<script type="text/javascript"' +
+              'src="//www.google.com/friendconnect/script/friendconnect.js">' +
+              '</scr' + 'ipt>');
+        }
+      </script>
+<script type="text/javascript">
+      if (!window.registeredBloggerCallbacks) {
+        window.registeredBloggerCallbacks = true;
+
+        
+
+        
+        gadgets.rpc.register('requestReload', function() {
+          document.location.reload();
+        });
+
+        
+        gadgets.rpc.register('requestSignOut', function(siteId) {
+          
+          google.friendconnect.container.openSocialSiteId = siteId;
+          google.friendconnect.requestSignOut();
+        });
+      }
+    </script>
+<script type="text/javascript">
+    
+    function registerGetBlogUrls() {
+      gadgets.rpc.register('getBlogUrls', function() {
+        var holder = {};
+        
+          
+            
+            
+              holder.currentPost = "https://www.blogger.com/feeds/4717564006622477703/posts/default/8379395241412689084";
+            
+            
+            
+              holder.currentComments = "https://www.blogger.com/feeds/4717564006622477703/8379395241412689084/comments/default";
+            
+            holder.currentPostUrl = "";
+            holder.currentPostId = 8379395241412689084
+          
+          
+          
+            holder.postFeed = "https://www.blogger.com/feeds/4717564006622477703/posts/default";
+          
+          
+          
+            holder.commentFeed = "https://www.blogger.com/feeds/4717564006622477703/comments/default";
+          
+          holder.currentBlogUrl = "http://travelorereport.blogspot.com/";
+          holder.currentBlogId = "4717564006622477703";
+        
+        return holder;
+      });
+    }
+  </script>
+<script type="text/javascript">
+  if (!window.registeredCommonBloggerCallbacks) {
+    window.registeredCommonBloggerCallbacks = true;
+
+    gadgets.rpc.register('resize_iframe', function(height) {
+      var el = document.getElementById(this['f']);
+      if (el) {
+        el.style.height = height + 'px';
+      }
+    });
+
+    
+    gadgets.rpc.register('set_pref', function() {});
+
+    registerGetBlogUrls();
+  }
+  </script>
+<div id="div-3q0red837uz1" style="width: 100%; "></div>
+<script type="text/javascript">
+    var skin = {};
+    skin['FACE_SIZE'] = '32';
+    skin['HEIGHT'] = "260";
+    skin['BORDER_COLOR'] = "transparent";
+    skin['ENDCAP_BG_COLOR'] = "transparent";
+    skin['ENDCAP_TEXT_COLOR'] = "#bbbbbb";
+    skin['ENDCAP_LINK_COLOR'] = "#e3ff00";
+    
+    skin['CONTENT_BG_COLOR'] = "transparent";
+    skin['CONTENT_LINK_COLOR'] = "#e3ff00";
+    skin['CONTENT_TEXT_COLOR'] = "#bbbbbb";
+    skin['CONTENT_SECONDARY_LINK_COLOR'] = "#e3ff00";
+    skin['CONTENT_SECONDARY_TEXT_COLOR'] = "#ffffff";
+    skin['CONTENT_HEADLINE_COLOR'] = "#ffffff";
+    google.friendconnect.container.setParentUrl("/");
+    google.friendconnect.container["renderMembersGadget"](
+    {id: "div-3q0red837uz1",
+     height: 260,
+     
+     
+     
+     site: "05657274939002570444",
+     locale: 'en' },
+     skin);
+  </script>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=4717564006622477703&widgetType=Followers&widgetId=Followers1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Followers1"));' target='configFollowers1' title='Edit'>
+<img alt='' height='18' src='//img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget BlogArchive' id='BlogArchive1'>
+<h2>Blog Archive</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/search?updated-min=2016-01-01T00:00:00-08:00&amp;updated-max=2017-01-01T00:00:00-08:00&amp;max-results=50'>
+2016
+</a>
+<span class='post-count' dir='ltr'>(157)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2016_02_01_archive.html'>
+February
+</a>
+<span class='post-count' dir='ltr'>(62)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2016_01_01_archive.html'>
+January
+</a>
+<span class='post-count' dir='ltr'>(95)</span>
+<ul class='posts'>
+<li><a href='http://travelorereport.blogspot.com/2016/01/the-most-and-least-loved-safari-tourists.html'>The Most And Least Loved Safari Tourists</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/where-to-go-in-florence-italy.html'>Where To Go In Florence, Italy</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/pope-francis-fiat-used-in-philadelphia.html'>Pope Francis&#39; Fiat Used In Philadelphia Sells For ...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/us-news-world-report-names-its-best.html'>U.S. News &amp; World Report Names Its Best Hotels Hot...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-tips-how-to-find-first-class.html'>Travelore Tips: How To Find First-Class Airfare Fo...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-tips-9-things-to-know-when.html'>Travelore Tips: 9 Things To Know When Visiting Cub...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-tips-8-credit-card-fees-to.html'>Travelore Tips: 8 Credit Card Fees To Watch Out Fo...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/supersonic-aircraft-promises-to-fly.html'>Supersonic Aircraft Promises To Fly From New York ...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/american-unveils-new-amenity-kits-for.html'>American Unveils New Amenity Kits For Premium Flie...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/kimpton-to-open-first-hotel-outside.html'>Kimpton To Open First Hotel outside The Americas I...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/the-all-suites-four-seasons-hotel.html'>The All-suites Four Seasons Hotel Jakarta Is Set T...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-tips-how-to-save-at-berlins.html'>Travelore Tips: How To Save At Berlin&#8217;s Top 10 Att...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-news-united-and-american-to.html'>Travelore News: United And American To Offer Refun...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/luxury-bahia-principe-runaway-bay-don.html'>Luxury Bahia Principe Runaway Bay Don Pablo Collec...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-news-hilton-launches-new.html'>Travelore News: Hilton Launches New Budget Hotel C...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/lincoln-center-stage-new-onboard.html'>Lincoln Center Stage, New Onboard Classical Music ...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/cdc-expands-zika-virus-alert-more.html'>CDC Expands Zika Virus Alert; More Countries Issue...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/10-of-best-ways-to-enjoy-barcelona-on.html'>10 Of The Best Ways To Enjoy Barcelona &#8230; On A Budg...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/qatar-airways-plans-further-us-expansion.html'>Qatar Airways Plans Further US Expansion</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/cruise-and-airline-news-four-new-ships.html'>Cruise And Airline News: Four New Ships From Carni...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/should-you-check-or-ship-your-bags.html'>Should You Check Or Ship Your Bags?</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/carnivals-101-guide-to-some-of-greatest.html'>Carnivals 101: A Guide To Some Of The Greatest Sho...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/10-of-best-boutique-hotel-websites.html'>10 Of The Best Boutique Hotel Websites</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/major-snowstorm-delays-cruise-ships.html'>Major Snowstorm Delays cruise Ship&#39;s Return To Bal...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/7-ways-to-help-yourself-when-your.html'>7 Ways To Help Yourself When Your Flight Is Cancel...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/the-city-of-puerto-vallarta-is-not.html'>The City of Puerto Vallarta is Not Included In the...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/the-latest-travel-news-from-israel.html'>The Latest Travel News From Israel</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-news-bomb-attack-kills-six-in.html'>Travelore News: Bomb Attack Kills Six In Cairo</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-report-monthly-in-print-since_21.html'>Travelore Report, Monthly In Print Since 1971: Can...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-tips-5-ways-to-save-time-and.html'>Travelore Tips: 5 Ways To Save Time And Money At T...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/top-reasons-to-visit-france-in-2016.html'>Top Reasons To Visit France In 2016</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/israels-humanitarian-aid-in-2015.html'>Israel&#39;s Humanitarian Aid In 2015</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/pope-francis-philadelphia-fiat-to-be.html'>Pope Francis&#39; Philadelphia Fiat To Be Auctioned To...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/national-geographic-travellers-cool.html'>National Geographic Traveller&#39;s Cool List Of Desti...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-news-lufthansa-takes.html'>Travelore News: Lufthansa Takes Ownership Of World...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/ultimate-ecuador-plan-your-perfect.html'>Ultimate Ecuador: Plan Your Perfect Adventure</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-report-monthly-in-print-since_91.html'>Travelore Report, Monthly In Print Since 1971: Sex...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-report-monthly-in-print-since_20.html'>Travelore Report, Monthly In Print Since 1971: Tra...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/tripadvisor-names-2016-travelers-choice.html'>TripAdvisor Names 2016 Travelers&#39; Choice Hotel Win...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/india-and-israel-closer-than-ever-as.html'>India And Israel Closer Than Ever As Indian FM Mak...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/the-best-airline-for-wi-fi-is.html'>The Best Airline For Wi-Fi Is...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/escape-to-tioman-where-to-get-wet-and.html'>Escape To Tioman: Where To Get Wet And Wild On Mal...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/what-you-need-to-know-about-zika-virus.html'>What You Need to know About Zika Virus, A Tropical...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/5-ways-to-get-kicked-out-of-frequent.html'>5 Ways To Get Kicked Out Of A Frequent Flier Progr...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/guide-to-understanding-frequent-flyer.html'>Guide to Understanding Frequent Flyer Miles</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/5-steps-to-booking-cheap-flight-online.html'>5 Steps To Booking A Cheap Flight Online</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/how-to-find-best-sauvignon-blanc-from.html'>How To Find The Best Sauvignon Blanc From The Loir...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/9-ultimate-valentines-day-retreats-to.html'>9 Ultimate Valentine&#39;s Day Retreats To Rediscover ...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/3-trends-that-will-define-las-vegas-in.html'>3 Trends That Will Define Las Vegas In 2016</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/cruises-2016-big-new-ships-submarine.html'>Cruises 2016: Big New Ships, Submarine Trips, &#39;Vol...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-news-pacific-aviation-museum.html'>Travelore News: Pacific Aviation Museum Pearl Harb...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/canada-blooms-canadas-largest-flower.html'>Canada Blooms, Canada&#8217;s Largest Flower And Garden ...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/robb-report-unveils-top-21-luxury.html'>Robb Report Unveils Top 21 Luxury Travel Destinati...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-tips-10-smart-ways-to-save.html'>Travelore Tips: 10 Smart Ways To Save Money On Tra...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/theres-more-to-british-food-than-tea.html'>There&#39;s More To British Food Than Tea And Biscuits...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/nyc-marriott-hotels-announce-winter.html'>NYC Marriott Hotels Announce Winter Flash Sale - U...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/hotel-workers-are-coming-clean-about.html'>Hotel Workers Are Coming Clean About The Industry&#8217;...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/a-former-elizabeth-taylorrichard-burton.html'>A Former Elizabeth Taylor/Richard Burton Home Is N...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/how-to-save-lot-of-money-on-your-next.html'>How To Save A Lot Of Money On Your Next Car Rental...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-cruise-news-azamaras-first.html'>Travelore Cruise News: Azamara&#39;s First World Cruis...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/inside-new-san-francisco-museum-of.html'>Inside The New San Francisco Museum Of Modern Art</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/everything-you-need-to-know-about.html'>Everything You Need To Know About American Airline...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/10-spectacular-rail-ourneys-that-youve.html'>10 Spectacular Rail Journeys &#8230; That You&#8217;ve Probabl...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/hamburgs-elbphilharmonie-to-open.html'>Hamburg&#8217;s Elbphilharmonie To Open January 2017.</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-news-uber-cuts-prices-in-more.html'>Travelore News: Uber Cuts Prices In More Than 100 ...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/the-best-layover-cities-in-world-from.html'>The Best Layover Cities In The World From Travel E...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/bordeaux-label-decoder-how-to-decipher.html'>Bordeaux Label Decoder -How To Decipher The Famous...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/the-10-best-and-worst-us-cities-to-take.html'>The 10 Best (And Worst) U.S. Cities To Take A Stay...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-news-americans-wont-need.html'>Travelore News: Americans, Canadians, Japanese And...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-report-monthly-in-print-since_68.html'>Travelore Report, Monthly In Print Since 1971: Air...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-report-monthly-in-print-since_8.html'>Travelore Report, Monthly In Print Since 1971: 10 ...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/msc-cruises-announces-development-of.html'>MSC Cruises Announces Development Of Unique Privat...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/etihad-2-class-787-9-dreamliner-routes.html'>Etihad 2-Class 787-9 Dreamliner Routes Confirmed</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/march-2016-events-in-annapolis-and-anne.html'>March 2016 Events In Annapolis And Anne Arundel Co...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/when-and-how-to-catch-northern-lights.html'>When And How To Catch The Northern Lights This Yea...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/an-insiders-cultural-guide-to-beirut.html'>An Insider&#39;s Cultural Guide To Beirut: &#39;A Beautifu...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/here-is-latest-news-from-dresden.html'>Here Is The Latest News from Dresden, Germany: New...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-news-frontier-airlines.html'>Travelore News: Frontier Airlines Announces 42 New...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-report-monthly-in-print-since_6.html'>Travelore Report, Monthly In Print Since 1971: Ber...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/here-are-12-best-places-to-retire-in.html'>Here Are The 12 Best Places To Retire In 2016</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/21-free-things-to-do-in-tokyo.html'>21 Free Things To Do In Tokyo</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/the-insiders-guide-to-finding-cheaper.html'>The Insiders&#8217; Guide To Finding A Cheaper Holiday I...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/these-38-airlines-have-lowest-airline.html'>These 38 Airlines Have The Lowest Airline Safety R...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/top-reasons-to-travel-to-mexico-in-2016.html'>Top Reasons To Travel To Mexico In 2016</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/marriott-rewards-members-can-now-earn.html'>Marriott Rewards Members Can Now Earn South Africa...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-news-melia-hotels.html'>Travelore News: Meliá Hotels International Introdu...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/these-are-best-family-restaurants-in.html'>These Are The Best Family Restaurants in London</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/5-healthy-travel-trends-for-new-year.html'>5 Healthy Travel Trends For The New Year</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/small-luxury-hotels-of-world.html'>Small Luxury Hotels Of The World Introducing Five ...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/norwegian-takes-flight-from-us-to.html'>Norwegian Takes Flight From The U.S. To The Caribb...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/five-myths-about-bed-and-breakfasts.html'>Five Myths About Bed And Breakfasts</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/travelore-report-monthly-in-print-since.html'>Travelore Report, Monthly In Print Since 1971: Sun...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/10-ways-air-travel-will-change-in-2016.html'>10 Ways Air Travel Will Change In 2016, Including ...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/conde-nasts-gold-list-for-2016-worlds.html'>Conde Nast&#39;s Gold List For 2016: The World&#39;s Best ...</a></li>
+<li><a href='http://travelorereport.blogspot.com/2016/01/naples-what-to-see-plus-best.html'>Naples: What To See, Plus The Best restaurants, Ba...</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/search?updated-min=2015-01-01T00:00:00-08:00&amp;updated-max=2016-01-01T00:00:00-08:00&amp;max-results=50'>
+2015
+</a>
+<span class='post-count' dir='ltr'>(1291)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2015_12_01_archive.html'>
+December
+</a>
+<span class='post-count' dir='ltr'>(88)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2015_11_01_archive.html'>
+November
+</a>
+<span class='post-count' dir='ltr'>(96)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2015_10_01_archive.html'>
+October
+</a>
+<span class='post-count' dir='ltr'>(112)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2015_09_01_archive.html'>
+September
+</a>
+<span class='post-count' dir='ltr'>(114)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2015_08_01_archive.html'>
+August
+</a>
+<span class='post-count' dir='ltr'>(79)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2015_07_01_archive.html'>
+July
+</a>
+<span class='post-count' dir='ltr'>(127)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2015_06_01_archive.html'>
+June
+</a>
+<span class='post-count' dir='ltr'>(103)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2015_05_01_archive.html'>
+May
+</a>
+<span class='post-count' dir='ltr'>(112)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2015_04_01_archive.html'>
+April
+</a>
+<span class='post-count' dir='ltr'>(128)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2015_03_01_archive.html'>
+March
+</a>
+<span class='post-count' dir='ltr'>(125)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2015_02_01_archive.html'>
+February
+</a>
+<span class='post-count' dir='ltr'>(93)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2015_01_01_archive.html'>
+January
+</a>
+<span class='post-count' dir='ltr'>(114)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/search?updated-min=2014-01-01T00:00:00-08:00&amp;updated-max=2015-01-01T00:00:00-08:00&amp;max-results=50'>
+2014
+</a>
+<span class='post-count' dir='ltr'>(886)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2014_12_01_archive.html'>
+December
+</a>
+<span class='post-count' dir='ltr'>(126)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2014_11_01_archive.html'>
+November
+</a>
+<span class='post-count' dir='ltr'>(85)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2014_10_01_archive.html'>
+October
+</a>
+<span class='post-count' dir='ltr'>(95)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2014_09_01_archive.html'>
+September
+</a>
+<span class='post-count' dir='ltr'>(78)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2014_08_01_archive.html'>
+August
+</a>
+<span class='post-count' dir='ltr'>(51)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2014_07_01_archive.html'>
+July
+</a>
+<span class='post-count' dir='ltr'>(80)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2014_06_01_archive.html'>
+June
+</a>
+<span class='post-count' dir='ltr'>(141)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2014_05_01_archive.html'>
+May
+</a>
+<span class='post-count' dir='ltr'>(111)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2014_04_01_archive.html'>
+April
+</a>
+<span class='post-count' dir='ltr'>(52)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2014_03_01_archive.html'>
+March
+</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2014_02_01_archive.html'>
+February
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2014_01_01_archive.html'>
+January
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/search?updated-min=2013-01-01T00:00:00-08:00&amp;updated-max=2014-01-01T00:00:00-08:00&amp;max-results=50'>
+2013
+</a>
+<span class='post-count' dir='ltr'>(241)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2013_12_01_archive.html'>
+December
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2013_11_01_archive.html'>
+November
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2013_10_01_archive.html'>
+October
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2013_09_01_archive.html'>
+September
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2013_08_01_archive.html'>
+August
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2013_07_01_archive.html'>
+July
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2013_06_01_archive.html'>
+June
+</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2013_05_01_archive.html'>
+May
+</a>
+<span class='post-count' dir='ltr'>(37)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2013_04_01_archive.html'>
+April
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2013_03_01_archive.html'>
+March
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2013_02_01_archive.html'>
+February
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2013_01_01_archive.html'>
+January
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/search?updated-min=2012-01-01T00:00:00-08:00&amp;updated-max=2013-01-01T00:00:00-08:00&amp;max-results=20'>
+2012
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2012_12_01_archive.html'>
+December
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2012_11_01_archive.html'>
+November
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2012_10_01_archive.html'>
+October
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2012_09_01_archive.html'>
+September
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2012_08_01_archive.html'>
+August
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2012_07_01_archive.html'>
+July
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2012_06_01_archive.html'>
+June
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2012_04_01_archive.html'>
+April
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2012_03_01_archive.html'>
+March
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2012_02_01_archive.html'>
+February
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2012_01_01_archive.html'>
+January
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/search?updated-min=2011-01-01T00:00:00-08:00&amp;updated-max=2012-01-01T00:00:00-08:00&amp;max-results=12'>
+2011
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2011_12_01_archive.html'>
+December
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2011_11_01_archive.html'>
+November
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://travelorereport.blogspot.com/2011_09_01_archive.html'>
+September
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=4717564006622477703&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' target='configBlogArchive1' title='Edit'>
+<img alt='' height='18' src='//img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Profile' id='Profile1'>
+<h2>About Me</h2>
+<div class='widget-content'>
+<a href='https://www.blogger.com/profile/00530514837686913484'><img alt='My Photo' class='profile-img' height='80' src='//images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http://2.bp.blogspot.com/-ullKrhHmmZk/U2-b3cj_MjI/AAAAAAAABhg/lGdneYQsXgo/s113/*&container=blogger&gadget=a&rewriteMime=image/*' width='64'/></a>
+<dl class='profile-datablock'>
+<dt class='profile-data'>
+<a class='profile-name-link g-profile' href='https://www.blogger.com/profile/00530514837686913484' rel='author' style='background-image: url(//www.blogger.com/img/logo-16.png);'>
+TraveloreReport
+</a>
+</dt>
+<dd class='profile-textblock'>I (Allen Barkus) am the publisher of the Travelore Report newsletter, published monthly in print since 1971, with an 80,000 monthly paid circulation. This blog has also become one of the leading travel blogs in the industry with over 50,000 views monthly. Our focus is on upscale value-added travel and travel related products and services world wide. Since our lead time to print is typically at least three months, this blog will allow us to keep our worldwide press contacts, paid subscribers @$65/yearly and general public aware of our editorial focus. Only paid subscribers get our detailed Destination Reports. 
+
+The Travelore Report is a publication of the Ted Barkus Company, ranked as one of the leading independent advertising and marketing communications companies in the U.S. by Advertising Age Magazine.
+
+8017 Anderson St.
+Philadelphia, PA., USA. 19118-2936
+abarkus-TReport@att.net</dd>
+</dl>
+<a class='profile-link' href='https://www.blogger.com/profile/00530514837686913484' rel='author'>View my complete profile</a>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=4717564006622477703&widgetType=Profile&widgetId=Profile1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Profile1"));' target='configProfile1' title='Edit'>
+<img alt='' height='18' src='//img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+</aside>
+</div>
+</div>
+</div>
+<div style='clear: both'></div>
+<!-- columns -->
+</div>
+<!-- main -->
+</div>
+</div>
+<div class='main-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<footer>
+<div class='footer-outer'>
+<div class='footer-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left footer-fauxborder-left'>
+<div class='fauxborder-right footer-fauxborder-right'></div>
+<div class='region-inner footer-inner'>
+<div class='foot section' id='footer-1'></div>
+<table border='0' cellpadding='0' cellspacing='0' class='section-columns columns-2'>
+<tbody>
+<tr>
+<td class='first columns-cell'>
+<div class='foot section' id='footer-2-1'></div>
+</td>
+<td class='columns-cell'>
+<div class='foot section' id='footer-2-2'></div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- outside of the include in order to lock Attribution widget -->
+<div class='foot section' id='footer-3' name='Footer'><div class='widget Attribution' id='Attribution1'>
+<div class='widget-content' style='text-align: center;'>
+Travel template. Template images by <a href='http://www.istockphoto.com/googleimages.php?id=1360043&platform=blogger&langregion=en' target='_blank'>Leontura</a>. Powered by <a href='https://www.blogger.com' target='_blank'>Blogger</a>.
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=4717564006622477703&widgetType=Attribution&widgetId=Attribution1&action=editWidget&sectionId=footer-3' onclick='return _WidgetManager._PopupConfig(document.getElementById("Attribution1"));' target='configAttribution1' title='Edit'>
+<img alt='' height='18' src='//img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+</div>
+<div class='footer-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</footer>
+<!-- content -->
+</div>
+</div>
+<div class='content-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<script type='text/javascript'>
+    window.setTimeout(function() {
+        document.body.className = document.body.className.replace('loading', '');
+      }, 10);
+  </script>
+<script type="text/javascript" src="//www.google.com/js/bg/-Wxc5n6ag8mSVPmrosQZJ6hEHpQooK3Qr1Gxv0lUkvE.js"></script><script type="text/javascript" src="/b/csi.js?h=-Wxc5n6ag8mSVPmrosQZJ6hEHpQooK3Qr1Gxv0lUkvE"></script>
+<script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
+</script><script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2244687694-widgets.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type='text/javascript'>
+if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV2";window['blogger_blog_id'] = '4717564006622477703';BLOG_attachCsiOnload('item_'); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d4717564006622477703','//travelorereport.blogspot.com/2016/01/travelore-news-melia-hotels.html','4717564006622477703');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '4717564006622477703', 'bloggerUrl': 'https://www.blogger.com', 'title': 'Travelore Report, Monthly In Print Since 1971', 'pageType': 'item', 'postId': '8379395241412689084', 'url': 'http://travelorereport.blogspot.com/2016/01/travelore-news-melia-hotels.html', 'canonicalUrl': 'http://travelorereport.blogspot.com/2016/01/travelore-news-melia-hotels.html', 'homepageUrl': 'http://travelorereport.blogspot.com/', 'canonicalHomepageUrl': 'http://travelorereport.blogspot.com/', 'blogspotFaviconUrl': 'http://travelorereport.blogspot.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'analyticsAccountNumber': '', 'useUniversalAnalytics': false, 'pageName': 'Travelore News: Meliá Hotels International Introduces Its First Property In Jamaica, The All-Inclusive Meliá Braco Village in Rio Bueno', 'pageTitle': 'Travelore Report, Monthly In Print Since 1971: Travelore News: Meliá Hotels International Introduces Its First Property In Jamaica, The All-Inclusive Meliá Braco Village in Rio Bueno', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Travelore Report, Monthly In Print Since 1971 - Atom\42 href\75\42http://travelorereport.blogspot.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42Travelore Report, Monthly In Print Since 1971 - RSS\42 href\75\42http://travelorereport.blogspot.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42Travelore Report, Monthly In Print Since 1971 - Atom\42 href\75\42https://www.blogger.com/feeds/4717564006622477703/posts/default\42 /\76\n\n\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Travelore Report, Monthly In Print Since 1971 - Atom\42 href\75\42http://travelorereport.blogspot.com/feeds/8379395241412689084/comments/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'postImageUrl': 'http://www.melia.com/en/hotels/jamaica/trelawny/melia-braco-village/img/logojamaica.jpg', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { (function(){function c(a){this.t\75{};this.tick\75function(a,c,b){var d\75void 0!\75b?b:(new Date).getTime();this.t[a]\75[d,c];if(void 0\75\75b)try{window.console.timeStamp(\42CSI/\42+a)}catch(e){}};this.tick(\42start\42,null,a)}var a;window.performance\46\46(a\75window.performance.timing);var h\75a?new c(a.responseStart):new c;window.jstiming\75{Timer:c,load:h};if(a){var b\75a.navigationStart,e\75a.responseStart;0\74b\46\46e\76\75b\46\46(window.jstiming.srt\75e-b)}if(a){var d\75window.jstiming.load;0\74b\46\46e\76\75b\46\46(d.tick(\42_wtsrt\42,void 0,b),d.tick(\42wtsrt_\42,\n\42_wtsrt\42,e),d.tick(\42tbsd_\42,\42wtsrt_\42))}try{a\75null,window.chrome\46\46window.chrome.csi\46\46(a\75Math.floor(window.chrome.csi().pageT),d\46\0460\74b\46\46(d.tick(\42_tbnd\42,void 0,window.chrome.csi().startE),d.tick(\42tbnd_\42,\42_tbnd\42,b))),null\75\75a\46\46window.gtbExternal\46\46(a\75window.gtbExternal.pageT()),null\75\75a\46\46window.external\46\46(a\75window.external.pageT,d\46\0460\74b\46\46(d.tick(\42_tbnd\42,void 0,window.external.startE),d.tick(\42tbnd_\42,\42_tbnd\42,b))),a\46\46(window.jstiming.pt\75a)}catch(k){}})();window.tickAboveFold\75function(c){var a\0750;if(c.offsetParent){do a+\75c.offsetTop;while(c\75c.offsetParent)}c\75a;750\76\75c\46\46window.jstiming.load.tick(\42aft\42)};var f\75!1;function g(){f||(f\75!0,window.jstiming.load.tick(\42firstScrollTime\42))}window.addEventListener?window.addEventListener(\42scroll\42,g,!1):window.attachEvent(\42onscroll\42,g);\n })();\74/script\076', 'mobileHeadScript': '', 'adsenseClientId': 'pub-7423518447762386', 'ieCssRetrofitLinks': '\74!--[if IE]\76\74script type\75\42text/javascript\42 src\75\42https://www.blogger.com/static/v1/jsbin/3978477444-ieretrofit.js\42\76\74/script\76\n\74![endif]--\076', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/581377545bf84644', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n', 'tf': ''}}, {'name': 'messages', 'data': {'archive': 'Archive', 'blogArchive': 'Blog Archive', 'by': 'By', 'byAuthor': 'By %1', 'byAuthorLink': 'By \74a href\75\42%2\42\76%1\74/a\076', 'deleteBacklink': 'Delete Backlink', 'deleteComment': 'Delete Comment', 'edit': 'Edit', 'emailAddress': 'Email Address', 'getEmailNotifications': 'Get email notifications', 'keepReading': 'Keep reading', 'labels': 'Labels', 'loadMorePosts': 'Load more posts', 'loading': 'Loading...', 'myBlogList': 'My Blog List', 'myFavoriteSites': 'My favorite sites', 'newer': 'Newer', 'newerPosts': 'Newer Posts', 'newest': 'Newest', 'noResultsFound': 'No results found', 'noTitle': 'No title', 'numberOfComments': '{numComments, plural, \0750 {No comments} \0751 {1 comment} other {# comments}}', 'older': 'Older', 'olderPosts': 'Older Posts', 'oldest': 'Oldest', 'onlyTeamMembersCanComment': 'Note: Only a member of this blog may post a comment.', 'popularPosts': 'Popular Posts', 'popularPostsFromThisBlog': 'Popular posts from this blog', 'postAComment': 'Post a Comment', 'postedBy': 'Posted by', 'postedByAuthor': 'Posted by %1', 'postedByAuthorLink': 'Posted by \74a href\75\42%2\42\76%1\74/a\076', 'readMore': 'Read more', 'reportAbuse': 'Report Abuse', 'search': 'Search', 'searchBlog': 'Search blog', 'share': 'Share', 'showAll': 'Show all', 'someOfMyFavoriteSites': 'Some of my favorite sites', 'subscribe': 'Subscribe', 'subscribeToThisBlog': 'Subscribe to this blog', 'theresNothingHere': 'There\47s nothing here!', 'viewAll': 'View all', 'visitProfile': 'Visit profile'}}, {'name': 'skin', 'data': {'vars': {'tabs_text_color': '#ffffff', 'widget_title_text_color_transparent': 'rgba(255, 255, 255, 0)', 'content_imageBorder_top_space': '0', 'widget_link_visited_color': '#b87309', 'comments_background_color': 'transparent', 'body_background_color_transparent': 'rgba(82, 93, 205, 0)', 'description_text_color_transparent': 'rgba(187, 187, 187, 0)', 'tabs_selected_text_color_transparent': 'rgba(255, 255, 255, 0)', 'tabs_background_color_transparent': 'rgba(0, 0, 0, 0)', 'widget_border_bevel_color_transparent': 'rgba(0, 0, 0, 0)', 'widget_alternate_text_color_transparent': 'rgba(255, 255, 255, 0)', 'keycolor_transparent': 'rgba(83, 93, 205, 0)', 'widget_title_font': 'normal bold 14px \47Trebuchet MS\47,Trebuchet,sans-serif', 'post_background_url': 'none', 'description_text_color': '#bbbbbb', 'post_title_font': 'normal bold 20px \47Trebuchet MS\47,Trebuchet,sans-serif', 'content_margin': '20px', 'body_text_color': '#bbbbbb', 'widget_text_color': '#bbbbbb', 'content_padding': '20px', 'body_text_color_transparent': 'rgba(187, 187, 187, 0)', 'tabs_background_color': 'transparent', 'content_background_color': 'transparent', 'tabs_selected_background_gradient': 'url(//www.blogblog.com/1kt/travel/bg_black_50.png)', 'comments_background': 'transparent url(http://blogblog.com/1kt/travel/bg_black_50.png) repeat scroll top center', 'widget_alternate_text_color': '#ffffff', 'link_visited_color': '#a5b809', 'header_text_color_transparent': 'rgba(255, 255, 255, 0)', 'content_background_color_transparent': 'rgba(0, 0, 0, 0)', 'date_text_color_transparent': 'rgba(187, 187, 187, 0)', 'widget_border_bevel_color': 'transparent', 'mobile_button_color': '#ffffff', 'tabs_selected_text_color': '#ffffff', 'date_text_color': '#bbbbbb', 'post_background_color': 'transparent', 'post_title_text_color_transparent': 'rgba(255, 255, 255, 0)', 'link_color': '#e3ff00', 'tabs_text_color_transparent': 'rgba(255, 255, 255, 0)', 'content_imageBorder_top': 'none', 'link_hover_color_transparent': 'rgba(227, 255, 0, 0)', 'tabs_background_gradient': 'url(//www.blogblog.com/1kt/travel/bg_black_50.png)', 'header_font': 'normal normal 60px \47Trebuchet MS\47,Trebuchet,sans-serif', 'startSide': 'left', 'link_visited_color_transparent': 'rgba(165, 184, 9, 0)', 'tabs_font': 'normal bold 16px \47Trebuchet MS\47,Trebuchet,sans-serif', 'widget_title_text_color': '#ffffff', 'tabs_selected_background_color': 'transparent', 'widget_text_color_transparent': 'rgba(187, 187, 187, 0)', 'post_title_text_color': '#ffffff', 'content_posts_padding': '10px', 'mobile_background_overlay': 'transparent none repeat scroll top left', 'endSide': 'right', 'widget_outer_background_color_transparent': 'rgba(0, 0, 0, 0)', 'body_background_color': '#525dcd', 'header_text_color': '#ffffff', 'content_background': 'transparent url(http://blogblog.com/1kt/travel/bg_black_70.png) repeat scroll top left', 'widget_link_visited_color_transparent': 'rgba(184, 115, 9, 0)', 'widget_link_color': '#bbbbbb', 'mobile_button_color_transparent': 'rgba(255, 255, 255, 0)', 'body_font': 'normal normal 13px \47Trebuchet MS\47,Trebuchet,sans-serif', 'footer_background_gradient': 'none', 'link_hover_color': '#e3ff00', 'widget_link_color_transparent': 'rgba(187, 187, 187, 0)', 'keycolor': '#535dcd', 'widget_outer_background_gradient': 'url(//www.blogblog.com/1kt/travel/bg_black_50.png)', 'post_background_color_transparent': 'rgba(0, 0, 0, 0)', 'link_color_transparent': 'rgba(227, 255, 0, 0)', 'widget_font': 'normal normal 13px \47Trebuchet MS\47,Trebuchet,sans-serif', 'date_font': 'normal normal 14px \47Trebuchet MS\47,Trebuchet,sans-serif', 'widget_outer_background_color': 'transparent', 'tabs_selected_background_color_transparent': 'rgba(0, 0, 0, 0)'}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\75timeslide'}}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/3060979228-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/306752634-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AdSenseView', new _WidgetInfo('AdSense2', 'sidebar-right-1', null, document.getElementById('AdSense2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AdSenseView', new _WidgetInfo('AdSense1', 'sidebar-right-1', null, document.getElementById('AdSense1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'sidebar-right-1', null, document.getElementById('Followers1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar-right-1', null, document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading...'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebar-right-1', null, document.getElementById('Profile1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'footer-3', null, document.getElementById('Attribution1'), {'attribution': 'Travel template. Template images by \74a href\75\47http://www.istockphoto.com/googleimages.php?id\0751360043\46platform\75blogger\46langregion\75en\47 target\75\47_blank\47\76Leontura\74/a\76. Powered by \74a href\75\47https://www.blogger.com\47 target\75\47_blank\47\76Blogger\74/a\76.'}, 'displayModeFull'));
+</script>
+</body>
+</html>

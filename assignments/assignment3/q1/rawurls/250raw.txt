@@ -1,0 +1,1667 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# _frequency: http://ogp.me/ns/fb/_frequency#">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta charset="utf-8"/>
+
+        <!--[if lte IE 7]>
+            <script type="text/javascript">
+                /* <![CDATA[ */
+                if (window.top.location.pathname != '/ie6') window.top.location = '/ie6';
+                /* ]]> */
+            </script>
+        <![endif]-->
+
+        <title>Video: Senate Approves Harsher Sanctions on North Korea ~ Frequency</title>
+        <meta name="keywords" content="Senate Approves Harsher Sanctions on North Korea,video,frequency video,Top News Stories channel video,watch video,north korea,nuclear,the bill,free video,free to watch video,free streaming,streaming video,free streaming video,internet Video"/>
+        <meta name="description" content=" The Senate has unanimously approved legislation that aims to derail North Korea s drive for nuclear weapons. Senators voted 96 0 to pass...watch video."/>
+        <link rel="image_src" href="http://image1.frequency.com/uri/w354_h200_ctrim_tt1455149948000/_/item/2/5/0/3/Senate_Approves_Harsher_Sanctions_on_Nor_250347661_thumbnail.jpg" type="image/jpg" />
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+        <meta property="og:title" content="Video: Senate Approves Harsher Sanctions on North Korea"/>
+        <meta property="og:description" content="  The Senate has unanimously approved legislation that aims to derail North Korea s drive for nuclear weapons. Senators voted 96 0 to pass...watch video."/>
+        <meta property="og:image" content="http://image1.frequency.com/uri/w354_h200_ctrim_tt1455149948000/_/item/2/5/0/3/Senate_Approves_Harsher_Sanctions_on_Nor_250347661_thumbnail.jpg"/>
+        <meta property="og:site_name" content="Frequency"/>
+        <meta property="og:type" content="video.other"/>
+        <meta property="og:url" content="http://www.frequency.com/video/senate-approves-harsher-sanctions-on/250347661?cid=4-1816468"/>
+        
+            <meta property="og:video" content="http://embed.5min.com/519489896&amp;autostart=true"/>
+            
+                <meta property="og:video:type" content="application/x-shockwave-flash"/>
+            
+            
+                
+                    <meta property="video:tag" content="north korea"/>
+                
+                    <meta property="video:tag" content="nuclear"/>
+                
+                    <meta property="video:tag" content="the bill"/>
+                
+            
+        
+
+        <meta property="fb:app_id" content="219649940739"/>
+
+        <meta name="y_key" content="0b4dc697b5624264"/>
+        <meta name="y_key" content="487090b5dd349d24"/>
+        <meta name="google-site-verification" content="yLQU_9EM-1Z5S6WD3MHoFU85KORaSZfyeloVlSOn434"/>
+        <meta name="bitly-verification" content="2e7630a2f77e"/>
+
+        
+<meta property="al:ios:url" content="frequency://"/>
+<meta property="al:ios:app_store_id" content="465034728"/>
+<meta property="al:ios:app_name" content="Frequency"/>
+<meta property="al:android:url" content="http://www.frequency.com/video/senate-approves-harsher-sanctions-on/250347661"/>
+<meta property="al:android:app_name" content="Frequency"/>
+<meta property="al:android:package" content="com.frequency.android"/>
+<meta property="al:web:url" content="http://www.frequency.com/video/senate-approves-harsher-sanctions-on/250347661"/>
+
+        <link rel="stylesheet" type="text/css" media="screen" href="/gzip_N1085881292/bundles/new.css" />
+
+
+        <script src="http://www.google.com/jsapi?key=AIzaSyAaYVe72kt90o42xzBD3H_DN_Fg10wGVbI" type="text/javascript"></script>
+        <script type="text/javascript">
+            //<![CDATA[
+            google.load("jquery", "1.7");
+            google.load("jqueryui", "1.8.16");
+            //]]>
+        </script>
+        
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-10702657-1', 'auto');
+ga('require', 'linkid', 'linkid.js');
+ga('send', 'pageview');
+
+
+
+</script>
+<!-- End Google Analytics -->
+
+        <!-- start twitter -->
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<!-- end twitter -->
+        
+        <script type="text/javascript" src="/gzip_N624167957/bundles/top.js" ></script>
+
+    </head>
+    <body>
+        <div id="fb-root"></div>
+<script>
+    'use strict';
+
+    (function () {
+
+        var appId = '219649940739',
+            channelFile = '//www.frequency.com/channel.html';
+
+        window.fbAsyncInit = function () {
+            FB.init({
+                appId      : appId, // App ID
+                channelUrl : channelFile, // Channel File
+                status     : true, // check login status
+                cookie     : true, // enable cookies to allow the server to access the session
+                xfbml      : true  // parse XFBML
+            });
+
+            FB.Event.subscribe('auth.authResponseChange', function (response) {
+
+                // store the user's info in Freq.Services.Facebook for global use in our app
+                if (Freq.Services.Facebook) {
+                    Freq.Services.Facebook.loginStatus(response.status);
+                    if (response.authResponse) {
+                        Freq.Services.Facebook.userID(response.authResponse.userID);
+                        Freq.Services.Facebook.accessToken(response.authResponse.accessToken);
+                        Freq.Services.Facebook.expires(response.authResponse.expiresIn);
+                    }
+                }
+
+                // if we have a user object, update the hasFacebook field
+                if (Freq.user) {
+                    Freq.user.hasFacebook = (response.status === 'connected');
+                }
+
+                // Here we specify what we do with the response anytime this event occurs.
+                if (response.status === 'connected') {
+                    // noop
+                } else if (response.status === 'not_authorized') {
+                    // noop
+                } else {
+                    // noop
+                }
+            });
+
+            // This event fires when the like button is clicked.  We log the Frequency activity.
+            FB.Event.subscribe('edge.create', function (url) {
+                try {
+                    var itemId = url.substring(url.lastIndexOf('/') + 1, url.indexOf('?') > 0 ? url.indexOf('?') : url.length),
+                        userId = Freq.user && Freq.user.id ? Freq.user.id : 0;
+                    if (url.match('/video/') && !isNaN(itemId)) {
+                        Freq.Services.Activity.videoSharedViaFacebook(userId, itemId);
+                        // Freq.Services.Favorite.favorite(itemId);
+                    }
+                } catch (ex) {
+
+                }
+            });
+
+            // This event fires when the like button is clicked.  We track the social event with Google Analytics.
+            FB.Event.subscribe('edge.create', function (targetUrl) {
+                Freq.GA.trackSocial('facebook', 'like', targetUrl);
+            });
+
+            // This event fires when the like button is clicked.  We track the social event with Google Analytics.
+            FB.Event.subscribe('edge.remove', function (targetUrl) {
+                Freq.GA.trackSocial('facebook', 'unlike', targetUrl);
+            });
+
+            // This event fires when a comment is created.  We track the social event with Google Analytics.
+            FB.Event.subscribe('comment.create', function (response) {
+                var href = response ? response.href : '';
+                Freq.GA.trackSocial('facebook', 'comment', href);
+            });
+
+            // This event fires when the share dialog is submitted.  We track the social event with Google Analytics.
+            FB.Event.subscribe('message.send', function (targetUrl) {
+                Freq.GA.trackSocial('facebook', 'send', targetUrl);
+            });
+
+            // Finally, we notify the rest of our app that Facebook has finished initializing.
+            if (window.Freq && window.Freq.Events) Freq.Events.publish('fbAsyncInit');
+        };
+
+        // Load the SDK asynchronously
+        (function (d) {
+            var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+            if (d.getElementById(id)) {return;}
+            js = d.createElement('script'); js.id = id; js.async = true;
+            js.src = "//connect.facebook.net/en_US/all.js";
+            ref.parentNode.insertBefore(js, ref);
+        }(document));
+    }());
+</script>
+        <div class="topWrapper">
+            
+<header>
+    <div class="wrap clearfix">
+        <a class="logo" href="/"><img src="http://image1.frequency.com/images/newheaderlogo.png" alt="Frequency"/></a>
+        <div class="userInfoAbout">
+            <div class="signinWrapper">
+                <a class="login" href="/signup/signin">Sign In</a>
+                <a class="signup newBlueButton" href="/signup/index" onclick="return Freq.GA.recordOutboundLink(this, 'Sign Up', 'SignUp CTA');">Sign Up</a>
+            </div>
+            <div class="userWrapper">
+                <span class="divider">&nbsp;</span>
+                <a class="myProfileLink" href="/myfrequency/profile"><span class="username"></span><img alt="userAvatar" class="noImageSkip"/></a>
+            </div>
+            <a class="about" href="/about/company.html">About</a>
+            <fb:like href="https://www.facebook.com/frequency" layout="button_count" action="like" show_faces="false" share="false"></fb:like>
+            <a href="https://twitter.com/OnFrequency" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @OnFrequency</a>
+        </div>
+        <div class="guideSearch">
+            <a class="guide newBlueButton" href="/guide/featured/channels" onclick="return Freq.GA.recordOutboundLink(this, 'Navigation', 'Guide');">Guide</a>
+            <form id="searchform" name="searchform" method="get" action="/search/index">
+                <input type="text" id="searchtext" class="searchtext" name="q" placeholder="Channels, Videos and People" />
+                <input type="submit" id="submitSearch" />
+            </form>
+        </div>
+    </div>
+</header>
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tunerWrapper">
+    <div class="tunerCoverLeft">&nbsp;</div>
+    <div class="tunerCoverRight">&nbsp;</div>
+    <div class="itemsHolder">
+        <ul class="tuner">
+        </ul>
+    </div>
+    <div class="beam">
+        <div class="beamWrapper">
+            <div class="newSprite beamLeft">&nbsp;</div>
+            <div class="newSprite beamRight">&nbsp;</div>
+            <div class="newSprite beamRay">&nbsp;</div>
+        </div>
+    </div>
+    <div class="dots tunerBg">
+        <div></div>
+    </div>
+    <style type="text/css">
+        .tuner{
+            width:0px;
+        }
+        @media only screen and (max-width: 960px) {
+            .tuner{
+                padding-left:10px;
+                padding-right:0;
+            }
+            .tunerCoverLeft{
+                display:none;
+            }
+            .tunerCoverRight{
+                display:none;
+            }
+    </style>
+</div>
+<script type="text/javascript">
+var tmpTemplateData = [];
+
+    
+
+
+tmpTemplateData.push({
+    entityId : '3_30241',
+    tunerEntry : 'TOP50', 
+    tunerIcon : 'TOP50',
+    comboId : '50-3_30241',
+    displayLabel : "Staff Picks",
+    largeThumbnailUrl : 'http://image1.frequency.com/uri/w60_h60/_/images/tuner/icons-top50-80px.jpg',
+    channelName : ''
+});
+
+    
+
+    
+
+
+tmpTemplateData.push({
+    entityId : '8_30241',
+    tunerEntry : 'ADD_FACEBOOK', 
+    tunerIcon : 'ADD_FACEBOOK',
+    comboId : '50-8_30241',
+    displayLabel : "Facebook",
+    largeThumbnailUrl : 'http://image1.frequency.com/uri/w60_h60/_/images/tuner/icons-fb-blue-80px.jpg',
+    channelName : ''
+});
+
+    
+
+    
+
+
+tmpTemplateData.push({
+    entityId : '9_30241',
+    tunerEntry : 'ADD_TWITTER', 
+    tunerIcon : 'ADD_TWITTER',
+    comboId : '50-9_30241',
+    displayLabel : "Twitter",
+    largeThumbnailUrl : 'http://image1.frequency.com/uri/w60_h60/_/images/tuner/icons-tw-black-80px.jpg',
+    channelName : ''
+});
+
+    
+
+    
+
+
+tmpTemplateData.push({
+    entityId : '895',
+    tunerEntry : 'CHANNEL', 
+    tunerIcon : 'CHANNEL',
+    comboId : '4-895',
+    displayLabel : "CNN",
+    largeThumbnailUrl : 'http://image1.frequency.com/uri/w60_h60/_/user/0/8/9/5/1421342837000_cnn_895_avatar.jpg',
+    channelName : 'cnn'
+});
+
+    
+
+    
+
+
+tmpTemplateData.push({
+    entityId : '2132714',
+    tunerEntry : 'CHANNEL', 
+    tunerIcon : 'CHANNEL',
+    comboId : '4-2132714',
+    displayLabel : "Popular on YouTube",
+    largeThumbnailUrl : 'http://image1.frequency.com/uri/w60_h60/_/user/2/1/3/2/1396397922000_popularonyoutube_2132714_avatar.jpg',
+    channelName : 'popularonyoutube'
+});
+
+    
+
+    
+
+
+tmpTemplateData.push({
+    entityId : '4394640',
+    tunerEntry : 'CHANNEL', 
+    tunerIcon : 'CHANNEL',
+    comboId : '4-4394640',
+    displayLabel : "Ruptly English",
+    largeThumbnailUrl : 'http://image1.frequency.com/uri/w60_h60/_/user/4/3/9/4/1427830719000_ruptlyenglish_4394640_avatar.jpg',
+    channelName : 'ruptlyenglish'
+});
+
+    
+
+    
+
+
+tmpTemplateData.push({
+    entityId : '4905',
+    tunerEntry : 'CHANNEL', 
+    tunerIcon : 'CHANNEL',
+    comboId : '4-4905',
+    displayLabel : "Machinima",
+    largeThumbnailUrl : 'http://image1.frequency.com/uri/w60_h60/_/user/4/9/0/5/1425508258000_machinima_4905_avatar.jpg',
+    channelName : 'machinima'
+});
+
+    
+
+</script>
+        </div>
+        
+
+    
+        <div id="infobar">
+            <div class="clearfix">
+                <div class="twillioWrapper">
+                    <div class="buttonHolder">
+                        <input class="phoneNumber" type="tel" placeholder="phone number" />
+                        <a href="#" class="download">
+                            <span class="bgWrapper"><span class="getTheApp">&nbsp;</span><span class="sendCode">&nbsp;</span></span>
+                        </a>
+                    </div>
+                    <p class="smsSend">Message sent! Check your Phone</p>
+                </div>
+                <a href="http://ad.apps.fm/TdXhESy27BQysgyrhSJfofE7og6fuV2oOMeOQdRqrE22cYBRbz02Rk3o-0XovtPe6Z11o0DW15F9g7hdJVHLIf1YIIbTzEBk92wjtuAw-cQ" target="_blank" class="app-store" onclick="return Freq.GA.recordOutboundLink(this, 'Download', 'AppDownload-iPad/iPhone VD');">
+                    <img src="http://image1.frequency.com/images/infobarAppStore.png?23" />
+                </a>
+                <a class="closeButton" href="#">
+                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABKNJREFUeNqkVmtMHFUU/uaxCyzLAsOyhaW8oQEV6ZJYSqVNC01bxR9GDA0V0yqx1cTGaOOPxibGRCKpCU2j/ik0+gMlbYqPPmKiQTRWCKaVGpS2rsiyixSBrpTXPmfGc7e8lh2w1pN8mbv37L3f3HO+c+5wqqqC2VXHX7g9PQeB57HSeI4zcByKOHAp9FMPDn4OGOU4ro/Wz3kDMh7NtyI2Wg8tExcGLZ29+P7GMGL0ukUnbVxKBLWEMqjIUqBKbI3A8UGB59wizzsEke/2+ANtb1WX91Q+mLU2yQrLJ7xNGz8tqyovQ110sFEQsggZFjqNRQhwm/SCcLjpyx/PKSqO7SjMsItCeDR4DYJqQhehRtXwc8vALEg7ewJBfmzaU3P0zHddDV90VQdlZU2SOkIbwYx7tAUyVQmNzRd7B9oaz3fX+YJyJAnFuJwepwk63IdxS+HUfXbVfrr5m97yMJIu+0hc7+DYqSidqMf/tHky/aWfB05dGRw1hUgmZ714/6srz096fIWkoohFsqKA1IOALEf42Bzzsf+EE3EYu+MpbOm8dmjOFwB/zTku3RhxHzDodZoE1sQ4HHl8E4ozLLRhcNHHxmyO+aySMYyIvSt74V9dEy8Mu6eMgrdg25OTc75DWkrz0kYv7bRh/9YilOVZ0ecag8s9DaYeW6YFx2srsLUgHQop7NvrTuhEYUnqlBySf1KCIfprQSje9SZV+UPaAeYw4/GgNCcFqZIJW/LT8JPjFiymWDTV7URKQiycrmGc+ORz3OENJB4hLDnsZVLiY+1C+vanTtCUSYuDFAfX7Wn03hxAGRFYkxJCz90P51AYjSGC+mON6J/hYZIs86W6JACWswJr0igLkXUttcRE6dE37sXhlgtw3BpDGp0oTYrD74MOPHu0AXYkIjlzA4VHiVjL+iJBEv9dlCo4apo6Yzw4YSkcbC4+twhGX7QmwfI2xE4yshYFk6gtMxkn9+9GpiUJg0NO/OEYQm5mBpqPPAdbhhken3+VlDIxw837g3L3agQspiVZ6/DuvkqWwFAODrzRiJc/OIORcTfWmWLIV4GS7JSIOlLvXhFMYf18YZr0aaixapEEFeyiJN9VkSuUZKeYBCefhFc/vIg/xybIZ0TlhlT4A8GIOLG7aX1iXBfX2e+UXmvt6CAlbdQsRiq0qjwJ5y9cws2AAeasglAOPF4fipJjUJZqQHvPL5iKW08XjbiosHmd2VtfrCrhN2Ykuwus0kdzFPtICfMYcc/iZEcfhqLTYGYqYpVNqomJjkK/24f3fvgNf+skiKIYJmFKAx5Ik5rTzaYZjsmMNcjXP+7o8QZlzf7FipIlUVUiVcRUFrrC1SUChcaxet314/t2bN6cZ50KtZIt+dZpW7bloC8Q1JYJ07uiLdOFky0vwllfwF9lyznICMLuE1lRL9OjnuX7vts8MUx5/YEnbLn1r+x55PJqN2MroZYw8V8JWIjcs96Jx4qza9/Zu701Wieuece3swgSzrK190igRInC2aZnKrZQZ27XrfiQWK2t2Al7CaXzJysjsO8daX4NKwo3wUHoply2NdRs69lDNaVl/wgwADnq4svPy/YvAAAAAElFTkSuQmCC" />
+                </a>
+            </div>
+        </div>
+    
+
+
+        <div id="alert-error"></div>
+        <div class="contentWrapper">
+            <div class="content">
+                
+    <style type="text/css">
+        @media all and (max-height: 630px) {
+            html #videoInfo #videoComments,
+            html #videoInfo .info {
+                display: none !important;
+            }
+        }
+        @media all and (max-height: 770px) {
+            #videoInfo #videoComments {
+                display: none;
+            }
+            #videoInfo .infoWrap {
+                width: 510px;
+                display: inline-block;
+            }
+            #videoInfo .info {
+                width: 700px;
+            }
+            #videoInfo #from {
+                display: inline-block;
+                vertical-align: top;
+                margin-right: 30px;
+            }
+            #videoInfo #from span {
+                max-width: 105px;
+            }
+            #videoInfo .info .keywords {
+                float: left;
+                max-width: 510px;
+                width: 510px;
+                text-align: left;
+                margin-bottom: 5px;
+            }
+            #videoInfo .info .keywords h4,
+            #videoInfo .info .keywords ul {
+                display: inline-block;
+            }
+            #videoInfo .info .desc p,
+            #videoInfo #postComment {
+                float: left;
+                width: 510px;
+                max-width: 510px;
+            }
+            #videoInfo .info .desc h4 {
+                display: none;
+            }
+        }
+    </style>
+    <div class="feedLayout clearfix">
+        <div class="leftSide left">
+            
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+    
+
+<div id="videoListHeader">
+    <div id="headerBar" data-entityid="4-1816468" data-entityurl="/newsfrequency?cid=4-1816468" >
+        <img id="videoListIcon" src="http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg" alt="Top News Stories" />
+        <div class="titleWrap">
+            <h1 id="videoListTitle">
+                <div id="mainTitle">
+                    
+                    Top News Stories
+                    
+                </div>
+                <div id="subTitle"></div>
+            </h1>
+        </div>
+        <button id="smartMenuButton" class="down">&#9660;</button>
+    </div>
+    
+        <div id="bundleMenu">
+            <div class="followRefresh clearfix">
+                
+                
+                
+                    
+                    
+                
+                <button id="refresh"><span class="newSprite icoRefresh inline-block"></span>19m ago</button>
+                
+                <button id="followEntity" class="follow follow-user  " data-id="1816468"><span>&nbsp;</span>Add</button>
+            </div>
+            
+                <div class="bundlesChannels">
+                    <h6>ADD TO YOUR SMART CHANNEL :</h6>
+                    <ul id="bundleList" class="smartMenuList">
+                        
+                        <li id="newBundle"><span id="newSmartChannel">New Smart Channel</span></li>
+                    </ul>
+                </div>
+            
+        </div>
+    
+</div>
+<ul id="videoList">
+    
+        
+            
+            
+
+            
+
+            
+
+            <li class="video" data-postid="1455778763818_1969_948_1374_ENTITY_4_1816468_XXXX" data-itemid="250347661" data-unknownuserid="" itemscope itemtype="http://schema.org/VideoObject">
+    <a class="vLLink" href="http://www.frequency.com/video/senate-approves-harsher-sanctions-on/250347661?cid=4-1816468" itemprop="url">
+        <div class="vLWrapper">
+            
+            <div class="vLOrgin">
+                <p itemprop="name">Senate Approves Harsher Sanctions on North Korea</p>
+                <div class="vLOrginWrapper">
+                    <img src="http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg" class="usImg">
+                    <div class="vLDateWrap">
+                        <span class="usName">Top News Stories</span><span class="usDate">&nbsp;&nbsp; 1w ago</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+    <img class="vLBlur" src="http://image1.frequency.com/uri/w234_h132_ctrim_tt1455149948000/_/item/2/5/0/3/Senate_Approves_Harsher_Sanctions_on_Nor_250347661_thumbnail.jpg" itemprop="image" />
+    
+</li>
+        
+            
+            
+
+            
+
+            
+
+            <li class="video" data-postid="1455777606434_885_737_433_public" data-itemid="250720088" data-unknownuserid="" itemscope itemtype="http://schema.org/VideoObject">
+    <a class="vLLink" href="http://www.frequency.com/video/debate-to-remove-hs-punishments-on/250720088?cid=4-1816468" itemprop="url">
+        <div class="vLWrapper">
+            
+            <div class="vLOrgin">
+                <p itemprop="name">Debate to Remove HS Punishments on College Apps</p>
+                <div class="vLOrginWrapper">
+                    <img src="http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg" class="usImg">
+                    <div class="vLDateWrap">
+                        <span class="usName">Top News Stories</span><span class="usDate">&nbsp;&nbsp; 19m ago</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+    <img class="vLBlur" src="http://image1.frequency.com/uri/w234_h132_ctrim_tt1455777063000/_/item/2/5/0/7/Debate_to_Remove_HS_Punishments_on_Colle_250720088_thumbnail.jpg" itemprop="image" />
+    
+</li>
+        
+            
+            
+
+            
+
+            
+
+            <li class="video" data-postid="1455777369343_876_1373_1481_public" data-itemid="250720288" data-unknownuserid="" itemscope itemtype="http://schema.org/VideoObject">
+    <a class="vLLink" href="http://www.frequency.com/video/secretary-of-energy-visits-socal-gas/250720288?cid=4-1816468" itemprop="url">
+        <div class="vLWrapper">
+            
+            <div class="vLOrgin">
+                <p itemprop="name">Secretary of Energy visits SoCal Gas facility</p>
+                <div class="vLOrginWrapper">
+                    <img src="http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg" class="usImg">
+                    <div class="vLDateWrap">
+                        <span class="usName">Top News Stories</span><span class="usDate">&nbsp;&nbsp; 23m ago</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+    <img class="vLBlur" src="http://image1.frequency.com/uri/w234_h132_ctrim_tt1455777369000/_/item/2/5/0/7/Secretary_of_Energy_visits_SoCal_Gas_fac_250720288_thumbnail.jpg" itemprop="image" />
+    
+</li>
+        
+            
+            
+
+            
+
+            
+
+            <li class="video" data-postid="1455775151780_1833_320_807_public" data-itemid="250718410" data-unknownuserid="" itemscope itemtype="http://schema.org/VideoObject">
+    <a class="vLLink" href="http://www.frequency.com/video/today-in-history-for-february-18th/250718410?cid=4-1816468" itemprop="url">
+        <div class="vLWrapper">
+            
+            <div class="vLOrgin">
+                <p itemprop="name">Today in History for February 18th</p>
+                <div class="vLOrginWrapper">
+                    <img src="http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg" class="usImg">
+                    <div class="vLDateWrap">
+                        <span class="usName">Top News Stories</span><span class="usDate">&nbsp;&nbsp; 1h ago</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+    <img class="vLBlur" src="http://image1.frequency.com/uri/w234_h132_ctrim_tt1455774613000/_/item/2/5/0/7/Today_in_History_for_February_18th_250718410_thumbnail.jpg" itemprop="image" />
+    
+</li>
+        
+            
+            
+
+            
+
+            
+
+            <li class="video" data-postid="1455774922969_1175_1935_1813_public" data-itemid="250718540" data-unknownuserid="" itemscope itemtype="http://schema.org/VideoObject">
+    <a class="vLLink" href="http://www.frequency.com/video/fact-checking-cruz-carson-rubio-town/250718540?cid=4-1816468" itemprop="url">
+        <div class="vLWrapper">
+            
+            <div class="vLOrgin">
+                <p itemprop="name">Fact checking the Cruz, Carson and Rubio town hall</p>
+                <div class="vLOrginWrapper">
+                    <img src="http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg" class="usImg">
+                    <div class="vLDateWrap">
+                        <span class="usName">Top News Stories</span><span class="usDate">&nbsp;&nbsp; 1h ago</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+    <img class="vLBlur" src="http://image1.frequency.com/uri/w234_h132_ctrim_tt1455774922000/_/item/2/5/0/7/Fact_checking_the_Cruz_Carson_and_Rubio_250718540_thumbnail.jpg" itemprop="image" />
+    
+</li>
+        
+            
+            
+
+            
+
+            
+
+            <li class="video" data-postid="1455774921917_903_1533_472_public" data-itemid="250718541" data-unknownuserid="" itemscope itemtype="http://schema.org/VideoObject">
+    <a class="vLLink" href="http://www.frequency.com/video/do-gop-rivals-agree-with-obama-on-scalia/250718541?cid=4-1816468" itemprop="url">
+        <div class="vLWrapper">
+            
+            <div class="vLOrgin">
+                <p itemprop="name">Do GOP rivals agree with Obama on Scalia replacement?</p>
+                <div class="vLOrginWrapper">
+                    <img src="http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg" class="usImg">
+                    <div class="vLDateWrap">
+                        <span class="usName">Top News Stories</span><span class="usDate">&nbsp;&nbsp; 1h ago</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+    <img class="vLBlur" src="http://image1.frequency.com/uri/w234_h132_ctrim_tt1455774921000/_/item/2/5/0/7/Do_GOP_rivals_agree_with_Obama_on_Scalia_250718541_thumbnail.jpg" itemprop="image" />
+    
+</li>
+        
+            
+            
+
+            
+
+            
+
+            <li class="video" data-postid="1455774918464_689_44_1564_public" data-itemid="250718154" data-unknownuserid="" itemscope itemtype="http://schema.org/VideoObject">
+    <a class="vLLink" href="http://www.frequency.com/video/carson-rubio-cruz-town-hall-in-90/250718154?cid=4-1816468" itemprop="url">
+        <div class="vLWrapper">
+            
+            <div class="vLOrgin">
+                <p itemprop="name">Carson, Rubio, Cruz town hall in 90 seconds</p>
+                <div class="vLOrginWrapper">
+                    <img src="http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg" class="usImg">
+                    <div class="vLDateWrap">
+                        <span class="usName">Top News Stories</span><span class="usDate">&nbsp;&nbsp; 1h ago</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+    <img class="vLBlur" src="http://image1.frequency.com/uri/w234_h132_ctrim_tt1455773676000/_/item/2/5/0/7/Carson_Rubio_Cruz_town_hall_in_90_second_250718154_thumbnail.jpg" itemprop="image" />
+    
+</li>
+        
+            
+            
+
+            
+
+            
+
+            <li class="video" data-postid="1455772705574_897_328_335_public" data-itemid="250717703" data-unknownuserid="" itemscope itemtype="http://schema.org/VideoObject">
+    <a class="vLLink" href="http://www.frequency.com/video/joseph-fiennes-defends-playing-michael/250717703?cid=4-1816468" itemprop="url">
+        <div class="vLWrapper">
+            
+            <div class="vLOrgin">
+                <p itemprop="name">Joseph Fiennes Defends Playing Michael Jackson</p>
+                <div class="vLOrginWrapper">
+                    <img src="http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg" class="usImg">
+                    <div class="vLDateWrap">
+                        <span class="usName">Top News Stories</span><span class="usDate">&nbsp;&nbsp; 1h ago</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+    <img class="vLBlur" src="http://image1.frequency.com/uri/w234_h132_ctrim_tt1455771811000/_/item/2/5/0/7/Joseph_Fiennes_Defends_Playing_Michael_J_250717703_thumbnail.jpg" itemprop="image" />
+    
+</li>
+        
+            
+            
+
+            
+
+            
+
+            <li class="video" data-postid="1455772476503_1109_495_1693_public" data-itemid="250717873" data-unknownuserid="" itemscope itemtype="http://schema.org/VideoObject">
+    <a class="vLLink" href="http://www.frequency.com/video/what-is-kaesong-industrial-complex/250717873?cid=4-1816468" itemprop="url">
+        <div class="vLWrapper">
+            
+            <div class="vLOrgin">
+                <p itemprop="name">What is the Kaesong industrial complex?</p>
+                <div class="vLOrginWrapper">
+                    <img src="http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg" class="usImg">
+                    <div class="vLDateWrap">
+                        <span class="usName">Top News Stories</span><span class="usDate">&nbsp;&nbsp; 1h ago</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+    <img class="vLBlur" src="http://image1.frequency.com/uri/w234_h132_ctrim_tt1455772476000/_/item/2/5/0/7/What_is_the_Kaesong_industrial_complex_250717873_thumbnail.jpg" itemprop="image" />
+    
+</li>
+        
+            
+            
+
+            
+
+            
+
+            <li class="video" data-postid="1455770256939_998_764_1288_public" data-itemid="250716917" data-unknownuserid="" itemscope itemtype="http://schema.org/VideoObject">
+    <a class="vLLink" href="http://www.frequency.com/video/popes-visit-to-juarez-felt-across-border/250716917?cid=4-1816468" itemprop="url">
+        <div class="vLWrapper">
+            
+            <div class="vLOrgin">
+                <p itemprop="name">Pope's Visit to Juarez Felt Across Border in US</p>
+                <div class="vLOrginWrapper">
+                    <img src="http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg" class="usImg">
+                    <div class="vLDateWrap">
+                        <span class="usName">Top News Stories</span><span class="usDate">&nbsp;&nbsp; 2h ago</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+    <img class="vLBlur" src="http://image1.frequency.com/uri/w234_h132_ctrim_tt1455768445000/_/item/2/5/0/7/Pope_s_Visit_to_Juarez_Felt_Across_Borde_250716917_thumbnail.jpg" itemprop="image" />
+    
+</li>
+        
+            
+            
+
+            
+
+            
+
+            <li class="video" data-postid="1455770010218_429_711_1842_public" data-itemid="250717287" data-unknownuserid="" itemscope itemtype="http://schema.org/VideoObject">
+    <a class="vLLink" href="http://www.frequency.com/video/ted-cruz-i-was-born-in-canada-but-i-am/250717287?cid=4-1816468" itemprop="url">
+        <div class="vLWrapper">
+            
+            <div class="vLOrgin">
+                <p itemprop="name">Ted Cruz: I was born in Canada but I am a U.S. citizen</p>
+                <div class="vLOrginWrapper">
+                    <img src="http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg" class="usImg">
+                    <div class="vLDateWrap">
+                        <span class="usName">Top News Stories</span><span class="usDate">&nbsp;&nbsp; 2h ago</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+    <img class="vLBlur" src="http://image1.frequency.com/uri/w234_h132_ctrim_tt1455770010000/_/item/2/5/0/7/Ted_Cruz_I_was_born_in_Canada_but_I_am_a_250717287_thumbnail.jpg" itemprop="image" />
+    
+</li>
+        
+            
+            
+
+            
+
+            
+
+            <li class="video" data-postid="1455770010217_1743_20_1542_public" data-itemid="250717286" data-unknownuserid="" itemscope itemtype="http://schema.org/VideoObject">
+    <a class="vLLink" href="http://www.frequency.com/video/ted-cruz-heres-why-people-think-im/250717286?cid=4-1816468" itemprop="url">
+        <div class="vLWrapper">
+            
+            <div class="vLOrgin">
+                <p itemprop="name">Ted Cruz:: Here's why people think I'm unlikeable</p>
+                <div class="vLOrginWrapper">
+                    <img src="http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg" class="usImg">
+                    <div class="vLDateWrap">
+                        <span class="usName">Top News Stories</span><span class="usDate">&nbsp;&nbsp; 2h ago</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+    <img class="vLBlur" src="http://image1.frequency.com/uri/w234_h132_ctrim_tt1455770010000/_/item/2/5/0/7/Ted_Cruz_Here_s_why_people_think_I_m_unl_250717286_thumbnail.jpg" itemprop="image" />
+    
+</li>
+        
+            
+            
+
+            
+
+            
+
+            <li class="video" data-postid="1455770010193_64_1952_1533_public" data-itemid="250717285" data-unknownuserid="" itemscope itemtype="http://schema.org/VideoObject">
+    <a class="vLLink" href="http://www.frequency.com/video/tumbleweed-invades-australian-town/250717285?cid=4-1816468" itemprop="url">
+        <div class="vLWrapper">
+            
+            <div class="vLOrgin">
+                <p itemprop="name">Tumbleweed invades Australian town</p>
+                <div class="vLOrginWrapper">
+                    <img src="http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg" class="usImg">
+                    <div class="vLDateWrap">
+                        <span class="usName">Top News Stories</span><span class="usDate">&nbsp;&nbsp; 2h ago</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+    <img class="vLBlur" src="http://image1.frequency.com/uri/w234_h132_ctrim_tt1455770010000/_/item/2/5/0/7/Tumbleweed_invades_Australian_town_250717285_thumbnail.jpg" itemprop="image" />
+    
+</li>
+        
+            
+            
+
+            
+
+            
+
+            <li class="video" data-postid="1455770008509_850_1933_430_public" data-itemid="250717172" data-unknownuserid="" itemscope itemtype="http://schema.org/VideoObject">
+    <a class="vLLink" href="http://www.frequency.com/video/cruz-weighs-in-on-when-to-choose-scalias/250717172?cid=4-1816468" itemprop="url">
+        <div class="vLWrapper">
+            
+            <div class="vLOrgin">
+                <p itemprop="name">Cruz weighs in on when to choose Scalia's replacement</p>
+                <div class="vLOrginWrapper">
+                    <img src="http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg" class="usImg">
+                    <div class="vLDateWrap">
+                        <span class="usName">Top News Stories</span><span class="usDate">&nbsp;&nbsp; 2h ago</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+    <img class="vLBlur" src="http://image1.frequency.com/uri/w234_h132_ctrim_tt1455769523000/_/item/2/5/0/7/Cruz_weighs_in_on_when_to_choose_Scalia_250717172_thumbnail.jpg" itemprop="image" />
+    
+</li>
+        
+            
+            
+
+            
+
+            
+
+            <li class="video" data-postid="1455770007550_1844_965_75_public" data-itemid="250717014" data-unknownuserid="" itemscope itemtype="http://schema.org/VideoObject">
+    <a class="vLLink" href="http://www.frequency.com/video/ted-cruz-fires-back-at-trumps-lawsuit/250717014?cid=4-1816468" itemprop="url">
+        <div class="vLWrapper">
+            
+            <div class="vLOrgin">
+                <p itemprop="name">Ted Cruz fires back at Trump's lawsuit threat</p>
+                <div class="vLOrginWrapper">
+                    <img src="http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg" class="usImg">
+                    <div class="vLDateWrap">
+                        <span class="usName">Top News Stories</span><span class="usDate">&nbsp;&nbsp; 2h ago</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+    <img class="vLBlur" src="http://image1.frequency.com/uri/w234_h132_ctrim_tt1455768743000/_/item/2/5/0/7/Ted_Cruz_fires_back_at_Trump_s_lawsuit_t_250717014_thumbnail.jpg" itemprop="image" />
+    
+</li>
+        
+            
+            
+
+            
+
+            
+
+            <li class="video" data-postid="1455770007541_354_1211_1433_public" data-itemid="250716591" data-unknownuserid="" itemscope itemtype="http://schema.org/VideoObject">
+    <a class="vLLink" href="http://www.frequency.com/video/cruz-i-wouldnt-visit-cuba-while-castros/250716591?cid=4-1816468" itemprop="url">
+        <div class="vLWrapper">
+            
+            <div class="vLOrgin">
+                <p itemprop="name">Cruz: I wouldn't visit Cuba while Castros are in power</p>
+                <div class="vLOrginWrapper">
+                    <img src="http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg" class="usImg">
+                    <div class="vLDateWrap">
+                        <span class="usName">Top News Stories</span><span class="usDate">&nbsp;&nbsp; 2h ago</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+    <img class="vLBlur" src="http://image1.frequency.com/uri/w234_h132_ctrim_tt1455768518000/_/item/2/5/0/7/Cruz_I_wouldn_t_visit_Cuba_while_Castros_250716591_thumbnail.jpg" itemprop="image" />
+    
+</li>
+        
+        
+    
+</ul>
+<script type="text/javascript">
+    
+    Freq.autodiscover = 
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+    
+    
+
+
+    
+    
+    
+
+{
+   'id':'1816468',
+   'comboId':'4-1816468',
+   'itemType':'user',
+   'canRemove':false,
+   'canMove':false,
+   'canConnect':false,
+   'canUnfollow':false,
+   'canFollow':true,
+   'title':'Top News Stories',
+   'topicNiceTitle': '',
+   'image':'http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg',
+   'url':'/newsfrequency?cid=4-1816468',
+   'isFollowed':false,
+   'isRegular':false,
+   'vo' : '250347661'
+}
+</script>
+
+        </div>
+        <div class="rightSide left">
+            
+            
+
+
+
+<div id="videoPlayer">
+    
+    <h2 id="videoTitle">Senate Approves Harsher Sanctions on North Korea</h2>
+    <span id="videoDate">1w ago</span>
+    <div id="videoEmbed"></div>
+    <div class="underPlayer">
+        <span class="videoSource">SOURCE&nbsp;&nbsp;<a id="sourceUrl" href="5Min" target="_blank" class="external"></a></span>
+        <div id="player-buttons"></div>
+    </div>
+</div>
+<div id="videoInfo" class="clearfix">
+    <div id="videoComments"></div>
+    <div class="info clearfix">
+        <div id="from">
+            <a href="/newsfrequency?cid=4-1816468">
+                <img src="http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg" />
+                <span id="from-nav-title">Top News Stories</span>
+            </a>
+        </div>
+        <div class="infoWrap">
+            <p id="postComment"></p>
+            <div class="keywords">
+                <h4>Tags</h4>
+                <ul id="videoKeywords">
+                    
+                        <li><a href="/topic/north+korea?cid=5-64">north korea</a></li>
+                    
+                        <li><a href="/topic/nuclear?cid=5-1022">nuclear</a></li>
+                    
+                        <li><a href="/topic/the+bill?cid=5-104865">the bill</a></li>
+                    
+                </ul>
+            </div>
+            <div class="desc clearfix">
+                <h4>Description</h4>
+                <p id="videoDescription">&lt;a href=&quot;http://on.aol.com/video/senate-approves-harsher-sanctions-on-north-korea-519489896&quot;&gt; &lt;/a&gt; The Senate has unanimously approved legislation that aims to derail North Korea&#39;s drive for nuclear weapons. Senators voted 96-0 to pass the bill that would hit Pyongyang with more stringent sanctions. (Feb. 10)</p>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+        Freq.namespace('Freq.Controllers.Watch');
+        Freq.Controllers.Watch.canEmbed = true;
+</script>
+        </div>
+    </div>
+    <script type="text/javascript">
+        Freq.namespace('Freq.Templates.Watch');
+        Freq.Templates.Watch.videoPlayer = '<div id=\"videoPlayer\">        <h2 id=\"videoTitle\">Senate Approves Harsher Sanctions on North Korea<\/h2>    <span id=\"videoDate\">1w ago<\/span>    <div id=\"videoEmbed\"><\/div>    <div class=\"underPlayer\">        <span class=\"videoSource\">SOURCE&nbsp;&nbsp;<a id=\"sourceUrl\" href=\"5Min\" target=\"_blank\" class=\"external\"><\/a><\/span>        <div id=\"player-buttons\"><\/div>    <\/div><\/div><div id=\"videoInfo\" class=\"clearfix\">    <div id=\"videoComments\"><\/div>    <div class=\"info clearfix\">        <div id=\"from\">            <a href=\"\/newsfrequency?cid=4-1816468\">                <img src=\"http:\/\/image1.frequency.com\/uri\/w60_h60\/_\/user\/1\/8\/1\/6\/1450206967000_newsfrequency_1816468_avatar.jpg\" \/>                <span id=\"from-nav-title\">Top News Stories<\/span>            <\/a>        <\/div>        <div class=\"infoWrap\">            <p id=\"postComment\"><\/p>            <div class=\"keywords\">                <h4>Tags<\/h4>                <ul id=\"videoKeywords\">                                            <li><a href=\"\/topic\/north+korea?cid=5-64\">north korea<\/a><\/li>                                            <li><a href=\"\/topic\/nuclear?cid=5-1022\">nuclear<\/a><\/li>                                            <li><a href=\"\/topic\/the+bill?cid=5-104865\">the bill<\/a><\/li>                                    <\/ul>            <\/div>            <div class=\"desc clearfix\">                <h4>Description<\/h4>                <p id=\"videoDescription\">&lt;a href=&quot;http:\/\/on.aol.com\/video\/senate-approves-harsher-sanctions-on-north-korea-519489896&quot;&gt; &lt;\/a&gt; The Senate has unanimously approved legislation that aims to derail North Korea&#39;s drive for nuclear weapons. Senators voted 96-0 to pass the bill that would hit Pyongyang with more stringent sanctions. (Feb. 10)<\/p>            <\/div>        <\/div>    <\/div><\/div><script type=\"text\/javascript\">        Freq.namespace(\'Freq.Controllers.Watch\');        Freq.Controllers.Watch.canEmbed = true;<\/script>';
+    </script>
+    <script type="text/javascript">
+        Freq.namespace('Freq.Controllers.Watch');
+        
+            Freq.Controllers.Watch.items = 
+
+
+[
+
+    
+    
+    
+
+    
+
+    {
+        "itemId": "250347661",
+        "postId": "1455778763818_1969_948_1374_ENTITY_4_1816468_XXXX",
+        "smallerThanPostId": "1455778763818_1969_948_1374_ENTITY_4_1816468_XXXX",
+        "title": "Senate Approves Harsher Sanctions on North Korea",
+        "description": "<a href=\"http:\/\/on.aol.com\/video\/senate-approves-harsher-sanctions-on-north-korea-519489896\"> <\/a> The Senate has unanimously approved legislation that aims to derail North Korea\'s drive for nuclear weapons. Senators voted 96-0 to pass the bill that would hit Pyongyang with more stringent sanctions. (Feb. 10)",
+        "comment": "",
+        "keywords": [{"label":"north korea", "url":"/topic/north+korea?cid=5-64"},{"label":"nuclear", "url":"/topic/nuclear?cid=5-1022"},{"label":"the bill", "url":"/topic/the+bill?cid=5-104865"}],
+        "embed": "<div class=\"player\" style=\"text-align: center;margin-top: 0px;\"><object width=\"485\"  height=\"390\"  id='FiveminPlayer' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000'><param name='allowfullscreen' value='true'/><param name='allowScriptAccess' value='always'/> <param name='movie' value='http://embed.5min.com/519489896&autostart=true'/> <param name='wmode' value='window' /> <embed name='FiveminPlayer' src='http://embed.5min.com/519489896&autostart=true' type='application/x-shockwave-flash' width=\"485\"  height=\"390\"  allowfullscreen='true' allowScriptAccess='always' wmode='window'><\/embed><\/object><\/div>",
+        "source": "5Min",
+        "sourceUrl": "http://www.5min.com/Video/519489896",
+        "itemUrl": "http://www.frequency.com/video/senate-approves-harsher-sanctions-on/250347661?cid=4-1816468",
+        "dateCreated": "1w ago",
+        "fromNavTitle": "Top News Stories",
+        "fromImageUrl": "http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg",
+        "fromUrl": "/newsfrequency?cid=4-1816468",
+        "itemComboId": "1-250347661",
+        "contextComboId": "4-1816468",
+        "imageUrl": "http://image1.frequency.com/uri/w120_h70_ctrim_tt1455149948000/_/item/2/5/0/3/Senate_Approves_Harsher_Sanctions_on_Nor_250347661_thumbnail.jpg",
+        "ownerId": "",
+        "isKeyword" : false,
+        "postParams": {"name":"Senate Approves Harsher Sanctions on North Korea","message":"","link":"http://www.frequency.com/video/senate-approves-harsher-sanctions-on/250347661?cid=4-1816468","picture":"http://image1.frequency.com/uri/w120_h70_ctrim_tt1455149948000/_/item/2/5/0/3/Senate_Approves_Harsher_Sanctions_on_Nor_250347661_thumbnail.jpg","description":"<a href=\"http://on.aol.com/video/senate-approves-harsher-sanctions-on-north-korea-519489896\"> <\/a> The Senate has unanimously approved legislation that aims to derail North Korea's drive for nuclear weapons. Senators voted 96-0 to pass the bill that would hit Pyongyang with more stringent sanctions. (Feb. 10)","actions":[{"name":"Watch on Frequency","link":"http://www.frequency.com/video/senate-approves-harsher-sanctions-on/250347661?cid=4-1816468"}],"properties":{},"source":"http://embed.5min.com/519489896&autostart=true"}
+    }
+    ,
+
+    
+    
+    
+
+    
+
+    {
+        "itemId": "250720088",
+        "postId": "1455777606434_885_737_433_public",
+        "smallerThanPostId": "1455777606434_885_737_433_public",
+        "title": "Debate to Remove HS Punishments on College Apps",
+        "description": "<a href=\"http:\/\/on.aol.com\/video\/debate-to-remove-hs-punishments-on-college-apps-519509287\"> <\/a> Debate to Remove HS Punishments on College Apps",
+        "comment": "Debate to Remove HS Punishments on College Apps",
+        "keywords": [{"label":"apps", "url":"/topic/apps?cid=5-10718"}],
+        "embed": "<div class=\"player\" style=\"text-align: center;margin-top: 0px;\"><object width=\"485\"  height=\"390\"  id='FiveminPlayer' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000'><param name='allowfullscreen' value='true'/><param name='allowScriptAccess' value='always'/> <param name='movie' value='http://embed.5min.com/519509287&autostart=true'/> <param name='wmode' value='window' /> <embed name='FiveminPlayer' src='http://embed.5min.com/519509287&autostart=true' type='application/x-shockwave-flash' width=\"485\"  height=\"390\"  allowfullscreen='true' allowScriptAccess='always' wmode='window'><\/embed><\/object><\/div>",
+        "source": "5Min",
+        "sourceUrl": "http://www.5min.com/Video/519509287",
+        "itemUrl": "http://www.frequency.com/video/debate-to-remove-hs-punishments-on/250720088?cid=4-1816468",
+        "dateCreated": "19m ago",
+        "fromNavTitle": "Top News Stories",
+        "fromImageUrl": "http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg",
+        "fromUrl": "/newsfrequency?cid=4-1816468",
+        "itemComboId": "1-250720088",
+        "contextComboId": "4-1816468",
+        "imageUrl": "http://image1.frequency.com/uri/w120_h70_ctrim_tt1455777063000/_/item/2/5/0/7/Debate_to_Remove_HS_Punishments_on_Colle_250720088_thumbnail.jpg",
+        "ownerId": "4-1816468",
+        "isKeyword" : false,
+        "postParams": {"name":"Debate to Remove HS Punishments on College Apps","message":"4-1816468","link":"http://www.frequency.com/video/debate-to-remove-hs-punishments-on/250720088?cid=4-1816468","picture":"http://image1.frequency.com/uri/w120_h70_ctrim_tt1455777063000/_/item/2/5/0/7/Debate_to_Remove_HS_Punishments_on_Colle_250720088_thumbnail.jpg","description":"Debate to Remove HS Punishments on College Apps","actions":[{"name":"Watch on Frequency","link":"http://www.frequency.com/video/debate-to-remove-hs-punishments-on/250720088?cid=4-1816468"}],"properties":{},"source":"http://embed.5min.com/519509287&autostart=true"}
+    }
+    ,
+
+    
+    
+    
+
+    
+
+    {
+        "itemId": "250720288",
+        "postId": "1455777369343_876_1373_1481_public",
+        "smallerThanPostId": "1455777369343_876_1373_1481_public",
+        "title": "Secretary of Energy visits SoCal Gas facility",
+        "description": "U.S. Secretary of Energy Ernest Moniz visited SoCal Gas\' Aliso Canyon facility days after the company announced it had stopped a gas leak. <a href=\"http:\/\/ktla.com\/2016\/02\/16\/socal-gas-aliso-canyon-facility-gets-visit-from-u-s-secretary-of-energy\/\" target=\"_blank\">KTLA<\/a> has more.",
+        "comment": "http:\/\/www.cnn.com\/video\/#\/video\/us\/2016\/02\/18\/socal-porter-ranch-gas-leak-dnt.ktla",
+        "keywords": [{"label":"ktla", "url":"/topic/ktla?cid=5-35018"},{"label":"ernest moniz", "url":"/topic/ernest+moniz?cid=5-935782"},{"label":"aliso canyon", "url":"/topic/aliso+canyon?cid=5-19548172"}],
+        "embed": "<div class=\"player\" style=\"text-align: center;margin-top: 25px;\"><object width=\"640\"  height=\"340\"  classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" id=\"ep\"><param name=\"allowfullscreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><param name=\"wmode\" value=\"transparent\" /><param name=\"movie\" value=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=us/2016/02/18/socal-porter-ranch-gas-leak-dnt.ktla&autostart=true\" /><param name=\"bgcolor\" value=\"#000000\" /><embed src=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=us/2016/02/18/socal-porter-ranch-gas-leak-dnt.ktla&autostart=true\" type=\"application/x-shockwave-flash\" bgcolor=\"#000000\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"640\"  wmode=\"transparent\" height=\"340\" ><\/embed><\/object><\/div>",
+        "source": "CNN",
+        "sourceUrl": "http://www.cnn.com/video/#/video/us/2016/02/18/socal-porter-ranch-gas-leak-dnt.ktla",
+        "itemUrl": "http://www.frequency.com/video/secretary-of-energy-visits-socal-gas/250720288?cid=4-1816468",
+        "dateCreated": "23m ago",
+        "fromNavTitle": "Top News Stories",
+        "fromImageUrl": "http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg",
+        "fromUrl": "/newsfrequency?cid=4-1816468",
+        "itemComboId": "1-250720288",
+        "contextComboId": "4-1816468",
+        "imageUrl": "http://image1.frequency.com/uri/w120_h70_ctrim_tt1455777369000/_/item/2/5/0/7/Secretary_of_Energy_visits_SoCal_Gas_fac_250720288_thumbnail.jpg",
+        "ownerId": "4-1816468",
+        "isKeyword" : false,
+        "postParams": {"name":"Secretary of Energy visits SoCal Gas facility","message":"4-1816468","link":"http://www.frequency.com/video/secretary-of-energy-visits-socal-gas/250720288?cid=4-1816468","picture":"http://image1.frequency.com/uri/w120_h70_ctrim_tt1455777369000/_/item/2/5/0/7/Secretary_of_Energy_visits_SoCal_Gas_fac_250720288_thumbnail.jpg","description":"http://www.cnn.com/video/#/video/us/2016/02/18/socal-porter-ranch-gas-leak-dnt.ktla","actions":[{"name":"Watch on Frequency","link":"http://www.frequency.com/video/secretary-of-energy-visits-socal-gas/250720288?cid=4-1816468"}],"properties":{},"source":"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=us/2016/02/18/socal-porter-ranch-gas-leak-dnt.ktla&autostart=true"}
+    }
+    ,
+
+    
+    
+    
+
+    
+
+    {
+        "itemId": "250718410",
+        "postId": "1455775151780_1833_320_807_public",
+        "smallerThanPostId": "1455775151780_1833_320_807_public",
+        "title": "Today in History for February 18th",
+        "description": "<a href=\"http:\/\/on.aol.com\/video\/today-in-history-for-february-18th-519509218\"> <\/a> \'The Adventures of Huckleberry Finn\' is first published;  Jefferson Davis is sworn in as President of the Confederate States of America; \'Chicago Seven\' defendants in court; Dale Earnhardt, Senior dies. (Feb. 18)",
+        "comment": "\'The Adventures of Huckleberry Finn\' is first published;  Jefferson Davis is sworn in as President of the Confederate States of America; \'Chicago Seven\' defendants in court; Dale Earnhardt, Senior dies. (Feb. 18)",
+        "keywords": [{"label":"history", "url":"/topic/history?cid=5-2764"},{"label":"dale earnhardt", "url":"/topic/dale+earnhardt?cid=5-13932"},{"label":"jefferson davis", "url":"/topic/jefferson+davis?cid=5-296515"},{"label":"the adventures of huckleberry finn", "url":"/topic/the+adventures+of+huckleberry+finn?cid=5-372043"},{"label":"the confederate states of america", "url":"/topic/the+confederate+states+of+america?cid=5-13512890"}],
+        "embed": "<div class=\"player\" style=\"text-align: center;margin-top: 0px;\"><object width=\"485\"  height=\"390\"  id='FiveminPlayer' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000'><param name='allowfullscreen' value='true'/><param name='allowScriptAccess' value='always'/> <param name='movie' value='http://embed.5min.com/519509218&autostart=true'/> <param name='wmode' value='window' /> <embed name='FiveminPlayer' src='http://embed.5min.com/519509218&autostart=true' type='application/x-shockwave-flash' width=\"485\"  height=\"390\"  allowfullscreen='true' allowScriptAccess='always' wmode='window'><\/embed><\/object><\/div>",
+        "source": "5Min",
+        "sourceUrl": "http://www.5min.com/Video/519509218",
+        "itemUrl": "http://www.frequency.com/video/today-in-history-for-february-18th/250718410?cid=4-1816468",
+        "dateCreated": "1h ago",
+        "fromNavTitle": "Top News Stories",
+        "fromImageUrl": "http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg",
+        "fromUrl": "/newsfrequency?cid=4-1816468",
+        "itemComboId": "1-250718410",
+        "contextComboId": "4-1816468",
+        "imageUrl": "http://image1.frequency.com/uri/w120_h70_ctrim_tt1455774613000/_/item/2/5/0/7/Today_in_History_for_February_18th_250718410_thumbnail.jpg",
+        "ownerId": "4-1816468",
+        "isKeyword" : false,
+        "postParams": {"name":"Today in History for February 18th","message":"4-1816468","link":"http://www.frequency.com/video/today-in-history-for-february-18th/250718410?cid=4-1816468","picture":"http://image1.frequency.com/uri/w120_h70_ctrim_tt1455774613000/_/item/2/5/0/7/Today_in_History_for_February_18th_250718410_thumbnail.jpg","description":"'The Adventures of Huckleberry Finn' is first published;  Jefferson Davis is sworn in as President of the Confederate States of America; 'Chicago Seven' defendants in court; Dale Earnhardt, Senior dies. (Feb. 18)","actions":[{"name":"Watch on Frequency","link":"http://www.frequency.com/video/today-in-history-for-february-18th/250718410?cid=4-1816468"}],"properties":{},"source":"http://embed.5min.com/519509218&autostart=true"}
+    }
+    ,
+
+    
+    
+    
+
+    
+
+    {
+        "itemId": "250718540",
+        "postId": "1455774922969_1175_1935_1813_public",
+        "smallerThanPostId": "1455774922969_1175_1935_1813_public",
+        "title": "Fact checking the Cruz, Carson and Rubio town hall",
+        "description": "Ben Carson, Marco Rubio and Ted Cruz gathered in South Carolina for CNN\'s Republican Town Hall. Not all of the statements made in the town hall were accurate.",
+        "comment": "http:\/\/www.cnn.com\/video\/#\/video\/politics\/2016\/02\/18\/sc-gop-town-hall-part-1-reality-check-foreman.cnn",
+        "keywords": [{"label":"republicans", "url":"/topic/republicans?cid=5-1745"},{"label":"marco rubio", "url":"/topic/marco+rubio?cid=5-17946"},{"label":"the town", "url":"/topic/the+town?cid=5-59823"},{"label":"ben carson", "url":"/topic/ben+carson?cid=5-87276"},{"label":"ted cruz", "url":"/topic/ted+cruz?cid=5-624118"},{"label":"made in", "url":"/topic/made+in?cid=5-635251"},{"label":"fact checking", "url":"/topic/fact+checking?cid=5-2843915"}],
+        "embed": "<div class=\"player\" style=\"text-align: center;margin-top: 25px;\"><object width=\"640\"  height=\"340\"  classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" id=\"ep\"><param name=\"allowfullscreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><param name=\"wmode\" value=\"transparent\" /><param name=\"movie\" value=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/sc-gop-town-hall-part-1-reality-check-foreman.cnn&autostart=true\" /><param name=\"bgcolor\" value=\"#000000\" /><embed src=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/sc-gop-town-hall-part-1-reality-check-foreman.cnn&autostart=true\" type=\"application/x-shockwave-flash\" bgcolor=\"#000000\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"640\"  wmode=\"transparent\" height=\"340\" ><\/embed><\/object><\/div>",
+        "source": "CNN",
+        "sourceUrl": "http://www.cnn.com/video/#/video/politics/2016/02/18/sc-gop-town-hall-part-1-reality-check-foreman.cnn",
+        "itemUrl": "http://www.frequency.com/video/fact-checking-cruz-carson-rubio-town/250718540?cid=4-1816468",
+        "dateCreated": "1h ago",
+        "fromNavTitle": "Top News Stories",
+        "fromImageUrl": "http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg",
+        "fromUrl": "/newsfrequency?cid=4-1816468",
+        "itemComboId": "1-250718540",
+        "contextComboId": "4-1816468",
+        "imageUrl": "http://image1.frequency.com/uri/w120_h70_ctrim_tt1455774922000/_/item/2/5/0/7/Fact_checking_the_Cruz_Carson_and_Rubio_250718540_thumbnail.jpg",
+        "ownerId": "4-1816468",
+        "isKeyword" : false,
+        "postParams": {"name":"Fact checking the Cruz, Carson and Rubio town hall","message":"4-1816468","link":"http://www.frequency.com/video/fact-checking-cruz-carson-rubio-town/250718540?cid=4-1816468","picture":"http://image1.frequency.com/uri/w120_h70_ctrim_tt1455774922000/_/item/2/5/0/7/Fact_checking_the_Cruz_Carson_and_Rubio_250718540_thumbnail.jpg","description":"http://www.cnn.com/video/#/video/politics/2016/02/18/sc-gop-town-hall-part-1-reality-check-foreman.cnn","actions":[{"name":"Watch on Frequency","link":"http://www.frequency.com/video/fact-checking-cruz-carson-rubio-town/250718540?cid=4-1816468"}],"properties":{},"source":"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/sc-gop-town-hall-part-1-reality-check-foreman.cnn&autostart=true"}
+    }
+    ,
+
+    
+    
+    
+
+    
+
+    {
+        "itemId": "250718541",
+        "postId": "1455774921917_903_1533_472_public",
+        "smallerThanPostId": "1455774921917_903_1533_472_public",
+        "title": "Do GOP rivals agree with Obama on Scalia replacement?",
+        "description": "Presidential candidates -- Ted Cruz , Marco Rubio and Ben Carson -- were asked if they were Obama, would they nominate a replacement for Justice Antonin Scalia.",
+        "comment": "http:\/\/www.cnn.com\/video\/#\/video\/politics\/2016\/02\/18\/gop-town-hall-scalia-supreme-court-replacement-jnd-orig-vstop.cnn",
+        "keywords": [{"label":"barack obama", "url":"/topic/barack+obama?cid=5-50"},{"label":"marco rubio", "url":"/topic/marco+rubio?cid=5-17946"},{"label":"antonin scalia", "url":"/topic/antonin+scalia?cid=5-86987"},{"label":"ben carson", "url":"/topic/ben+carson?cid=5-87276"},{"label":"ted cruz", "url":"/topic/ted+cruz?cid=5-624118"}],
+        "embed": "<div class=\"player\" style=\"text-align: center;margin-top: 25px;\"><object width=\"640\"  height=\"340\"  classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" id=\"ep\"><param name=\"allowfullscreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><param name=\"wmode\" value=\"transparent\" /><param name=\"movie\" value=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/gop-town-hall-scalia-supreme-court-replacement-jnd-orig-vstop.cnn&autostart=true\" /><param name=\"bgcolor\" value=\"#000000\" /><embed src=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/gop-town-hall-scalia-supreme-court-replacement-jnd-orig-vstop.cnn&autostart=true\" type=\"application/x-shockwave-flash\" bgcolor=\"#000000\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"640\"  wmode=\"transparent\" height=\"340\" ><\/embed><\/object><\/div>",
+        "source": "CNN",
+        "sourceUrl": "http://www.cnn.com/video/#/video/politics/2016/02/18/gop-town-hall-scalia-supreme-court-replacement-jnd-orig-vstop.cnn",
+        "itemUrl": "http://www.frequency.com/video/do-gop-rivals-agree-with-obama-on-scalia/250718541?cid=4-1816468",
+        "dateCreated": "1h ago",
+        "fromNavTitle": "Top News Stories",
+        "fromImageUrl": "http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg",
+        "fromUrl": "/newsfrequency?cid=4-1816468",
+        "itemComboId": "1-250718541",
+        "contextComboId": "4-1816468",
+        "imageUrl": "http://image1.frequency.com/uri/w120_h70_ctrim_tt1455774921000/_/item/2/5/0/7/Do_GOP_rivals_agree_with_Obama_on_Scalia_250718541_thumbnail.jpg",
+        "ownerId": "4-1816468",
+        "isKeyword" : false,
+        "postParams": {"name":"Do GOP rivals agree with Obama on Scalia replacement?","message":"4-1816468","link":"http://www.frequency.com/video/do-gop-rivals-agree-with-obama-on-scalia/250718541?cid=4-1816468","picture":"http://image1.frequency.com/uri/w120_h70_ctrim_tt1455774921000/_/item/2/5/0/7/Do_GOP_rivals_agree_with_Obama_on_Scalia_250718541_thumbnail.jpg","description":"http://www.cnn.com/video/#/video/politics/2016/02/18/gop-town-hall-scalia-supreme-court-replacement-jnd-orig-vstop.cnn","actions":[{"name":"Watch on Frequency","link":"http://www.frequency.com/video/do-gop-rivals-agree-with-obama-on-scalia/250718541?cid=4-1816468"}],"properties":{},"source":"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/gop-town-hall-scalia-supreme-court-replacement-jnd-orig-vstop.cnn&autostart=true"}
+    }
+    ,
+
+    
+    
+    
+
+    
+
+    {
+        "itemId": "250718154",
+        "postId": "1455774918464_689_44_1564_public",
+        "smallerThanPostId": "1455774918464_689_44_1564_public",
+        "title": "Carson, Rubio, Cruz town hall in 90 seconds",
+        "description": "GOP presidential nominees Dr. Ben Carson, Sen. Marco Rubio and Sen. Ted Cruz make their case for why they should be the next president of the United States.",
+        "comment": "http:\/\/www.cnn.com\/video\/#\/video\/politics\/2016\/02\/18\/south-carolina-gop-town-hall-carson-rubio-cruz-orig-wx-mss.cnn",
+        "keywords": [{"label":"marco rubio", "url":"/topic/marco+rubio?cid=5-17946"},{"label":"ben carson", "url":"/topic/ben+carson?cid=5-87276"},{"label":"ted cruz", "url":"/topic/ted+cruz?cid=5-624118"},{"label":"the united", "url":"/topic/the+united?cid=5-20884986"}],
+        "embed": "<div class=\"player\" style=\"text-align: center;margin-top: 25px;\"><object width=\"640\"  height=\"340\"  classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" id=\"ep\"><param name=\"allowfullscreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><param name=\"wmode\" value=\"transparent\" /><param name=\"movie\" value=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/south-carolina-gop-town-hall-carson-rubio-cruz-orig-wx-mss.cnn&autostart=true\" /><param name=\"bgcolor\" value=\"#000000\" /><embed src=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/south-carolina-gop-town-hall-carson-rubio-cruz-orig-wx-mss.cnn&autostart=true\" type=\"application/x-shockwave-flash\" bgcolor=\"#000000\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"640\"  wmode=\"transparent\" height=\"340\" ><\/embed><\/object><\/div>",
+        "source": "CNN",
+        "sourceUrl": "http://www.cnn.com/video/#/video/politics/2016/02/18/south-carolina-gop-town-hall-carson-rubio-cruz-orig-wx-mss.cnn",
+        "itemUrl": "http://www.frequency.com/video/carson-rubio-cruz-town-hall-in-90/250718154?cid=4-1816468",
+        "dateCreated": "1h ago",
+        "fromNavTitle": "Top News Stories",
+        "fromImageUrl": "http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg",
+        "fromUrl": "/newsfrequency?cid=4-1816468",
+        "itemComboId": "1-250718154",
+        "contextComboId": "4-1816468",
+        "imageUrl": "http://image1.frequency.com/uri/w120_h70_ctrim_tt1455773676000/_/item/2/5/0/7/Carson_Rubio_Cruz_town_hall_in_90_second_250718154_thumbnail.jpg",
+        "ownerId": "4-1816468",
+        "isKeyword" : false,
+        "postParams": {"name":"Carson, Rubio, Cruz town hall in 90 seconds","message":"4-1816468","link":"http://www.frequency.com/video/carson-rubio-cruz-town-hall-in-90/250718154?cid=4-1816468","picture":"http://image1.frequency.com/uri/w120_h70_ctrim_tt1455773676000/_/item/2/5/0/7/Carson_Rubio_Cruz_town_hall_in_90_second_250718154_thumbnail.jpg","description":"http://www.cnn.com/video/#/video/politics/2016/02/18/south-carolina-gop-town-hall-carson-rubio-cruz-orig-wx-mss.cnn","actions":[{"name":"Watch on Frequency","link":"http://www.frequency.com/video/carson-rubio-cruz-town-hall-in-90/250718154?cid=4-1816468"}],"properties":{},"source":"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/south-carolina-gop-town-hall-carson-rubio-cruz-orig-wx-mss.cnn&autostart=true"}
+    }
+    ,
+
+    
+    
+    
+
+    
+
+    {
+        "itemId": "250717703",
+        "postId": "1455772705574_897_328_335_public",
+        "smallerThanPostId": "1455772705574_897_328_335_public",
+        "title": "Joseph Fiennes Defends Playing Michael Jackson",
+        "description": "<a href=\"http:\/\/on.aol.com\/video\/joseph-fiennes-defends-playing-michael-jackson-519509124\"> <\/a> Joseph Fiennes is defending himself in the wake of criticism after being cast as Michael Jackson in an upcoming half-hour TV special, acknowledging the topic is \"sensitive\" but never intending it to be divisive. (February 17)",
+        "comment": "Joseph Fiennes is defending himself in the wake of criticism after being cast as Michael Jackson in an upcoming half-hour TV special, acknowledging the topic is \"sensitive\" but never intending it to be divisive. (February 17)",
+        "keywords": [{"label":"michael jackson", "url":"/topic/michael+jackson?cid=5-15"},{"label":"tv", "url":"/topic/tv?cid=5-618"},{"label":"joseph fiennes", "url":"/topic/joseph+fiennes?cid=5-6193"},{"label":"the wake", "url":"/topic/the+wake?cid=5-122457"}],
+        "embed": "<div class=\"player\" style=\"text-align: center;margin-top: 0px;\"><object width=\"485\"  height=\"390\"  id='FiveminPlayer' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000'><param name='allowfullscreen' value='true'/><param name='allowScriptAccess' value='always'/> <param name='movie' value='http://embed.5min.com/519509124&autostart=true'/> <param name='wmode' value='window' /> <embed name='FiveminPlayer' src='http://embed.5min.com/519509124&autostart=true' type='application/x-shockwave-flash' width=\"485\"  height=\"390\"  allowfullscreen='true' allowScriptAccess='always' wmode='window'><\/embed><\/object><\/div>",
+        "source": "5Min",
+        "sourceUrl": "http://www.5min.com/Video/519509124",
+        "itemUrl": "http://www.frequency.com/video/joseph-fiennes-defends-playing-michael/250717703?cid=4-1816468",
+        "dateCreated": "1h ago",
+        "fromNavTitle": "Top News Stories",
+        "fromImageUrl": "http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg",
+        "fromUrl": "/newsfrequency?cid=4-1816468",
+        "itemComboId": "1-250717703",
+        "contextComboId": "4-1816468",
+        "imageUrl": "http://image1.frequency.com/uri/w120_h70_ctrim_tt1455771811000/_/item/2/5/0/7/Joseph_Fiennes_Defends_Playing_Michael_J_250717703_thumbnail.jpg",
+        "ownerId": "4-1816468",
+        "isKeyword" : false,
+        "postParams": {"name":"Joseph Fiennes Defends Playing Michael Jackson","message":"4-1816468","link":"http://www.frequency.com/video/joseph-fiennes-defends-playing-michael/250717703?cid=4-1816468","picture":"http://image1.frequency.com/uri/w120_h70_ctrim_tt1455771811000/_/item/2/5/0/7/Joseph_Fiennes_Defends_Playing_Michael_J_250717703_thumbnail.jpg","description":"Joseph Fiennes is defending himself in the wake of criticism after being cast as Michael Jackson in an upcoming half-hour TV special, acknowledging the topic is \"sensitive\" but never intending it to be divisive. (February 17)","actions":[{"name":"Watch on Frequency","link":"http://www.frequency.com/video/joseph-fiennes-defends-playing-michael/250717703?cid=4-1816468"}],"properties":{},"source":"http://embed.5min.com/519509124&autostart=true"}
+    }
+    ,
+
+    
+    
+    
+
+    
+
+    {
+        "itemId": "250717873",
+        "postId": "1455772476503_1109_495_1693_public",
+        "smallerThanPostId": "1455772476503_1109_495_1693_public",
+        "title": "What is the Kaesong industrial complex?",
+        "description": "CNN\'s <a href=\"http:\/\/www.cnn.com\/profiles\/paula-hancocks\">Paula Hancocks<\/a> explains why the joint project between North and South Korea is an important bellwether of relations.",
+        "comment": "http:\/\/www.cnn.com\/video\/#\/video\/world\/2016\/02\/18\/korea-kaesong-industrial-complex-hancocks-orig.cnn",
+        "keywords": [{"label":"north korea", "url":"/topic/north+korea?cid=5-64"},{"label":"paula hancocks", "url":"/topic/paula+hancocks?cid=5-5662"},{"label":"kaesong industrial complex", "url":"/topic/kaesong+industrial+complex?cid=5-13701190"}],
+        "embed": "<div class=\"player\" style=\"text-align: center;margin-top: 25px;\"><object width=\"640\"  height=\"340\"  classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" id=\"ep\"><param name=\"allowfullscreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><param name=\"wmode\" value=\"transparent\" /><param name=\"movie\" value=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=world/2016/02/18/korea-kaesong-industrial-complex-hancocks-orig.cnn&autostart=true\" /><param name=\"bgcolor\" value=\"#000000\" /><embed src=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=world/2016/02/18/korea-kaesong-industrial-complex-hancocks-orig.cnn&autostart=true\" type=\"application/x-shockwave-flash\" bgcolor=\"#000000\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"640\"  wmode=\"transparent\" height=\"340\" ><\/embed><\/object><\/div>",
+        "source": "CNN",
+        "sourceUrl": "http://www.cnn.com/video/#/video/world/2016/02/18/korea-kaesong-industrial-complex-hancocks-orig.cnn",
+        "itemUrl": "http://www.frequency.com/video/what-is-kaesong-industrial-complex/250717873?cid=4-1816468",
+        "dateCreated": "1h ago",
+        "fromNavTitle": "Top News Stories",
+        "fromImageUrl": "http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg",
+        "fromUrl": "/newsfrequency?cid=4-1816468",
+        "itemComboId": "1-250717873",
+        "contextComboId": "4-1816468",
+        "imageUrl": "http://image1.frequency.com/uri/w120_h70_ctrim_tt1455772476000/_/item/2/5/0/7/What_is_the_Kaesong_industrial_complex_250717873_thumbnail.jpg",
+        "ownerId": "4-1816468",
+        "isKeyword" : false,
+        "postParams": {"name":"What is the Kaesong industrial complex?","message":"4-1816468","link":"http://www.frequency.com/video/what-is-kaesong-industrial-complex/250717873?cid=4-1816468","picture":"http://image1.frequency.com/uri/w120_h70_ctrim_tt1455772476000/_/item/2/5/0/7/What_is_the_Kaesong_industrial_complex_250717873_thumbnail.jpg","description":"http://www.cnn.com/video/#/video/world/2016/02/18/korea-kaesong-industrial-complex-hancocks-orig.cnn","actions":[{"name":"Watch on Frequency","link":"http://www.frequency.com/video/what-is-kaesong-industrial-complex/250717873?cid=4-1816468"}],"properties":{},"source":"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=world/2016/02/18/korea-kaesong-industrial-complex-hancocks-orig.cnn&autostart=true"}
+    }
+    ,
+
+    
+    
+    
+
+    
+
+    {
+        "itemId": "250716917",
+        "postId": "1455770256939_998_764_1288_public",
+        "smallerThanPostId": "1455770256939_998_764_1288_public",
+        "title": "Pope\'s Visit to Juarez Felt Across Border in US",
+        "description": "<a href=\"http:\/\/on.aol.com\/video\/popes-visit-to-juarez-felt-across-border-in-us-519509016\"> <\/a> While Pope Francis didn\'t step foot in El Paso on Wednesday, his presence was widely felt in the West Texas city. The pontiff even paused during his Mass in Ciudad Juarez, Mexico, to acknowledge the relationship the two border communities have. (Feb. 17)",
+        "comment": "While Pope Francis didn\'t step foot in El Paso on Wednesday, his presence was widely felt in the West Texas city. The pontiff even paused during his Mass in Ciudad Juarez, Mexico, to acknowledge the relationship the two border communities have. (Feb. 17)",
+        "keywords": [{"label":"mexico", "url":"/topic/mexico?cid=5-383"},{"label":"pope", "url":"/topic/pope?cid=5-15212"},{"label":"el paso", "url":"/topic/el+paso?cid=5-17164"},{"label":"texas city", "url":"/topic/texas+city?cid=5-44658"},{"label":"pope francis", "url":"/topic/pope+francis?cid=5-13420048"}],
+        "embed": "<div class=\"player\" style=\"text-align: center;margin-top: 0px;\"><object width=\"485\"  height=\"390\"  id='FiveminPlayer' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000'><param name='allowfullscreen' value='true'/><param name='allowScriptAccess' value='always'/> <param name='movie' value='http://embed.5min.com/519509016&autostart=true'/> <param name='wmode' value='window' /> <embed name='FiveminPlayer' src='http://embed.5min.com/519509016&autostart=true' type='application/x-shockwave-flash' width=\"485\"  height=\"390\"  allowfullscreen='true' allowScriptAccess='always' wmode='window'><\/embed><\/object><\/div>",
+        "source": "5Min",
+        "sourceUrl": "http://www.5min.com/Video/519509016",
+        "itemUrl": "http://www.frequency.com/video/popes-visit-to-juarez-felt-across-border/250716917?cid=4-1816468",
+        "dateCreated": "2h ago",
+        "fromNavTitle": "Top News Stories",
+        "fromImageUrl": "http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg",
+        "fromUrl": "/newsfrequency?cid=4-1816468",
+        "itemComboId": "1-250716917",
+        "contextComboId": "4-1816468",
+        "imageUrl": "http://image1.frequency.com/uri/w120_h70_ctrim_tt1455768445000/_/item/2/5/0/7/Pope_s_Visit_to_Juarez_Felt_Across_Borde_250716917_thumbnail.jpg",
+        "ownerId": "4-1816468",
+        "isKeyword" : false,
+        "postParams": {"name":"Pope's Visit to Juarez Felt Across Border in US","message":"4-1816468","link":"http://www.frequency.com/video/popes-visit-to-juarez-felt-across-border/250716917?cid=4-1816468","picture":"http://image1.frequency.com/uri/w120_h70_ctrim_tt1455768445000/_/item/2/5/0/7/Pope_s_Visit_to_Juarez_Felt_Across_Borde_250716917_thumbnail.jpg","description":"While Pope Francis didn't step foot in El Paso on Wednesday, his presence was widely felt in the West Texas city. The pontiff even paused during his Mass in Ciudad Juarez, Mexico, to acknowledge the relationship the two border communities have. (Feb. 17)","actions":[{"name":"Watch on Frequency","link":"http://www.frequency.com/video/popes-visit-to-juarez-felt-across-border/250716917?cid=4-1816468"}],"properties":{},"source":"http://embed.5min.com/519509016&autostart=true"}
+    }
+    ,
+
+    
+    
+    
+
+    
+
+    {
+        "itemId": "250717287",
+        "postId": "1455770010218_429_711_1842_public",
+        "smallerThanPostId": "1455770010218_429_711_1842_public",
+        "title": "Ted Cruz: I was born in Canada but I am a U.S. citizen",
+        "description": "At CNN\'s GOP town hall, Ted Cruz was asked by a supporter of his to justify his right to run for president.",
+        "comment": "http:\/\/www.cnn.com\/video\/#\/video\/politics\/2016\/02\/18\/sc-gop-town-hall-ted-cruz-birther-question-17.cnn",
+        "keywords": [{"label":"canada", "url":"/topic/canada?cid=5-359"},{"label":"ted cruz", "url":"/topic/ted+cruz?cid=5-624118"}],
+        "embed": "<div class=\"player\" style=\"text-align: center;margin-top: 25px;\"><object width=\"640\"  height=\"340\"  classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" id=\"ep\"><param name=\"allowfullscreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><param name=\"wmode\" value=\"transparent\" /><param name=\"movie\" value=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/sc-gop-town-hall-ted-cruz-birther-question-17.cnn&autostart=true\" /><param name=\"bgcolor\" value=\"#000000\" /><embed src=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/sc-gop-town-hall-ted-cruz-birther-question-17.cnn&autostart=true\" type=\"application/x-shockwave-flash\" bgcolor=\"#000000\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"640\"  wmode=\"transparent\" height=\"340\" ><\/embed><\/object><\/div>",
+        "source": "CNN",
+        "sourceUrl": "http://www.cnn.com/video/#/video/politics/2016/02/18/sc-gop-town-hall-ted-cruz-birther-question-17.cnn",
+        "itemUrl": "http://www.frequency.com/video/ted-cruz-i-was-born-in-canada-but-i-am/250717287?cid=4-1816468",
+        "dateCreated": "2h ago",
+        "fromNavTitle": "Top News Stories",
+        "fromImageUrl": "http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg",
+        "fromUrl": "/newsfrequency?cid=4-1816468",
+        "itemComboId": "1-250717287",
+        "contextComboId": "4-1816468",
+        "imageUrl": "http://image1.frequency.com/uri/w120_h70_ctrim_tt1455770010000/_/item/2/5/0/7/Ted_Cruz_I_was_born_in_Canada_but_I_am_a_250717287_thumbnail.jpg",
+        "ownerId": "4-1816468",
+        "isKeyword" : false,
+        "postParams": {"name":"Ted Cruz: I was born in Canada but I am a U.S. citizen","message":"4-1816468","link":"http://www.frequency.com/video/ted-cruz-i-was-born-in-canada-but-i-am/250717287?cid=4-1816468","picture":"http://image1.frequency.com/uri/w120_h70_ctrim_tt1455770010000/_/item/2/5/0/7/Ted_Cruz_I_was_born_in_Canada_but_I_am_a_250717287_thumbnail.jpg","description":"http://www.cnn.com/video/#/video/politics/2016/02/18/sc-gop-town-hall-ted-cruz-birther-question-17.cnn","actions":[{"name":"Watch on Frequency","link":"http://www.frequency.com/video/ted-cruz-i-was-born-in-canada-but-i-am/250717287?cid=4-1816468"}],"properties":{},"source":"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/sc-gop-town-hall-ted-cruz-birther-question-17.cnn&autostart=true"}
+    }
+    ,
+
+    
+    
+    
+
+    
+
+    {
+        "itemId": "250717286",
+        "postId": "1455770010217_1743_20_1542_public",
+        "smallerThanPostId": "1455770010217_1743_20_1542_public",
+        "title": "Ted Cruz:: Here\'s why people think I\'m unlikeable",
+        "description": "At CNN\'s GOP town hall, Senator Ted Cruz responded to criticism that he has a reputation as being \"unlikeable\" among his colleagues on Capitol Hill.",
+        "comment": "http:\/\/www.cnn.com\/video\/#\/video\/politics\/2016\/02\/18\/sc-gop-town-hall-ted-cruz-unlikable-reputation-19.cnn",
+        "keywords": [{"label":"ted cruz", "url":"/topic/ted+cruz?cid=5-624118"}],
+        "embed": "<div class=\"player\" style=\"text-align: center;margin-top: 25px;\"><object width=\"640\"  height=\"340\"  classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" id=\"ep\"><param name=\"allowfullscreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><param name=\"wmode\" value=\"transparent\" /><param name=\"movie\" value=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/sc-gop-town-hall-ted-cruz-unlikable-reputation-19.cnn&autostart=true\" /><param name=\"bgcolor\" value=\"#000000\" /><embed src=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/sc-gop-town-hall-ted-cruz-unlikable-reputation-19.cnn&autostart=true\" type=\"application/x-shockwave-flash\" bgcolor=\"#000000\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"640\"  wmode=\"transparent\" height=\"340\" ><\/embed><\/object><\/div>",
+        "source": "CNN",
+        "sourceUrl": "http://www.cnn.com/video/#/video/politics/2016/02/18/sc-gop-town-hall-ted-cruz-unlikable-reputation-19.cnn",
+        "itemUrl": "http://www.frequency.com/video/ted-cruz-heres-why-people-think-im/250717286?cid=4-1816468",
+        "dateCreated": "2h ago",
+        "fromNavTitle": "Top News Stories",
+        "fromImageUrl": "http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg",
+        "fromUrl": "/newsfrequency?cid=4-1816468",
+        "itemComboId": "1-250717286",
+        "contextComboId": "4-1816468",
+        "imageUrl": "http://image1.frequency.com/uri/w120_h70_ctrim_tt1455770010000/_/item/2/5/0/7/Ted_Cruz_Here_s_why_people_think_I_m_unl_250717286_thumbnail.jpg",
+        "ownerId": "4-1816468",
+        "isKeyword" : false,
+        "postParams": {"name":"Ted Cruz:: Here's why people think I'm unlikeable","message":"4-1816468","link":"http://www.frequency.com/video/ted-cruz-heres-why-people-think-im/250717286?cid=4-1816468","picture":"http://image1.frequency.com/uri/w120_h70_ctrim_tt1455770010000/_/item/2/5/0/7/Ted_Cruz_Here_s_why_people_think_I_m_unl_250717286_thumbnail.jpg","description":"http://www.cnn.com/video/#/video/politics/2016/02/18/sc-gop-town-hall-ted-cruz-unlikable-reputation-19.cnn","actions":[{"name":"Watch on Frequency","link":"http://www.frequency.com/video/ted-cruz-heres-why-people-think-im/250717286?cid=4-1816468"}],"properties":{},"source":"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/sc-gop-town-hall-ted-cruz-unlikable-reputation-19.cnn&autostart=true"}
+    }
+    ,
+
+    
+    
+    
+
+    
+
+    {
+        "itemId": "250717285",
+        "postId": "1455770010193_64_1952_1533_public",
+        "smallerThanPostId": "1455770010193_64_1952_1533_public",
+        "title": "Tumbleweed invades Australian town",
+        "description": "Frustration is on the rise for residents of Wangaratta, Australia, as tumbleweeds have enveloped their community. CNN affiliate <a href=\"https:\/\/au.news.yahoo.com\/\" target=\"_blank\">Seven Network<\/a> has more.",
+        "comment": "http:\/\/www.cnn.com\/video\/#\/video\/world\/2016\/02\/18\/australia-tumbleweed-takeover-pkg.seven-network",
+        "keywords": [{"label":"seven network", "url":"/topic/seven+network?cid=5-85436"}],
+        "embed": "<div class=\"player\" style=\"text-align: center;margin-top: 25px;\"><object width=\"640\"  height=\"340\"  classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" id=\"ep\"><param name=\"allowfullscreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><param name=\"wmode\" value=\"transparent\" /><param name=\"movie\" value=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=world/2016/02/18/australia-tumbleweed-takeover-pkg.seven-network&autostart=true\" /><param name=\"bgcolor\" value=\"#000000\" /><embed src=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=world/2016/02/18/australia-tumbleweed-takeover-pkg.seven-network&autostart=true\" type=\"application/x-shockwave-flash\" bgcolor=\"#000000\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"640\"  wmode=\"transparent\" height=\"340\" ><\/embed><\/object><\/div>",
+        "source": "CNN",
+        "sourceUrl": "http://www.cnn.com/video/#/video/world/2016/02/18/australia-tumbleweed-takeover-pkg.seven-network",
+        "itemUrl": "http://www.frequency.com/video/tumbleweed-invades-australian-town/250717285?cid=4-1816468",
+        "dateCreated": "2h ago",
+        "fromNavTitle": "Top News Stories",
+        "fromImageUrl": "http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg",
+        "fromUrl": "/newsfrequency?cid=4-1816468",
+        "itemComboId": "1-250717285",
+        "contextComboId": "4-1816468",
+        "imageUrl": "http://image1.frequency.com/uri/w120_h70_ctrim_tt1455770010000/_/item/2/5/0/7/Tumbleweed_invades_Australian_town_250717285_thumbnail.jpg",
+        "ownerId": "4-1816468",
+        "isKeyword" : false,
+        "postParams": {"name":"Tumbleweed invades Australian town","message":"4-1816468","link":"http://www.frequency.com/video/tumbleweed-invades-australian-town/250717285?cid=4-1816468","picture":"http://image1.frequency.com/uri/w120_h70_ctrim_tt1455770010000/_/item/2/5/0/7/Tumbleweed_invades_Australian_town_250717285_thumbnail.jpg","description":"http://www.cnn.com/video/#/video/world/2016/02/18/australia-tumbleweed-takeover-pkg.seven-network","actions":[{"name":"Watch on Frequency","link":"http://www.frequency.com/video/tumbleweed-invades-australian-town/250717285?cid=4-1816468"}],"properties":{},"source":"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=world/2016/02/18/australia-tumbleweed-takeover-pkg.seven-network&autostart=true"}
+    }
+    ,
+
+    
+    
+    
+
+    
+
+    {
+        "itemId": "250717172",
+        "postId": "1455770008509_850_1933_430_public",
+        "smallerThanPostId": "1455770008509_850_1933_430_public",
+        "title": "Cruz weighs in on when to choose Scalia\'s replacement",
+        "description": "Senator Ted Cruz discusses when he thinks a replacement should be nominated for the Supreme Court.",
+        "comment": "http:\/\/www.cnn.com\/video\/#\/video\/politics\/2016\/02\/18\/sc-gop-town-hall-ted-cruz-scotus-scalia-18.cnn",
+        "keywords": [{"label":"ted cruz", "url":"/topic/ted+cruz?cid=5-624118"},{"label":"the supreme court", "url":"/topic/the+supreme+court?cid=5-687407"}],
+        "embed": "<div class=\"player\" style=\"text-align: center;margin-top: 25px;\"><object width=\"640\"  height=\"340\"  classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" id=\"ep\"><param name=\"allowfullscreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><param name=\"wmode\" value=\"transparent\" /><param name=\"movie\" value=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/sc-gop-town-hall-ted-cruz-scotus-scalia-18.cnn&autostart=true\" /><param name=\"bgcolor\" value=\"#000000\" /><embed src=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/sc-gop-town-hall-ted-cruz-scotus-scalia-18.cnn&autostart=true\" type=\"application/x-shockwave-flash\" bgcolor=\"#000000\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"640\"  wmode=\"transparent\" height=\"340\" ><\/embed><\/object><\/div>",
+        "source": "CNN",
+        "sourceUrl": "http://www.cnn.com/videos/politics/2016/02/18/sc-gop-town-hall-ted-cruz-scotus-scalia-18.cnn",
+        "itemUrl": "http://www.frequency.com/video/cruz-weighs-in-on-when-to-choose-scalias/250717172?cid=4-1816468",
+        "dateCreated": "2h ago",
+        "fromNavTitle": "Top News Stories",
+        "fromImageUrl": "http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg",
+        "fromUrl": "/newsfrequency?cid=4-1816468",
+        "itemComboId": "1-250717172",
+        "contextComboId": "4-1816468",
+        "imageUrl": "http://image1.frequency.com/uri/w120_h70_ctrim_tt1455769523000/_/item/2/5/0/7/Cruz_weighs_in_on_when_to_choose_Scalia_250717172_thumbnail.jpg",
+        "ownerId": "4-1816468",
+        "isKeyword" : false,
+        "postParams": {"name":"Cruz weighs in on when to choose Scalia's replacement","message":"4-1816468","link":"http://www.frequency.com/video/cruz-weighs-in-on-when-to-choose-scalias/250717172?cid=4-1816468","picture":"http://image1.frequency.com/uri/w120_h70_ctrim_tt1455769523000/_/item/2/5/0/7/Cruz_weighs_in_on_when_to_choose_Scalia_250717172_thumbnail.jpg","description":"http://www.cnn.com/video/#/video/politics/2016/02/18/sc-gop-town-hall-ted-cruz-scotus-scalia-18.cnn","actions":[{"name":"Watch on Frequency","link":"http://www.frequency.com/video/cruz-weighs-in-on-when-to-choose-scalias/250717172?cid=4-1816468"}],"properties":{},"source":"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/sc-gop-town-hall-ted-cruz-scotus-scalia-18.cnn&autostart=true"}
+    }
+    ,
+
+    
+    
+    
+
+    
+
+    {
+        "itemId": "250717014",
+        "postId": "1455770007550_1844_965_75_public",
+        "smallerThanPostId": "1455770007550_1844_965_75_public",
+        "title": "Ted Cruz fires back at Trump\'s lawsuit threat",
+        "description": "During CNN\'s GOP town hall, Sen. Ted Cruz responds to Donald Trump\'s recent threat to file a lawsuit over an ad the Cruz campaign is running.",
+        "comment": "http:\/\/www.cnn.com\/video\/#\/video\/politics\/2016\/02\/18\/sc-gop-town-hall-ted-cruz-donald-trump-lawsuit-sot-13.cnn",
+        "keywords": [{"label":"donald trump", "url":"/topic/donald+trump?cid=5-2726"},{"label":"ted cruz", "url":"/topic/ted+cruz?cid=5-624118"}],
+        "embed": "<div class=\"player\" style=\"text-align: center;margin-top: 25px;\"><object width=\"640\"  height=\"340\"  classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" id=\"ep\"><param name=\"allowfullscreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><param name=\"wmode\" value=\"transparent\" /><param name=\"movie\" value=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/sc-gop-town-hall-ted-cruz-donald-trump-lawsuit-sot-13.cnn&autostart=true\" /><param name=\"bgcolor\" value=\"#000000\" /><embed src=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/sc-gop-town-hall-ted-cruz-donald-trump-lawsuit-sot-13.cnn&autostart=true\" type=\"application/x-shockwave-flash\" bgcolor=\"#000000\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"640\"  wmode=\"transparent\" height=\"340\" ><\/embed><\/object><\/div>",
+        "source": "CNN",
+        "sourceUrl": "http://www.cnn.com/video/#/video/politics/2016/02/18/sc-gop-town-hall-ted-cruz-donald-trump-lawsuit-sot-13.cnn",
+        "itemUrl": "http://www.frequency.com/video/ted-cruz-fires-back-at-trumps-lawsuit/250717014?cid=4-1816468",
+        "dateCreated": "2h ago",
+        "fromNavTitle": "Top News Stories",
+        "fromImageUrl": "http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg",
+        "fromUrl": "/newsfrequency?cid=4-1816468",
+        "itemComboId": "1-250717014",
+        "contextComboId": "4-1816468",
+        "imageUrl": "http://image1.frequency.com/uri/w120_h70_ctrim_tt1455768743000/_/item/2/5/0/7/Ted_Cruz_fires_back_at_Trump_s_lawsuit_t_250717014_thumbnail.jpg",
+        "ownerId": "4-1816468",
+        "isKeyword" : false,
+        "postParams": {"name":"Ted Cruz fires back at Trump's lawsuit threat","message":"4-1816468","link":"http://www.frequency.com/video/ted-cruz-fires-back-at-trumps-lawsuit/250717014?cid=4-1816468","picture":"http://image1.frequency.com/uri/w120_h70_ctrim_tt1455768743000/_/item/2/5/0/7/Ted_Cruz_fires_back_at_Trump_s_lawsuit_t_250717014_thumbnail.jpg","description":"http://www.cnn.com/video/#/video/politics/2016/02/18/sc-gop-town-hall-ted-cruz-donald-trump-lawsuit-sot-13.cnn","actions":[{"name":"Watch on Frequency","link":"http://www.frequency.com/video/ted-cruz-fires-back-at-trumps-lawsuit/250717014?cid=4-1816468"}],"properties":{},"source":"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/sc-gop-town-hall-ted-cruz-donald-trump-lawsuit-sot-13.cnn&autostart=true"}
+    }
+    ,
+
+    
+    
+    
+
+    
+
+    {
+        "itemId": "250716591",
+        "postId": "1455770007541_354_1211_1433_public",
+        "smallerThanPostId": "1455770007541_354_1211_1433_public",
+        "title": "Cruz: I wouldn\'t visit Cuba while Castros are in power",
+        "description": "Senator Ted Cruz talks about how he would handle Cuba if he were elected president.",
+        "comment": "http:\/\/www.cnn.com\/video\/#\/video\/politics\/2016\/02\/18\/sc-gop-town-hall-ted-cruz-cuba-11.cnn",
+        "keywords": [{"label":"cuba", "url":"/topic/cuba?cid=5-422"},{"label":"ted cruz", "url":"/topic/ted+cruz?cid=5-624118"}],
+        "embed": "<div class=\"player\" style=\"text-align: center;margin-top: 25px;\"><object width=\"640\"  height=\"340\"  classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" id=\"ep\"><param name=\"allowfullscreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><param name=\"wmode\" value=\"transparent\" /><param name=\"movie\" value=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/sc-gop-town-hall-ted-cruz-cuba-11.cnn&autostart=true\" /><param name=\"bgcolor\" value=\"#000000\" /><embed src=\"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/sc-gop-town-hall-ted-cruz-cuba-11.cnn&autostart=true\" type=\"application/x-shockwave-flash\" bgcolor=\"#000000\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"640\"  wmode=\"transparent\" height=\"340\" ><\/embed><\/object><\/div>",
+        "source": "CNN",
+        "sourceUrl": "http://www.cnn.com/videos/politics/2016/02/18/sc-gop-town-hall-ted-cruz-cuba-11.cnn",
+        "itemUrl": "http://www.frequency.com/video/cruz-i-wouldnt-visit-cuba-while-castros/250716591?cid=4-1816468",
+        "dateCreated": "2h ago",
+        "fromNavTitle": "Top News Stories",
+        "fromImageUrl": "http://image1.frequency.com/uri/w60_h60/_/user/1/8/1/6/1450206967000_newsfrequency_1816468_avatar.jpg",
+        "fromUrl": "/newsfrequency?cid=4-1816468",
+        "itemComboId": "1-250716591",
+        "contextComboId": "4-1816468",
+        "imageUrl": "http://image1.frequency.com/uri/w120_h70_ctrim_tt1455768518000/_/item/2/5/0/7/Cruz_I_wouldn_t_visit_Cuba_while_Castros_250716591_thumbnail.jpg",
+        "ownerId": "4-1816468",
+        "isKeyword" : false,
+        "postParams": {"name":"Cruz: I wouldn't visit Cuba while Castros are in power","message":"4-1816468","link":"http://www.frequency.com/video/cruz-i-wouldnt-visit-cuba-while-castros/250716591?cid=4-1816468","picture":"http://image1.frequency.com/uri/w120_h70_ctrim_tt1455768518000/_/item/2/5/0/7/Cruz_I_wouldn_t_visit_Cuba_while_Castros_250716591_thumbnail.jpg","description":"http://www.cnn.com/video/#/video/politics/2016/02/18/sc-gop-town-hall-ted-cruz-cuba-11.cnn","actions":[{"name":"Watch on Frequency","link":"http://www.frequency.com/video/cruz-i-wouldnt-visit-cuba-while-castros/250716591?cid=4-1816468"}],"properties":{},"source":"http://i.cdn.turner.com/cnn/.element/apps/cvp/3.0/swf/cnn_416x234_embed.swf?context=embed&videoId=politics/2016/02/18/sc-gop-town-hall-ted-cruz-cuba-11.cnn&autostart=true"}
+    }
+    
+
+]
+;
+        
+        
+            Freq.Controllers.Watch.paginationMethod = '/newsfrequency/json';
+        
+        
+    </script>
+    
+    
+    <script language="javascript">
+    $(document).ready(function() {
+        Freq.Services.Activity.pageViewed(4, "1816468", 27);
+     });
+    </script>
+    
+    
+
+
+            </div>
+        </div>
+        
+
+<script type="text/javascript">
+    (function(d){
+        var js, id = 'twitterjs', ref = d.getElementsByTagName('script')[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement('script'); js.id = id; js.async = true;
+        js.src = "http://platform.twitter.com/anywhere.js?id=taDibPPnVz2oX4Ej6oXO7g&v=1";
+        ref.parentNode.insertBefore(js, ref);
+    }(document));
+</script>
+
+<script type="text/javascript" src="/gzip_N1441966811/bundles/new.js" ></script>
+
+
+
+
+
+<script type="text/javascript">
+    (function () {
+        
+        var userParams = $.cookie('freqUiData');
+        try {
+            userParams = JSON.parse(userParams.replace(/(^")|("$)/g, '').replace(/\\"/g, '"'));
+        } catch (ex) {}
+        if (typeof userParams !== 'object') {
+            $.cookie('freqUiData', null, {path: '/', expires: -1});
+            userParams = null;
+        }
+        if (userParams) {
+            if (typeof user == 'undefined') {
+                user = {};
+            }
+            user.id = $.cookie('userId') || null;
+            user.username = $.cookie('username') || null;
+            user.userRealName = (userParams.fn + ' ' + userParams.ln) || null;
+            user.navTitle = user.userRealName || user.username || null;
+            user.avatar = userParams.a;
+            user.firstName = userParams.fn;
+            user.lastName = userParams.ln;
+            Freq.user = Freq.user(user);
+        } else if (typeof user != 'undefined') {
+            Freq.user = Freq.user(user);
+        } else {
+            Freq.user = Freq.user(undefined);
+        }
+    }());
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+    (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+</script>
+
+<script type="text/javascript">
+    Freq.Controllers.reauth();
+
+    Freq.apiServer = 'https://api.frequency.com';
+</script>
+
+
+<script type="text/javascript">
+    $(function () {
+        Freq.appOpen();
+    });
+</script>
+
+
+<span id="activityServer" style="display:none">http://activity.frequency.com</span>
+<img id="activityImageTag" src="http://image1.frequency.com/404.jpg" style="display:none" width="0" height="0" alt="as" />
+<script type="text/javascript">Freq.apiConfig = {"facebookWriteScope":"publish_actions","defaultShareTextTemplateTwitter":"","defaultShareTextTemplateFacebook":"","activityWatchLongTimeAfterSecs":30,"defaultShareTextTemplateEmailSubjectv2":"I'm sharing this video with you","shouldShowTopics":true,"defaultShareTextTemplateGooglePlusv2":"","defaultShareTextTemplateEmailv2":"[TITLE] Watch it here: [URL]","defaultShareTextTemplateFacebookv2":"","socialSharingWatchTimeSecs":20,"minClientVersion":{"smartTV":1200,"androidTCL":131,"androidTv":1,"ipad":65,"iphone":128,"androidPhone":1,"androidTablet":1},"defaultShareTextTemplateTwitterv2":"Watch [TITLE] via @OnFrequency [URL]","defaultShareTextTemplateEmail":"","socialSharingTuneInToTimeSecs":0,"googlePlusScope":"https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/plus.me https://www.googleapis.com/auth/userinfo.email","defaultShareTextTemplateSmsv2":"[URL]","facebookScope":"public_profile,user_posts,user_actions.video,user_likes,publish_actions","datetime":"2015-04-24T10:43:07Z","facebookReadScope":"public_profile,user_posts,user_actions.video,user_likes","defaultShareTextTemplateSms":""}</script>
+<script>
+            $(function () {
+                var $feedItems = $('#videoList').children();
+                if ($feedItems.length > 1) {
+                    $feedItems.eq(0).after('<li class="otherVideos"><span class="newSprite icoArrowDown"></span>SEE MORE VIDEOS</li>');
+                }
+            });
+        </script>
+
+
+        <script type="text/javascript">;$(function(){null;
+    Freq.Controllers.tuner = Freq.Controllers.tuner();
+})</script>
+        
+    </body>
+</html>
+

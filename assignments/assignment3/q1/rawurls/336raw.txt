@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <form method="POST" action="">
+	    <input type="hidden" name="url" value="http://www.titansonline.com/news/article-4/Russ-Grimm-Wants-O-Line-to-Establish-its-Own-Identity/0749231e-cd67-4a9d-82b1-3cebaf7d8e35?utm_campaign=Contact+SNS+For+More+Referrer&amp;utm_medium=twitter&amp;utm_source=snsanalytics" id="id_url" />
+	    <input type="hidden" name="urlHash" value="WB3gy6" id="id_urlHash" />
+	    <input type="hidden" name="username" value="8065012:0" id="id_username" />
+	    <input type="hidden" name="country" value="US" id="id_country" />
+	    <input type="hidden" name="referrer" id="id_referrer" />
+	    <input type="hidden" name="type" value="0" id="id_type" />
+        
+        
+	</form>
+	<!-- Form is submitted in iframe -->
+	<iframe name="track_iframe" style="display:none;" src="/WB3gy6?type=track_iframe&amp;utm_campaign=titansonline.com+sports&amp;utm_medium=572425472%40WarmackDaily&amp;utm_source=titansonline.com&amp;utm_content=NFL+Players+01"></iframe>
+</body>
+</html>

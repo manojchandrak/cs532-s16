@@ -1,0 +1,1228 @@
+
+<!doctype html>
+<html>
+    <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+            <title>Rival do Palmeiras na Libertadores, Nacional anuncia Léo Gamalho - VerdaoWeb.com.br - S.E. Palmeiras</title>
+            
+
+            <meta name="description" content="Notícias atualizadas do S.E. Palmeiras, cobertura diária do clube e matérias exclusivas. Contratações do Palmeiras e muito mais." />
+            <meta name="keywords" content="Palmeiras, Verdão, SEP, S.E. Palmeiras, Mancha Verde, Porco, palmeirense" />
+            <meta name="google-site-verification" content="" />
+            <meta name="apple-mobile-web-app-capable" content="yes" />
+            <meta property="fb:app_id" content="315232562006628"/>
+            
+            <meta property="og:image" content="http://img.estadao.com.br/thumbs/550/resources/jpg/6/5/1455128195156.jpg"/>
+            <meta property="og:title" content="Rival do Palmeiras na Libertadores, Nacional anuncia Léo Gamalho - VerdaoWeb.com.br - S.E. Palmeiras"/>
+            
+            <meta property="og:url" content="http://verdaoweb.com.br/news.asp?nID=28964"/>
+            
+
+    
+            <!-- Bootstrap -->
+            <link href="css/bootstrap.css" rel="stylesheet" media="screen">
+            <link href="css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
+            <link href="css/style.css?s=4" rel="stylesheet" media="screen">
+            <link rel="shortcut icon" href="favicon.ico" />
+            <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+            <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+            
+            <!-- MENU RESPONSIVE -->
+            <link rel="stylesheet" href="css/responsive-menu.css">
+            <!--[if lt IE 9]>
+            <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2pre/html5shiv.js"></script>
+            <![endif]-->
+            
+            <!-- JS -->
+            <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+            <script src="js/bootstrap.min.js"></script>
+         
+            <!--JQUERY ANCHOR-->
+            <script src="js/anchor.js" type="text/javascript"></script>
+            
+      		<!-- THUMBNAILS -->
+            <link rel="StyleSheet" href="css/MyThumbnail.css" type="text/css">
+            <script src="js/jquery.MyThumbnail.js"></script>
+
+      
+            <!--GOOGLE FONTS-->
+            <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700' rel='stylesheet' type='text/css'>
+
+            <!--TOOLTIP-->
+            <script src="js/bootstrap-tooltip.js" type="text/javascript"></script>
+            <script type="text/javascript">
+				$(function(){
+					$('.tip').tooltip();
+				});
+            </script>
+
+			<script type='text/javascript'>
+                var googletag = googletag || {};
+                googletag.cmd = googletag.cmd || [];
+                (function() {
+                var gads = document.createElement('script');
+                gads.async = true;
+                gads.type = 'text/javascript';
+                var useSSL = 'https:' == document.location.protocol;
+                gads.src = (useSSL ? 'https:' : 'http:') + 
+                '//www.googletagservices.com/tag/js/gpt.js';
+                var node = document.getElementsByTagName('script')[0];
+                node.parentNode.insertBefore(gads, node);
+                })();
+            </script>
+                
+            <script type='text/javascript'>
+                googletag.cmd.push(function() {
+                googletag.defineSlot('/9833772/Fla-Arroba1', [300, 250], 'div-gpt-ad-1355099684652-0').addService(googletag.pubads());
+                googletag.defineSlot('/9833772/Fla-arroba2', [300, 250], 'div-gpt-ad-1355099684652-1').addService(googletag.pubads());
+                googletag.defineSlot('/9833772/Fla-Arroba3', [300, 250], 'div-gpt-ad-1355099684652-2').addService(googletag.pubads());
+                googletag.defineSlot('/9833772/Fla-Sky1', [160, 600], 'div-gpt-ad-1355099684652-3').addService(googletag.pubads());
+                googletag.defineSlot('/9833772/Fla-Sky2', [160, 600], 'div-gpt-ad-1355099684652-4').addService(googletag.pubads());
+                googletag.defineSlot('/9833772/FLA-supper', [728, 90], 'div-gpt-ad-1355099684652-5').addService(googletag.pubads());
+                googletag.pubads().enableSingleRequest();
+                googletag.enableServices();
+                });
+            </script>
+            
+
+
+		<script type="text/javascript">
+		    var terra_info_service = "ParBR_510810";
+		    var terra_info_channel = "br.esportes.futebol";
+		    var terra_info_type = "WWW";
+		    var terra_info_id = "page";
+		    var terra_info_channeldetail = "verdaoweb";
+		    var terra_stats_idCrtfc = 510810;
+		</script>
+<script type="text/javascript" charset="iso-8859-1" language="javascript" src="http://s1.trrsf.com.br/metrics/js/br/contentpar.js">
+</script>
+<style>
+#ver_login{ display:none}</style>
+    </head>
+
+    <body>
+	<div id="fb-root"></div>
+    
+    <script language="javascript">var tgmKey = 'br.cobranded_verdaoweb.articles';</script>
+    
+    <script type="text/javascript" language="javascript" src="http://stf.terra.com/tagman/js/tagman.js"></script>
+    <script>tgm.ShowArea('default');</script>
+	
+	
+      <script>	
+	   var primeiro = 0; 
+
+	   window.fbAsyncInit = function() {
+            // Essa é a função de inicialização do SDK. É necessário configurar alguns parâmetros na inicialização do SDK.
+            FB.init({
+              appId      : '315232562006628', // Substitua pela AppID do aplicativo que você criou anteriormente.             
+              cookie     : true, // Habilita o uso de cokie
+              xfbml      : true,
+			  version:'v2.1'
+            }); //ok
+			
+		
+		  FB.getLoginStatus(function(response) {
+			statusChangeCallback(response);
+		  });
+		
+		  };
+		
+		
+	   function statusChangeCallback(response) {
+		  
+		   if (response.status === 'connected') { 
+		    $('#ver_login').css("display","none"); 
+			$('#botao').css("display","none"); 	
+				FB.api('/me?fields=id,name,email,gender', function(response) {			
+				
+		        var nomeface = response.name;
+				if (response.gender == 'male') {
+					sexo = 'Masculino';
+					}
+					else {
+					sexo = 'Feminino';
+					}             //ok            
+			  //verifica se o usuaio está gravado no banco e autorizado			  
+			
+               var rnomeface = nomeface.replace(" ", "-ESP-");
+			 var sessao = 0;		//ok
+			  
+                $.ajax({
+                        type: 'POST',
+                        url: 'gravaface.asp',								
+                        data: "faceid="+response.id+"&nomef="+rnomeface+"&emailf="+response.email+"&sexof="+sexo,
+					    success: function(data){
+		                    $('#ver_login').css("display","none"); 
+							$('#botao').css("display","none"); 		 										
+							 if (sessao != 1) {
+								   document.location.reload();	
+								   return false;
+							   }
+							   else
+							   {
+								   sessao = 1;
+								   
+							   } //ok
+							  
+							}
+						});		//ok	 
+			
+                $('#foto').html('<img src="https://graph.facebook.com/'+response.id+'/picture" style="float: left;margin-right: 5px;" alt="'+response.name+'" />' +
+				'<div style="font-weight: normal;font-size: 14px;color: #055909;">'+response.name+'</div>');
+				
+				$('#foto').append('<button class="btn btn-success" style="position: absolute;right: 0; padding:0 5px;bottom: 8px; font-size:12px" id="logout" type="button">Sair</button>');
+				$('#bt_loga').css("display","none"); 
+				$('#bt_logado').css("display","none");  //ok
+						$(function() {	
+								
+						 $("#logout").click(function() {							    				    					 
+								alert('Você desconectou sua conta do facebook do Verdão Web');
+								$('#ver_login').css("display","none"); 
+					            $('#botao').css("display","none"); 
+								FB.api('/me/permissions', 'delete', function(response) {
+									$.ajax({
+									type: 'POST',
+									url: 'limpaface.asp',											
+									data: "facetemp=1",
+									cache:false,
+									success: function(data){								
+									document.location.reload();				
+										}
+									});
+								
+							    });
+								});
+						});		
+			     }); //fim FB.api
+								
+						  if (primeiro === 1) { 
+							   $.ajax({
+								type: 'POST',
+								url: 'sessionface.asp',											
+								data: "facetemp=1",
+								success: function(data){									
+									document.location.reload();	
+									}
+								});					   						 
+							
+						      }; 
+		   } //if conectado
+		   else
+			  if (response.status === 'not_authorized') {
+							primeiro = 1;
+							$('#botao').css("display","block"); 
+							$('#ver_login').css("display","block");												
+						  } else {
+							$('#botao').css("display","block"); 
+							$('#ver_login').css("display","block"); 
+							}//fim vazio		
+		      
+		  };// fim statusChangeCallback
+						
+   function checkLoginState() {
+			FB.getLoginStatus(function(response) {
+			  statusChangeCallback(response);
+			});
+		  };//checkLoginState
+		  
+		  
+		 (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pt_BR/sdk.js";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+ 
+    </script>
+
+
+
+
+	    <style type="text/css">
+		#pop{
+
+		
+		left: 400px;
+		top: 170px;
+
+		
+
+		}
+	    </style>
+
+
+		
+
+
+        <div class="barra_terra">
+          <div id="nav-breadcrumb"><ul class="breadcrumb"><li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="http://www.terra.com.br" ts.idz="nav_breadcrumb_home"><span itemprop="title">capa</span></a></li><li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="http://esportes.terra.com.br/" ts.idz="nav_breadcrumb_home"><span itemprop="title">Esportes</span></a></li></ul></div>
+
+			<script src="https://s1.trrsf.com/fe/zaz-cerebro/prd/scripts/zaz.inline.min.js?standalone=true"></script>
+            
+            <script>
+            
+                zaz.use(function TerraIgniter(pkg){pkg.require(['app.navbar'], function(NavBar){var rejected = ["cookie-message","under18-message","footer","ad","ticker","breakingNews"],rejectedShortcuts = ["user-login"],navBar= new NavBar({shortcuts: {reject: rejectedShortcuts},position: 'absolute',reject: rejected});});});
+            
+            </script>
+
+        </div><!--fim barra_terra--> 
+
+        <!--CONTAINER-->
+        <div class="container" id="voltar-topo">
+
+   
+
+            <!--HEADER-->
+            <div class="container-fluid header"  style="min-height: 251px;">
+                <div class="row-fluid">
+                    <div class="banner-top">
+			
+
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Palmeiras superbanner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8624736352081651"
+     data-ad-slot="2956513721"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+			
+                    </div>
+                </div>
+                    
+                    
+                <div class="row-fluid menu">
+                    <div class="span9">
+                        <nav class="menu">
+                            <input type="checkbox" id="button">
+                            <label for="button" onclick>Menu</label>
+                            <ul>
+                                <li><a href="default.asp">Home</a></li>
+                                <li><a href="noticias2.asp">Notícias</a></li>
+                                <li><a href="cadastro.asp">Cadastro</a></li>
+                                <!--<li><a href="#">Fórum</a></li>
+                                <li><a href="#">Chat</a></li>-->
+                                <li><a href="#">História do Verdão</a></li>
+                                <!--<li><a href="news.asp?nID=45">Gatas da Torcida</a></li>-->
+                            </ul>
+                        </nav>
+                    </div>
+
+                    <div class="span3 login-redes" style="margin-top: 12px;">
+                        <div class="login">
+                        	<div id="foto" style="position:relative; height:62px; width:200px">
+                           <fb:login-button scope="public_profile,email" size="medium"  id="botao" style="font-size:1px; color:#000" onlogin="checkLoginState();" >Conecte com Facebook</fb:login-button>                         
+							<div id="ver_login">
+							
+                            <button class="btn btn-success" id="bt_loga" style="margin-top: 2px;" type="button" onclick=window.location.href='login.asp'>Clique aqui para fazer login</button>
+                            
+                            </div></div>
+                        </div>
+
+                        <div class="redes-sociais" style="padding-top: 10px;">
+                        	<a href="https://www.facebook.com/verdaoweb" class="tip" rel="tooltip" data-original-title="Siga-nos no Facebook" data-placement="top" title="Siga-nos no Facebook" target="_blank"><img src="img/img-facebook.png"></a>
+                        </div>
+                    </div>
+                </div>
+                <!--END MENU-->
+            </div>
+            <!--END HEADER-->
+            <div style="width:100%; margin-bottom:15px"><!-- br.terra.testeparceiros.cobranded -->
+
+
+<!-- Master 1 (970x250 / 728x90 / 970x90 / 970x91) -->
+<div id="TerraAdvertising" data-keyvalues="" data-clicktag=""></div>
+<script type="text/javascript" src="http://p2.trrsf.com/tagmanfe/ShowArea.aspx?key=br.cobranded_verdaonaweb2.home.master1&direct=1"></script>
+
+			</div>
+      
+       <script type="text/javascript" src="js/jquery.cookies.2.2.0.min.js?s=1"></script>
+      <script>
+      var isMobile = {
+            Android: function() {
+                return navigator.userAgent.match(/Android/i);
+            },
+            BlackBerry: function() {
+                return navigator.userAgent.match(/BlackBerry/i);
+            },
+            iOS: function() {
+                return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+            },
+            Opera: function() {
+                return navigator.userAgent.match(/Opera Mini/i);
+            },
+            Windows: function() {
+                return navigator.userAgent.match(/IEMobile/i);
+            },
+            any: function() {
+                return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+            }
+    
+        };
+
+
+
+if ( isMobile.Android() ) { 
+    var set_app = $.cookie("app-palmeiras");
+      if(set_app!="1"){  
+      var confirma = confirm("O Verdão Web possui um aplicativo grátis para Android! Clique em OK para baixar ou cancelar para não ver mais este aviso.");
+        if (confirma) {
+          
+          
+                   
+                          $.cookie("app-palmeiras", "1", { expires: 2 });
+                   
+             
+            document.location.href = "https://play.google.com/store/apps/details?id=com.ciberos.palmeiras";
+           
+        }
+        else
+        {
+         
+                  
+                 
+                          $.cookie("app-palmeiras", "1", { expires: 1 });
+                  
+             
+          } 
+      }
+        
+    }
+	else
+if ( isMobile.iOS() ) { 
+		var set_app = $.cookie("app-palIOS");
+		if(set_app!="1"){  
+		var confirma = confirm("O Verdão Web possui um aplicativo grátis para iOS! Clique em OK para baixar ou cancelar para não ver mais este aviso.");
+		if (confirma) {
+		  
+		  
+				   
+						  $.cookie("app-palIOS", "1", { expires: 2 });
+				   
+			 
+			document.location.href = "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1049399041&mt=8";
+		   
+		}
+		else                      
+		$.cookie("app-palIOS", "1", { expires: 1 });
+		}
+        
+    }
+      </script>
+
+<div class="container-fluid">
+    <div class="row-fluid">
+        <!--COLUNA ESQUERDA-->
+        <div class="span8 section">
+            <!--MANCHETE MAIOR-->
+            <div class="row-fluid interna">
+            	<span class="label label-important">10/2/2016&nbsp;16:48</span>
+            	<h1 class="titulo">Rival do Palmeiras na Libertadores, Nacional anuncia Léo Gamalho</h1>
+            	<h2 class="sub-titulo">Atacante vindo do Avaí deve ter contrato curto com uruguaios</h2>
+              	
+                                <div class="compartilhe">
+                    <div class="curtir">
+
+<fb:like href="http://verdaoweb.com.br/news.asp?nID=28964" send="false" layout="button_count" show_faces="false"></fb:like> 
+
+
+                        <!--<iframe src="http://www.facebook.com/plugins/like.php?href=http://verdaoweb.com.br&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=25&amp;locale=pt_BR" scrolling="no" frameborder="0" allowTransparency="true"></iframe>-->
+                    </div>
+                    
+                    <div class="face-frame">
+                        <a name="fb_share" type="button_count" share_url="http://verdaoweb.com.br"></a> 
+                        <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+                    </div>
+                    
+                    <div class="google-plus">
+                        <g:plusone size="medium" annotation="bubble"></g:plusone>
+                        <script type="text/javascript">
+                        window.___gcfg = {lang: 'pt-BR'};
+                        (function() {
+                        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                        po.src = 'https://apis.google.com/js/plusone.js';
+                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                        })();
+                        </script>
+                    </div>
+                    
+                    <div class="twitter">
+                        <a href="https://twitter.com/share" class="twitter-share-button" data-lang="pt">Tweetar</a>
+                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                    </div>
+                </div>
+<img src="http://img.estadao.com.br/thumbs/550/resources/jpg/6/5/1455128195156.jpg" width="100%">
+
+                <p><i>Léo Gamalho sai do Avaí rumo ao Uruguai</i><br />
+<br />
+<br />
+Enquanto a atração dos clubes do Brasil por atletas de outros países da América do Sul parece maior do que nunca, ao menos um nome brasileiro decidiu fazer o caminho inverso e vai jogar em uma equipe de outro país do continente. O atacante Léo Gamalho, ex-Avaí, foi anunciado oficialmente nesta quarta-feira como novo reforço do tradicional Nacional, do Uruguai.<br />
+<br />
+Aos 30 anos, Léo Gamalho assinou contrato com o novo clube nesta quarta. Os termos não foram divulgados, mas a imprensa local garante que o vínculo terá duração de seis meses. Assim, o jogador se torna um reforço para a Libertadores, na qual o Nacional será adversário do Palmeiras, já que ambos integram o Grupo 2 do torneio.<br />
+<br />
+"A comissão técnica, os profissionais, os jogadores, todos me trataram muito bem. Alguns deles falam português, o que já ajuda bastante, então até agora eu tive as melhores recepções. Quero agradecer desde já por todo mundo me tratar tão bem", declarou em sua chegada ao clube.<br />
+<br />
+Com a Libertadores como grande objetivo do Nacional neste primeiro semestre, Léo Gamalho falou sobre as chances do clube no Grupo 2, que tem ainda Rosário Central e o River Plate-URU. "O Nacional tem grandes chances de se classificar", garantiu o atacante, apesar de admitir que a primeira fase será "muito dura".<br />
+<br />
+Revelado pelas categorias de base do Internacional, Léo Gamalho demorou para despontar no futebol. Passou por diversos clubes, inclusive de Portugal e da China, antes de aparecer no Ceará. Manteve o bom momento no Santa Cruz, no Bahia, até receber uma chance na Série A pelo Avaí, no ano passado. Teve um grande início, marcando quatro gols em seus dois primeiros jogos pelo time, mas logo caiu de produção e não teve o contrato renovado ao fim do ano.</p>
+                <p><em>939 visitas - <strong>Fonte:</strong> Estadão</em></p>
+
+		<h1 style="font-size:16px;text-align:left;margin-bottom:0px">Mais notícias do Palmeiras</h1>
+		<a href="noticias2.asp">Notícias de contratações do Palmeiras</a><br />
+		<a href="noticias3.asp">Notícias mais lidas</a>
+
+            </div>
+
+			
+
+           
+            <div class="row-fluid">
+                <div class="span12">
+                    <div class="face-comments">
+                        <div class="fb-comments"><fb:comments xid="28964" href="http://verdaoweb.com.br/news.asp?nID=28964" num_posts="50" order_by="reverse_time"></fb:comments></div>
+                    </div>
+                </div>
+            </div>
+
+            
+			<script language=javascript>
+	function confirmacao2(){
+	 if (confirm("tem certeza?")) {
+	return true; }
+	  else { return false; }
+	}
+</script>
+
+<center><br></center>
+
+
+
+<script type="text/javascript">
+	function respfechar(id) {
+	document.getElementById('resposta'+id).innerHTML = '';
+	}
+	function abreresposta(id,nid,tipo,tipo2) {
+	
+	document.getElementById('resposta'+id).innerHTML = '<form method="post" name="rescomentarios'+id+'" id="rescomentarios'+id+'" action="enviacomentres.asp?tipo='+tipo+'&nID='+nid+'&idc='+id+'&t2='+tipo2+'" onSubmit="return verifica(this);"><span onclick="javascript:respfechar('+id+');" style="float:right;cursor:pointer;margin-right:10px;"><b>[Fechar]</b></span><textarea name="coment" id="coment" class="coment-box2" onClick="validacoment();" onKeyPress="javascript:SetMaxLen(document.rescomentarios'+id+'.coment,2000);" >Escreva seu comentário aqui</textarea><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" class="botao-2" id="enviar" name="enviar" value="Enviar!"></form>';
+	}
+</script>
+            <!--COMENTÁRIOS-->
+            <div class="row-fluid">
+                <div class="span12">
+        
+	<strong>Nenhum comentário. Seja o primeiro a comentar!</strong>
+
+                    <!--END BOX COMMENTS-->
+
+<div style="clear:both">
+	<h4>Enviar Comentário</h4>
+</div>
+
+		
+		Para enviar comentários, você precisa estar cadastrado
+
+		e logado no nosso site. Para se cadastrar, clique <a href="cadastro.asp"><strong>Aqui</strong></a>. Para fazer login, clique <a href="login.asp"><b>Aqui</b></a> ou <fb:login-button scope="public_profile,email" size="medium"  id="botao" style="font-size:1px; color:#000" onlogin="checkLoginState();" >Conecte com Facebook</fb:login-button>.
+		
+                </div><!--END SPAN 12-->
+            </div><!--END ROW FLUID-->
+            
+
+            <!--ÚLTIMAS NOTÍCIAS-->
+            <div class="row-fluid" noticias>
+                <div class="row-fluid">
+                    <div class="span12">
+                        <h2 class="h2-titulo">Últimas notícias</h2>
+                    </div>
+                </div>
+                    
+                <div class='row-fluid'>
+	<div class='span12'>
+		<ul class='ultimas-noticias'>
+ 			<span class='label label-info'>17/2/2016</span>
+<li>
+   <a href='news.asp?nID=29253'>
+    <span>21:20:</span> Por que Marcelo Oliveira tem que permanecer no cargo
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29252'>
+    <span>21:18:</span> River-URU 2x2 Palmeiras: foi ruim, mas foi bom
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29251'>
+    <span>21:14:</span> Emprestado, Felipe Menezes j&#225; veste camisa da Ponte Preta
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29250'>
+    <span>21:12:</span> Pol&#234;mica sobre arena do Palmeiras depende de visita da Conmebol
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29249'>
+    <span>20:07:</span> CBF lan&#231;a Comit&#234; de Reforma nesta quinta-feira
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29248'>
+    <span>20:05:</span> Bom Senso se posiciona contra a&#231;&#227;o da FPF e faz campanha: #LiberaFaixa
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29247'>
+    <span>19:12:</span> Palmeiras sonda Diego, diz TV
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29246'>
+    <span>17:52:</span> Joga pedra no Marcelo...
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29245'>
+    <span>17:07:</span> <b>ENQUETE: Voc&#234; acha que Gabriel deveria voltar no lugar de Arouca ?</b>
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29244'>
+    <span>17:07:</span> &#211;timo empate! S&#243; se for para o treinador
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29243'>
+    <span>16:18:</span> <b>EXCLUSIVO: Empres&#225;rio revela interesse do Palmeiras em atacante do Figueirense</b>
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29242'>
+    <span>15:46:</span> Falhas defensivas voltam a atormentar Palmeiras na estreia da Libertadores
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29241'>
+    <span>15:41:</span> De olho no Palmeiras, Santos treina jogadas de lado e sa&#237;da de bola
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29240'>
+    <span>15:04:</span> Prass nega problemas entre jogadores e t&#233;cnico no Palmeiras
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29239'>
+    <span>15:01:</span> Prefeitura cobra R$ 300 mi de times de S&#227;o Paulo, mas vereadores pedem anistia
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29238'>
+    <span>14:36:</span> Palmeiras corta rede de boatos e garante paz interna
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29237'>
+    <span>14:21:</span> Pol&#234;mica sobre arena do Palmeiras se prolonga e depende de visita da Conmebol
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29236'>
+    <span>14:13:</span> Capit&#227;o do Santos diz conhecer o Palmeiras: 'Vamos criar dificuldades'
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29234'>
+    <span>13:53:</span> DataESPN analisa: O que faz do Palmeiras um time pouco coletivo?
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29233'>
+    <span>13:38:</span> Ranking de venda de camisas no 2&#186; semestre de 2015
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29232'>
+    <span>13:17:</span> BLOG: Cornetas da raz&#227;o
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29231'>
+    <span>12:36:</span> Palmeiras entra na briga por Clayton
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29230'>
+    <span>12:31:</span> Ano com t&#237;tulo de Libertadores vale, na m&#233;dia, R$ 50 milh&#245;es a mais no cofre
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29229'>
+    <span>12:27:</span> Palmeiras nega turbul&#234;ncia criada por altera&#231;&#245;es de Marcelo Oliveira
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29228'>
+    <span>12:25:</span> BLOG: Libertadores...
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29227'>
+    <span>12:22:</span> Palmeiras inicia campanha de combate ao mosquito da dengue; fa&#231;a sua parte!
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29226'>
+    <span>12:15:</span> Palmeiras lan&#231;a cole&#231;&#227;o de camisetas especiais para Copa Libertadores; confira
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29225'>
+    <span>11:33:</span>  N&#250;meros da Bola: S&#243; Jesus (se) salva!
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29224'>
+    <span>11:30:</span> Gin&#225;stica do Palmeiras dan&#231;a no ritmo do Carna Folia; confira a programa&#231;&#227;o
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29223'>
+    <span>11:24:</span> Prass se espanta com insinua&#231;&#227;o de grupo rachado: &quot;Criatividade absurda&quot;
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29222'>
+    <span>10:48:</span> <b>'Satisfeito' com ponto somado, Palmeiras desembarca pensando no Santos</b>
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29221'>
+    <span>10:41:</span> Venda de ingressos nas bilheterias para cl&#225;ssico contra Santos; um setor esgotado
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29220'>
+    <span>10:08:</span> Bayern tamb&#233;m &#233; obrigado a esconder Allianz, como Palmeiras ter&#225; que fazer
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29219'>
+    <span>10:04:</span> <b>Erik defende Marcelo, e Thiago Santos cobra postura dos jogadores</b>
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29218'>
+    <span>10:02:</span> Z&#233; Roberto elogia esquema com tr&#234;s volantes de Marcelo Oliveira
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29217'>
+    <span>09:12:</span> Santos quer usar press&#227;o sobre Marcelo Oliveira a seu favor no cl&#225;ssico
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29215'>
+    <span>08:32:</span> Bandeira surge como favorito para ser o titular da Apfut; Atletas tamb&#233;m querem presen&#231;a feminina
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29214'>
+    <span>08:30:</span> Robinho diz respeitar decis&#227;o do treinador e v&#234; Palmeiras mais brigador ap&#243;s estreia
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29213'>
+    <span>08:25:</span> <b>Atletas defendem Marcelo Oliveira; Z&#233; Roberto v&#234; time &quot;fechado&quot; com t&#233;cnico</b>
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29212'>
+    <span>08:00:</span> <b>Palmeiras revive fantasma e v&#234; defesa sofrer seis gols em quatro partidas </b>
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29211'>
+    <span>07:58:</span> Resolu&#231;&#227;o do Conselho do Esporte: Regulamento ser&#225; a base para exig&#234;ncia de CND
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29210'>
+    <span>07:46:</span> Marcelo Oliveira ignora 'press&#227;o' ap&#243;s quarto jogo sem vit&#243;ria em 2016
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29209'>
+    <span>07:44:</span> &quot;Forr&#243; do Gerson&quot; e feij&#227;o na cara: causos de Marcos que est&#227;o bombando
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29208'>
+    <span>07:35:</span> An&#225;lise: entre novo esquema e velhos erros, Palmeiras desperdi&#231;a chance
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29207'>
+    <span>00:38:</span> Marcelo v&#234; evolu&#231;&#227;o no Palmeiras, mas lamenta: &quot;Pod&#237;amos aproveitar&quot;
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29206'>
+    <span>00:37:</span> Ap&#243;s empate, M. Oliveira v&#234; superioridade do Verd&#227;o e elogia &#8216;esp&#237;rito&#8217; do time
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29205'>
+    <span>00:35:</span> Vitor Hugo e Gabriel Jesus lamentam empate, mas ressaltam dedica&#231;&#227;o da equipe
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29204'>
+    <span>00:29:</span> <b>M. Oliveira diz que Palmeiras tem obriga&#231;&#227;o de vencer em casa ap&#243;s empate</b>
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29203'>
+    <span>00:25:</span> <b>Gabriel Jesus cita m&#237;stica da camisa 12 e minimiza a reserva no Palmeiras</b>
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29202'>
+    <span>00:22:</span> Gols, River Plate-URU 2 x 2 Palmeiras - Libertadores 16/02/2016
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29200'>
+    <span>00:15:</span> Palmeiras 'bobeia' e trope&#231;a no River Plate-URU em estreia
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29199'>
+    <span>00:13:</span> Palmeiras domina partida no Uruguai, mas fica no empate com River Plate
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29198'>
+    <span>00:10:</span> Conmebol se pronuncia e diz que n&#227;o visitou Allianz, mas mant&#233;m d&#250;vida
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29197'>
+    <span>00:06:</span> Palmeiras cede empate duas vezes e trope&#231;a na estreia da Libertadores
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29196'>
+    <span>00:00:</span> Mudado, Palmeiras fica duas vezes &#224; frente, mas empata no Uruguai
+   </a>
+</li>
+</ul>
+		<ul class='ultimas-noticias'>
+ 			<span class='label label-info'>16/2/2016</span>
+<li>
+   <a href='news.asp?nID=29195'>
+    <span>23:59:</span> Atua&#231;&#245;es do Palmeiras: Gabriel Jesus entra bem; Jean faz gol, mas vacila
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29194'>
+    <span>23:21:</span> <b> Gol de Gabriel Jesus, River Plate-URU 2 x 2 Palmeiras - Libertadores 16/02/2016</b>
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29193'>
+    <span>23:18:</span> <b>Gol de Jean, River Plate-URU 0 x 1 Palmeiras - Libertadores 16/02/2016</b>
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29192'>
+    <span>21:10:</span> <b>Verd&#227;o lan&#231;a camisetas para palmeirenses usarem na Libertadores</b>
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29191'>
+    <span>20:13:</span> 13 mil ingressos vendidos e Gol Norte esgotado; come&#231;a venda geral pela internet
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29190'>
+    <span>20:03:</span> Gabriel Jesus assume a camisa 12 na Copa Libertadores; confira lista completa
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29189'>
+    <span>20:00:</span> Tonh&#227;o exibe tatuagem do Verd&#227;o e encontra torcida em loja oficial de Catanduva
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29188'>
+    <span>18:29:</span> O time de perebas do Palmeiras para a estreia na Libertadores
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29187'>
+    <span>17:55:</span> <b>De Fusca verde, palmeirenses viajam 1.900 km para ver estreia no Uruguai</b>
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29186'>
+    <span>17:14:</span> Mais um tumulto na gest&#227;o do Allianz Parque
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29185'>
+    <span>16:52:</span> Agente diz que Leandro Almeida n&#227;o deixa Palmeiras: 'Ele teve oferta de fora e negou'
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29184'>
+    <span>15:54:</span> Renato minimiza 'troca de farpas' com o Palmeiras em 2015: 'Ano novo, cl&#225;ssico novo'
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29183'>
+    <span>15:51:</span> Antes da estreia na Libertadores, Barrios diz que Palmeiras vai 'brigar sempre'
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29182'>
+    <span>15:33:</span> Gestora do Allianz Parque deixa parceria com a WTorre ap&#243;s rescis&#227;o 
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29181'>
+    <span>14:46:</span>  Fotos: Relembre as &#250;ltimas estreias do Verd&#227;o na Libertadores
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29180'>
+    <span>14:29:</span> For&#231;a da arena empurra o Palmeiras na Copa Libertadores
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29179'>
+    <span>14:26:</span> Conselheiros: Se perder, Oliveira ser&#225; demitido
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29178'>
+    <span>14:22:</span> V&#205;DEO: Pressionado, Palmeiras estreia na Libertadores contra o River Plate-URU 
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29177'>
+    <span>13:59:</span> Palmeiras costuma ir bem no jogo de estreia da Libertadores
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29176'>
+    <span>13:43:</span> Rom&#225;rio escreve aos senadores da CPI do Futebol e pede cumprimento de acordo
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29175'>
+    <span>13:42:</span> Cereto defende Marcelo Oliveira e diz que dirigentes deveriam ser cobrados
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29174'>
+    <span>13:30:</span> <b>Descontente, WTorre rompe com administradora da arena do Palmeiras</b>
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29173'>
+    <span>13:07:</span> Esporte Interativo confirma negocia&#231;&#227;o por Brasileir&#227;o
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29172'>
+    <span>12:30:</span> Fuga precoce do rebaixamento faz da edi&#231;&#227;o 2016 o Paulist&#227;o dos empates
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29171'>
+    <span>11:38:</span> <b>Agora com a 12, Gabriel Jesus quer repetir Marcos e ganhar Libertadores</b>
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29170'>
+    <span>11:12:</span> Palmeiras de Marcelo Oliveira j&#225; reagiu em momentos ruins; veja os jogos
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29169'>
+    <span>11:05:</span> Deu ruim no estilo...
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29168'>
+    <span>11:02:</span> Lista: dez nomes de promessas da Libertadores
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29167'>
+    <span>10:01:</span> Libertadores, grupo 2: Palmeiras tem tradi&#231;&#227;o uruguaia e argentino em chave equilibrada
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29166'>
+    <span>09:38:</span> Palmeiras busca 77&#170; vit&#243;ria na Liberta. Veja brasileiros que mais ganharam
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29165'>
+    <span>09:31:</span> Palmeiras larga em busca do bi
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29164'>
+    <span>09:28:</span> <b>Nacional, um time a ser batido no Grupo 2 da Libertadores</b>
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29163'>
+    <span>09:11:</span> <b>Palmeiras copeiro: metade do elenco tem experi&#234;ncia em Libertadores</b>
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29162'>
+    <span>08:39:</span> <b>Barrios promete empenho para comprovar prioridade &#224; Libertadores</b>
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29161'>
+    <span>08:29:</span> <b>Santos quer superar fantasmas e j&#225; projeta cl&#225;ssico com Palmeiras</b>
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29160'>
+    <span>08:27:</span> Estaduais: Corinthians e Bota s&#227;o os &#250;nicos da S&#233;rie A com campanha 100%
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29159'>
+    <span>08:20:</span> Arrumadinho, mas com vento forte: Palmeiras visita est&#225;dio da estreia
+   </a>
+</li>
+<li>
+   <a href='news.asp?nID=29158'>
+    <span>07:55:</span> Ainda inst&#225;vel, Palmeiras estreia na Libertadores contra River do Uruguai
+   </a>
+</li>
+</ul>
+</div>
+
+            </div>
+            </div>
+            <!--END NOTÍCIAS-->
+        </div>
+        <!--COLUNA ESQUERDA-->
+		        <!--COLUNA DIREITA-->
+        <div class="span5">
+				            <div class="row-fluid banner300x250">
+
+
+
+<div id="TerraAdvertising" data-keyvalues="" data-clicktag=""></div>
+<script type="text/javascript" src="http://p2.trrsf.com/tagmanfe/ShowArea.aspx?key=br.cobranded_verdaonaweb2.home.right1&direct=1"></script>
+
+
+            </div>
+				<!-- include file="foruminicialnew.asp" -->
+             	<div class='row-fluid mais-lidas'>
+    <h4>Not&#237;cias mais lidas</h4>
+<div class='row-fluid'>
+		   <div class='span6 line'>
+            <a href='news.asp?nID=29010'>
+                <img src='http://www.khaleejtimes.com/storyimage/KT/20150717/ARTICLE/307169796/AR/0/AR-307169796.jpg&MaxW=780&imageVersion=16by9' alt='Na mira do Flu, Thiago Neves pode pintar no Palmeiras' class='img-rounded'>
+                Na mira do Flu, Thiago Neves pode pintar no Palmeiras
+        	   </a>
+        </div>
+		   <div class='span6 line'>
+            <a href='news.asp?nID=29149'>
+                <img src='http://imguol.com/c/esporte/52/2015/08/19/cleiton-xavier-corre-para-comemorar-com-a-torcida-apos-abrir-o-placar-para-o-palmeiras-1440035687657_1920x1080.jpg' alt='EXCLUSIVO: Palmeiras ganha refor&#231;o para a disputa da Libertadores - Por Raony Coronado' class='img-rounded'>
+                EXCLUSIVO: Palmeiras ganha refor&#231;o para a disputa da Libertadores - Por Raony Coronado
+        	   </a>
+        </div>
+</div>
+<div class='row-fluid'>
+		   <div class='span6 line'>
+            <a href='news.asp?nID=29006'>
+                <img src='http://cdn.torcedores.com/content/uploads/2016/01/tevez1.jpg' alt='EXCLUSIVO: Palmeiras pode ganhar mais um refor&#231;o de peso no ataque' class='img-rounded'>
+                EXCLUSIVO: Palmeiras pode ganhar mais um refor&#231;o de peso no ataque
+        	   </a>
+        </div>
+		   <div class='span6 line'>
+            <a href='news.asp?nID=29019'>
+                <img src='http://a.espncdn.com/combiner/i/?img=/photo/2015/1105/soc_g_tevez_d1_1296x729.jpg&w=738&site=espnfc' alt='Empres&#225;rio descarta troca de Tevez por palmeirenses' class='img-rounded'>
+                Empres&#225;rio descarta troca de Tevez por palmeirenses
+        	   </a>
+        </div>
+</div>
+<div class='row-fluid'>
+		   <div class='span6 line'>
+            <a href='news.asp?nID=29136'>
+                <img src='http://cdn.espn.com.br/image/wide/622_b532cbe9-9c94-3c82-bea3-c65fd6a4fab2.jpg' alt='Titular do Palmeiras em 2015, Victor Ramos volta ao Vit&#243;ria' class='img-rounded'>
+                Titular do Palmeiras em 2015, Victor Ramos volta ao Vit&#243;ria
+        	   </a>
+        </div>
+		   <div class='span6 line'>
+            <a href='news.asp?nID=29127'>
+                <img src='http://s2.glbimg.com/jl28RxemLR6tawZqrjibydYT6K8=/128x0:935x1068/300x397/s.glbimg.com/es/ge/f/original/2016/02/13/rib6601.jpg' alt='Pai de jogador sugere &quot;racha&quot; no grupo do Palmeiras, conta Avallone' class='img-rounded'>
+                Pai de jogador sugere &quot;racha&quot; no grupo do Palmeiras, conta Avallone
+        	   </a>
+        </div>
+</div>
+<div class='row-fluid'>
+		   <div class='span6 line'>
+            <a href='news.asp?nID=29231'>
+                <img src='http://interopatraodosul.com.br/wp-content/uploads/2015/10/21275365632_8676704414_o.jpg' alt='Palmeiras entra na briga por Clayton' class='img-rounded'>
+                Palmeiras entra na briga por Clayton
+        	   </a>
+        </div>
+		   <div class='span6 line'>
+            <a href='news.asp?nID=29150'>
+                <img src='http://www.pasionfutbol.com/__export/1441896373820/sites/pasionlibertadores/img/noticias/2015/09/10/leandro.jpg_1151390924.jpg' alt='EXCLUSIVO: Palmeiras boicota Leandro Almeida e deixa zagueiro de fora da Libertadores - Por Raony Coronado' class='img-rounded'>
+                EXCLUSIVO: Palmeiras boicota Leandro Almeida e deixa zagueiro de fora da Libertadores - Por Raony Coronado
+        	   </a>
+        </div>
+</div>
+<div class='row-fluid'>
+		   <div class='span6 line'>
+            <a href='news.asp?nID=29113'>
+                <img src='http://4.bp.blogspot.com/-s4wjTcB6bOs/VhWBQNnNx6I/AAAAAAAAAd0/n65Fugu6Pew/s640/Figueirense-Botafogo-Clayton-comemora-640x480-getty.jpg' alt='Galo, Corinthians e Palmeiras brigam por Clayton' class='img-rounded'>
+                Galo, Corinthians e Palmeiras brigam por Clayton
+        	   </a>
+        </div>
+		   <div class='span6 line'>
+            <a href='news.asp?nID=29243'>
+                <img src='http://img.meutimao.com.br/_upload/noticia/2015/10/ao_lado_de_luciano_clayton_foi_um_dos_destaques_u1.jpg' alt='EXCLUSIVO: Empres&#225;rio revela interesse do Palmeiras em atacante do Figueirense' class='img-rounded'>
+                EXCLUSIVO: Empres&#225;rio revela interesse do Palmeiras em atacante do Figueirense
+        	   </a>
+        </div>
+</div>
+    <div class='row-fluid'>
+    		<div class='span12'>
+    			<button class='btn btn-small btn-danger' type='button' onclick=window.location.href='noticias2.asp'>Ver todas as noticias</button>
+    		</div>
+    	</div>
+ </div>
+            <div class="row-fluid banner300x250">
+
+<!-- Right 2 (300x600 / 300x250) -->
+<div id="TerraAdvertising" data-keyvalues="" data-clicktag=""></div>
+<script type="text/javascript" src="http://p2.trrsf.com/tagmanfe/ShowArea.aspx?key=br.cobranded_verdaonaweb2.home.right1&direct=1"></script>
+
+
+            </div>            <!--GATAS DA TORCIDA-->
+            <div class="row-fluid gatas">
+                <h4>Galeria de gatas palmeirenses</h4>
+                <div class="row-fluid line">
+                    <div class="span12"> 
+                        <a href="news.asp?nID=45"><img src="http://globoesporte.globo.com/platb/files/166/2008/09/ariane2.jpg" class="img-rounded"></a>
+                    </div>
+                </div>
+              
+                <div class="row-fluid" style="margin-top:10px;">
+                    <div class="span12">
+                        <button class="btn btn-small btn-success" type="button" onclick="window.location.href='news.asp?nID=45'">Ver galeria completa</button>
+                    </div>
+                </div>
+            </div>
+            <!--END GATAS-->            <div class="row-fluid banner300x250">
+<!-- Right 3 (300x600) -->
+<div id="TerraAdvertising" data-keyvalues="" data-clicktag=""></div>
+<script type="text/javascript" src="http://p2.trrsf.com/tagmanfe/ShowArea.aspx?key=br.cobranded_verdaonaweb2.home.right2&direct=1"></script>
+            </div><div class='row-fluid jogos'>
+		<div class='proximo-jogo'>
+			<h3 style='font-size:20px'>Pr&oacute;ximo Jogo - Paulista</h3>
+			<div class='clubes'>
+				<span>S&#225;b 20/02 - 17:00 - Allianz Parque - Premiere</span>
+				<div class='time-mandante'>
+					<div class='jogo-escudo-mandante'>
+						<img src='http://verdaoweb.com.br/img/logo_30.png'>
+					</div>
+					<span class='nome'>PAL</span>
+				</div>
+				<div class='time-visitante'>
+					<div class='jogo-escudo-visitante'>
+						<img src='http://e.imguol.com/futebol/brasoes/60x60/santos.png'>
+					</div>
+					<span class='nome'>SAN</span>
+				</div>
+			</div>
+		</div>
+	</div>
+<div class='row-fluid jogos'>
+		<div class='ultimo-jogo'>
+			<h3 style='font-size:20px'>&Uacute;ltimo jogo - Libertadores</h3>
+			<div class='clubes'>
+				<span>Ter 16/02 - 21:45 - Maldonado (URU)</span>
+				<div class='time-mandante'>
+					<div class='jogo-escudo-mandante'>
+						<img src='http://e.imguol.com/futebol/brasoes/60x60/river-plate-uru.png'>
+					</div>
+					<span class='nome'>RIV</span>
+					<div class='placar'>
+						<span class='placar-mandante'>2</span>
+						<span class='placar-visitante'>2</span>
+					</div>
+				</div>
+				<div class='time-visitante'>
+					<div class='jogo-escudo-visitante'>
+						<img src='http://verdaoweb.com.br/img/logo_30.png'>
+					</div>
+					<span class='nome'>PAL</span>
+				</div>
+			</div>
+		</div>
+	</div>
+
+				<!-- include file="inc-coluna-facebox.asp" -->
+   				 <div class="row-fluid classificacao">
+    <h4>Classifica&ccedil;&atilde;o</h4>
+    		<div class='row-fluid'>
+    			<div class='span12'>
+		<img src='http://i.imgur.com/UyKYPQA.png' width='100%' />	  </div>
+	</div>
+</div>
+		        <!-- include file="inc-banner4-home.asp" -->
+        </div>
+    </div>
+
+    </div>
+</div>
+        </div>
+        <!--END CONTAINER-->
+        <!--FOOTER-->
+        <div class="container-fluid footer">
+            <div class="container">
+                <div class="row-fluid">
+                    <div class="span12">
+                        <address>
+                            <p>Palmeiras - Todos os direitos reservados &reg;</p>
+                            <p>Desenvolvido por: <a href="http://rokdesign.com.br" target="_blank">Rok Design</a> - Hoje: 18/02/2016 - 16:48</p>
+                        </address>
+                        <a href="#voltar-topo" name="myAnchor" id="myAnchor" class="anchorLink"><i class="icon-circle-arrow-up icon-black"></i>&ensp;Voltar ao topo</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--END FOOTER-->
+	<script language="javascript">terra_stats_metrics();</script>
+	<script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-48729011-2', 'verdaoweb.com.br');
+      ga('send', 'pageview');
+    
+    </script>
+    </body>
+</html>

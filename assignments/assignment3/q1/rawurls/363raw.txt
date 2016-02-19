@@ -1,0 +1,770 @@
+
+<!doctype html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+	
+	<meta charset="UTF-8">
+	<style id="atf-css">
+		.site-logo {
+			width: 175px;
+			height: 54px;
+			background-repeat: no-repeat;
+			background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAAA2CAMAAACGJTnMAAAC+lBMVEUAAAD////////////l6wTR1gT////////////////////o7QX////////////+/v7////////////////////////////////////////////n7QTn7AX////////////////////////////X3QX///3////////////////////k6QT////////////////////////////////////////////////////////l6gXn7QT///////7////////////////////////////////////////////////////////////////////f6QP////////////////////////////i7AP////////////////////////////////////////////h6wP////////////////////////n7AUXGgApKwH////m8gIvMggcIAAjJwENDgH///////////8SFADh6QMJCgEGCAH///8wNQD+/v7m+wAOEQEPEgHg8AEJCwBlagIaHQAmKQ+4wQOwtgObnwO6ywAKDAEJCgArLwEGBwAREwA1OAF0ewL////g8AGMlgHm+QG3wwEICgAMDgBKTgGbpQG/yQKNlQKuswMREwEYGwGytgTe6wJCRgHB0gAOEAEaHQGdpgGgrQAkJgHl+gCGkQDn+wG+yQLb7QAcHwGfqAJrbwInKwDm9wFucgJARAGmqwSEiANgZgKJjgFxdU0dHRzh9QAWGQGfrQBHTQHp/wDh9gAxMyHq/wBdX05WXgEiJgE8PTmaqADa7AFJTgFWXQFmcAH+/vK0xABsdgKAjADG1wBkbgFcYQLA0QCqtQJxc2gJCwGXl5Hl5eTO3gFbXwNUVwLQ3QITFQHGyI/g7QPb5wO+wL6sswN7hQH///9tbl+coQOxsquXl5X///8QEgAHCQAXGgHp/wDm+wBkbgFITwEjJwHh9QDZ7ADJ2wCxwQCVogBXWFRVXgE4PgErLwGfrgCJlgBCQzM2OCasuwDw9nSfAAAA53RSTlMA8gf4AgED+f7SHATo43kgTA0oCghI+863aV0OCerb1L6pcSsIBbQ5MRgPBt6amGRWPzMjEsaMW0IUEgwBwrukg1lKBPTu4Neej4hrTkUuHRbszLGu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');
+		}
+		@media screen and (min-width: 61.25em) {
+
+			.featured {
+				height:456px;
+			}
+			.main-menu-container {
+				font: 1.125em "Fjalla", sans-serif !important;
+			}
+			.site-logo {
+				width: 258px;
+				height: 79px;
+				background-repeat: no-repeat;
+				background: url('data:image/png;base64,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') !important;
+			}
+		}
+	</style>
+	
+	<script type="text/javascript" src="//ox-d.evolvemedia.servedbyopenx.com/w/1.0/jstag?nc=4403-ComingSoon"></script>
+<script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+        var gads = document.createElement("script");
+        gads.async = true;
+        gads.type = "text/javascript";
+        var useSSL = "https:" == document.location.protocol;
+        gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+        var node =document.getElementsByTagName("script")[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>				<script>
+				PB                      = window.PB || {};
+				PB.gptAds               = PB.gptAds || {};
+				PB.gptWaitSidebarLoaded = false;
+
+				googletag.cmd.push(function() {
+					PB.gptAds['adoop'] = googletag.defineOutOfPageSlot('/4403/cr/comingsoon/tv', 'adoop').addService(googletag.pubads());
+					googletag.pubads().setTargeting('ct', 'article').setTargeting('ci', '655965').setTargeting('kw', 'gilmore-girls,netflix,netflix-original-series,streaming,tv,tv-news,tv-premiere-dates').setTargeting('coppa', '0').setTargeting('site', 'comingsoon');
+					googletag.pubads().enableSingleRequest();
+					googletag.pubads().disableInitialLoad();
+					googletag.pubads().collapseEmptyDivs(true);
+					googletag.enableServices();
+				});
+				</script>
+				<meta name="fragment" content="!">
+<!-- This site is optimized with the Yoast WordPress SEO Premium plugin v2.0.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Gilmore Girls Netflix Plans Revealed - ComingSoon.net</title>
+<meta name="description" content="Full details have now been revealed for the Gilmore Girls Netflix revival. Find out who else will be returning for four brand new 90 minute episodes."/>
+<link rel="canonical" href="http://www.comingsoon.net/tv/news/655965-gilmore-girls-netflix-revival" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Gilmore Girls Netflix Plans Revealed - ComingSoon.net" />
+<meta property="og:description" content="Full details have now been revealed for the Gilmore Girls Netflix revival. Find out who else will be returning for four brand new 90 minute episodes." />
+<meta property="og:url" content="http://www.comingsoon.net/tv/news/655965-gilmore-girls-netflix-revival" />
+<meta property="og:site_name" content="ComingSoon.net" />
+<meta property="article:publisher" content="https://www.facebook.com/comingsoon" />
+<meta property="article:tag" content="gilmore girls,Netflix,Netflix Original Series,streaming,tv news,TV Premiere Dates" />
+<meta property="article:section" content="TV" />
+<meta property="article:published_time" content="2016-02-10T17:09:28+00:00" />
+<meta property="article:modified_time" content="2016-02-11T00:04:57+00:00" />
+<meta property="og:updated_time" content="2016-02-11T00:04:57+00:00" />
+<meta property="og:image" content="http://cdn1-www.comingsoon.net/assets/uploads/2016/02/gilmorefeat.jpg" />
+<!-- / Yoast WordPress SEO Premium plugin. -->
+
+
+	<script type="text/javascript">//<![CDATA[
+var _gaq = _gaq || [],
+	PB   = window.PB || {};
+
+PB.GAAccounts = ["UA-316697-10"];
+PB.GAAuthor   = 'Silas Lesnick';
+PB.baseDomain = 'comingsoon.net';
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	//]]></script>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.comingsoon.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=596"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' type='text/css' media='all' href='http://cdn3-www.comingsoon.net/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/pb-movies/assets/css/select2.css,wp-content/plugins/pb-slideshow/assets/css/slideshow.css,wp-content/plugins/pb-cover-panel/widget/assets/css/jquery.coverpanel.css,wp-content/themes/comingsoon/css/cs.css&amp;ver=16330' />
+<link rel='stylesheet' type='text/css' media='screen' href='http://cdn1-www.comingsoon.net/wp-content/plugins/bwp-minify/min/?f=wp-content/mu-plugins/general-css/general-styles.css,wp-content/plugins/nextgen-gallery/css/nggallery.css&amp;ver=16330' />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var asOptions = {"placements":"Ua0dBf,ScoERO,u4BOEy,xNbspU,qZ8f54","gateway_bool":"enabled","prebid_bool":"enabled"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn1-www.comingsoon.net/wp-content/plugins/bwp-minify/min/?f=libraries/pebblebed/js/gn_country.js,wp-content/plugins/pb-audience-science/lib/js/audience-science.js,wp-content/plugins/pebblebed/media/js/pb.core.js,wp-content/plugins/pebblebed/media/js/modernizr.js,wp-content/plugins/pebblebed/media/js/postscribe.min.js,wp-content/plugins/pebblebed/media/js/jquery.ba-resize.js,wp-content/plugins/wp-evolve-gpt/js/pb.resize-iframe.js,wp-content/plugins/wp-evolve-gpt/js/pb.gpt-builder.js&amp;ver=16330'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.comingsoon.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.comingsoon.net/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='http://www.comingsoon.net/?p=655965' />
+			<script>
+				(function (win) {
+					var PB = win.PB || {};
+
+					PB.wpQueryVars = {
+						query: 'a:9:{s:13:\"category_name\";s:2:\"tv\";s:3:\"tag\";s:0:\"\";s:1:\"p\";i:655965;s:8:\"pagename\";s:0:\"\";s:9:\"post_type\";s:0:\"\";s:11:\"author_name\";s:0:\"\";s:8:\"taxonomy\";s:0:\"\";s:4:\"term\";s:0:\"\";s:4:\"home\";i:0;}'
+					};
+
+					win.PB = PB;
+				}(window));
+			</script><script async="async" data-client-id="jGaUosMPBEykITP" type="text/javascript" src="//d3qxwzhswv93jk.cloudfront.net/esf.js"></script>
+<script>
+var pwidget_config = {
+    defaults: {
+        sharePopups: true,
+    }
+};
+</script><script>ggv2id='ff1a68a1';</script><script src="https://g2.gumgum.com/javascripts/ggv2.js"></script><script type='text/javascript' src='//cdn.connatix.com/min/connatix.handler.dfp.min.js'></script><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script><meta name="p:domain_verify" content="9e8e89391dec86be0ce3b4f89d42189a"/><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.2";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<style>
+.fb_iframe_widget {
+    margin: 0 auto 1.6em;
+}
+</style><style type="text/css">
+
+article.type-post .article-content p img[style*="float: left"], article.type-post .article-content p img.alignleft {
+  width: auto;
+}
+
+div[id^="creative"] {
+    margin: 0 auto;
+}
+
+/* Tablet and up only */
+@media screen and (min-device-width: 730px) {
+   .roadblock {
+      min-height:80px;
+    }
+
+  .home-right.first-sidebar .widget_evolve_ad_gpt_widget {
+    float:right;
+  }
+
+  .pbslideshow-navigation {
+     background-color: transparent;
+  }
+}
+#disqus_thread {
+    max-height: 9999px!important;
+}
+</style><meta name="google-site-verification" content="CoiZhYsfDKzDd_0NewV5MeATmTN6a98ZLT6RU0DCJm4" /><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '8043B9ADA2DA4D1B';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+	
+		<div id="text-36" class="widget_text">			<div class="textwidget"><script type="text/javascript"  src="//www.zergnet.com/zerg-inf-multi.js" async></script></div>
+		</div>
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="pingback" href="http://www.comingsoon.net/xmlrpc.php" />
+	<link rel="shortcut icon" type="image/x-icon" href="http://cdn1-www.comingsoon.net/wp-content/themes/comingsoon/favicon.ico" />
+	<link rel="apple-touch-icon" href="http://cdn3-www.comingsoon.net/wp-content/themes/comingsoon/touch-icon-iphone.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="http://cdn2-www.comingsoon.net/wp-content/themes/comingsoon/touch-icon-ipad.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="http://cdn2-www.comingsoon.net/wp-content/themes/comingsoon/touch-icon-iphone-retina.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="http://cdn2-www.comingsoon.net/wp-content/themes/comingsoon/touch-icon-ipad-retina.png" />
+
+</head>
+<body class="single single-post postid-655965 single-format-standard">
+
+<div class="wrapper">
+	<div class="container-header contain">
+		<header id="header" class="header js-fixed-header fixed-header">
+			<div class="container-top-header">
+				<div class="top-header">
+
+					<a class="site-logo" href="http://www.comingsoon.net/" rel="home" title="ComingSoon.net | New Movies, Movie Trailers, DVD, TV &amp; Video Game News!">
+						ComingSoon.net | New Movies, Movie Trailers, DVD, TV &amp; Video Game News!					</a>
+
+					<div class="site-header-social">
+						<a target="_blank" class="site-header-social-icon fb" title="Comingsoon on Facebook" href="https://www.facebook.com/comingsoon">Comingsoon on Facebook</a>
+						<a href="https://twitter.com/comingsoonnet" class="twitter-follow-button" data-size="large" data-show-count="false" data-show-screen-name="false"></a>
+						<a target="_blank" class="site-header-social-icon tw" title="Follow us on Twitter" href="https://twitter.com/comingsoonnet">Follow us on Twitter</a>
+						<a target="_blank" class="site-header-social-icon yt" title="Follow us on Youtube" href="https://www.youtube.com/user/comingsoonvideo">Follow us on Youtube</a>
+						<a target="_blank" class="site-header-social-icon gplus" title="Comingsoon on Google plus" href="https://plus.google.com/+comingsoon">Comingsoon on Google plus</a>
+						<a target="_blank" class="site-header-social-icon pinterest" title="Comingsoon on Pinterest" href="https://www.pinterest.com/comingsoonnet/">Comingsoon on Pinterest</a>
+						<a target="_blank" class="site-header-social-icon instagram" title="Comingsoon on Instagram" href="https://instagram.com/comingsoonnet/">Comingsoon on instagram</a>
+						<a target="_blank" class="site-header-social-icon rss" title="Comingsoon on Google plus" href="http://www.comingsoon.net/feed">Comingsoon on RSS</a>
+					</div>
+
+					<a id="js-toggle-menu" class="toggle-button toggle-menu" href="http://www.comingsoon.net"><span>Menu</span></a>
+
+				</div>
+			</div>
+
+			<div class="container-nav">
+				<nav class="main-nav clearfix">
+					<div class="main-menu-container btn-decoration"><ul id="menu-main-menu" class="menu"><li id="menu-item-377071" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-377071"><a href="/">Home</a></li>
+<li id="menu-item-287373" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-287373"><a href="http://www.comingsoon.net/movies" >Movies</a>
+<ul class="sub-menu">
+	<li id="menu-item-468085" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-468085"><a href="http://www.comingsoon.net/hub/movie-reviews" >Movie Reviews</a></li>
+	<li id="menu-item-468087" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-468087"><a href="http://www.comingsoon.net/hub/movie-news" >Movie News</a></li>
+</ul>
+</li>
+<li id="menu-item-287383" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-287383"><a href="http://www.comingsoon.net/tv" >TV</a></li>
+<li id="menu-item-287381" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-287381"><a href="http://www.comingsoon.net/games" >Games</a>
+<ul class="sub-menu">
+	<li id="menu-item-468153" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-468153"><a href="http://www.comingsoon.net/hub/video-game-news" >Video Game News</a></li>
+</ul>
+</li>
+<li id="menu-item-295875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-295875"><a href="http://www.comingsoon.net/trailers" >Trailers</a></li>
+<li id="menu-item-287379" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-287379"><a href="http://www.comingsoon.net/dvd" >DVD</a>
+<ul class="sub-menu">
+	<li id="menu-item-376951" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-376951"><a href="http://www.comingsoon.net/dvd/dvd-releases" >DVD Releases</a></li>
+	<li id="menu-item-376949" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-376949"><a href="http://www.comingsoon.net/dvd/blu-ray-releases" >Blu-Ray Releases</a></li>
+</ul>
+</li>
+<li id="menu-item-287375" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287375"><a href="http://www.comingsoon.net/extras" >Extras</a></li>
+</ul></div>
+										<div class="clearfix top-nav-widget">
+						<div id="search-3" class="search-form-wrapper widget_search">
+<form method="get" id="searchform" class="search-form" action="http://www.comingsoon.net/search">
+	<label for="s" class="search-label">Search</label>
+	<input type="text" class="search-field" name="q" id="s" value="" placeholder="Search">
+	<input type="submit" title="Search" class="search-submit ir" name="submit" id="searchsubmit" value="Search">
+</form>
+</div>						<a id="js-toggle-search" class="toggle-button toggle-search" href="#search"><span>Search</span></a>
+					</div>
+									</nav>
+			</div>
+		</header>
+	</div>
+
+	<div id="roadblock" class="roadblock contain">
+		<div id="evolve_ad_gpt_widget-9" class="leaderboard-ad-container widget_evolve_ad_gpt_widget">
+			<div id="tv_970x90x728x90_a_slot9"
+				data-id="tv_970x90x728x90_a_slot9"
+				data-offset="300"
+				class="gpt-ad">
+
+			
+				
+				<script type='text/javascript'>
+
+					PB				= PB || {};
+					gptAds			= PB.gptAds || {};
+					var opts		= {"asBool":true,"asID":"Ua0dBf","adUnit":"\/4403\/cr\/comingsoon\/tv","adDiv":"tv_970x90x728x90_a_slot9","sizeStr":"[[970, 90],[728, 90]]","mapping":[{"viewport":"[0, 0]","sizes":"[[320, 150],[320, 100],[320, 50]]"},{"viewport":"[750, 0]","sizes":"[[728, 90]]"},{"viewport":"[980, 0]","sizes":"[[970, 90],[728, 90]]"}],"targeting":{"pos":"A","ct":"article","ci":"655965","kw":"gilmore-girls,netflix,netflix-original-series,streaming,tv,tv-news,tv-premiere-dates","coppa":"0","site":"comingsoon"},"resize":false};
+					PB.waitForAS	= (opts.asBool) ? true : PB.waitForAS || false;
+
+					PB.evGPTBuilder.enqueueAd(opts);
+
+				</script>
+
+			
+			</div>
+
+			</div>	</div>
+
+	<div class="contain">
+		<div class="clearfix main-content content js-main-content">
+<div id="column_content" class="column main article-container js-inview" data-ads-loaded="true" data-is-active="true">
+	<h1 class="post-title">Gilmore Girls Netflix Revival Plans Revealed</h1>
+
+	<div id="column_main main" role="main" class="articles">
+		<!-- Inserting table so bad html in articles don't break layout -->
+		<table class="no-break" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td>
+											<script type="text/template" id="js-single-article">
+							<div class="column main article-container js-inview">
+	<div class="leaderboard-ad js-leaderboard-ad"></div>
+	<header>
+		<h1 class="post-title"><%= title %></h1>
+	</header>
+	<div class="leaderboard-ad desktop js-leaderboard-desktop-ad"></div>
+	<div id="column_main" role="main" class="articles">
+
+		<!-- Inserting table so bad html in articles don't break layout -->
+		<table class="no-break" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+				<td>
+					<article class="js-article post-655965 post type-post status-publish format-standard has-post-thumbnail hentry category-tv tag-gilmore-girls tag-netflix tag-netflix-original-series tag-streaming tag-tv-news tag-tv-premiere-dates pb_article_type-news"						data-id="<%- id %>"
+						data-url="<%- url %>"
+						data-title="<%- title %>">
+						<div class="meta">
+							<div class="author">By
+								<% if (author.link) { %>
+									<a class="listed-article-author" href="<%= author.link %>"><%= author.name %></a>
+								<% } else { %>
+									<%= author.name %>
+								<% } %>
+								ON</div>
+							<div class="date">
+								<time datetime=""><%= date %></time>
+							</div>
+						</div>
+						<div class="js-medium-rectangle-ad"></div>
+						<div class="article-content">
+							<%= content %>
+						</div>
+						<% if (gallery_image_url) { %>
+							<a class="slideshow-preview js-slideshow-preview" href="<%- url %>">
+								<img src="<%- gallery_image_url %>">
+								<span class="btn-watch-trailer slideshow-preview-button">Go TO SLIDESHOW</span>
+								<i class="icon slideshow-preview-icon"></i>
+							</a>
+						<% } %>
+					<div class="load-more load-more-article">
+						<div class="c-wrapper">
+						</div>
+						<div class="js-show-comments btn"
+							data-disqus-shortname="comingsoondotnet"
+							data-disqus-title="<%- title %>"
+							data-disqus-url="<%- disqus_url %>"> show comments </div>
+					</div>
+					<div class="plista_widget_belowArticle js-cs-article-plista-widget"></div>
+					<div class="js-cs-article-zerg-widget zergnet-widget"></div>
+					</article>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<aside class="site-sidebar js-site-sidebar">
+		<div class="site-sidebar-module js-medium-rectangle-ad"></div>
+		<div class="site-sidebar-module js-releases-widget"></div>
+		<div class="site-sidebar-module js-article-sidebar-modules"></div>
+		<div class="site-sidebar-module js-second-promo"></div>
+	</aside>
+</div>
+						</script>
+						<div class="tags-container">
+																					<a href="http://www.comingsoon.net/tag/gilmore-girls" rel="tag">gilmore girls</a> <a href="http://www.comingsoon.net/tag/netflix" rel="tag">Netflix</a> <a href="http://www.comingsoon.net/tag/netflix-original-series" rel="tag">Netflix Original Series</a> <a href="http://www.comingsoon.net/tag/streaming" rel="tag">streaming</a> <a href="http://www.comingsoon.net/tag/tv-news" rel="tag">tv news</a> <a href="http://www.comingsoon.net/tag/tv-premiere-dates" rel="tag">TV Premiere Dates</a>													</div>
+
+						<article class="js-article post-655965 post type-post status-publish format-standard has-post-thumbnail hentry category-tv tag-gilmore-girls tag-netflix tag-netflix-original-series tag-streaming tag-tv-news tag-tv-premiere-dates pb_article_type-news" id="post-655965"
+							data-id="655965"
+							data-url="http://www.comingsoon.net/tv/news/655965-gilmore-girls-netflix-revival"
+							data-title="Gilmore Girls Netflix Revival Plans Revealed">
+
+							<div class="meta clearfix">
+								<div class="meta-info clearfix">
+									<div class="author">By     
+    <a class="listed-article-author" href="http://www.comingsoon.net/author/silas">
+
+        Silas Lesnick
+    </a>
+
+
+ </div>
+
+									
+                					
+									<div class="date"> ON 
+										<time datetime="2016-02-10"> February 10, 2016</time>
+									</div>
+
+									
+									<div class="share article-header-widget">
+																			</div>
+								</div>
+								<div class="sharing-tools clearfix">
+
+
+<div class="pw-widget pw-size-large">
+	<a class="pw-button-facebook pw-counter-show">
+		<span class="social-icon">
+			<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 14 12" xml:space="preserve" height="12px" viewBox="0 0 14 12" width="14px" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><path id="path3" d="m9.385 2.555h-0.864c-0.678 0-0.809 0.362-0.809 0.893v1.171h1.617v1.833h-1.618v4.705h-1.686v-4.705h-1.41v-1.833h1.41v-1.352c0-1.569 0.854-2.424 2.1-2.424l1.26 0.002v1.71z" fill="#fff"/></svg>
+		</span>
+	</a>
+	<a class="pw-button-twitter pw-counter-show">
+		<span class="social-icon">
+			<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 14 12" xml:space="preserve" height="12px" viewBox="0 0 14 12" width="14px" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><path id="path3" d="m12.153 2.979c-0.015-0.018-0.04-0.022-0.06-0.014-0.309 0.129-0.634 0.223-0.969 0.277 0.355-0.252 0.62-0.602 0.756-1.001 0.006-0.02 0-0.04-0.017-0.053s-0.04-0.015-0.058-0.004c-0.4 0.224-0.833 0.382-1.289 0.469-0.403-0.395-0.966-0.62-1.549-0.62-1.186 0-2.15 0.909-2.15 2.026 0 0.136 0.014 0.27 0.042 0.399-1.642-0.095-3.177-0.838-4.221-2.045-0.011-0.013-0.027-0.019-0.044-0.017-0.017 0.001-0.032 0.01-0.041 0.023-0.19 0.308-0.29 0.661-0.29 1.019 0 0.622 0.299 1.203 0.81 1.586-0.263-0.03-0.52-0.108-0.751-0.229-0.016-0.008-0.035-0.008-0.051 0-0.015 0.009-0.025 0.024-0.025 0.041v0.026c0 0.893 0.624 1.676 1.511 1.937-0.234 0.035-0.477 0.033-0.715-0.01-0.018-0.004-0.036 0.002-0.048 0.016-0.012 0.012-0.016 0.03-0.01 0.047 0.266 0.783 1.005 1.332 1.866 1.4-0.718 0.496-1.567 0.757-2.463 0.757-0.165 0-0.332-0.009-0.495-0.028-0.023-0.002-0.046 0.011-0.054 0.033s0 0.045 0.021 0.057c0.97 0.586 2.092 0.896 3.244 0.896 3.77 0 6.022-2.887 6.022-5.678 0-0.078-0.002-0.154-0.005-0.232 0.406-0.28 0.755-0.623 1.037-1.021 0.012-0.018 0.011-0.042-0.004-0.057z" fill="#fff"/></svg>
+		</span>
+	</a>
+	<a class="pw-button-reddit">
+		<span class="social-icon">
+			<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 14 12" xml:space="preserve" height="12px" viewBox="0 0 14 12" width="14px" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><path id="path3" d="m12.96 5.872c0-0.716-0.617-1.299-1.374-1.299-0.337 0-0.651 0.119-0.902 0.328-0.893-0.542-2.08-0.887-3.392-0.934l0.783-2.104 1.951 0.441c0 0.584 0.502 1.06 1.12 1.06s1.121-0.477 1.121-1.062-0.502-1.062-1.121-1.062c-0.47 0-0.871 0.275-1.039 0.663l-2.31-0.523-0.959 2.582c-1.367 0.024-2.604 0.374-3.53 0.933-0.251-0.205-0.562-0.322-0.896-0.322-0.756 0-1.372 0.583-1.372 1.299 0 0.445 0.242 0.854 0.634 1.093-0.024 0.129-0.04 0.26-0.04 0.395 0 1.273 1.112 2.387 2.752 2.969l0.554 0.171c0.632 0.166 1.322 0.26 2.049 0.26 0.708 0 1.382-0.09 2.002-0.248l0.598-0.182c1.642-0.582 2.756-1.695 2.756-2.971 0-0.131-0.014-0.258-0.036-0.385 0.401-0.234 0.651-0.651 0.651-1.102zm-8.517 0.886c0-0.441 0.378-0.799 0.844-0.799 0.467 0 0.844 0.357 0.844 0.799s-0.377 0.799-0.844 0.799c-0.466 0-0.844-0.358-0.844-0.799zm4.536 2.16c-0.026 0.023-0.631 0.607-2 0.607-1.375 0-1.926-0.592-1.948-0.615-0.077-0.086-0.067-0.217 0.024-0.289 0.09-0.072 0.225-0.064 0.303 0.021 0.012 0.014 0.472 0.475 1.622 0.475 1.169 0 1.683-0.479 1.688-0.484 0.083-0.078 0.219-0.08 0.304-0.002s0.089 0.205 0.007 0.287zm-0.169-1.361c-0.466 0-0.844-0.357-0.844-0.799s0.378-0.799 0.844-0.799c0.467 0 0.844 0.357 0.844 0.799s-0.378 0.799-0.844 0.799z" fill="#fff"/></svg>
+		</span>
+	</a>
+
+	<!-- toggle mock icon -->
+	<a class="share-button-cross js-toggle-share-icons">
+		<span class="social-icon">
+			<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 14 12" xml:space="preserve" height="12px" viewBox="0 0 14 12" width="14px" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><polygon id="polygon3" points="1.986 7.254 1.984 4.642 5.746 4.642 5.746 0.984 8.358 0.984 8.359 4.642 12.015 4.642 12.016 7.254 8.358 7.254 8.358 11.016 5.746 11.016 5.746 7.254" fill="#fff"/></svg>
+		</span>
+	</a>
+
+	<div class="hidden-icons js-hidden-sahre-container">
+
+		<div class="hidden-fixed-container">
+			<span>SHARE</span>
+			<a class="pw-button-tumblr">
+				<span class="social-icon">
+					<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 14 12" xml:space="preserve" height="12px" viewBox="0 0 14 12" width="14px" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><path id="path3" d="m5.55 9.475c0.085 0.23 0.236 0.445 0.457 0.65 0.22 0.201 0.485 0.359 0.796 0.469 0.312 0.109 0.55 0.164 0.955 0.164 0.356 0 0.688-0.039 0.995-0.115 0.308-0.076 0.65-0.211 1.028-0.402v-1.503c-0.443 0.314-0.89 0.471-1.338 0.471-0.253 0-0.476-0.064-0.673-0.189-0.147-0.094-0.283-0.256-0.336-0.413-0.055-0.154-0.048-0.474-0.048-1.025v-2.44h2.048v-1.7h-2.048v-2.2h-1.26c-0.057 0.49-0.16 0.896-0.311 1.212-0.15 0.318-0.349 0.59-0.598 0.817-0.246 0.227-0.651 0.402-0.998 0.523v1.348h1.204v3.337c0 0.435 0.042 0.767 0.127 0.996z" fill="#fff"/></svg>
+				</span>
+			</a>
+			<a class="pw-button-pinterest">
+				<span class="social-icon">
+					<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 14 12" xml:space="preserve" height="12px" viewBox="0 0 14 12" width="14px" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><path id="path3" d="m4.146 11.43c0.012 0.076 0.125 0.094 0.176 0.037 0.073-0.081 1.019-1.075 1.34-2.068 0.091-0.281 0.521-1.736 0.521-1.736 0.258 0.419 1.012 0.787 1.813 0.787 2.386-0.001 4.004-1.852 4.004-4.33 0-1.875-1.864-3.62-4.698-3.62-3.525 0-5.302 2.152-5.302 3.947 0 1.087 0.483 2.053 1.519 2.413 0.171 0.059 0.323 0.003 0.372-0.158 0.034-0.11 0.115-0.39 0.152-0.507 0.049-0.158 0.03-0.214-0.107-0.352-0.299-0.3-0.49-0.688-0.49-1.239 0-1.598 1.403-3.027 3.653-3.027 1.992 0 3.087 1.037 3.087 2.422 0 1.822-0.946 3.36-2.351 3.36-0.777 0-1.358-0.547-1.173-1.216 0.224-0.801 0.656-1.666 0.656-2.244 0-0.517-0.326-0.947-1.001-0.947-0.794 0-1.432 0.698-1.432 1.635 0 0.596 0.237 1 0.237 1s-0.811 2.929-0.953 3.442c-0.283 1.022-0.043 2.276-0.023 2.401z" fill="#fff"/></svg>
+				</span>
+			</a>
+			<a class="pw-button-googleplus">
+				<span class="social-icon">
+					<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 14 12" xml:space="preserve" height="12px" viewBox="0 0 14 12" width="14px" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><g id="g3"><g id="g5"><g id="g7"><path id="path9" d="m4.446 5.109v1.782s1.708-0.002 2.404-0.002c-0.376 1.155-0.962 1.785-2.404 1.785-1.459 0-2.597-1.197-2.597-2.674s1.139-2.673 2.598-2.673c0.771 0 1.27 0.274 1.727 0.657 0.366-0.37 0.335-0.423 1.266-1.312-0.792-0.729-1.841-1.172-2.994-1.172-2.456 0-4.446 2.015-4.446 4.5s1.99 4.5 4.446 4.5c3.671 0 4.568-3.234 4.271-5.391h-4.271zm8.013 0.089v-1.56h-1.101v1.56h-1.585v1.114h1.585v1.604h1.101v-1.603h1.541v-1.115h-1.541z" fill="#fff"/></g></g></g></svg>
+				</span>
+			</a>
+		</div>
+	</div>
+</div>
+<script src="http://i.po.st/static/v3/post-widget.js#publisherKey=13g86ai1jocrf3v2124s&retina=true" type="text/javascript"></script>
+</div>
+							</div>
+
+							
+							<div class="js-medium-rectangle-ad"></div>
+
+							<div class="article-content">
+								<p><img class="aligncenter size-full wp-image-655971" src="http://cdn2-www.comingsoon.net/assets/uploads/2016/02/GilmoreBar.jpg" alt="Check out who else will be returning for the Gilmore Girls Netflix revival." width="640" height="306" /></p>
+<h2>Milo Ventimiglia, Matt Czuchry, Liza Weil and Yanic Truesdale are now all confirmed for the Gilmore Girls Netflix revival</h2>
+<p>With the <strong>Gilmore Girls </strong>Netflix revival officially confirmed as of <a href="http://www.comingsoon.net/tv/news/652377-new-gilmore-girls-episodes"  target="_blank">late last month</a>, the streaming service has today issued an update that confirms the return of several key Stars Hollow faces. <a href="https://twitter.com/miloventimiglia" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://twitter.com']);" target="_blank">Milo Ventimiglia</a> (<strong><a href="http://www.comingsoon.net/tag/gotham"  target="_blank">Gotham</a></strong>), Matt Czuchry (<strong>The Good Wife</strong>), Liza Weil (<strong>How To Get Away With Murder</strong>) and Yanic Truesdale (<strong>Rumours</strong>) are set to return to their original characters. It has also been confirmed that the <strong>Gilmore Girls</strong> Netflix revival will include four 90-minute episodes. The series title and premiere date are to be confirmed at a later date.</p>
+<p>Previously announced cast members returning for the <strong>Gilmore Girls</strong> Netflix revival include Lauren Graham (<strong>Parenthood</strong>), Alexis Bledel (<strong>The Sisterhood of the Traveling Pants</strong>), Scott Patterson (<strong>Saw V</strong>), Kelly Bishop (<strong>The Good Wife</strong>), Keiko Agena (<strong>Transformers: Dark of the Moon</strong>) and Sean Gunn (<strong>Guardians of the Galaxy</strong>). Series regulars missing from the revival include Edward Herrmann, who tragically passed away earlier this year, and Melissa McCarthy, whose stardom has soared since the series went off the air.</p>
+<p><strong>Gilmore Girls</strong>, which aired between 2000 and 2007, is set in Stars Hollow, a storybook Connecticut town populated by an eclectic mix of dreamers, artists and everyday folk. The multi-generational drama about family and friendship centers around Lorelai Gilmore (Lauren Graham) and her daughter, Rory (Alexis Bledel). Lorelai owns the town&#8217;s bed-and-breakfast, the Dragonfly Inn, with best friend/chef Sookie (Melissa McCarthy), and contends with weekly dinners with eccentric, well-off parents Richard (Edward Herrmann) and Emily Gilmore (Kelly Bishop), who always have something to say about their daughter&#8217;s life.</p>
+<p>Amy Sherman-Palladino is the creator and executive producer. Daniel Palladino is also an executive producer. They are both writing and directing the series. <strong>Gilmore Girls</strong> is produced by Dorothy Parker Drank Here Productions in association with Warner Bros. Television.</p>
+							</div>
+
+							
+							<div class="bottom">
+								<div class="article-footer js-article-footer"></div>
+								<div class="sharing-tools clearfix">
+
+
+<div class="pw-widget pw-size-large">
+	<a class="pw-button-facebook pw-counter-show">
+		<span class="social-icon">
+			<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 14 12" xml:space="preserve" height="12px" viewBox="0 0 14 12" width="14px" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><path id="path3" d="m9.385 2.555h-0.864c-0.678 0-0.809 0.362-0.809 0.893v1.171h1.617v1.833h-1.618v4.705h-1.686v-4.705h-1.41v-1.833h1.41v-1.352c0-1.569 0.854-2.424 2.1-2.424l1.26 0.002v1.71z" fill="#fff"/></svg>
+		</span>
+	</a>
+	<a class="pw-button-twitter pw-counter-show">
+		<span class="social-icon">
+			<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 14 12" xml:space="preserve" height="12px" viewBox="0 0 14 12" width="14px" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><path id="path3" d="m12.153 2.979c-0.015-0.018-0.04-0.022-0.06-0.014-0.309 0.129-0.634 0.223-0.969 0.277 0.355-0.252 0.62-0.602 0.756-1.001 0.006-0.02 0-0.04-0.017-0.053s-0.04-0.015-0.058-0.004c-0.4 0.224-0.833 0.382-1.289 0.469-0.403-0.395-0.966-0.62-1.549-0.62-1.186 0-2.15 0.909-2.15 2.026 0 0.136 0.014 0.27 0.042 0.399-1.642-0.095-3.177-0.838-4.221-2.045-0.011-0.013-0.027-0.019-0.044-0.017-0.017 0.001-0.032 0.01-0.041 0.023-0.19 0.308-0.29 0.661-0.29 1.019 0 0.622 0.299 1.203 0.81 1.586-0.263-0.03-0.52-0.108-0.751-0.229-0.016-0.008-0.035-0.008-0.051 0-0.015 0.009-0.025 0.024-0.025 0.041v0.026c0 0.893 0.624 1.676 1.511 1.937-0.234 0.035-0.477 0.033-0.715-0.01-0.018-0.004-0.036 0.002-0.048 0.016-0.012 0.012-0.016 0.03-0.01 0.047 0.266 0.783 1.005 1.332 1.866 1.4-0.718 0.496-1.567 0.757-2.463 0.757-0.165 0-0.332-0.009-0.495-0.028-0.023-0.002-0.046 0.011-0.054 0.033s0 0.045 0.021 0.057c0.97 0.586 2.092 0.896 3.244 0.896 3.77 0 6.022-2.887 6.022-5.678 0-0.078-0.002-0.154-0.005-0.232 0.406-0.28 0.755-0.623 1.037-1.021 0.012-0.018 0.011-0.042-0.004-0.057z" fill="#fff"/></svg>
+		</span>
+	</a>
+	<a class="pw-button-reddit">
+		<span class="social-icon">
+			<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 14 12" xml:space="preserve" height="12px" viewBox="0 0 14 12" width="14px" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><path id="path3" d="m12.96 5.872c0-0.716-0.617-1.299-1.374-1.299-0.337 0-0.651 0.119-0.902 0.328-0.893-0.542-2.08-0.887-3.392-0.934l0.783-2.104 1.951 0.441c0 0.584 0.502 1.06 1.12 1.06s1.121-0.477 1.121-1.062-0.502-1.062-1.121-1.062c-0.47 0-0.871 0.275-1.039 0.663l-2.31-0.523-0.959 2.582c-1.367 0.024-2.604 0.374-3.53 0.933-0.251-0.205-0.562-0.322-0.896-0.322-0.756 0-1.372 0.583-1.372 1.299 0 0.445 0.242 0.854 0.634 1.093-0.024 0.129-0.04 0.26-0.04 0.395 0 1.273 1.112 2.387 2.752 2.969l0.554 0.171c0.632 0.166 1.322 0.26 2.049 0.26 0.708 0 1.382-0.09 2.002-0.248l0.598-0.182c1.642-0.582 2.756-1.695 2.756-2.971 0-0.131-0.014-0.258-0.036-0.385 0.401-0.234 0.651-0.651 0.651-1.102zm-8.517 0.886c0-0.441 0.378-0.799 0.844-0.799 0.467 0 0.844 0.357 0.844 0.799s-0.377 0.799-0.844 0.799c-0.466 0-0.844-0.358-0.844-0.799zm4.536 2.16c-0.026 0.023-0.631 0.607-2 0.607-1.375 0-1.926-0.592-1.948-0.615-0.077-0.086-0.067-0.217 0.024-0.289 0.09-0.072 0.225-0.064 0.303 0.021 0.012 0.014 0.472 0.475 1.622 0.475 1.169 0 1.683-0.479 1.688-0.484 0.083-0.078 0.219-0.08 0.304-0.002s0.089 0.205 0.007 0.287zm-0.169-1.361c-0.466 0-0.844-0.357-0.844-0.799s0.378-0.799 0.844-0.799c0.467 0 0.844 0.357 0.844 0.799s-0.378 0.799-0.844 0.799z" fill="#fff"/></svg>
+		</span>
+	</a>
+
+	<!-- toggle mock icon -->
+	<a class="share-button-cross js-toggle-share-icons">
+		<span class="social-icon">
+			<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 14 12" xml:space="preserve" height="12px" viewBox="0 0 14 12" width="14px" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><polygon id="polygon3" points="1.986 7.254 1.984 4.642 5.746 4.642 5.746 0.984 8.358 0.984 8.359 4.642 12.015 4.642 12.016 7.254 8.358 7.254 8.358 11.016 5.746 11.016 5.746 7.254" fill="#fff"/></svg>
+		</span>
+	</a>
+
+	<div class="hidden-icons js-hidden-sahre-container">
+
+		<div class="hidden-fixed-container">
+			<span>SHARE</span>
+			<a class="pw-button-tumblr">
+				<span class="social-icon">
+					<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 14 12" xml:space="preserve" height="12px" viewBox="0 0 14 12" width="14px" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><path id="path3" d="m5.55 9.475c0.085 0.23 0.236 0.445 0.457 0.65 0.22 0.201 0.485 0.359 0.796 0.469 0.312 0.109 0.55 0.164 0.955 0.164 0.356 0 0.688-0.039 0.995-0.115 0.308-0.076 0.65-0.211 1.028-0.402v-1.503c-0.443 0.314-0.89 0.471-1.338 0.471-0.253 0-0.476-0.064-0.673-0.189-0.147-0.094-0.283-0.256-0.336-0.413-0.055-0.154-0.048-0.474-0.048-1.025v-2.44h2.048v-1.7h-2.048v-2.2h-1.26c-0.057 0.49-0.16 0.896-0.311 1.212-0.15 0.318-0.349 0.59-0.598 0.817-0.246 0.227-0.651 0.402-0.998 0.523v1.348h1.204v3.337c0 0.435 0.042 0.767 0.127 0.996z" fill="#fff"/></svg>
+				</span>
+			</a>
+			<a class="pw-button-pinterest">
+				<span class="social-icon">
+					<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 14 12" xml:space="preserve" height="12px" viewBox="0 0 14 12" width="14px" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><path id="path3" d="m4.146 11.43c0.012 0.076 0.125 0.094 0.176 0.037 0.073-0.081 1.019-1.075 1.34-2.068 0.091-0.281 0.521-1.736 0.521-1.736 0.258 0.419 1.012 0.787 1.813 0.787 2.386-0.001 4.004-1.852 4.004-4.33 0-1.875-1.864-3.62-4.698-3.62-3.525 0-5.302 2.152-5.302 3.947 0 1.087 0.483 2.053 1.519 2.413 0.171 0.059 0.323 0.003 0.372-0.158 0.034-0.11 0.115-0.39 0.152-0.507 0.049-0.158 0.03-0.214-0.107-0.352-0.299-0.3-0.49-0.688-0.49-1.239 0-1.598 1.403-3.027 3.653-3.027 1.992 0 3.087 1.037 3.087 2.422 0 1.822-0.946 3.36-2.351 3.36-0.777 0-1.358-0.547-1.173-1.216 0.224-0.801 0.656-1.666 0.656-2.244 0-0.517-0.326-0.947-1.001-0.947-0.794 0-1.432 0.698-1.432 1.635 0 0.596 0.237 1 0.237 1s-0.811 2.929-0.953 3.442c-0.283 1.022-0.043 2.276-0.023 2.401z" fill="#fff"/></svg>
+				</span>
+			</a>
+			<a class="pw-button-googleplus">
+				<span class="social-icon">
+					<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 14 12" xml:space="preserve" height="12px" viewBox="0 0 14 12" width="14px" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><g id="g3"><g id="g5"><g id="g7"><path id="path9" d="m4.446 5.109v1.782s1.708-0.002 2.404-0.002c-0.376 1.155-0.962 1.785-2.404 1.785-1.459 0-2.597-1.197-2.597-2.674s1.139-2.673 2.598-2.673c0.771 0 1.27 0.274 1.727 0.657 0.366-0.37 0.335-0.423 1.266-1.312-0.792-0.729-1.841-1.172-2.994-1.172-2.456 0-4.446 2.015-4.446 4.5s1.99 4.5 4.446 4.5c3.671 0 4.568-3.234 4.271-5.391h-4.271zm8.013 0.089v-1.56h-1.101v1.56h-1.585v1.114h1.585v1.604h1.101v-1.603h1.541v-1.115h-1.541z" fill="#fff"/></g></g></g></svg>
+				</span>
+			</a>
+		</div>
+	</div>
+</div>
+<script src="http://i.po.st/static/v3/post-widget.js#publisherKey=13g86ai1jocrf3v2124s&retina=true" type="text/javascript"></script>
+</div>
+
+							</div>
+
+							
+								<div class="share article-footer-widget">
+
+									<div id="evolve_ad_gpt_widget-16" class="widget_evolve_ad_gpt_widget">
+			<div id="tv_600x250_a_slot6"
+				data-id="tv_600x250_a_slot6"
+				data-offset="300"
+				class="gpt-ad js-inview">
+
+			
+				
+				<script type='text/javascript'>
+
+					PB				= PB || {};
+					gptAds			= PB.gptAds || {};
+					var opts		= {"asBool":false,"adUnit":"\/4403\/cr\/comingsoon\/tv","adDiv":"tv_600x250_a_slot6","sizeStr":"[[600, 250]]","mapping":[{"viewport":"[0, 0]","sizes":"[[600, 250]]"},{"viewport":"[750, 0]","sizes":"[[600, 250]]"},{"viewport":"[980, 0]","sizes":"[[600, 250]]"}],"targeting":{"pos":"A","ct":"article","ci":"655965","kw":"gilmore-girls,netflix,netflix-original-series,streaming,tv,tv-news,tv-premiere-dates","coppa":"0","site":"comingsoon"},"resize":false};
+					PB.waitForAS	= (opts.asBool) ? true : PB.waitForAS || false;
+
+					PB.evGPTBuilder.enqueueAd(opts);
+
+				</script>
+
+			
+			</div>
+
+			</div><div id="text-34" class="widget_text">			<div class="textwidget"><div id="native_teaser_ab"></div>
+<script type="text/javascript" src="http://media.gamerevolution.com/teaser/check.v2.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+teaserCheck.init('#native_teaser_ab', { url: 'http://www.craveonline.com/culture/888045-nine-best-summer-box-office-bombs?utm_source=native_teaser_ab&utm_medium=referral&utm_campaign=internal_ab', img: 'http://media.gamerevolution.com/teaser/zxflux.jpg', title: 'The Nine Best Summer Box Office Bombs', desc: 'Here are nine films that were supposed to be summer hits, but that wound up making far less than expected.', sponsor: 'Adidas ZX Flux' });
+});
+</script></div>
+		</div>
+								</div>
+
+							
+							<div id="ingageunit"></div>
+
+							<div class="c-wrapper">
+	<div id="disqus_thread"></div>
+</div>
+
+<div class="js-show-comments btn" data-disqus-shortname="comingsoondotnet" data-disqus-title="Gilmore Girls Netflix Revival Plans Revealed" data-disqus-url="http://www.comingsoon.net/tv/news/655965-gilmore-girls-netflix-revival">
+        <a href="#" class="disqus-expand-btn">Show Comments</a>
+</div>
+
+<script type="text/javascript">
+	var disqus_shortname  = 'comingsoondotnet';
+	var disqus_url        = 'http://www.comingsoon.net/tv/news/655965-gilmore-girls-netflix-revival';
+	var disqus_identifier = '';
+	var disqus_title      = '';
+
+	/* * * DON'T EDIT BELOW THIS LINE * * */
+	(function() {
+		var dsq = document.createElement('script');
+		dsq.type = 'text/javascript'; dsq.async = true;
+		dsq.src = 'https://go.disqus.com/embed.js';
+		(document.getElementsByTagName('head')[0] ||
+			document.getElementsByTagName('body')[0]).appendChild(dsq);
+	})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+							<div class="js-cs-article-zerg-widget zergnet-widget zergnet-widget-36274" data-zerg-widget-id="36274"></div>
+
+							<script id="js-plista-template" type="text/template">
+		<div id="plista_widget_belowArticle"></div>
+
+	<script type="text/javascript">
+		PLISTA.items.push({
+			objectid: "655965", //unique ID, alphanumeric
+			title: "Gilmore Girls Netflix Revival Plans Revealed",
+			text: "Find out who else will be returning to Stars Hollow for four new 90 minute episodes", //up to 255 characters
+			url: "http://www.comingsoon.net/tv/news/655965-gilmore-girls-netflix-revival",
+			img: "http://cdn1-www.comingsoon.net/assets/uploads/2016/02/gilmorefeat.jpg",
+			created_at: "1455815340", //UNIX Timestamp
+			category: "tv"
+		});
+		PLISTA.partner.init();
+</script>
+</script>
+							<div class="js-plista js-cs-article-plista-widget"></div>
+
+						</article>
+
+
+									</td>
+			</tr>
+		</table>
+
+	</div><!-- end .articles -->
+
+	<aside class="site-sidebar js-site-sidebar infinite">
+
+		<div id="evolve_ad_gpt_widget-27" class="centered widget_evolve_ad_gpt_widget">
+			<div id="tv_300x250_a_slot7"
+				data-id="tv_300x250_a_slot7"
+				data-offset="300"
+				class="gpt-ad">
+
+			
+				
+				<script type='text/javascript'>
+
+					PB				= PB || {};
+					gptAds			= PB.gptAds || {};
+					var opts		= {"asBool":true,"asID":"ScoERO","adUnit":"\/4403\/cr\/comingsoon\/tv","adDiv":"tv_300x250_a_slot7","sizeStr":"[[300, 250]]","mapping":[{"viewport":"[0, 0]","sizes":"[[300, 250]]"},{"viewport":"[750, 0]","sizes":"[[300, 250]]"},{"viewport":"[980, 0]","sizes":"[[300, 1050],[300, 600],[300, 250]]"}],"targeting":{"pos":"A","ct":"article","ci":"655965","kw":"gilmore-girls,netflix,netflix-original-series,streaming,tv,tv-news,tv-premiere-dates","coppa":"0","site":"comingsoon"},"resize":false};
+					PB.waitForAS	= (opts.asBool) ? true : PB.waitForAS || false;
+
+					PB.evGPTBuilder.enqueueAd(opts);
+
+				</script>
+
+			
+			</div>
+
+			</div>
+		<div class="site-sidebar-module js-releases-widget"></div>
+
+		<div class="site-sidebar-module js-article-sidebar-modules"></div>
+
+		<div id="evolve_ad_gpt_widget-12" class="medium-rectangle widget_evolve_ad_gpt_widget">
+			<div id="tv_300x1050x300x600x300x250_a_slot2"
+				data-id="tv_300x1050x300x600x300x250_a_slot2"
+				data-offset="300"
+				class="gpt-ad">
+
+			
+				
+				<script type='text/javascript'>
+
+					PB				= PB || {};
+					gptAds			= PB.gptAds || {};
+					var opts		= {"asBool":true,"asID":"ScoERO","adUnit":"\/4403\/cr\/comingsoon\/tv","adDiv":"tv_300x1050x300x600x300x250_a_slot2","sizeStr":"[[300, 1050],[300, 600],[300, 250]]","mapping":[{"viewport":"[0, 0]","sizes":"[[300, 250]]"},{"viewport":"[750, 0]","sizes":"[[300, 250]]"},{"viewport":"[980, 0]","sizes":"[[300, 1050],[300, 600],[300, 250]]"}],"targeting":{"pos":"A","ct":"article","ci":"655965","kw":"gilmore-girls,netflix,netflix-original-series,streaming,tv,tv-news,tv-premiere-dates","coppa":"0","site":"comingsoon"},"resize":true};
+					PB.waitForAS	= (opts.asBool) ? true : PB.waitForAS || false;
+
+					PB.evGPTBuilder.enqueueAd(opts);
+
+				</script>
+
+			
+			</div>
+
+			</div>
+	</aside>
+
+</div>
+
+</div>
+
+<footer class="footer">
+        <a href="/" class="footer-logo"></a>
+    <div class="footer-menu"><ul id="menu-footer-main-menu" class="menu"><li id="menu-item-287385" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287385"><a title="test" href="http://www.comingsoon.net/movies" >Movies</a></li>
+<li id="menu-item-376823" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-376823"><a href="http://www.comingsoon.net/tv" >TV</a></li>
+<li id="menu-item-287391" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287391"><a href="http://www.comingsoon.net/games" >Games</a></li>
+<li id="menu-item-376953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-376953"><a href="http://www.comingsoon.net/trailers" >Trailers</a></li>
+<li id="menu-item-287389" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287389"><a href="http://www.comingsoon.net/dvd" >DVD</a></li>
+<li id="menu-item-287387" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287387"><a href="http://www.comingsoon.net/extras" >Extras</a></li>
+<li id="menu-item-376825" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-376825"><a href="http://www.comingsoon.net/contact" >Contact Us</a></li>
+<li id="menu-item-376829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-376829"><a href="mailto:sales@craveonline.com">Advertise</a></li>
+<li id="menu-item-376831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-376831"><a href="http://www.craveonline.com/privacy?site=comingsoon.net" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.craveonline.com']);">Privacy Policy</a></li>
+<li id="menu-item-376833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-376833"><a href="http://www.craveonline.com/termsofuse?site=comingsoon.net" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.craveonline.com']);">Terms of Use</a></li>
+</ul></div>    <a id="_bapw-link" href="#" target="_blank" style="text-decoration:none !important"><img id="_bapw-icon" style="padding-left: 6px;border:0 !important;display:inline !important;vertical-align:top !important;padding-right:5px !important;"/><span style="vertical-align:top !important; font-size: 13px;
+	font-family: 'Raleway',sans-serif;">AdChoices</span></a>
+	<div class="footer-adchoices">
+		<script type="text/javascript">
+        (function() {
+            var ev = document.createElement('script'); ev.type = 'text/javascript'; ev.async = true; ev.setAttribute('data-ev-tag-pid', 247); ev.setAttribute('data-ev-tag-ocid', 595); 
+            ev.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'c.betrad.com/pub/tag.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ev, s);
+        })();
+        </script>
+    <!--58 queries. 0.547 seconds. -->
+    <p class="footer-copyright">ComingSoon.net is a property of CraveOnline Media, LLC, an Evolve Media, LLC company. &copy;2016 All Rights Reserved Copyright</p>
+</footer>
+</div><!-- end .body -->
+</div>
+
+<script type="text/template" id="js-fandango-modal">
+	<div class="fandango-modal">
+		<h2 class="fandango-modal-title">Tell us where you are</h2>
+		<p>
+			<span class="fandango-modal-subtitle">Looking for movie tickets?</span>
+			Enter your location to see which movie theaters are playing
+			<span class="fandango-modal-movie-name"><%- movieName %></span> near you.
+		</p>
+		<div class="fandango-modal-form">
+			<input type="text" class="fandango-modal-form-zipcode js-fandango-modal-form-zipcode" placeholder="Zip Code">
+			<button class="fandango-modal-form-submit js-fandango-submit" data-movie-id="<%- movieId %>">
+				Go
+			</button>
+		</div>
+	</div>
+</script>
+        <script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = 'comingsoondotnet';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); 
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+        			<div id='adoop' data-id='adoop' class='gpt-ad'></div>
+			<script type='text/javascript' src='http://static.plista.com/comingsoon.net_v1.js'></script>
+<script type='text/javascript' src='http://b.scorecardresearch.com/beacon.js?ver=1.0'></script>
+<script type='text/javascript' src='http://cdn2-www.comingsoon.net/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/pb-chartbeat-share/assets/js/chartbeat-share.js,wp-content/themes/comingsoon/plugins/pb-trailer-image/assets/js/pb.trailer-image-uploader.js,wp-content/themes/comingsoon/plugins/pb-trailer-image/assets/js/pb.admin-init.js,wp-content/plugins/pb-movies/assets/js/vendor/select2.js,wp-content/plugins/pb-movies/assets/js/post-movies-lookup.js,wp-content/plugins/pb-audience-science/lib/js/as-gateway.js,wp-content/plugins/pebblebed/media/js/jquery.bxslider.min.js,wp-content/themes/comingsoon/js/utils/pikaday.js,wp-content/themes/comingsoon/js/utils/pikaday.jquery.js,wp-content/themes/comingsoon/js/utils/jquery.cookie.js,wp-content/themes/comingsoon/js/utils/pb.plista_cookie_reader.js,wp-includes/js/underscore.min.js,wp-content/themes/comingsoon/js/modules/single/pb.single-url-switcher.js,wp-content/themes/comingsoon/js/modules/single/pb.single-infinite-scroll.js,wp-content/themes/comingsoon/js/modules/single/pb.single-load-article.js,wp-content/themes/comingsoon/js/modules/single/pb.single-render.js,wp-content/themes/comingsoon/js/modules/single/pb.single-change-article.js,wp-content/themes/comingsoon/js/utils/pb.media-queries.js,wp-content/themes/comingsoon/js/modules/pb.comment-loader.js,wp-content/plugins/pebblebed/media/js/htmlParser.js&amp;ver=16330'></script>
+<script type='text/javascript' src='http://cdn2-www.comingsoon.net/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/pb-ajax-sidebars/js/pb.sidebar-loader.js,wp-content/plugins/pb-movies/assets/js/pb.movies-api.js,wp-content/themes/comingsoon/plugins/pb-releases-widget/assets/js/pb.new-releases.js,wp-content/themes/comingsoon/js/modules/single/pb.single-load-sidebar.js,wp-content/themes/comingsoon/js/modules/single/pb.single-load-ads.js,wp-content/themes/comingsoon/js/modules/pb.sharing.js,wp-content/themes/comingsoon/js/modules/single/pb.single-load-zerg-widget.js,wp-content/themes/comingsoon/js/modules/single/pb.single-load-plista-widget.js,wp-content/themes/comingsoon/js/controllers/pb.single.js,wp-content/themes/comingsoon/js/vendor/bootstrap-affix.js,wp-content/themes/comingsoon/js/modules/pb.navigation.js,wp-content/themes/comingsoon/js/modules/pb.searchform.js,wp-content/themes/comingsoon/js/modules/pb.affix-nav.js,wp-content/themes/comingsoon/js/modules/pb.affix-nav-header.js,wp-content/themes/comingsoon/js/modules/pb.tap-detector.js,wp-content/themes/comingsoon/js/controllers/pb.default.js,wp-content/plugins/wp-evolve-gpt/js/vendor/jquery.inview.js,wp-content/plugins/wp-evolve-gpt/js/pb.load-gpt-ads.js,wp-content/plugins/wp-evolve-gpt/js/pb.lazy-load-gpt-ads.js,wp-content/plugins/pb-google-analytics-for-wordpress/js/pb.ga-manager.js&amp;ver=16330'></script>
+<script type='text/javascript' src='http://cdn3-www.comingsoon.net/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/pb-google-analytics-for-wordpress/js/pb.ga-init.js&amp;ver=16330'></script>
+
+<div id="text-22" class="widget_text">			<div class="textwidget"><!-- start Vibrant Media IntelliTXT script section -->
+<script type="text/javascript" src="http://comingsoon.us.intellitxt.com/intellitxt/front.asp?ipid=17172"></script>
+<!-- end Vibrant Media IntelliTXT script section --></div>
+		</div><div id="text-35" class="widget_text">			<div class="textwidget"><div style="position: absolute; left: -999em">
+monitoring_string = "df292225381015080a5c6c04a6e2c2dc"
+</div>
+
+<script type="text/javascript">
+var _sf_async_config={uid:8555,domain:"comingsoon.net"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script></div>
+		</div></body>
+</html>

@@ -1,0 +1,1818 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:schema="http://schema.org/"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/favicon/favicon-32x32.png" rel="icon" type="image/png" />
+<link rel="shortcut icon" src="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/favicon/favicon.ico" />
+<link rel="manifest" src="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/favicon/manifest.json" />
+<link href="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/favicon/favicon-96x96.png" rel="icon" type="image/png" />
+<link href="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/favicon/favicon-194x194.png" rel="icon" type="image/png" />
+<meta name="msapplication-TileImage" content="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/favicon/mstile-144x144.png" />
+<meta name="msapplication-TileColor" content="#18529e" />
+<link rel="manifest" src="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/favicon/browserconfig.xml" />
+<link href="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/favicon/favicon-16x16.png" rel="icon" type="image/png" />
+<link href="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/favicon/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57" />
+<link href="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/favicon/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144" />
+<link href="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/favicon/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/favicon/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/favicon/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/favicon/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114" />
+<link href="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/favicon/apple-touch-icon-60x60.png" rel="apple-touch-icon" sizes="60x60" />
+<link href="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/favicon/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" />
+<link href="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/favicon/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="theme-color" content="#18529e" />
+<meta name="twitter:app:id:iphone" content="466053027" />
+<meta name="twitter:app:url:iphone" content="gcmobile://article/id/751856/type/1/blog/6" />
+<meta property="og:image" content="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/2016/02/10/split_newton_fowler.jpg" />
+<meta property="al:ios:app_store_id" content="466053027" />
+<meta name="twitter:app:name:iphone" content="Golf Channel" />
+<meta name="twitter:app:country" content="US" />
+<meta property="al:android:app_name" content="Golf Channel Mobile" />
+<meta property="al:android:package" content="com.myleaderboard.GolfChannel" />
+<meta property="al:web:url" content="http://www.golfchannel.com/news/rex-hoggard/why-should-athletes-have-talk-after-painful-defeat/" />
+<meta property="al:ios:app_name" content="Golf Channel" />
+<meta property="al:ios:url" content="gcmobile://article/id/751856/type/1/blog/6" />
+<meta name="twitter:app:name:googleplay" content="Golf Channel Mobile" />
+<meta name="twitter:app:id:googleplay" content="com.myleaderboard.GolfChannel" />
+<meta name="twitter:app:url:googleplay" content="gcmobile://article/id/751856/type/1/blog/6" />
+<meta name="twitter:app:url:ipad" content="gcmobile://article/id/751856/type/1/blog/6" />
+<meta property="al:android:url" content="gcmobile://article/id/751856/type/1/blog/6" />
+<link rel="alternate" href="android-app://com.myleaderboard.GolfChannel/gcmobile/article/id/751856/type/1/blog/6" />
+<meta name="twitter:app:name:ipad" content="Golf Channel" />
+<meta name="twitter:app:id:ipad" content="466053027" />
+<meta property="twitter:image" content="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/2016/02/10/split_newton_fowler.jpg" />
+<meta name="description" content="On Super Bowl Sunday, Cam Newton and Rickie Fowler experienced the bitter taste of defeat." />
+<meta name="keywords" content="Rickie Fowler, 2016 Waste Management Phoenix Open, Cam Newton, Super Bowl 50" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.golfchannel.com/news/rex-hoggard/why-should-athletes-have-talk-after-painful-defeat/" />
+<link rel="shortlink" href="http://www.golfchannel.com/node/751856/" />
+<meta property="og:site_name" content="Golf Channel" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.golfchannel.com/news/rex-hoggard/why-should-athletes-have-talk-after-painful-defeat/" />
+<meta property="og:title" content="Why should athletes have to talk after a painful defeat? | Golf Channel" />
+<meta property="og:description" content="On Super Bowl Sunday, Cam Newton and Rickie Fowler experienced the bitter taste of defeat." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@GolfChannel" />
+<meta name="twitter:site:id" content="28349128" />
+<meta name="twitter:url" content="http://www.golfchannel.com/news/rex-hoggard/why-should-athletes-have-talk-after-painful-defeat/" />
+<meta name="twitter:title" content="Why should athletes have to talk after a painful defeat? | Golf Channel" />
+<meta name="twitter:description" content="On Super Bowl Sunday, Cam Newton and Rickie Fowler experienced the bitter taste of defeat." />
+  <title>Why Should Athletes Have to Talk after a Painful Defeat? | Golf Channel</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script type="text/javascript" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/js/js_sxQe6Xa1iFk-HkbZoiQEmAG3ZzheYP2EyUUz4PsXwlM.js"></script>
+<script type="text/javascript" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/js/js_d8u97GbZ4g0RlrepGeld7cI5ib0msQSaFQAVp0OW-Ww.js"></script>
+<script type="text/javascript" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/js/js_a4W_GFKyGcY4eVM3lkbOb3o941Nlzyj2MCgcUtC5Do0.js"></script>
+<script type="text/javascript" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/js/js_WdI5SvPM3kM95ISiwf3I8895i5oMtdteBNCBEWV2G-A.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+  (function($) {
+    Drupal.behaviors.jReject = {
+      attach: function (context, settings) {
+        $.reject({
+        display: ["msie", "firefox", "safari", "opera", "chrome"],
+          reject: {  
+              msie5: true, msie6: true, msie7: true, msie8: true
+          },
+          imagePath: '/profiles/nbcsports/modules/contrib/jreject/jReject/images/',
+          enable: true, header: "Did you know that your Internet Browser is out of date?", paragraph1: "GolfChannel.com is not optimized for the version of your browser. For the best experience, please upgrade your browser to a more recent version.", paragraph2: "Just click on the icons to get to the download page:", closeMessage: "By closing this window you acknowledge that your experience on this website may be degraded.", closeLink: "Close This Window", closeURL: "#", close: true, closeESC: true, closeCookie: true, overlayBgColor: "#000", overlayOpacity: 0.8, fadeInTime: "fast", fadeOutTime: "fast"
+        }); 
+        return false;  
+      }
+    }
+  })(jQuery);
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/js/js_bXxHMVbyoTEN0C4VGhJQt_h-0ipprX3a08pUCImJpmE.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var mpscall = {"site":"golf-web","path":"\/node\/751856","title":"Why should athletes have to talk after a painful defeat?","content_id":"node751856","is_content":"1","type":"article","cag":{"article-tags":"Rickie-Fowler|2016-Waste-Management-Phoenix-Open|Cam-Newton|Super-Bowl-50"},"pubdate":"1455137056"}
+var mpsopts = {"host":"mps.nbcuni.com","updatecorrelator":"1"}
+var mps = mps || {};
+document.write('<scr'+'ipt id="mps-ext-load" src="//'+mpsopts.host+'/fetch/ext/load-'+mpscall.site+'.js"></scr'+'ipt>');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/js/js_lgAAOlplEun7p_8Pb-8dM079wtvnfwLZ0hAK0mH7Dto.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-2206517-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://cdn.gigya.com/JS/socialize.js?apikey=3_GzrTJrukelsZDgHc5f90Sc5Wx5Eq25RjuMzQVQ8gTPJoyAtxDlzu-pSMnHJJDLX2"></script>
+<script type="text/javascript" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/js/js_W5389cX7qkWBM3zIWByaaRkjoo0-6RdctDtI_Gpg4H0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var s_account="nbcusportsgroupglobal,nbcusportsgroupgolfchannel";
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.nbcudigitaladops.com/hosted/global_header.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+{"enabledProviders":"*","lang":"en","sessionExpiration":2000000,"connectWithoutLoginBehavior":"loginExistingUser"}
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/js/js_HxXhbYWOgST86eP9G_NuBJxGjjq4q-AeBJ7S66YtPu8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"golfchannel_v2_theme","theme_token":"zv_Racm8e1Hu6mzPu8Tk1PqUgATzaqMvA7_-CAPjR3A","js":{"profiles\/nbcsports\/themes\/custom\/golfchannel_v2_theme\/js\/comcast.js":1,"https:\/\/sb.scorecardresearch.com\/beacon.js":1,"0":1,"profiles\/nbcsports\/modules\/contrib\/gigya\/js\/gigya_comments.js":1,"https:\/\/www.nbcudigitaladops.com\/hosted\/global.js":1,"profiles\/nbcsports\/themes\/custom\/golfchannel_v2_theme\/js\/gigya.js":1,"profiles\/nbcsports\/themes\/custom\/golfchannel_v2_theme\/js\/taboola.js":1,"1":1,"profiles\/nbcsports\/themes\/custom\/golfchannel_v2_theme\/js\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"misc\/ajax.js":1,"profiles\/nbcsports\/modules\/contrib\/user_alert\/js\/user-alert.js":1,"profiles\/nbcsports\/modules\/custom\/gfc_ontv\/facebox\/facebox.js":1,"profiles\/nbcsports\/modules\/custom\/gfc_ontv\/facebox\/gfc_ontv.js":1,"profiles\/nbcsports\/modules\/contrib\/jreject\/jReject\/js\/jquery.reject.js":1,"2":1,"profiles\/nbcsports\/modules\/contrib\/extlink\/extlink.js":1,"profiles\/nbcsports\/modules\/contrib\/gigya\/js\/gigya.js":1,"profiles\/nbcsports\/modules\/contrib\/gigya\/js\/gigya.behaviors.js":1,"misc\/progress.js":1,"profiles\/nbcsports\/modules\/vendor\/ctools\/js\/ajax-responder.js":1,"3":1,"profiles\/nbcsports\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"4":1,"http:\/\/cdn.gigya.com\/JS\/socialize.js?apikey=3_GzrTJrukelsZDgHc5f90Sc5Wx5Eq25RjuMzQVQ8gTPJoyAtxDlzu-pSMnHJJDLX2":1,"profiles\/nbcsports\/modules\/custom\/rsn_login_register\/theme\/js\/login-lightframe-controller.js":1,"profiles\/nbcsports\/modules\/custom\/rsn_login_register\/theme\/js\/iframe-tracker.js":1,"5":1,"https:\/\/www.nbcudigitaladops.com\/hosted\/global_header.js":1,"6":1,"profiles\/nbcsports\/themes\/custom\/golfchannel_v2_theme\/js\/jquery.watermark.js":1,"profiles\/nbcsports\/themes\/custom\/golfchannel_v2_theme\/js\/global.js":1,"profiles\/nbcsports\/themes\/custom\/golfchannel_v2_theme\/js\/ramp.js":1,"profiles\/nbcsports\/themes\/custom\/golfchannel_v2_theme\/js\/ticker.js":1,"profiles\/nbcsports\/themes\/custom\/golfchannel_v2_theme\/js\/mailto.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"profiles\/nbcsports\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/nbcsports\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/nbcsports\/modules\/contrib\/menu_minipanels\/css\/menu_minipanels.css":1,"profiles\/nbcsports\/modules\/vendor\/ctools\/css\/ctools.css":1,"profiles\/nbcsports\/modules\/custom\/gfc_ontv\/facebox\/facebox.css":1,"profiles\/nbcsports\/modules\/contrib\/jreject\/jReject\/css\/jquery.reject.css":1,"public:\/\/css\/menu_icons.css":1,"profiles\/nbcsports\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/nbcsports\/modules\/contrib\/extlink\/extlink.css":1,"profiles\/nbcsports\/modules\/contrib\/panels\/plugins\/layouts\/twocol\/twocol.css":1,"profiles\/nbcsports\/modules\/contrib\/panels\/plugins\/layouts\/threecol_33_34_33\/threecol_33_34_33.css":1,"profiles\/nbcsports\/modules\/contrib\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"profiles\/nbcsports\/themes\/custom\/golfchannel_v2_theme\/css\/compiled\/golfchannel.css":1,"profiles\/nbcsports\/themes\/custom\/golfchannel_v2_theme\/css\/site.css":1,"https:\/\/fonts.googleapis.com\/css?family=Crimson+Text:400,400italic,600,600italic,700,700italic":1,"profiles\/nbcsports\/themes\/custom\/golfchannel_v2_theme\/css\/compiled\/jarrod-lyle.css":1}},"user_alert":{"url_prefix":""},"extlink":{"extTarget":0,"extClass":"ext","extSubdomains":1,"extExclude":"","extInclude":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto"},"gigya":{"enabledProviders":"*","lang":"en","sessionExpiration":2000000,"connectWithoutLoginBehavior":"loginExistingUser","mv":"mayor","loginMode":"drupal"},"gigyaSocialNetworks":"facebook","gigyaComments":{"commentsUIparams":{"categoryID":"General Comments","streamID":"751856","containerID":"gigya-comments","scope":"external","privacy":"private","context":{"id":"gigya-comments"},"version":2,"useSiteLogin":false,"enabledShareProviders":"facebook"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+  <link type="text/css" rel="stylesheet" href="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/css/css_U7b_pB7e0nGaObbxl6WT43RCNmarN2fBLbRrJmdIhPU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/css/css_ykW7h7pvw75QpRl4QqIz_nldayXgo8uGdKEF2pUTOk4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/css/css_q122pphOdCGQZ9dkkTc2PwT5j-MEEkyTp56uQzPAtLQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,600,600italic,700,700italic" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/css/css_GUgpSXHmc6Cn7Ji3nRCXokhxJkcZtsHOSaDFh9wdqx8.css" media="all" />
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-751856 node-type-article" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+<section id="mobile-app" class="">
+	<div class="wrap">		
+		<a href="#" class="close">&times;</a>
+		<div class="logo"></div>
+		<div class="details">
+			<div class="title">Golf Channel Mobile</div>
+			<div class="company">Golf Channel</div>
+			<div class="price">Free</div>
+		</div>
+		<a href="#" class="install">install</a>
+	</div>
+</section>
+  <div class="region region-scoreboard-only">
+    <div id="golfTicker">
+    <div class="golfTickerInner">
+        <div class="tickerSelect">
+      <a href="/tours/pga-tour/2016/northern-trust-open/" id="tickerSelectTrigger">
+    <span class="trunc">PGA Tour</span>
+    <div class="tickerDropArrow"></div>
+</a><div id="tickerDrop" style="display: none;">
+	<ul>
+		      <li>
+    <a eventId="ticker-event16593" rel="" alt="PGA Tour" ><span class="smTitle">PGA Tour</span></a>
+    <ul class="sublist">
+        <li><a eventId="ticker-event16593" class="autoScrollable" alt="PGA Tour" href="" rel=""><span class="trunc">Northern Trust Open</span></a></li>
+    </ul>
+</li>
+      <li>
+    <a eventId="ticker-event16647" rel="" alt="European Tour" ><span class="smTitle">European Tour</span></a>
+    <ul class="sublist">
+        <li><a eventId="ticker-event16647" class="autoScrollable" alt="European Tour" href="" rel=""><span class="trunc">Maybank Championship Malaysia</span></a></li>
+    </ul>
+</li>
+      <li>
+    <a eventId="ticker-event16714" rel="" alt="LPGA" ><span class="smTitle">LPGA</span></a>
+    <ul class="sublist">
+        <li><a eventId="ticker-event16714" class="autoScrollable" alt="LPGA" href="" rel=""><span class="trunc">ISPS Handa Women's Australian Open</span></a></li>
+    </ul>
+</li>
+    			<li>
+			<a eventid="wgt" rel="" alt="WGT Virtual Tour">
+				<span class="smTitle">WGT Virtual Tour</span>
+			</a>
+			<ul class="sublist">
+				<li>
+					<a eventid="wgt" class="autoScrollable" alt="WGT Virtual Tour" href="" rel="">
+						<span class="trunc">
+							 							 Pinehurst No. 2 Open													</span>
+					</a>
+				</li>
+			</ul>
+		</li>
+				<li class="last">
+			<a id="ticker-sponsor" eventId="ticker-sponsor" class="autoScrollable" href="" alt="Titleist On Tour">
+				Titleist On Tour</a>
+		</li>
+	</ul>
+</div>
+</div><div id="tickerContent">
+    <!-- Tour/Score Template -->
+          
+
+
+<div class="loadedContent">
+  <div class="tickerTitle">
+      <span>Northern Trust Open</span>
+        <a class="tickerLeaderboardLink" href="/tours/pga-tour/2016/northern-trust-open/">View Tee Times &gt;</a>
+      	
+
+  </div> <!--[if !IE]> .tickerTitle <![endif]-->
+
+<div class="tickerCarousel">
+  <div class="tickerCarouselSlider">
+
+    
+  <ul class="scoreItem">
+    <li class="col1">-</li>
+    <li class="col2">
+      <a href="/player/40755/">J.Spieth</a>    </li>
+    <li class="col3">E</li>
+        <li class="col4"></li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">-</li>
+    <li class="col2">
+      <a href="/player/29449/">R.McIlroy</a>    </li>
+    <li class="col3">E</li>
+        <li class="col4"></li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">-</li>
+    <li class="col2">
+      <a href="/player/20442/">B.Watson</a>    </li>
+    <li class="col3">E</li>
+        <li class="col4"></li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">-</li>
+    <li class="col2">
+      <a href="/player/11890/">J.Rose</a>    </li>
+    <li class="col3">E</li>
+        <li class="col4"></li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">-</li>
+    <li class="col2">
+      <a href="/player/35289/">D.Johnson</a>    </li>
+    <li class="col3">E</li>
+        <li class="col4"></li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">-</li>
+    <li class="col2">
+      <a href="/player/42724/">H.Matsuyama</a>    </li>
+    <li class="col3">E</li>
+        <li class="col4"></li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">-</li>
+    <li class="col2">
+      <a href="/player/11121/">S.Garcia</a>    </li>
+    <li class="col3">E</li>
+        <li class="col4"></li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">-</li>
+    <li class="col2">
+      <a href="/player/12290/">A.Scott</a>    </li>
+    <li class="col3">E</li>
+        <li class="col4"></li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">-</li>
+    <li class="col2">
+      <a href="/player/23348/">J.Holmes</a>    </li>
+    <li class="col3">E</li>
+        <li class="col4"></li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">-</li>
+    <li class="col2">
+      <a href="/player/18572/">J.Walker</a>    </li>
+    <li class="col3">E</li>
+        <li class="col4"></li>
+      </ul>
+  
+    <ul class="scoreItem">
+      <li class="tickerTitle seemore">
+        <strong><a class="tickerLeaderboardLink" href="/tours/pga-tour/2016/northern-trust-open/">FULL LEADERBOARD</a></strong>
+      </li>
+    </ul>
+  </div>  <!--[if !IE]> .tickerCarouselSlider <![endif]-->
+  </div> <!--[if !IE]> .tickerCarousel <![endif]-->
+</div>
+    <a href="#" id="tickerPrev">Prev</a> <a href="#" id="tickerNxt">Next</a>
+</div>
+    </div>
+</div><div id="tickerHiddenContent" style="display:none;">
+        
+<div id="ticker-event16593">
+    
+
+
+<div class="loadedContent">
+  <div class="tickerTitle">
+      <span>Northern Trust Open</span>
+        <a class="tickerLeaderboardLink" href="/tours/pga-tour/2016/northern-trust-open/">View Tee Times &gt;</a>
+      	
+
+  </div> <!--[if !IE]> .tickerTitle <![endif]-->
+
+<div class="tickerCarousel">
+  <div class="tickerCarouselSlider">
+
+    
+  <ul class="scoreItem">
+    <li class="col1">-</li>
+    <li class="col2">
+      <a href="/player/40755/">J.Spieth</a>    </li>
+    <li class="col3">E</li>
+        <li class="col4"></li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">-</li>
+    <li class="col2">
+      <a href="/player/29449/">R.McIlroy</a>    </li>
+    <li class="col3">E</li>
+        <li class="col4"></li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">-</li>
+    <li class="col2">
+      <a href="/player/20442/">B.Watson</a>    </li>
+    <li class="col3">E</li>
+        <li class="col4"></li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">-</li>
+    <li class="col2">
+      <a href="/player/11890/">J.Rose</a>    </li>
+    <li class="col3">E</li>
+        <li class="col4"></li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">-</li>
+    <li class="col2">
+      <a href="/player/35289/">D.Johnson</a>    </li>
+    <li class="col3">E</li>
+        <li class="col4"></li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">-</li>
+    <li class="col2">
+      <a href="/player/42724/">H.Matsuyama</a>    </li>
+    <li class="col3">E</li>
+        <li class="col4"></li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">-</li>
+    <li class="col2">
+      <a href="/player/11121/">S.Garcia</a>    </li>
+    <li class="col3">E</li>
+        <li class="col4"></li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">-</li>
+    <li class="col2">
+      <a href="/player/12290/">A.Scott</a>    </li>
+    <li class="col3">E</li>
+        <li class="col4"></li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">-</li>
+    <li class="col2">
+      <a href="/player/23348/">J.Holmes</a>    </li>
+    <li class="col3">E</li>
+        <li class="col4"></li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">-</li>
+    <li class="col2">
+      <a href="/player/18572/">J.Walker</a>    </li>
+    <li class="col3">E</li>
+        <li class="col4"></li>
+      </ul>
+  
+    <ul class="scoreItem">
+      <li class="tickerTitle seemore">
+        <strong><a class="tickerLeaderboardLink" href="/tours/pga-tour/2016/northern-trust-open/">FULL LEADERBOARD</a></strong>
+      </li>
+    </ul>
+  </div>  <!--[if !IE]> .tickerCarouselSlider <![endif]-->
+  </div> <!--[if !IE]> .tickerCarousel <![endif]-->
+</div>
+</div>      
+<div id="ticker-event16647">
+    
+
+
+<div class="loadedContent">
+  <div class="tickerTitle">
+      <span>Maybank Championship Malaysia</span>
+        <a class="tickerLeaderboardLink" href="/tours/european-tour/2016/maybank-championship-malaysia/">View Tee Times &gt;</a>
+      	
+
+  </div> <!--[if !IE]> .tickerTitle <![endif]-->
+
+<div class="tickerCarousel">
+  <div class="tickerCarouselSlider">
+
+    
+  <ul class="scoreItem">
+    <li class="col1">1</li>
+    <li class="col2">
+      <a href="/player/54490/">N.Holman</a>    </li>
+    <li class="col3">-7</li>
+        <li class="col4">F</li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">2</li>
+    <li class="col2">
+      <a href="/player/23085/">A.Que</a>    </li>
+    <li class="col3">-6</li>
+        <li class="col4">F</li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">T3</li>
+    <li class="col2">
+      <a href="/player/12103/">R.Bland</a>    </li>
+    <li class="col3">-5</li>
+        <li class="col4">F</li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">T3</li>
+    <li class="col2">
+      <a href="/player/34911/">K.Kim</a>    </li>
+    <li class="col3">-5</li>
+        <li class="col4">F</li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">T3</li>
+    <li class="col2">
+      <a href="/player/23109/">P.Meesawat</a>    </li>
+    <li class="col3">-5</li>
+        <li class="col4">F</li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">T3</li>
+    <li class="col2">
+      <a href="/player/30578/">P.Uihlein</a>    </li>
+    <li class="col3">-5</li>
+        <li class="col4">5</li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">T7</li>
+    <li class="col2">
+      <a href="/player/37841/">G.Bhullar</a>    </li>
+    <li class="col3">-4</li>
+        <li class="col4">F</li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">T7</li>
+    <li class="col2">
+      <a href="/player/42395/">T.Chuayprakong</a>    </li>
+    <li class="col3">-4</li>
+        <li class="col4">F</li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">T7</li>
+    <li class="col2">
+      <a href="/player/39106/">W.Ashun</a>    </li>
+    <li class="col3">-4</li>
+        <li class="col4">9</li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">T10</li>
+    <li class="col2">
+      <a href="/player/43104/">K.De Silva</a>    </li>
+    <li class="col3">-3</li>
+        <li class="col4">F</li>
+      </ul>
+  
+    <ul class="scoreItem">
+      <li class="tickerTitle seemore">
+        <strong><a class="tickerLeaderboardLink" href="/tours/european-tour/2016/maybank-championship-malaysia/">FULL LEADERBOARD</a></strong>
+      </li>
+    </ul>
+  </div>  <!--[if !IE]> .tickerCarouselSlider <![endif]-->
+  </div> <!--[if !IE]> .tickerCarousel <![endif]-->
+</div>
+</div>      
+<div id="ticker-event16714">
+    
+
+
+<div class="loadedContent">
+  <div class="tickerTitle">
+      <span>ISPS Handa Women's Australian Open</span>
+        <a class="tickerLeaderboardLink" href="/tours/lpga/2016/isps-handa-womens-australian-open/">View Tee Times &gt;</a>
+      	
+
+  </div> <!--[if !IE]> .tickerTitle <![endif]-->
+
+<div class="tickerCarousel">
+  <div class="tickerCarouselSlider">
+
+    
+  <ul class="scoreItem">
+    <li class="col1">1</li>
+    <li class="col2">
+      <a href="/player/40832/">S.Kim</a>    </li>
+    <li class="col3">-9</li>
+        <li class="col4">F</li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">2</li>
+    <li class="col2">
+      <a href="/player/40827/">C.Grice</a>    </li>
+    <li class="col3">-6</li>
+        <li class="col4">F</li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">T3</li>
+    <li class="col2">
+      <a href="/player/58713/">H.Jin Choi</a>    </li>
+    <li class="col3">-5</li>
+        <li class="col4">F</li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">T3</li>
+    <li class="col2">
+      <a href="/player/38724/">P.Kongkraphan</a>    </li>
+    <li class="col3">-5</li>
+        <li class="col4">F</li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">T3</li>
+    <li class="col2">
+      <a href="/player/34284/">J.Shin</a>    </li>
+    <li class="col3">-5</li>
+        <li class="col4">F</li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">T3</li>
+    <li class="col2">
+      <a href="/player/11288/">K.Webb</a>    </li>
+    <li class="col3">-5</li>
+        <li class="col4">17</li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">T3</li>
+    <li class="col2">
+      <a href="/player/40939/">C.Masson</a>    </li>
+    <li class="col3">-5</li>
+        <li class="col4">15</li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">T8</li>
+    <li class="col2">
+      <a href="/player/58522/">D.Holmqvist</a>    </li>
+    <li class="col3">-4</li>
+        <li class="col4">F</li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">T8</li>
+    <li class="col2">
+      <a href="/player/11315/">C.Matthew</a>    </li>
+    <li class="col3">-4</li>
+        <li class="col4">15</li>
+      </ul>
+    <ul class="scoreItem">
+    <li class="col1">T10</li>
+    <li class="col2">
+      <a href="/player/25458/">B.Allen</a>    </li>
+    <li class="col3">-3</li>
+        <li class="col4">F</li>
+      </ul>
+  
+    <ul class="scoreItem">
+      <li class="tickerTitle seemore">
+        <strong><a class="tickerLeaderboardLink" href="/tours/lpga/2016/isps-handa-womens-australian-open/">FULL LEADERBOARD</a></strong>
+      </li>
+    </ul>
+  </div>  <!--[if !IE]> .tickerCarouselSlider <![endif]-->
+  </div> <!--[if !IE]> .tickerCarousel <![endif]-->
+</div>
+</div>    <div id="ticker-sponsor">
+      <div class="loadedContent">
+          <div class="tickerTitle">
+              <a href="http://www.titleist.com" target="_blank">Titleist Wins </a>
+          </div> <!--[if !IE]> .tickerTitle <![endif]-->
+
+          <div class="tickerCarousel">
+              <div class="tickerCarouselSlider" style="width: 516px;">
+                  <ul class="sponsoredList" style="">
+                      <li>
+                          <p><a href="http://www.titleist.com" target="_blank" rel="nofollow">Titleist Pro V1x loyalist Vaughn Taylor closed with a 7-under par 65 to capture the AT&amp;T Pebble Beach Pro-Am </a></p>
+
+                      </li>
+                  </ul>
+              </div>  <!--[if !IE]> .tickerCarouselSlider <![endif]-->
+          </div> <!--[if !IE]> .tickerCarousel <![endif]-->
+      </div>
+  </div>
+</div>
+<div id="block-mps-scoringtracker" class="block block-mps">
+
+    
+  <div class="content">
+    <div id="scoringtracker"><script>typeof(mps.getAd)=='function' && document.write(mps.getAd('scoringtracker'));</script></div>  </div>
+</div>
+  </div>
+
+<div id="page-top">
+    <div class="region region-header">
+    <div id="block-ghost-searchbox" class="block block-ghost">
+
+    
+  <div class="content">
+    <form action="/search/" method="get">
+  <input id="globalSearchBox" class="textInput" name="q" type="text">
+  <input id="submitSearch" class="inputBtn" name="submitSearch" value=" " type="submit">
+  <div id="globalSearchList">&nbsp;</div>
+</form>
+  </div>
+</div>
+<div id="block-system-user-menu" class="block block-system block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li  class="first collapsed watch-live-tv"><a href="/liveextra/">Watch Live TV</a></li>
+<li  class="leaf book-tee-times"><a href="http://trk.golfpartnernetwork.com/?a=513&amp;c=589&amp;s1=" target="_blank">BOOK TEE TIMES</a></li>
+<li  class="leaf log-in"><a href="/login/">Log In</a></li>
+<li  class="leaf email-sign-up"><a href="/newsletters/" target="_blank">Email Sign Up</a></li>
+<li  class="leaf shop"><a href="http://shop.golfchannel.com/" target="_blank">Shop</a></li>
+<li  class="last leaf"><span class="nolink">Search</span></li>
+</ul>  </div>
+</div>
+  </div>
+      <div class="logo">
+      <div id="logo" itemscope itemtype="http://schema.org/Organization">
+        <a href="http://www.golfchannel.com/" itemprop="url">Home</a>        <img itemprop="logo" src="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/golfLogo.png" />
+      </div>
+    </div>
+    <nav class="menu-mobile">
+	<div class="menu"><span>menu</span></div>
+	<div class="search"><span>search</span></div>
+	<div class="logo"><a href="/"></a></div>
+	<div class="watch"><a href="/liveextra/">watch tv</a></div>
+	<div class="scores"><span>scores</span></div>
+</nav>
+      <div id="primary-menu-bar" class="nav">
+      <nav class="clearfix">
+        <h2 class="element-invisible">Primary navigation</h2><ul class="menu primary-menu clearfix"><li class="menu-610 home first"><a href="/" id="first">Home</a></li>
+<li class="menu-609 scores"><a href="/tours/" class="menu-minipanel menu-minipanel-609 menuparent">Scores</a><ul class="menu-minipanel-panel menu-minipanel-gfc-mega-menu-tours">
+  <li class="first odd last">
+    <div class="panel-display panel-2col clearfix" id="mini-panel-gfc_mega_menu_tours">
+  <div class="panel-panel panel-col-first">
+    <div class="inside"><div class="panel-pane pane-custom pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <p><a href="http://www.golfchannel.com/tours">VIEW ALL TOURS &amp; TOURNAMENTS</a></p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><!-- panels-pane--views-gfc-tours.tpl.php -->
+<div class="panel-pane pane-views pane-gfc-tours" >
+  
+        <h2 class="pane-title">TOURNAMENTS</h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-gfc-tours view-id-gfc_tours view-display-id-block_1 view-dom-id-5463d241b67587da0843a500f5028859">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul class="current-tournaments-list">          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/tours/pga-tour/2016/northern-trust-open/">Northern Trust Open</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/tours/european-tour/2016/maybank-championship-malaysia/">Maybank Championship Malaysia</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/tours/lpga/2016/isps-handa-womens-australian-open/">ISPS Handa Women&#039;s Australian Open</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"><div class="panel-pane pane-block pane-menu-menu-gfc-mega-menu-tours-tours"  >
+  
+        <h2 class="pane-title">Tours</h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li  class="first leaf pga-tour"><a href="/tours/pga-tour/">PGA Tour</a></li>
+<li  class="leaf european-tour"><a href="/tours/european-tour/">European Tour</a></li>
+<li  class="leaf lpga-tour"><a href="/tours/lpga/">LPGA Tour</a></li>
+<li  class="leaf pga-tour-champions"><a href="/tours/pga-tour-champions/">PGA Tour Champions</a></li>
+<li  class="leaf web-com-tour"><a href="/tours/webcom-tour/">Web.com Tour</a></li>
+<li  class="leaf symetra-tour"><a href="/tours/symetra-tour/2015/firekeepers-casino-hotel-championship/">Symetra Tour</a></li>
+<li  class="leaf usga-tournaments"><a href="/tours/usga/">USGA Tournaments</a></li>
+<li  class="leaf wgc-tournaments"><a href="/tours/wgc/">WGC Tournaments</a></li>
+<li  class="last leaf wgt-virtual-tour"><a href="/tours/world-golf-tour/">WGT Virtual Tour</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </li>
+</ul>
+</li>
+<li class="menu-596 news"><a href="/news/" class="menu-minipanel menu-minipanel-596 menuparent">News</a><ul class="menu-minipanel-panel menu-minipanel-gfc-mega-menu-news">
+  <li class="first odd last">
+    <div class="panel-display panel-2col clearfix" id="mini-panel-gfc_mega_menu_news">
+  <div class="panel-panel panel-col-first">
+    <div class="inside"><div class="panel-pane pane-custom pane-6"  >
+  
+      
+  
+  <div class="pane-content">
+    <p><a href="http://www.golfchannel.com/news" class="megamenu_anchor">Latest News</a></p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><!-- panels-pane--block--menu-menu-gfc-mega-menu-news-blogs.tpl.php -->
+<div class="panel-pane pane-block pane-menu-menu-gfc-mega-menu-news-blogs" >
+  
+        <h2 class="pane-title">GO IN DEPTH</h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li  class="first leaf golf-central-blog"><a href="/news/golftalkcentral/">Golf Central Blog</a></li>
+<li  class="leaf college-central"><a href="/college-central/">College Central</a></li>
+<li  class="leaf grill-room"><a href="/grill-room/">Grill Room</a></li>
+<li  class="leaf fantasy-central"><a href="/news/fantasy-central/">Fantasy Central</a></li>
+<li  class="leaf olympic-golf"><a href="/golf-olympics/">Olympic Golf</a></li>
+<li  class="leaf equipment-insider"><a href="/news/equipment-insider/">Equipment Insider</a></li>
+<li  class="leaf golf-advisor-travel"><a href="http://www.golfadvisor.com/articles/ ">Golf Advisor Travel</a></li>
+<li  class="leaf golf-tv-insider"><a href="/news/golf-tv-insider/">Golf TV Insider</a></li>
+<li  class="leaf wgt-virtual-tour"><a href="/news/wgt-virtual-tour/">WGT Virtual Tour</a></li>
+<li  class="last leaf prudential-up-to-the-challenge"><a href="http://www.golfchannel.com/topics/misc/prudential-up-to-the-challenge.htm">Prudential Up to the Challenge</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"><!-- panels-pane--block--menu-menu-gfc-mega-menu-news-writers.tpl.php -->
+<div class="panel-pane pane-block pane-menu-menu-gfc-mega-menu-news-writers" >
+  
+        <h2 class="pane-title">Writers</h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li  class="first leaf rex-hoggard"><a href="/news/rex-hoggard/">Rex Hoggard</a></li>
+<li  class="leaf randall-mell"><a href="/news/randall-mell/">Randall Mell</a></li>
+<li  class="leaf ryan-lavner"><a href="/news/ryan-lavner/">Ryan Lavner</a></li>
+<li  class="leaf joe-posnanski"><a href="/news/joe-posnanski/">Joe Posnanski</a></li>
+<li  class="leaf jay-coffin"><a href="/news/jay-coffin/">Jay Coffin</a></li>
+<li  class="leaf brandel-chamblee"><a href="/news/brandel-chamblee/">Brandel Chamblee</a></li>
+<li  class="leaf will-gray"><a href="/news/will-gray/">Will Gray</a></li>
+<li  class="leaf damon-hack"><a href="/news/damon-hack/">Damon Hack</a></li>
+<li  class="leaf john-feinstein"><a href="/news/john-feinstein/">John Feinstein</a></li>
+<li  class="leaf rich-lerner"><a href="/news/rich-lerner/">Rich Lerner</a></li>
+<li  class="leaf mercer-baggs"><a href="/news/mercer-baggs/">Mercer Baggs</a></li>
+<li  class="leaf al-tays"><a href="/news/al-tays/">Al Tays</a></li>
+<li  class="last leaf bailey-mosier"><a href="/news/bailey-mosier/">Bailey Mosier</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </li>
+</ul>
+</li>
+<li class="menu-595 videos-photos"><a href="/media/">Videos &amp; Photos</a></li>
+<li class="menu-594 instruction"><a href="/instruction/" class="menu-minipanel menu-minipanel-594 menuparent">Instruction</a><ul class="menu-minipanel-panel menu-minipanel-mega-menu-instruction">
+  <li class="first odd last">
+    <div class="panel-display panel-2col clearfix" id="mini-panel-mega_menu_instruction">
+  <div class="panel-panel panel-col-first">
+    <div class="inside"><div class="panel-pane pane-custom pane-2"  >
+  
+      
+  
+  <div class="pane-content">
+    <p><a href="http://www.golfchannel.com/instruction" class="megamenu-anchor">Latest Instruction</a></p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><!-- panels-pane--block--menu-menu-gfc-mega-menu-instruction-l.tpl.php -->
+<div class="panel-pane pane-block pane-menu-menu-gfc-mega-menu-instruction-l" >
+  
+        <h2 class="pane-title">LEARN MORE</h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li  class="first leaf golf-instruction-blog"><a href="/news/golf-instruction/">Golf Instruction Blog </a></li>
+<li  class="leaf the-golf-fix"><a href="/tv/the-golf-fix/">The Golf Fix</a></li>
+<li  class="leaf school-of-golf"><a href="/tv/school-of-golf/">School of Golf</a></li>
+<li  class="leaf golf-channel-academy"><a href="/tv/golf-channel-academy/">Golf Channel Academy</a></li>
+<li  class="leaf learning-center"><a href="/tv/champions-tour-learning-center/">Learning Center</a></li>
+<li  class="last leaf find-a-coach"><a href="http://golfchannelacademy.com" target="_blank">Find a Coach</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"><!-- panels-pane--block--menu-menu-gfc-mega-menu-instruction-t.tpl.php -->
+<div class="panel-pane pane-block pane-menu-menu-gfc-mega-menu-instruction-t" >
+  
+        <h2 class="pane-title">TIPS</h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li  class="first leaf all-topics"><a href="http://www.golfchannel.com/topics/instruction/">All Topics</a></li>
+<li  class="leaf accuracy"><a href="http://www.golfchannel.com/topics/instruction/accuracy.htm">Accuracy</a></li>
+<li  class="leaf chipping"><a href="http://www.golfchannel.com/topics/instruction/chipping.htm">Chipping</a></li>
+<li  class="leaf distance"><a href="http://www.golfchannel.com/topics/instruction/distance.htm">Distance</a></li>
+<li  class="leaf driving"><a href="http://www.golfchannel.com/topics/instruction/driving.htm">Driving</a></li>
+<li  class="leaf fairway-woods"><a href="http://www.golfchannel.com/topics/instruction/fairway-woods.htm">Fairway Woods</a></li>
+<li  class="leaf fat-shots"><a href="http://www.golfchannel.com/topics/instruction/fat-shots.htm">Fat Shots</a></li>
+<li  class="leaf full-swing"><a href="http://www.golfchannel.com/topics/instruction/full-swing.htm">Full Swing</a></li>
+<li  class="leaf golf-fitness"><a href="http://www.golfchannel.com/topics/instruction/golf-fitness.htm">Golf Fitness</a></li>
+<li  class="leaf hybrids"><a href="http://www.golfchannel.com/topics/instruction/hybrids.htm">Hybrids</a></li>
+<li  class="leaf lower-your-score"><a href="http://www.golfchannel.com/topics/instruction/lower-your-score.htm">Lower Your Score</a></li>
+<li  class="last leaf tips-to-your-inbox"><a href="/newsletters/">Tips to Your Inbox</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </li>
+</ul>
+</li>
+<li class="menu-4366 equipment"><a href="/equipment/" class="menu-minipanel menu-minipanel-4366 menuparent">Equipment</a><ul class="menu-minipanel-panel menu-minipanel-mega-menu-equipment">
+  <li class="first odd last">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-mega_menu_equipment">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-custom pane-2"  >
+  
+      
+  
+  <div class="pane-content">
+    <p><a href="http://www.golfchannel.com/equipment">LATEST ON EQUIPMENT</a></p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><!-- panels-pane--block--menu-menu-gfc-mega-menu-equipment-lea.tpl.php -->
+<div class="panel-pane pane-block pane-menu-menu-gfc-mega-menu-equipment-lea" >
+  
+        <h2 class="pane-title">Learn More</h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li  class="first last leaf equipment-insider"><a href="/news/equipment-insider/">Equipment Insider</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </li>
+</ul>
+</li>
+<li class="menu-598 travel"><a href="http://www.golfadvisor.com/" class="menu-minipanel menu-minipanel-598 menuparent">Travel</a><ul class="menu-minipanel-panel menu-minipanel-mega-menu-travel">
+  <li class="first odd last">
+    <div class="panel-display panel-2col clearfix" id="mini-panel-mega_menu_travel">
+  <div class="panel-panel panel-col-first">
+    <div class="inside"><div class="panel-pane pane-custom pane-3"  >
+  
+      
+  
+  <div class="pane-content">
+    <div style="padding-top: 1px;"> </div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><!-- panels-pane--block--menu-menu-travel-blog.tpl.php -->
+<div class="panel-pane pane-block pane-menu-menu-travel-blog" >
+  
+        <h2 class="pane-title">EXPLORE</h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li  class="first leaf all-travel"><a href="http://www.golfadvisor.com/">All Travel</a></li>
+<li  class="leaf golf-advisor-top-50-courses"><a href="http://www.golfadvisor.com/best-of/">Golf Advisor Top 50 Courses</a></li>
+<li  class="leaf golf-advisor-travel-blog"><a href="http://www.golfadvisor.com/articles/ ">Golf Advisor Travel Blog</a></li>
+<li  class="last leaf golf-advisor-founding-partners"><a href="http://www.golfadvisor.com/founding-partners.html">Golf Advisor Founding Partners</a></li>
+</ul>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><!-- panels-pane--block--menu-menu-golfnow-menu.tpl.php -->
+<div class="panel-pane pane-block pane-menu-menu-golfnow-menu" >
+  
+        <h2 class="pane-title">GOLFNOW</h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li  class="first leaf tee-times"><a href="http://www.golfnow.com/" target="_blank">Tee Times</a></li>
+<li  class="leaf course-directory"><a href="http://www.golfnow.com/course-directory" target="_blank">Course Directory</a></li>
+<li  class="last leaf deal-caddy"><a href="http://dealcaddy.golfnow.com/" target="_blank">Deal Caddy</a></li>
+</ul>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><!-- panels-pane--block--menu-menu-golf-channel-am-tour.tpl.php -->
+<div class="panel-pane pane-block pane-menu-menu-golf-channel-am-tour" >
+  
+        <h2 class="pane-title">GOLF CHANNEL AM TOUR</h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li  class="first leaf overview"><a href="http://gcamtour.com/" target="_blank">Overview</a></li>
+<li  class="leaf results"><a href="https://thegolfchannel.bluegolf.com/bluegolf/thegolfchannel16/schedule/majors/index.htm " target="_blank">Results</a></li>
+<li  class="last leaf schedule"><a href="https://thegolfchannel.bluegolf.com/bluegolf/thegolfchannel16/schedule/majors/upcoming.htm?view=detailed" target="_blank">Schedule</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"><!-- panels-pane--block--menu-menu-locations-menu.tpl.php -->
+<div class="panel-pane pane-block pane-menu-menu-locations-menu" >
+  
+        <h2 class="pane-title">TOP DESTINATIONS</h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li  class="first leaf tampa-fl"><a href="http://www.golfadvisor.com/destinations/43-tampa-fl/">Tampa, FL</a></li>
+<li  class="leaf orlando-fl"><a href="http://www.golfadvisor.com/destinations/41-orlando-fl/">Orlando, FL</a></li>
+<li  class="leaf miami-fl"><a href="http://www.golfadvisor.com/destinations/38-miami-fl/">Miami, FL</a></li>
+<li  class="leaf san-diego-ca"><a href="http://www.golfadvisor.com/destinations/22-san-diego-ca/">San Diego, CA</a></li>
+<li  class="leaf san-francisco-ca"><a href="http://www.golfadvisor.com/destinations/23-san-francisco-ca/">San Francisco, CA</a></li>
+<li  class="leaf dallas-ft-worth-tx"><a href="http://www.golfadvisor.com/destinations/143-dallas-ft-worth-tx/">Dallas - Ft. Worth, TX</a></li>
+<li  class="leaf phoenix-scottsdale-az"><a href="http://www.golfadvisor.com/destinations/9-phoenix-scottsdale-az/">Phoenix/Scottsdale, AZ</a></li>
+<li  class="leaf hawaii"><a href="http://www.golfadvisor.com/destinations/166-hawaii-hi/">Hawaii</a></li>
+<li  class="leaf myrtle-beach-sc"><a href="http://www.golfadvisor.com/destinations/134-myrtle-beach-sc/">Myrtle Beach, SC</a></li>
+<li  class="leaf las-vegas-nv"><a href="http://www.golfadvisor.com/destinations/104-las-vegas-nv/">Las Vegas, NV</a></li>
+<li  class="last leaf hilton-head-island-s-c"><a href="http://www.golfadvisor.com/destinations/133-hilton-head-sc/">Hilton Head Island, S.C. </a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </li>
+</ul>
+</li>
+<li class="menu-15283 shows"><a href="/tv/" class="menu-minipanel menu-minipanel-15283 menuparent">Shows</a><ul class="menu-minipanel-panel menu-minipanel-mega-menu-on-tv">
+  <li class="first odd last">
+    
+<div class="panel-display panel-3col-33 clearfix" id="mini-panel-mega_menu_on_tv">
+  <div class="panel-panel panel-col-first">
+    <div class="inside"><!-- panels-pane--block--menu-menu-gfc-mega-menu-on-tv-fs.tpl.php -->
+<div class="panel-pane pane-block pane-menu-menu-gfc-mega-menu-on-tv-fs" >
+	<div class="panel-pane pane-custom pane-8">
+		<div class="pane-content">
+	    <a href="/tv/" class="megamenu_anchor">View all shows</a>  
+	  </div>
+	</div>
+  
+        <h2 class="pane-title">TV Shows</h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li  class="first leaf altered-course"><a href="/tv/altered-course/">Altered Course</a></li>
+<li  class="leaf arnie-me"><a href="/tv/arnie/">Arnie &amp; Me</a></li>
+<li  class="leaf learning-center"><a href="/tv/champions-tour-learning-center/">Learning Center</a></li>
+<li  class="leaf golf-central"><a href="/tv/golf-central/">Golf Central</a></li>
+<li  class="leaf golf-channel-academy"><a href="/tv/golf-channel-academy/">Golf Channel Academy</a></li>
+<li  class="leaf golf-tv-insider-blog"><a href="/news/golf-tv-insider/">Golf TV Insider Blog</a></li>
+<li  class="leaf feherty"><a href="/tv/feherty/">Feherty</a></li>
+<li  class="leaf morning-drive"><a href="/tv/morning-drive/">Morning Drive</a></li>
+<li  class="leaf playing-lessons"><a href="/tv/playing-lessons/">Playing Lessons</a></li>
+<li  class="leaf school-of-golf"><a href="/tv/school-of-golf/">School of Golf</a></li>
+<li  class="last leaf the-golf-fix"><a href="/tv/the-golf-fix/">The Golf Fix</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col">
+    <div class="inside"><!-- panels-pane--block--menu-menu-gfc-mega-menu-on-tv-fe.tpl.php -->
+<div class="panel-pane pane-block pane-menu-menu-gfc-mega-menu-on-tv-fe" >
+  
+        <h2 class="pane-title">Online Shows</h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li  class="first leaf college-central"><a href="/tv/college-central/">College Central</a></li>
+<li  class="leaf fairways-of-life"><a href="/tv/fairways-life/">Fairways of Life</a></li>
+<li  class="leaf for-the-record"><a href="/tv/for-the-record/">For the Record</a></li>
+<li  class="leaf golf-business"><a href="/tv/golf-business/">Golf Business</a></li>
+<li  class="leaf grill-room"><a href="/tv/grill-room/">Grill Room</a></li>
+<li  class="leaf instruction-a-to-z"><a href="/tv/instruction-a-to-z/">Instruction A-to-Z</a></li>
+<li  class="leaf monday-scramble"><a href="/tv/monday-scramble/">Monday Scramble</a></li>
+<li  class="leaf on-the-clock"><a href="/tv/on-the-clock/">On the Clock</a></li>
+<li  class="leaf stat-man"><a href="/tv/stat-man/">Stat Man</a></li>
+<li  class="leaf swing-thoughts"><a href="/tv/swing-thoughts/">Swing Thoughts</a></li>
+<li  class="last leaf the-moment-is-now"><a href="/tv/moment-now/">The Moment is Now</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"><!-- panels-pane--block--menu-menu-gfc-mega-menu-on-tv-mfe.tpl.php -->
+<div class="panel-pane pane-block pane-menu-menu-gfc-mega-menu-on-tv-mfe" >
+  
+        <h2 class="pane-title">Full Episodes</h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li  class="first leaf big-break-the-palm-beaches-fl"><a href="/tv/big-break-the-palm-beaches-fl/">Big Break The Palm Beaches, FL</a></li>
+<li  class="leaf big-break-myrtle-beach"><a href="/tv/big-break-myrtle-beach/">Big Break Myrtle Beach</a></li>
+<li  class="leaf feherty"><a href="/tv/feherty/">Feherty</a></li>
+<li  class="leaf the-haney-project-adam-levine"><a href="/tv/the-haney-project/">The Haney Project -Adam Levine</a></li>
+<li  class="leaf playing-lessons"><a href="/tv/playing-lessons/">Playing Lessons</a></li>
+<li  class="leaf the-golf-fix"><a href="/tv/the-golf-fix/">The Golf Fix</a></li>
+<li  class="last leaf more-full-episodes"><a href="http://www.golfchannel.com/tv/#allShowsSec">More Full Episodes</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </li>
+</ul>
+</li>
+<li class="menu-16968 virtual-tour"><a href="/virtualgolf/" class="menu-minipanel menu-minipanel-16968 menuparent">Virtual Tour</a><ul class="menu-minipanel-panel menu-minipanel-virtual-golf-mini-panel">
+  <li class="first odd last">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-virtual_golf_mini_panel">
+  <div class="panel-panel panel-col">
+    <div><!-- panels-pane--block--menu-menu-gfc-mega-menu-virtual-golf.tpl.php -->
+<div class="panel-pane pane-block pane-menu-menu-gfc-mega-menu-virtual-golf" >
+  
+        <h2 class="pane-title">World Golf Tour</h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li  class="first leaf play-online"><a href="/virtualgolf/">Play Online</a></li>
+<li  class="leaf blog"><a href="/news/wgt-virtual-tour/">Blog</a></li>
+<li  class="last leaf scores"><a href="/tours/world-golf-tour/">Scores</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </li>
+</ul>
+</li>
+<li class="menu-16672 mobile"><a href="/mobile/">Mobile</a></li>
+<li class="menu-44286 book-tee-times"><a href="http://trk.golfpartnernetwork.com/?a=513&amp;c=589&amp;s1" class="book-tee-times">Book Tee Times</a></li>
+<li class="menu-37011 shop"><a href="http://golfchannel.teamfanshop.com" class="shop">Shop</a></li>
+<li class="menu-24656 email-sign-up"><a href="/newsletters/">Email Sign Up</a></li>
+<li class="menu-603 fantasy last"><a href="http://fantasy.golfchannel.com/">Fantasy</a></li>
+</ul>      </nav>
+    </div>
+  </div>
+  <div class="region region-menu-bar">
+    <div id="block-user-alert-user-alert" class="block block-user-alert">
+
+    
+  <div class="content">
+       </div>
+</div>
+  </div>
+
+
+<div id="page-outer">
+  <div id="page" class="container">
+    <div class="global-container">
+
+      
+      
+      <div class="main-content">
+
+                  <nav id="breadcrumb"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a></div></nav>
+        
+        
+        
+        <div id="columns"><div class="columns-inner clearfix">
+          <div id="content-column"><div class="content-inner">
+
+            
+                <section role="main">
+
+                                                      
+                  <div id="content">
+
+                      <div class="region region-content-top">
+    <div id="block-mps-topbanner" class="block block-mps">
+
+    
+  <div class="content">
+    <div id="topbanner"><script>typeof(mps.getAd)=='function' && document.write(mps.getAd('topbanner'));</script></div><div class="dynamic-logo-container"></div>  </div>
+</div>
+<div id="block-views-gfc-trending-topics-block-1" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-gfc-trending-topics view-id-gfc_trending_topics view-display-id-block_1 view-dom-id-946d885d1081bdf6a83972222ad7d652">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.wgt.com/affiliate.aspx?utm_source=golfchannel&amp;utm_medium=gc_web&amp;utm_campaign=trend_vt_jan16&amp;forward=http%3A//www.golfchannel.com/virtualgolf">Play Bandon Dunes</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.golfchannel.com/grill-room/">Grill Room</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.golfchannel.com/topics/tour/pga-tour.htm">PGA Tour</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.golfchannel.com/topics/events/northern-trust-open.htm">Northern Trust Open</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.golfchannel.com/topics/people/rory-mcilroy.htm">Rory McIlroy</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.golfchannel.com/topics/people/jordan-spieth.htm">Jordan Spieth</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.golfchannel.com/topics/people/tiger-woods.htm">Tiger Woods</a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.golfchannel.com/topics/people/phil-mickelson.htm">Phil Mickelson</a></span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.golfchannel.com/topics/events/masters-tournament.htm">Masters Tournament</a></span>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.golfchannel.com/topics/events/ryder-cup.htm">Ryder Cup</a></span>  </div>  </div>
+  <div class="views-row views-row-11 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.golfchannel.com/topics/tour/ncaa.htm">NCAA College Golf</a></span>  </div>  </div>
+  <div class="views-row views-row-12 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.golfchannel.com/topics/courses/riviera-country-club.htm">Riviera Country Club</a></span>  </div>  </div>
+  <div class="views-row views-row-13 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.golfchannel.com/topics/people/paul-casey.htm">Paul Casey</a></span>  </div>  </div>
+  <div class="views-row views-row-14 views-row-even views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.golfchannel.com/topics/people/dustin-johnson.htm">Dustin Johnson</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+
+                      <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    
+  <div class="article-main">
+
+          <div class="article-top">
+        <div class="panel-pane pane-entity-field pane-node-field-blog-reference"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-blog-reference field-type-node-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/news/news-opinion/">News &amp; Opinion</a></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-node-title" >
+  
+      
+  
+  <div class="pane-content">
+    <h1>Why should athletes have to talk after a painful defeat?</h1>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-secondary-authors-referenc article-author"  >
+  
+        <h2 class="pane-title">By</h2>
+    
+  
+  <div class="pane-content">
+    <div class="field field-name-field-secondary-authors-referenc field-type-node-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/about/bio/rex-hoggard/">Rex Hoggard</a></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-published-date article-date"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-published-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-02-10T15:10:00-05:00">February 10, 2016, 3:10 pm</span></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-main-image"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-main-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/styles/gfc_main_image_600x292/public/2016/02/10/split_newton_fowler.jpg?itok=jDmNVmte" width="600" height="292" /></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-rsn-gigya-sharebar-widget-gigya-sharebar"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="componentDiv"></div>
+<script type="text/javascript">
+  if (typeof gigya != "undefined") {
+    var act = new gigya.socialize.UserAction();
+    var showShareBarUI_params = {"containerID":"componentDiv","shareButtons":[{"provider":"facebook"},{"provider":"twitter-tweet"},{"provider":"tumblr"},{"provider":"email"}],"showCounts":"none"};
+    showShareBarUI_params["userAction"] = new gigya.socialize.UserAction();
+        showShareBarUI_params["onSendDone"] = function(element) {
+      switch (element['providers']) {
+                case 'facebook':
+          
+            s.events="event27";
+            s.linkTrackEvents="event27";
+            s.tl(true, "o", "Facebook Share");
+                    break;
+                case 'twitter-tweet':
+          
+            s.events="event29";
+            s.linkTrackEvents="event29";
+            s.tl(true, "o", "Tweet");
+                    break;
+                case 'tumblr':
+          
+            s.events="event30";
+            s.linkTrackEvents="event30";
+            s.tl(true, "o", "Tumblr Share");
+                    break;
+                case 'pinterest':
+          
+            s.events="event31";
+            s.linkTrackEvents="event31";
+            s.tl(true, "o", "Pinterest Share");
+                    break;
+                case 'email':
+          
+            s.events="event31";
+            s.linkTrackEvents="event31";
+            s.tl(true, "o", "eMail Share");
+                    break;
+              }
+    };
+        gigya.socialize.showShareBarUI(showShareBarUI_params);
+  }
+</script>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-3"  >
+  
+      
+  
+  <div class="pane-content">
+    <p><a href="/rss/124594/feed.xml" target="_blank" class="rss-link">RSS</a></p>  </div>
+
+  
+  </div>
+      </div>
+        <div class="inner">
+      
+      
+      
+      
+      
+      
+      
+      
+      <div class="article-content">
+        <div class="panel-pane pane-node-body"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>For an entire historic season Carolina quarterback Cam Newton spoke volumes, both with his play on the field and into the hundreds of media microphones that were placed in front of him.</p>
+<p>Newton is exuberant and outgoing, much like <a href="http://www.golfchannel.com/topics/people/rickie-fowler.htm" class="r_link">Rickie Fowler</a>, who has made his own competitive statements lately with four worldwide victories since last May.</p>
+<p>But on Super Sunday both opted for varying degrees of radio silence in the wake of essentially similar defeats.</p>
+<p>Sure, Newton’s loss in Super Bowl 50 will linger longer than Fowler’s playoff defeat at the <a href="http://www.golfchannel.com/topics/events/waste-management-phoenix-open.htm" class="r_link">Waste Management Phoenix Open</a>, but at such heights pain born from athletic performance isn’t necessarily proportional.</p>
+<p>This reality of diminishing returns was evident in both star’s post-play press conferences on Sunday.</p>
+<p>Subdued and somber, Newton offered just 87 words to the media following the Panthers’ 24-10 loss to the Denver Broncos, with most no more than clipped, two-word responses.</p>
+<p>“Got outplayed,” Newton said moments before he bolted the interview area with a quick, “I'm done, man.”</p>
+<hr /><p style="text-align: center;"><iframe style="border: 0; padding: 0; margin: 0;" src="http://vplayer.golfchannel.com/p/BxmELC/gc_embedplayer/select/5EokBPDQXHJ4?parentUrl=http%3A//www.golfchannel.com/media/monday-scramble-fowler-emotional-phoenix/&amp;params=mbr%3Dtrue%26zone%3D&amp;originalReferrer=http%3A//www.golfchannel.com/topics/people/rickie-fowler.htm&amp;#playerurl=http%3A//www.golfchannel.com/media/monday-scramble-fowler-emotional-phoenix/" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="560" height="380"></iframe></p>
+<hr /><p>Following Fowler’s playoff loss to <a href="http://www.golfchannel.com/topics/people/hideki-matsuyama.htm" class="r_link">Hideki Matsuyama</a> at <a href="http://www.golfchannel.com/topics/courses/tpc-scottsdale.htm" class="r_link">TPC Scottsdale</a> the game’s quintessential millennial wasn’t much more effusive, answering just four questions, for a total of 240 words, before offering a final emotional response followed by a quick exit.</p>
+<p>“I mean, the hard part is having, you know, all my friends and family and Grandpa and my dad who haven't seen me win. But I will be able to kind of hang with them tonight,” Fowler said as he fought back tears. “I’ll be all right. With how good I'm playing, I know I can win. That's the hard part.”</p>
+<p>Before you break the Internet debating how misguided are comparisons between Fowler, one of golf’s most likeable if not sometimes guarded players, and Newton, who can be as petulant as he is entertaining, the purpose of this correlation is only to acknowledge the emotions that accompany the enormity of such moments.</p>
+<p>“It’s going to hurt because I felt like I had it, especially with the way I was swinging,” said Fowler, who found the water twice on the 17th hole at TPC Scottsdale on Sunday.</p>
+<p>“That was a bit unfortunate. I hit it right on line, hit it exactly where I was looking [at No. 17]. That's kind of the unfortunate part to hit the shots that I did and to pull them off and then it kind of backfired.”</p>
+<p>To be clear, Newton was not nearly as talkative as Fowler in loss, particularly when asked the keys to Carolina’s defeat.</p>
+<p>“Got outplayed,” he mumbled.</p>
+<p>But the point is neither player was in much of a mood to talk, and it’s hard to blame them.</p>
+<p>It’s all part of the same DNA that makes athletes like Fowler and Newton so entertaining in victory, yet so difficult during emotional defeats.</p>
+<p>Some are able to compartmentalize loss better than others. When <a href="http://www.golfchannel.com/topics/people/jordan-spieth.htm" class="r_link">Jordan Spieth</a>’s birdie attempt at the 72nd hole at last year’s Open Championship rolled wide it cost the 22-year-old more than his name on the claret jug.</p>
+<p>Spieth had been vying to win the third leg of the single-season Grand Slam, and yet after he’d signed his scorecard and spoken with the media he joined the crowd behind the 18th green to watch <a href="http://www.golfchannel.com/topics/people/zach-johnson.htm" class="r_link">Zach Johnson</a> win the playoff.</p>
+<p>Similarly, when <a href="http://www.golfchannel.com/topics/people/brandt-snedeker.htm" class="r_link">Brandt Snedeker</a> struggled to a final-round 77 at the 2008 Masters after heading out in the day’s final group on Sunday he was just as overcome by emotion in his post-round Q&amp;A with reporters, but showed an impressive amount of resilience answering 14 questions.</p>
+<p>“You know, I have no clue why I am so emotional. I was laughing outside. I'm crying in here. I couldn't tell you. You know, it's just ...” Snedeker said through tears.</p>
+<p>They say players learn more from defeat than they do in victory and in golf the latter is a way of life with even the game’s best players coming up short more times than not. The same can be said of what can be learned about players in victory and defeat. </p>
+<p>While it’s easy to think the examples set by Spieth and Snedeker should be the standard, that entirely too simplistic logic ignores individual personalities.</p>
+<p>Fowler’s emotion is a measure of how much winning means to him, not a weakness to be corrected.</p>
+<p>A few days after his post-Super Bowl press conference, Newton summed it up best: “You show me a good loser and I'm going to show you a loser.”</p></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-article-tags"  >
+  
+      
+  
+  <div class="pane-content">
+    		<section class="field field-name-field-article-tags field-type-taxonomy-term-reference field-label-inline clearfix clearfix">
+	  	    <h2 class="field-label">Article Tags:&nbsp;</h2>
+	  	  <span class="field-items">
+	    <span class="field-item even" typeof="skos:Concept" property="rdfs:label skos:prefLabel"><a href="/search/?f4=Rickie%20Fowler">Rickie Fowler</a></span>, <span class="field-item odd" typeof="skos:Concept" property="rdfs:label skos:prefLabel"><a href="/search/?f4=2016%20Waste%20Management%20Phoenix%20Open">2016 Waste Management Phoenix Open</a></span>, <span class="field-item even" typeof="skos:Concept" property="rdfs:label skos:prefLabel"><a href="/search/?f4=Cam%20Newton">Cam Newton</a></span>, <span class="field-item odd" typeof="skos:Concept" property="rdfs:label skos:prefLabel"><a href="/search/?f4=Super%20Bowl%2050">Super Bowl 50</a></span>	  </span>
+	</section>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id='taboola-below-article-thumbs-mix'></div>
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({mode:'hybrid-thumbs-1r', container:'taboola-below-article-thumbs-mix', placement:'Below Article Thumbnails', target_type:'mix'});
+</script>
+<div id='taboola-below-article-text-links-mix'></div>
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({mode:'hybrid-text-links-2c', container:'taboola-below-article-text-links-mix', placement:'Below Article Text Links', target_type:'mix'});
+</script>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({flush:true});
+</script>
+  </div>
+
+  
+  </div>
+      </div>
+    </div>
+              <div class="article-postscript">
+        <div class="panel-pane pane-custom pane-2"  >
+  
+      
+  
+  <div class="pane-content">
+    <script>
+$( document ).ready(function() {
+   $('.article-author .field-item:last-child a').addClass('no_content');
+});
+</script>  </div>
+
+  
+  </div>
+      </div>
+              <div id="comments" class="article-comments gigya-comments-enabled">
+                  <div id="gigya-comments"></div>
+                  <div class="article-comments-inner">
+              </div>
+      </div>
+    </div>
+
+    <div class="article-right-sidebar">
+  <div class="panel-pane pane-custom pane-4"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-gfc-author-bios view-id-gfc_author_bios view-display-id-block view-dom-id-5d687e15d404867197641c8fcc164c07">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-byline">        <div class="field-content"><p>Hoggard, a senior writer, covers the <span class="contextualHover tournamentHover">PGA Tour</span> and appears on Golf Central and Morning Drive.</p></div>  </div>  
+  <div class="views-field views-field-field-thumbnail">        <div class="field-content"><img typeof="foaf:Image" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/styles/gfc_author_bio_118x98/public/2016/01/11/rex-472x392.jpg?itok=slfKCahC" width="236" height="196" /></div>  </div>  
+  <div class="views-field views-field-php">        <span class="field-content"><a href="/about/bio/rex-hoggard/">Read Bio</a> | </span>  </div>  
+  <div class="views-field views-field-field-person-twitter-handle">        <div class="field-content"><a href="http://twitter.com/RexHoggardGC" title="RexHoggardGC" target="_blank"> @RexHoggardGC</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-mps-topbox"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="topbox"><script>typeof(mps.getAd)=='function' && document.write(mps.getAd('topbox'));</script></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views pane-gfc-editors-picks"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-gfc-editors-picks view-id-gfc_editors_picks view-display-id-block_1 view-dom-id-0b1ef9cb27a5d645c43aee0ada80255a">
+            <div class="view-header">
+      <div class="editors-picks-header">
+  <div class="editors-picks-header-left">
+       <h2>Editor's Picks</h2>
+       <h5 style="display:none">Presented by GOLF</h5>
+   </div>
+  <div class="editors-picks-header-right" style="display:none">
+     <img border="0" src="http://golfchannel.com/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/golfLogo.png" style="display: inline-block; margin-top:20%;" /></div>
+</div>    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="editor-picks-thumbnail">        <div class="article-hero-image"><a href="/news/rex-hoggard/lifting-misconceptions-about-weights/?cid=rr_editorial_p1"><img typeof="foaf:Image" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/styles/large/public/2016/02/16/mcilroy_1920_weightlifting_0.jpg?itok=sDHQU8eH" width="480" height="270" /></a></div>  </div>  
+  <div class="editor-picks-thumbnail">        <div class="article-hero-image"></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/rex-hoggard/lifting-misconceptions-about-weights/?cid=rr_editorial_p1">Lifting misconceptions about weights</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="editor-picks-thumbnail">        <div class="article-hero-image"><a href="/news/golf-central-blog/punch-shot-best-west-coast-storyline/?cid=rr_editorial_p2"><img typeof="foaf:Image" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/styles/large/public/2016/02/16/split_1920_mickelson_murray_dufner.jpg?itok=kLMVIsFb" width="480" height="270" /></a></div>  </div>  
+  <div class="editor-picks-thumbnail">        <div class="article-hero-image"></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/golf-central-blog/punch-shot-best-west-coast-storyline/?cid=rr_editorial_p2">Punch Shot: Best West Coast storyline this year</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="editor-picks-thumbnail">        <div class="article-hero-image"><a href="/news/golf-central-blog/mcilroy-has-no-plans-alter-great-globetrotting-schedule/?cid=rr_editorial_p3"><img typeof="foaf:Image" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/styles/large/public/mcilroy_1920_hsbc16_d4_drive_side.jpg?itok=rmuFvNNx" width="480" height="270" /></a></div>  </div>  
+  <div class="editor-picks-thumbnail">        <div class="article-hero-image"></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/golf-central-blog/mcilroy-has-no-plans-alter-great-globetrotting-schedule/?cid=rr_editorial_p3">McIlroy has no plans to change globetrotting schedule</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="editor-picks-thumbnail">        <div class="article-hero-image"><a href="/news/rex-hoggard/spieth-has-history-his-side-riviera-cc/?cid=rr_editorial_p4"><img typeof="foaf:Image" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/styles/large/public/2016/02/16/spieth_1920_nto16_presser.jpg?itok=eWkp7qvC" width="480" height="270" /></a></div>  </div>  
+  <div class="editor-picks-thumbnail">        <div class="article-hero-image"></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/rex-hoggard/spieth-has-history-his-side-riviera-cc/?cid=rr_editorial_p4">Spieth has history on his side at Riviera</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="editor-picks-thumbnail">        <div class="article-hero-image"><a href="/news/golf-central-blog/chamblee-rory-should-be-wary-tigers-example-gym/?cid=rr_editorial_p5"><img typeof="foaf:Image" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/styles/large/public/mcilroy_1920_hsbc16_d4_drive_side.jpg?itok=rmuFvNNx" width="480" height="270" /></a></div>  </div>  
+  <div class="editor-picks-thumbnail">        <div class="article-hero-image"></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/golf-central-blog/chamblee-rory-should-be-wary-tigers-example-gym/?cid=rr_editorial_p5">Chamblee: Rory should be &#039;wary&#039; of Tiger&#039;s example in gym</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-gfc-trending-gfc-trending-omniture-block"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="rr-trending-header"><h2 class="pane-title">Trending</h2>
+</div><div id="content-754776-52885" class="rr-trending-content-block"><div class="rr-trending-title"><a href="http://www.golfchannel.com/news/golf-central-blog/rory-responds-chamblees-gym-remarks-player-chimes/?cid=rr_trending_p1">Rory responds to Chamblee&#039;s gym comments; Player chimes in</a></div><a href="http://www.golfchannel.com/news/golf-central-blog/rory-responds-chamblees-gym-remarks-player-chimes/?cid=rr_trending_p1"><img typeof="foaf:Image" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/styles/60x75/public/2016/02/16/mcilroy_1920_weightlifting.jpg" alt="" /></a></div><div id="content-754636-27111" class="rr-trending-content-block"><div class="rr-trending-title"><a href="http://www.golfchannel.com/news/golf-central-blog/chamblee-rory-should-be-wary-tigers-example-gym/?cid=rr_trending_p2">Chamblee: Rory should be &#039;wary&#039; of Tiger&#039;s example in gym</a></div><a href="http://www.golfchannel.com/news/golf-central-blog/chamblee-rory-should-be-wary-tigers-example-gym/?cid=rr_trending_p2"><img typeof="foaf:Image" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/styles/60x75/public/mcilroy_1920_hsbc16_d4_drive_side.jpg" alt="" /></a></div><div id="content-754691-24755" class="rr-trending-content-block"><div class="rr-trending-title"><a href="http://www.golfchannel.com/news/golf-central-blog/taylors-att-am-partner-gives-him-private-lift-la/?cid=rr_trending_p3">Taylor&#039;s AT&amp;T am partner gives him private lift to L.A.</a></div><a href="http://www.golfchannel.com/news/golf-central-blog/taylors-att-am-partner-gives-him-private-lift-la/?cid=rr_trending_p3"><img typeof="foaf:Image" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/styles/60x75/public/taylor_1920_pebble16_d4_driver.jpg" alt="" /></a></div><div id="content-753906-18851" class="rr-trending-content-block"><div class="rr-trending-title"><a href="http://www.golfchannel.com/news/grill-room/photos-vonn-wozniacki-body-paint-si/?cid=rr_trending_p4">Photos: Vonn, Wozniacki in body paint for SI</a></div><a href="http://www.golfchannel.com/news/grill-room/photos-vonn-wozniacki-body-paint-si/?cid=rr_trending_p4"><img typeof="foaf:Image" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/styles/60x75/public/2016/02/15/vonn_1920_sports_illustrated_body_paint.jpg" alt="" /></a></div><div id="content-748146-16906" class="rr-trending-content-block"><div class="rr-trending-title"><a href="http://www.golfchannel.com/media/social-snapshots-february-2016/?cid=rr_trending_p5">Social Snapshots: February 2016</a></div><a href="http://www.golfchannel.com/media/social-snapshots-february-2016/?cid=rr_trending_p5"><img typeof="foaf:Image" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/styles/60x75/public/2016/02/16/gretzky_1920.jpg" alt="" /></a></div><div id="content-754721-9925" class="rr-trending-content-block"><div class="rr-trending-title"><a href="http://www.golfchannel.com/news/golf-central-blog/caddies-plan-appeal-judges-ruling-tour-lawsuit/?cid=rr_trending_p6">Caddies plan to appeal judge&#039;s ruling in Tour lawsuit</a></div><a href="http://www.golfchannel.com/news/golf-central-blog/caddies-plan-appeal-judges-ruling-tour-lawsuit/?cid=rr_trending_p6"><img typeof="foaf:Image" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/styles/60x75/public/2016/02/10/caddie_1920_bib_closeup_0.jpg" alt="" /></a></div><div id="content-754751-9653" class="rr-trending-content-block"><div class="rr-trending-title"><a href="http://www.golfchannel.com/news/doug-ferguson/notes-woods-foundation-looking-possible-riviera-link/?cid=rr_trending_p7">Notes: Possible Tiger Woods Foundation-Riviera link</a></div><a href="http://www.golfchannel.com/news/doug-ferguson/notes-woods-foundation-looking-possible-riviera-link/?cid=rr_trending_p7"><img typeof="foaf:Image" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/styles/60x75/public/2016/02/16/woods_1920_nto06.jpg" alt="" /></a></div><div id="content-754276-6619" class="rr-trending-content-block"><div class="rr-trending-title"><a href="http://www.golfchannel.com/news/doug-ferguson/ap-source-mcilroy-fowler-set-exhibition-match/?cid=rr_trending_p8">AP source: McIlroy, Fowler set for exhibition match</a></div><a href="http://www.golfchannel.com/news/doug-ferguson/ap-source-mcilroy-fowler-set-exhibition-match/?cid=rr_trending_p8"><img typeof="foaf:Image" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/styles/60x75/public/2016/02/15/mcilroy_fowler_1920_abudhabi16_cu.jpg" alt="" /></a></div><div id="content-754736-6521" class="rr-trending-content-block"><div class="rr-trending-title"><a href="http://www.golfchannel.com/media/cause-concern-what-tripp-sees-kos-swing/?cid=rr_trending_p9">Cause for concern: Is Ko&#039;s swing a problem?</a></div><a href="http://www.golfchannel.com/media/cause-concern-what-tripp-sees-kos-swing/?cid=rr_trending_p9"><img typeof="foaf:Image" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/styles/60x75/public/video/thumbnail/2016/02/17/2016-02-16t23-28-26.933z--1280x720.jpg" alt="" /></a></div><div id="content-753316-6236" class="rr-trending-content-block"><div class="rr-trending-title"><a href="http://www.golfchannel.com/news/doug-ferguson/taylor-wins-pebble-beach-mickelson-comes-short/?cid=rr_trending_p10">Taylor wins Pebble Beach as Phil comes up short</a></div><a href="http://www.golfchannel.com/news/doug-ferguson/taylor-wins-pebble-beach-mickelson-comes-short/?cid=rr_trending_p10"><img typeof="foaf:Image" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/styles/60x75/public/2016/02/14/taylor_1920_pebble16_d4_win_celebrate.jpg" alt="" /></a></div>  </div>
+
+  
+  </div>
+  </div>
+<div class="clearfix"></div>
+  </div>
+</div>
+  </div>
+
+                      <div class="region region-content-bottom">
+    <div id="block-mps-bottombanner" class="block block-mps">
+
+    
+  <div class="content">
+    <div id="bottombanner"><script>typeof(mps.getAd)=='function' && document.write(mps.getAd('bottombanner'));</script></div>  </div>
+</div>
+<div id="block-mps-bottomlogo" class="block block-mps">
+
+    
+  <div class="content">
+    <div id="bottomlogo"><script>typeof(mps.getAd)=='function' && document.write(mps.getAd('bottomlogo'));</script></div>  </div>
+</div>
+  </div>
+
+                  </div>
+
+                  
+                </section>
+
+              
+            </div>
+            </div>
+
+                        
+          </div>
+          </div>
+
+                  </div>
+      </div>
+    </div>
+  </div>
+  <div class="footer-container">
+  <footer role="contentinfo">
+    <section class="footTop clearfix">
+    <div class="region">
+        <div class="footerApps footerRow">
+            <div class="region region-footer-apps">
+    <div id="block-bean-mobile-apps" class="block block-bean">
+
+    <h2>Mobile</h2>
+  
+  <div class="content">
+    <div class="entity entity-bean bean-app-list clearfix" about="/block/mobile-apps/" typeof="">
+
+  <div class="content">
+    <div class="field-collection-container clearfix"><div class="field field-name-field-app field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-full"><div class="entity entity-field-collection-item field-collection-item-field-app clearfix" about="/field-collection/field-app/540246/" typeof="">
+  <div class="content">
+    <div class="field field-name-field-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Golf Channel Mobile</div></div></div><div class="field field-name-field-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Golf Channel Mobile offers instant access to the latest news, videos and photos from around the world of golf.</div></div></div><div class="field field-name-field-links field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://itunes.apple.com/us/app/golf-channel/id466053027?mt=8&amp;uo=4">iTunes</a></div><div class="field-item odd"><a href="https://play.google.com/store/apps/details?id=com.myleaderboard.GolfChannel">Google Play</a></div><div class="field-item even"><a href="http://www.amazon.com/gp/product/B006CSS21S/ref=golf_channel_app">Amazon</a></div></div></div>  </div>
+</div>
+</div></div><div class="field-item odd"><div class="field-collection-view clearfix view-mode-full"><div class="entity entity-field-collection-item field-collection-item-field-app clearfix" about="/field-collection/field-app/540251/" typeof="">
+  <div class="content">
+    <div class="field field-name-field-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Golf Live Extra</div></div></div><div class="field field-name-field-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Now you can watch tournament coverage and original programming on the go!</div></div></div><div class="field field-name-field-links field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://itunes.apple.com/us/app/golf-live-extra/id586379597?mt=8">iTunes</a></div><div class="field-item odd"><a href="https://play.google.com/store/apps/details?id=air.com.golfchannel.gcliveextra">Google Play</a></div></div></div>  </div>
+</div>
+</div></div><div class="field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-app clearfix" about="/field-collection/field-app/540256/" typeof="">
+  <div class="content">
+    <div class="field field-name-field-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Golf Channel Academy</div></div></div><div class="field field-name-field-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Browse Golf Channel's video library of over 600 tips, capture & analyze your swing and take a lesson from over 50 PGA and LPGA certified instructors.</div></div></div><div class="field field-name-field-links field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://itunes.apple.com/us/app/golf-channel-academy/id583390285?mt=8">iTunes</a></div></div></div>  </div>
+</div>
+</div></div></div></div></div>  </div>
+</div>
+  </div>
+</div>
+  </div>
+        </div>
+        <div class="footRight">
+            <div class="region region-footer-right">
+    <div id="block-bean-email-signup" class="block block-bean">
+
+    <h2>Email</h2>
+  
+  <div class="content">
+    <div class="entity entity-bean bean-links clearfix" about="/block/email-signup/" typeof="">
+
+  <div class="content">
+    <div class="field field-name-field-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Don&#039;t miss the latest news, exclusive offers and sweepstakes.</div></div></div><div class="field field-name-field-links field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="mailto:?subject=Check%20out%20My%20Favorite%20Golf%20Website%20-%20GolfChannel.com&amp;body=GolfChannel.com%20has%20everything%20for%20golf%20fans%20like%20the%20latest%20tour%20news%2C%20interactive%20leaderboards%2C%20tee%20times%2C%20travel%2C%20golf%20lessons%20and%20a%20huge%20selection%20of%20video.%20Visit%20http%3A//www.GolfChannel.com%20to%20get%20all%20things%20golf%2C%20in%20one%20easy%20place.">Tell a friend</a></div><div class="field-item odd"><a href="/newsletters/">Sign Up</a></div></div></div>  </div>
+</div>
+  </div>
+</div>
+<div id="block-ghost-socialblock" class="block block-ghost">
+
+    <h2>Social</h2>
+  
+  <div class="content">
+      <div class="footerSocialRow">
+    <div class="footerSocialIcon">
+      <div>
+        <a href="http://www.facebook.com/GolfChannel" target="_blank" onclick="s_objectID=&quot;http://www.facebook.com/GolfChannel_1&quot;;return this.s_oc?this.s_oc(e):true">
+          <img src="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/icon-facebook.jpg" original="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/icon-facebook.jpg">
+        </a>
+      </div>
+    </div>
+    <div class="footerSocialCount">
+      492,836    </div>
+    <div class="footerSocialButton">
+      <a href="http://www.facebook.com/GolfChannel" target="_blank" onclick="s_objectID=&quot;http://www.facebook.com/GolfChannel_1&quot;;return this.s_oc?this.s_oc(e):true">
+        <img src="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/btn-facebook.jpg" original="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/btn-facebook.jpg">
+      </a>
+    </div>
+    <div class="footerSocialLink">
+      <a href="http://www.facebook.com/GolfChannel" onclick="s_objectID=&quot;http://www.facebook.com/GolfChannel_2&quot;;return this.s_oc?this.s_oc(e):true">facebook.com/GolfChannel</a>
+    </div>
+  </div>
+  <div class="footerSocialRow">
+    <div class="footerSocialIcon">
+      <div>
+        <a href="http://twitter.com/GolfChannel" target="_blank" onclick="s_objectID=&quot;http://twitter.com/GolfChannel_1&quot;;return this.s_oc?this.s_oc(e):true">
+          <img src="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/icon-twitter.jpg" original="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/icon-twitter.jpg">
+        </a>
+      </div>
+    </div>
+    <div class="footerSocialCount">
+      563,176    </div>
+    <div class="footerSocialButton">
+      <a href="http://twitter.com/GolfChannel" target="_blank" onclick="s_objectID=&quot;http://twitter.com/GolfChannel_1&quot;;return this.s_oc?this.s_oc(e):true">
+        <img src="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/btn-twitter.jpg" original="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/btn-twitter.jpg">
+      </a>
+    </div>
+    <div class="footerSocialLink">
+      <a href="http://twitter.com/GolfChannel" onclick="s_objectID=&quot;http://twitter.com/GolfChannel_2&quot;;return this.s_oc?this.s_oc(e):true">twitter.com/GolfChannel</a>
+    </div>
+  </div>
+  <div class="footerSocialRow">
+    <div class="footerSocialIcon">
+      <div>
+        <a href="https://instagram.com/GolfChannel" target="_blank" onclick="s_objectID=&quot;https://instagram.com/GolfChannel_1&quot;;return this.s_oc?this.s_oc(e):true">
+          <img src="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/icon-instagram.png" original="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/icon-instagram.png">
+        </a>
+      </div>
+    </div>
+    <div class="footerSocialCount">
+      430,302    </div>
+    <div class="footerSocialButton">
+      <a href="https://instagram.com/GolfChannel" target="_blank" onclick="s_objectID=&quot;https://instagram.com/GolfChannel_1&quot;;return this.s_oc?this.s_oc(e):true">
+        <img src="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/btn-instagram.png" original="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/img/btn-instagram.png">
+      </a>
+    </div>
+    <div class="footerSocialLink">
+      <a href="https://instagram.com/GolfChannel" onclick="s_objectID=&quot;https://instagram.com/GolfChannel_2&quot;;return this.s_oc?this.s_oc(e):true">instagram.com/GolfChannel</a>
+    </div>
+  </div>
+  </div>
+</div>
+  </div>
+        </div>
+        <div class="footerCorp clearfix">
+            <div class="region region-footer-corp">
+    <div id="block-menu-menu-about" class="block block-menu">
+
+    <h2>About</h2>
+  
+  <div class="content">
+    <ul class="menu"><li  class="first leaf about-us"><a href="/about/about-us/">About Us</a></li>
+<li  class="leaf advertising"><a href="https://together.nbcuni.com">Advertising</a></li>
+<li  class="leaf careers"><a href="/about/employment/">Careers</a></li>
+<li  class="leaf community-involvement"><a href="/about/community/">Community Involvement</a></li>
+<li  class="leaf contact-us"><a href="/about/contact-us/">Contact Us</a></li>
+<li  class="leaf contests"><a href="/contests/">Contests</a></li>
+<li  class="leaf golf-channel-team"><a href="/team/">Golf Channel Team</a></li>
+<li  class="leaf mobile"><a href="/mobile/">Mobile</a></li>
+<li  class="leaf press-releases"><a href="/news/press-releases/">Press Releases</a></li>
+<li  class="leaf shop"><a href="http://golfchannel.teamfanshop.com">Shop</a></li>
+<li  class="leaf sitemap"><a href="/sitemap/">Sitemap</a></li>
+<li  class="last leaf topics"><a href="http://www.golfchannel.com/topics/">Topics</a></li>
+</ul>  </div>
+</div>
+<div id="block-menu-menu-legal" class="block block-menu">
+
+    <h2>Legal</h2>
+  
+  <div class="content">
+    <ul class="menu"><li  class="first leaf adchoices"><a href="http://info.evidon.com/pub_info/267?v=1">AdChoices</a></li>
+<li  class="leaf calm-act-certification"><a href="http://images.thegolfchannel.com/downloads/calmactcertification.pdf">CALM Act Certification</a></li>
+<li  class="leaf closed-captioning"><a href="/closed-captioning/">Closed Captioning</a></li>
+<li  class="leaf parent-039-s-guide-to-tv-ratings"><a href="http://www.thetvboss.org/know-the-ratings/">Parent&#039;s Guide to TV Ratings</a></li>
+<li  class="leaf independent-prog-report"><a href="http://corporate.comcast.com/news-information/nbcuniversal-transaction/independent-programming">Independent Prog. Report</a></li>
+<li  class="leaf privacy-policy"><a href="http://www.nbcuni.com/privacy/">Privacy Policy</a></li>
+<li  class="last leaf terms-of-service"><a href="/about/terms-of-use/">Terms of Service</a></li>
+</ul>  </div>
+</div>
+<div id="block-menu-menu-affiliations" class="block block-menu">
+
+    <h2>Affiliations</h2>
+  
+  <div class="content">
+    <ul class="menu"><li  class="first leaf am-tour"><a href="http://www.gcamtour.com">AM Tour</a></li>
+<li  class="leaf golf-advisor"><a href="http://www.golfadvisor.com">Golf Advisor</a></li>
+<li  class="leaf golfnow"><a href="http://www.golfnow.com">GolfNow</a></li>
+<li  class="leaf international"><a href="/about/international/">International</a></li>
+<li  class="leaf militaryteetimes"><a href="http://www.militaryteetimes.com" target="_blank">MilitaryTeeTimes</a></li>
+<li  class="last leaf nbc-sports-radio"><a href="http://www.nbcsportsradio.com/">NBC Sports Radio</a></li>
+</ul>  </div>
+</div>
+<div id="block-bean-nbc-sports" class="block block-bean">
+
+    
+  <div class="content">
+    <div class="entity entity-bean bean-image clearfix" about="/block/nbc-sports/" typeof="">
+
+  <div class="content">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="http://www.nbcsports.com"><img typeof="foaf:Image" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/2015/06/09/475202.png" width="146" height="23" /></a></div></div></div>  </div>
+</div>
+  </div>
+</div>
+  </div>
+        </div>
+      </div>
+    </section>
+    <section class="footBtm">
+        <div class="region region-footer-bottom">
+    <div id="block-block-71" class="block block-block">
+
+    
+  <div class="content">
+    <p>Copyright © 1996-2016 Golf Channel, All Rights Reserved</p>
+  </div>
+</div>
+  </div>
+    </section>
+  </footer>
+</div>
+</div>
+    <div class="region region-page-bottom">
+    <!-- SiteCatalyst code version: H.22.1.
+Copyright 1996-2016 Adobe, Inc. -->
+<script type="text/javascript" src="/profiles/nbcsports/themes/custom/golfchannel_v2_theme/js/s_code.js?o2a100"></script>
+<script type="text/javascript"><!--
+
+s.contextData["nbcs.sport"]="Golf";
+s.pageName="Why should athletes have to talk after a painful defeat?";
+s.contextData["nbcs.contenthub"]="news";
+s.contextData["nbcs.showsite"]=" ";
+s.contextData["nbcs.author"]="Rex Hoggard";
+s.evar10="Rex Hoggard";
+s.contextData["nbcs.contenttype"]="story";
+s.contextData["nbcs.contentid"]="751856";
+s.contextData["nbcs.contenttitle"]="Why should athletes have to talk after a painful defeat?";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><div><a href="http://www.omniture.com" title="Web Analytics"><img src="http://examplecom.112.2O7.net/b/ss/examplecom/1/H.20.3--NS/0/2612422"
+height="1" width="1" alt="" /></a></div></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.22.1. -->
+  </div>
+<script type="text/javascript" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/js/js_MojUoj9MbOqQLnqumYtS-qlt9x8yK_kzQ2CAJ16N26s.js"></script>
+<script type="text/javascript" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/js/js_CzK1UijnB9k34ggiTCuncaKeLoe0BGup7B_szq9DKpk.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function (v)
+  {var f = ('https:' == document.location.protocol ?
+  'https://a94b959c5f32c8659ddd-20824235b5c875b110a2b1e1319659df.ssl.cf5.rackcdn.com/client.js'
+  : 'http://5cf36b3acf20b104b346-20824235b5c875b110a2b1e1319659df.r67.cf5.rackcdn.com/client.js');
+  var e = document.createElement('script');
+  e.type = 'text/javascript';
+  e.id = 'digioh-lightbox-script';
+  e.async = true;
+  e.src = f + '?vid=' + v;
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(e, s);}
+  )('5fb5fbce-1665-4cb1-a778-84825f66a775');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/js/js_0JEPx4qQCYNt7huNwmVF7GVvHooDX2gO0Ld3x8lMIPc.js"></script>
+<script type="text/javascript" src="https://www.nbcudigitaladops.com/hosted/global.js"></script>
+<script type="text/javascript" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/js/js_IOPuad4Nbzz5hTDxAWwY8LaCMw1gGpMsl_gMxySf65c.js"></script>
+<script type="text/javascript" src="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/js/js_avhd26XjQidJP5brPJhWUhUlTASJfOf4aKizLZDL18g.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+typeof(mps.writeFooter)=='function' && mps.writeFooter();
+//--><!]]>
+</script>
+      <!-- Begin comScore Tag -->
+    <script>
+      var c4="http://www.golfchannel.com/news/rex-hoggard/why-should-athletes-have-talk-after-painful-defeat";
+      var c5="Why should athletes have to talk after a painful defeat?";
+      var c6="article";
+    </script>
+    <noscript>
+      <img src="http://b.scorecardresearch.com/p?c1=2&c2=3005200&c3=&c4=http://www.golfchannel.com/news/rex-hoggard/why-should-athletes-have-talk-after-painful-defeat&c5=Why should athletes have to talk after a painful defeat?&c6=article&cv=2.0&cj=1" />
+    </noscript>
+    <!-- End comScore Tag -->  </body>
+</html>

@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=320, user-scalable=no">
+    <meta name="copyright" content="日本放送協会">
+    <meta name="title" content="虐待防止へ新たな取り組み - NHK 関西 NEWS WEB">
+    <meta name="description" content="子どもの虐待の未然防止などにつなげようと、大阪府は、親が育てることを望まない新生児と、養子を迎えたい里親とを生後すぐに引き合わせる取り組みを始…">
+    <meta name="keywords" content="関西,ニュース,NHK">
+    <meta name="shorturl" content="http://www3.nhk.or.jp/kansai-news/">
+    <meta property="og:title" content="虐待防止へ新たな取り組み - NHK 関西 NEWS WEB">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://www.nhk.or.jp/kansai-news/20160211/5797361.html">
+    <meta property="og:description" content="子どもの虐待の未然防止などにつなげようと、大阪府は、親が育てることを望まない新生児と、養子を迎えたい里親とを生後すぐに引き合わせる取り組みを始…">
+    <meta property="og:image" content="http://www3.nhk.or.jp/news/img/fb_futa_600px.png">
+    <meta property="og:site_name" content="関西 NEWS WEB">
+    <title>虐待防止へ新たな取り組み - NHK 関西 NEWS WEB</title>
+    <link href="../css/reset.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="../css/l_news_common.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="../css/pc_l_news.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="../css/pc_l_detail.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="../css/mb_l_news.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="../css/mb_l_detail.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="../css/local/kansai.css" media="screen" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="../js/jquery.min.js" charset="UTF-8"></script>
+    <script type="text/javascript" src="../js/lib/mt_std.js" charset="UTF-8"></script>
+    <script type="text/javascript" src="../js/lib/mt_ajx.js" charset="UTF-8"></script>
+    <script type="text/javascript" src="../js/lib/mt_rss.js" charset="UTF-8"></script>
+    <script type="text/javascript" src="../js/cookie.js" charset="UTF-8"></script>
+    <script type="text/javascript" src="../js/SWFPlayer.js" charset="UTF-8"></script>
+    <script type="text/javascript" src="../js/common_news_id.js" charset="UTF-8"></script>
+    <script type="text/javascript" src="../js/init_news_id.js" charset="UTF-8"></script>
+    <script type="text/javascript" src="../js/header.js" charset="UTF-8"></script>
+    <script type="text/javascript" src="../js/gads.js" charset="UTF-8"></script>
+    <script type="text/javascript" src="http://www9.nhk.or.jp/common/social/js/social_buttons.js" charset="UTF-8"></script>
+    <script type="text/javascript" src="http://www.nhk.or.jp/common/social/js/social_default_parameter.js" charset="UTF-8"></script>
+    <script type="text/javascript" src="../js/mb.js" charset="UTF-8"></script>
+<!--saigai表示用開始-->
+<script type="text/javascript" src="http://www.nhk.or.jp/common/sp/nol_SmartPhone.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://www.nhk.or.jp/lcommon/js/common_banner.js"></script>
+<script type="text/javascript" src="http://www.nhk.or.jp/lcommon/js/disaster_banner_2.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://www.nhk.or.jp/lcommon/js/linfo_banner.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://www.nhk.or.jp/lcommon/js/jquery.marquee.js"></script>
+<script type="text/javascript" src="http://www.nhk.or.jp/lcommon/js/jquery.bxslider.js"></script>
+<script type="text/javascript" src="http://www.nhk.or.jp/lcommon/js/jquery.jstockticker-1.1.js"></script>
+<link rel="stylesheet" href="http://www.nhk.or.jp/lcommon/css/disaster_banner_2.css">
+<link rel="stylesheet" href="http://www.nhk.or.jp/lcommon/css/linfo_banner.css">
+<!--saigai表示用閉じ-->
+</head>
+
+<body id="detail" class="pc_mode">
+    <div id="page">
+        <div id="report"></div>
+        <a name="pagetop" id="pagetop"></a>
+        <div id="L_news">
+            <div id="header">
+                <p id="logo">
+                    <a href="http://www3.nhk.or.jp/news/">
+                        <img src="../images/l_common/nwblogo.png" alt="NHKニュース" width="151" height="30">
+                    </a>
+                </p>
+                <div id="pageTime">
+                </div>
+                <div id="options">
+                    <div id="fontSize">
+                    </div>
+                    <div id="snsLike">
+                    </div>
+                </div>
+            </div>
+            <!--/#header-->
+            <div class="header_local d_bdrbox">
+                <h1 class="title">
+                    <a href="../index.html"><img src="../images/kansai/h1_title.png" alt="関西 NEWS WEB" width="271" height="51"></a>
+                </h1>
+                <div class="header_local_nav">
+                    <p>
+                        <span class="linkhover"><a href="../index.html">関西 NEWS WEB TOPへ戻る</a>
+                        </span>
+                    </p>
+                </div>
+                <div class="sp_menu">
+                  <select id="mb_menu">
+                    <option value="">MENU</option>
+                    <option value="#main">メイン</option>
+                    <option value="#sidearea">そのほか</option>
+                    <option value="../index.html#newsweek">過去1週間分のニュース</option>
+                    <option value="http://www.nhk.or.jp/osaka/index.html">大阪放送局</option>
+                  </select>
+                </div>
+
+                <!--▼放送局一覧タブ▼-->
+                <div id="station_select" class="station_select"></div>
+                <!--▲放送局一覧▲-->
+
+                <div class="station">
+                    <span class="linkhover"><a href="http://www.nhk.or.jp/osaka/index.html">←大阪放送局</a>
+                    </span>
+                </div>
+            </div>
+             <!--/header_local-->
+        </div>
+	<!--saigaiバナー表示部開始-->
+	<div class = "wrap">
+		<div id="disaster_banner" class="d_bdrbox"></div>
+					<div id="linfo_banner" class="pattern2"></div>
+			</div>
+	<!--saigaiバナー表示部閉じ-->
+        <!-- em_infoBx-->
+    <!--<div class="em_infoBx">
+    <div id="em_info" class="em_info">
+        <p class="em_tit"><img src="../images/l_common/em_info.png" alt="速報のお知らせ" width="151" height="25"></p>
+        <p id="em_text" class="em_text">速報が表示されます。速報が表示されます。速報が表示されます。速報が表示されます。速報が表示されます。速報が表示されます。速報が表示されます。速報が表示されます。速報が表示されます。速報が表示されます。</p>
+  </div>
+  </div>-->
+  <!--/em_infoBx-->
+        <div id="maincontent">
+        <!-- #main -->
+        <div id="main" class="d_bdrbox">
+             <!--#main_left-->
+                <div id="main_left" class="main_left">
+                <!-- news -->
+                <div class="headerTitle d_bdrbox">
+                    <span>ニュース詳細</span>
+                </div>
+                <div>
+                    <div class="newsmain main_left_layout d_bdrbox d_border">
+                        <div class="hero_titleBx">
+                            <span class="hero_title">虐待防止へ新たな取り組み</span>
+                            <p class="time">02月11日　07時42分
+                                <!--<span class="movie_icon">
+                                    <img src="../images/icon_category_movie.png" alt="動画">
+                                </span>
+                                <span class="new_icon">
+                                    <img src="../images/icon_new.png" alt="NEW">
+                                </span>-->
+                            </p>
+                        </div>
+                        <div class="entry d_bdrbox">
+    <div id="news_image_div">
+        <p><img id="news_image" src="5797361_2005797361_m.jpg" alt="虐待防止へ新たな取り組み" onclick="player('虐待防止へ新たな取り組み','2005797361_20160211074402.mp4');" style="cursor:pointer;"></p>
+        <p class="playbtn"><img src="http://www3.nhk.or.jp/news/images/play.png" onclick="player('虐待防止へ新たな取り組み','2005797361_20160211074402.mp4');" width="30" height="30"></p>
+    </div>
+    <div id="news_video">2005797361_20160211074402.mp4</div>
+    <p id="news_textbody">子どもの虐待の未然防止などにつなげようと、大阪府は、親が育てることを望まない新生児と、養子を迎えたい里親とを生後すぐに引き合わせる取り組みを始めることになりました。<br />厚生労働省によりますと、虐待で亡くなった子どもは、平成２５年度、全国で３６人で、０歳児が全体の４割余を占め、生まれてすぐに遺棄される新生児もいたということです。<br />このため大阪府は、虐待の未然防止などにつなげようと、親が育てることを望まない新生児と、子どもを授かることが難しく養子を迎えたい里親とを引き合わせる新たな取り組みを始めることになりました。<br />具体的には、児童相談所が、妊婦の意向や生活環境を調査して里親を紹介すべきだと判断した場合は、民間団体と連携して条件にあった里親を探し、生後すぐに、子育てを始めてもらいます。<br />また、定期的に家庭訪問を行って親子関係などをめぐる問題や悩みはないか相談に応じるほか、発達に応じて、実の親の存在を子どもに説明することについても支援を行うということです。<br />大阪府は、「１人でも多くの子どもがあたたかい家庭で暮らせるよう支援したい」としています。</p>
+                            <div class="detail_social">
+                            <div id="socialbookmark" class="socialbookmark_style">
+                            </div>
+                            <p class="leave"><img src="../images/l_common/leave.png" height="8" width="138" alt=""></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/ #news -->
+                <!--　relatenews -->
+                <div class="headerTitle d_bdrbox">
+                    <span>関西のニュース</span>
+                </div>
+                <div class="relatenews main_left_layout d_bdrbox d_border">
+                    <div id="toplistdiv" class="newslistBx">
+                    </div>
+                </div>
+                <!--　/relatenews -->
+            </div>
+            <!--/#main_left-->
+            <!--#sidearea-->
+            <div id="sidearea" class="sideArea">
+                <div id="sbanner" style="display: none;">
+                    <div style="display: none;"></div>
+                    <div style="display: none;"></div>
+                    <div style="display: none;"></div>
+                </div>
+                <!--asidenewsBx-->
+                <p class="asidenewsTitle">
+                    新着ニュース
+                </p>
+                <div id="allsearchdiv" class="asidenewsBx d_bdrbox d_border">
+                </div>
+                <!--/#asidenewsBx-->
+            </div>
+            <!--/sidearea-->
+        </div>
+        <!--/#main-->
+        </div>
+        <!--/maincontent-->
+        <div id="footWrap">
+            <div id="footer">
+                <div id="footerContainer">
+                    <div id="footerNav">
+                        <ul>
+                            <li id="fnav0"><a href="http://www.nhk.or.jp/css/">ご意見・お問い合わせ</a>
+                            </li>
+                            <li id="fnav1"><a href="http://www.nhk.or.jp/privacy/">NHKにおける個人情報保護について</a>
+                            </li>
+                            <li id="fnav2"><a href="http://www3.nhk.or.jp/toppage/nhk_info/copyright.html">放送番組と著作権</a>
+                            </li>
+                            <li id="fnav3" class="last"><a href="http://www3.nhk.or.jp/toppage/notice.html">NHK オンライン利用上の注意</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div id="colophon">
+                        <div class="nhk_logo">
+                            <a href="http://www.nhk.or.jp/"><img src="../images/l_common/nhk.png" alt="NHK"></a>
+                        </div>
+                        <div class="colophon_text">
+                            <span>Copyright NHK (Japan Broadcasting Corporation) All rights reserved. 許可なく転載することを禁じます。</span>
+                            <br>このページは受信料で制作しています。</div>
+                    </div>
+                </div>
+                <!--/#footerContainer-->
+            </div>
+            <!--/#footer-->
+        </div>
+        <!--/#footWrap-->
+        <div class="pagetop"><a href="#pagetop">このページの先頭へ</a></div>
+        <div class="btn_main"><a href="javascript:void(0)"><img src="../images/l_common/btn_main.png" alt="" width="31" height="91"></a></div>
+        <div class="btn_etc"><a href="javascript:void(0)"><img src="../images/l_common/btn_etc.png" alt="" width="31" height="91"></a></div>
+    </div>
+    <!--/#page-->
+</body>
+</html>

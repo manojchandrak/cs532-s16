@@ -1,0 +1,1017 @@
+        <!DOCTYPE html>
+<!-- CMS Strata (c)2003-2016 AMA DataSet Limited (www.ama.uk.com) [CONTENT MANAGEMENT SYSTEM 0.9.40-alpha-cms21-mrs_rl_website] start:0.025-->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+        <head>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+            <meta http-equiv="Page-Enter" content="blendTrans(Duration=0.1)" />
+            <meta http-equiv="Page-Exit" content="blendTrans(Duration=0.1)" />
+            <meta http-equiv="Reply-to" content="support@ama.uk.com" />
+            <meta name="generator" content="CMS Strata - AMA DataSet Limited" />
+            <meta name="description" content="A new passive metering technology that records all of an individual’s digital activity is shedding some interesting light on the difference between what people think they do online, and what they really do. By Ian Ralph﻿" />
+            <meta name="keywords" content="Market research news, industry insight, people, finance, legal, government, new business, technology, online, headlines" />
+            <meta name="robots" content="index, follow" />
+            <meta property="og:title" content="Measuring the immeasurable | Feature"/>
+            <meta property="og:type" content="article"/>
+            <meta property="og:url" content="http://www.research-live.com/article/news/measuring-the-immeasurable/id/5002672"/>
+            <meta property="og:site_name" content="Research Live"/>
+            <meta property="og:description" content="A new passive metering technology that records all of an individual’s digital activity is shedding some interesting light on the difference between what people think they do online, and what they really do. By Ian Ralph﻿"/>
+
+                       <meta prefix="og: http://ogp.me/ns#" property="og:image" content="https://rl-resources.cms.ama.uk.com/img/measure-mobile-crop.jpg"/> 
+                       <meta prefix="og: http://ogp.me/ns#" property="og:image:url" content="https://rl-resources.cms.ama.uk.com/img/measure-mobile-crop.jpg" />
+                       <meta property="og:image:width" content="592" />
+                       <meta property="og:image:height" content="444" />
+                                   <meta name='viewport' content='width=device-width, initial-scale=1'>
+                
+            <title>Measuring the immeasurable | Feature | Research Live</title>        
+            <link rel="icon" href="/images/favicon.png?v=2" type="image/vnd.microsoft.icon"/>
+            <link rel="shortcut icon" href="/images/favicon.png?v=2" type="image/x-icon" />
+            <link rel="apple-touch-icon" href="/images/favicon.png?v=2"/>
+            <link type="text/css" rel="stylesheet" href="/cms/css/bootstrap/3.3.5/bootstrap.min.css?1443690215" media="all" />
+            <link type="text/css" rel="stylesheet" href="/cms/css/ama.strata.css?1439834800" media="all" />
+            <link type="text/css" rel="stylesheet" href="/css/research-live.css?1453368376" media="all" />
+            <link type="text/css" rel="stylesheet" href="/css/font-awesome/font-awesome.css?1439816034" media="all" />
+            <!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="/css/bootstrap/fallback.css?1452682709" media="all" /><![endif]-->
+            <script type="text/javascript" src="/cms/includes/js/jquery/jquery-1.9.1.js?1441286601"></script>
+            <script type="text/javascript" src="/cms/includes/js/ajax/jqueryui/1.8.16/googleapis.jquery-ui.min.js?"></script>
+            <script type="text/javascript" src="/cms/includes/js/bootstrap/3.3.5/bootstrap.min.js?1439796207"></script>
+            <script type="text/javascript" src="/js/fancybox/jquery.fancybox.js?1455287246"></script>
+            <script type="text/javascript" src="/js/bootstrap.validator.js?1452694276"></script>
+            <script type="text/javascript" src="/js/timestamp.js?1452694270"></script>
+            <script type="text/javascript" src="/js/bootstrap/carousel.js?1453373755"></script>
+            <script type="text/javascript" src="/js/autosize.min.js?1452694285"></script>
+            <script type="text/javascript" src="/js/ama.2.js?1455206136"></script>
+            <script type="text/javascript" src="/cms/includes/js/ama.ajax.js?1444309105"></script>
+            <script type="text/javascript">
+            //<![CDATA[
+<!-- .setTargeting('kw', ["features","impact","innovations","mobile","uk"]) -->
+var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+
+
+
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/5747/research_live/article', [[728, 90]], 'div-gpt-ad-03-0').addService(googletag.pubads()).setTargeting('position', ['top']).setTargeting('kw', ["features","impact","innovations","mobile","uk"]);
+    googletag.defineSlot('/5747/research_live/article', [[206, 90]], 'div-gpt-ad-03-1').addService(googletag.pubads()).setTargeting('position', ['top']).setTargeting('kw', ["features","impact","innovations","mobile","uk"]);
+    googletag.defineSlot('/5747/research_live/article', [[300, 250]], 'div-gpt-ad-03-2').addService(googletag.pubads()).setTargeting('kw', ["features","impact","innovations","mobile","uk"]);
+    googletag.defineSlot('/5747/research_live/article', [[300, 600]], 'div-gpt-ad-03-3').addService(googletag.pubads()).setTargeting('kw', ["features","impact","innovations","mobile","uk"]);
+    googletag.defineSlot('/5747/research_live/article', [[300, 250]], 'div-gpt-ad-03-mobile-2').addService(googletag.pubads()).setTargeting('position', ['mobile']).setTargeting('kw', ["features","impact","innovations","mobile","uk"]);
+    googletag.defineSlot('/5747/research_live/article', [[300, 600]], 'div-gpt-ad-03-mobile-3').addService(googletag.pubads()).setTargeting('position', ['mobile']).setTargeting('kw', ["features","impact","innovations","mobile","uk"]);
+    googletag.defineSlot('/5747/research_live/article', [[300, 250]], 'div-gpt-ad-03-xs-2').addService(googletag.pubads()).setTargeting('position', ['tablet']).setTargeting('kw', ["features","impact","innovations","mobile","uk"]).setCollapseEmptyDiv(false);
+    googletag.defineSlot('/5747/research_live/article', [[300, 600]], 'div-gpt-ad-03-xs-3').addService(googletag.pubads()).setTargeting('position', ['tablet']).setTargeting('kw', ["features","impact","innovations","mobile","uk"]).setCollapseEmptyDiv(false);
+    googletag.defineSlot('/5747/research_live/article', [[728, 90]], 'div-gpt-ad-03-4').addService(googletag.pubads()).setTargeting('position', ['bottom']).setTargeting('kw', ["features","impact","innovations","mobile","uk"]);
+    googletag.defineSlot('/5747/research_live/article', [[206, 90]], 'div-gpt-ad-03-5').addService(googletag.pubads()).setTargeting('position', ['bottom']).setTargeting('kw', ["features","impact","innovations","mobile","uk"]);  
+        googletag.pubads().collapseEmptyDivs(); 
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+
+
+            //]]>
+            </script>
+            <script type="text/javascript" src="/js/cookiePolicy.3.js?1452694253"></script>
+        </head>
+    <body id='ama-page-2365'>
+                    <div id='ama-layout-18605' class='container-fluid wrapper ama-level-0'>
+                        <div id='ama-layout-17535' class='row section mrs-top-navbar grey border_b ama-level-1'>
+                            <div id='ama-layout-17765' class='mrs-search-overlay ama-level-2'>
+                                    <div id='ama-section-13865' class='ama-section'>
+                                        <div id='ama-section-body-13865' class='sectionbody'>
+<div id='ama-field-127242' class='ama-field-html-php'>	<div id="cookiePolicy">
+		<div class="container pd-40 sleeve">
+			<p>This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. <b><a href="/privacy-policy">Find out more here</a></b></p>
+			<div class="formbox">
+				<div class="formbox_sleeve">
+					<form method="post" action="" class="no-ajax">
+						<fieldset>
+							<input type="hidden" name="cookiepolicyaccepted" value="yes" />
+							<div class="field last">
+								<button type="submit" class="continue"><!--#*-->Agree<!--*#--></button>
+							</div>
+						</fieldset>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div><div id='ama-field-62455' class='ama-field-html-php'>
+
+<div class="container-fluid modal fade" id="search-overlay" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" Xdata-backdrop="false">
+    <div class="row navigation border_b" id="search-box-wrap"> 
+        <div class="container pd-40">
+            <div class="row">
+                <div class="col-xs-11">
+                <input type="text" class="form-control" id="search-box" placeholder="Type to Search" value="">
+                <a id="search-button" type="button" class="ama-search-ajax hidden" ama-ajax-parameters="W3sic291cmNlIjoiRjY2MTA1IiwiYWN0aW9uIjoiaHRtbCIsInRhcmdldCI6IkY2NjEwNSIsImFqYXhfdHlwZSI6InNlYXJjaCJ9XQ==" ama-ajax-dependency = "search-box">Search</a>
+                </div>
+                <div class="col-xs-1 pull-right"><a class="menu-close pull-right" xdata-toggle="collapse" data-dismiss="modal" href="#search-overlay" aria-expanded="true"></a></div>
+            </div>
+        </div>
+    </div>
+    <div class="row navigation border_b" id="search-sort"> 
+        <div class="container pd-40">
+            <p>Sort by: 
+                <a class="ama-search-ajax active" ama-ajax-parameters="W3sic291cmNlIjoiRjY2MTA1IiwiYWN0aW9uIjoiaHRtbCIsInRhcmdldCI6IkY2NjEwNSIsImFqYXhfdHlwZSI6InNvcnRfbmV3ZXN0In1d" ama-ajax-dependency = "search-box" id="search-sort-newest">Newest</a> 
+                <a class="ama-search-ajax" ama-ajax-parameters="W3sic291cmNlIjoiRjY2MTA1IiwiYWN0aW9uIjoiaHRtbCIsInRhcmdldCI6IkY2NjEwNSIsImFqYXhfdHlwZSI6InNvcnRfb2xkZXN0In1d" ama-ajax-dependency = "search-box" id="search-sort-oldest">Oldest</a>
+                <a class="ama-search-ajax" ama-ajax-parameters="W3sic291cmNlIjoiRjY2MTA1IiwiYWN0aW9uIjoiaHRtbCIsInRhcmdldCI6IkY2NjEwNSIsImFqYXhfdHlwZSI6InNvcnRfcmVsZXZhbmNlIn1d" ama-ajax-dependency = "search-box" id="search-sort-relevance">Relevance</a>
+            </p>
+        </div>
+    </div>  
+    <div class="row border_b"> 
+        <div class="item no_margin_b" id="search-results">
+            <div id='ama-field-66105' class='ama-field-html-php'></div>     
+        </div>
+    </div>        
+</div></div>                                        </div>
+                                    </div>
+                            </div>
+                            <div id='ama-layout-19476' class='hidden-xs ama-level-2'>
+                                    <div id='ama-section-14656' class='ama-section'>
+                                        <div id='ama-section-body-14656' class='sectionbody'>
+<div id='ama-field-61835' class='ama-field-html-php'>
+
+<div class="mrs-head Xvisible-lg-block hidden-xs">
+<!--img src="/img/1_Header2.gif"-->
+    <!-- DFP call -->
+    <!-- top leaderboard 0  -->
+    <div class='mrs-leaderboard'>
+			<div class='mrs-ad'>
+				<div id='div-gpt-ad-03-0' style='margin: 0px 7px;'>
+					<script type='text/javascript'>
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-03-0'); });
+					</script>
+				</div>
+			</div>
+			<!-- top button 1  -->
+			<div class='mrs-ad'>
+				<div id='div-gpt-ad-03-1' style='margin: 0px 7px;'>
+					<script type='text/javascript'>
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-03-1'); });
+					</script>
+				</div>
+			</div>
+	</div>
+</div></div>                                        </div>
+                                    </div>
+                            </div>
+                            <div id='ama-layout-17435' class='container pd-40 ama-level-2'>
+                                    <div id='ama-section-13705' class='ama-section'>
+                                        <div id='ama-section-body-13705' class='sectionbody'>
+<div id='ama-field-127972' class='ama-field-html-php'></div><div id='ama-field-61775' class='ama-field-html-php'>
+
+<div class="utility_bar visible-lg-block">
+    <ul class="nav nav-pills navbar-right utility" id="utility">
+        
+        <li role='presentation'><a class='signin'>Sign In</a></li>
+        <li role='presentation' class='dropdown-hover'>
+            <a href='https://www.mymrs.mrs.org.uk/MRS/Contact_Management/Create_account_request.aspx?ResLive=weekly' target='_blank'>Register</a>
+            <ul class='sub-menu dropdown-menu rl utility'>
+                <li><a>You do not need to register again if you already have an MRS web account, just sign in.</a></li>
+            </ul>            
+        </li>        <li role="presentation" class="menu dropdown non_category"><a href="/about" data-toggle="dropdown" class="dropdown-toggle">About<span class="submenu_arrow fa fa-chevron-down" style="margin-left: 5px;"></span></a>
+                <ul class="sub-menu dropdown-menu rl utility">
+                        <li class="border_b"><a href="/about-us">About Research Live</a></li>        <li class="border_b"><a href="/about-mrs">About MRS</a></li>        <li class="border_b"><a href="/advertising-information">Advertise</a></li>        <li class="border_b"><a href="/a-z-contributors">A to Z Contributors</a></li>        <li class="border_b"><a href="/contact-us">Contact us</a></li>        <li class="border_b"><a href="https://www.mrs.org.uk/privacy_policy" target="_blank">Privacy</a></li>        <li class="border_b"><a href="/publication-index">Publications Index</a></li>        <li class=""><a href="/terms-and-conditions">Terms & Conditions</a></li>
+                </ul>
+                </li><li role="presentation" class="menu dropdown non_category"><a href="" data-toggle="dropdown" class="dropdown-toggle">MRS Websites<span class="submenu_arrow fa fa-chevron-down" style="margin-left: 5px;"></span></a>
+                <ul class="sub-menu dropdown-menu rl utility">
+                        <li class="border_b"><a rel="nofollow" href="http://www.theresearchbuyersguide.com" target="_blank">Research Buyers Guide</a></li>        <li class="border_b"><a rel="nofollow" href="https://www.mrs.org.uk/ijmr" target="_blank">IJMR</a></li>        <li class="border_b"><a rel="nofollow" href="http://www.geodemographics.org.uk/" target="_blank">Geodemographics</a></li>        <li class="border_b"><a rel="nofollow" href="https://www.mrs.org.uk/" target="_blank">MRS Website</a></li>        <li class="border_b"><a rel="nofollow" href="http://www.fairdata.org.uk/" target="_blank">Fair Data</a></li>        <li class="border_b"><a rel="nofollow" href="http://www.researchjobfinder.com/" target="_blank">Job Finder</a></li>        <li class=""><a rel="nofollow" href=""><img src="/images/mrs_rgb.png" height="55" width="90" style="margin-left: auto; margin-right: auto; display: block;" class="mrs_logo_subnav"/></a></li>
+                </ul>
+                </li><!-- f_url_call:dev.research-live.com/scripts/top_navbar_build.php:Thu, 11 Feb 2016 16:30:41 +0000 -->    </ul>
+    <form class="navbar-form navbar-right utility_bar_login" role="login" id="login" method="POST" action="" accept-charset="UTF-8">
+        <ul class="nav nav-pills navbar-left utility grey"><li><span class='login-error-msg signed_in'>&nbsp;</span></li>
+        <li><a href='https://www.mymrs.mrs.org.uk/mrs/MRS/Contact_Management/Forgot_my_login_password.aspx' target='_blank'>Forgot Password?</a></li>
+        </ul>
+        <a class="btn btn-default rl close_login"></a>
+        <div class="form-group">
+            <input name="username" class="form-control rl signin" type="text" id="loginID" placeholder="Username">
+        </div>
+        <div class="form-group">
+            <input name="password" class="form-control rl signin" type="password" id="password" placeholder="Password">
+        </div>
+                <input type="hidden" name="submit">
+        <button type="submit" class="btn btn-default submit ajaxlogin">Sign In</button>
+    </form>
+</div></div>                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div id='ama-layout-17445' class='row section mrs-navigation ama-level-1'>
+                                <div id='ama-section-13715' class='ama-section'>
+                                    <div id='ama-section-body-13715' class='sectionbody'>
+<span id='ama-field-66075' class='ama-field-html-php'></span><div id='ama-field-62005' class='ama-field-html-php'><div class="row-fluid">
+    <div class="col-md-12 visible-lg-block"> <!- Show this full bar when we are large -->
+        <div class="row navigation full-screen-navigation border_b"> 
+            <div class="container pd-40 xheader_extra">
+                <ul class="mrs-navigation-article">
+                    <li class="logo"><a href="/">Research<span class="blue">Live</span></a></li>   
+                    
+<li class="article_nav">
+<span class="nav_title">Measuring the immeasurable</span>
+<span class="nav_byline"><a href="/contributor/id/1082/ian-ralph">Ian Ralph</a></span>
+<span class="nav_date">10 February 2016</span>
+</li>
+
+<li class="menu dropdown"><a href="/sectors"  xdata-toggle="dropdown" xclass="dropdown-toggle">Sectors <span class="submenu_arrow fa fa-chevron-down"></span> <span class="arrow_down ama-arrow-offset-1"></span></a>
+                <div class="dropdown-menu rl">
+                <div class="container pd-40">
+                <div style="position: relative;">
+                <div class="col-lg-2 dropdown-menu-list"><ul class="sub-menu">        <li class="border_b"><a href="/sectors/automotive">Automotive</a></li>        <li class="border_b"><a href="/sectors/charities">Charities</a></li>        <li class="border_b"><a href="/sectors/energy">Energy</a></li>        <li class="border_b"><a href="/sectors/finance">Finance</a></li>        <li class="border_b"><a href="/sectors/fmcg">FMCG</a></li></ul></div><div class="col-lg-2 dropdown-menu-list"><ul class="sub-menu">        <li class="border_b"><a href="/sectors/healthcare">Healthcare</a></li>        <li class="border_b"><a href="/sectors/leisure-arts">Leisure & Arts</a></li>        <li class="border_b"><a href="/sectors/media">Media</a></li>        <li class="border_b"><a href="/sectors/public-sector">Public Sector</a></li>        <li class="border_b"><a href="/sectors/retail">Retail</a></li></ul></div><div class="col-lg-2 dropdown-menu-list"><ul class="sub-menu">        <li class="border_b"><a href="/sectors/technology">Technology</a></li>        <li class="border_b"><a href="/sectors/telecoms">Telecoms</a></li>        <li class="border_b"><a href="/sectors/travel">Travel</a></li></ul></div>
+                <div class="col-sm-2 xpull-right">
+                <div class="onhover">
+                <a href="/article/opinion/-respondents-are-people-too/id/5002932">
+                <div class="item">
+                <div class="item_overlay"><div class="overlay_grey"></div><img alt="" src="https://rl-resources.cms.ama.uk.com/img/people_crop[h:150;q:75].jpg"></div>
+                <div class="item_text" style="padding-top:1em;" >
+                <p class="title"> ‘Respondents’ are people too</p>
+                <p class="byline">Chris Dubreuil<br></p>
+                </div>
+                </div>
+                </a>
+                </div>                                    
+                </div>
+                <div class="col-sm-1 pull-right no_padding"><a class="menu-close pull-right"></a></div>
+                </div>
+                </div>
+                </div>
+                </li><li class="menu dropdown"><a href="/topics"  xdata-toggle="dropdown" xclass="dropdown-toggle">Topics <span class="submenu_arrow fa fa-chevron-down"></span> <span class="arrow_down ama-arrow-offset-2"></span></a>
+                <div class="dropdown-menu rl">
+                <div class="container pd-40">
+                <div style="position: relative;">
+                <div class="col-lg-2 dropdown-menu-list"><ul class="sub-menu">        <li class="border_b"><a href="/topics/b2b">B2B</a></li>        <li class="border_b"><a href="/topics/behavioural-economics">Behavioural economics</a></li>        <li class="border_b"><a href="/topics/big-data">Big Data</a></li>        <li class="border_b"><a href="/topics/innovations">Innovations</a></li>        <li class="border_b"><a href="/topics/mobile">Mobile</a></li></ul></div><div class="col-lg-2 dropdown-menu-list"><ul class="sub-menu">        <li class="border_b"><a href="/topics/online-privacy">Privacy</a></li>        <li class="border_b"><a href="/topics/trends">Trends</a></li></ul></div>
+                <div class="col-sm-2 xpull-right">
+                <div class="onhover">
+                <a href="/article/opinion/-respondents-are-people-too/id/5002932">
+                <div class="item">
+                <div class="item_overlay"><div class="overlay_grey"></div><img alt="" src="https://rl-resources.cms.ama.uk.com/img/people_crop[h:150;q:75].jpg"></div>
+                <div class="item_text" style="padding-top:1em;" >
+                <p class="title"> ‘Respondents’ are people too</p>
+                <p class="byline">Chris Dubreuil<br></p>
+                </div>
+                </div>
+                </a>
+                </div>                                    
+                </div>
+                <div class="col-sm-1 pull-right no_padding"><a class="menu-close pull-right"></a></div>
+                </div>
+                </div>
+                </div>
+                </li><li class="menu dropdown"><a href="/industry"  xdata-toggle="dropdown" xclass="dropdown-toggle">Industry <span class="submenu_arrow fa fa-chevron-down"></span> <span class="arrow_down ama-arrow-offset-3"></span></a>
+                <div class="dropdown-menu rl">
+                <div class="container pd-40">
+                <div style="position: relative;">
+                <div class="col-lg-2 dropdown-menu-list"><ul class="sub-menu">        <li class="border_b"><a href="/awards">Awards</a></li>        <li class="border_b"><a href="/events">Events</a></li>        <li class="border_b"><a href="/industry/financials">Financials</a></li>        <li class="border_b"><a href="http://www.researchjobfinder.com/">Jobs</a></li>        <li class="border_b"><a href="/industry/legal">Legal</a></li></ul></div><div class="col-lg-2 dropdown-menu-list"><ul class="sub-menu">        <li class="border_b"><a href="/industry/m-and-a">M&A</a></li>        <li class="border_b"><a href="/industry/new-business">New business</a></li>        <li class="border_b"><a href="/sections/news">News</a></li>        <li class="border_b"><a href="/industry/people">People</a></li></ul></div>
+                <div class="col-sm-2 xpull-right">
+                <div class="onhover">
+                <a href="/article/opinion/-respondents-are-people-too/id/5002932">
+                <div class="item">
+                <div class="item_overlay"><div class="overlay_grey"></div><img alt="" src="https://rl-resources.cms.ama.uk.com/img/people_crop[h:150;q:75].jpg"></div>
+                <div class="item_text" style="padding-top:1em;" >
+                <p class="title"> ‘Respondents’ are people too</p>
+                <p class="byline">Chris Dubreuil<br></p>
+                </div>
+                </div>
+                </a>
+                </div>                                    
+                </div>
+                <div class="col-sm-1 pull-right no_padding"><a class="menu-close pull-right"></a></div>
+                </div>
+                </div>
+                </div>
+                </li><li class="menu dropdown hidden-lg"><a href="/regions"  xdata-toggle="dropdown" xclass="dropdown-toggle">Regions <span class="submenu_arrow fa fa-chevron-down"></span> <span class="arrow_down ama-arrow-offset-4"></span></a>
+                <div class="dropdown-menu rl">
+                <div class="container pd-40">
+                <div style="position: relative;">
+                <div class="col-lg-2 dropdown-menu-list"><ul class="sub-menu">        <li class="border_b"><a href="/regions/asia-pacific">Asia Pacific</a></li>        <li class="border_b"><a href="/regions/europe">Europe</a></li>        <li class="border_b"><a href="/regions/latin-america">Latin America</a></li>        <li class="border_b"><a href="/regions/middle-east-africa">Middle East and Africa</a></li>        <li class="border_b"><a href="/regions/north-america">North America</a></li></ul></div><div class="col-lg-2 dropdown-menu-list"><ul class="sub-menu">        <li class="border_b"><a href="/regions/uk">UK</a></li></ul></div>
+                <div class="col-sm-2 xpull-right">
+                <div class="onhover">
+                <a href="/article/opinion/-respondents-are-people-too/id/5002932">
+                <div class="item">
+                <div class="item_overlay"><div class="overlay_grey"></div><img alt="" src="https://rl-resources.cms.ama.uk.com/img/people_crop[h:150;q:75].jpg"></div>
+                <div class="item_text" style="padding-top:1em;" >
+                <p class="title"> ‘Respondents’ are people too</p>
+                <p class="byline">Chris Dubreuil<br></p>
+                </div>
+                </div>
+                </a>
+                </div>                                    
+                </div>
+                <div class="col-sm-1 pull-right no_padding"><a class="menu-close pull-right"></a></div>
+                </div>
+                </div>
+                </div>
+                </li><li class="menu dropdown hidden-lg"><a href="/sections"  xdata-toggle="dropdown" xclass="dropdown-toggle">Sections <span class="submenu_arrow fa fa-chevron-down"></span> <span class="arrow_down ama-arrow-offset-5"></span></a>
+                <div class="dropdown-menu rl">
+                <div class="container pd-40">
+                <div style="position: relative;">
+                <div class="col-lg-2 dropdown-menu-list"><ul class="sub-menu">        <li class="border_b"><a href="/sections/features">Features</a></li>        <li class="border_b"><a href="/sections/impact">Impact</a></li>        <li class="border_b"><a href="/sections/news">News</a></li>        <li class="border_b"><a href="/sections/opinion">Opinion</a></li></ul></div>
+                <div class="col-sm-2 xpull-right">
+                <div class="onhover">
+                <a href="/article/opinion/-respondents-are-people-too/id/5002932">
+                <div class="item">
+                <div class="item_overlay"><div class="overlay_grey"></div><img alt="" src="https://rl-resources.cms.ama.uk.com/img/people_crop[h:150;q:75].jpg"></div>
+                <div class="item_text" style="padding-top:1em;" >
+                <p class="title"> ‘Respondents’ are people too</p>
+                <p class="byline">Chris Dubreuil<br></p>
+                </div>
+                </div>
+                </a>
+                </div>                                    
+                </div>
+                <div class="col-sm-1 pull-right no_padding"><a class="menu-close pull-right"></a></div>
+                </div>
+                </div>
+                </div>
+                </li><!-- f_url_call:cron.research-live.com/scripts/navigation_build.php:Thu, 18 Feb 2016 06:50:04 +0000 -->  
+                    <li class="mrs-search pull-right"><a role="button" data-toggle="modal" data-target="#search-overlay" href="#search-overlay" aria-expanded="false" id="search-overlay-btn"></a></li> 
+					<li class="menu dropdown browse_all pull-right">
+                <a href="/sections" class="browse_icon">All Sections<span class="arrow_down ama-arrow-offset-5"></span></a>
+                <div class="dropdown-menu rl">
+                <div class="container pd-40">
+                <div style="position: relative;">
+                <div class="col-lg-12 dropdown-menu-list">
+                <div class="row">
+                <div class="col-sm-1 pull-right no_padding"><a class="menu-close pull-right"></a></div>
+                <div class="large_nav hidden-md hidden-sm hidden-xs"><ul class="sitemap_dd">
+<li class="large_nav_head double_block first_block"><ul class="nav_head_left"><li class="large_nav_cat">Sectors</li></ul><ul class="nav_head_right">
+  <li class="nav_item"><a href="/sectors/automotive">Automotive</a></li>
+  <li class="nav_item"><a href="/sectors/charities">Charities</a></li>
+  <li class="nav_item"><a href="/sectors/energy">Energy</a></li>
+  <li class="nav_item"><a href="/sectors/finance">Finance</a></li>
+  <li class="nav_item"><a href="/sectors/fmcg">FMCG</a></li>
+  <li class="nav_item"><a href="/sectors/healthcare">Healthcare</a></li>
+  <li class="nav_item"><a href="/sectors/leisure-arts">Leisure & Arts</a></li>
+  <li class="nav_item"><a href="/sectors/media">Media</a></li>
+  <li class="nav_item"><a href="/sectors/public-sector">Public Sector</a></li>
+  <li class="nav_item"><a href="/sectors/retail">Retail</a></li>
+  <li class="nav_item"><a href="/sectors/technology">Technology</a></li>
+  <li class="nav_item"><a href="/sectors/telecoms">Telecoms</a></li>
+  <li class="nav_item"><a href="/sectors/travel">Travel</a></li>
+</ul></li>
+<li class="large_nav_head"><ul class="nav_head_left"><li class="large_nav_cat">Topics</li></ul><ul class="nav_head_right">
+  <li class="nav_item"><a href="/topics/b2b">B2B</a></li>
+  <li class="nav_item"><a href="/topics/behavioural-economics">Behavioural economics</a></li>
+  <li class="nav_item"><a href="/topics/big-data">Big Data</a></li>
+  <li class="nav_item"><a href="/topics/innovations">Innovations</a></li>
+  <li class="nav_item"><a href="/topics/mobile">Mobile</a></li>
+  <li class="nav_item"><a href="/topics/online-privacy">Privacy</a></li>
+  <li class="nav_item"><a href="/topics/trends">Trends</a></li>
+</ul></li>
+<li class="large_nav_head"><ul class="nav_head_left"><li class="large_nav_cat">Industry</li></ul><ul class="nav_head_right">
+  <li class="nav_item"><a href="/industry/awards">Awards</a></li>
+  <li class="nav_item"><a href="/industry/events">Events</a></li>
+  <li class="nav_item"><a href="/industry/financials">Financials</a></li>
+  <li class="nav_item"><a href="http://www.researchjobfinder.com/">Jobs</a></li>
+  <li class="nav_item"><a href="/industry/legal">Legal</a></li>
+  <li class="nav_item"><a href="/industry/m-and-a">M&A</a></li>
+  <li class="nav_item"><a href="/industry/new-business">New business</a></li>
+  <li class="nav_item"><a href="/sections/news">News</a></li>
+  <li class="nav_item"><a href="/industry/people">People</a></li>
+</ul></li>
+<li class="large_nav_head"><ul class="nav_head_left"><li class="large_nav_cat">Regions</li></ul><ul class="nav_head_right">
+  <li class="nav_item"><a href="/regions/asia-pacific">Asia Pacific</a></li>
+  <li class="nav_item"><a href="/regions/europe">Europe</a></li>
+  <li class="nav_item"><a href="/regions/latin-america">Latin America</a></li>
+  <li class="nav_item"><a href="/regions/middle-east-africa">Middle East and Africa</a></li>
+  <li class="nav_item"><a href="/regions/north-america">North America</a></li>
+  <li class="nav_item"><a href="/regions/uk">UK</a></li>
+</ul></li>
+<li class="large_nav_head"><ul class="nav_head_left"><li class="large_nav_cat">Sections</li></ul><ul class="nav_head_right">
+  <li class="nav_item"><a href="/sections/features">Features</a></li>
+  <li class="nav_item"><a href="/sections/impact">Impact</a></li>
+  <li class="nav_item"><a href="/sections/news">News</a></li>
+  <li class="nav_item"><a href="/sections/opinion">Opinion</a></li>
+</ul></li>
+<li class="large_nav_head"><ul class="nav_head_left"><li class="large_nav_cat">About</li></ul><ul class="nav_head_right">
+  <li class="nav_item"><a href="/about-us">About Research Live</a></li>
+  <li class="nav_item"><a href="/about-mrs">About MRS</a></li>
+  <li class="nav_item"><a href="/advertising-information">Advertise</a></li>
+  <li class="nav_item"><a href="/a-z-contributors">A to Z Contributors</a></li>
+  <li class="nav_item"><a href="/contact-us">Contact us</a></li>
+  <li class="nav_item"><a href="https://www.mrs.org.uk/privacy_policy">Privacy</a></li>
+  <li class="nav_item"><a href="/publication-index">Publications Index</a></li>
+  <li class="nav_item"><a href="/terms-and-conditions">Terms & Conditions</a></li>
+</ul></li></ul></div>
+                                </div>
+                                </div>
+                                </div>
+                                </div></div></li><!-- f_url_call:cron.research-live.com/scripts/sitemap_nav.php:Thu, 18 Feb 2016 06:50:05 +0000 -->                </ul>
+            </div>
+            <div class="scroll-bar"></div>
+            <div id="mainmenu-backdrop" class="mrs-backdrop"></div>
+        </div>
+    </div>
+    
+        <!- Show this full bar when we are mobile -->
+    <div class="col-xs-12 visible-xs-block visible-sm-block visible-md-block">
+        <div class="row navigation small-screen-navigation visible-xs-block visible-sm-block visible-md-block border_b">
+            <ul>
+                <li class="logo">
+                    <a href="/home">Research<span class="blue visible-xs-inline">Live</span><!--Mobile--><span class="blue visible-sm-inline visible-md-inline">Live</span><!--Medium-->
+                    </a></li>  
+                <li class="menu pull-right" style="padding-left:10px;">
+					<button type="button" class="navbar-toggle offcanvas-toggle visible-xs-inline visible-sm-inline visible-md-inline" data-toggle="modal" data-target="#mobile-menu-overlay" href="#mobile-menu-overlay" data-backdrop="false" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>					
+                   <!-- <button type="button" class="navbar-toggle offcanvas-toggle visible-xs-inline visible-sm-inline visible-md-inline" data-toggle="offcanvas" data-target="#js-bootstrap-offcanvas">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>-->
+                </li> 
+                <li class="mrs-search pull-right"><a role="button" data-toggle="modal" data-target="#search-overlay" href="#search-overlay" aria-expanded="false"></a></li>               
+            </ul>
+        </div>
+		<div class="container-fluid modal fade" id="mobile-menu-overlay" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" Xdata-backdrop="false">
+        <div class="navbar navbar-offcanvas visible-xs-block visible-sm-block visible-md-block" role="navigation" id="js-bootstrap-offcanvas"> 
+            <div class="navbar-header">
+                <!--<a class="btn btn-default rl close_login navbar-toggle offcanvas-toggle pull-right visible-xs-inline visible-sm-inline visible-md-inline" data-toggle="offcanvas" data-target="#js-bootstrap-offcanvas" ></a>-->
+				<a class="btn btn-default rl close_login navbar-toggle offcanvas-toggle pull-right visible-xs-inline visible-sm-inline visible-md-inline" data-dismiss="modal" href="#mobile-menu-overlay"></a>
+            </div>
+            <div id="menu-backdrop" class="mrs-backdrop"></div>
+            <ul class="nav navbar-nav navigation">
+                <li class="menu dropdown"><a href="/sectors"  xdata-toggle="dropdown" xclass="dropdown-toggle">Sectors <span class="submenu_arrow fa fa-chevron-down"></span> <span class="arrow_down ama-arrow-offset-1"></span></a>
+                <div class="dropdown-menu rl">
+                <div class="container pd-40">
+                <div style="position: relative;">
+                <div class="col-lg-2 dropdown-menu-list"><ul class="sub-menu">        <li class="border_b"><a href="/sectors/automotive">Automotive</a></li>        <li class="border_b"><a href="/sectors/charities">Charities</a></li>        <li class="border_b"><a href="/sectors/energy">Energy</a></li>        <li class="border_b"><a href="/sectors/finance">Finance</a></li>        <li class="border_b"><a href="/sectors/fmcg">FMCG</a></li></ul></div><div class="col-lg-2 dropdown-menu-list"><ul class="sub-menu">        <li class="border_b"><a href="/sectors/healthcare">Healthcare</a></li>        <li class="border_b"><a href="/sectors/leisure-arts">Leisure & Arts</a></li>        <li class="border_b"><a href="/sectors/media">Media</a></li>        <li class="border_b"><a href="/sectors/public-sector">Public Sector</a></li>        <li class="border_b"><a href="/sectors/retail">Retail</a></li></ul></div><div class="col-lg-2 dropdown-menu-list"><ul class="sub-menu">        <li class="border_b"><a href="/sectors/technology">Technology</a></li>        <li class="border_b"><a href="/sectors/telecoms">Telecoms</a></li>        <li class="border_b"><a href="/sectors/travel">Travel</a></li></ul></div>
+                <div class="col-sm-2 xpull-right">
+                <div class="onhover">
+                <a href="/article/opinion/-respondents-are-people-too/id/5002932">
+                <div class="item">
+                <div class="item_overlay"><div class="overlay_grey"></div><img alt="" src="https://rl-resources.cms.ama.uk.com/img/people_crop[h:150;q:75].jpg"></div>
+                <div class="item_text" style="padding-top:1em;" >
+                <p class="title"> ‘Respondents’ are people too</p>
+                <p class="byline">Chris Dubreuil<br></p>
+                </div>
+                </div>
+                </a>
+                </div>                                    
+                </div>
+                <div class="col-sm-1 pull-right no_padding"><a class="menu-close pull-right"></a></div>
+                </div>
+                </div>
+                </div>
+                </li><li class="menu dropdown"><a href="/topics"  xdata-toggle="dropdown" xclass="dropdown-toggle">Topics <span class="submenu_arrow fa fa-chevron-down"></span> <span class="arrow_down ama-arrow-offset-2"></span></a>
+                <div class="dropdown-menu rl">
+                <div class="container pd-40">
+                <div style="position: relative;">
+                <div class="col-lg-2 dropdown-menu-list"><ul class="sub-menu">        <li class="border_b"><a href="/topics/b2b">B2B</a></li>        <li class="border_b"><a href="/topics/behavioural-economics">Behavioural economics</a></li>        <li class="border_b"><a href="/topics/big-data">Big Data</a></li>        <li class="border_b"><a href="/topics/innovations">Innovations</a></li>        <li class="border_b"><a href="/topics/mobile">Mobile</a></li></ul></div><div class="col-lg-2 dropdown-menu-list"><ul class="sub-menu">        <li class="border_b"><a href="/topics/online-privacy">Privacy</a></li>        <li class="border_b"><a href="/topics/trends">Trends</a></li></ul></div>
+                <div class="col-sm-2 xpull-right">
+                <div class="onhover">
+                <a href="/article/opinion/-respondents-are-people-too/id/5002932">
+                <div class="item">
+                <div class="item_overlay"><div class="overlay_grey"></div><img alt="" src="https://rl-resources.cms.ama.uk.com/img/people_crop[h:150;q:75].jpg"></div>
+                <div class="item_text" style="padding-top:1em;" >
+                <p class="title"> ‘Respondents’ are people too</p>
+                <p class="byline">Chris Dubreuil<br></p>
+                </div>
+                </div>
+                </a>
+                </div>                                    
+                </div>
+                <div class="col-sm-1 pull-right no_padding"><a class="menu-close pull-right"></a></div>
+                </div>
+                </div>
+                </div>
+                </li><li class="menu dropdown"><a href="/industry"  xdata-toggle="dropdown" xclass="dropdown-toggle">Industry <span class="submenu_arrow fa fa-chevron-down"></span> <span class="arrow_down ama-arrow-offset-3"></span></a>
+                <div class="dropdown-menu rl">
+                <div class="container pd-40">
+                <div style="position: relative;">
+                <div class="col-lg-2 dropdown-menu-list"><ul class="sub-menu">        <li class="border_b"><a href="/awards">Awards</a></li>        <li class="border_b"><a href="/events">Events</a></li>        <li class="border_b"><a href="/industry/financials">Financials</a></li>        <li class="border_b"><a href="http://www.researchjobfinder.com/">Jobs</a></li>        <li class="border_b"><a href="/industry/legal">Legal</a></li></ul></div><div class="col-lg-2 dropdown-menu-list"><ul class="sub-menu">        <li class="border_b"><a href="/industry/m-and-a">M&A</a></li>        <li class="border_b"><a href="/industry/new-business">New business</a></li>        <li class="border_b"><a href="/sections/news">News</a></li>        <li class="border_b"><a href="/industry/people">People</a></li></ul></div>
+                <div class="col-sm-2 xpull-right">
+                <div class="onhover">
+                <a href="/article/opinion/-respondents-are-people-too/id/5002932">
+                <div class="item">
+                <div class="item_overlay"><div class="overlay_grey"></div><img alt="" src="https://rl-resources.cms.ama.uk.com/img/people_crop[h:150;q:75].jpg"></div>
+                <div class="item_text" style="padding-top:1em;" >
+                <p class="title"> ‘Respondents’ are people too</p>
+                <p class="byline">Chris Dubreuil<br></p>
+                </div>
+                </div>
+                </a>
+                </div>                                    
+                </div>
+                <div class="col-sm-1 pull-right no_padding"><a class="menu-close pull-right"></a></div>
+                </div>
+                </div>
+                </div>
+                </li><li class="menu dropdown hidden-lg"><a href="/regions"  xdata-toggle="dropdown" xclass="dropdown-toggle">Regions <span class="submenu_arrow fa fa-chevron-down"></span> <span class="arrow_down ama-arrow-offset-4"></span></a>
+                <div class="dropdown-menu rl">
+                <div class="container pd-40">
+                <div style="position: relative;">
+                <div class="col-lg-2 dropdown-menu-list"><ul class="sub-menu">        <li class="border_b"><a href="/regions/asia-pacific">Asia Pacific</a></li>        <li class="border_b"><a href="/regions/europe">Europe</a></li>        <li class="border_b"><a href="/regions/latin-america">Latin America</a></li>        <li class="border_b"><a href="/regions/middle-east-africa">Middle East and Africa</a></li>        <li class="border_b"><a href="/regions/north-america">North America</a></li></ul></div><div class="col-lg-2 dropdown-menu-list"><ul class="sub-menu">        <li class="border_b"><a href="/regions/uk">UK</a></li></ul></div>
+                <div class="col-sm-2 xpull-right">
+                <div class="onhover">
+                <a href="/article/opinion/-respondents-are-people-too/id/5002932">
+                <div class="item">
+                <div class="item_overlay"><div class="overlay_grey"></div><img alt="" src="https://rl-resources.cms.ama.uk.com/img/people_crop[h:150;q:75].jpg"></div>
+                <div class="item_text" style="padding-top:1em;" >
+                <p class="title"> ‘Respondents’ are people too</p>
+                <p class="byline">Chris Dubreuil<br></p>
+                </div>
+                </div>
+                </a>
+                </div>                                    
+                </div>
+                <div class="col-sm-1 pull-right no_padding"><a class="menu-close pull-right"></a></div>
+                </div>
+                </div>
+                </div>
+                </li><li class="menu dropdown hidden-lg"><a href="/sections"  xdata-toggle="dropdown" xclass="dropdown-toggle">Sections <span class="submenu_arrow fa fa-chevron-down"></span> <span class="arrow_down ama-arrow-offset-5"></span></a>
+                <div class="dropdown-menu rl">
+                <div class="container pd-40">
+                <div style="position: relative;">
+                <div class="col-lg-2 dropdown-menu-list"><ul class="sub-menu">        <li class="border_b"><a href="/sections/features">Features</a></li>        <li class="border_b"><a href="/sections/impact">Impact</a></li>        <li class="border_b"><a href="/sections/news">News</a></li>        <li class="border_b"><a href="/sections/opinion">Opinion</a></li></ul></div>
+                <div class="col-sm-2 xpull-right">
+                <div class="onhover">
+                <a href="/article/opinion/-respondents-are-people-too/id/5002932">
+                <div class="item">
+                <div class="item_overlay"><div class="overlay_grey"></div><img alt="" src="https://rl-resources.cms.ama.uk.com/img/people_crop[h:150;q:75].jpg"></div>
+                <div class="item_text" style="padding-top:1em;" >
+                <p class="title"> ‘Respondents’ are people too</p>
+                <p class="byline">Chris Dubreuil<br></p>
+                </div>
+                </div>
+                </a>
+                </div>                                    
+                </div>
+                <div class="col-sm-1 pull-right no_padding"><a class="menu-close pull-right"></a></div>
+                </div>
+                </div>
+                </div>
+                </li><!-- f_url_call:cron.research-live.com/scripts/navigation_build.php:Thu, 18 Feb 2016 06:50:04 +0000 -->                
+        <li class='menu dropdown non_category'>
+            <a data-toggle='dropdown' class='dropdown-toggle signin'>Sign In <span class='caret close_login pull-right'></span></a>
+            <div class='dropdown-menu rl'>
+                <form class='utility_bar_login' role='login' id='login' method='POST' action='/' accept-charset='UTF-8'>
+                    <div class='col-xs-12 no_padding border_b'>
+                        <div class='form-group col-xs-12 no_padding'>
+                            <input name='username' class='form-control rl signin' type='text' id='loginID' placeholder='Email'>
+                        </div>
+                    </div>
+                    <div class='col-xs-12 no_padding border_b'>
+                        <div class='form-group col-xs-12 no_padding'>
+                            <input name='password' class='form-control rl signin' type='password' id='password' placeholder='Password'>
+                        </div>
+                        <div class='form-group col-xs-12 no_padding forgotten_password'>
+                           <a href='https://www.mymrs.mrs.org.uk/mrs/MRS/Contact_Management/Forgot_my_login_password.aspx' target='_blank'>Forgot Password?</a>
+                        </div>
+                    </div>
+                    <input type='hidden' name='submit'>
+                    <button type='submit' class='btn btn-default submit ajaxlogin'>Sign In</button>
+                </form>  
+            </div>  
+        </li>
+        <li class='menu non_category'><a href='https://www.mymrs.mrs.org.uk/MRS/Contact_Management/Create_account_request.aspx?ResLive=weekly' target='_blank'>Register</a></li>
+                        <li role="presentation" class="menu dropdown non_category"><a href="/about" data-toggle="dropdown" class="dropdown-toggle">About<span class="submenu_arrow fa fa-chevron-down" style="margin-left: 5px;"></span></a>
+                <ul class="sub-menu dropdown-menu rl utility">
+                        <li class="border_b"><a href="/about-us">About Research Live</a></li>        <li class="border_b"><a href="/about-mrs">About MRS</a></li>        <li class="border_b"><a href="/advertising-information">Advertise</a></li>        <li class="border_b"><a href="/a-z-contributors">A to Z Contributors</a></li>        <li class="border_b"><a href="/contact-us">Contact us</a></li>        <li class="border_b"><a href="https://www.mrs.org.uk/privacy_policy" target="_blank">Privacy</a></li>        <li class="border_b"><a href="/publication-index">Publications Index</a></li>        <li class=""><a href="/terms-and-conditions">Terms & Conditions</a></li>
+                </ul>
+                </li><li role="presentation" class="menu dropdown non_category"><a href="" data-toggle="dropdown" class="dropdown-toggle">MRS Websites<span class="submenu_arrow fa fa-chevron-down" style="margin-left: 5px;"></span></a>
+                <ul class="sub-menu dropdown-menu rl utility">
+                        <li class="border_b"><a rel="nofollow" href="http://www.theresearchbuyersguide.com" target="_blank">Research Buyers Guide</a></li>        <li class="border_b"><a rel="nofollow" href="https://www.mrs.org.uk/ijmr" target="_blank">IJMR</a></li>        <li class="border_b"><a rel="nofollow" href="http://www.geodemographics.org.uk/" target="_blank">Geodemographics</a></li>        <li class="border_b"><a rel="nofollow" href="https://www.mrs.org.uk/" target="_blank">MRS Website</a></li>        <li class="border_b"><a rel="nofollow" href="http://www.fairdata.org.uk/" target="_blank">Fair Data</a></li>        <li class="border_b"><a rel="nofollow" href="http://www.researchjobfinder.com/" target="_blank">Job Finder</a></li>        <li class=""><a rel="nofollow" href=""><img src="/images/mrs_rgb.png" height="55" width="90" style="margin-left: auto; margin-right: auto; display: block;" class="mrs_logo_subnav"/></a></li>
+                </ul>
+                </li><!-- f_url_call:dev.research-live.com/scripts/top_navbar_build.php:Thu, 11 Feb 2016 16:30:41 +0000 -->                            </ul>
+        </div> 
+		</div>
+    </div>  
+    <!- End Row -->  
+</div>
+
+</div>                                    </div>
+                                </div>
+                        </div>
+                        <div id='ama-layout-18615' class='row section border_b hatching ama-level-1'>
+                            <div id='ama-layout-18625' class='container pd-40 ama-level-2'>
+                                    <div id='ama-section-14265' class='ama-section'>
+                                        <div id='ama-section-body-14265' class='sectionbody'>
+<div id='ama-field-65845' class='ama-field-html-php'></div>                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div id='ama-layout-18635' class='row section border_b ama-level-1'>
+                            <div id='ama-layout-18645' class='container pd-40 ama-level-2'>
+                                    <div id='ama-section-14275' class='ama-section'>
+                                        <div id='ama-section-body-14275' class='sectionbody'>
+<div id='ama-field-65885' class='ama-field-html-php'><div class="row pd-40">
+	<div class="col-xs-12 article_title">	
+			<div id='ama-field-65875' class='ama-field-html-php'>
+
+<div class="story">
+    <p class="category"><span class="blue gap1">FEATURE</span>10 February 2016</p>
+    <h1>Measuring the immeasurable<a href="/sections/impact" target="_blank"><span class="impact_article"></span></a><p class="sponsoredby_popup impact_popup"><span class="pull-right sponsoredby_popup_close">x</span> All content on Research Live and in Impact magazine is editorially independent from sponsorship or other commercial arrangements. <br> Find out more about <a href="/advertise">advertising and sponsorship.</a></p></h1>
+    <p class="byline"><a href="/contributor/id/1082/ian-ralph">Ian Ralph</a></p>
+        
+
+<p class="tags"><a class="Features" href="/sections/features">Features</a> <a class="Impact" href="/sections/impact">Impact</a> <a class="Innovations" href="/topics/innovations">Innovations</a> <a class="Mobile" href="/topics/mobile">Mobile</a> <a class="UK" href="/regions/uk">UK</a> </p> 
+</div></div> 
+	</div>
+</div></div>                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div id='ama-layout-18655' class='row section grey ptb-25 ama-level-1'>
+                            <div id='ama-layout-18665' class='container pd-40 Xpadding-top-sm no-width-sm ama-level-2'>
+                                    <div id='ama-section-14285' class='ama-section'>
+                                        <div id='ama-section-body-14285' class='sectionbody'>
+<div id='ama-field-65915' class='ama-field-html-php'><div class="row pd-40"> <!--AB - pd-40 class giving overflow issues for tablet view -->
+    <div class="col-md-8 col-sm-12">
+            <div id='ama-field-66085' class='ama-field-html-php'>
+<!-- Header for mobile -->
+<div class="headercontent visible-xs visible-sm">
+    <div class="mrs-social mobile_social col-md-12 row">
+        <div class="mrs-social-inner">
+            <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55f71d758389cf8e" async="async"></script>
+            <div class="addthis_sharing_toolbox"></div>
+        </div>
+    </div>    
+    <div class="mrs-section-title col-md-12 story padding-top-xs padding-bottom-xs padding-top-sm padding-bottom-sm">
+            
+    </div>    
+</div>    
+<!-- END -->
+
+
+
+<!-- Social Media for Longform -->
+<div class="leftsidecontent">
+    <div class="mrs-section-title hidden-xs hidden-sm">
+                    
+
+    </div>    
+    <div id="mrs-social-fixed" class="mrs-social hidden-xs hidden-sm">   
+        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55f71d758389cf8e" async="async"></script>
+    </div>
+</div>
+<!-- END -->
+<div class="story longform" itemscope itemtype ="https://schema.org/Article">  
+ <meta itemprop="author" content="Ian Ralph" />
+ <meta itemprop="dateCreated datePublished" content="2016/02/10" />
+ <meta itemprop="headline" content="Measuring the immeasurable" />
+ <meta itemprop="thumbnailUrl image" content="https://rl-resources.cms.ama.uk.com/img/measure-mobile-crop.jpg" />
+  
+<p class="standfirst"><span itemprop='about'>A new passive metering technology that records all of an individual’s digital activity is shedding some interesting light on the difference between what people think they do online, and what they really do. By Ian Ralph</span></p>
+<p><img alt="" src="https://rl-resources.cms.ama.uk.com/img/measure-mobile-crop.jpg" style="width:100%"></p><span itemprop='text'><p class="">Digital devices are ingrained in the very fabric of our daily lives. We have all read the headlines about how completely we&nbsp;rely on our devices these days, with those terrifying statistics about how many of us sleep with our ...</p></span></div>
+
+
+</div> 
+                     
+                             
+        </div>
+
+    <!- Advert only shown for non-subscribed users -->        
+    <div class="col-md-4 hidden-xs hidden-sm pl-24 pd-40">
+		<div id='ama-field-61915' class='ama-field-html-php'> <div class="item">
+					<div class="newsletter_signup jobs">
+					<p class="heading">Jobs</p>	<a class="job border_t" href="http://www.researchjobfinder.com/job/81983/consumer-insights-executive-clientside-retail-shopper-/?TrackID=1" target="_blank" rel="nofollow">
+						<p><span class="jtitle">Resources Group</span><br />
+						<span class="jdesc">Consumer Insights Executive- Clientside (Retail / Shopper)</span>	<br />					
+						<span class="jwage">&pound;25000&ndash;30000</span></p>
+					</a>	<a class="job border_t" href="http://www.researchjobfinder.com/job/81981/senior-research-executive-market-analyst-b2b-intelligence-and-insight-agency/?TrackID=1" target="_blank" rel="nofollow">
+						<p><span class="jtitle">Spalding Goobey Associates</span><br />
+						<span class="jdesc">Senior Research Executive/Market Analyst &ndash; B2B Intelligence and Insight Agency</span>	<br />					
+						<span class="jwage">&pound;25&ndash;28,000 + benefits</span></p>
+					</a>	<a class="job border_t" href="http://www.researchjobfinder.com/job/81980/quantitative-associate-director-3-days-a-week-6-month-ftc-/?TrackID=1" target="_blank" rel="nofollow">
+						<p><span class="jtitle">Resources Group</span><br />
+						<span class="jdesc">Quantitative Associate Director (3 DAYS A WEEK) &ndash; 6 month FTC</span>	<br />					
+						<span class="jwage">&pound;45000&ndash;50000</span></p>
+					</a><a href="http://www.researchjobfinder.com/" class="button border_t">View All Jobs</a>
+					</div>                     
+          </div><!-- f_url_call:cron.research-live.com/scripts/job_board.php:Thu, 18 Feb 2016 06:50:04 +0000 --></div>		<div id='ama-field-61925' class='ama-field-html-php'>                  <div class="item no-min">
+					<div class="newsletter_signup grey_button">
+					<p class="heading">Newsletter</p>
+					<p class="border_t news_text">Sign up for the latest news and opinion. <br>You will be asked to create an account which also gives you free access to premium Impact content.</p>
+<form class="newsletter">
+					<!--<p class="enter_email border_t"><input type="text" name="email" placeholder="Enter your email address"></p>-->
+<p class="enter_email border_t checks"><input type="radio" name="newsletter" value="Daily">&nbsp;&nbsp;Daily<span style="padding-left:2em;"><input type="radio" name="newsletter" value="Weekly"></span>&nbsp;&nbsp;Weekly<span style="padding-left:2em;"><input type="radio" name="newsletter" value="Both"></span>&nbsp;&nbsp;Both</p>
+					<a href="https://www.mymrs.mrs.org.uk/MRS/Contact_Management/Create_account_request.aspx?ResLive=both" target="_blank" class="button">Sign-Up</a></form>
+					</div>                     
+                  </div></div>        <div id='ama-field-61905' class='ama-field-html-php'>												<!-- DFP call -->
+												<!-- top 300x250 2  -->
+												<div id='div-gpt-ad-03-2' class='item no-min'>
+												<script type='text/javascript'>
+													googletag.cmd.push(function() { googletag.display('div-gpt-ad-03-2'); });
+												</script>
+												</div>	</div>
+    </div>
+</div>
+</div>                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div id='ama-layout-18905' class='row section ama-level-1'>
+                                <div id='ama-section-14405' class='ama-section'>
+                                    <div id='ama-section-body-14405' class='sectionbody'>
+<div id='ama-field-66395' class='ama-field-html-php'>
+            <div class='login_box_message'>
+                <div class='border_t border_b'><p class='heading'>THIS CONTENT IS FOR SUBSCRIBERS ONLY. TO READ MORE LOG IN OR REGISTER BELOW.</p></div>
+            </div>
+            <div class='login_box_content grey'>
+                <div class='container pd-40'>                                                    
+                   <div class='row login_box_content_inner'> 
+                       <div class='col-sm-6 col-xs-12 login_box_article'>
+                            <div class='item'>
+                                <div class='newsletter_signup'>
+                                    <p class='heading'>Existing User</p>
+                                    <form class='utility_bar_login' role='login' id='login' method='POST' action='/' Xaction='/article/news/measuring-the-immeasurable/id/5002672' accept-charset='UTF-8'>
+                                        <div class='col-xs-12 no_padding border_b' id='login_box_boxes'>
+                                            <div class='col-xs-12 no_padding border_t border_b half_height'>
+                                                <div class='form-group col-xs-12 no_padding'>
+                                                    <input name='username' class='form-control rl Xsignin' type='text' id='loginID' placeholder='Email address'>
+                                                </div>
+                                            </div>
+                                            <div class='col-xs-12 no_padding half_height'>
+                                                <div class='form-group col-xs-8 no_padding'>
+                                                    <input name='password' class='form-control rl Xsignin' type='password' id='password' placeholder='Password'>
+                                                </div>
+                                                <div class='col-xs-4 no_padding forgotten_password'>
+                                                    <a href='https://www.mymrs.mrs.org.uk/mrs/MRS/Contact_Management/Forgot_my_login_password.aspx' target='_blank'>Forgot Password?</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div style='clear:both;'></div>
+										<span class='login-error-msg login-error-article'></span>
+                                        <input type='hidden' name='submit'>
+                                        <button type='submit' class='btn btn-default ajaxlogin'>Log In</button>
+                                    </form> 
+                                </div>
+                            </div>
+                        </div>
+                        <div class='col-sm-6 col-xs-12 login_box_subscribe'> 
+                            <div class='item'>
+                                <div class='newsletter_signup grey_button'>
+                                    <p class='heading'>Register Now</p>
+                                    <div class= 'col-xs-12 no_padding resize' resize_id='login_box_boxes' style='min-height: 103px;'>
+                                        <p class='border_t news_text'>Not registered? Access content from <a href='/about-us' class='inline'>Impact magazine</a> for free.</p>
+                                        <p><span class='impact_article' style='margin-left: 0px;'></span></p>
+                                    </div>
+                                    <div style='clear:both;'></div>
+                                    <a class='button' href='https://www.mymrs.mrs.org.uk/MRS/Contact_Management/Create_account_request.aspx?ResLive=weekly' target='_blank'>Subscribe</a>
+                                </div>                     
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>                                    </div>
+                                </div>
+                        </div>
+                        <div id='ama-layout-18725' class='row section ama-level-1'>
+                            <div id='ama-layout-18735' class='container pd-40 ama-level-2'>
+                                    <div id='ama-section-14325' class='ama-section'>
+                                        <div id='ama-section-body-14325' class='sectionbody'>
+<div id='ama-field-66055' class='ama-field-html-php'><div class="hidden-xs hidden-sm">
+    <div id="comment_content_desktop"><div id='ama-field-66045' class='ama-field-html-php'>        <div class="row">
+            <div class="comments comments_list pd-40">
+                <div class="col-md-8 col-sm-12">
+                    
+        <div>
+        <form id='desktop_comment_form_new' class='comment_form' role='form'> 
+        <div class='comment_input'> 
+        
+            <div class='row' style='margin-bottom: 10px;'>
+            <div class='col-lg-6'>    
+            <div class='input-group input-group-sm'>
+            <span class='input-group-addon'><i class='fa fa-user fa-fw'></i></span>
+            <input type='text' class='form-control' placeholder='Display name' style='margin-right: 5px;' name='comment_form_username' required>  
+            </div>
+            </div>
+            <div class='col-lg-6'>    
+            <div class='input-group input-group-sm'>            
+            <span class='input-group-addon'><i class='fa fa-envelope-o fa-fw'></i></span>
+            <input type='text' class='form-control' placeholder='Email' name='comment_form_email' required>
+            </div>
+            </div>           
+            </div>
+            <div style='margin-bottom: 10px;'><textarea id='_comment_input_new' name='comment_form_textarea' class='form-control' placeholder='Join the discussion...' required></textarea></div>
+             
+        <div class='comments_footer'>
+        <div class='pull-left'><div class='checkbox'><label for='checkbox1'><input type='checkbox' name='comment_form_anon' class='comment_anon_new' > Post Anonymously</label></div></div>
+                         
+        <button class='btn btn-xs btn-success ama-search-ajax pull-right disabled' ama-ajax-parameters='W3sic291cmNlIjoiRjgwNTA1IiwiYWN0aW9uIjoicmVwbGFjZVdpdGgiLCJ0YXJnZXQiOiJGODA1MDUiLCJhamF4X3R5cGUiOiJjYXB0Y2hhX21vZGFsIiwic3VibWl0X2lkIjoiZGVza3RvcF9jb21tZW50X2NhcHRjaGFfbmV3In1d'>Submit</button>
+        <button class='btn btn-xs btn-success ama-search-ajax pull-right disabled hidden' ama-ajax-parameters='W3sic291cmNlIjoiRjY2MDQ1IiwiYWN0aW9uIjoicmVwbGFjZVdpdGgiLCJ0YXJnZXQiOiIjY29tbWVudF9jb250ZW50X2Rlc2t0b3AgI2FtYS1maWVsZC02NjA0NSIsImFqYXhfdHlwZSI6ImNvbW1lbnQiLCJhcnRpY2xlX2lkIjo1MDAyNjcyLCJjb21tZW50X2lkIjoibmV3IiwiZGlzcGxheSI6ImRlc2t0b3AiLCJjdXJyZW50cGFnZSI6bnVsbH0seyJzb3VyY2UiOiJGNjYwNDUiLCJhY3Rpb24iOiJyZXBsYWNlV2l0aCIsInRhcmdldCI6IiNjb21tZW50X2NvbnRlbnRfbW9iaWxlICNhbWEtZmllbGQtNjYwNDUiLCJhamF4X3R5cGUiOiJjb21tZW50IiwiYXJ0aWNsZV9pZCI6NTAwMjY3MiwiY29tbWVudF9pZCI6Im5ldyIsImRpc3BsYXkiOiJtb2JpbGUiLCJjdXJyZW50cGFnZSI6bnVsbH1d' ama-ajax-dependency='desktop_comment_form_values_new' id='desktop_comment_captcha_new'>Submit</button>
+        </div> 
+        </div>
+        <div class='comment_form_values hidden' id='desktop_comment_form_values_new'></div>
+        </form></div> 
+                       
+                    <h3 class="title">0 Comments</h3>
+                                                        </div>    
+            </div>
+        </div>
+        <script type="text/javascript">
+            jQuery(document).ready(function(){
+                expandTextarea();
+                            });
+        </script>
+</div></div>
+</div></div>                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div id='ama-layout-18745' class='row section mrs-next-article border_t hidden-xs hidden-sm ama-level-1'>
+                                <div id='ama-section-14335' class='ama-section'>
+                                    <div id='ama-section-body-14335' class='sectionbody'>
+                                    </div>
+                                </div>
+                        </div>
+                        <div id='ama-layout-18715' class='row section ama-level-1'>
+                                <div id='ama-section-14315' class='ama-section'>
+                                    <div id='ama-section-body-14315' class='sectionbody'>
+                                    </div>
+                                </div>
+                        </div>
+                        <div id='ama-layout-17565' class='row section mrs-footer border_b border_t ama-level-1'>
+                                <div id='ama-section-13765' class='ama-section'>
+                                    <div id='ama-section-body-13765' class='sectionbody'>
+<div id='ama-field-62015' class='ama-field-html-php'><div class="clearfix">
+    <div class="col-md-12 visible-md-block visible-lg-block"> <!- Show this full bar when we are anything but mobile -->
+        <div class="row navigation"> 
+            <div class="container pd-40">
+                <ul>
+                    <li class="logo col-xs-2">
+                        <div><a href="/home">Research<span class="yellow">Live</span></a></div>
+                        <div class="social_links">
+                        <a class="social_link social_link_fb" href="http://www.facebook.com/researchlive/" target="_blank"></a>
+                        <a class="social_link social_link_twitter" href="https://twitter.com/researchlive" target="_blank"></a>
+                        <a class="social_link social_link_linkedin" href="https://www.linkedin.com/company/2037105" target="_blank"></a>
+
+                        </div>
+                        <div>
+                        <a href="https://www.mrs.org.uk" target ="_blank"><img src="/images/login-logo.png" border="0" width="100%"/></a>
+                        </div>
+                    </li>
+                    <li class="menu col-xs-4">  
+                            <div id='ama-field-62445' class='ama-field-html-text'><a class="border_b" href="https://twitter.com/TweetMRS" target="_blank">@TweetMRS</a><div class="tweets acta"><p class="title"><a href="https://twitter.com/#!/@Demos" target="_blank">@Demos</a> <a href="https://twitter.com/#!/@Jphsmith" target="_blank">@Jphsmith</a> This looks like it's going to be a great session.   </p></div><!-- f_url_call:cron.research-live.com/scripts/twitter.php?footer=true:Thu, 18 Feb 2016 06:50:05 +0000 --></div> 
+                    </li>
+                    <li class="menu col-xs-3">
+                        <ul class="sub-menu">
+                            <li class="border_b"><a href="/contact-us">Contact Us</a></li>
+                            <li class="border_b"><a href="/advertising-information">Advertisers</a></li>
+                            <li class="border_b"><a href="/about-us">About Us</a></li>
+                            <li class="border_b"><a href="https://www.mrs.org.uk/privacy_policy" target="_blank">Privacy</a></li>
+                            <li class="border_b"><a href="https://www.mrs.org.uk/individual_membership/ind_mem_join" rel="nofollow" target="_blank">Join Mrs</a></li>
+							<li class="border_b"><a href="/publication-index/year/2016/month/2" rel="nofollow" target="_blank">Publication index</a></li>
+                        </ul> 
+                    </li>
+                    <li class="menu col-xs-3">
+                        <ul class="sub-menu">
+                            <li class="border_b"><a href="https://www.mrs.org.uk/ijmr" rel="nofollow" target="_blank" >IJMR</a></li>
+                            <li class="border_b"><a href="http://www.theresearchbuyersguide.com" rel="nofollow" target="_blank">Research Buyer's Guide</a></li>
+                            <li class="border_b"><a href="http://www.fairdata.org.uk/" rel="nofollow" target="_blank">Fair Data</a></li>
+                            <li class="border_b"><a href="http://www.researchjobfinder.com/" rel="nofollow" target="_blank">Job Finder</a></li>
+                            <li class="border_b"><a href="http://www.geodemographics.org.uk/" rel="nofollow" target="_blank">Geodemographics</a></li>
+							<li class="border_b"><a href="https://www.mrs.org.uk/" rel="nofollow" target="_blank">MRS WEBSITE</a></li>
+                        </ul>                                           
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div> 
+
+
+    <div class="Xcol-xs-12 visible-xs-block visible-sm-block padding-top-xs padding-top-sm">  <!- Show this full bar when we are mobile -->
+        <div class="Xrow navigation no_padding"> 
+            <div class="Xpd-40">
+                <ul>
+                    <li class="col-xs-12 logo no_padding">
+                        <a href="/home">Research<span class="yellow">Live</span></a>
+                    </li>
+                    <li class="col-xs-12 social_links no_padding">
+                        <a class="social_link social_link_fb"></a>
+                        <a class="social_link social_link_twitter" href="https://twitter.com/researchlive" target="_blank"></a>
+                        <a class="social_link social_link_linkedin"></a>
+
+                    </li>
+                    <li class="col-xs-4 col-xs-offset-4 no_padding">
+                        <a href="https://www.mrs.org.uk" target ="_blank"><img src="/images/login-logo.png" border="0" width="100%"/></a>
+                    </li>
+                    <li class="col-xs-12 menu border_t border_b" style="margin-top: 15px;">  
+                        <div class="row border_b"><a class="col-xs-12" href="https://twitter.com/researchlive" target="_blank">@Research Live</a></div>
+                        <div class="tweets">
+                            <p class="title">The post-demographic consumerism trend means segments such age are often outdated, from @trendwatching #TrendSemLON</p>   
+                        </div>
+                    </li>
+                    <li class="col-xs-12 menu">
+                        <ul class="row sub-menu">
+                            <li class="col-xs-12 border_b"><a href="/contact-us">Contact Us</a></li>
+                            <li class="col-xs-12 border_b"><a href="/advertise">Advertisers</a></li>
+                            <li class="col-xs-12 border_b"><a href="/about-us">About Us</a></li>
+                            <li class="col-xs-12 border_b"><a href="https://www.mrs.org.uk/privacy_policy" target="_blank">Privacy</a></li>
+                            <li class="col-xs-12 border_b"><a href="https://www.mrs.org.uk/individual_membership/ind_mem_join" rel="nofollow" target="_blank">Join Mrs</a></li>
+                            <li class="col-xs-12 border_b"><a href="https://www.mrs.org.uk/ijmr" rel="nofollow" target="_blank">IJMR</a></li>
+                            <li class="col-xs-12 border_b"><a href="http://www.theresearchbuyersguide.com" rel="nofollow" target="_blank">Research Buyer's Guide</a></li>
+                            <li class="col-xs-12 border_b"><a href="http://www.fairdata.org.uk/" rel="nofollow" target="_blank">Fair Data</a></li>
+                            <li class="col-xs-12 border_b"><a href="http://www.researchjobfinder.com/" rel="nofollow" target="_blank">Job Finder</a></li>
+                            <li class="col-xs-12 border_b"><a href="http://www.geodemographics.org.uk/" rel="nofollow" target="_blank">Geodemographics</a></li>
+                        </ul>                                           
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div></div><div id='ama-field-62025' class='ama-field-html-php'><div class="clearfix copyright border_t grey">
+	<div class="container">&copy; Copyright 2016 Research Live</div>
+</div></div><script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script>
+
+/*var $cateogory = function(){
+		
+	jQuery( ".story .tags a" ).each(function() {
+		jQuery(this).attr('class');
+		})
+};*/
+
+jQuery( document ).ready(function() {
+	var $type = "";
+	
+	if (jQuery( ".article_title .story .tags" ).length > 0) {
+	
+		jQuery( ".article_title .story .tags a" ).each(function() {
+			$type += jQuery(this).attr('class') + ", ";
+   			console.log($type);
+		})
+	}else{
+		var $type = "NULL";
+	}
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+ga('create', 'UA-7011297-1', 'auto');
+
+ga('set', 'dimension1', $type); //dimension
+  
+ga('send', 'pageview');
+
+
+var $type = "";
+
+});
+</script>
+
+<script>
+var _prum = [['id', '568e1182abe53d6d4a7e36d6'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(100912186); }catch(e){}</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100912186ns.gif" /></p></noscript>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+<!-- foot body -->
+	<div class="modal fade" id="captchaModal">
+		<div class="modal-dialog modal-lg">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 class="modal-title">Are you human?</h4>
+				</div>
+				<div class="modal-body" id="content"><div id='ama-field-80505' class='ama-field-html-php'></div></div>
+			</div>
+		</div>
+	</div>
+<!-- foot js -->
+            <link type="text/css" rel="stylesheet" href="/js/fancybox/jquery.fancybox.css?1455287250" media="all" />
+<!-- BODY clode -->	<div class="modal fade" id="captchaModal">
+		<div class="modal-dialog modal-lg">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4 class="modal-title">Are you human?</h4>
+				</div>
+				<div class="modal-body" id="content"><div id='ama-field-80505' class='ama-field-html-php'></div></div>
+			</div>
+		</div>
+	</div>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"154740f801","applicationID":"14826849,14826850,14828026","transactionName":"NldbbUJZV0tXAEFRXQ8dbEtZF1BWUgZNFloVX1U=","queueTime":0,"applicationTime":157,"atts":"GhBYGwpDREU=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script></body>
+</html>

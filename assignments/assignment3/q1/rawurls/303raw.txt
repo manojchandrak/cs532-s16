@@ -1,0 +1,1177 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en" lang="en" dir="ltr"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="https://www.facebook.com/2008/fbml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>The great wet hope | The Economist</title>
+  <link rel="shortcut icon" href="http://cdn.static-economist.com/sites/default/files/econfinal_favicon.ico" type="image/x-icon" />
+<script language="javascript">
+  var gs_channels = "default";
+</script>
+<script language="javascript" type="text/javascript"
+src="//economist.gscontxt.net/main/channels.cgi?url=http%3A%2F%2Fwww.economist.com%2Fnews%2Fscience-and-technology%2F21689985-can-coming-el-ni-o-end-californias-prolonged-drought-great-wet-hope">
+</script>
+<script type="text/javascript">
+  if (typeof gs_channels === "undefined") { gs_channels = "default"; }
+  function GPTGetCookie(cname) {
+      var name = cname + "=";
+      var ca = document.cookie.split(';');
+      for(var i=0; i < ca.length; i++) {
+          var c = ca[i];
+          while (c.charAt(0) === ' ') c = c.substring(1);
+          if (c.indexOf(name) === 0) return decodeURIComponent(c.substring(name.length, c.length));
+      }
+      return false;
+  }
+  var googletag = googletag || {};
+  var econgpt = econgpt || {};
+  googletag.cmd = googletag.cmd || [];
+  window._cba = window._cba || [];
+  (function() {    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);  })();
+</script><script type="text/javascript">
+  googletag.cmd.push(function() {  econgpt.gpt_leaderboard_ad = googletag.defineSlot("/5605/teg.ckau/kidj/a", [[728,90], [970,90], [970,250]], 'gpt_leaderboard_ad').addService(googletag.pubads()).setTargeting('dcopt', 'ist').setTargeting('pos', 'ldr_top').setTargeting('tile', '1');  econgpt.gpt_mpu_no_wrapper_top_ad = googletag.defineSlot("/5605/teg.ckau/kidj/a", [20,20], 'gpt_mpu_no_wrapper_top_ad').addService(googletag.pubads()).setTargeting('pos', 'mpu_no_wrapper_top').setTargeting('tile', '6');  econgpt.gpt_top_mpu_ad = googletag.defineSlot("/5605/teg.ckau/kidj/a", [[300,250], [350,900], [350,600], [300,600]], 'gpt_top_mpu_ad').addService(googletag.pubads()).setTargeting('pos', 'mpu_top').setTargeting('tile', '7');  econgpt.gpt_ribbon_ad = googletag.defineSlot("/5605/teg.ckau/kidj/a", [351,49], 'gpt_ribbon_ad').addService(googletag.pubads()).setTargeting('pos', 'absribbon').setTargeting('tile', '8');  econgpt.gpt_pencil_slug_ad = googletag.defineSlot("/5605/teg.ckau/kidj/a", [970,35], 'gpt_pencil_slug_ad').addService(googletag.pubads()).setTargeting('pos', 'pslug_top').setTargeting('tile', '3');  econgpt.gpt_subscription_ad = googletag.defineSlot("/5605/teg.ckau/kidj/a", [223,90], 'gpt_subscription_ad').addService(googletag.pubads()).setTargeting('pos', 'sub_top').setTargeting('tile', '2');  econgpt.gpt_slider_ad = googletag.defineSlot("/5605/teg.ckau/kidj/a", [1,1], 'gpt_slider_ad').addService(googletag.pubads()).setTargeting('pos', 'slider').setTargeting('tile', '11');  econgpt.gpt_adcast = googletag.defineSlot("/5605/teg.ckau/kidj/a", [250,1000], 'gpt_adcast').addService(googletag.pubads()).setTargeting('pos', 'adcast').setTargeting('tile', '12');  econgpt.gpt_button_ad_1 = googletag.defineSlot("/5605/teg.ckau/kidj/a", [125,125], 'gpt_button_ad_1').addService(googletag.pubads()).setTargeting('pos', 'button1');  econgpt.gpt_button_ad_2 = googletag.defineSlot("/5605/teg.ckau/kidj/a", [125,125], 'gpt_button_ad_2').addService(googletag.pubads()).setTargeting('pos', 'button2');  econgpt.gpt_button_ad_3 = googletag.defineSlot("/5605/teg.ckau/kidj/a", [125,125], 'gpt_button_ad_3').addService(googletag.pubads()).setTargeting('pos', 'button3');  econgpt.gpt_button_ad_4 = googletag.defineSlot("/5605/teg.ckau/kidj/a", [125,125], 'gpt_button_ad_4').addService(googletag.pubads()).setTargeting('pos', 'button4');  econgpt.gpt_button_ad_5 = googletag.defineSlot("/5605/teg.ckau/kidj/a", [125,125], 'gpt_button_ad_5').addService(googletag.pubads()).setTargeting('pos', 'button5');  econgpt.gpt_button_ad_6 = googletag.defineSlot("/5605/teg.ckau/kidj/a", [125,125], 'gpt_button_ad_6').addService(googletag.pubads()).setTargeting('pos', 'button6');  econgpt.gpt_bottom_mpu_ad = googletag.defineSlot("/5605/teg.ckau/kidj/a", [[300,250], [50,50], [300,600]], 'gpt_bottom_mpu_ad').addService(googletag.pubads()).setTargeting('pos', 'mpu_bottom').setTargeting('tile', '9');  econgpt.gpt_bottom_right_mpu_ad = googletag.defineSlot("/5605/teg.ckau/kidj/a", [[300,250], [45,45]], 'gpt_bottom_right_mpu_ad').addService(googletag.pubads()).setTargeting('pos', 'mpu_bottom_right').setTargeting('tile', '10');    googletag.pubads().setTargeting('subs', 'n').setTargeting('sdn', 'n').setTargeting('!c', '21689985').setTargeting('fsrc', 'scntwtebledthegreatwethope');
+    var subs = 'n';
+    // The ec_omniture_user_sub cookie has info about the user's subscription.
+    // Set subs=[y/n] based on the cookie.
+    var sub_arr_regex = /((print|digital)-subscriber|ent-product)/;
+    if (sub_arr_regex.test(document.cookie) === true) {
+      subs = 'y';
+    }
+    googletag.pubads().setTargeting("subs", subs);    // Set etear variable based on the cookie
+    var etear_cookie_val = GPTGetCookie('ec_ads_etear');
+    if (etear_cookie_val) {
+      etear = etear_cookie_val;
+      googletag.pubads().setTargeting("etear", etear);
+    }
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().setTargeting("gs_cat", gs_channels);
+    googletag.pubads().collapseEmptyDivs();    googletag.enableServices();
+  });
+  window._cba.push(function() {
+    pSUPERFLY.registerGptSlot(econgpt.gpt_leaderboard_ad, "gpt_leaderboard_ad");pSUPERFLY.registerGptSlot(econgpt.gpt_mpu_no_wrapper_top_ad, "gpt_mpu_no_wrapper_top_ad");pSUPERFLY.registerGptSlot(econgpt.gpt_top_mpu_ad, "gpt_top_mpu_ad");pSUPERFLY.registerGptSlot(econgpt.gpt_ribbon_ad, "gpt_ribbon_ad");pSUPERFLY.registerGptSlot(econgpt.gpt_pencil_slug_ad, "gpt_pencil_slug_ad");pSUPERFLY.registerGptSlot(econgpt.gpt_subscription_ad, "gpt_subscription_ad");pSUPERFLY.registerGptSlot(econgpt.gpt_slider_ad, "gpt_slider_ad");pSUPERFLY.registerGptSlot(econgpt.gpt_adcast, "gpt_adcast");pSUPERFLY.registerGptSlot(econgpt.gpt_button_ad_1, "gpt_button_ad_1");pSUPERFLY.registerGptSlot(econgpt.gpt_button_ad_2, "gpt_button_ad_2");pSUPERFLY.registerGptSlot(econgpt.gpt_button_ad_3, "gpt_button_ad_3");pSUPERFLY.registerGptSlot(econgpt.gpt_button_ad_4, "gpt_button_ad_4");pSUPERFLY.registerGptSlot(econgpt.gpt_button_ad_5, "gpt_button_ad_5");pSUPERFLY.registerGptSlot(econgpt.gpt_button_ad_6, "gpt_button_ad_6");pSUPERFLY.registerGptSlot(econgpt.gpt_bottom_mpu_ad, "gpt_bottom_mpu_ad");pSUPERFLY.registerGptSlot(econgpt.gpt_bottom_right_mpu_ad, "gpt_bottom_right_mpu_ad"); 
+  });
+</script><script type="text/javascript">/* global Econ */
+/**
+ * Add event listeners to GPT ad rendering.
+ *
+ * @param context
+ */
+window.Econ = typeof Econ !== 'undefined' ? Econ : {};
+Econ.gpt = Econ.gpt || {};
+Econ.gpt.attach = Econ.gpt.attach || {};(function(document){
+  "use strict";  var deltaPrefix = 'block-ec_ads-',
+      deltaSuffix = '_ad';
+  Econ.gpt.wide_leader = false;
+  Econ.gpt.house_ad_leader = false;
+  /**
+   * Implements Econ.gpt.attach.HOOK
+   * @param googletag_ref
+   */
+  Econ.gpt.attach.ecAds = function(googletag_ref) {
+    googletag_ref.pubads().addEventListener('slotRenderEnded', function(event) {
+      var pos = event.slot.getTargeting("pos")[0],
+          adBlock,
+          adLabel,
+          domSlotID = event.slot.getSlotId().getDomId(),
+          domSlot = document.getElementById(domSlotID),
+          domStyles,
+          adSize = Number(event.size[0]),
+          domParents,
+          billBoardWidth = 970;      // When ads are rendered in the ldr_top slot,
+      // we check the size so we know if we need to show the pencil slug or not.
+      if (pos === "ldr_top") {
+        // If it is fully wide, then remove the subscription ad.
+        if (adSize === billBoardWidth) {
+          Econ.gpt.wide_leader = true;
+          // We need to call this behavior because if we are in async mode, the ads are called AFTER document-ready
+          // and the behavior may have already been called before the ad finished rendering.
+          Drupal.behaviors.ecGPTPencilSlug(document);
+        }
+        else {
+          // Make the top ad sticky if it's a narrower leader ad and it is not a house ad.
+          if (!Econ.gpt.house_ad_leader) {    
+            Econ.gpt.stickyAds();
+          }  
+        }
+      }      // Remove empty ad slots. We stay in sync with the "collapsed div" motif. Google adds a display: none to ads
+      // that are empty, so we just put our wrapper insync with that.
+      domStyles = domSlot !== null ? window.getComputedStyle(domSlot) : '';
+      domParents = domSlot !== null ? domSlot.parentNode.parentNode.parentNode : '';
+      if (domSlot !== null &&
+         domParents.getAttribute('class').indexOf('block-ec_ads') !== -1) {
+        if (domStyles.getPropertyValue('display') === 'none' || adSize === 1) {
+          domParents.style.display = 'none';
+        }
+        else {
+          domParents.style.display = '';
+        }
+      }      if (domSlot.parentNode.getAttribute('class').indexOf('ec-ads-remove-if-empty') !== -1) {
+        domSlot.parentNode.className = domSlot.parentNode.className.replace('ec-ads-remove-if-empty','');
+      }        // For special reports sponsor ads. The POS for these is "undefined".
+      if (domSlotID.substr(0, 21) === 'gpt_sponsored_sr_logo') {
+        domSlot.style.float = 'right';
+      }      // For mobile, we are displaying ads using the refresh method,
+      // which means we need to restore the Advertisemnt label.
+      if (pos.substr(0,10) === 'mobile_mpu') {
+        adBlock = document.getElementById(deltaPrefix + pos + deltaSuffix);
+        if (adBlock.className.indexOf('processed') === -1) {
+          adBlock.insertBefore(adLabel, adBlock.firstChild);
+          adBlock.className += ' processed';
+        }
+      }
+    });
+  };
+})(window.document);
+</script>
+<link rel="canonical" href="http://www.economist.com/news/science-and-technology/21689985-can-coming-el-ni-o-end-californias-prolonged-drought-great-wet-hope" />
+<meta name="description" content="Will this winter&#039;s Niño end California&#039;s prolonged drought?" />
+<meta name="article:publisher" content="https://www.facebook.com/theeconomist" />
+<meta name="articleid" content="21689985" />
+<meta name="news_keywords" content="Difference engine, Water, Science, Earth science, Science and technology, Meteorology" />
+<meta name="pubdate" content="20160208" />
+<meta name="revisit-after" content="1 day" />
+<meta name="sailthru.date" content="2016-02-08 00:00:00" />
+<meta name="sailthru.flytitle" content="Difference engine" />
+<meta name="sailthru.image.full" content="http://cdn.static-economist.com/sites/default/files/images/2016/02/articles/main/20160206_stp501.jpg" />
+<meta name="sailthru.image.thumb" content="http://cdn.static-economist.com/sites/default/files/imagecache/50_by_50/images/2016/02/articles/main/20160206_stp501.jpg" />
+<meta name="sailthru.image.thumb_mfte" content="http://cdn.static-economist.com/sites/default/files/imagecache/ec_related_article_image/images/2016/02/articles/main/20160206_stp501.jpg" />
+<meta name="sailthru.imagepath" content="images/2016/02/articles/main/20160206_stp501.jpg" />
+<meta name="sailthru.rubric" content="Will this winter&#039;s Niño end California&#039;s prolonged drought?" />
+<meta name="sailthru.tags" content="Difference engine, Water, Science, Earth science, Science and technology, Meteorology" />
+<meta name="sailthru.web_section" content="Science and technology" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://cdn.static-economist.com/sites/default/files/images/2016/02/articles/main/20160206_stp501.jpg" />
+<meta name="twitter:site" content="@TheEconomist" />
+<meta property="fb:app_id" content="173277756049645" />
+<meta property="og:description" content="Will this winter&#039;s Niño end California&#039;s prolonged drought?" />
+<meta property="og:image" content="http://cdn.static-economist.com/sites/default/files/cf_images/images-magazine/2016/02/06/ST/20160206_STP501_facebook.jpg" />
+<meta property="og:site_name" content="The Economist" />
+<meta property="og:title" content="The great wet hope" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.economist.com/news/science-and-technology/21689985-can-coming-el-ni-o-end-californias-prolonged-drought-great-wet-hope" />
+  <link rel="apple-touch-icon" sizes="144x144" href="http://cdn.static-economist.com/sites/default/files/images/icons/apple-touch-icon-144x144.png" /><link rel="apple-touch-icon" sizes="120x120" href="http://cdn.static-economist.com/sites/default/files/images/icons/apple-touch-icon-120x120.png" /><link rel="apple-touch-icon" sizes="114x114" href="http://cdn.static-economist.com/sites/default/files/images/icons/apple-touch-icon-114x114.png" /><link rel="apple-touch-icon" sizes="72x72" href="http://cdn.static-economist.com/sites/default/files/images/icons/apple-touch-icon-72x72.png" /><link rel="apple-touch-icon" href="http://cdn.static-economist.com/sites/default/files/images/icons/touch-icon-iphone.png" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://cdn.static-economist.com/sites/default/files/images/icons/apple-touch-icon-144x144-precomposed.png"><link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://cdn.static-economist.com/sites/default/files/images/icons/apple-touch-icon-120x120-precomposed.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://cdn.static-economist.com/sites/default/files/images/icons/apple-touch-icon-114x114-precomposed.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://cdn.static-economist.com/sites/default/files/images/icons/apple-touch-icon-72x72-precomposed.png"><link rel="apple-touch-icon-precomposed" href="http://cdn.static-economist.com/sites/default/files/images/icons/touch-icon-iphone-precomposed.png">  <link type="text/css" rel="stylesheet" media="all" href="http://cdn.static-economist.com/sites/default/files/css/css_1a4f2e1658408cd9ef7db259478577d2.css" />
+  <!--[if IE 9]>
+<link rel="stylesheet" href="/sites/all/themes/econfinal/styles/ie9.css?0" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="/sites/all/themes/econfinal/styles/ie8.css?0" />
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->  <link rel="publisher" href="https://plus.google.com/100470681032489535736" />
+  <script type="text/javascript" src="http://cdn.static-economist.com/sites/default/files/js/js_382209ff9c269b43080808b89650e878.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","offline":{"now":1455777081},"insert":{"widgets":{"imagefield_widget":{"fields":{"use_original_size":"input:checked[name$=\"[use_original_size]\"]","image_link":"input:textfield[name$=\"[image_link]\"]"}}}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"ec_user_settings":{"auto_select_country":true},"omniture":{"edge_server":"economistcomprod","click_tracking":[{"name":"bookmark|social_buttons|bookmark_saved","selector":"data-ec-omniture","link_track_vars":"prop45","event":"click","edge_server":"economistcomprod"},{"name":"bookmark|social_buttons|learn_more","selector":"data-ec-omniture","link_track_vars":"prop45","event":"click","edge_server":"economistcomprod"},{"name":"rightrail|social_share|facebook","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"rightrail|social_share|twitter","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"rightrail|social_share|linked-in","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"rightrail|social_share|plusone","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"rightrail|social_share|tumblr","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"rightrail|social_share|instagram","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"rightrail|social_share|youtube","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"rightrail|social_share|rss","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"rightrail|social_share|newsletters","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"print_content","selector":"data-ec-omniture","ud_process_prop":"prop18","ud_process_val":"username","link_track_vars":"prop18,prop5,eVar24,eVar31,events","prop18":"","prop5":"The great wet hope","eVar24":"The great wet hope","eVar31":"article","events":"event12","event":"click","edge_server":"economistcomprod","link_track_events":"event12"},{"name":"reprints_permissions","selector":"data-ec-omniture","ud_process_prop":"prop18","ud_process_val":"username","link_track_vars":"prop18,prop5,eVar24,eVar31,events","prop18":"","prop5":"The great wet hope","eVar24":"The great wet hope","eVar31":"article","events":"event38","event":"click","edge_server":"economistcomprod","link_track_events":"event38"},{"name":"email_a_friend","selector":"data-ec-omniture","ud_process_prop":"prop18","ud_process_val":"username","link_track_vars":"prop18,prop5,eVar24,eVar31,events","prop18":"","prop5":"The great wet hope","eVar24":"The great wet hope","eVar31":"article","events":"event81","event":"click","edge_server":"economistcomprod","link_track_events":"event81"},{"name":"footer_reddit","selector":"data-ec-omniture","ud_process_prop":"prop18","ud_process_val":"username","link_track_vars":"prop18,prop5,eVar24,eVar31,events","prop18":"","prop5":"The great wet hope","eVar24":"The great wet hope","eVar31":"article","events":"event33","event":"click","edge_server":"economistcomprod","link_track_events":"event33"},{"name":"footer_linkedin","selector":"data-ec-omniture","ud_process_prop":"prop18","ud_process_val":"username","link_track_vars":"prop18,prop5,eVar24,eVar31,events","prop18":"","prop5":"The great wet hope","eVar24":"The great wet hope","eVar31":"article","events":"event49","event":"click","edge_server":"economistcomprod","link_track_events":"event49"},{"name":"recommend_comment","selector":"data-ec-omniture","events":"event36","eVar31":"comment","link_track_events":"event36","prop18":null,"link_track_vars":"prop18,eVar31,events","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|contact_us","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|help","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|my_account","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|subscribe","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|print_edition","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|digital_editions","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|events","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|jobs_economist_com","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|timekeeper_saved_articles","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|united_states","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|britain","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|europe","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|china","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|asia","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|americas","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|middle_east_africa","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|international","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|business_finance","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|economics","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|markets_data","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|science_technology","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|special_reports","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|culture","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|multimedia_library","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|the_economist_debates","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|letters_to_the_editor","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|the_economist_quiz","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|bagehots_notebook","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|buttonwoods_notebook","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|democracy_in_america","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|erasmus","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|free_exchange","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|game_theory","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|graphic_detail","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|gulliver","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|prospero","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|the_economist_explains","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|topics","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|economics_a_z","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|style_guide","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|the_world_in_2016","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|which_mba_","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|mba_services","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|the_economist_gmat_tutor","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|executive_education_navigator","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|reprints_and_permissions","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|the_economist_group","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|the_economist_intelligence_unit","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|the_economist_intelligence_unit_store","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|the_economist_corporate_network","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|ideas_people_media","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|intelligent_life_magazine","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|roll_call","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|cq","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|eurofinance","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|the_economist_store","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"},{"name":"mini_map|view_complete_site_index_","selector":"data-ec-omniture","event":"click","edge_server":"economistcomprod"}],"click_tracking_frames":["click_tracking_top_twitter","click_tracking_footer_twitter","click_tracking_footer_plusone","click_tracking_top_fb","click_tracking_footer_fb"],"click_tracking_top_twitter":[{"name":"top_twitter","selector":"data-ec-omniture-frame","ud_process_prop":"prop18","ud_process_val":"username","link_track_vars":"prop18,prop5,eVar24,eVar31,events","prop18":"","prop5":"The great wet hope","eVar24":"The great wet hope","eVar31":"article","events":"event31","event":"click","edge_server":"economistcomprod","link_track_events":"event31"}],"click_tracking_footer_twitter":[{"name":"footer_twitter","selector":"data-ec-omniture-frame","ud_process_prop":"prop18","ud_process_val":"username","link_track_vars":"prop18,prop5,eVar24,eVar31,events","prop18":"","prop5":"The great wet hope","eVar24":"The great wet hope","eVar31":"article","events":"event31","event":"click","edge_server":"economistcomprod","link_track_events":"event31"}],"click_tracking_footer_plusone":[{"name":"footer_plusone","selector":"data-ec-omniture-frame","ud_process_prop":"prop18","ud_process_val":"username","link_track_vars":"prop18,prop5,eVar24,eVar31,events","prop18":"","prop5":"The great wet hope","eVar24":"The great wet hope","eVar31":"article","events":"event35","event":"click","edge_server":"economistcomprod","link_track_events":"event35"}],"click_tracking_top_fb":[{"name":"top_fb","selector":"data-ec-omniture-frame","ud_process_prop":"prop18","ud_process_val":"username","link_track_vars":"prop18,prop5,eVar24,eVar31,events","prop18":"","prop5":"The great wet hope","eVar24":"The great wet hope","eVar31":"article","events":"event32","event":"click","edge_server":"economistcomprod","link_track_events":"event32"}],"click_tracking_footer_fb":[{"name":"footer_fb","selector":"data-ec-omniture-frame","ud_process_prop":"prop18","ud_process_val":"username","link_track_vars":"prop18,prop5,eVar24,eVar31,events","prop18":"","prop5":"The great wet hope","eVar24":"The great wet hope","eVar31":"article","events":"event32","event":"click","edge_server":"economistcomprod","link_track_events":"event32"}]},"paywallMetered":{"1":{"pid":"1","nid":"21689985","referrers":["google","bing","yahoo","baidu","film.economist.com","facebookexternalhit"],"limit":"1","timeFrame":"fixedperiod","nrOfDays":"7","fixedDay":"Friday","nidCookie":"ec_nidlist","wallCookie":"ec_limit","timeOut":"0","enabled":"1"},"2":{"pid":"2","nid":"21689985","referrers":["google","bing","yahoo","baidu","film.economist.com","facebookexternalhit"],"limit":"3","timeFrame":"fixedperiod","nrOfDays":"7","fixedDay":"Friday","nidCookie":"ec_nidlist","wallCookie":"ec_limit","timeOut":"0","enabled":"1"}},"cdn":{"cdnPath":"http:\/\/cdn.static-economist.com","cdnPathPNG":"http:\/\/cdn.static-economist.com"},"reprints_link":"http:\/\/s100.copyright.com\/AppDispatchServlet?publisherName=economist\u0026publication=economist\u0026title=The%20great%20wet%20hope\u0026publicationDate=20160208\u0026contentID=21689985\u0026type=A\u0026orderBeanReset=0\u0026srTitle=","ecGPT":{"isAsync":true},"ecAds":{"ad_site":"teg","ad_zone":"kidj","sitecode":"ckau","ad_call_type":"gpt","subs":"n","sdn":"n","!c":"21689985","fsrc":"scntwtebledthegreatwethope","sz_nojs":"20x20"},"ec_mostx_active_tab":"commented","EconStyles":[{"title":"Pull quote","description":"Better reading","outputTemplate":"\u003cdiv class=\"pullquote\"\u003e{$selection}\u003c\/div\u003e"}],"bluekai":{"siteID":18452},"ecCookieMessage":{"cid":"ec_cookie_message_","version":0},"ecRegOverlayShowOnLoad":true,"EcRegOverlayEnabled":true,"ecPixelTracking":{"adroit":{"countries":["US"],"scriptUrl":"\/\/www.imiclk.com\/cgi\/r.cgi?m=3\u0026mid=Ay3XMfb1\u0026ptid=HOME"},"adsrvr":{"countries":["IN"],"regions":["AP"],"scriptUrl":"\/\/insight.adsrvr.org\/track\/evnt\/?adv=5gu6big\u0026ct=0:2qbfzvew\u0026fmt=3"},"fosina":{"countries":["US"],"scriptUrl":"\/\/secure.fastclick.net\/w\/roitrack.cgi?aid=1000045446"},"media_math":{"countries":["IN"],"regions":["AP"],"imageUrl":"\/\/insight.adsrvr.org\/track\/evnt\/?adv=5gu6big\u0026ct=0:zx1ys9qy\u0026fmt=3"},"the_trade_desk":{"countries":["IN"],"regions":["AP"],"scriptUrl":"\/\/pixel.mathtag.com\/event\/js?mt_id=413291\u0026mt_adid=120100\u0026v1=\u0026v2=\u0026v3=\u0026s1=\u0026s2=\u0026s3="},"turn":{"countries":["IN"],"regions":["AP"],"imageUrl":"\/\/r.turn.com\/r\/beacon?b2=R_QfAflH-jzroqgoR-7UpyoPLd4h6zhRDu90-2mSJwKPFE1jUk1i_ZKaX90YPbtpfum-xQNkFnpSs2wXvdPFSg\u0026cid=\u0026bprice="},"polar":{"scriptUrl":"\/\/plugin.mediavoice.com\/customers\/economist\/mediavoice.js"}},"adsStickyTiming":7000,"q":"node\/21689985","alias":"news\/science-and-technology\/21689985-can-coming-el-ni-o-end-californias-prolonged-drought-great-wet-hope","nid":"21689985","uid":0,"ecHomepage":{"isFront":false},"ec_google_cse":{"cx":"018436000228436683453:e27of4dlttw","resultsUrl":"http:\/\/www.economist.com\/search\/gcs","gname":"economist-search","queryParameterName":"ss","fromurl":"\/news\/science-and-technology\/21689985-can-coming-el-ni-o-end-californias-prolonged-drought-great-wet-hope?fsrc=scn\/tw\/te\/bl\/ed\/thegreatwethope","noResultsString":"Your query returned no results. Please try a different search term. (Did you check your spelling? You can also try rephrasing your query or using more general search terms.)","isResultsPage":false,"omnitureTrackerId":"gsc-i-id1"},"loginform":{"action":"https:\/\/www.economist.com\/user\/login?destination=node%2F21689985%3Ffsrc%3Dscn%252Ftw%252Fte%252Fbl%252Fed%252Fthegreatwethope"},"formvalidation":{"formname":"#user-login"},"popups":{"originalCSS":{"\/modules\/node\/node.css":1,"\/modules\/poll\/poll.css":1,"\/modules\/system\/defaults.css":1,"\/modules\/system\/system.css":1,"\/modules\/system\/system-menus.css":1,"\/modules\/user\/user.css":1,"\/sites\/all\/modules\/cck\/theme\/content-module.css":1,"\/sites\/all\/modules\/contrib\/oembed\/oembed.css":1,"\/sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/sites\/all\/modules\/custom\/ec_cookie_message\/css\/ec_cookie_message.css":1,"\/sites\/all\/modules\/custom\/ec_messaging\/css\/ec_messaging.css":1,"\/sites\/all\/modules\/date\/date.css":1,"\/sites\/all\/libraries\/jquery.ui\/themes\/base\/jquery-ui.css":1,"\/sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"\/sites\/all\/modules\/date\/date_popup\/themes\/jquery.timeentry.css":1,"\/sites\/all\/modules\/ec_components\/css\/ec_tip.css":1,"\/sites\/all\/modules\/ec_offline\/styles\/ec_offline_online.css":1,"\/sites\/all\/modules\/ec_vote\/css\/ec_vote.css":1,"\/sites\/all\/modules\/filefield\/filefield.css":1,"\/sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"\/sites\/all\/modules\/mollom\/mollom.css":1,"\/sites\/all\/modules\/video_filter\/video_filter.css":1,"\/sites\/all\/modules\/wysiwyg_fontcolor\/tinymce\/fontcolor\/css\/fontcolor.css":1,"\/sites\/all\/modules\/ec_comments\/css\/ec_comments.css":1,"\/sites\/all\/modules\/cck\/modules\/fieldgroup\/fieldgroup.css":1,"\/sites\/all\/modules\/views\/css\/views.css":1,"\/sites\/all\/modules\/ec_omniture\/ec_omniture_link_tracking.css":1,"\/sites\/all\/modules\/ec_components\/css\/ec_components.css":1,"\/sites\/all\/modules\/custom\/ec_bookmark\/css\/ec_bookmark.css":1,"\/sites\/all\/modules\/ec_ads\/css\/ec_ads.css":1,"\/sites\/all\/modules\/ec_ads\/css\/ec_ads_topic_ribbon.css":1,"\/sites\/all\/modules\/custom\/ec_social\/ec-social-share-follow.css":1,"\/sites\/all\/modules\/ec_ads\/css\/ec_ads_slider.css":1,"\/sites\/all\/modules\/ec_ads\/css\/ec_ads_overlay.css":1,"\/sites\/all\/modules\/custom\/wysiwyg_econstyles\/tinymce\/econstyles\/css\/econstyles_editor.css":1,"\/sites\/all\/modules\/ec_offers\/css\/ec-offers.css":1,"\/sites\/all\/modules\/wysiwyg_fontcolor\/tinymce\/fontcolor\/css\/fontcolor_editor.css":1,"\/sites\/all\/modules\/custom\/ec_sailthru\/css\/ec_sailthru.css":1,"\/sites\/all\/modules\/ec_ads\/ec_gpt\/css\/ec_gpt.css":1,"\/sites\/all\/modules\/custom\/ec_google_cse\/css\/ec_google_cse.css":1,"\/sites\/all\/themes\/econfinal\/styles\/reset.css":1,"\/sites\/all\/themes\/econfinal\/styles\/grid.css":1,"\/sites\/all\/themes\/econfinal\/styles\/style.css":1,"\/sites\/all\/themes\/econfinal\/styles\/components.css":1,"\/sites\/all\/themes\/econfinal\/styles\/typography.css":1,"\/sites\/all\/themes\/econfinal\/styles\/skins.css":1,"\/sites\/all\/themes\/econfinal\/styles\/user-profile-comments.css":1,"\/sites\/all\/themes\/econfinal\/styles\/node-guest_contribution-tpl.css":1,"\/sites\/all\/themes\/econfinal\/styles\/page-header.css":1,"\/sites\/all\/themes\/econfinal\/styles\/page-navigation.css":1,"\/sites\/all\/themes\/econfinal\/styles\/page-ads.css":1,"\/sites\/all\/themes\/econfinal\/styles\/page-footer.css":1,"\/sites\/all\/themes\/econfinal\/styles\/node-homepage.css":1,"\/sites\/all\/themes\/econfinal\/styles\/page-taxonomy-term.css":1,"\/sites\/all\/themes\/econfinal\/styles\/node-issue.css":1,"\/sites\/all\/themes\/econfinal\/styles\/node-page-tools.css":1,"\/sites\/all\/themes\/econfinal\/styles\/node-print-cover.css":1,"\/sites\/all\/themes\/econfinal\/styles\/node-print-sub-ad.css":1,"\/sites\/all\/themes\/econfinal\/styles\/node-poll-article.css":1,"\/sites\/all\/themes\/econfinal\/styles\/captcha.css":1,"\/sites\/all\/themes\/econfinal\/styles\/site-index.css":1,"\/sites\/all\/themes\/econfinal\/styles\/inform-component.css":1,"\/sites\/all\/themes\/econfinal\/styles\/pager.css":1,"\/sites\/all\/themes\/econfinal\/styles\/block-blogs.css":1,"\/sites\/all\/themes\/econfinal\/styles\/block-products-events.css":1,"\/sites\/all\/themes\/econfinal\/styles\/block-radio.css":1,"\/sites\/all\/themes\/econfinal\/styles\/block-most-popular.css":1,"\/sites\/all\/themes\/econfinal\/styles\/block-brightcove_player-playlist.css":1,"\/sites\/all\/themes\/econfinal\/styles\/topic-page.css":1,"\/sites\/all\/themes\/econfinal\/styles\/node-rss-page.css":1,"\/sites\/all\/themes\/econfinal\/styles\/node-page-tpl.css":1,"\/sites\/all\/themes\/econfinal\/styles\/node-promotions-page-tpl.css":1,"\/sites\/all\/themes\/econfinal\/styles\/media-directory.css":1,"\/sites\/all\/themes\/econfinal\/styles\/ec-user.css":1,"\/sites\/all\/themes\/econfinal\/styles\/ec-user-block.css":1,"\/sites\/all\/themes\/econfinal\/styles\/ec-highlight-block.css":1,"\/sites\/all\/themes\/econfinal\/styles\/ec-glossary.css":1,"\/sites\/all\/themes\/econfinal\/styles\/ec-charts.css":1,"\/sites\/all\/themes\/econfinal\/styles\/ec-sections.css":1,"\/sites\/all\/themes\/econfinal\/styles\/node-event.css":1,"\/sites\/all\/themes\/econfinal\/styles\/interactive-map.css":1,"\/sites\/all\/themes\/econfinal\/styles\/vendor-prexifed.css":1},"originalJS":{"\/sites\/all\/modules\/ec_ads\/ec_gpt\/js\/ec_gpt.js":1,"\/sites\/all\/modules\/ec_ajax_form\/js\/ec_ajax_form.js":1,"\/sites\/all\/modules\/ec_base\/js\/ec_base.js":1,"\/sites\/all\/modules\/ec_base\/js\/ec_console.js":1,"\/sites\/all\/modules\/ec_base\/js\/ec_analytics.js":1,"\/sites\/all\/modules\/ec_base\/js\/plugins\/jquery.ec_timeago.js":1,"\/sites\/all\/modules\/ec_base\/js\/plugins\/jquery.cookie.js":1,"\/sites\/all\/modules\/ec_base\/js\/plugins\/jquery.json.js":1,"\/sites\/all\/libraries\/qtip\/jquery.qtip-1.0.0-rc3.min.js":1,"\/sites\/all\/modules\/ec_components\/js\/ec_tip.js":1,"\/sites\/all\/modules\/ec_vote\/js\/ec_vote.js":1,"\/sites\/all\/modules\/jquery_aop\/misc\/jquery.aop.js":1,"\/sites\/all\/modules\/jsonify\/jsonify.js":1,"\/sites\/all\/modules\/mollom\/mollom.js":1,"\/sites\/all\/modules\/swftools\/shared\/swfobject2\/swfobject.js":1,"\/sites\/all\/modules\/ec_user\/js\/ec_user.js":1,"\/sites\/all\/libraries\/simplemodal\/jquery.simplemodal.1.4.1.min.js":1,"\/sites\/all\/libraries\/jquery_expander\/jquery.expander.min.js":1,"\/sites\/all\/modules\/ec_comments\/js\/ec_comments.js":1,"\/sites\/all\/modules\/ec_article\/js\/node-article-tpl.js":1,"\/sites\/all\/modules\/paywall_metered\/js\/paywall_metered.js":1,"\/sites\/all\/modules\/custom\/ec_bookmark\/js\/ec_bookmark.js":1,"\/sites\/all\/modules\/ec_base\/js\/ec_overlays.js":1,"\/sites\/all\/modules\/ec_ads\/js\/stepcarousel.js":1,"\/sites\/all\/modules\/ec_mostx\/js\/ec_mostx.js":1,"\/sites\/all\/modules\/ec_ads\/js\/ec_ads_slider.js":1,"\/sites\/all\/modules\/custom\/bluekai\/bluekai.js":1,"\/sites\/all\/modules\/custom\/ec_overlay\/js\/ec-overlay.js":1,"\/sites\/all\/modules\/custom\/ec_pixel_tracking\/ec_pixel_tracking_adroit\/js\/ec_pixel_tracking_adroit.js":1,"\/sites\/all\/modules\/custom\/ec_pixel_tracking\/ec_pixel_tracking_adsrvr\/js\/ec_pixel_tracking_adsrvr.js":1,"\/sites\/all\/modules\/custom\/ec_pixel_tracking\/ec_pixel_tracking_fosina\/js\/ec_pixel_tracking_fosina.js":1,"\/sites\/all\/modules\/custom\/ec_pixel_tracking\/ec_pixel_tracking_media_math\/js\/ec_pixel_tracking_media_math.js":1,"\/sites\/all\/modules\/custom\/ec_pixel_tracking\/ec_pixel_tracking_tapad\/ec_pixel_tracking_tapad.js":1,"\/sites\/all\/modules\/custom\/ec_pixel_tracking\/ec_pixel_tracking_the_trade_desk\/js\/ec_pixel_tracking_the_trade_desk.js":1,"\/sites\/all\/modules\/custom\/ec_pixel_tracking\/ec_pixel_tracking_turn\/js\/ec_pixel_tracking_turn.js":1,"\/sites\/all\/modules\/custom\/ec_polar\/ec_polar.js":1,"\/sites\/all\/modules\/ec_ads\/js\/ec_ads.js":1,"\/sites\/all\/modules\/custom\/ec_google_cse\/js\/ec_google_cse.js":1,"\/sites\/all\/modules\/custom\/ec_google_cse\/js\/non_require_js_loader.js":1,"\/sites\/all\/modules\/custom\/ec_social\/ec_social.js":1,"\/sites\/all\/modules\/ajax\/jquery\/jquery.a_form.packed.js":1,"\/sites\/all\/modules\/ajax\/ajax.js":1,"\/sites\/all\/modules\/custom\/ec_brightcove\/js\/ec_brightcove.base.js":1,"\/sites\/all\/modules\/custom\/ec_cookie_message\/js\/ec_cookie_message.js":1,"\/sites\/all\/modules\/custom\/ec_messaging\/js\/ec_messaging.js":1,"\/sites\/all\/modules\/ec_components\/js\/ec_components_plugins.js":1,"\/sites\/all\/modules\/ec_offline\/js\/ec_offline_redirect.js":1,"\/sites\/all\/modules\/ec_offline\/js\/ec_offline.js":1,"\/sites\/all\/modules\/ec_omniture\/ec_omniture_link_tracking.js":1,"\/sites\/all\/modules\/custom\/ec_sailthru\/js\/v1.js":1,"\/sites\/all\/modules\/custom\/ec_sailthru\/js\/ec_sailthru.js":1,"\/sites\/all\/modules\/ec_ads\/js\/ec_ads_banner.js":1,"\/sites\/all\/modules\/ec_blogs\/js\/ec_blogs.js":1,"\/sites\/all\/themes\/econfinal\/js\/page-header.js":1,"\/sites\/all\/themes\/econfinal\/js\/node-page-tools.js":1,"\/sites\/all\/themes\/econfinal\/js\/node-poll-article.js":1,"\/sites\/all\/themes\/econfinal\/js\/site-index.js":1,"\/sites\/all\/themes\/econfinal\/js\/node-guest_contribution.js":1,"\/sites\/all\/themes\/econfinal\/js\/AC_OETags.js":1,"\/sites\/all\/themes\/econfinal\/js\/ec-blogs.js":1,"\/sites\/all\/themes\/econfinal\/js\/ec-messages.js":1,"\/sites\/all\/themes\/econfinal\/js\/interactive-map.js":1,"\/sites\/all\/themes\/econfinal\/js\/plugins\/drag.js":1,"\/sites\/all\/themes\/econfinal\/js\/plugins\/jquery.color.js":1,"\/sites\/all\/themes\/econfinal\/js\/plugins\/jquery.form.js":1,"\/sites\/all\/themes\/econfinal\/js\/plugins\/jquery.autogrow.js":1,"\/sites\/all\/themes\/econfinal\/js\/plugins\/jquery.timer.js":1,"\/sites\/all\/themes\/econfinal\/js\/plugins\/jquery.hoverIntent.js":1,"\/sites\/all\/themes\/econfinal\/js\/plugins\/modernizr_2.8.3.min.js":1,"\/sites\/all\/themes\/econfinal\/js\/plugins\/jquery.flash.min.js":1,"\/sites\/all\/themes\/econfinal\/js\/plugins\/jcarousellite_1.0.1.min.js":1,"\/sites\/all\/modules\/ec_ads\/ec_gpt\/js\/ec_gpt_sticky.js":1}}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.write(unescape('%3Cscript src="//service.maxymiser.net/cdn/economist/js/mmcore.js" type="text/javascript"%3E%3C/script%3E'))
+//--><!]]>
+</script>
+    <script type="text/javascript">
+    $('html').addClass('js');
+  </script>
+  </head>
+
+<body class="not-front not-logged-in page-node node-type-article one-sidebar sidebar-right path-node-21689985 world-menu business-menu economics-menu printedition-menu science-technology-menu culture-menu">
+      
+  <!-- Begin Tealium Integration -->
+  <script type="text/javascript">
+    <!--//--><![CDATA[//><!--
+    var utag_data = {"node_id":"21689985","node_title":"The great wet hope","node_type":"article","node_created":"1454936346","node_changed":"1454957937","node_author":"958832","user_status":"anonymous","dfp_zone":"kidj","dfp_site":"CKAU","dfp_targeting":"5605\/teg.ckau\/kidj\/a","news_keywords":"Difference engine","section":"science-technology","issue_date":"","content_source":"printedition","content_type":"article","story_title":"the_great_wet_hope","subsection":"science_and_technology"};
+    //--><!]]>
+  </script>
+
+      <!-- Loading script asynchronously -->
+    <script type="text/javascript">
+      (function(a,b,c,d){
+        a='//tags.tiqcdn.com/utag/teg/main/prod/utag.js';
+        b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+        a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+      })();
+    </script>
+  
+  <!-- End Tealium Integration -->
+        <div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      status: true,
+      cookie: true,
+      xfbml: true,
+      appId: '173277756049645',
+      oauth: true,
+      channelUrl: 'http://www.economist.com/fb/fb_channel.html'
+    });
+  };
+
+  (function() {
+    var e = document.createElement('script');
+    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+    e.async = true;
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>          <div id="ec-cookie-messages-container"><div id="ec-cookie-messages-wrapper"><div class="ec-cookie-message" id="ec-cookie-message-0"><a href="/ec-cookie-message/0" class="dismiss-messages"></a><div id="teconsent"><script type="text/javascript" src="http://consent-st.truste.com/get?name=notice.js&domain=economist.com&c=teconsent"></script></div><strong>Our cookie policy has changed.</strong>  Review our <a href="/cookies-info" target="_blank">cookies policy</a> for more details and to change your cookie preference.<br>By continuing to browse this site you are agreeing to our use of cookies.</div></div></div>      <div id="leaderboard" class="clearfix">
+    <div id="block-ec_ads-leaderboard_ad" class="block block-ec_ads 
+ec-ads-gpt">
+    <div class="content clearfix">
+    <div id="leaderboard-ad"><!-- Site: Innovation.  Zone: Science and technology | All science and technology | Articles --> <div id="gpt_leaderboard_ad" data-cb-ad-id="Leaderboard ad"><script type="text/javascript">  googletag.cmd.push(function() {      googletag.display("gpt_leaderboard_ad");  });
+</script><noscript>
+  <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26dcopt%3Dist%26pos%3Dldr_top%26fsrc%3Dscntwtebledthegreatwethope&sz=728x90|970x90|970x250&tile=1&c=731261882" target="_blank">
+   <img src="//pubads.g.doubleclick.net/gampad/ad?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26dcopt%3Dist%26pos%3Dldr_top%26fsrc%3Dscntwtebledthegreatwethope&sz=728x90|970x90|970x250&tile=1&c=731261882" />
+  </a>
+</noscript></div></div>  </div>
+</div>
+
+<div id="block-ec_ads-subscription_ad" class="block block-ec_ads 
+ec-ads-gpt">
+    <div class="content clearfix">
+    <div id="subslug-ad"><!-- Site: Innovation.  Zone: Science and technology | All science and technology | Articles --> <div id="gpt_subscription_ad" data-cb-ad-id="Subscription ad"><script type="text/javascript">  googletag.cmd.push(function() {      googletag.display("gpt_subscription_ad");  });
+</script><noscript>
+  <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dsub_top%26fsrc%3Dscntwtebledthegreatwethope&sz=223x90&tile=2&c=731261882">
+   <img src="//pubads.g.doubleclick.net/gampad/ad?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dsub_top%26fsrc%3Dscntwtebledthegreatwethope&sz=223x90&tile=2&c=731261882" />
+  </a>
+</noscript></div></div>  </div>
+</div>
+
+<div id="block-ec_ads-pencil_slug_ad" class="block block-ec_ads 
+ec-ads-gpt">
+    <div class="content clearfix">
+    <!-- Site: Innovation.  Zone: Science and technology | All science and technology | Articles --> <div id="gpt_pencil_slug_ad" data-cb-ad-id="Pencil slug ad"><script type="text/javascript">  googletag.cmd.push(function() {      googletag.display("gpt_pencil_slug_ad");  });
+</script><noscript>
+  <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dpslug_top%26fsrc%3Dscntwtebledthegreatwethope&sz=970x35&tile=3&c=731261882">
+   <img src="//pubads.g.doubleclick.net/gampad/ad?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dpslug_top%26fsrc%3Dscntwtebledthegreatwethope&sz=970x35&tile=3&c=731261882" />
+  </a>
+</noscript></div>  </div>
+</div>
+
+  </div>
+<header class="mh">
+  <!-- 
+  To use as a standalone component please wrap it up into a <header class="mh"></header> 
+-->
+<div class="mh-stripe">
+  <div class="mh-stripe-wrap">
+    <ul class="mh-user-menu"><li class="first"><span>More from The Economist</span><ul><li class="first"><a href="/digital">The Economist digital editions</a></li>
+<li><a href="/newsletters">Newsletters</a></li>
+<li><a href="/events">Events</a></li>
+<li><a href="http://jobs.economist.com">Jobs.Economist.com</a></li>
+<li><a href="http://shop.economist.com/">The Economist Store</a></li>
+<li class="last"><a href="/bookmarks" data-ec-bookmark-click="20|9408299|bookmark &gt; more from the economist &gt; BM saved" data-ec-omniture="masthead|act_prod|bookmarks">Timekeeper reading list</a></li>
+</ul></li>
+<li class="even"><span>My Subscription</span><ul><li class="first"><a href="https://subscriptions.economist.com/GLB/MAST/T1/?cid1=cust/af/cust-internal/sub/n/n/owned/n/n/mast/n/sub/n/n">Subscribe to The Economist</a></li>
+<li><a href="/activate">Activate my digital subscription</a></li>
+<li><a href="/user">Manage my subscription</a></li>
+<li class="last"><a href="/products/renew">Renew</a></li>
+</ul></li>
+<li class="masthead-user"><a href="/user/login?destination=node%2F21689985%3Ffsrc%3Dscn%252Ftw%252Fte%252Fbl%252Fed%252Fthegreatwethope" class="show-login">Log in or register</a></li>
+<li class="masthead-subscribe even last"><a href="https://subscriptions.economist.com/glb/mast/t1" class="show-subscribe">Subscribe</a></li>
+</ul>
+          <div class="mh-search">
+        <form action="http://google.com/search"  accept-charset="UTF-8" method="GET" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item clearfix" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site:</label>
+<input type="text" maxlength="128" name="query" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." autocorrect="off" class="form-text search-field" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+<input type="hidden" name="sitesearch" id="edit-sitesearch" value="economist.com"  />
+</div>
+
+</div></form>
+      </div>
+      </div> <!-- /.mh-stripe-wrap -->
+</div> <!-- /.mh-stripe -->  <div class="mh-nav">
+    <div class="mh-nav-wrap">
+              <h2 class="svg-logo"><a href="/"><img class="mh-logo" width="170" height="85" src="//cdn.static-economist.com/sites/all/themes/econfinal/images/svg/logo.svg" alt="The Economist" /></a></h2>
+                    <nav>
+          <ul class="mh-nav-links"><li class="first"><a href="/content/politics-this-week" title="" class="sub-menu-link">World politics</a><ul class="mh-subnav"><li class="first"><a href="/content/politics-this-week">Politics this week</a></li>
+<li class="even"><a href="/sections/united-states">United States</a></li>
+<li><a href="/sections/britain">Britain</a></li>
+<li class="even"><a href="/sections/europe">Europe</a></li>
+<li><a href="/sections/china">China</a></li>
+<li class="even"><a href="/sections/asia">Asia</a></li>
+<li><a href="/sections/americas">Americas</a></li>
+<li class="even"><a href="/sections/middle-east-africa">Middle East &amp; Africa</a></li>
+<li class="last"><a href="/sections/international">International</a></li>
+</ul></li>
+<li class="even"><a href="/sections/business-finance" class="sub-menu-link">Business &amp; finance</a><ul class="mh-subnav"><li class="first"><a href="/sections/business-finance">All Business &amp; finance</a></li>
+<li class="even last"><a href="/whichmba">Which MBA?</a></li>
+</ul></li>
+<li class=""><a href="/sections/economics" class="sub-menu-link">Economics</a><ul class="mh-subnav"><li class="first"><a href="/sections/economics">All Economics</a></li>
+<li class="even"><a href="/economics-a-to-z">Economics A-Z</a></li>
+<li><a href="/markets-data">Markets &amp; data</a></li>
+<li class="even last"><a href="/indicators">Indicators</a></li>
+</ul></li>
+<li class="even"><a href="/sections/science-technology" class="sub-menu-link">Science &amp; technology</a><ul class="mh-subnav"><li class="first"><a href="/sections/science-technology">All Science &amp; technology</a></li>
+<li class="even last"><a href="/technology-quarterly" title="Technology Quarterly">Technology Quarterly</a></li>
+</ul></li>
+<li class=""><a href="/sections/culture" class="sub-menu-link">Culture</a><ul class="mh-subnav"><li class="first"><a href="/sections/culture">All Culture</a></li>
+<li class="even"><a href="http://intelligentlifemagazine.com/">Intelligent Life magazine</a></li>
+<li><a href="/styleguide/introduction">Style guide</a></li>
+<li class="even last"><a href="/economist-quiz">The Economist Quiz</a></li>
+</ul></li>
+<li class=" mh-two-col even"><a href="/blogs" class="sub-menu-link">Blogs</a><ul class="mh-subnav"><li class="first"><a href="/blogs">Latest updates</a></li>
+<li class="even"><a href="/blogs/bagehot">Bagehot&#039;s notebook</a></li>
+<li><a href="/blogs/buttonwood" title="Financial markets">Buttonwood&#039;s notebook</a></li>
+<li class="even"><a href="/blogs/democracyinamerica" title="American politics">Democracy in America</a></li>
+<li><a href="/blogs/erasmus">Erasmus</a></li>
+<li class="even"><a href="/blogs/freeexchange" title="Economics">Free exchange</a></li>
+<li><a href="/blogs/gametheory" title="Sports">Game theory</a></li>
+<li class="even"><a href="/blogs/graphicdetail" title="Charts, maps and infographics">Graphic detail</a></li>
+<li><a href="/blogs/gulliver" title="Business travel">Gulliver</a></li>
+<li class="even"><a href="/blogs/prospero" title="Books, arts and culture">Prospero</a></li>
+<li class="last"><a href="/blogs/economist-explains" title=" ">The Economist explains</a></li>
+</ul></li>
+<li class=""><a href="http://www.economist.com/debate" class="sub-menu-link">Debate</a><ul class="mh-subnav"><li class="first"><a href="http://www.economist.com/debate">Economist debates</a></li>
+<li class="even last"><a href="/content/letters-to-the-editor" title="">Letters to the editor</a></li>
+</ul></li>
+<li class="even"><a href="/multimedia" class="sub-menu-link">Multimedia</a><ul class="mh-subnav"><li class="first"><a href="http://films.economist.com">Economist Films</a></li>
+<li class="even"><a href="http://radio.economist.com">Economist Radio</a></li>
+<li><a href="/multimedia">Multimedia library</a></li>
+<li class="even last"><a href="/audio-edition">The Economist in audio</a></li>
+</ul></li>
+<li class="last"><a href="/printedition" title="" class="sub-menu-link">Print edition</a><ul class="mh-subnav"><li class="first"><a href="/printedition/">Current issue</a></li>
+<li class="even"><a href="/printedition/covers">Previous issues</a></li>
+<li><a href="/printedition/specialreports">Special reports</a></li>
+<li class="even"><a href="/content/politics-this-week">Politics this week</a></li>
+<li><a href="/content/business-this-week">Business this week</a></li>
+<li class="even"><a href="/sections/leaders">Leaders</a></li>
+<li><a href="/printedition/kallery">KAL&#039;s cartoon</a></li>
+<li class="even last"><a href="/sections/obituary">Obituaries</a></li>
+</ul></li>
+</ul>                  </nav>
+          </div>
+  </div> <!-- /.mh-nav -->
+</header> <!-- /header -->
+  <div id="page" class="container">
+    <a name="top" id="navigation-top"></a>
+
+            
+    <div id="columns" class="clearfix">
+                  
+      <div id="column-content" class="grid-10 grid-first clearfix">
+                                <!-- Create left column on search pages -->
+                                                  
+<article itemscope itemtype="http://schema.org/Article">
+  <hgroup class="typog-content-header main-content-header">
+    <h2 class="fly-title" itemprop="alternativeHeadline">Difference engine</h2>
+          <span class="latest-updates-link"><a href="/latest-updates">All latest updates</a></span>
+        </h2>
+          <h3 itemprop="headline" class="headline">The great wet hope</h3>
+      <h1 itemprop="alternateName" class="rubric">Will this winter's Niño end California's prolonged drought?</h1>
+      </hgroup>
+  <aside class="floatleft light-grey">
+    <time class="date-created"  itemprop="dateCreated" dateTime="2016-02-08T00:00:00+0000">
+      Feb 8th 2016    </time>
+          | <span class="location">LOS ANGELES</span>
+                      | <span class="source"><a href="http://www.economist.com/sections/science-technology" class="source">Science and technology</a></span>
+            </aside>
+  <div id="block-ec_components-share_inline_header" class="block block-ec_components 
+">
+    <div class="content clearfix">
+    <div class="share_inline_header"><ul class="clearfix"><li class="share-inline-header-timekeeper first" data-ec-omniture-frame="top_timekeeper"><a href="# " data-ec-omniture="bookmark|social_buttons|bookmark_saved" data-ec-bookmark-impression="19|14281415" data-ec-bookmark-click="20|14281415|bookmark &gt; social buttons &gt; BM|event80"><img src="http://cdn.static-economist.com/sites/all/modules/custom/ec_bookmark/assets/timekeeper-btn.png" alt="Timekeeper" title="Timekeeper" width="94" height="20" height="20" width="94" /></a><div class="timekeeper-bubble">
+  <p>Add this article to <strong>your reading list</strong> by clicking this button</p>
+  <div class="logo"><img src="http://cdn.static-economist.com/sites/all/modules/custom/ec_bookmark/assets/timekeeper-by-rolex-medium.png" alt="Rolex values your time.  Timekeeper by Rolex." title="" width="300" height="45" /></div>
+</div>
+</li>
+<li class="share-inline-header-facebook even" data-ec-omniture-frame="top_fb"><fb:like href="http://www.economist.com/news/science-and-technology/21689985-can-coming-el-ni-o-end-californias-prolonged-drought-great-wet-hope" ref="scn/fb_ec/the_great_wet_hope" send="false" layout="button_count" show_faces="false" font=""></fb:like></li>
+<li class="share-inline-header-twitter last" data-ec-omniture-frame="top_twitter"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-related="theeconomist" data-text="Difference engine: The great wet hope" data-url="http://econ.st/1KoZZzR" data-counturl="http://www.economist.com/news/science-and-technology/21689985-can-coming-el-ni-o-end-californias-prolonged-drought-great-wet-hope" data-via=TheEconomist>Tweet</a></li>
+</ul></div>  </div>
+</div>
+
+
+  <div class="main-content" itemprop="articleBody">
+    <div class="esi-generated pullquote">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+      <aside class="main-content-container">
+      <div class="secondary-header grey-header size-compact">Related topics</div><ul class="expanded-list white-palette typog-list-exp related-items"><li class="first"><a href="/topics/water" class="related-inline-topics">Water</a></li>
+<li class="even"><a href="/topics/science" class="related-inline-topics">Science</a></li>
+<li><a href="/topics/earth-science" class="related-inline-topics">Earth science</a></li>
+<li class="even"><a href="/topics/science-and-technology" class="related-inline-topics">Science and technology</a></li>
+<li class="last"><a href="/topics/meteorology" class="related-inline-topics">Meteorology</a></li>
+</ul>    </aside>
+  <p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+<p><div class="content-image-full">
+
+<img itemprop="contentUrl" src="http://cdn.static-economist.com/sites/default/files/imagecache/full-width/images/2016/02/articles/main/20160206_stp501.jpg" alt="" title=""  width="595" height="335" />
+
+</div></p>
+<p>WHILE the Atlantic coast of America was preparing for last month’s massive snowstorm, California was enjoying a welcome, albeit temporary, reprieve from its four-year drought. The prolonged downpour—a harbinger of the&nbsp;imminent El Niño storms—raised pool levels in Los Angeles by almost three inches, providing your correspondent with an extra 500 gallons of water free of the city’s Tier 1 tariff. Lawns, parks and hillsides that had been left to go brown during the drought (state-wide emergency measures have required cities to cut water usage by 25%) have turned green again. The one dismay has been seeing millions of gallons of precious rainwater pour down hillside gutters and storm drains, as it flowed unhindered into Santa Monica Bay.<br><br>Vacations spent as a youngster in coastal towns around the Mediterranean (California’s climatic cousin) conjure memories of concrete-covered catchment areas with networks of gullies for feeding rain from the occasional cloud burst to underground cisterns. Every town, even the smallest, seemed to have at least one such water-storage system. By all accounts, little runoff escaped to the sea.<br><br>California, despite the ever-present threat of drought, is way more profligate. The main concern is to channel the torrents off the hillsides as swiftly as possible, fearing they may unsettle the slopes and trigger mudslides and avalanches of boulders, uprooted trees and other debris—as has happened on numerous occasions before. Yet there is no fundamental engineering reason why capturing the coastal runoff from thunderstorms, on the one hand, and curtailing mudslides and flooding, on the other, should be mutually exclusive.</p>
+<p>There is, though, the fact that those in charge of such matters reside in separate bunkers, rarely speaking to one another. And there is also the sheer cost, not to mention the disruption and nimbyism, of excavating and laying underground pipelines through residential neighbourhoods, to channel the downpour to municipal water-treatment plants. After years of debate, public hearings and environmental impact statements, one small scheme is getting underway along a stretch of Santa Monica Bay.<br><br>But, while underground cisterns may be impractical, a number of towns in California are experimenting with permeable pavements and rain gardens for capturing storm water. Other places are resurrecting flood meadows, moving earthen levees back from river banks where space permits. In an experiment in the Central Valley, researchers from the University of California, Davis, have flooded an almond grove to see how the trees cope with knee-high water while it leaches through the permeable soil. All such schemes have one aim in common: to capture runoff that would otherwise escape to the sea, and storing it in underground aquifers for later use.<br><br>For once, officials are viewing the storms unleashed by this year's monster El Niño/Southern Oscillation as much a blessing as a menace. Cliffs and seawalls have been reinforced, beaches bulldozed into defensive berms, drainage gullies cleared of rocks and fallen trees, and concrete “K-rails” installed to channel flash floods on hillsides laid bare by recent wildfires. Faced with the possibility of the drought continuing for several more years, water authorities across the state have also been making an extra effort to capture as much of the coming Niño's precipitation as possible. For thirsty California, it is too good an opportunity to miss.<br><br>The gift comes courtesy of the changes in surface temperature that ripple periodically across the Pacific Ocean. Once in a while, a huge band of warmer-than-usual water stacks up off the Pacific coast of South America around Christmas time—hence the name El Niño (The Christ Child). This huge body of warm water disrupts the equatorial jet stream, affecting weather patterns around the globe, allowing in the process storms to travel as far north as California. Coming on the heels of an exceptionally warm summer, this year’s Niño is expected to wind up being one of the most severe on record, greater perhaps than even the "Godzilla" event of 1997-98.<br><br>Even so, it is unlikely to slake California’s drought entirely. Probably, the extreme conditions of the past few years represent nothing so much as a dry run for what climate change has in store for the American southwest. As such, it has offered a useful stress-test of how California’s water infrastructure—the most complex and extensive in the world—will cope when droughts become more of a recurring feature than an occasional event.<br><br>There is a growing awareness that the depth and water content of the snowpack on the Sierra Nevada mountains, as important as such measurements are, do not alone define the severity of a drought, nor the likelihood of recovery. Normally, the snowpack—which feeds rivers and reservoirs as it gradually melts during spring and early summer—provides a third of the water consumed by California’s farms and cities. Thanks to El Niño, the snowpack is the deepest it has been in five years, with an average water content of 114% of normal. That is good news, though officials caution that the water content would have to be at least 150% for mandatory water restrictions to be lifted.<br><br>How low the lakes and reservoirs have become is another measure of the drought’s severity. When full, California’s 1,400 surface reservoirs can store up to 42m acre-feet (52 billion cubic metres) of water—equivalent to a year’s supply for farms and cities. Overall, California's farmers use four times more water than all urban consumers combined. By the end of 2015, California’s lakes and reservoirs were around two-thirds empty.<br><br>Even more worrisome is the amount of water remaining in California’s 515 groundwater basins. These vast underground aquifers—many lying beneath the agricultural heartland of the Central Valley—can hold at least three times as much usable water as all the surface storage areas combined. Normally, aquifers supply about 40% of the state’s water consumption, the bulk of it being used to irrigate crops. However, with a drought as severe as the present one, groundwater has been providing as much as 60% of farmers' needs, as ever deeper wells, and more of them, have been sunk to make up for cutbacks in their allocations of surface water.<br><br>In the past, farmers could let fields stand fallow when irrigation water was in short supply. That has become less of an option. The trend to permanent, rather than seasonal, crops—orchards and vineyards of fruit and nut trees instead of fields of lettuces, tomatoes and alfalfa—has made fallowing impossible in many parts of the state. Almond trees, one of California’s most profitable crops these days, can take a generation to come to fruition. To survive, they need a year-round supply of water.<br><br>Agricultural “overdrafting” (excessive pumping) is a direct consequence. Unlike surface water—the allocation of which is strictly regulated in California—groundwater has been managed in a more casual manner. Until recently, farmers have been essentially free to pump as much as they wanted. That has caused problems, lots of them.<br><br>Sucking aquifers dry, for instance, has prompted the land above to subside, damaging roads, bridges and irrigation canals. Also, lowering groundwater levels in aquifers has sucked water from nearby rivers and streams, reducing their flow and harming their aquatic life. In basins close to the coast, aquifers are being replenished by seawater as much as freshwater. The salinity of the water pumped up for irrigation can then wreak havoc on crops.<br><br>Meanwhile, the deeper the wells go, the greater their contamination from chemical fertilisers and manure as well as industrial waste. The majority of rural settlements rely almost exclusively on groundwater for drinking purposes. Treating it to remove such contaminants is a costly business—more than many small townships can afford. Trucking in daily supplies of bottled water could soon become a necessity.<br><br>Concerned about the rapid deterioration of this, the state’s most crucial source of water, lawmakers in Sacramento passed the Sustainable Groundwater Management Act in 2014. The law requires groundwater users to devise ways of managing the aquifers they tap, so extraction does not exceed replenishment. Local agencies will have the authority to monitor the amount of groundwater withdrawn, and to charge users pumping fees.<br><br>A year go, voters in California approved a $2.7 billion bond issue to help finance water-storage projects, on the assumption that additional reservoirs were needed to capture yet more of the runoff from winter storms. The five surface reservoirs proposed, costing around $9 billion between them, would provide an additional 4m acre-feet of storage capacity—just 1% of the annual farm and city use.<br><br>The fact is, California has all the storage capacity it needs—in its vast underground basins. What it is short of is water to fill them. A more realistic policy might be to use the surface reservoirs, not simply for supplying water to farms and cities during the dry summer months, but also for recharging aquifers during the wet winter months. This practice of “conjunctive use” would let additional runoff be captured and stored underground for use during dry periods, while at the same time freeing up room in reservoirs to capture yet more of the stormwater and snowmelt.<br><br>At this point, it is customary to ask why so little attention is paid in California to desalination or recycled wastewater? Actually, the state has tinkered with both. A desalination plant is currently being completed near San Diego, to serve 3.1m locals, at a cost of close on $1 billion. The potable water produced there will cost as much as $7 per 1,000 gallons—over twice the typical cost of treated runoff.<br><br>Recycling wastewater is a better bet. Some 670,000 acre-feet of municipal wastewater is used each year in California for agricultural and landscape irrigation, and increasingly for recharging groundwater aquifers. Even so, Californians discharge over six times more treated wastewater than this into the ocean or inland waterways. That could be recycled for residential and commercial use. A study done in 2014 by the WateReuse Research Foundation estimated that purified wastewater could yield more than a billion gallons a day of potable water—enough, says foundation chairman Doug Owen, to meet the needs of over 8m Californians. The cost: between $2.50 and $6 per 1,000 gallons.<br><br>California’s water managers have the unenviable task of trying to balance numerous conflicting issues—from water rights inherited from a century ago to overdrafting and recharging of aquifers, recycling wastewater, diverting river flows, dismantling dams, conflicts between agricultural and residential needs, a rapidly expanding urban population, and pressure to conserve the natural environment.<br><br>Coping with the extreme conditions caused by a prolonged drought like the present one has not been helped by inflexible, compartmentalised management. According to Jay Lund of UC Davis, the state uses six different accounting frameworks, in two separate state agencies, simply to track how much water is available for farmers and urban rate-payers. As Dr Lund likes to explain, "A man with one watch knows what time it is, but someone with two watches is never sure." The trouble in California is that it has the equivalent of six watches for managing its collection and use of water. Dealing with the fickleness of nature is difficult enough. Bureaucratic&nbsp;intransigence is the last thing California needs.</p>
+  </div>
+
+  </article> <!-- /article -->
+
+<aside class="grid-10 grid-first">
+  <div id="block-ec_components-share_inline_footer" class="block block-ec_components 
+">
+    <div class="content clearfix">
+    <div class="share_inline_footer"><ul class="clearfix"><li class="share-inline-footer-facebook first" data-ec-omniture-frame="footer_fb"><fb:like href="http://www.economist.com/news/science-and-technology/21689985-can-coming-el-ni-o-end-californias-prolonged-drought-great-wet-hope" ref="scn/fb_ec/the_great_wet_hope" send="false" layout="button_count" show_faces="false" font=""></fb:like></li>
+<li class="share-inline-footer-twitter even" data-ec-omniture-frame="footer_twitter"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-related="theeconomist" data-text="Difference engine: The great wet hope" data-url="http://econ.st/1KoZZzR" data-counturl="http://www.economist.com/news/science-and-technology/21689985-can-coming-el-ni-o-end-californias-prolonged-drought-great-wet-hope" data-via=TheEconomist>Tweet</a></li>
+<li class="share-inline-footer-reddit"><a href="http://reddit.com/submit" onclick="window.open('http://reddit.com/submit?url=http%3A%2F%2Fwww.economist.com%2Fnews%2Fscience-and-technology%2F21689985-can-coming-el-ni-o-end-californias-prolonged-drought-great-wet-hope%3Ffsrc%3Dscn%2Frd_ec%2Fthe_great_wet_hope'); return false" title="submit to reddit" data-ec-omniture="footer_reddit">Submit to reddit</a></li>
+<li class="share-linkedin even" data-ec-omniture="footer_linkedin"><script type="IN/Share" data-url="http://www.economist.com/news/science-and-technology/21689985-can-coming-el-ni-o-end-californias-prolonged-drought-great-wet-hope?fsrc=scn/ln_ec/the_great_wet_hope" data-counter="right"></script></li>
+<li class="share-plusone last" data-ec-omniture-frame="footer_plusone"><g:plusone href="http://www.economist.com/news/science-and-technology/21689985-can-coming-el-ni-o-end-californias-prolonged-drought-great-wet-hope?fsrc=scn/gn_ec/the_great_wet_hope" size="medium" count="true" callback="clickEventToAnalyticsPlusOne"></g:plusone></li>
+</ul></div>  </div>
+</div>
+
+<div id="block-ec_components-comments_links" class="block block-ec_components 
+">
+    <div class="content clearfix">
+    <div class="ec-comments-links-box clearfix"><a href="/node/21689985/comments#comments" class="view-comments" data-ec-omniture="go_to_comments">View all comments (14)</a><a href="/node/21689985/comments#commentForm" class="add-comments" data-ec-omniture="add_comment">Add your comment</a></div>  </div>
+</div>
+
+<div id="block-ec_sailthru-ec_sailthru_content_container" class="block block-ec_sailthru 
+">
+    <div class="content clearfix">
+    <div id="sailthru-scout"></div>  </div>
+</div>
+
+<div id="block-ec_components-print_sub" class="block block-ec_components 
+">
+    <div class="content clearfix">
+    <a href="https://subscriptions.economist.com/GLB/ECOM/?cid1=cust/af/cust-internal/sub/n/n/owned/n/n/ecom/n/sub/n/n" class="ec-print-sub-ad clearfix">Want more? Subscribe to <i>The Economist</i> and get the week's most relevant news and analysis.</a>  </div>
+</div>
+
+</aside>
+
+
+              </div> <!-- /#main-area -->
+
+              <div id="column-right" class="grid-6 clearfix">
+          <div id="homepage-touts">
+  <div class="grid-3 grid-first">
+    <div class="tout tout-1">
+          </div>
+
+    <div class="tout tout-2">
+          </div>
+  </div> <!-- /#homepage-touts -->
+
+  <div class="grid-3">
+    <div class="tout tout-issue">
+      <div class="cover-image-container">
+              </div>
+    </div>
+  </div> <!-- /#homepage-issue -->
+</div>
+          <div id="block-ec_components-page_tools_compact" class="block block-ec_components 
+">
+    <div class="content clearfix">
+    <ul class="ec-page-tools ec-pt-compact clearfix"><li class="pt-comment first"><a href="/node/21689985/comments#comments" class="view-comments" data-ec-omniture="go_to_comments">Comment (14)</a></li>
+<li class="pt-bookmark even"><a href="/bookmarks" rel="nofollow" title="Timekeeper reading list" data-ec-omniture="bookmark">Timekeeper reading list</a></li>
+<li class="pt-email"><a href="/node/21689985/email" rel="nofollow" title="E-mail this content to a friend" data-ec-omniture="email_a_friend">E-mail</a></li>
+<li class="pt-randr even"><a href="http://s100.copyright.com/AppDispatchServlet?publisherName=economist&amp;publication=economist&amp;title=The%20great%20wet%20hope&amp;publicationDate=20160208&amp;contentID=21689985&amp;type=A&amp;orderBeanReset=0&amp;srTitle=" data-ec-omniture="reprints_permissions">Reprints &amp; permissions</a></li>
+<li class="pt-print"><a href="/node/21689985/print" rel="nofollow" title="Printer friendly version" data-ec-omniture="print_content">Print</a></li>
+<li class="even last"></li>
+</ul>  </div>
+</div>
+
+<div id="block-ec_ads-mpu_no_wrapper_top_ad" class="block block-ec_ads 
+ec-ads-gpt">
+    <div class="content clearfix">
+    <div class="ec-ads ec-ads-remove-if-empty ec-ads-remove-wrapper"><!-- Site: Innovation.  Zone: Science and technology | All science and technology | Articles --> <div id="gpt_mpu_no_wrapper_top_ad" data-cb-ad-id="Mpu no wrapper top ad"><script type="text/javascript">  googletag.cmd.push(function() {      googletag.display("gpt_mpu_no_wrapper_top_ad");  });
+</script><noscript>
+  <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dmpu_no_wrapper_top%26fsrc%3Dscntwtebledthegreatwethope&sz=20x20&tile=6&c=731261882" target="_blank">
+   <img src="//pubads.g.doubleclick.net/gampad/ad?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dmpu_no_wrapper_top%26fsrc%3Dscntwtebledthegreatwethope&sz=20x20&tile=6&c=731261882" />
+  </a>
+</noscript></div></div>  </div>
+</div>
+
+<div id="block-ec_ads-top_mpu_ad" class="block block-ec_ads 
+ec-ads-gpt">
+    <div class="content clearfix">
+    <div class="ec-ads ec-ads-remove-if-empty"><p class="ec-ads-label">Advertisement</p><!-- Site: Innovation.  Zone: Science and technology | All science and technology | Articles --> <div id="gpt_top_mpu_ad" data-cb-ad-id="Top mpu ad"><script type="text/javascript">  googletag.cmd.push(function() {      googletag.display("gpt_top_mpu_ad");  });
+</script><noscript>
+  <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dmpu_top%26fsrc%3Dscntwtebledthegreatwethope&sz=300x250|350x900|350x600|300x600&tile=7&c=731261882" target="_blank">
+   <img src="//pubads.g.doubleclick.net/gampad/ad?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dmpu_top%26fsrc%3Dscntwtebledthegreatwethope&sz=300x250|350x900|350x600|300x600&tile=7&c=731261882" />
+  </a>
+</noscript></div></div>  </div>
+</div>
+
+<div id="block-ec_ads-ribbon_ad" class="block block-ec_ads 
+ec-ads-gpt">
+    <div class="content clearfix">
+    <div class="ec_topic_ribbon ec-ads-remove-if-empty"><!-- Site: Innovation.  Zone: Science and technology | All science and technology | Articles --> <div id="gpt_ribbon_ad" data-cb-ad-id="Ribbon ad"><script type="text/javascript">  googletag.cmd.push(function() {      googletag.display("gpt_ribbon_ad");  });
+</script><noscript>
+  <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dabsribbon%26fsrc%3Dscntwtebledthegreatwethope&sz=351x49&tile=8&c=731261882" target="_blank">
+   <img src="//pubads.g.doubleclick.net/gampad/ad?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dabsribbon%26fsrc%3Dscntwtebledthegreatwethope&sz=351x49&tile=8&c=731261882" />
+  </a>
+</noscript></div></div>  </div>
+</div>
+
+<div id="block-ec_social-right_rail_social_share_buttons" class="block block-ec_social 
+">
+    <div class="content clearfix">
+    <div id="social-share-buttons-block">
+  <div class="title">Follow <cite>The Economist</cite></div>
+  <div class="social-share-buttons">
+    <ul class="clearfix">
+      <li class="facebook">
+        <a data-ec-omniture="rightrail|social_share|facebook" href="http://www.facebook.com/TheEconomist" title="Facebook" target="_blank">Facebook</a>
+      </li>
+      <li class="twitter">
+        <a data-ec-omniture="rightrail|social_share|twitter" href="http://twitter.com/TheEconomist" title="Twitter" target="_blank">Twitter</a>
+      </li>
+      <li class="linked-in">
+        <a data-ec-omniture="rightrail|social_share|linked-in" href="http://www.linkedin.com/groups/Economist-official-group-Economist-newspaper-3056216" title="Linked in" target="_blank">Linked in</a>
+      </li>
+      <li class="google-plus">
+        <a data-ec-omniture="rightrail|social_share|plusone" href="https://plus.google.com/100470681032489535736/posts" title="Google plus" target="_blank">Google plus</a>
+      </li>
+      <li class="tumblr">
+        <a data-ec-omniture="rightrail|social_share|tumblr" href="http://theeconomist.tumblr.com/" title="Tumblr" target="_blank">Tumblr</a>
+      </li>
+      <li class="instagram">
+        <a data-ec-omniture="rightrail|social_share|instagram" href="http://instagram.com/theeconomist/" title="Instagram" target="_blank">Instagram</a>
+      </li>
+      <li class="youtube">
+        <a data-ec-omniture="rightrail|social_share|youtube" href="http://www.youtube.com/user/economistmagazine" title="YouTube" target="_blank">YouTube</a>
+      </li>
+      <li class="rss">
+        <a data-ec-omniture="rightrail|social_share|rss" href="/rss" title="RSS" target="_blank">RSS</a>
+      </li>
+      <li class="newsletters">
+        <a data-ec-omniture="rightrail|social_share|newsletters" href="/newsletters" title="Newsletters" target="_blank">Newsletters</a>
+      </li>
+    </ul>
+  </div>
+</div>  </div>
+</div>
+
+<div id="block-ec_blogs-ec_blogs_block_recent" class="block block-ec_blogs 
+">
+    <div class="content clearfix">
+    <div class="title">
+                 <h6><a href="/latest-updates">Latest updates &raquo;</a></h6>
+                 </div><div id="latest-updates"><article id="node-21693167" class="ec-sections-latest-updates-block clearfix" data-href-redirect="/blogs/economist-explains/2016/02/economist-explains-12">
+      <img src="http://cdn.static-economist.com/sites/default/files/imagecache/50_by_50/images/2016/02/blogs/economist-explains/20160220_blp523.jpg" alt="The Economist explains" title=""  class="imagecache imagecache-50_by_50" width="50" height="50" />    <p><a href="/blogs/economist-explains/2016/02/economist-explains-12"><span class="latest-updates-fly-title">The Economist explains</span>: Why Greeks are protesting over pension reforms...</a></p>
+  <p class="dateline">
+    <span class="section">The Economist explains</span>
+    <span class="timestamp" title="2016-02-18T02:51:24+00:00"> February 18th, 2:51</span>
+  </p>
+</article>
+
+<article id="node-21693191" class="ec-sections-latest-updates-block clearfix" data-href-redirect="/blogs/democracyinamerica/2016/02/black-votes-matter">
+      <img src="http://cdn.static-economist.com/sites/default/files/imagecache/50_by_50/images/2016/02/blogs/democracy-america/20160220_usp503.jpg" alt="Black votes matter" title=""  class="imagecache imagecache-50_by_50" width="50" height="50" />    <p><a href="/blogs/democracyinamerica/2016/02/black-votes-matter"><span class="latest-updates-fly-title">Black votes matter</span>: Clinton courts the black vote in Chicago and New York</a></p>
+  <p class="dateline">
+    <span class="section">Democracy in America</span>
+    <span class="timestamp" title="2016-02-17T21:56:32+00:00"> February 17th, 21:56</span>
+  </p>
+</article>
+
+<article id="node-21693189" class="ec-sections-latest-updates-block clearfix" data-href-redirect="/news/business-and-finance/21693189-apples-boss-may-have-choose-between-his-principles-and-his-liberty-tim-cook-privacy">
+      <img src="http://cdn.static-economist.com/sites/default/files/imagecache/50_by_50/images/2016/02/articles/main/20160220_wbp002.jpg" alt="Encryption battle" title=""  class="imagecache imagecache-50_by_50" width="50" height="50" />    <p><a href="/news/business-and-finance/21693189-apples-boss-may-have-choose-between-his-principles-and-his-liberty-tim-cook-privacy"><span class="latest-updates-fly-title">Encryption battle</span>: Tim Cook, privacy martyr?</a></p>
+  <p class="dateline">
+    <span class="section">Business and finance</span>
+    <span class="timestamp" title="2016-02-17T20:45:16+00:00"> February 17th, 20:45</span>
+  </p>
+</article>
+
+<article id="node-21693188" class="ec-sections-latest-updates-block clearfix" data-href-redirect="/news/business/21693188-wounded-canadian-planemaker-announces-big-losses-and-job-cuts-bombardier-course">
+      <img src="http://cdn.static-economist.com/sites/default/files/imagecache/50_by_50/images/2016/02/articles/main/20160220_wbp004.jpg" alt="Plane truths" title=""  class="imagecache imagecache-50_by_50" width="50" height="50" />    <p><a href="/news/business/21693188-wounded-canadian-planemaker-announces-big-losses-and-job-cuts-bombardier-course"><span class="latest-updates-fly-title">Plane truths</span>: Bombardier on course for another bail-out</a></p>
+  <p class="dateline">
+    <span class="section">Business</span>
+    <span class="timestamp" title="2016-02-17T20:23:53+00:00"> February 17th, 20:23</span>
+  </p>
+</article>
+
+<article id="node-21693182" class="ec-sections-latest-updates-block clearfix" data-href-redirect="/news/science-and-technology/21693182-fifth-generation-mobile-network-promises-take-us-one-step-closer">
+      <img src="http://cdn.static-economist.com/sites/default/files/imagecache/50_by_50/images/2016/02/articles/main/20160220_mma904_107.jpg" alt="Babbage" title=""  class="imagecache imagecache-50_by_50" width="50" height="50" />    <p><a href="/news/science-and-technology/21693182-fifth-generation-mobile-network-promises-take-us-one-step-closer"><span class="latest-updates-fly-title">Babbage</span>: 5G to unite them all</a></p>
+  <p class="dateline">
+    <span class="section">Science and technology</span>
+    <span class="timestamp" title="2016-02-17T18:23:52+00:00"> February 17th, 18:23</span>
+  </p>
+</article>
+
+<article id="node-21693174" class="ec-sections-latest-updates-block clearfix" data-href-redirect="/news/united-states/21693174-former-president-drags-himself-away-his-oils-give-his-brother-push-george-w">
+      <img src="http://cdn.static-economist.com/sites/default/files/imagecache/50_by_50/images/2016/02/articles/main/20160220_usp502.jpg" alt="The Bushes in South Carolina" title=""  class="imagecache imagecache-50_by_50" width="50" height="50" />    <p><a href="/news/united-states/21693174-former-president-drags-himself-away-his-oils-give-his-brother-push-george-w"><span class="latest-updates-fly-title">The Bushes in South Carolina</span>: George W. Bush makes an appearance to...</a></p>
+  <p class="dateline">
+    <span class="section">United States</span>
+    <span class="timestamp" title="2016-02-17T17:25:16+00:00"> February 17th, 17:25</span>
+  </p>
+</article>
+
+<article id="node-21693171" class="ec-sections-latest-updates-block clearfix" data-href-redirect="/news/middle-east-and-africa/21693171-egyptian-authorities-show-little-appetite-solve-case-murdered">
+      <img src="http://cdn.static-economist.com/sites/default/files/imagecache/50_by_50/images/2016/02/articles/main/20160220_map504.jpg" alt="Out of control" title=""  class="imagecache imagecache-50_by_50" width="50" height="50" />    <p><a href="/news/middle-east-and-africa/21693171-egyptian-authorities-show-little-appetite-solve-case-murdered"><span class="latest-updates-fly-title">Out of control</span>: Suspicion falls on Egypt’s security forces after the...</a></p>
+  <p class="dateline">
+    <span class="section">Middle East and Africa</span>
+    <span class="timestamp" title="2016-02-17T16:38:04+00:00"> February 17th, 16:38</span>
+  </p>
+</article>
+
+</div><div class="more-latest-updates"><a href="/latest-updates" class="more">More latest updates &raquo;</a></div>  </div>
+</div>
+
+<div id="block-ec_mostx-mostpopular" class="block block-ec_mostx 
+">
+    <div class="content clearfix">
+    <div id="most-lists" class="block">
+  <div id="block-title"><p>Most commented</p></div>
+  <div class="list-wrapper">
+          <ul id="commented-list" class="show">
+        <li class="mostx-first"><a href="/blogs/democracyinamerica/2016/02/antonin-scalia-1936-2016?spc=scode&amp;spv=xm&amp;ah=9d7f7ab945510a56fa6d37c30b6f1709" id="track-commented-21693067"><img src="http://cdn.static-economist.com/sites/default/files/imagecache/mostx_block/images/2016/02/blogs/democracy-america/20160220_blp901_0.jpg" alt="A judge’s death starts a political battle" title=""  class="mostx-image-first" width="168" height="95" /><span class="mostx-list">1</span><span class="mostx-text"><span class="mostx-fly-title">Antonin Scalia, 1936-2016</span>A judge’s death starts a political battle</span></a></li><li><a href="/blogs/democracyinamerica/2016/02/ninth-republican-debate?spc=scode&amp;spv=xm&amp;ah=9d7f7ab945510a56fa6d37c30b6f1709" id="track-commented-21693063"><span class="mostx-list">2</span><span class="mostx-text"><span class="mostx-fly-title">The ninth Republican debate</span>: A deplorable evening for the Republican party</span></a></li><li><a href="/news/middle-east-and-africa/21692977-ray-hope-amidst-darkness-syrian-civil-war-or-bit-political?spc=scode&amp;spv=xm&amp;ah=9d7f7ab945510a56fa6d37c30b6f1709" id="track-commented-21692977"><span class="mostx-list">3</span><span class="mostx-text"><span class="mostx-fly-title">Kerry’s deal in Munich</span>: A questionable agreement to stop the war in Syria</span></a></li><li><a href="/blogs/erasmus/2016/02/conversion-islam?spc=scode&amp;spv=xm&amp;ah=9d7f7ab945510a56fa6d37c30b6f1709" id="track-commented-21693047"><span class="mostx-list">4</span><span class="mostx-text"><span class="mostx-fly-title">Conversion to Islam</span>: Why some Brits choose Islamic prayer over partying</span></a></li><li><a href="/news/europe/21690055-nostalgia-ostpolitik-fouling-up-german-diplomacy-bear-backers?spc=scode&amp;spv=xm&amp;ah=9d7f7ab945510a56fa6d37c30b6f1709" id="track-commented-21690055"><span class="mostx-list">5</span><span class="mostx-text"><span class="mostx-fly-title">German Russophiles</span>: Bear-backers</span></a></li>      </ul>
+    
+  </div>
+</div>
+  </div>
+</div>
+
+<div id="block-ec_ads-bottom_mpu_ad" class="block block-ec_ads 
+ec-ads-gpt">
+    <div class="content clearfix">
+    <div class="ec-ads ec-ads-remove-if-empty"><p class="ec-ads-label">Advertisement</p><!-- Site: Innovation.  Zone: Science and technology | All science and technology | Articles --> <div id="gpt_bottom_mpu_ad" data-cb-ad-id="Bottom mpu ad"><script type="text/javascript">  googletag.cmd.push(function() {      googletag.display("gpt_bottom_mpu_ad");  });
+</script><noscript>
+  <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dmpu_bottom%26fsrc%3Dscntwtebledthegreatwethope&sz=300x250|50x50|300x600&tile=9&c=731261882" target="_blank">
+   <img src="//pubads.g.doubleclick.net/gampad/ad?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dmpu_bottom%26fsrc%3Dscntwtebledthegreatwethope&sz=300x250|50x50|300x600&tile=9&c=731261882" />
+  </a>
+</noscript></div></div>  </div>
+</div>
+
+<div id="block-ec_pixel_tracking_onscroll-bottom_onscroll" class="block block-ec_pixel_tracking_onscroll 
+">
+    <div class="content clearfix">
+    <div id="onscroll-ad-holder-mpu2"></div>  </div>
+</div>
+
+<div id="block-block-1" class="block block-block 
+">
+    <div class="content clearfix">
+    <div id="product-events">
+<div class="title">Products and events</div>
+<div class="product-first linked">
+<p class="products-events-section"><strong><a  class="social-link" href="/economist-quiz" target="_blank">Test your EQ</a></strong><br />
+Take our weekly news quiz to stay on top of the headlines
+</p>
+</div>
+<div class="product-section product-section-last linked">
+<p class="products-events-section"><strong><a  class="social-link" href="http://econ.st/R7pQMy" target="_blank">Want more from <i>The Economist?</i></a></strong><br />
+Visit The Economist e-store and you’ll find a range of carefully selected products for business and pleasure, Economist books and diaries, and much more</p>
+</div>
+</div>
+  </div>
+</div>
+
+<div id="block-ec_ads-bottom_right_mpu_ad" class="block block-ec_ads 
+ec-ads-gpt">
+    <div class="content clearfix">
+    <div class="ec-ads ec-ads-remove-if-empty"><p class="ec-ads-label">Advertisement</p><!-- Site: Innovation.  Zone: Science and technology | All science and technology | Articles --> <div id="gpt_bottom_right_mpu_ad" data-cb-ad-id="Bottom right mpu ad"><script type="text/javascript">  googletag.cmd.push(function() {      googletag.display("gpt_bottom_right_mpu_ad");  });
+</script><noscript>
+  <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dmpu_bottom_right%26fsrc%3Dscntwtebledthegreatwethope&sz=300x250|45x45&tile=10&c=731261882" target="_blank">
+   <img src="//pubads.g.doubleclick.net/gampad/ad?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dmpu_bottom_right%26fsrc%3Dscntwtebledthegreatwethope&sz=300x250|45x45&tile=10&c=731261882" />
+  </a>
+</noscript></div></div>  </div>
+</div>
+
+<div id="block-ec_pixel_tracking_onscroll-bottom_right_onscroll" class="block block-ec_pixel_tracking_onscroll 
+">
+    <div class="content clearfix">
+    <div id="onscroll-ad-holder"></div>  </div>
+</div>
+
+        </div> <!-- /#side-bar -->
+      
+      
+    </div> <!-- /#columns -->
+          <div id="footer-classifieds" class="clearfix">
+        <div class="title">Classified ads</div>
+        <div id="block-ec_ads-button_ad_1" class="block block-ec_ads 
+ec-ads-gpt ec-classified-box ec-ads-classified first">
+    <div class="content clearfix">
+    <!-- Site: Innovation.  Zone: Science and technology | All science and technology | Articles --> <div id="gpt_button_ad_1" data-cb-ad-id="Button ad 1"><script type="text/javascript">  googletag.cmd.push(function() {      googletag.display("gpt_button_ad_1");  });
+</script><noscript>
+  <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dbutton1%26fsrc%3Dscntwtebledthegreatwethope&sz=125x125&c=731261882" target="_blank">
+   <img src="//pubads.g.doubleclick.net/gampad/ad?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dbutton1%26fsrc%3Dscntwtebledthegreatwethope&sz=125x125&c=731261882" />
+  </a>
+</noscript></div>  </div>
+</div>
+
+<div id="block-ec_ads-button_ad_2" class="block block-ec_ads 
+ec-ads-gpt ec-classified-box ec-ads-classified">
+    <div class="content clearfix">
+    <!-- Site: Innovation.  Zone: Science and technology | All science and technology | Articles --> <div id="gpt_button_ad_2" data-cb-ad-id="Button ad 2"><script type="text/javascript">  googletag.cmd.push(function() {      googletag.display("gpt_button_ad_2");  });
+</script><noscript>
+  <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dbutton2%26fsrc%3Dscntwtebledthegreatwethope&sz=125x125&c=731261882" target="_blank">
+   <img src="//pubads.g.doubleclick.net/gampad/ad?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dbutton2%26fsrc%3Dscntwtebledthegreatwethope&sz=125x125&c=731261882" />
+  </a>
+</noscript></div>  </div>
+</div>
+
+<div id="block-ec_ads-button_ad_3" class="block block-ec_ads 
+ec-ads-gpt ec-classified-box ec-ads-classified">
+    <div class="content clearfix">
+    <!-- Site: Innovation.  Zone: Science and technology | All science and technology | Articles --> <div id="gpt_button_ad_3" data-cb-ad-id="Button ad 3"><script type="text/javascript">  googletag.cmd.push(function() {      googletag.display("gpt_button_ad_3");  });
+</script><noscript>
+  <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dbutton3%26fsrc%3Dscntwtebledthegreatwethope&sz=125x125&c=731261882" target="_blank">
+   <img src="//pubads.g.doubleclick.net/gampad/ad?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dbutton3%26fsrc%3Dscntwtebledthegreatwethope&sz=125x125&c=731261882" />
+  </a>
+</noscript></div>  </div>
+</div>
+
+<div id="block-ec_ads-button_ad_4" class="block block-ec_ads 
+ec-ads-gpt ec-classified-box ec-ads-classified">
+    <div class="content clearfix">
+    <!-- Site: Innovation.  Zone: Science and technology | All science and technology | Articles --> <div id="gpt_button_ad_4" data-cb-ad-id="Button ad 4"><script type="text/javascript">  googletag.cmd.push(function() {      googletag.display("gpt_button_ad_4");  });
+</script><noscript>
+  <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dbutton4%26fsrc%3Dscntwtebledthegreatwethope&sz=125x125&c=731261882" target="_blank">
+   <img src="//pubads.g.doubleclick.net/gampad/ad?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dbutton4%26fsrc%3Dscntwtebledthegreatwethope&sz=125x125&c=731261882" />
+  </a>
+</noscript></div>  </div>
+</div>
+
+<div id="block-ec_ads-button_ad_5" class="block block-ec_ads 
+ec-ads-gpt ec-classified-box ec-ads-classified">
+    <div class="content clearfix">
+    <!-- Site: Innovation.  Zone: Science and technology | All science and technology | Articles --> <div id="gpt_button_ad_5" data-cb-ad-id="Button ad 5"><script type="text/javascript">  googletag.cmd.push(function() {      googletag.display("gpt_button_ad_5");  });
+</script><noscript>
+  <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dbutton5%26fsrc%3Dscntwtebledthegreatwethope&sz=125x125&c=731261882" target="_blank">
+   <img src="//pubads.g.doubleclick.net/gampad/ad?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dbutton5%26fsrc%3Dscntwtebledthegreatwethope&sz=125x125&c=731261882" />
+  </a>
+</noscript></div>  </div>
+</div>
+
+<div id="block-ec_ads-button_ad_6" class="block block-ec_ads 
+ec-ads-gpt ec-classified-box ec-ads-classified last">
+    <div class="content clearfix">
+    <!-- Site: Innovation.  Zone: Science and technology | All science and technology | Articles --> <div id="gpt_button_ad_6" data-cb-ad-id="Button ad 6"><script type="text/javascript">  googletag.cmd.push(function() {      googletag.display("gpt_button_ad_6");  });
+</script><noscript>
+  <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dbutton6%26fsrc%3Dscntwtebledthegreatwethope&sz=125x125&c=731261882" target="_blank">
+   <img src="//pubads.g.doubleclick.net/gampad/ad?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dbutton6%26fsrc%3Dscntwtebledthegreatwethope&sz=125x125&c=731261882" />
+  </a>
+</noscript></div>  </div>
+</div>
+
+      </div>
+        <aside class="site-index">
+      <div>
+  <div class="svg-logo"><img class="mh-logo" width="170" height="85" src="//cdn.static-economist.com/sites/all/themes/econfinal/images/svg/logo.svg" alt="The Economist" /></div>
+      <ul class="site-index-1">
+              <li><a href="/contact-info" data-ec-omniture="mini_map|contact_us">Contact us</a></li>
+              <li><a href="/help/home" data-ec-omniture="mini_map|help">Help</a></li>
+              <li><a href="/user" data-ec-omniture="mini_map|my_account">My account</a></li>
+              <li><a href="https://subscriptions.economist.com/GLB/ECOM/?cid1=cust/af/cust-internal/sub/n/n/owned/n/n/ecom/n/sub/n/n" data-ec-omniture="mini_map|subscribe">Subscribe</a></li>
+              <li><a href="/printedition" data-ec-omniture="mini_map|print_edition">Print edition</a></li>
+              <li><a href="/digital" data-ec-omniture="mini_map|digital_editions">Digital editions</a></li>
+              <li><a href="/events-conferences" data-ec-omniture="mini_map|events">Events</a></li>
+              <li><a href="http://jobs.economist.com/" data-ec-omniture="mini_map|jobs_economist_com">Jobs.Economist.com</a></li>
+              <li><a href="/bookmarks" data-ec-omniture="mini_map|timekeeper_saved_articles">Timekeeper saved articles</a></li>
+          </ul>
+  </div>
+<div>
+  <h6>Sections</h6>
+  <ul class="footer-index-site-2-content">
+                <li><a href="/sections/united-states" data-ec-omniture="mini_map|united_states">United States</a></li>
+                <li><a href="/sections/britain" data-ec-omniture="mini_map|britain">Britain</a></li>
+                <li><a href="/sections/europe" data-ec-omniture="mini_map|europe">Europe</a></li>
+                <li><a href="/sections/china" data-ec-omniture="mini_map|china">China</a></li>
+                <li><a href="/sections/asia" data-ec-omniture="mini_map|asia">Asia</a></li>
+                <li><a href="/sections/americas" data-ec-omniture="mini_map|americas">Americas</a></li>
+                <li><a href="/sections/middle-east-africa" data-ec-omniture="mini_map|middle_east_africa">Middle East &amp; Africa</a></li>
+                <li><a href="/sections/international" data-ec-omniture="mini_map|international">International</a></li>
+                <li><a href="/sections/business-finance" data-ec-omniture="mini_map|business_finance">Business &amp; finance</a></li>
+                <li><a href="/sections/economics" data-ec-omniture="mini_map|economics">Economics</a></li>
+                <li><a href="/markets-data" data-ec-omniture="mini_map|markets_data">Markets &amp; data</a></li>
+                <li><a href="/sections/science-technology" data-ec-omniture="mini_map|science_technology">Science &amp; technology</a></li>
+                <li><a href="http://www.economist.com/specialreports" data-ec-omniture="mini_map|special_reports">Special reports</a></li>
+                <li><a href="/sections/culture" data-ec-omniture="mini_map|culture">Culture</a></li>
+                <li><a href="/multimedia" data-ec-omniture="mini_map|multimedia_library">Multimedia library</a></li>
+            </ul>
+      <h6>Debate and discussion</h6>
+    <ul>
+            <li><a href="http://www.economist.com/debate" data-ec-omniture="mini_map|the_economist_debates">The Economist debates</a></li>
+                <li><a href="http://www.economist.com/letters" data-ec-omniture="mini_map|letters_to_the_editor">Letters to the editor</a></li>
+                <li><a href="/economist-quiz" data-ec-omniture="mini_map|the_economist_quiz">The Economist Quiz</a></li>
+      </ul>
+</div>
+  <div>
+    <h6>Blogs</h6>
+    <ul>
+
+              <li><a href="/blogs/bagehot" data-ec-omniture="mini_map|bagehots_notebook">Bagehot&#039;s notebook</a></li>
+              <li><a href="/blogs/buttonwood" data-ec-omniture="mini_map|buttonwoods_notebook">Buttonwood&#039;s notebook</a></li>
+              <li><a href="/blogs/democracyinamerica" data-ec-omniture="mini_map|democracy_in_america">Democracy in America</a></li>
+              <li><a href="/blogs/erasmus" data-ec-omniture="mini_map|erasmus">Erasmus</a></li>
+              <li><a href="/blogs/freeexchange" data-ec-omniture="mini_map|free_exchange">Free exchange</a></li>
+              <li><a href="/blogs/gametheory" data-ec-omniture="mini_map|game_theory">Game theory</a></li>
+              <li><a href="/blogs/graphicdetail" data-ec-omniture="mini_map|graphic_detail">Graphic detail</a></li>
+              <li><a href="/blogs/gulliver" data-ec-omniture="mini_map|gulliver">Gulliver</a></li>
+              <li><a href="/blogs/prospero" data-ec-omniture="mini_map|prospero">Prospero</a></li>
+              <li><a href="/blogs/economist-explains" data-ec-omniture="mini_map|the_economist_explains">The Economist explains</a></li>
+          </ul>
+  </div>
+  <div>
+    <h6>Research and insights</h6>
+    <ul>
+                              <li><a href="/topics" data-ec-omniture="mini_map|topics">Topics</a></li>
+                                        <li><a href="/economics-a-to-z" data-ec-omniture="mini_map|economics_a_z">Economics A-Z</a></li>
+                                        <li><a href="/styleguide/introduction" data-ec-omniture="mini_map|style_guide">Style guide</a></li>
+                                        <li><a href="http://www.theworldin.com/" data-ec-omniture="mini_map|the_world_in_2016">The World in 2016</a></li>
+                                        <li><a href="/whichmba" data-ec-omniture="mini_map|which_mba_">Which MBA?</a></li>
+                                        <li><a href="https://success.economist.com/?fsrc=econfooter" data-ec-omniture="mini_map|mba_services">MBA Services</a></li>
+                                        <li><a href="https://gmat.economist.com/?gsrc=economist_footer&amp;c3ch=Economist&amp;c3nid=site footer" data-ec-omniture="mini_map|the_economist_gmat_tutor">The Economist GMAT Tutor</a></li>
+                                        <li><a href="https://execed.economist.com/?fsrc=econ-foot" data-ec-omniture="mini_map|executive_education_navigator">Executive Education Navigator</a></li>
+                                        <li><a href="http://www.economist.com/rights" data-ec-omniture="mini_map|reprints_and_permissions">Reprints and permissions</a></li>
+                                        </ul>
+              <h6><a href="http://www.economistgroup.com" data-ec-omniture="mini_map|the_economist_group">The Economist Group &raquo;</a></h6>
+            <ul>
+                                        <li><a href="http://www.eiu.com" data-ec-omniture="mini_map|the_economist_intelligence_unit">The Economist Intelligence Unit</a></li>
+                                        <li><a href="http://store.eiu.com" data-ec-omniture="mini_map|the_economist_intelligence_unit_store">The Economist Intelligence Unit Store</a></li>
+                                        <li><a href="http://www.corporatenetwork.com" data-ec-omniture="mini_map|the_economist_corporate_network">The Economist Corporate Network</a></li>
+                                        <li><a href="http://ideaspeoplemedia.com/" data-ec-omniture="mini_map|ideas_people_media">Ideas People Media</a></li>
+                                        <li><a href="http://intelligentlifemagazine.com/" data-ec-omniture="mini_map|intelligent_life_magazine">Intelligent Life magazine</a></li>
+                                        <li><a href="http://www.rollcall.com/?t=0506EC&amp;p=econ&amp;s=econ" data-ec-omniture="mini_map|roll_call">Roll Call</a></li>
+                                        <li><a href="http://www.cq.com/news.do" data-ec-omniture="mini_map|cq">CQ</a></li>
+                                        <li><a href="http://www.eurofinance.com" data-ec-omniture="mini_map|eurofinance">EuroFinance</a></li>
+                                        <li><a href="http://shop.economist.com" data-ec-omniture="mini_map|the_economist_store">The Economist Store</a></li>
+                                        </ul>
+              <h6 class="minimap-site-index"><a href="/content/site-index" data-ec-omniture="mini_map|view_complete_site_index_">View complete site index »</a></h6>
+            <ul>
+                      </ul>
+  </div>
+
+
+    </aside>
+    <div id="block-ec_ads-slider_ad" class="block block-ec_ads 
+ec-ads-gpt">
+    <div class="content clearfix">
+    <!-- Site: Innovation.  Zone: Science and technology | All science and technology | Articles --> <div id="gpt_slider_ad" data-cb-ad-id="Slider ad"><script type="text/javascript">  googletag.cmd.push(function() {      googletag.display("gpt_slider_ad");  });
+</script><noscript>
+  <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dslider%26fsrc%3Dscntwtebledthegreatwethope&sz=1x1&tile=11&c=731261882" target="_blank">
+   <img src="//pubads.g.doubleclick.net/gampad/ad?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dslider%26fsrc%3Dscntwtebledthegreatwethope&sz=1x1&tile=11&c=731261882" />
+  </a>
+</noscript></div>  </div>
+</div>
+
+<div id="block-ec_ads-adcast" class="block block-ec_ads 
+ec-ads-gpt">
+    <div class="content clearfix">
+    <div class="ec-ads-remove-if-empty"><!-- Site: Innovation.  Zone: Science and technology | All science and technology | Articles --> <div id="gpt_adcast" data-cb-ad-id="Adcast"><script type="text/javascript">  googletag.cmd.push(function() {      googletag.display("gpt_adcast");  });
+</script><noscript>
+  <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dadcast%26fsrc%3Dscntwtebledthegreatwethope&sz=250x1000&tile=12&c=731261882" target="_blank">
+   <img src="//pubads.g.doubleclick.net/gampad/ad?iu=/5605/teg.ckau/kidj/a&t=subs%3Dn%26sdn%3Dn%26!c%3D21689985%26pos%3Dadcast%26fsrc%3Dscntwtebledthegreatwethope&sz=250x1000&tile=12&c=731261882" />
+  </a>
+</noscript></div></div>  </div>
+</div>
+
+
+    <footer>
+        <div class="footer-stripe-top">
+    <ul>
+          </ul>
+  </div>
+
+<div class="footer-stripe-bottom">
+  <ul>
+    <li>Copyright &copy; The Economist Newspaper Limited 2016. All rights reserved.</li>
+                    <li class="cookie-pref"><div id="teconsent"><script type="text/javascript" src="http://consent-st.truste.com/get?name=notice.js&domain=economist.com&c=teconsent"></script></div></li>
+        </ul>
+</div>
+    </footer> <!-- /footer -->
+  </div>
+
+  <script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences_all.js"></script>
+<script type="text/javascript" src="http://admin.brightcove.com/js/APIModules_all.js"></script>
+
+<!--
+    SiteCatalyst code version: H.13    Copyright 1997-2009 Omniture, Inc.
+    More info available at http://www.omniture.com
+-->
+<script language="javascript" type="text/javascript">var s_account = 'economistcomprod';
+</script><script language="javascript" src="//cdn.static-economist.com/sites/default/files/external/ec_omniture/3_7/ec_omniture_s_code.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+  s.pageName="science_and_technology|article|science_and_technology|the_great_wet_hope";
+s.pageType="";
+s.server="economist.com";
+s.channel="science_and_technology";
+s.contextData.subsection="science_and_technology";
+s.prop1="science_and_technology";
+s.prop2="";
+s.prop3="printedition";
+s.prop4="article";
+s.prop5="the_great_wet_hope";
+s.prop6="";
+s.prop7="";
+s.prop11="not_logged_in";
+s.prop12="";
+s.prop13="anonymous|none";
+s.prop14="";
+s.prop15="";
+s.prop26="";
+s.prop28="";
+s.prop31="2016|02|08";
+s.prop34="econfinal";
+s.prop40="0";
+s.prop41="ckau";
+s.prop42="kidj";
+s.hier1="";
+s.state="";
+s.zip="";
+  // For grape shot.
+  if (typeof s !== "undefined" && typeof window.gs_channels !== "undefined") {
+    s.prop6 = window.gs_channels;
+  }
+  if (typeof s !== "undefined" && typeof Economist !== "undefined" && typeof Economist.userData !== "undefined" && typeof Economist.userData.data !== "undefined") {
+    s.prop11 = "logged_in";
+
+    if (typeof Economist.userData.data.username !== "undefined" && typeof Economist.analytics !== 'undefined' && typeof Economist.analytics.omnitureTools !== 'undefined') {
+      s.prop12 = Economist.analytics.omnitureTools.clean(Economist.userData.data.username);
+    }
+
+    if (typeof Economist.userData.data.uid !== "undefined") {
+      s.prop40 = Economist.userData.data.uid;
+    }
+
+    if (typeof s.pageName !== "undefined" && s.pageName === "pay_barrier|registration_offer") {
+      s.pageName = "pay_barrier|subscription_offer";
+      s.events = "event2,event23";
+    }
+  }
+
+  if (typeof s !== "undefined" && typeof Economist !== "undefined" && typeof Economist.userData === "undefined" && $.cookie("ec_old_user_data") !== null) {
+    // Omniture is around, but we dont have userData structure in the Economist associative array.
+    // Check to see if we have a saved cookie with the last logged in user details within, if so use that.
+    try {
+      Economist.oldUserData = $.cookie("ec_old_user_data").split('|');
+    }
+    catch (e) {
+      // If we get a error its probably due to the cookie containing invalid data,
+      // so unset the oldUserData.
+      delete Economist.oldUserData;
+    }
+
+    if (typeof Economist.oldUserData !== "undefined" && Economist.oldUserData instanceof Array && typeof Economist.analytics !== 'undefined' && typeof Economist.analytics.omnitureTools !== 'undefined') {
+      s.prop12 = Economist.analytics.omnitureTools.clean(Economist.oldUserData[0]);
+      s.prop40 = Economist.oldUserData[1];
+    }
+  }
+
+  // Process any queued events if we are not using sessions.
+  if ($.cookie('ec_omniture_queue')) {
+    try {
+      var processQueue = (function() {
+        var queued_events, queued_event, event_name;
+        queued_events = JSON.parse($.cookie('ec_omniture_queue'));
+        for (queued_event in queued_events) {
+          for (event_name in queued_events[queued_event]) {
+            if (queued_events[queued_event].hasOwnProperty(event_name)) {
+              if (typeof s[event_name] !== "undefined" && s[event_name].length > 0) {
+                s[event_name] += ',' + queued_events[queued_event][event_name];
+              } else {
+                s[event_name] = queued_events[queued_event][event_name];
+              }
+            }
+          }
+        }
+      }());
+    } catch (e) {
+      // do nothing but catch the error so it doesn't propagate -
+      // we ensure the cookie is deleted in the finally block.
+    } finally {
+      $.cookie('ec_omniture_queue', '', { path: '/', expires: -5 });
+    }
+  }
+  var s_code=s.t();if(s_code)document.write(s_code)
+</script>
+<script language="JavaScript" type="text/javascript">
+   if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-');
+</script>
+<noscript>
+  <a href="http://www.omniture.com" title="Web Analytics">
+    <img src="/stats.economist.com/b/ss/economistcomprod/1/H.20.3--NS/0" height="1" width="1" border="0" alt="" />
+  </a>
+</noscript>
+<!-- End SiteCatalyst code version: H.13 -->
+<script type="text/javascript" src="http://cdn.static-economist.com/sites/default/files/js/js_b38b397efe75552f4374768def7ed5c7.js"></script>
+      <!--
+START of Interactive Avenue Pixel Tag: Please do not remove!!
+-->
+<script type="text/javascript">
+  /* <![CDATA[ */
+  var google_conversion_id = 1035071974;
+  var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+  /* ]]> */
+</script>
+<script type="text/javascript"
+        src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+  <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt=""
+         src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1035071974/?value=0&amp;guid=ON&amp;script=0"/>
+  </div>
+</noscript>
+
+<script type="text/javascript">
+  /* <![CDATA[ */
+  var google_conversion_id = 1047392724;
+  var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+  /* ]]> */
+</script>
+<script type="text/javascript"
+        src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+  <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt=""
+         src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1047392724/?value=0&amp;guid=ON&amp;script=0"/>
+  </div>
+</noscript>
+<!--
+END of Interactive Avenue Pixel Tag: Please do not remove!!
+-->
+
+<!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+-->
+<script type="text/javascript">
+  var axel = Math.random() + "";
+  var a = axel * 10000000000000;
+  var d = document.createElement('iframe');
+  d.setAttribute('height', '1');
+  d.setAttribute('width', '1');
+  d.setAttribute('style', 'display:none');
+  d.setAttribute('src', '//4396156.fls.doubleclick.net/activityi;src=4396156;type=Econo014;cat=Econo0;ord=1;num=' + a + '?');
+  document.body.appendChild(d);</script>
+<noscript>
+  <iframe src="//4396156.fls.doubleclick.net/activityi;src=4396156;type=Econo014;cat=Econo0;ord=1;num=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+<!--
+START of Universal McCann Tag: Please do not remove!!
+-->
+<script src="//d21j20wsoewvjq.cloudfront.net/tt-8c244b370747c1930a4e0967254778ddbb69f6a409e62beebe5f92191a09a3a1.js" async>
+</script>
+<!--
+END of Universal McCann Tag: Please do not remove!!
+-->
+<script src="//tag.yieldoptimizer.com/ps/ps?t=s&p=1814&pg=Page"></script>          <script type="text/javascript">
+  (function() {
+    var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+    em.src = ('https:' == document.location.protocol ? 'https://us-ssl' : 'http://us-cdn') + '.effectivemeasure.net/em.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+  })();
+</script>
+<noscript>
+<img src="//us.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+</noscript>          <!-- Begin BlueKai Tag -->
+<script type="text/javascript">
+window.bk_async = function() {
+	// INSERT DATA HERE IN THE FORM:
+	// bk_addPageCtx("<<SOMEKEY>>", "<<SOMEVALUE>>");
+	
+	
+	try{
+		if(typeof Econ.user.user.country !== 'undefined'){
+			var bkCountry = (typeof Econ.user.user.country.iso != 'undefined' ? Econ.user.user.country.iso : '');
+			var bkRegion = (typeof Econ.user.user.country.region != 'undefined' ? Econ.user.user.country.region : '');
+			bk_addPageCtx("ctry", bkCountry);
+			bk_addPageCtx("reg", bkRegion);
+		}
+	}	
+	catch(e){}
+	
+	try{	
+		if(typeof s !='undefined'){
+			var bkChannel = (typeof s.channel != 'undefined' ? s.channel : '');
+			var bkPageName = (typeof s.pageName != 'undefined' ? s.pageName : '');
+
+			var bkprop1 = (typeof s.prop1 != 'undefined' ? s.prop1 : '');
+			var bkprop3 = (typeof s.prop3 != 'undefined' ? s.prop3 : '');
+			var bkprop4 = (typeof s.prop4 != 'undefined' ? s.prop4 : '');
+			var bkprop5 = (typeof s.prop5 != 'undefined' ? s.prop5 : '');
+			var bkprop6 = (typeof s.prop6 != 'undefined' ? s.prop6 : '');
+			var bkprop8 = (typeof s.prop8 != 'undefined' ? s.prop8 : '');
+			var bkprop9 = (typeof s.prop9 != 'undefined' ? s.prop9 : '');
+			var bkprop10 = (typeof s.prop10 != 'undefined' ? s.prop10 : '');
+			var bkprop11 = (typeof s.prop11 != 'undefined' ? s.prop11 : '');
+			var bkprop13 = (typeof s.prop13 != 'undefined' ? s.prop13 : '');
+			var bkprop16 = (typeof s.prop16 != 'undefined' ? s.prop16 : '');
+			var bkprop40 = (typeof s.prop40 != 'undefined' ? s.prop40 : '');
+			var bkprop41 = (typeof s.prop41 != 'undefined' ? s.prop41 : '');
+			var bkprop42 = (typeof s.prop42 != 'undefined' ? s.prop42 : '');
+			var bkprop53 = (typeof s.prop53 != 'undefined' ? s.prop53 : '');
+			var bkprop54 = (typeof s.prop54 != 'undefined' ? s.prop54 : '');
+
+			var bkevents = (typeof s.events != 'undefined' ? s.events : '');
+
+			bk_addPageCtx("chan", bkChannel);
+			bk_addPageCtx("page", bkPageName);
+			bk_addPageCtx("p1", bkprop1);
+			bk_addPageCtx("p3", bkprop3);
+			bk_addPageCtx("p4", bkprop4);
+			bk_addPageCtx("p5", bkprop5);
+			bk_addPageCtx("p6", bkprop6);
+			bk_addPageCtx("p8", bkprop8);
+			bk_addPageCtx("p9", bkprop9);
+			bk_addPageCtx("p10", bkprop10);
+			bk_addPageCtx("p11", bkprop11);
+			bk_addPageCtx("p13", bkprop13);
+			bk_addPageCtx("p16", bkprop16);
+			bk_addPageCtx("did", bkprop40);
+			bk_addPageCtx("p41", bkprop41);
+			bk_addPageCtx("p42", bkprop42);
+			bk_addPageCtx("p53", bkprop53);
+			bk_addPageCtx("p54", bkprop54);
+			bk_addPageCtx("events", bkevents);
+		}
+	}
+	catch(e){}	
+  bk_doJSTag(18452, 10);
+
+};
+(function() {
+  var scripts=document.getElementsByTagName('script')[0];
+  var s=document.createElement('script');
+  s.async = true;
+  s.src = '//tags.bkrtx.com/js/bk-coretag.js';
+  scripts.parentNode.insertBefore(s, scripts);
+}());
+</script>
+<!-- End BlueKai Tag -->
+        <script type="text/javascript">
+      (function() {
+          function loadHorizon() {
+              var s = document.createElement('script');
+              s.type = 'text/javascript';
+              s.async = true;
+              s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+              var x = document.getElementsByTagName('script')[0];
+              x.parentNode.insertBefore(s, x);
+          }
+          loadHorizon();
+          var oldOnLoad = window.onload;
+          window.onload = function() {
+              if (typeof oldOnLoad === 'function') {
+                  oldOnLoad();
+              }
+              Sailthru.setup({
+                  domain: 'horizon.economist.com'
+              });
+          };
+        })();
+      </script>  <script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>

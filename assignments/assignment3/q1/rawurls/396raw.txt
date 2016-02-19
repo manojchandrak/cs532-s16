@@ -1,0 +1,505 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en" class="no-js">
+<!--<![endif]-->
+<head>
+<link rel='canonical'  href=http://mobile.swanseacity.net/news/article/south-korean-ki-sung-yueng-swansea-city-southampton-liberty-2948118.aspx />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <!--Header MetaData tags Start-->
+    
+<title id="HeaderMetaTags_title">South Korean Ki Sung-Yueng fit and available for Swansea City&amp;#39;s clash with Southampton</title>
+<meta id="HeaderMetaTags_description" name="description" content=". . . South Korean available for Swans&amp;#39; Saints test"></meta>
+<meta id="HeaderMetaTags_author" name="author" content=""></meta>
+<meta id="HeaderMetaTags_keywords" name="keywords" content="Club,Home"></meta>
+<meta name="og:image" content="http://mobile.swanseacity.net//cms_images/15-16-wba-a-4x3-ki-0258-2935351_478x359.jpg " />
+<meta name="viewport" content="width=device-width,initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+    <meta name="apple-mobile-web-app-title" content="Swansea City">
+
+<meta content="yes" name="apple-mobile-web-app-capable" />	
+	
+    <!--Header MetaData tags Start-->
+
+
+    <link rel="stylesheet" href="/basecss/dallas.css?TimeStamp=20160215">
+    <link rel="stylesheet" href="/skin/dallas_skin.css?TimeStamp=20160215">
+     
+
+<link href="/Images/swansea-city.png"  rel="apple-touch-icon" />
+    <link href="/Images/swansea-city.png"  rel="apple-touch-startup-image" />
+    <link href="/Images/swansea-city.png"  rel="apple-touch-icon-precomposed" />
+<link href="/Images/swansea-city.png"  rel="apple-touch-icon-precomposed" />
+
+    <script>
+var _trackVarient='GA';
+var loader = [];
+var rollUpAccount = "";
+var clubAccount="";
+var domainNameForGA = 'mobile.swanseacity.net';
+var pageIdentifier='news:article:south-korean-ki-sung-yueng-swansea-city-southampton-liberty-2948118';
+var isUATrackingRequired='';
+
+
+
+
+             rollUpAccount = "UA-29399239-3";
+             clubAccount = "UA-29361382-2";
+                       
+             function EventTracking(category, action, opt_label){		
+		var category = category;
+		var action = action;
+		optlabel = unescape(opt_label);
+		var opt_label = "Swansea City : "+pageIdentifier +" : " +optlabel;
+		
+		gatrackevent(category, action, opt_label , rollUpAccount, clubAccount) ;
+		
+}
+
+
+	
+
+
+var no_data_found='<div id="no_data"><p>No Data Found</p></div>';
+  var error = "/error.aspx";
+var playerhdvideo_viewmore ="http://www.player.swanseacity.net/";
+
+    </script>
+    <script src="/js/libs/modernizr-2.0.6.min.js"></script>
+
+
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<script type="text/javascript">
+function receiveSize(e){
+var newHeight = e.data;
+var eventDetails = newHeight.split(":");
+if ("setFrameHeight" === eventDetails[0]) {
+document.getElementById("register_frame").style.height= parseInt(eventDetails[1]) + 10 + "px";
+$('html, body').animate({scrollTop:0}, 'slow');
+}
+}
+window.addEventListener("message", receiveSize, false);
+</script>
+</head>
+<body id="mobile">
+
+<script>
+function AdvertisementTracking(advertInfo, isClick){		
+		var advertTrackingLink ;
+		var adGAAccount = "UA-29399239-5";
+		if(isClick){
+			advertTrackingLink = '/FLiClick/'; 
+		}else{
+			advertTrackingLink = '/FLiImpression/';
+		}
+		advertTrackingLink += "Swansea City : " + advertInfo;
+
+
+
+
+		
+		trackVirtualPageview(advertTrackingLink, adGAAccount) ;
+		  
+
+		
+	} 
+
+function SendOrderIds(orderIds)
+	{
+			if(!(orderIds == null || orderIds == undefined || orderIds.length <= 1))
+			{
+                                try
+				{	
+                                        var ionosImpressionsUrl = 'http://FLIIONOSAdCapture-173219926.eu-west-1.elb.amazonaws.com/blank.png';	
+                                        var url=ionosImpressionsUrl + "?" + orderIds ;	
+                                        		
+					if ($.browser.msie && window.XDomainRequest) 
+					{	
+						var xdr = new XDomainRequest();						
+						xdr.open("get", url);																	
+						
+						xdr.onload = function () {
+							var JSON = $.parseJSON(xdr.responseText);
+							if (JSON == null || typeof (JSON) == 'undefined')
+							{
+								JSON = $.parseJSON(data.firstChild.textContent);
+							}
+
+							xdr.onprogress = function(){ };
+							xdr.ontimeout = function(){ };
+							xdr.onerror = function () { };							
+						};	
+					
+						xdr.send();
+					}
+					else
+					{
+					 
+						$.ajax({
+							url: url,																						
+							type: 'GET'  			
+						});
+					}
+				}
+				catch(e)
+				{
+					
+				}
+				
+				
+			}
+	}
+
+</script>
+<input type="hidden" title="no_data_found" value='No Data Found' id="no_data_found" >
+<section id="top_banner">
+    
+</section>
+    <div class="container">
+        <header>
+        	
+<div id="primary_background"></div>
+<nav id="secondary" class="clearfix">
+
+  <div class="clearfix" >
+    <div class="logo"><a href="/index.aspx" id="header_logo"  onClick="EventTracking('page link','click','Top nav : Logo');"> <img src="/Images/swansea-city.png"  alt="Swansea City" title="Swansea City"></a></div>
+    <h2>Swansea City</h2>
+
+   <div id="toggle-bar" class="menu" >
+       <p><a class="mtoggle" href="#"><img alt="menu" title="menu"  src="/images/mobile/BlackBG/nav.png" ></a></p>
+          </div>
+      <div id="wall" class="menu" >
+       <p><a href="http://wall.swanseacity.net/Event/Swans_Wall" onClick="EventTracking('external link','click','Top nav : Wall');" ><img alt="wall" title="wall" src="/images/mobile/BlackBG/wall.png"></a></p>
+          </div>
+
+
+<div id="subscribe_icon" class="menu"><p><a href="/news/subscribe/newslettersubscription.aspx" onClick="EventTracking('external link','click','Top nav : Newsletter Subscribe');"><img alt="subscribe" title="" src="/images/mobile/BlackBG/subscribe.png"></a></p></div>
+		
+        
+    <ul id="navigation">
+  <li class="subnav" id="headernav_1">
+    <a href="/news/" title="All News" onClick="javascript:EventTracking('page-link','click','header : All News');">
+      <span>All News</span>
+    </a>
+  </li>
+  <li class="subnav" id="headernav_2">
+    <a href="http://wall.swanseacity.net/Event/Swans_Wall" title="Swans Wall" onClick="javascript:EventTracking('external link','click','header : Swans Wall');">
+      <span>Swans Wall</span>
+    </a>
+  </li>
+  <li class="subnav" id="headernav_3">
+    <a href="/photo-galleries/" title="Photo Galleries" onClick="javascript:EventTracking('page-link','click','header : Photo Galleries');">
+      <span>Photo Galleries</span>
+    </a>
+  </li>
+  <li class="subnav" id="headernav_4">
+    <a href="/fixtures/" title="Fixtures" onClick="javascript:EventTracking('page-link','click','header : Fixtures');">
+      <span>Fixtures</span>
+    </a>
+  </li>
+  <li class="subnav" id="headernav_5">
+    <a href="/results/" title="Results" onClick="javascript:EventTracking('page-link','click','header : Results');">
+      <span>Results</span>
+    </a>
+  </li>
+  <li class="subnav" id="headernav_6">
+    <a href="/league-table/" title="League Table" onClick="javascript:EventTracking('page-link','click','header : League Table');">
+      <span>League Table</span>
+    </a>
+  </li>
+  <li class="subnav player_hide" id="headernav_7">
+    <a href="http://www.player.swanseacity.net/" title="Swans PlayerHD" onClick="javascript:EventTracking('external link','click','header : Swans PlayerHD');">
+      <span>Swans PlayerHD</span>
+    </a>
+  </li>
+</ul>
+
+  </div>
+</nav>
+        </header>
+
+
+
+
+<div id="page-links">
+<div class="container">
+<ul>
+<li class="club_shop" id="footer_clubshoplink">
+<a title="Club Shops" href="http://www.swansdirect.com/" target="_blank" 
+onClick="EventTracking('external link','click','header : Club Shop');">Club Shop</a>
+</li>
+<li  class="tickets" id="footer_ticketlink">
+<a title="Tickets" href="http://www.swanseacity.net/tickets/" target="_blank" onClick="EventTracking('external link','click','header : Tickets');">Tickets</a>
+</li>
+
+<li  class="playerHD" id="footer_playerHDlink">
+<a title="PlayerHD" href="http://www.player.swanseacity.net/" target="_blank" onClick="EventTracking('external link','click','header : PlayerHD');">PlayerHD</a>
+</li>
+
+</ul>
+</div>
+</div>
+
+
+
+
+        <section id="content" class="home">
+ 
+
+       
+        <!-- Football_League_Interactive_UK_new/Football_League_1x1_web --><script type="text/javascript">  var ord = window.ord || Math.floor(Math.random() * 1e16);  document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6098/adj/Football_League_Interactive_UK_new/Football_League_1x1_web;sz=1x1;ord=' + ord + '?"><\/script>');</script><noscript><a href="http://ad.doubleclick.net/N6098/jump/Football_League_Interactive_UK_new/Football_League_1x1_web;sz=1x1;ord=888888?"><img src="http://ad.doubleclick.net/N6098/ad/Football_League_Interactive_UK_new/Football_League_1x1_web;sz=1x1;ord=888888?" width="1" height="1" /></a></noscript>
+         
+   <input type="hidden" id="objOrders_B08206F6-097F-4B25-B380-58A24FF4F7B6" value="6264dbdd-280b-4e9d-9f23-3814e0c15caa"  name="objOrders_B08206F6-097F-4B25-B380-58A24FF4F7B6"  />
+   
+
+<section id="news_article" class="block col8 gutter" data-url="/json/news/article/2948118">
+	<div class="clearfix">
+	<div class="content">
+		<div class="news_topic">
+			<h3></h3>
+			<p class="news_date"></p>
+		</div>
+		<div class="news_share">
+			<div class="fb_logo"><a href="" target="_blank"><img src="/images/common/facebook_logo.png" alt="fb_logo"/></a></div>
+			<div class="twitter_logo"><a href="" target="_blank"><img src="/images/common/twitter_logo.png" alt="twitter_logo"/></a></div>	
+		</div>
+		 <div class="photo_gallery_slider_img slide myCarouselStyle" id="myCarousel" style="display: block;">
+            <!-- slider poc-->
+            <div class="scrollable">
+                <div class="items">
+
+                </div>
+            </div>
+            <!-- "next page" action -->
+            <!-- slider poc-->
+
+         </div>
+		<article class="news_subpart">
+			<p class="news_subheading"></p>
+			<p class="news_normal"></p>
+		</article>
+        <input type="hidden" id="VidoeEnable" value="" title="VidoeEnable" />
+		<div id="windowTitleDialog" class="modal hide fade" tabindex="-1" role="dialog" aria-hidden="true">
+
+		<div class="modal-body">
+		<div id="divDialogElements">
+		<img title="Lead image" id="Lead_img" alt="Lead image" src="" />
+		</div>
+		</div>
+		<div class="modal-footer">
+		<a href="#" class="btn" ><img alt="close" title="close" src="/images/mobile/BlackBG/ClosePopup.png"/> </a>
+
+		</div>
+		</div>
+
+	</div>        
+		</div>			
+</section>       
+    
+
+       
+        
+<section id="all_news_landing" style="float: left;width: 100%;" >
+	<div class="clearfix">
+		<div class="content">
+        <div class="news_head">
+        <span class="news_title">Related Articles</span>
+        <span id="news_cursor"></span>
+</div>	
+<input type="hidden" title="news_value" value="5" id="news_value" >
+<input type="hidden" id="MatchReport" value="Match Report" title="Match Report" />
+<input type="hidden" id="MatchPreview" value="Match Preview" title="Match Preview" />
+<div class="video_panel" style="width: 100%; display: none;">
+<iframe height="358" frameborder="0" width="90%"  src="" allowfullscreen=""></iframe>
+<a id="close_iframe" class="cta" href="javascript:void(0);" title="Close"></a>
+
+</div>			
+		<div class="landing_news clearfix">			
+               
+                <div class="news_all" id="news_json" data-url=/json/news/listing/related/#/5/2948118>
+              
+                </div>
+                </div>
+				
+			<input type="hidden" value="1" id="news_pagination_count"/>
+			<input type="hidden" value="" id="updated_pagination_count"/>
+
+			<div class="news_more">
+       <a class="get_news" href="javascript:void(0)" onclick="EventTracking('page-link','click','Related News:Load More');"> <span class="more_title">More</span><br> <img title="More" alt="More" id="more_news_arrow" src="/images/mobile/BlackBG/down_arrow.png"></a>
+       </div>	
+                
+           </div>     
+		</div>
+	
+</section>       
+    
+
+
+</section>
+
+<script src="/js/combinedbottom.js"></script>
+
+  <footer class="clearfix">
+ 
+
+<script src='http://assets-fli.streamamg.com/_resx_201601201327/js/iframe.js'></script>
+<div id="club-sublink">
+  <div class="container">
+    <ul>
+      <li>
+        <ul>
+          <li class="footer_links footer_alternate_bg">
+            <a href="/news/" title="All News" onClick="javascript:EventTracking('page-link','click','footer : All News');">All News</a>
+          </li>
+          <li class="footer_nav footer_alternate_bg">
+            <a href="/news/" onClick="javascript:EventTracking('page-link','click','footer : All News');">
+              <img alt="navigation_arrow" title="navigation_arrow" width="10" height="18" src="/images/mobile/BlackBG/footer_navigation_arrow.png">
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul>
+          <li class="footer_links">
+            <a href="http://wall.swanseacity.net/Event/Swans_Wall" title="Swans Wall" onClick="javascript:EventTracking('external link','click','footer : Swans Wall');">Swans Wall</a>
+          </li>
+          <li class="footer_nav">
+            <a href="http://wall.swanseacity.net/Event/Swans_Wall" onClick="javascript:EventTracking('external link','click','footer : Swans Wall');">
+              <img alt="navigation_arrow" title="navigation_arrow" width="10" height="18" src="/images/mobile/BlackBG/footer_navigation_arrow.png">
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul>
+          <li class="footer_links footer_alternate_bg">
+            <a href="/photo-galleries/" title="Photo Galleries" onClick="javascript:EventTracking('page-link','click','footer : Photo Galleries');">Photo Galleries</a>
+          </li>
+          <li class="footer_nav footer_alternate_bg">
+            <a href="/photo-galleries/" onClick="javascript:EventTracking('page-link','click','footer : Photo Galleries');">
+              <img alt="navigation_arrow" title="navigation_arrow" width="10" height="18" src="/images/mobile/BlackBG/footer_navigation_arrow.png">
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul>
+          <li class="footer_links">
+            <a href="/fixtures/" title="Fixtures" onClick="javascript:EventTracking('page-link','click','footer : Fixtures');">Fixtures</a>
+          </li>
+          <li class="footer_nav">
+            <a href="/fixtures/" onClick="javascript:EventTracking('page-link','click','footer : Fixtures');">
+              <img alt="navigation_arrow" title="navigation_arrow" width="10" height="18" src="/images/mobile/BlackBG/footer_navigation_arrow.png">
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul>
+          <li class="footer_links footer_alternate_bg">
+            <a href="/results/" title="Results" onClick="javascript:EventTracking('page-link','click','footer : Results');">Results</a>
+          </li>
+          <li class="footer_nav footer_alternate_bg">
+            <a href="/results/" onClick="javascript:EventTracking('page-link','click','footer : Results');">
+              <img alt="navigation_arrow" title="navigation_arrow" width="10" height="18" src="/images/mobile/BlackBG/footer_navigation_arrow.png">
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul>
+          <li class="footer_links">
+            <a href="/league-table/" title="League Table" onClick="javascript:EventTracking('page-link','click','footer : League Table');">League Table</a>
+          </li>
+          <li class="footer_nav">
+            <a href="/league-table/" onClick="javascript:EventTracking('page-link','click','footer : League Table');">
+              <img alt="navigation_arrow" title="navigation_arrow" width="10" height="18" src="/images/mobile/BlackBG/footer_navigation_arrow.png">
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <ul>
+          <li class="footer_links footer_alternate_bg">
+            <a href="http://www.player.swanseacity.net/" title="Swans PlayerHD" onClick="javascript:EventTracking('external link','click','footer : Swans PlayerHD');" target="_blank">Swans PlayerHD</a>
+          </li>
+          <li class="footer_nav footer_alternate_bg">
+            <a href="http://www.player.swanseacity.net/" onClick="javascript:EventTracking('external link','click','footer : Swans PlayerHD');" target="_blank">
+              <img alt="navigation_arrow" title="navigation_arrow" width="10" height="18" src="/images/mobile/BlackBG/footer_navigation_arrow.png">
+            </a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+ 
+<!--
+<section id="bottom_banner">
+ 
+</section>
+ -->
+
+
+
+<div id="footer-links">
+<div class="container">
+
+<ul>
+
+<li id="footer_subscribetonewsletter"><a onClick="EventTracking('page link','click','footer : Newsletter Subscribe');" title="Subscribe to Newsletter" href="/news/subscribe/newslettersubscription.aspx">Subscribe to Newsletter</a></li>
+		
+<li id="footer_switchtodesktop">
+
+<a title=".swanseacity.net" href="http://www.swanseacity.net//news/article/south-korean-ki-sung-yueng-swansea-city-southampton-liberty-2948118.aspx?site=desktop" style="height: 20px;">Switch to Desktop Version</a>
+
+</li>
+<li id="footer_termofuse"><a onClick="EventTracking('page link','click','footer : terms of use');" title="Terms of Use" href="/global/term-of-use.aspx">Terms of Use</a></li>
+<li id="footer_privacystatement"><a   onClick="EventTracking('page link','click','footer : privacy statement');" title="Privacy Policy" href="/global/privacy-policy.aspx">Privacy Policy</a></li>
+<li><a onClick="EventTracking('page link','click','footer : sitemap');" title="SiteMap" href="/Htmlsitemap.aspx">SiteMap</a></li>
+<li id="footer_reportabuse"><span>&copy;2014 FLi&nbsp;|&nbsp;</span><a title="Make a Report to the CEOP" href="http://ceop.police.uk/"  onClick="EventTracking('external link','click','footer : report abuse');" rel="nofollow" >Make a Report to the CEOP</a></li>
+</ul>
+</div>
+    
+</div>    
+
+</footer>
+    </div>
+    <!-- end of #container -->
+<!--
+<script src="/js/libs/jquery-1.7.js"></script>
+<script src="/js/responsive/bootstrap-modal.js"></script>
+<script src="/js/responsive/fli.dallas.js"></script>
+<script src="/js/uaMobileTracking.js"></script>
+<script src="/js/gaMobileTracking.js"></script>
+<script src="/js/responsive/scrollable.js"></script>
+<script src="/js/responsive/scrollable.autoscroll.js"></script>
+<script src="/js/responsive/scrollable.navigator.js"></script>
+-->
+
+<script>
+$(window).bind("load", function() {setTimeout(function(){!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs"); var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src='http://platform.instagram.com/en_US/embeds.js';document.body.appendChild(s);}, 500);});
+</script>
+
+<script language="javascript" type="text/javascript">
+var orderIds = "";
+		  $("input[id^=" + "objOrders_" + "]").each(
+		  function(){
+			if($(this).val().length >0)
+				{ orderIds+= $(this).val() +",";}
+		  });
+		  
+		  if(!(orderIds == null || orderIds == undefined || orderIds.length <= 1))
+			{ orderIds =orderIds.substring(0,orderIds.length-1);
+				SendOrderIds(orderIds);
+			}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,864 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Black Thought & Royce Da 5'9 Record With !llmind</title>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYGVVFQCxAHUVBXAgEG"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function s(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);return i}function c(t,e){d[t]=f(t).concat(e)}function f(t){return d[t]||[]}function u(){return r(s)}var d={};return{on:c,emit:s,create:u,listeners:f,context:e,_events:d}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:25,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:26,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").create(),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:27,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:27,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:27,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:27,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,l,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-",o)}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:27,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=this.lastSize||n(t);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t){var e=t.responseType,n="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return r(n)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=0,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:16,4:12,5:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:25,2:26,handle:"D5DuLP"}],16:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var h=0},{1:25,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],25:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],26:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],27:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:26,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+<meta name="robots" content="index,follow,noodp">
+<meta itemprop="url" content="http://hiphopdx.com/news/id.37428/title.llmind-hits-the-studio-with-black-thought-royce-da-59">
+<link rel="canonical" href="http://hiphopdx.com/news/id.37428/title.llmind-hits-the-studio-with-black-thought-royce-da-59">
+<meta data-platform-id="10beta4"/>
+<meta data-post-id="231041">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="author" content="HipHopDX"/>
+<meta name="description" content="Producer !llmind conducts a studio session featuring Black Thought of The Roots and Royce Da 5'9. "/>
+<meta name="keywords" content="rap,hip hop,rap music,r&b,rap music videos,hiphop,rap video girls,hip hop girls,hip hop videos,hip hop news,hip hop music,hip-hop,hip hop video girls,rap news,r&b music,music video girls,hiphop news,rap girls,rap videos,hiphop mix cds,hip hop mixtape,rap beefs,hip hop cd reviews,hiphop music,hip-hop music"/>
+<meta name="DC.creator" content="HipHopDX - http://hiphopdx.com"/>
+<meta name="DC.subject" content="Producer !llmind conducts a studio session featuring Black Thought of The Roots and Royce Da 5'9. "/>
+<meta name="DC.date.issued" content="2016-02-10">
+<link rel="canonical" href="http://hiphopdx.com/news/id.37428/title.llmind-hits-the-studio-with-black-thought-royce-da-59">
+<meta name="tweetmeme-title" content="!llmind Hits The Studio With Black Thought &amp; Royce Da 5&#039;9"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:title" content="!llmind Hits The Studio With Black Thought &amp; Royce Da 5&#039;9"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="/news/id.37428/title.llmind-hits-the-studio-with-black-thought-royce-da-59"/>
+<meta property="og:image" content="https://s3.amazonaws.com/hiphopdx-production/2016/02/illmind-Royce-Da-59-Black-Thought-Studio-1-150x150.jpg"/>
+<meta property="og:site_name" content="HipHopDX"/>
+<meta property="article:publisher" content="https://www.facebook.com/HipHopDX"/>
+<meta property="og:description" content="The platinum-selling producer understandably called the encounter &quot;an honor.&quot;"/>
+<meta property="fb:app_id" content="295838568104"/>
+<meta name="twitter:widgets:csp" content="on">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@hiphopdx">
+<meta name="twitter:title" content="!llmind Hits The Studio With Black Thought &amp; Royce Da 5&#039;9">
+<meta name="twitter:description" content="The platinum-selling producer understandably called the encounter &quot;an honor.&quot;">
+<meta name="twitter:image" content="https://s3.amazonaws.com/hiphopdx-production/2016/02/illmind-Royce-Da-59-Black-Thought-Studio-1-150x150.jpg"/>
+ 
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic|Oswald:300,400,700" type="text/css"/>
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css">
+<link rel="stylesheet" href="/_/c/storm.css?111320151" type="text/css"/>
+ 
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="icon" sizes="192x192" href="/touch-icon-192x192.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png">
+ 
+<script type='text/javascript'>
+                   cmnunt_site    = 'cmn_hiphopdx';
+                   cmnunt_silo    = 's_mus';
+           cmnunt_subsilo = '';
+           cmnunt_tier    = 't2,to,internal';
+           cmnunt_zone    = 'news_post';
+           cmnunt_kw      = '';
+           cmnunt_exclude = 'ugc';
+           cmn_tb_theme   = 'dark';
+        </script>
+<script type='text/javascript' src='http://cdn.complexmedianetwork.com/js/cmnUNT.js'></script>
+<script type="text/javascript" src="//native.sharethrough.com/assets/sfp.js"></script>
+<script type="text/javascript">
+      googletag.cmd.push(function() {
+         googletag.defineSlot('/1010625/DXSharethrough_Midfeed', [5, 5], 'div-gpt-ad-1433624734530-0').addService(googletag.pubads()).setTargeting('strnativekey','fdb12fff');
+        googletag.defineSlot('/1010625/DXMobile_Bottomfeed', [5, 5], 'div-gpt-ad-1433624734530-1').addService(googletag.pubads()).setTargeting('strnativekey','51b5dae2');
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });
+    </script>
+<script type="text/javascript">
+          googletag.cmd.push(function() {
+            googletag.defineSlot('/1010625/DXMobile_Belowarticle', [5, 5], 'div-gpt-ad-1433624734530-2').addService(googletag.pubads()).setTargeting('strnativekey','78b5c8ee');
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+
+        });
+    </script>
+ 
+<script type="text/javascript">
+      var _qevents = _qevents || [];
+      (function() {
+       var elem = document.createElement('script');
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge")
+                   + ".quantserve.com/quant.js";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem, scpt);
+      })();
+    </script>
+ 
+<script type="text/javascript">
+        var _sf_async_config = _sf_async_config || {};
+        _sf_async_config.uid = 10593;
+        _sf_async_config.domain = 'hiphopdx.com';
+        _sf_async_config.path = window.location.pathname;
+        _sf_startpt = (new Date()).getTime();
+    </script>
+<script src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+<script>
+
+    var dataLayer = window.dataLayer = window.dataLayer || [];
+
+    dataLayer.push({
+        'datePublished': 'February 10th 2016',
+        'yearPublished': '2016',
+        'monthPublished': 'February',
+        'author': 'Trent Clark',
+        'siteCategory': 'news'
+                    });
+
+    </script>
+ 
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript">GS_googleAddAdSenseService("ca-pub-1598907917871807");GS_googleEnableAllServices();</script>
+<script type="text/javascript">
+        GA_googleAddSlot("ca-pub-1598907917871807", "hhdx_hp_top_398x55");
+        GA_googleAddSlot("ca-pub-1598907917871807", "DX_Nav_Skin_961x200");
+    </script>
+<script type="text/javascript">GA_googleFetchAds();</script>
+</head>
+<body>
+ 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NHF7DV" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-NHF7DV');</script>
+<!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+<div id="cmn_wrap">
+<div class="container">
+<div class="ad header-ad">
+<div class="ad-inner">
+ 
+<div id="cmn_ad_tag_head" class="fw_hiphopdx">
+<script type="text/javascript">cmnUNT('3x3', tile_num++);</script>
+</div>
+ 
+</div>
+</div> 
+<header class="header site-chrome">
+<div class="top">
+<a class="nav-link mobile">
+<div style="width: 25px; height: 30px;">
+<div id="nav-icon">
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+</div>
+</div>
+</a>
+<div class="logo">
+<a href="/">
+<img src="/_/i/logo-white.svg" alt="HipHopDX"/ class="mobile">
+                <img src="/_/i/logo-black.svg" alt="HipHopDX" class="desktop"/>
+            </a>
+        </div>
+
+        <div class="social-counts desktop">
+
+            <a href="https://www.facebook.com/HipHopDX">
+                <i class="fa fa-facebook"></i>1.4M            </a>
+
+            <a href="https://twitter.com/hiphopdx">
+                <i class="fa fa-twitter"></i>421K            </a>
+
+            <a href="https://instagram.com/hiphopdx">
+                <i class="fa fa-instagram"></i>63.5K            </a>
+
+            <a href="https://www.youtube.com/user/HipHopDX">
+                <i class="fa fa-youtube-play"></i>38.8K            </a>
+        </div>
+
+                <span id="header-avatar" data-user-name="" data-user-email=""></span>
+        
+        <div id="search-trigger" class="search-trigger desktop">
+            <i class="fa fa-search"></i>
+        </div>
+
+    </div>
+
+    <form method="GET" action="/search" class="search-box">
+        <input class="search-field" name="q" type="text" placeholder="Search" />
+        <button class="search-submit" type="submit" name="submit">
+            <i class="fa fa-search"></i>
+        </button>
+    </form>
+
+    <nav class="main-nav-mobile">
+        <ul>
+            <li class="">
+                <a href="/"><i class="fa fa-home"></i><span class="label">Home</span></a>
+            </li>
+            <li class="active">
+                <a href="/news"><i class="fa fa-newspaper-o"></i><span class="label">News</span></a>
+            </li>
+            <li class="">
+                <a href="/singles"><i class="fa fa-headphones"></i><span class="label">Singles</span></a>
+            </li>
+            <li class="">
+                <a href="/videos"><i class="fa fa-youtube-play"></i><span class="label">Videos</span></a>
+            </li>
+            <li class="">
+                <a href="/reviews" class="review-icon"><i class="dfa dfa-review-record"></i><span class="label">Reviews</span></a>
+            </li>
+            <li class="">
+                <a href="/interviews"><i class="fa fa-quote-left"></i><span class="label">Interviews</span></a>
+            </li>
+            <li class="">
+                <a href="/editorials"><i class="fa fa-book"></i><span class="label">Editorials</span></a>
+            </li>
+            <li class="">
+                <a href="/release-dates?year=2016&amp;month=02"><i class="fa fa-calendar"></i><span class="label">Releases</span></a>
+            </li>
+            <li class="">
+                <a href="/tickets"><i class="fa fa-ticket"></i><span class="label">Tickets</span></a>
+            </li>
+        </ul>
+    </nav>
+
+    <nav class="main-nav-desktop desktop">
+    <ul>
+    <li class=""><a href="/">Home</a></li>
+    <li class="active"><a href="/news/">News</a></li>
+    <li class=""><a href="/singles/">Singles</a></li>
+    <li class=""><a href="/videos/">Videos</a></li>
+    <li class=""><a href="/reviews/">Reviews</a></li>
+    <li class=""><a href="/interviews/">Interviews</a></li>
+    <li class=""><a href="/editorials/">Editorials</a></li>
+    <li class=""><a href="/release-dates/">Releases</a></li>
+    <li class=""><a href="/tickets/">Tickets</a></li>
+    </ul>
+    </nav>
+
+    
+    <nav class="secondary-nav mobile">
+        <ul>
+            <li class="active"><a href="/news">News</a></li>
+            <li class=""><a href="/singles">Singles</a></li>
+            <li class=""><a href="/videos">Videos</a></li>
+            <li class=""><a href="/editorials">Editorials</a></li>
+            <li class="nav-link-mobile"><a href="#">More</a></li>
+        </ul>
+    </nav>
+</header>
+
+
+<div class="content with-sidebars">
+
+
+
+<div id="article-header" class="article-header" data-post-id="231041" data-item-type="" data-item-rateable="" data-item-image="https://s3.amazonaws.com/hiphopdx-production/2016/02/illmind-Royce-Da-59-Black-Thought-Studio-1-150x150.jpg" data-item-title="!llmind Hits The Studio With Black Thought &amp; Royce Da 5&#039;9">
+
+    <div class="title">
+            <h1>!llmind Hits The Studio With Black Thought & Royce Da 5'9</h1>
+    </div>
+
+    <div class="date" itemprop="datePublished" content="2016-02-10 17:49:32">
+        February 10, 2016 | 5:49 PM    </div>
+
+
+    <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <meta itemprop="name" content="Trent Clark" />
+        by <a href="/author/trent.clark">Trent Clark</a>
+    </div>
+
+        <div class="image small">
+
+
+        <img src="https://s3.amazonaws.com/hiphopdx-production/2016/02/illmind-Royce-Da-59-Black-Thought-Studio-1.jpg" alt="!llmind Hits The Studio With Black Thought &amp; Royce Da 5&#039;9" class="large" />
+
+        
+            </div>
+
+    
+
+
+    
+    
+    <div class="sharing image-square">
+        <div class="facebook share-item" data-link="http://www.facebook.com/dialog/feed?app_id=295838568104&picture=https://s3.amazonaws.com/hiphopdx-production/2016/02/illmind-Royce-Da-59-Black-Thought-Studio-1-150x150.jpg&display=page&link=http://hiphopdx.com/news/id.37428/title.llmind-hits-the-studio-with-black-thought-royce-da-59&redirect_uri=http://hiphopdx.com/news/id.37428/title.llmind-hits-the-studio-with-black-thought-royce-da-59&name=!llmind Hits The Studio With Black Thought &amp; Royce Da 5&#039;9&caption=The platinum-selling producer understandably called the encounter &quot;an honor.&quot;">
+            <i class="fa fa-facebook" data-link="http://www.facebook.com/dialog/feed?app_id=295838568104&picture=https://s3.amazonaws.com/hiphopdx-production/2016/02/illmind-Royce-Da-59-Black-Thought-Studio-1-150x150.jpg&display=page&link=http://hiphopdx.com/news/id.37428/title.llmind-hits-the-studio-with-black-thought-royce-da-59&redirect_uri=http://hiphopdx.com/news/id.37428/title.llmind-hits-the-studio-with-black-thought-royce-da-59&name=!llmind Hits The Studio With Black Thought &amp; Royce Da 5&#039;9&caption=The platinum-selling producer understandably called the encounter &quot;an honor.&quot;"></i>
+        </div>
+        <div class="twitter share-item" data-link="https://twitter.com/intent/tweet?text=!llmind Hits The Studio With Black Thought &amp; Royce Da 5&#039;9 -- http://hiphopdx.com/news/id.37428/title.llmind-hits-the-studio-with-black-thought-royce-da-59&via=hiphopdx">
+            <i class="fa fa-twitter" data-link="https://twitter.com/intent/tweet?text=!llmind Hits The Studio With Black Thought &amp; Royce Da 5&#039;9 -- http://hiphopdx.com/news/id.37428/title.llmind-hits-the-studio-with-black-thought-royce-da-59&via=hiphopdx"></i>
+        </div>
+        <div class="email share-item" data-link="mailto:?subject=!llmind Hits The Studio With Black Thought &amp; Royce Da 5&#039;9&body=http://hiphopdx.com/news/id.37428/title.llmind-hits-the-studio-with-black-thought-royce-da-59">
+            <i class="fa fa-envelope-o" data-link="mailto:?subject=!llmind Hits The Studio With Black Thought &amp; Royce Da 5&#039;9&body=http://hiphopdx.com/news/id.37428/title.llmind-hits-the-studio-with-black-thought-royce-da-59"></i>
+        </div>
+        <div class="community">
+
+        <a href="#comment-widget">
+            <i class="fa fa-comment"></i>
+            <b class="comment-count comments-5" id="comment-num-top">5</b>
+        </a>
+
+        </div>
+    </div>
+</div>
+
+<div class="article-body article-news">
+    <!-- <h3 class="summary" itemprop="description">The platinum-selling producer understandably called the encounter "an honor."</h3> -->
+    <div class="body-copy " itemprop="articleBody">
+        <p>On Monday night (February 8) in The City That Never Sleeps, two lyrical titans occupied the same recording studio for what may turn out to be a monumental event. </p>
+<p>!llmind took to his Facebook page to share photos of a studio session he conducted with Black Thought of the Legendary Roots Crew and Royce Da 5'9.</p>
+<p>"Last night I had a session with [two] of the best to ever do it," the NYC beatsmith exclaimed. "Royce Da 5'9 and Black Thought from the Roots. Honored to say the least. Always a pleasure working with Royce. Black Thought just has an energy to him. Amazing person and just so damn good at what he does. They're both pros at the top of their game. Inspiring to just be around them. We're cooking something special and I can't wait for the world to hear it."</p>
+<p>The two revered rappers recently collaborated on the song "Wishin' II," which is featured on the <a href="http://hiphopdx.com/reviews/id.2604/title.prhyme-prhyme-reissue" target="_blank">PRhyme deluxe reissue album</a>. </p>
+<p>!llmind has been particularly busy on the musically front himself. Following his executive role on <a href="http://hiphopdx.com/reviews/id.2619/title.hoodie-allen-happy-camper" target="_blank">Hoodie Allen's latest album</a>, he recently announced his upcoming EP, <em><a href="http://illmindproducer.com/pages/four-three-two" target="_blank">Four Three Two</a></em>, a disco-inspired project that utilizes the instruments and sounds that were prevelant through much of popular 70s music. </p>
+<p>"[Two] years ago, I rented a bunch of vintage synthesizers," he said,  While in the studio, I was inspired and decided to create some disco inspired music. My parents used to have all this disco vinyl and I was always into that funk. That tempo. I sat on the project for 2 years and now it's time to unleash it. The EP is called <em>Four Three Two</em> and it's coming out on 2/19/16 via my imprint Roseville Music Group. I'm really proud of this piece of art. Think <a href="http://www.dailymail.co.uk/news/article-2263800/The-crazy-antics-Studio-54-revealed--pictures-just-stars-got-legendary-New-York-nightclub.html" target="_blank">Studio 54 1979</a>. Being free. Living free. That cocaine audio. With the !llmind twist."</p>
+<p>Photos of Black Thought and Nickel Nine's perceivably explosion session as well as <em>Four Three Two's</em> album trailer can be found below. </p>
+<p><figure class="alignnone"><a href="https://s3.amazonaws.com/hiphopdx-production/2016/02/illmind-Royce-Da-59-Black-Thought-Studio-2.jpg"><img src="https://s3.amazonaws.com/hiphopdx-production/2016/02/illmind-Royce-Da-59-Black-Thought-Studio-2.jpg" alt="illmind Royce Da 59 Black Thought Studio 2" width="640" height="427" class="alignnone size-full wp-image-231143" /></a><figcaption title="" id="attachment_231143"></figcaption></figure> </p>
+<p><figure class="alignnone"><a href="https://s3.amazonaws.com/hiphopdx-production/2016/02/illmind-Royce-Da-59-Black-Thought-Studio-3.jpg"><img src="https://s3.amazonaws.com/hiphopdx-production/2016/02/illmind-Royce-Da-59-Black-Thought-Studio-3.jpg" alt="illmind Royce Da 59 Black Thought Studio 3" width="640" height="343" class="alignnone size-large wp-image-231144" /></a><figcaption title="" id="attachment_231144"></figcaption></figure> </p>
+<p><figure class="alignnone"><a href="https://s3.amazonaws.com/hiphopdx-production/2016/02/illmind-Royce-Da-59-Black-Thought-Studio-4.jpg"><img src="https://s3.amazonaws.com/hiphopdx-production/2016/02/illmind-Royce-Da-59-Black-Thought-Studio-4.jpg" alt="illmind Royce Da 59 Black Thought Studio 4" width="640" height="427" class="alignnone size-large wp-image-231145" /></a><figcaption title="" id="attachment_231145"></figcaption></figure> </p>
+<p><figure class="alignnone"><a href="https://s3.amazonaws.com/hiphopdx-production/2016/02/illmind-Royce-Da-59-Black-Thought-Studio-5.jpg"><img src="https://s3.amazonaws.com/hiphopdx-production/2016/02/illmind-Royce-Da-59-Black-Thought-Studio-5.jpg" alt="illmind Royce Da 59 Black Thought Studio 5" width="640" height="640" class="alignnone size-full wp-image-231148" /></a><figcaption title="" id="attachment_231148"></figcaption></figure> </p>
+<p><iframe width="459" height="344" src="https://www.youtube.com/embed/hu9AdAuDeN4?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+    </div>
+</div>
+
+
+<div class="newsletter-signup">
+
+    <h3>Sign up for <span>The Daily Drop</span></h3>
+
+    <div id="newsletter-signup-form">
+        <div id="newsletter-form">
+        </div>
+    </div>
+
+    <div id="newsletter-success" class="card thanks">
+        <p>Thank you, thank you, thank you,<br/>you're far too kind!</p>
+    </div>
+
+    <div class="loading" id="newsletter-loading">
+        <i class="fa fa-refresh fa-spin"></i> Joining Newsletter
+    </div>
+</div>
+
+<script type="text/javascript">cmnUNT('100x100', tile_num++);</script>
+
+
+<div class="desktop">
+<div class="box-list small desktop">
+
+    <div class="section-header item-header desktop">
+    <div class="title">
+        <h2>More <span>news</span> on HipHopDX <span></span></h2>
+    </div>
+</div>
+
+                <div class="story">
+            <a href="/news/id.37538/title.young-thugs-dream-wedding-includes-bob-marley-kanye-west-ox-tails">
+                <img data-layzr="https://s3.amazonaws.com/hiphopdx-production/2016/02/young_thug_longread-e1455758800470-150x150.jpg" itemprop="thumbnailUrl" src="/_/i/blank150.png"/>
+            </a>
+            <p class="title">
+                <a href="/news/id.37538/title.young-thugs-dream-wedding-includes-bob-marley-kanye-west-ox-tails">
+                Young Thug's Dream Wedding Includes Bob Marley, Kanye West & Ox Tails                </a>
+            </p>
+        </div><!-- /.story -->
+                <div class="story">
+            <a href="/news/id.37537/title.justin-timberlake-will-i-am-sued-over-damn-girl">
+                <img data-layzr="https://s3.amazonaws.com/hiphopdx-production/2016/02/justin-timberlake-will.i.am_-e1455756145909-150x150.jpg" itemprop="thumbnailUrl" src="/_/i/blank150.png"/>
+            </a>
+            <p class="title">
+                <a href="/news/id.37537/title.justin-timberlake-will-i-am-sued-over-damn-girl">
+                Justin Timberlake & will.i.am Sued Over "Damn Girl"                </a>
+            </p>
+        </div><!-- /.story -->
+                <div class="story">
+            <a href="/news/id.37536/title.aesop-rock-announces-the-impossible-kid-album">
+                <img data-layzr="https://s3.amazonaws.com/hiphopdx-production/2016/02/Aesop-Rock-e1455752067886-150x150.jpg" itemprop="thumbnailUrl" src="/_/i/blank150.png"/>
+            </a>
+            <p class="title">
+                <a href="/news/id.37536/title.aesop-rock-announces-the-impossible-kid-album">
+                Aesop Rock Announces "The Impossible Kid" Album                </a>
+            </p>
+        </div><!-- /.story -->
+                <div class="story">
+            <a href="/news/id.37535/title.bobby-shmurda-never-heard-from-martin-shkreli">
+                <img data-layzr="https://s3.amazonaws.com/hiphopdx-production/2015/05/1409260459_bobby_shmurda_29-150x150.jpg" itemprop="thumbnailUrl" src="/_/i/blank150.png"/>
+            </a>
+            <p class="title">
+                <a href="/news/id.37535/title.bobby-shmurda-never-heard-from-martin-shkreli">
+                Bobby Shmurda Claims He Never Heard From Martin Shkreli                </a>
+            </p>
+        </div><!-- /.story -->
+                <div class="story">
+            <a href="/news/id.37534/title.beyonce-adds-new-dates-to-the-formation-world-tour-following-huge-global-demand">
+                <img data-layzr="https://s3.amazonaws.com/hiphopdx-production/2016/02/beyonce-121313-e1455745784817-150x150.jpg" itemprop="thumbnailUrl" src="/_/i/blank150.png"/>
+            </a>
+            <p class="title">
+                <a href="/news/id.37534/title.beyonce-adds-new-dates-to-the-formation-world-tour-following-huge-global-demand">
+                Beyoncé Adds New Dates To “The Formation World Tour” Following Huge Global Demand                </a>
+            </p>
+        </div><!-- /.story -->
+        </div>
+</div>
+
+<div class="mobile">
+<div class="related-items">
+    <h3 class="trending-news-title">More <span>news</span> on HipHopDX</h3>
+
+    <div class="trending-news-wrapper">
+                            <div class="trending">
+            <div class="trending-image">
+                <a href="/news/id.37538/title.young-thugs-dream-wedding-includes-bob-marley-kanye-west-ox-tails">
+                    <img src="https://s3.amazonaws.com/hiphopdx-production/2016/02/young_thug_longread-e1455758800470-150x150.jpg" />
+                </a>
+            </div>
+            <div class="trending-title">
+                <a href="/news/id.37538/title.young-thugs-dream-wedding-includes-bob-marley-kanye-west-ox-tails">Young Thug's Dream Wedding Includes Bob Marley, Kanye West & Ox Tails</a>
+            </div>
+            <div class="trending-excerpt">
+                <p>
+                    Young Thug also talks fatherhood.                </p>
+            </div>
+
+            <div class="meta-container">
+                <div class="inner-meta">
+                <a href="/news/id.37538/title.young-thugs-dream-wedding-includes-bob-marley-kanye-west-ox-tails" class="listing-meta">
+                    <i class="fa fa-clock-o"></i> <time datetime="2016-02-18 02:00:31">4 hours ago</time>
+                </a>
+                                </div>
+            </div>
+        </div>
+                    <div id='div-gpt-ad-1433624734530-2' ></div>
+            <script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1433624734530-2'); });</script>
+                
+
+                        <div class="trending">
+            <div class="trending-image">
+                <a href="/news/id.37537/title.justin-timberlake-will-i-am-sued-over-damn-girl">
+                    <img src="https://s3.amazonaws.com/hiphopdx-production/2016/02/justin-timberlake-will.i.am_-e1455756145909-150x150.jpg" />
+                </a>
+            </div>
+            <div class="trending-title">
+                <a href="/news/id.37537/title.justin-timberlake-will-i-am-sued-over-damn-girl">Justin Timberlake & will.i.am Sued Over "Damn Girl"</a>
+            </div>
+            <div class="trending-excerpt">
+                <p>
+                    The suit says the song violates copyright infringement laws.                </p>
+            </div>
+
+            <div class="meta-container">
+                <div class="inner-meta">
+                <a href="/news/id.37537/title.justin-timberlake-will-i-am-sued-over-damn-girl" class="listing-meta">
+                    <i class="fa fa-clock-o"></i> <time datetime="2016-02-18 00:15:47">6 hours ago</time>
+                </a>
+                                    <span class="seperator">&nbsp; | &nbsp;</span>
+                                        <a href="/news/id.37537/title.justin-timberlake-will-i-am-sued-over-damn-girl" class="listing-meta">
+                         <i class="fa fa-comment-o "></i><span class="comment-number" itemprop="commentCount">2</span>
+                    </a>
+                                                    </div>
+            </div>
+        </div>
+                
+
+                        <div class="trending">
+            <div class="trending-image">
+                <a href="/news/id.37536/title.aesop-rock-announces-the-impossible-kid-album">
+                    <img src="https://s3.amazonaws.com/hiphopdx-production/2016/02/Aesop-Rock-e1455752067886-150x150.jpg" />
+                </a>
+            </div>
+            <div class="trending-title">
+                <a href="/news/id.37536/title.aesop-rock-announces-the-impossible-kid-album">Aesop Rock Announces "The Impossible Kid" Album</a>
+            </div>
+            <div class="trending-excerpt">
+                <p>
+                    This is the Rhymesayers rapper's first solo LP since 2012's "Skelethon."                </p>
+            </div>
+
+            <div class="meta-container">
+                <div class="inner-meta">
+                <a href="/news/id.37536/title.aesop-rock-announces-the-impossible-kid-album" class="listing-meta">
+                    <i class="fa fa-clock-o"></i> <time datetime="2016-02-17 23:30:35">7 hours ago</time>
+                </a>
+                                    <span class="seperator">&nbsp; | &nbsp;</span>
+                                        <a href="/news/id.37536/title.aesop-rock-announces-the-impossible-kid-album" class="listing-meta">
+                         <i class="fa fa-comment-o "></i><span class="comment-number" itemprop="commentCount">12</span>
+                    </a>
+                                                    </div>
+            </div>
+        </div>
+                
+
+                
+
+                
+
+        
+        </div><!-- trending-news-wrapper -->
+</div><!-- dx-trending-news -->
+</div>
+
+</div> <!-- content -->
+
+<div class="sidebars desktop">
+<div class="side-ad">
+    <script type="text/javascript">cmnUNT('300x250,300x600', tile_num++);</script>
+</div><!-- /.side-ad -->
+<div class="sidebar-box clearfix">
+
+    <h4>Breaking News</h4>
+
+        <ul class="list">
+                        <li><a href="/news/id.37538/title.young-thugs-dream-wedding-includes-bob-marley-kanye-west-ox-tails">Young Thug's Dream Wedding Includes Bob Marley, Kanye West & Ox Tails</a></li>
+                    <li><a href="/news/id.37537/title.justin-timberlake-will-i-am-sued-over-damn-girl">Justin Timberlake & will.i.am Sued Over "Damn Girl"</a></li>
+                    <li><a href="/news/id.37536/title.aesop-rock-announces-the-impossible-kid-album">Aesop Rock Announces "The Impossible Kid" Album</a></li>
+                    <li><a href="/news/id.37535/title.bobby-shmurda-never-heard-from-martin-shkreli">Bobby Shmurda Claims He Never Heard From Martin Shkreli</a></li>
+                    <li><a href="/news/id.37534/title.beyonce-adds-new-dates-to-the-formation-world-tour-following-huge-global-demand">Beyoncé Adds New Dates To “The Formation World Tour” Following Huge Global Demand</a></li>
+                </ul>
+    
+
+</div>
+<div class="sidebar-box clearfix">
+
+    <h4>Most Discussed News</h4>
+
+    
+
+<div class='sidebar-tabs tabs' id="most_discussed">
+
+    <ul class="explore-nav">
+            <li><a class="current" href="#" id="select_most_discussed_today" data-list-id="most_discussed" data-section-id="today">Today</a></li>
+            <li><a  href="#" id="select_most_discussed_week" data-list-id="most_discussed" data-section-id="week">This Week</a></li>
+            <li><a  href="#" id="select_most_discussed_month" data-list-id="most_discussed" data-section-id="month">This Month</a></li>
+        </ul>
+
+                        <ol id="most_discussed_today" class="list discussion ">
+                            <li>
+                                        <span>28</span>
+                                        <a href="/news/id.37526/title.kanye-west-fan-starts-gofundme-to-pay-for-rappers-53-million-debt">Kanye West Fan Starts GoFundMe To Pay For Rapper's $53 Million Debt</a>
+                </li>
+                            <li>
+                                        <span>20</span>
+                                        <a href="/news/id.37522/title.kim-kardashian-allegedly-cant-stand-kanye-wests-tweeting">Kim Kardashian Allegedly “Can’t Stand” Kanye West’s Tweeting</a>
+                </li>
+                            <li>
+                                        <span>19</span>
+                                        <a href="/news/id.37525/title.50-cent-blasts-creditors-for-attempting-to-put-him-in-indentured-servitude">50 Cent Blasts Creditors For Attempting To Put Him In "Indentured Servitude"</a>
+                </li>
+                            <li>
+                                        <span>18</span>
+                                        <a href="/news/id.37529/title.the-game-vows-to-invest-10-million-into-kanye-wests-ideas-if-he-goes-skydiving-in-dubai">The Game Vows To Invest $10 Million Into Kanye West’s “Ideas” If He Goes Skydiving In Dubai</a>
+                </li>
+                            <li>
+                                        <span>14</span>
+                                        <a href="/news/id.37528/title.future-is-fastest-rapper-to-three-1-albums-in-history">Future Is Fastest Rapper To Three #1 Albums In History</a>
+                </li>
+                            <li>
+                                        <span>14</span>
+                                        <a href="/news/id.37533/title.kylie-jenner-officially-signs-with-puma-against-kanye-wests-wishes">Kylie Jenner Officially Signs With Puma Against Kanye West's Wishes</a>
+                </li>
+                            <li>
+                                        <span>13</span>
+                                        <a href="/news/id.37482/title.french-montana-to-release-new-mixtape-on-dj-khaleds-we-the-best-radio">French Montana Announces "Wave Gods" Mixtape</a>
+                </li>
+                            <li>
+                                        <span>12</span>
+                                        <a href="/news/id.37536/title.aesop-rock-announces-the-impossible-kid-album">Aesop Rock Announces "The Impossible Kid" Album</a>
+                </li>
+                            <li>
+                                        <span>11</span>
+                                        <a href="/news/id.37524/title.waka-flocka-flame-defends-dj-whoo-kid-following-meek-mill-threat">Waka Flocka Flame Defends DJ Whoo Kid Following Meek Mill Threat</a>
+                </li>
+                            <li>
+                                        <span>10</span>
+                                        <a href="/news/id.37523/title.russell-simmons-backs-negative-calorie-celsius-beverage">Russell Simmons Invests In Celsius Negative Calorie Beverage</a>
+                </li>
+                        </ol>
+                                <ol id="most_discussed_week" class="list discussion hidden">
+                            <li>
+                                        <span>299</span>
+                                        <a href="/news/id.37405/title.kanye-west-announces-contest-for-fans-to-guess-album-title">Kanye West Says "The Life Of Pablo" Will Not Be Available For Sale</a>
+                </li>
+                            <li>
+                                        <span>84</span>
+                                        <a href="/news/id.36724/title.lupe-fiasco-planning-to-release-3-albums-in-2016">Lupe Fiasco Releases New "DROGAS" Cover Art</a>
+                </li>
+                            <li>
+                                        <span>73</span>
+                                        <a href="/news/id.37456/title.martin-shkreli-offers-to-buy-kanye-wests-the-life-of-pablo-for-10-million">Martin Shkreli Increases Offer To Buy Kanye West’s “The Life Of Pablo” To $15 Million</a>
+                </li>
+                            <li>
+                                        <span>63</span>
+                                        <a href="/news/id.37499/title.the-58th-annual-grammy-winners-announced">Kendrick Lamar Takes Home Five Grammy Awards</a>
+                </li>
+                            <li>
+                                        <span>62</span>
+                                        <a href="/news/id.37478/title.tory-lanez-on-drake-drake-could-diss-me-20000-times-i-would-never-diss-him">Tory Lanez Addresses Drake's "Summer Sixteen" Diss</a>
+                </li>
+                            <li>
+                                        <span>51</span>
+                                        <a href="/news/id.37496/title.jay-electronica-to-50-cent-dont-make-me-expose-you-as-a-coward">Jay Electronica To 50 Cent: “Don’t Make Me Expose You As A Coward"</a>
+                </li>
+                            <li>
+                                        <span>49</span>
+                                        <a href="/news/id.37449/title.rally-to-protest-beyonces-super-bowl-50-performance">Rally To Be Held To Protest Beyonce's Super Bowl 50 Performance</a>
+                </li>
+                            <li>
+                                        <span>42</span>
+                                        <a href="/news/id.34967/title.the-game-sued-for-10-million-by-reality-show-contestant">The Game Files New Court Documents In $10 Million Lawsuit</a>
+                </li>
+                            <li>
+                                        <span>41</span>
+                                        <a href="/news/id.36752/title.young-thug-announces-slime-season-3">Young Thug Reveals "Slime Season 3" Cover Art</a>
+                </li>
+                            <li>
+                                        <span>41</span>
+                                        <a href="/news/id.37480/title.killer-mike-offers-message-to-white-people-during-real-time-appearance">Killer Mike Offers Message To “White People,” During “Real Time” Appearance</a>
+                </li>
+                        </ol>
+                        
+    <div class="clear"></div>
+</div>
+
+
+</div>
+</div>
+
+<div class="community">
+
+    
+        <div id="comment-widget" class="comments-widget">
+
+            <div class="heading">
+                <h2>
+                DX <span>COMMUNITY</span>
+                </h2>
+
+                <h4 class="comment-widget-title">
+                    <span id="comment-num-bottom" class="comment-num"></span>
+                </h4>
+            </div>
+
+            <div class="card form">
+                <section id="respond">
+                    <div class="loading">
+                        <i class="fa fa-refresh fa-spin"></i> Loading Comments
+                    </div>
+                </section>
+            </div>
+
+            <div class="comment-list">
+                <a name="comments"></a>
+                <div class="comment-feed" id="comment-feed">
+                </div>
+            </div>
+
+        </div>
+
+    
+</div>
+
+  <script>
+
+  (function() {
+
+    window.cToolbarInit = function() {
+
+      cToolbar.load({
+        mobileRightButton: 'youtube',
+        facebookUsername: 'hiphopdx',
+        facebookName: 'HiphopDX',
+        twitterHandle: 'hiphopdx',
+        twitterName: 'HipHopDX',
+        youtubeChannel: 'hiphopdx',
+        youtubeChannelName: 'HipHopDX',
+        desktopBackground: 'solid',
+        desktopSocialButtons: ["twitter","facebook"],
+        channel: ''
+      });
+
+    };
+
+  var ns = document.createElement('script');
+      ns.type = 'text/javascript';
+      ns.async = true;
+      ns.src = '//toolbar.complex.com/dist/ctoolbar.min.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ns, s);
+
+  })();
+
+  </script>
+
+  <!-- Chartbeat -->
+<script type="text/javascript">
+    var _sf_async_config = _sf_async_config || {};
+    // _sf_async_config.uid = 10593;
+    // _sf_async_config.domain = 'hiphopdx.com';
+    // _sf_async_config.path = window.location.pathname;
+    _sf_async_config.sections = 'news';
+    _sf_async_config.authors = 'Trent Clark';
+
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+           'js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+
+<!-- Quantcast Tag Foot -->
+<script type="text/javascript">
+    _qevents.push( { qacct:"p-04JAhcp5WsteE"} );
+</script>
+<noscript>
+<div style="display: none;">
+    <img src="http://pixel.quantserve.com/pixel/p-04JAhcp5WsteE.gif" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+
+<!-- GetSatisfaction Script -->
+<script type="text/javascript" charset="utf-8">
+    var is_ssl = ("https:" == document.location.protocol);
+    var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
+    document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript" charset="utf-8">
+    var feedback_widget_options = {};
+    feedback_widget_options.display = "overlay";
+    feedback_widget_options.company = "hiphopdx";
+    feedback_widget_options.placement = "right";
+    feedback_widget_options.color = "#1b1b1b";
+    feedback_widget_options.style = "problem";
+    var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+</script>
+<!-- /GetSatisfaction Script -->
+
+<!-- ComScore Tag -->
+<script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "11349272" });
+    (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script>
+<noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&c2=11349272&cv=2.0&cj=1" />
+</noscript>
+<!-- /ComScore Tag -->
+
+
+    
+    <!-- Complex Toolbar | Begin Ad Tag -->
+    <script type="text/javascript">
+            cmnUNT('tover', tile_num++);
+    </script>
+    <!-- Complex Toolbar | End Ad Tag -->
+    
+                <footer class="footer site-chrome">
+
+                    <div class="legal">
+
+                        <span class="mobile">
+                                        <a href="/mobile?p=http://hiphopdx.com/news/id.37428/title.llmind-hits-the-studio-with-black-thought-royce-da-59">View on Mobile</a>
+                            </span>
+
+                        <div class="footer-logo">
+                            <img src="/_/i/logo-white.svg" alt="HipHopDX" title="HipHopDX" />
+                        </div>
+
+                        <div class="mobile">
+                            <ul class="social-links">
+                                <li><a href="https://www.facebook.com/HipHopDX"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://twitter.com/hiphopdx"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="https://instagram.com/hiphopdx"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="https://www.youtube.com/user/HipHopDX"><i class="fa fa-youtube-play"></i></a></li>
+                            </ul>
+                        </div>
+
+                        <span>Version 10beta4</span>
+                        <span>Copyright &copy; 2016 HipHopDX</span>
+                        <span>All Rights Reserved</span>
+
+                        <span class="desktop">
+                                        <a href="/mobile?p=http://hiphopdx.com/news/id.37428/title.llmind-hits-the-studio-with-black-thought-royce-da-59">View on Mobile</a>
+                            </span>
+                    </div>
+
+                    <ul class="desktop">
+                        <li class="title">Sections</li>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/news/">News</a></li>
+                        <li><a href="/singles/">Singles</a></li>
+                        <li><a href="/videos/">Videos</a></li>
+                        <li><a href="/reviews/">Reviews</a></li>
+                        <li><a href="/interviews/">Interviews</a></li>
+                        <li><a href="/editorials/">Editorials</a></li>
+                        <li><a href="/release-dates/">Releases</a></li>
+                        <li><a href="/tickets/">Tickets</a></li>
+                    </ul>
+
+                    <ul class="desktop">
+                        <li class="title">Connect</li>
+                        <li><a href="http://www.facebook.com/pages/HipHopDXcom/6217682005">Facebook</a></li>
+                        <li><a href="http://twitter.com/hiphopdx">Twitter</a></li>
+                        <li><a href="http://instagram.com/hiphopdx">Instagram</a></li>
+                        <li><a href="http://youtube.com/user/hiphopdx">YouTube</a></li>
+                        <li><a href="/rss/news.xml">RSS</a></li>
+                    </ul>
+
+                    <ul class="desktop">
+                        <li class="title">More Info</li>
+                        <li><a href="/behind-the-site/">Behind The Site</a></li>
+                        <li><a href="/staff/">Staff</a></li>
+                        <li><a href="/advertising/">Advertising</a></li>
+                        <li><a href="/contactus/">Contact Us</a></li>
+                        <li><a href="/tos/">Terms of Use</a></li>
+                        <li><a href="/privacy/">Privacy Policy</a></li>
+                    </ul>
+
+                    <ul class="desktop">
+                        <li class="title">Our Sites</li>
+                        <li><a href="http://cherimedia.com">Cheri Media</a></li>
+                        <li><a href="http://battlerap.com">Battle Rap</a></li>
+                        <li><a href="http://roughstock.com">Roughstock</a></li>
+                    </ul>
+
+                </footer><!-- footer -->
+
+            </div> <!-- cmn_wrap -->
+        </div> <!--  container -->
+
+        
+<!--
+        <script src="https://platform.instagram.com/en_US/embeds.js"></script>
+        <script>if ( typeof window.instgrm !== 'undefined' ) {
+            window.instgrm.Embeds.process();
+        }</script>
+-->
+
+        
+        
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/fluidvids.js/2.4.1/fluidvids.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/layzr.js/1.4.2/layzr.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/Swiper/3.0.7/js/swiper.min.js"></script>
+<script async type="text/javascript" src="//cdn.jsdelivr.net/audiojs/0.1/audio.min.js"></script>
+
+<script type="text/javascript" src="/_/j/main.js"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/mithril/0.2.0/mithril.min.js"></script>
+<script type="text/javascript" src="/_/j/community.js?111320151"></script>
+
+            <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fdf9ba9c57","applicationID":"7515501","transactionName":"YVZVbEUCDBVXUBEKW1gcYkpeTAsIUlYdTUReQw==","queueTime":0,"applicationTime":252,"atts":"TRFWGg0YHxs=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

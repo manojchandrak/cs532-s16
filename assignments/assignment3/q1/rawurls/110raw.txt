@@ -1,0 +1,1157 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQcAUFNADAYCUVhTDw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function s(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);return i}function c(t,e){d[t]=f(t).concat(e)}function f(t){return d[t]||[]}function u(){return r(s)}var d={};return{on:c,emit:s,create:u,listeners:f,context:e,_events:d}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:25,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:26,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").create(),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:27,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:27,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:27,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:27,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,l,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-",o)}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:27,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=this.lastSize||n(t);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t){var e=t.responseType,n="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return r(n)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=0,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:16,4:12,5:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:25,2:26,handle:"D5DuLP"}],16:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var h=0},{1:25,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],25:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],26:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],27:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:26,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+		<meta content="//static-3.tvgcdn.net/www/img/favicon_128.png" itemprop="image" />
+		<meta name="apple-itunes-app" content="app-id=333647776, affiliate-data=at=11l9QE, app-argument=http://www.tvguide.com/news/exclusive-criminal-minds-sneak-peek-jj-theory/">
+		<meta property="fb:app_id" content="63084645929"/>
+		
+		<title>Exclusive Criminal Minds Sneak Peek: JJ Has One Mother of a Theory - Today's News: Our Take | TVGuide.com</title> 
+		<link rel="icon" type="image/svg+xml" href="//static-5.tvgcdn.net/www/img/favicon.svg" />
+		<link rel="alternate icon" type="image/png" href="//static-5.tvgcdn.net/www/img/favicon_32.png" />
+		<link rel="apple-touch-icon" href="//static-1.tvgcdn.net/www/img/apple-touch-icon-precomposed.png" />
+		<link rel="canonical" href="http://www.tvguide.com/news/exclusive-criminal-minds-sneak-peek-jj-theory/" />
+
+				
+
+<meta name="description" content="She might have cracked the case" /><meta property="og:title" content="Exclusive Criminal Minds Sneak Peek: JJ Has One Mother of a Theory" /><meta property="og:type" content="article" /><meta property="og:url" content="http://www.tvguide.com/news/exclusive-criminal-minds-sneak-peek-jj-theory/" /><meta property="og:image" content="http://cimg.tvgcdn.net/i/r/2016/02/10/a196468c-df51-4955-a293-f538f9e523f3/thumbnail/1300x867/000e8edb6b99f9da2cffe56b247b2592/160210-news-criminal-minds.jpg" /><meta property="og:description" content="She might have cracked the case" /><meta property="article:published_time" content="2016-02-10T09:22:08-05:00"/><meta property="article:tag" content="CBS" /><meta property="article:tag" content="Winter TV" /><meta property="article:tag" content="Celebs" /><meta property="og:site_name" content="TVGuide.com" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@TVGuide" /><meta name="twitter:title" content="Exclusive Criminal Minds Sneak Peek: JJ Has One Mother of a Theory | TVGuide.com" /><meta name="twitter:description" content="She might have cracked the case" /><meta name="twitter:creator" content="@joyceeng61" /><meta name="twitter:image:src" content="http://cimg.tvgcdn.net/i/r/2016/02/10/a196468c-df51-4955-a293-f538f9e523f3/thumbnail/1300x867/000e8edb6b99f9da2cffe56b247b2592/160210-news-criminal-minds.jpg" /><meta itemprop="name" content="Exclusive Criminal Minds Sneak Peek: JJ Has One Mother of a Theory" /><meta itemprop="description" content="She might have cracked the case" /><meta itemprop="image" content="http://cimg.tvgcdn.net/i/r/2016/02/10/a196468c-df51-4955-a293-f538f9e523f3/thumbnail/1300x867/000e8edb6b99f9da2cffe56b247b2592/160210-news-criminal-minds.jpg" />
+					<link media="all" type="text/css" rel="stylesheet" href="//static-4.tvgcdn.net/www/css/bs3grid/bs3grid-c2c1f516f66a1ef7c42b5af7dcbdc53a.css">
+
+			<link media="all" type="text/css" rel="stylesheet" href="//static-2.tvgcdn.net/www/css/site-fa7e0dedd88f7aa0181cfd914cd8872e.css">
+
+			<link media="all" type="text/css" rel="stylesheet" href="//static-2.tvgcdn.net/www/css/font-awesome/font-awesome-5d697818e752d9ad84f959f250140420.css">
+
+			<link media="all" type="text/css" rel="stylesheet" href="//static-2.tvgcdn.net/www/css/article-65fa7e59bf7a4cd950183d930352a020.css">
+<link media="all" type="text/css" rel="stylesheet" href="//static-1.tvgcdn.net/www/css/sidebar-db06c59e8fd441be9f6853402a8f15dd.css">
+<link media="all" type="text/css" rel="stylesheet" href="//static-1.tvgcdn.net/www/css/videos/hub-903e9b3990075a5d8c75378100c8ec6f.css">
+
+		
+						<!--[if lt IE 9]>
+			<script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+		<![endif]-->
+
+				<script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js" data-apikey="f9cdc58fb369d58d321e25a62d94e5a9"></script>
+		
+		<!--[if lte IE 9]>
+			<script src="//static-1.tvgcdn.net/www/js/ieshim-2428c7f7a33718da67a799b1d026f668.js"></script>
+
+		<![endif]-->
+
+		<script type="text/javascript">
+			window.Bugsnag = window.Bugsnag || {};
+			
+							Bugsnag.releaseStage = "production";
+			
+			window.$tvg = window.$tvg || { };
+			window.$tvg.environment = {
+				"mapiHost": "mapi.tvguide.com",
+				"listingsHost": "mobilelistings.tvguide.com",
+				"staticHost": "static.tvgcdn.net",
+			};
+
+			window.$tvg.section = 'news';
+
+						window.$tvg.loggedIn = false;
+			window.$tvg.user = null;
+			window.$tvg.watchlistItems = { };
+			window.$tvg.checkinItems = {"100536-28864807":true,"192244-28711609":true,"192244-28806868":true,"192272-28092066":true,"192272-28145753":true,"192272-28250527":true,"192272-28423364":true,"192272-28815061":true,"192272-28874376":true,"192272-28933858":true,"288041-6718065":true,"324803-28794044":true,"555470-28112887":true,"555514-28762157":true,"634376-28400612":true,"658385-28092055":true,"658385-28815052":true,"665633-28343285":true,"668105-27369682":true,"678250-27238287":true,"678250-27238297":true,"781745-28864808":true};
+			
+
+			window.$tvg.asyncScriptLoaded = { };
+			window.$tvg.asyncScriptDidLoad = function(name) {
+				cbs = window.$tvg.asyncScriptLoaded[name] || null
+				window.$tvg.asyncScriptLoaded[name] = { "push": function(cb) { cb(); } };
+				if(cbs) cbs.forEach(function(cb) { try { cb(); } catch(e) { } });
+			};
+
+			window.$tvg.asyncScriptNotify = function(name, cb) {
+				(window.$tvg.asyncScriptLoaded[name] = window.$tvg.asyncScriptLoaded[name] || [ ]).push(cb);
+			};
+
+			window.$tvg.asyncScript = function(src, forceSSL, name) {
+				var script = document.createElement("script");
+				script.async = true;
+				script.type = 'text/javascript';
+
+				var useSSL = forceSSL || 'https:' == document.location.protocol;
+				script.src = (useSSL ? 'https' : 'http') + '://' + src;
+
+				if(name) {
+					if(script.readyState) {
+						script.onreadystatechange = function () {
+							if(script.readyState == "loaded" || script.readyState == "complete") {
+								script.onreadystatechange = null;
+								$tvg.asyncScriptDidLoad(name);
+							}
+						};
+					} else {
+						script.onload = function () { $tvg.asyncScriptDidLoad(name); };
+					}
+				}
+
+				var node = document.getElementsByTagName('script')[0];
+				node.parentNode.insertBefore(script, node);
+			};
+
+			window.googletag = window.googletag || {};
+			window.googletag.cmd = window.googletag.cmd || [];
+
+			window.beanstockEnabled = false;
+
+			if(window.beanstockEnabled && window.innerWidth < 728) {
+				window.nucleusLoaded = function() {
+					window.nucleusLoadGPT();
+				};
+
+				window.nucleusGPTLoaded = false;
+				window.nucleusLoadGPT = function() {
+					clearTimeout(window.nucleusBidTimeout);
+					if(!window.nucleusGPTLoaded) {
+						window.nucleusGPTLoaded = true;
+						window.$tvg.asyncScript('www.googletagservices.com/tag/js/gpt.js');
+					}
+				};
+
+				window.nucleusBidTimeout = setTimeout(window.nucleusLoadGPT, 500);
+
+				(function() {
+					var beanstock = document.createElement("script");
+					beanstock.async = true;
+					beanstock.type = "text/javascript";
+					var useSSL = "https:" == document.location.protocol;
+					beanstock.id = 'cx-nuke';
+					beanstock.src = (useSSL ? "https:" : "http:") + "//cdn.beanstock.com/pub/cx/flagTag.js";
+					beanstock.setAttribute('data-bsm-pub', "cbsinteractive");
+					beanstock.setAttribute('data-bsm-pub-zone', "tvguide.com/mnucleus");
+					beanstock.setAttribute('data-bsm-sizes', "300x250 320x50");
+					beanstock.setAttribute('data-bsm-zone-map-url', "//cdn.beanstock.com/pub/cbsinteractive/zm.js");
+					beanstock.setAttribute('data-bsm-event-host', "//helix.beanstock.co");
+					beanstock.setAttribute('data-bsm-flag', "true");
+					beanstock.setAttribute('data-bsm-version', "v3");
+					beanstock.addEventListener("onNucleusComplete", window.nucleusLoaded);
+					var node = document.getElementsByTagName("script")[0];
+					node.parentNode.insertBefore(beanstock, node);
+				})();
+			} else {
+				window.$tvg.asyncScript('ox-d.cbs.servedbyopenx.com/w/1.0/jstag?nc=8264-TVGuide', false, 'openx');
+				window.$tvg.asyncScriptNotify('openx', function() {
+					window.$tvg.asyncScript('www.googletagservices.com/tag/js/gpt.js');
+				});
+			}
+		</script>
+
+				    		
+    <script type="text/javascript">
+        window.$tvg.videos = window.$tvg.videos || { };
+        window.$tvg.videos['d3208bd7-5384-4598-a089-52e1f85e2b6c'] = {"id":"d3208bd7-5384-4598-a089-52e1f85e2b6c","title":"Exclusive <em>Criminal Minds<\/em> Sneak Peek: JJ Has One Mother of a Theory","stripped_title":"Exclusive Criminal Minds Sneak Peek: JJ Has One Mother of a Theory","files":{"MPEG4":{"HDS":{"5":{"pid":"rQSRXtnBdB3B","type":"HDS","format":"MPEG4","bitrate":2696000,"url":"ftps:\/\/tvguidevid.upload.akamai.com\/371346\/hdvod\/video_robot\/CBS_Production_TVGuide_VMS\/2016\/02\/10\/620161603630\/160210CriminalMinds_743554_2696.mp4"},"2":{"pid":"z8y2D1TwVt_O","type":"HDS","format":"MPEG4","bitrate":1928000,"url":"ftps:\/\/tvguidevid.upload.akamai.com\/371346\/hdvod\/video_robot\/CBS_Production_TVGuide_VMS\/2016\/02\/10\/620161603630\/160210CriminalMinds_743554_1928.mp4"},"1":{"pid":"uWymeOhmEeYq","type":"HDS","format":"MPEG4","bitrate":1264000,"url":"ftps:\/\/tvguidevid.upload.akamai.com\/371346\/hdvod\/video_robot\/CBS_Production_TVGuide_VMS\/2016\/02\/10\/620161603630\/160210CriminalMinds_743554_1264.mp4"},"4":{"pid":"WgBPeIeBocyB","type":"HDS","format":"MPEG4","bitrate":764000,"url":"ftps:\/\/tvguidevid.upload.akamai.com\/371346\/hdvod\/video_robot\/CBS_Production_TVGuide_VMS\/2016\/02\/10\/620161603630\/160210CriminalMinds_743554_764.mp4"},"3":{"pid":"292oZoE_QftD","type":"HDS","format":"MPEG4","bitrate":464000,"url":"ftps:\/\/tvguidevid.upload.akamai.com\/371346\/hdvod\/video_robot\/CBS_Production_TVGuide_VMS\/2016\/02\/10\/620161603630\/160210CriminalMinds_743554_464.mp4"},"0":{"pid":"gW7sM369ws_R","type":"HDS","format":"MPEG4","bitrate":332000,"url":"ftps:\/\/tvguidevid.upload.akamai.com\/371346\/hdvod\/video_robot\/CBS_Production_TVGuide_VMS\/2016\/02\/10\/620161603630\/160210CriminalMinds_743554_332.mp4"}},"3G":{"1":{"pid":"fnD0NFlCcyW0","type":"3G","format":"MPEG4","bitrate":240000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/2016\/02\/10\/620161603630\/160210CriminalMinds_743554_240.mp4"},"0":{"pid":"TpmOvoTDUyGb","type":"3G","format":"MPEG4","bitrate":150000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/2016\/02\/10\/620161603630\/160210CriminalMinds_743554_150.mp4"}},"WIFI":{"1":{"pid":"u2SPUVNkRH2q","type":"WIFI","format":"MPEG4","bitrate":740000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/2016\/02\/10\/620161603630\/160210CriminalMinds_743554_740.mp4"},"0":{"pid":"FrkzcMhBwu8u","type":"WIFI","format":"MPEG4","bitrate":440000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/2016\/02\/10\/620161603630\/160210CriminalMinds_743554_440.mp4"}}},"M3U":{"HLS":{"0":{"pid":"VaoFPy1avgBr","type":"HLS","format":"M3U","bitrate":1800000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/hls\/2016\/02\/10\/620161603630\/160210CriminalMinds_743555_1800\/160210CriminalMinds_743555_1800.m3u8"},"1":{"pid":"82_81vokmmaZ","type":"HLS","format":"M3U","bitrate":1200000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/hls\/2016\/02\/10\/620161603630\/160210CriminalMinds_743555_1200\/160210CriminalMinds_743555_1200.m3u8"},"4":{"pid":"3QPF6_b0m9hT","type":"HLS","format":"M3U","bitrate":800000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/hls\/2016\/02\/10\/620161603630\/160210CriminalMinds_743555_800\/160210CriminalMinds_743555_800.m3u8"},"2":{"pid":"6eon0PNPqZ6E","type":"HLS","format":"M3U","bitrate":500000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/hls\/2016\/02\/10\/620161603630\/160210CriminalMinds_743555_500\/160210CriminalMinds_743555_500.m3u8"},"3":{"pid":"6fnlFcXE_d8_","type":"HLS","format":"M3U","bitrate":250000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/hls\/2016\/02\/10\/620161603630\/160210CriminalMinds_743555_250\/160210CriminalMinds_743555_250.m3u8"},"6":{"pid":"Pn_XCv3ERdpf","type":"HLS","format":"M3U","bitrate":110000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/hls\/2016\/02\/10\/620161603630\/160210CriminalMinds_743555_110\/160210CriminalMinds_743555_110.m3u8"},"5":{"pid":"SYxR8uPfCxYY","type":"HLS","format":"M3U","bitrate":1000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/hls\/2016\/02\/10\/620161603630\/160210CriminalMinds_743555_0\/160210CriminalMinds_743555_0.m3u8"}},"HLS_VARIANT_TABLET":[{"pid":"g_hQz_UynOYU","type":"HLS_VARIANT_TABLET","format":"M3U","bitrate":1000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/hls\/2016\/02\/10\/620161603630\/160210CriminalMinds_743555_tablet.m3u8"}],"HLS_VARIANT_PHONE":[{"pid":"sc01sdFWLWV7","type":"HLS_VARIANT_PHONE","format":"M3U","bitrate":1000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/hls\/2016\/02\/10\/620161603630\/160210CriminalMinds_743555_phone.m3u8"}]}},"dek":"She may have just cracked the case","date":"Feb. 10, 2016","duration":"01:12","image":"http:\/\/cimg.tvgcdn.net\/i\/2016\/02\/10\/a196468c-df51-4955-a293-f538f9e523f3\/c1f61f9cc8b1ac0e91cb7d1f920801a7\/160210-news-criminal-minds.jpg","url":"http:\/\/www.tvguide.com\/videos\/play\/exclusive-criminal-minds-sneak-peek-jj-theory\/","embed":"http:\/\/www.tvguide.com\/videos\/embed\/exclusive-criminal-minds-sneak-peek-jj-theory\/"};
+        window.$tvg.uvpConfig = "http://www.tvguide.com/videos/config.xml?";
+    </script>
+	</head>
+	<body class="no-skin-takeover no-skin-takeover-narrow">
+		<div id="wrap">
+			<div  class="omnibar-ad-container ad-dfp" data-placement="layout.omnibar" id="omnibar_ad"></div>			<div id="header"  data-section-id="header">
+	<div class="header-wrap">
+		<div class="header-brand" data-section-id="logo"><a href="http://www.tvguide.com/" class="header-brand-link">TV Guide</a></div>
+		<div class="header-search" data-section-id="search">
+			<form action="http://www.tvguide.com/search/" method="GET" target="_blank" class="header-search-form-tab hidden">
+				<input type="submit" value="submit">
+			</form>
+			<form class="header-search-form" action="http://www.tvguide.com/search/" method="get">
+				<input class="header-search-input" placeholder="Search TV Guide here&#33;" autocomplete="off" name="keyword" type="text">
+				<button type="submit" class="header-search-icon"><span class="fa fa-search"></span></button>
+			</form>
+			<div class="header-autocomplete" id="header-autocomplete"></div>
+		</div>
+		<ul class="header-items"  data-section-id="navigation">
+			<li class="header-item header-item-auth header-item-first hidden-xs">
+									<a  id="header-item-signin" class="header-item-link header-item-auth-link" data-modal="http://www.tvguide.com/user/_modal/" href="http://www.tvguide.com/signin/"><span class="hidden-sm">Sign In / Up </span><span class="fa fa-user header-item-auth-icon"></span></a>
+							</li>
+						<li class="header-item header-item-first">
+		<a href="http://www.tvguide.com/listings/" class="header-item-link">What&#039;s On</a>
+		<span class="header-item-submenu-separator"></span>
+<span class="header-item-submenu header-item-submenu-rows-7">
+			<span class="header-item-submenu-accessory-background"></span>
+	
+						<ul class="header-item-submenu-col header-item-submenu-items">
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/listings/">TV Listings</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/trending-tonight/">Trending Tonight</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/new-tonight/">New Tonight</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/streaming/">What to Stream</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/videos/episodes/">Full Episodes</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/special/winter-preview/schedule/">Winter TV Schedule</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/sports/live-today/">Today's Live Sports</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+								</ul>
+					<ul class="header-item-submenu-col header-item-submenu-items">
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/sports/listings/">Sports Listings</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/sports/nfl/">NFL Schedule</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/sports/nhl/">NHL Schedule</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/sports/baseball/">MLB Schedule</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/sports/nba/">NBA Schedule</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/movies/listings/">Movies Listings</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/soap-operas/">Soaps</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+								</ul>
+			
+			<span class="header-item-submenu-col header-item-submenu-accessory">
+							<h2 class="section-header" data-section-id="section-header"><span class="section-header-text"><span class="section-header-accented-text"  data-section-id="section-header">Watch</span> This</span></h2>
+	
+	<a href="http://www.tvguide.com/videos/todays-top-videos/play/james-franco-11-22-63/" class="header-item-submenu-accessory-thumbnail">
+					<img src="http://cimg.tvgcdn.net/i/r/2016/02/10/43e7958f-1135-465f-b77f-c740923cc8f5/resize/200x137/a6a0abc1179161a521bc2d322ef5d6ed/jamesfranco-news.png" class="header-item-submenu-accessory-thumbnail-img" srcset="http://cimg.tvgcdn.net/i/r/2016/02/10/43e7958f-1135-465f-b77f-c740923cc8f5/resize/400x274/9a0f83da2554808c89f6d2dfa6fc711f/jamesfranco-news.png 2x, http://cimg.tvgcdn.net/i/r/2016/02/10/43e7958f-1135-465f-b77f-c740923cc8f5/resize/600x411/9fcb3bf4a9cef09be457bc3fb67aeb9d/jamesfranco-news.png 3x" alt="James Franco" width="200" height="137" title="James Franco" />
+		
+		<span class="thumbnail-media-icon thumbnail-media-icon-sm"><span class="fa fa-fw fa-play"></span></span>	</a>
+
+		
+			<h6 class="header-item-submenu-accessory-subtitle">James Franco previews <em>11.22.63</em></h6>
+	
+						</span>
+	</span>
+
+<span class="header-item-submenu-more">
+	<a href="#" onclick="return window.$tvg.navigation.expand(this)" class="header-item-submenu-more-link">More&nbsp;&nbsp;<span class="header-item-submenu-more-icon fa fa-chevron-down"></span></a>
+</span>	</li>
+		<li class="header-item">
+		<a href="http://www.tvguide.com/watchlist/" class="header-item-link">Watchlist</a>
+		<span class="header-item-submenu-separator"></span>
+<span class="header-item-submenu header-item-submenu-rows-5">
+	
+						<ul class="header-item-submenu-col header-item-submenu-items">
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/watchlist/easy-adder/new-fall-and-midseason-shows/">Add New Fall Shows Now</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/watchlist/">My Watchlist</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/videos/celebrity-watchlists/">Celebrity Watchlists</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/news/?filter=watchlist">News</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/watchlist/about/">What is a Watchlist?</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+								</ul>
+			
+	</span>
+
+<span class="header-item-submenu-more">
+	<a href="#" onclick="return window.$tvg.navigation.expand(this)" class="header-item-submenu-more-link">More&nbsp;&nbsp;<span class="header-item-submenu-more-icon fa fa-chevron-down"></span></a>
+</span>	</li>
+		<li class="header-item header-item-last">
+		<a href="http://www.tvguide.com/news/" class="header-item-link">News &amp; Features</a>
+		<span class="header-item-submenu-separator"></span>
+<span class="header-item-submenu header-item-submenu-rows-6">
+	
+						<ul class="header-item-submenu-col header-item-submenu-items">
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/news/">News</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/special/winter-preview/">Winter Preview</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/streaming/">What to Stream</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/special/super-bowl/">Super Bowl</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/special/on-set/">On the Set</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/videos/">TV Guide Original Videos</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+								</ul>
+					<ul class="header-item-submenu-col header-item-submenu-items">
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/galleries/">Photo Galleries</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/special/golden-globes/">2016 Golden Globes</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/special/oscars/">2016 Academy Awards</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/special/grammys/">2016 Grammy Awards</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+									<li class="header-item-submenu-item">
+						<a  class="header-link" href="http://www.tvguide.com/special/emmys/">2015 Emmy Awards</a>
+						<span class="header-item-accessory"><span class="fa fa-chevron-right"></span></span>
+					</li>
+								</ul>
+			
+	</span>
+
+<span class="header-item-submenu-more">
+	<a href="#" onclick="return window.$tvg.navigation.expand(this)" class="header-item-submenu-more-link">More&nbsp;&nbsp;<span class="header-item-submenu-more-icon fa fa-chevron-down"></span></a>
+</span>	</li>
+						</ul>
+
+		<ul class="header-items-xs" data-section-id="navigation">
+			<li class="header-item-xs header-item-xs-first header-item-auth">
+									<a  class="header-item-xs-link header-item-auth-link header-item-auth-xs-link" data-modal="http://www.tvguide.com/user/_modal/" href="http://www.tvguide.com/signin/"><span class="fa fa-user header-item-auth-icon-xs"></span></a>
+							</li>
+			<li class="header-item-xs header-item-xs-last header-item-xs-menu">
+				<a href="#" onclick="return window.$tvg.navigation.toggle()" class="header-item-xs-link header-item-xs-menu">
+					<span class="header-item-xs-menu-bars">
+						<span class="header-item-xs-menu-bar header-item-xs-menu-bar-top">
+							<span class="header-item-xs-menu-bar-inner header-item-xs-menu-bar-inner-top"></span>
+						</span>
+						<span class="header-item-xs-menu-bar header-item-xs-menu-bar-bottom">
+							<span class="header-item-xs-menu-bar-inner header-item-xs-menu-bar-inner-bottom"></span>
+						</span>
+					</span>
+				</a>
+			</li>
+		</ul>
+
+		<div class="header-social hide">
+			<ul>
+				<li class="header-item header-social-item header-social-item-facebook header-social-item-submenu-disabled">
+					<a href="http://facebook.com/TVGuide" class="header-social-icon">
+						<span class="fa fa-facebook-official"></span>
+					</a>
+
+					<span class="header-item-submenu-separator header-social-item-submenu-separator"></span>
+					<span class="header-item-submenu header-social-item-submenu">
+						<span class="header-item-social-container">
+							<div class="fb-like" data-href="https://facebook.com/TVGuide" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+						</span>
+					</span>
+				</li>
+				<li class="header-item header-social-item header-social-item-twitter header-social-item-submenu-disabled">
+					<a href="http://twitter.com/TVGuide" class="header-social-icon">
+						<span class="fa fa-twitter-square"></span>
+					</a>
+
+					<span class="header-item-submenu-separator header-social-item-submenu-separator"></span>
+					<span class="header-item-submenu header-social-item-submenu">
+						<span class="header-item-social-container">
+						<a href="https://twitter.com/TVGuide" class="twitter-follow-button" data-show-count="true">Follow @TVGuide</a>
+						</span>
+					</span>
+				</li>
+			</ul>
+		</div>
+
+		<div  class="header-sponsored ad-dfp" data-placement="layout.navigation" id="navbar_top"></div>	</div>
+</div>			<div id="content-wrap">
+				<div id="mantle_skin">
+					<div id="adSkinLeft"></div><div id="adSkinRight"></div>
+					<div  class="skin-takeover-container ad-dfp" data-placement="layout.skin" id="skin"></div>
+					<div class="content-before">
+													<div  data-placement="layout.header" id="leader_plus_top" class="ad-dfp"></div>						
+													<div class="content-before-blank"></div>
+						
+													<div class="whats-hot-container"x>
+		<ul class="whats-hot" id="whats-hot" data-section-id="whats-hot"><li class="whats-hot-item"><a href="/tvshows/the-walking-dead/news/303547/" class="whats-hot-item-image-link"><img src="http://cimg.tvgcdn.net/i/r/2015/02/27/662b0267-d552-4cfc-a9a1-dbf6b026eed1/crop/140x140+0+0/thumbnail/80x80/beebe508a501f8a310772d85ae93de9e/150227-news-gross-zombie1-hp-sm.jpg" class="whats-hot-item-image" srcset="http://cimg.tvgcdn.net/i/r/2015/02/27/662b0267-d552-4cfc-a9a1-dbf6b026eed1/crop/140x140+0+0/thumbnail/140x140/32d647b56dcfbe85d377d214827e8cdd/150227-news-gross-zombie1-hp-sm.jpg 2x" alt="The Walking Dead" width="80" height="80" title="The Walking Dead" /><span class="thumbnail-media-icon thumbnail-media-icon-xs"><span class="fa fa-fw fa-camera"></span></span></a><a  title="Our Complete Walking Dead Coverage" class="whats-hot-item-title" href="http://www.tvguide.com/tvshows/the-walking-dead/news/303547/">Our Complete <em>Walking Dead</em> Coverage</a></li><li class="whats-hot-item"><a href="/special/grammys/gallery/scandalous-celebrity-fashion-grammy-awards/" class="whats-hot-item-image-link"><img src="http://cimg.tvgcdn.net/i/r/2015/02/09/d7ab4be0-4f6a-4547-a56d-74f3b23c0e42/crop/140x140+0+0/thumbnail/80x80/d88895b3ccd9d23017cb141b5a14d3b9/150208-news-beyonce-hp-sm.jpg" class="whats-hot-item-image" srcset="http://cimg.tvgcdn.net/i/r/2015/02/09/d7ab4be0-4f6a-4547-a56d-74f3b23c0e42/crop/140x140+0+0/thumbnail/140x140/7c4c3974b8a91407a31963d943fb6bc6/150208-news-beyonce-hp-sm.jpg 2x" alt="Beyonce Knowles" width="80" height="80" title="Beyonce Knowles" /></a><a  title="Most Scandalous Grammys Fashion" class="whats-hot-item-title" href="http://www.tvguide.com/special/grammys/gallery/scandalous-celebrity-fashion-grammy-awards/">Most Scandalous Grammys Fashion</a></li><li class="whats-hot-item"><a href="/special/grammys/" class="whats-hot-item-image-link"><img src="http://cimg.tvgcdn.net/i/r/2015/02/06/180f631d-b71f-4ee8-a122-7a501a3c7838/crop/1505x1505+272+0/thumbnail/80x80/fd9002757622b20d92ed145cc436402f/03-taylor-omg-award-grammy-2010.jpg" class="whats-hot-item-image" srcset="http://cimg.tvgcdn.net/i/r/2015/02/06/180f631d-b71f-4ee8-a122-7a501a3c7838/crop/1505x1505+272+0/thumbnail/160x160/5709f7c1e61bf3590b27e17d3ee1298b/03-taylor-omg-award-grammy-2010.jpg 2x, http://cimg.tvgcdn.net/i/r/2015/02/06/180f631d-b71f-4ee8-a122-7a501a3c7838/thumbnail/240x240/8aa5c366d2100f90be378ab2dbf68fd4/03-taylor-omg-award-grammy-2010.jpg 3x" alt="Taylor&rsquo;s shock was most likely genuine when she won her first
+GRAMMY award in 2010." width="80" height="80" title="Taylor&rsquo;s shock was most likely genuine when she won her first
+GRAMMY award in 2010." /></a><a  title="Grammy Awards" class="whats-hot-item-title" href="http://www.tvguide.com/special/grammys/">Grammy Awards</a></li><li class="whats-hot-item"><a href="/streaming/gallery/whats-new-on-amazon-prime/?wlpromo=stream" class="whats-hot-item-image-link"><img src="http://cimg.tvgcdn.net/i/r/2016/01/20/6094f122-ae95-4f06-bab0-9a71934319f8/crop/2333x2333+586+0/thumbnail/80x80/6e283a0d3247ad2d6af73945817efbbb/amymivyam.jpg" class="whats-hot-item-image" srcset="http://cimg.tvgcdn.net/i/r/2016/01/20/6094f122-ae95-4f06-bab0-9a71934319f8/crop/2333x2333+586+0/thumbnail/160x160/c5efbee54f005bf62c636a8b38e0294a/amymivyam.jpg 2x, http://cimg.tvgcdn.net/i/r/2016/01/20/6094f122-ae95-4f06-bab0-9a71934319f8/thumbnail/240x240/d12845f2b0f2ed36ba4fe90e068c5ec2/amymivyam.jpg 3x" width="80" height="80" /><span class="thumbnail-media-icon thumbnail-media-icon-xs"><span class="fa fa-fw fa-camera"></span></span></a><a  title="What&#039;s New on Amazon Prime" class="whats-hot-item-title" href="http://www.tvguide.com/streaming/gallery/whats-new-on-amazon-prime/?wlpromo=stream">What's New on Amazon Prime</a></li><li class="whats-hot-item"><a href="/streaming/gallery/whats-new-on-hulu/?wlpromo=stream" class="whats-hot-item-image-link"><img src="http://cimg.tvgcdn.net/i/r/2016/01/21/174f770c-5359-4155-8d7a-c6c5b760263e/crop/1548x1548+300+0/thumbnail/80x80/8e75b15d409e3bfcc9dab16508004377/jerry-maguirefpk7cy.jpg" class="whats-hot-item-image" srcset="http://cimg.tvgcdn.net/i/r/2016/01/21/174f770c-5359-4155-8d7a-c6c5b760263e/crop/1548x1548+300+0/thumbnail/160x160/e230d0972ce460c43bbca7c63eab63ef/jerry-maguirefpk7cy.jpg 2x, http://cimg.tvgcdn.net/i/r/2016/01/21/174f770c-5359-4155-8d7a-c6c5b760263e/thumbnail/240x240/40378c4ff20cd1077d07bfec36ca0ba2/jerry-maguirefpk7cy.jpg 3x" width="80" height="80" /><span class="thumbnail-media-icon thumbnail-media-icon-xs"><span class="fa fa-fw fa-camera"></span></span></a><a  title="What&#039;s New on Hulu" class="whats-hot-item-title" href="http://www.tvguide.com/streaming/gallery/whats-new-on-hulu/?wlpromo=stream">What's New on Hulu</a></li><li class="whats-hot-item"><a href="/streaming/gallery/whats-new-on-netflix/?wlpromo=stream" class="whats-hot-item-image-link"><img src="http://cimg.tvgcdn.net/i/r/2016/01/25/6f39b22d-ea01-43ad-92d6-055e898166a5/crop/658x658+139+0/thumbnail/80x80/abdd9d9d3381c374e64cdc4b04f66e0d/mad-men-episode-714-don-hamm-935-5.jpg" class="whats-hot-item-image" srcset="http://cimg.tvgcdn.net/i/r/2016/01/25/6f39b22d-ea01-43ad-92d6-055e898166a5/crop/658x658+139+0/thumbnail/160x160/b34fbe16c5601447241571ac2c4ee850/mad-men-episode-714-don-hamm-935-5.jpg 2x, http://cimg.tvgcdn.net/i/r/2016/01/25/6f39b22d-ea01-43ad-92d6-055e898166a5/thumbnail/240x240/aaccce7e6223b01464e44a53aae1cafc/mad-men-episode-714-don-hamm-935-5.jpg 3x" width="80" height="80" /><span class="thumbnail-media-icon thumbnail-media-icon-xs"><span class="fa fa-fw fa-camera"></span></span></a><a  title="What&#039;s New on Netflix" class="whats-hot-item-title" href="http://www.tvguide.com/streaming/gallery/whats-new-on-netflix/?wlpromo=stream">What's New on Netflix</a></li></ul>
+
+		<a href="#" class="whats-hot-navigation whats-hot-navigation-prev" id="whats-hot-navigation-prev"><span class="fa fa-fw fa-chevron-left"></span></a>
+		<a href="#" class="whats-hot-navigation whats-hot-navigation-next whats-hot-navigation-visible" id="whats-hot-navigation-next"><span class="fa fa-fw fa-chevron-right"></span></a>
+	</div>
+
+						
+																	</div>
+
+					<div class="content-wrapper">
+						<div class="container" id="content">
+									<div class="content-main-right-rail-row">
+						<div class="content-main content-main-with-right-rail" data-section-id="main-content">
+					<div class="article section" itemscope itemtype="http://schema.org/Article" data-section-id="article">
+		<a href="http://www.tvguide.com/news/"><h2 class="section-header" data-section-id="section-header"><span class="section-header-indicator"></span><span class="section-header-text"><span class="section-header-accented-text"  data-section-id="section-header">Today&rsquo;s</span> News</span></h2></a>
+
+		
+		<h1 class="article-title" itemprop="name">Exclusive <em>Criminal Minds</em> Sneak Peek: JJ Has One Mother of a Theory</h1>
+
+		<p class="article-byline" data-section-id="article-byline">
+			<a  class="article-byline-headshot" href="http://www.tvguide.com/authors/joyce-eng/"><img src="http://cimg.tvgcdn.net/i/r/2015/01/09/31e1568c-e246-4f7b-aa5b-0c45e48907df/resize/36x48/c7629df05e7c411b6247e2baf633b087/joyce-eng.jpg" class="article-byline-headshot-img" srcset="http://cimg.tvgcdn.net/i/r/2015/01/09/31e1568c-e246-4f7b-aa5b-0c45e48907df/resize/72x96/432b3c7ce1bfa9554578e27e2b5f0332/joyce-eng.jpg 2x, http://cimg.tvgcdn.net/i/r/2015/01/09/31e1568c-e246-4f7b-aa5b-0c45e48907df/resize/108x144/da614e02d4386413facf97f3838525b8/joyce-eng.jpg 3x" width="36" height="48" /></a>					by <a href="http://www.tvguide.com/authors/joyce-eng/" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">Joyce Eng</a><span class="article-byline-separator">&nbsp;|&nbsp;</span><span class="article-byline-date" itemprop="datePublished" content="2016-02-10T09:22:08-05:00">Feb 10, 2016 9:22 AM EST</span>
+		</p>
+
+		
+<ul class="sharing sharing-xs-hidden">
+	<li class="sharing-item"><button data-sharing="facebook" class="sharing-link sharing-link-facebook" title="Share on Facebook">
+		<span class="sharing-link-icon"><span class="fa fa-fw fa-facebook"></span>
+		<span class="sharing-link-title">Share on Facebook</span>
+	</button></li>
+		<li class="sharing-item"><button data-sharing="twitter" class="sharing-link sharing-link-twitter" title="Share on Twitter">
+		<span class="sharing-link-icon"><span class="fa fa-fw fa-twitter"></span>
+		<span class="sharing-link-title">Share on Twitter</span>
+	</button></li>
+	<li class="sharing-item"><button data-sharing="email" class="sharing-link sharing-link-email" title="Share via Email">
+		<span class="sharing-link-icon"><span class="fa fa-fw fa-envelope"></span>
+		<span class="sharing-link-title">Share via Email</span>
+	</button></li>
+	<li class="sharing-item"><button data-sharing="pinterest" class="sharing-link sharing-link-pinterest" title="Share on Pinterest">
+		<span class="sharing-link-icon"><span class="fa fa-fw fa-pinterest"></span>
+		<span class="sharing-link-title">Share on Pinterest</span>
+	</button></li>
+	<li class="sharing-item"><button data-sharing="google-plus" class="sharing-link sharing-link-google-plus" title="Share on Google Plus">
+		<span class="sharing-link-icon"><span class="fa fa-fw fa-google-plus"></span>
+		<span class="sharing-link-title">Share on Google Plus</span>
+	</button></li>
+
+	<li class="sharing-item hidden-md hidden-lg"><button data-sharing="whatsapp" class="sharing-link sharing-link-whats-app">
+		<span class="sharing-link-icon"><span class="fa fa-fw fa-whatsapp"></span>
+		<span class="sharing-link-title">Share on WhatsApp</span>
+	</button></li>
+</ul>
+					<div class="article-asset-featured article-asset-featured-below-title">
+				<div class="article-asset-ooyala-container">
+		
+
+    
+    <script type="text/javascript">
+        window.$tvg.videos = window.$tvg.videos || { };
+        window.$tvg.videos['d3208bd7-5384-4598-a089-52e1f85e2b6c'] = {"id":"d3208bd7-5384-4598-a089-52e1f85e2b6c","title":"Exclusive <em>Criminal Minds<\/em> Sneak Peek: JJ Has One Mother of a Theory","stripped_title":"Exclusive Criminal Minds Sneak Peek: JJ Has One Mother of a Theory","files":{"MPEG4":{"HDS":{"5":{"pid":"rQSRXtnBdB3B","type":"HDS","format":"MPEG4","bitrate":2696000,"url":"ftps:\/\/tvguidevid.upload.akamai.com\/371346\/hdvod\/video_robot\/CBS_Production_TVGuide_VMS\/2016\/02\/10\/620161603630\/160210CriminalMinds_743554_2696.mp4"},"2":{"pid":"z8y2D1TwVt_O","type":"HDS","format":"MPEG4","bitrate":1928000,"url":"ftps:\/\/tvguidevid.upload.akamai.com\/371346\/hdvod\/video_robot\/CBS_Production_TVGuide_VMS\/2016\/02\/10\/620161603630\/160210CriminalMinds_743554_1928.mp4"},"1":{"pid":"uWymeOhmEeYq","type":"HDS","format":"MPEG4","bitrate":1264000,"url":"ftps:\/\/tvguidevid.upload.akamai.com\/371346\/hdvod\/video_robot\/CBS_Production_TVGuide_VMS\/2016\/02\/10\/620161603630\/160210CriminalMinds_743554_1264.mp4"},"4":{"pid":"WgBPeIeBocyB","type":"HDS","format":"MPEG4","bitrate":764000,"url":"ftps:\/\/tvguidevid.upload.akamai.com\/371346\/hdvod\/video_robot\/CBS_Production_TVGuide_VMS\/2016\/02\/10\/620161603630\/160210CriminalMinds_743554_764.mp4"},"3":{"pid":"292oZoE_QftD","type":"HDS","format":"MPEG4","bitrate":464000,"url":"ftps:\/\/tvguidevid.upload.akamai.com\/371346\/hdvod\/video_robot\/CBS_Production_TVGuide_VMS\/2016\/02\/10\/620161603630\/160210CriminalMinds_743554_464.mp4"},"0":{"pid":"gW7sM369ws_R","type":"HDS","format":"MPEG4","bitrate":332000,"url":"ftps:\/\/tvguidevid.upload.akamai.com\/371346\/hdvod\/video_robot\/CBS_Production_TVGuide_VMS\/2016\/02\/10\/620161603630\/160210CriminalMinds_743554_332.mp4"}},"3G":{"1":{"pid":"fnD0NFlCcyW0","type":"3G","format":"MPEG4","bitrate":240000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/2016\/02\/10\/620161603630\/160210CriminalMinds_743554_240.mp4"},"0":{"pid":"TpmOvoTDUyGb","type":"3G","format":"MPEG4","bitrate":150000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/2016\/02\/10\/620161603630\/160210CriminalMinds_743554_150.mp4"}},"WIFI":{"1":{"pid":"u2SPUVNkRH2q","type":"WIFI","format":"MPEG4","bitrate":740000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/2016\/02\/10\/620161603630\/160210CriminalMinds_743554_740.mp4"},"0":{"pid":"FrkzcMhBwu8u","type":"WIFI","format":"MPEG4","bitrate":440000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/2016\/02\/10\/620161603630\/160210CriminalMinds_743554_440.mp4"}}},"M3U":{"HLS":{"0":{"pid":"VaoFPy1avgBr","type":"HLS","format":"M3U","bitrate":1800000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/hls\/2016\/02\/10\/620161603630\/160210CriminalMinds_743555_1800\/160210CriminalMinds_743555_1800.m3u8"},"1":{"pid":"82_81vokmmaZ","type":"HLS","format":"M3U","bitrate":1200000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/hls\/2016\/02\/10\/620161603630\/160210CriminalMinds_743555_1200\/160210CriminalMinds_743555_1200.m3u8"},"4":{"pid":"3QPF6_b0m9hT","type":"HLS","format":"M3U","bitrate":800000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/hls\/2016\/02\/10\/620161603630\/160210CriminalMinds_743555_800\/160210CriminalMinds_743555_800.m3u8"},"2":{"pid":"6eon0PNPqZ6E","type":"HLS","format":"M3U","bitrate":500000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/hls\/2016\/02\/10\/620161603630\/160210CriminalMinds_743555_500\/160210CriminalMinds_743555_500.m3u8"},"3":{"pid":"6fnlFcXE_d8_","type":"HLS","format":"M3U","bitrate":250000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/hls\/2016\/02\/10\/620161603630\/160210CriminalMinds_743555_250\/160210CriminalMinds_743555_250.m3u8"},"6":{"pid":"Pn_XCv3ERdpf","type":"HLS","format":"M3U","bitrate":110000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/hls\/2016\/02\/10\/620161603630\/160210CriminalMinds_743555_110\/160210CriminalMinds_743555_110.m3u8"},"5":{"pid":"SYxR8uPfCxYY","type":"HLS","format":"M3U","bitrate":1000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/hls\/2016\/02\/10\/620161603630\/160210CriminalMinds_743555_0\/160210CriminalMinds_743555_0.m3u8"}},"HLS_VARIANT_TABLET":[{"pid":"g_hQz_UynOYU","type":"HLS_VARIANT_TABLET","format":"M3U","bitrate":1000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/hls\/2016\/02\/10\/620161603630\/160210CriminalMinds_743555_tablet.m3u8"}],"HLS_VARIANT_PHONE":[{"pid":"sc01sdFWLWV7","type":"HLS_VARIANT_PHONE","format":"M3U","bitrate":1000,"url":"https:\/\/pmd.tvgcdn.net\/video_robot\/CBS_Production_TVGuide_VMS\/hls\/2016\/02\/10\/620161603630\/160210CriminalMinds_743555_phone.m3u8"}]}},"dek":"She may have just cracked the case","date":"Feb. 10, 2016","duration":"01:12","image":"http:\/\/cimg.tvgcdn.net\/i\/2016\/02\/10\/a196468c-df51-4955-a293-f538f9e523f3\/c1f61f9cc8b1ac0e91cb7d1f920801a7\/160210-news-criminal-minds.jpg","url":"http:\/\/www.tvguide.com\/videos\/play\/exclusive-criminal-minds-sneak-peek-jj-theory\/","embed":"http:\/\/www.tvguide.com\/videos\/embed\/exclusive-criminal-minds-sneak-peek-jj-theory\/"};
+        window.$tvg.uvpConfig = "http://www.tvguide.com/videos/config.xml?";
+    </script>
+
+<div class="hub-video-player-container">
+	<div id="videoplayer" class="hub-video-player" data-id="d3208bd7-5384-4598-a089-52e1f85e2b6c" data-autoplay="false">
+        <div class="hub-video-container">
+		  <div id="tvguide-video-player"></div>
+		  <div id="uvp-ad-container" class="hub-video-player-ad-container"></div>
+        </div>
+	</div>
+</div>	</div>
+			</div>
+		
+		<div class="article-body" itemprop="articleBody" data-section-id="article-body">
+			
+							<p>Are there more victims than meets the eye on Wednesday's <a href="/tvshows/criminal-minds/192244/"><em>Criminal Minds</em></a>?</p><p>After a woman escapes a home where she's been held captive for years with two other women, the BAU is focused on catching the unsub... until JJ (<a href="/celebrities/aj-cook/138051/">A.J. Cook</a>) points out one of the other victims' odd behavior.</p><p>"Violet [Amelia Rose Blaire] could not wait to get out of here," she says in the exclusive sneak peek above. "It's like she had somewhere specific in mind. ... What if she has a child? Where else would you wanna go so badly?"</p><p><a href="/special/winter-preview/gallery/2016-winter-tv-new-shows/">Winter TV: Must-see new shows</a></p><p>"That's not a stretch. Sheila Woods [Pearl Dickson] had a miscarriage," Rossi (<a href="/celebrities/joe-mantegna/157552/">Joe Mantegna</a>) says, referring to another victim. "Maybe Violet brought one to term."</p><p>So, where is this other kid? Watch the clip above.</p><p><em>Criminal Minds</em> airs Wednesdays at 9/8c on CBS.</p>
+					</div>
+
+		
+		
+					<p class="article-tags" data-section-id="article-tags">
+				<strong>Tags: </strong>
+														<a href="http://www.tvguide.com/special/winter-preview/news/">Winter Preview</a>, 
+								<a href="http://www.tvguide.com/category/cbs/">CBS</a>, <a href="http://www.tvguide.com/category/winter-tv/">Winter TV</a>, <a href="http://www.tvguide.com/category/celebs/">Celebs</a>			</p>
+		
+		
+<ul class="sharing sharing-xs-hidden">
+	<li class="sharing-item"><button data-sharing="facebook" class="sharing-link sharing-link-facebook" title="Share on Facebook">
+		<span class="sharing-link-icon"><span class="fa fa-fw fa-facebook"></span>
+		<span class="sharing-link-title">Share on Facebook</span>
+	</button></li>
+		<li class="sharing-item"><button data-sharing="twitter" class="sharing-link sharing-link-twitter" title="Share on Twitter">
+		<span class="sharing-link-icon"><span class="fa fa-fw fa-twitter"></span>
+		<span class="sharing-link-title">Share on Twitter</span>
+	</button></li>
+	<li class="sharing-item"><button data-sharing="email" class="sharing-link sharing-link-email" title="Share via Email">
+		<span class="sharing-link-icon"><span class="fa fa-fw fa-envelope"></span>
+		<span class="sharing-link-title">Share via Email</span>
+	</button></li>
+	<li class="sharing-item"><button data-sharing="pinterest" class="sharing-link sharing-link-pinterest" title="Share on Pinterest">
+		<span class="sharing-link-icon"><span class="fa fa-fw fa-pinterest"></span>
+		<span class="sharing-link-title">Share on Pinterest</span>
+	</button></li>
+	<li class="sharing-item"><button data-sharing="google-plus" class="sharing-link sharing-link-google-plus" title="Share on Google Plus">
+		<span class="sharing-link-icon"><span class="fa fa-fw fa-google-plus"></span>
+		<span class="sharing-link-title">Share on Google Plus</span>
+	</button></li>
+
+	<li class="sharing-item hidden-md hidden-lg"><button data-sharing="whatsapp" class="sharing-link sharing-link-whats-app">
+		<span class="sharing-link-icon"><span class="fa fa-fw fa-whatsapp"></span>
+		<span class="sharing-link-title">Share on WhatsApp</span>
+	</button></li>
+</ul>	</div>
+
+	<div class="section">
+		<div  id="taboola-articles-show" class="ad-taboola"></div>	</div>
+
+		<div id="article-fb-comments" data-article-date="2016-02-10 09:22:08" data-date-limit="2016-02-05 11:59:59">
+					<a class="article-fb-comments-button btn btn-lg btn-show-more" herf="javascript:(0)" data-clickable="0">
+				<span class="loader fa fa-circle-o-notch fa-spin"></span>
+				<span class="article-fb-comments-count">
+					<span class="fb-comments-count" data-href="http://www.tvguide.com/news/exclusive-criminal-minds-sneak-peek-jj-theory/">Loading...</span>
+					<span class="fb-comments-count-label"></span>
+				</span>
+			</a>
+			<h2 class="fb-comments-header section-header section-header-accented-text"></h2>
+			<div class="fb-comments" data-href="http://www.tvguide.com/news/exclusive-criminal-minds-sneak-peek-jj-theory/" data-width="100%" data-numposts="5"></div>
+			</div>
+			</div>
+		<div class="content-right-rail" data-section-id="right-rail">
+				
+				
+<div class="right-rail-item" data-section-id="watch-this-tonight">
+			<h3 class="section-header" data-section-id="section-header"><span class="section-header-indicator"></span><span class="section-header-text"><span class="section-header-accented-text"  data-section-id="section-header">Related</span> Video</span></h3>
+	
+	<a href="http://www.tvguide.com/videos/play/exclusive-criminal-minds-sneak-peek-jj-theory/" class="right-rail-item-wtt-thumbnail">
+					<img src="http://cimg.tvgcdn.net/i/r/2016/02/10/a196468c-df51-4955-a293-f538f9e523f3/resize/400x267/78eb760f929e8e35981c416309d5ab80/160210-news-criminal-minds.jpg" class="right-rail-item-wtt-thumbnail-img" srcset="http://cimg.tvgcdn.net/i/r/2016/02/10/a196468c-df51-4955-a293-f538f9e523f3/resize/800x534/606578f35b1e538bbb844fbabe14c64d/160210-news-criminal-minds.jpg 2x, http://cimg.tvgcdn.net/i/r/2016/02/10/a196468c-df51-4955-a293-f538f9e523f3/resize/1200x801/71cb02fc0343960d7b7291fbd27e26c3/160210-news-criminal-minds.jpg 3x" alt="Matthew Gray Gubler, Joe Mantegna, A.J. Cook and Thomas Gibson, Criminal Minds" width="400" height="267" title="Matthew Gray Gubler, Joe Mantegna, A.J. Cook and Thomas Gibson, Criminal Minds" />
+		
+		<span class="thumbnail-media-icon"><span class="fa fa-fw fa-play"></span></span>	</a>
+
+			<h6 class="right-rail-item-wtt-subtitle"><a  href="http://www.tvguide.com/videos/play/exclusive-criminal-minds-sneak-peek-jj-theory/">Exclusive <em>Criminal Minds</em> Sneak Peek: JJ Has One Mother of a Theory</a></h6>
+	
+			<p class="right-rail-item-wtt-body">She may have just cracked the case</p>
+	</div>
+
+	<div class="right-rail-item">
+		<div  data-placement="articles.show.right-rail.top" id="mpu_top" class="ad-dfp"></div>	</div>
+
+	
+	<div class="right-rail-item" data-section-id="add-to-watchlist">
+				<a href="http://www.tvguide.com/watchlist/"><h2 class="section-header" data-section-id="section-header"><span class="section-header-indicator"></span><span class="section-header-text"><span class="section-header-accented-text"  data-section-id="section-header">Add To</span> Watchlist</span><span class="section-header-show-all"><span class="visible-md hidden-xxs hidden-xs hidden-sm hidden-lg">Edit</span><span class="hidden-md">Edit Watchlist</span></span></h2></a>
+		
+		<span class="right-rail-add-to-watchlist">
+					<span class="right-rail-add-to-watchlist-item">
+				<span class="right-rail-add-to-watchlist-item-image">
+					<a href="http://www.tvguide.com/tvshows/criminal-minds/192244/" class="show-card show-card-small" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/tvshows/100000-199999/thumbs/192244-criminal-minds2_90x120.png" class="show-card-image" alt="Criminal Minds" title="Criminal Minds" srcset="http://static.tvgcdn.net/mediabin/showcards/tvshows/100000-199999/thumbs/192244-criminal-minds2_180x240.png 2x, http://static.tvgcdn.net/mediabin/showcards/tvshows/100000-199999/thumbs/192244-criminal-minds2_270x360.png 3x" width="90" height="120" />
+	
+	
+</a>				</span>
+
+				<span class="right-rail-add-to-watchlist-content">
+					<h2 class="right-rail-add-to-watchlist-title"><a href="http://www.tvguide.com/tvshows/criminal-minds/192244/">Criminal Minds</a></h2>
+					<span class="right-rail-add-to-watchlist-details">
+						<span class="right-rail-add-to-watchlist-details-information">
+														<strong>Premiered: </strong> Sep 22, 2005
+													</span>
+						<span class="btn-utility-container"><a  href="#" class="btn-utility btn-watchlist right-rail-add-to-watchlist-btn" data-button="watchlist" data-id="192244" data-type="tvshow" data-name="Criminal Minds"><span class="btn-utility-icon-container"><i class="fa fa-star"></i></span><span class="btn-utility-text">Watchlist</span></a></span>
+					</span>
+				</span>
+			</span>
+					<span class="right-rail-add-to-watchlist-item">
+				<span class="right-rail-add-to-watchlist-item-image">
+					<a href="http://www.tvguide.com/celebrities/aj-cook/138051/" class="show-card show-card-small" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/celebs/a-b/thumbs/aj-cook_138051_90x120.png" class="show-card-image" alt="A.J. Cook" title="A.J. Cook" srcset="http://static.tvgcdn.net/mediabin/showcards/celebs/a-b/thumbs/aj-cook_138051_180x240.png 2x, http://static.tvgcdn.net/mediabin/showcards/celebs/a-b/thumbs/aj-cook_138051_270x360.png 3x" width="90" height="120" />
+	
+	
+</a>				</span>
+
+				<span class="right-rail-add-to-watchlist-content">
+					<h2 class="right-rail-add-to-watchlist-title"><a href="http://www.tvguide.com/celebrities/aj-cook/138051/">A.J. Cook</a></h2>
+					<span class="right-rail-add-to-watchlist-details">
+						<span class="right-rail-add-to-watchlist-details-information">
+															Actor
+													</span>
+						<span class="btn-utility-container"><a  href="#" class="btn-utility btn-watchlist right-rail-add-to-watchlist-btn" data-button="watchlist" data-id="138051" data-type="celebrity" data-name="A.J. Cook"><span class="btn-utility-icon-container"><i class="fa fa-star"></i></span><span class="btn-utility-text">Watchlist</span></a></span>
+					</span>
+				</span>
+			</span>
+					<span class="right-rail-add-to-watchlist-item">
+				<span class="right-rail-add-to-watchlist-item-image">
+					<a href="http://www.tvguide.com/celebrities/joe-mantegna/157552/" class="show-card show-card-small" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/celebs/j-l/thumbs/joe-mantegna_sc_90x120.png" class="show-card-image" alt="Joe Mantegna" title="Joe Mantegna" srcset="http://static.tvgcdn.net/mediabin/showcards/celebs/j-l/thumbs/joe-mantegna_sc_180x240.png 2x, http://static.tvgcdn.net/mediabin/showcards/celebs/j-l/thumbs/joe-mantegna_sc_270x360.png 3x" width="90" height="120" />
+	
+	
+</a>				</span>
+
+				<span class="right-rail-add-to-watchlist-content">
+					<h2 class="right-rail-add-to-watchlist-title"><a href="http://www.tvguide.com/celebrities/joe-mantegna/157552/">Joe Mantegna</a></h2>
+					<span class="right-rail-add-to-watchlist-details">
+						<span class="right-rail-add-to-watchlist-details-information">
+															Actor
+													</span>
+						<span class="btn-utility-container"><a  href="#" class="btn-utility btn-watchlist right-rail-add-to-watchlist-btn" data-button="watchlist" data-id="157552" data-type="celebrity" data-name="Joe Mantegna"><span class="btn-utility-icon-container"><i class="fa fa-star"></i></span><span class="btn-utility-text">Watchlist</span></a></span>
+					</span>
+				</span>
+			</span>
+				</span>
+	</div>
+
+		<div class="right-rail-item"  data-section="sharethrough">
+		<div  data-placement="articles.show.sharethrough.right-rail" id="native_middle" class="ad-dfp"></div>	</div>
+	
+			<div class="right-rail-item" data-section-id="related-content">
+			<h2 class="section-header" data-section-id="section-header"><span class="section-header-indicator"></span><span class="section-header-text"><span class="section-header-accented-text"  data-section-id="section-header">Related</span> Content</span></h2>
+
+			<ul class="right-rail-related-content" data-section-id="related-content">
+									<li class="right-rail-related-content-item"><a href="http://www.tvguide.com/news/paget-brewster-criminal-minds-return/" class="right-rail-related-content-item-image-link"><img src="http://cimg.tvgcdn.net/i/r/2016/02/10/3734720a-4b31-467c-8d17-dd0b72586f34/crop/1333x1333+334+0/thumbnail/65x65/2ac0b56d70b40753c4315d37741180bb/160210-news-paget-brewster.jpg" class="right-rail-related-content-item-image" srcset="http://cimg.tvgcdn.net/i/r/2016/02/10/3734720a-4b31-467c-8d17-dd0b72586f34/crop/1333x1333+334+0/thumbnail/130x130/0716a8b9148f4b5e2c9b2d54ca0c8e9f/160210-news-paget-brewster.jpg 2x, http://cimg.tvgcdn.net/i/r/2016/02/10/3734720a-4b31-467c-8d17-dd0b72586f34/thumbnail/195x195/e2183208b30ba7dfdf7f48e4389b148c/160210-news-paget-brewster.jpg 3x" alt="Paget Brewster, Criminal Minds" width="65" height="65" title="Paget Brewster, Criminal Minds" /></a><a href="http://www.tvguide.com/news/paget-brewster-criminal-minds-return/" class="right-rail-related-content-item-content"><span class="right-rail-related-content-item-title" title="Paget Brewster Is Returning to Criminal Minds">Paget Brewster Is Returning to Criminal Minds</span><span class="right-rail-related-content-item-summary">Prentiss is back!</span></a></li>
+									<li class="right-rail-related-content-item"><a href="http://www.tvguide.com/news/exclusive-criminal-minds-sneak-peek-boston-beheader/" class="right-rail-related-content-item-image-link"><img src="http://cimg.tvgcdn.net/i/r/2016/01/20/75827969-71a5-4ba6-aa07-0c98dfed4b90/crop/1380x1380+345+0/thumbnail/65x65/ac1579d02a9e4589e9eb5c78606e137a/160120-news-criminal-minds.jpg" class="right-rail-related-content-item-image" srcset="http://cimg.tvgcdn.net/i/r/2016/01/20/75827969-71a5-4ba6-aa07-0c98dfed4b90/crop/1380x1380+345+0/thumbnail/130x130/ba8e4a724033cc8ec9200a303900d4e3/160120-news-criminal-minds.jpg 2x, http://cimg.tvgcdn.net/i/r/2016/01/20/75827969-71a5-4ba6-aa07-0c98dfed4b90/thumbnail/195x195/ed87e21d49d58273f9688f119681e8e9/160120-news-criminal-minds.jpg 3x" alt="Shemar Moore and Kirsten Vangsness, Criminal Minds" width="65" height="65" title="Shemar Moore and Kirsten Vangsness, Criminal Minds" /></a><a href="http://www.tvguide.com/news/exclusive-criminal-minds-sneak-peek-boston-beheader/" class="right-rail-related-content-item-content"><span class="right-rail-related-content-item-title" title="Exclusive Criminal Minds Sneak Peek: Who&#039;s Beheading People in Boston?">Exclusive Criminal Minds Sneak Peek: Who's Beheading People in Boston?</span><span class="right-rail-related-content-item-summary">Heads will roll</span></a></li>
+									<li class="right-rail-related-content-item"><a href="http://www.tvguide.com/news/criminal-minds-reid-returns-matthew-gray-gubler-erica-messer/" class="right-rail-related-content-item-image-link"><img src="http://cimg.tvgcdn.net/i/r/2016/01/12/35d8b53c-72f9-4439-b78b-872d29b716b9/crop/1380x1380+345+0/thumbnail/65x65/311840054e1184f3a997d4bcfcad37ce/160112-news-criminal-minds.jpg" class="right-rail-related-content-item-image" srcset="http://cimg.tvgcdn.net/i/r/2016/01/12/35d8b53c-72f9-4439-b78b-872d29b716b9/crop/1380x1380+345+0/thumbnail/130x130/0d226d410887774b9b86edd388f84219/160112-news-criminal-minds.jpg 2x, http://cimg.tvgcdn.net/i/r/2016/01/12/35d8b53c-72f9-4439-b78b-872d29b716b9/thumbnail/195x195/24d86514b0e8fb6dcae554e0b33445df/160112-news-criminal-minds.jpg 3x" alt="Matthew Gray Gubler and Aubrey Plaza, Criminal Minds" width="65" height="65" title="Matthew Gray Gubler and Aubrey Plaza, Criminal Minds" /></a><a href="http://www.tvguide.com/news/criminal-minds-reid-returns-matthew-gray-gubler-erica-messer/" class="right-rail-related-content-item-content"><span class="right-rail-related-content-item-title" title="Criminal Minds: All About Reid&#039;s &quot;Badass&quot; Return to Take Down the Dirty Dozen">Criminal Minds: All About Reid's &quot;Badass&quot; Return to Take Down the Dirty Dozen</span><span class="right-rail-related-content-item-summary">How Aubrey Plaza is involved</span></a></li>
+									<li class="right-rail-related-content-item"><a href="http://www.tvguide.com/news/criminal-minds-beyond-borders-cbs/" class="right-rail-related-content-item-image-link"><img src="http://cimg.tvgcdn.net/i/r/2016/01/12/3f6f236e-2118-4ac0-8a5f-85bfd093bb6b/crop/1380x1380+345+0/thumbnail/65x65/807acd8e0ba2411f5efcbf8195e063be/160112-news-criminal-minds-beyond-borders.jpg" class="right-rail-related-content-item-image" srcset="http://cimg.tvgcdn.net/i/r/2016/01/12/3f6f236e-2118-4ac0-8a5f-85bfd093bb6b/crop/1380x1380+345+0/thumbnail/130x130/d0d62d2d947eccc3cb1b7b0ca22fbcf8/160112-news-criminal-minds-beyond-borders.jpg 2x, http://cimg.tvgcdn.net/i/r/2016/01/12/3f6f236e-2118-4ac0-8a5f-85bfd093bb6b/thumbnail/195x195/b279285b3605055ef8ed909cdb9f82dc/160112-news-criminal-minds-beyond-borders.jpg 3x" alt="Alana De La Garza, Gary Sinise, Tyler James Williams, Annie Funke and Daniel Henney, Criminal Minds: Beyond Borders" width="65" height="65" title="Alana De La Garza, Gary Sinise, Tyler James Williams, Annie Funke and Daniel Henney, Criminal Minds: Beyond Borders" /></a><a href="http://www.tvguide.com/news/criminal-minds-beyond-borders-cbs/" class="right-rail-related-content-item-content"><span class="right-rail-related-content-item-title" title="Why Criminal Minds: Beyond Borders Won&#039;t Be Another Suspect Behavior">Why Criminal Minds: Beyond Borders Won't Be Another Suspect Behavior</span><span class="right-rail-related-content-item-summary">The producers learned their lesson</span></a></li>
+									<li class="right-rail-related-content-item"><a href="http://www.tvguide.com/news/exclusive-criminal-minds-sneak-peek-garcia-rossi-poker/" class="right-rail-related-content-item-image-link"><img src="http://cimg.tvgcdn.net/i/r/2015/12/09/cff562a4-5e31-4c76-bf4b-c40d40e00612/crop/1380x1380+345+0/thumbnail/65x65/0d6f42c3c4cd4bf7a2084a3992615e8f/151209-news-criminal-minds.jpg" class="right-rail-related-content-item-image" srcset="http://cimg.tvgcdn.net/i/r/2015/12/09/cff562a4-5e31-4c76-bf4b-c40d40e00612/crop/1380x1380+345+0/thumbnail/130x130/58dc78e38e208ab3662f547068af84cb/151209-news-criminal-minds.jpg 2x, http://cimg.tvgcdn.net/i/r/2015/12/09/cff562a4-5e31-4c76-bf4b-c40d40e00612/thumbnail/195x195/0b245938c215b778e3610b48475f36ff/151209-news-criminal-minds.jpg 3x" alt="Kirsten Vangsness and Joe Mantegna, Criminal Minds" width="65" height="65" title="Kirsten Vangsness and Joe Mantegna, Criminal Minds" /></a><a href="http://www.tvguide.com/news/exclusive-criminal-minds-sneak-peek-garcia-rossi-poker/" class="right-rail-related-content-item-content"><span class="right-rail-related-content-item-title" title="Exclusive Criminal Minds Sneak Peek: Garcia Has No Poker Face">Exclusive Criminal Minds Sneak Peek: Garcia Has No Poker Face</span><span class="right-rail-related-content-item-summary">Surprise! (Not)</span></a></li>
+									<li class="right-rail-related-content-item"><a href="http://www.tvguide.com/news/exclusive-criminal-minds-sneak-peek-garcia-denial-witness-protection/" class="right-rail-related-content-item-image-link"><img src="http://cimg.tvgcdn.net/i/r/2015/12/02/ae48a881-9080-4c7a-baed-27b16d3bfeae/crop/1380x1380+345+0/thumbnail/65x65/0c3ff529e3ea817cc1508cb340e6973c/151202-news-criminal-minds.jpg" class="right-rail-related-content-item-image" srcset="http://cimg.tvgcdn.net/i/r/2015/12/02/ae48a881-9080-4c7a-baed-27b16d3bfeae/crop/1380x1380+345+0/thumbnail/130x130/a3524c8326dc4cb15ab5eaba491727eb/151202-news-criminal-minds.jpg 2x, http://cimg.tvgcdn.net/i/r/2015/12/02/ae48a881-9080-4c7a-baed-27b16d3bfeae/thumbnail/195x195/8578f8c3ad67020ad2b1a3daa0ed58ca/151202-news-criminal-minds.jpg 3x" alt="Kirsten Vangsness, Criminal Minds" width="65" height="65" title="Kirsten Vangsness, Criminal Minds" /></a><a href="http://www.tvguide.com/news/exclusive-criminal-minds-sneak-peek-garcia-denial-witness-protection/" class="right-rail-related-content-item-content"><span class="right-rail-related-content-item-title" title="Exclusive Criminal Minds Sneak Peek: Garcia&#039;s Still in Denial About Being in Witness Protection">Exclusive Criminal Minds Sneak Peek: Garcia's Still in Denial About Being in Witness Protection</span><span class="right-rail-related-content-item-summary">Time to move to acceptance&hellip;</span></a></li>
+							</ul>
+		</div>
+	
+	<div class="right-rail-item">
+		<div  data-placement="articles.show.right-rail.bottom" id="mpu_bottom" class="ad-dfp"></div>	</div>
+		</div>
+	</div>
+	
+															<div class="content-section-full" data-section-id="popular-objects">
+	<div class="section section-force-separator popular-objects">
+		<div class="row">
+							<div class="col-sm-6 col-md-3">
+					<a href="http://www.tvguide.com/tvshows/">
+						<h4 class="section-header" data-section-id="section-header"><span class="section-header-indicator"></span><span class="section-header-text"><span class="section-header-accented-text"  data-section-id="section-header">Popular</span> Shows</span></h4>
+					</a>
+
+					<div class="popular-objects-category">
+						<ul class="popular-objects-category-show-cards">
+																						<li class="popular-objects-category-show-card popular-objects-category-show-card-first" data-object-id="705835-0">
+									<a href="http://www.tvguide.com/tvshows/the-people-v-oj-simpson-american-crime-story/705835/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/tvshows/700000-800000/thumbs/705835-the-people-v-oj-simpson-american-crime-story_70x93.png" class="show-card-image" alt="The People v. O.J. Simpson: American Crime Story" title="The People v. O.J. Simpson: American Crime Story" srcset="http://static.tvgcdn.net/mediabin/showcards/tvshows/700000-800000/thumbs/705835-the-people-v-oj-simpson-american-crime-story_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/tvshows/700000-800000/thumbs/705835-the-people-v-oj-simpson-american-crime-story_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="100536-1">
+									<a href="http://www.tvguide.com/tvshows/the-x-files/100536/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/rovi/showcards/tvshow/100536/thumbs/17019020_70x93.jpg" class="show-card-image" alt="The X-Files" title="The X-Files" srcset="http://static.tvgcdn.net/rovi/showcards/tvshow/100536/thumbs/17019020_140x187.jpg 2x, http://static.tvgcdn.net/rovi/showcards/tvshow/100536/thumbs/17019020_210x280.jpg 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="303547-2">
+									<a href="http://www.tvguide.com/tvshows/the-walking-dead/303547/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/rovi/showcards/tvshow/303547/thumbs/16923352_70x93.jpg" class="show-card-image" alt="The Walking Dead" title="The Walking Dead" srcset="http://static.tvgcdn.net/rovi/showcards/tvshow/303547/thumbs/16923352_140x187.jpg 2x, http://static.tvgcdn.net/rovi/showcards/tvshow/303547/thumbs/16923352_210x280.jpg 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="191811-3">
+									<a href="http://www.tvguide.com/tvshows/the-bachelor/191811/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/rovi/showcards/tvshow/191811/thumbs/16958493_70x93.jpg" class="show-card-image" alt="The Bachelor" title="The Bachelor" srcset="http://static.tvgcdn.net/rovi/showcards/tvshow/191811/thumbs/16958493_140x187.jpg 2x, http://static.tvgcdn.net/rovi/showcards/tvshow/191811/thumbs/16958493_210x280.jpg 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="805355-4">
+									<a href="http://www.tvguide.com/tvshows/dcs-legends-of-tomorrow/805355/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/tvshows/800000-900000/thumbs/805355-dcs-legends-of-tomorrow_70x93.png" class="show-card-image" alt="DC&#039;s Legends of Tomorrow" title="DC&#039;s Legends of Tomorrow" srcset="http://static.tvgcdn.net/mediabin/showcards/tvshows/800000-900000/thumbs/805355-dcs-legends-of-tomorrow_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/tvshows/800000-900000/thumbs/805355-dcs-legends-of-tomorrow_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="877320-5">
+									<a href="http://www.tvguide.com/tvshows/making-a-murderer/877320/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/tvshows/800000-900000/thumbs/877320-making-a-murderer_70x93.png" class="show-card-image" alt="Making a Murderer" title="Making a Murderer" srcset="http://static.tvgcdn.net/mediabin/showcards/tvshows/800000-900000/thumbs/877320-making-a-murderer_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/tvshows/800000-900000/thumbs/877320-making-a-murderer_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="599417-6">
+									<a href="http://www.tvguide.com/tvshows/mozart-in-the-jungle/599417/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/tvshows/500000-599999/thumbs/599417-mozart-in-the-jungle_70x93.png" class="show-card-image" alt="Mozart in the Jungle" title="Mozart in the Jungle" srcset="http://static.tvgcdn.net/mediabin/showcards/tvshows/500000-599999/thumbs/599417-mozart-in-the-jungle_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/tvshows/500000-599999/thumbs/599417-mozart-in-the-jungle_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																					</ul>
+						<ul class="popular-objects-category-items">
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">1.</span>
+									<a href="http://www.tvguide.com/tvshows/the-people-v-oj-simpson-american-crime-story/705835/" class="popular-objects-category-item-link" data-object-id="705835-0">The People v. O.J. Simpson: American Crime Story</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">2.</span>
+									<a href="http://www.tvguide.com/tvshows/the-x-files/100536/" class="popular-objects-category-item-link" data-object-id="100536-1">The X-Files</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">3.</span>
+									<a href="http://www.tvguide.com/tvshows/the-walking-dead/303547/" class="popular-objects-category-item-link" data-object-id="303547-2">The Walking Dead</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">4.</span>
+									<a href="http://www.tvguide.com/tvshows/the-bachelor/191811/" class="popular-objects-category-item-link" data-object-id="191811-3">The Bachelor</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">5.</span>
+									<a href="http://www.tvguide.com/tvshows/dcs-legends-of-tomorrow/805355/" class="popular-objects-category-item-link" data-object-id="805355-4">DC&#039;s Legends of Tomorrow</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">6.</span>
+									<a href="http://www.tvguide.com/tvshows/making-a-murderer/877320/" class="popular-objects-category-item-link" data-object-id="877320-5">Making a Murderer</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">7.</span>
+									<a href="http://www.tvguide.com/tvshows/mozart-in-the-jungle/599417/" class="popular-objects-category-item-link" data-object-id="599417-6">Mozart in the Jungle</a>
+								</li>
+													</ul>
+					</div>
+				</div>
+							<div class="col-sm-6 col-md-3">
+					<a href="http://www.tvguide.com/movies/">
+						<h4 class="section-header" data-section-id="section-header"><span class="section-header-indicator"></span><span class="section-header-text"><span class="section-header-accented-text"  data-section-id="section-header">Popular</span> Movies</span></h4>
+					</a>
+
+					<div class="popular-objects-category">
+						<ul class="popular-objects-category-show-cards">
+																						<li class="popular-objects-category-show-card popular-objects-category-show-card-first" data-object-id="904034-0">
+									<a href="http://www.tvguide.com/movies/deadpool/904034/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/movies/900000-999999/thumbs/904034-deadpool_70x93.png" class="show-card-image" alt="Deadpool" title="Deadpool" srcset="http://static.tvgcdn.net/mediabin/showcards/movies/900000-999999/thumbs/904034-deadpool_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/movies/900000-999999/thumbs/904034-deadpool_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="885600-1">
+									<a href="http://www.tvguide.com/movies/the-revenant/885600/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/movies/800000-900000/thumbs/885600-the-revenant_70x93.png" class="show-card-image" alt="The Revenant" title="The Revenant" srcset="http://static.tvgcdn.net/mediabin/showcards/movies/800000-900000/thumbs/885600-the-revenant_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/movies/800000-900000/thumbs/885600-the-revenant_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="798280-2">
+									<a href="http://www.tvguide.com/movies/star-wars-the-force-awakens/798280/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/movies/700000-800000/thumbs/798280_star-wars-force-awakens_70x93.png" class="show-card-image" alt="Star Wars: The Force Awakens" title="Star Wars: The Force Awakens" srcset="http://static.tvgcdn.net/mediabin/showcards/movies/700000-800000/thumbs/798280_star-wars-force-awakens_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/movies/700000-800000/thumbs/798280_star-wars-force-awakens_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="885950-3">
+									<a href="http://www.tvguide.com/movies/the-hateful-eight/885950/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/movies/800000-900000/thumbs/885950-the-hateful-eight_70x93.png" class="show-card-image" alt="The Hateful Eight" title="The Hateful Eight" srcset="http://static.tvgcdn.net/mediabin/showcards/movies/800000-900000/thumbs/885950-the-hateful-eight_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/movies/800000-900000/thumbs/885950-the-hateful-eight_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="885597-4">
+									<a href="http://www.tvguide.com/movies/the-big-short/885597/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/movies/800000-900000/thumbs/885597-the-big-short_70x93.png" class="show-card-image" alt="The Big Short" title="The Big Short" srcset="http://static.tvgcdn.net/mediabin/showcards/movies/800000-900000/thumbs/885597-the-big-short_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/movies/800000-900000/thumbs/885597-the-big-short_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="881574-5">
+									<a href="http://www.tvguide.com/movies/room/881574/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/movies/800000-900000/thumbs/881574-room_70x93.png" class="show-card-image" alt="Room" title="Room" srcset="http://static.tvgcdn.net/mediabin/showcards/movies/800000-900000/thumbs/881574-room_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/movies/800000-900000/thumbs/881574-room_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="885951-6">
+									<a href="http://www.tvguide.com/movies/joy/885951/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/movies/800000-900000/thumbs/885951-joy(2)_70x93.png" class="show-card-image" alt="Joy" title="Joy" srcset="http://static.tvgcdn.net/mediabin/showcards/movies/800000-900000/thumbs/885951-joy(2)_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/movies/800000-900000/thumbs/885951-joy(2)_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																					</ul>
+						<ul class="popular-objects-category-items">
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">1.</span>
+									<a href="http://www.tvguide.com/movies/deadpool/904034/" class="popular-objects-category-item-link" data-object-id="904034-0">Deadpool</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">2.</span>
+									<a href="http://www.tvguide.com/movies/the-revenant/885600/" class="popular-objects-category-item-link" data-object-id="885600-1">The Revenant</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">3.</span>
+									<a href="http://www.tvguide.com/movies/star-wars-the-force-awakens/798280/" class="popular-objects-category-item-link" data-object-id="798280-2">Star Wars: The Force Awakens</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">4.</span>
+									<a href="http://www.tvguide.com/movies/the-hateful-eight/885950/" class="popular-objects-category-item-link" data-object-id="885950-3">The Hateful Eight</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">5.</span>
+									<a href="http://www.tvguide.com/movies/the-big-short/885597/" class="popular-objects-category-item-link" data-object-id="885597-4">The Big Short</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">6.</span>
+									<a href="http://www.tvguide.com/movies/room/881574/" class="popular-objects-category-item-link" data-object-id="881574-5">Room</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">7.</span>
+									<a href="http://www.tvguide.com/movies/joy/885951/" class="popular-objects-category-item-link" data-object-id="885951-6">Joy</a>
+								</li>
+													</ul>
+					</div>
+				</div>
+							<div class="col-sm-6 col-md-3">
+					<a href="http://www.tvguide.com/celebrities/">
+						<h4 class="section-header" data-section-id="section-header"><span class="section-header-indicator"></span><span class="section-header-text"><span class="section-header-accented-text"  data-section-id="section-header">Popular</span> Celebrities</span></h4>
+					</a>
+
+					<div class="popular-objects-category">
+						<ul class="popular-objects-category-show-cards">
+																						<li class="popular-objects-category-show-card popular-objects-category-show-card-first" data-object-id="288670-0">
+									<a href="http://www.tvguide.com/celebrities/jennifer-lawrence/288670/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/celebs/j/thumbs/jennifer-lawrence_288670_70x93.png" class="show-card-image" alt="Jennifer Lawrence" title="Jennifer Lawrence" srcset="http://static.tvgcdn.net/mediabin/showcards/celebs/j/thumbs/jennifer-lawrence_288670_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/celebs/j/thumbs/jennifer-lawrence_288670_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="161851-1">
+									<a href="http://www.tvguide.com/celebrities/leonardo-dicaprio/161851/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/celebs/k-l/thumbs/leonardo-dicaprio_sc_70x93.png" class="show-card-image" alt="Leonardo DiCaprio" title="Leonardo DiCaprio" srcset="http://static.tvgcdn.net/mediabin/showcards/celebs/k-l/thumbs/leonardo-dicaprio_sc_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/celebs/k-l/thumbs/leonardo-dicaprio_sc_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="189608-2">
+									<a href="http://www.tvguide.com/celebrities/brie-larson/189608/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/celebs/a-b/thumbs/brie-larson_sc_70x93.png" class="show-card-image" alt="Brie Larson" title="Brie Larson" srcset="http://static.tvgcdn.net/mediabin/showcards/celebs/a-b/thumbs/brie-larson_sc_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/celebs/a-b/thumbs/brie-larson_sc_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="811026-3">
+									<a href="http://www.tvguide.com/celebrities/ben-higgins/811026/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/celebs/a-b/thumbs/ben-higgins-811026_70x93.png" class="show-card-image" alt="Ben Higgins" title="Ben Higgins" srcset="http://static.tvgcdn.net/mediabin/showcards/celebs/a-b/thumbs/ben-higgins-811026_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/celebs/a-b/thumbs/ben-higgins-811026_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="304112-4">
+									<a href="http://www.tvguide.com/celebrities/adam-driver/304112/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/celebs/a-b/thumbs/adam-driver_sc_70x93.png" class="show-card-image" alt="Adam Driver" title="Adam Driver" srcset="http://static.tvgcdn.net/mediabin/showcards/celebs/a-b/thumbs/adam-driver_sc_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/celebs/a-b/thumbs/adam-driver_sc_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="881576-5">
+									<a href="http://www.tvguide.com/celebrities/jacob-tremblay/881576/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/celebs/j/thumbs/jacob-tremblay-881576_70x93.png" class="show-card-image" alt="Jacob Tremblay" title="Jacob Tremblay" srcset="http://static.tvgcdn.net/mediabin/showcards/celebs/j/thumbs/jacob-tremblay-881576_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/celebs/j/thumbs/jacob-tremblay-881576_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="325988-6">
+									<a href="http://www.tvguide.com/celebrities/gina-rodriguez/325988/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/celebs/g-i/thumbs/gina-rodriguez_70x93.png" class="show-card-image" alt="Gina Rodriguez" title="Gina Rodriguez" srcset="http://static.tvgcdn.net/mediabin/showcards/celebs/g-i/thumbs/gina-rodriguez_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/celebs/g-i/thumbs/gina-rodriguez_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																					</ul>
+						<ul class="popular-objects-category-items">
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">1.</span>
+									<a href="http://www.tvguide.com/celebrities/jennifer-lawrence/288670/" class="popular-objects-category-item-link" data-object-id="288670-0">Jennifer Lawrence</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">2.</span>
+									<a href="http://www.tvguide.com/celebrities/leonardo-dicaprio/161851/" class="popular-objects-category-item-link" data-object-id="161851-1">Leonardo DiCaprio</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">3.</span>
+									<a href="http://www.tvguide.com/celebrities/brie-larson/189608/" class="popular-objects-category-item-link" data-object-id="189608-2">Brie Larson</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">4.</span>
+									<a href="http://www.tvguide.com/celebrities/ben-higgins/811026/" class="popular-objects-category-item-link" data-object-id="811026-3">Ben Higgins</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">5.</span>
+									<a href="http://www.tvguide.com/celebrities/adam-driver/304112/" class="popular-objects-category-item-link" data-object-id="304112-4">Adam Driver</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">6.</span>
+									<a href="http://www.tvguide.com/celebrities/jacob-tremblay/881576/" class="popular-objects-category-item-link" data-object-id="881576-5">Jacob Tremblay</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">7.</span>
+									<a href="http://www.tvguide.com/celebrities/gina-rodriguez/325988/" class="popular-objects-category-item-link" data-object-id="325988-6">Gina Rodriguez</a>
+								</li>
+													</ul>
+					</div>
+				</div>
+							<div class="col-sm-6 col-md-3">
+					<a href="http://www.tvguide.com/videos/">
+						<h4 class="section-header" data-section-id="section-header"><span class="section-header-indicator"></span><span class="section-header-text"><span class="section-header-accented-text"  data-section-id="section-header">Popular</span> Videos</span></h4>
+					</a>
+
+					<div class="popular-objects-category">
+						<ul class="popular-objects-category-show-cards">
+																						<li class="popular-objects-category-show-card popular-objects-category-show-card-first" data-object-id="25054462-0">
+									<a href="http://www.tvguide.com/tvshows/jane-the-virgin/660344/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/tvshows/650000-699999/thumbs/660344-jane-virgin4_70x93.png" class="show-card-image" alt="Jane the Virgin" title="Jane the Virgin" srcset="http://static.tvgcdn.net/mediabin/showcards/tvshows/650000-699999/thumbs/660344-jane-virgin4_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/tvshows/650000-699999/thumbs/660344-jane-virgin4_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="25050805-1">
+									<a href="http://www.tvguide.com/tvshows/pretty-little-liars/304160/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/tvshows/300000-399999/thumbs/304160pretty-little-liars_70x93.png" class="show-card-image" alt="Pretty Little Liars" title="Pretty Little Liars" srcset="http://static.tvgcdn.net/mediabin/showcards/tvshows/300000-399999/thumbs/304160pretty-little-liars_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/tvshows/300000-399999/thumbs/304160pretty-little-liars_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="25051134-2">
+									<a href="http://www.tvguide.com/tvshows/arrow/375406/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/rovi/showcards/tvshow/375406/thumbs/375406_arrow_70x93.png" class="show-card-image" alt="Arrow" title="Arrow" srcset="http://static.tvgcdn.net/rovi/showcards/tvshow/375406/thumbs/375406_arrow_140x187.png 2x, http://static.tvgcdn.net/rovi/showcards/tvshow/375406/thumbs/375406_arrow_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="25056016-3">
+									<a href="http://www.tvguide.com/tvshows/supernatural/192272/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/rovi/showcards/tvshow/192272/thumbs/16917303_70x93.jpg" class="show-card-image" alt="Supernatural" title="Supernatural" srcset="http://static.tvgcdn.net/rovi/showcards/tvshow/192272/thumbs/16917303_140x187.jpg 2x, http://static.tvgcdn.net/rovi/showcards/tvshow/192272/thumbs/16917303_210x280.jpg 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="25919308-4">
+									<a href="http://www.tvguide.com/tvshows/the-bachelor/191811/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/rovi/showcards/tvshow/191811/thumbs/16958493_70x93.jpg" class="show-card-image" alt="The Bachelor" title="The Bachelor" srcset="http://static.tvgcdn.net/rovi/showcards/tvshow/191811/thumbs/16958493_140x187.jpg 2x, http://static.tvgcdn.net/rovi/showcards/tvshow/191811/thumbs/16958493_210x280.jpg 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="25856433-5">
+									<a href="http://www.tvguide.com/tvshows/the-people-v-oj-simpson-american-crime-story/705835/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/tvshows/700000-800000/thumbs/705835-the-people-v-oj-simpson-american-crime-story_70x93.png" class="show-card-image" alt="The People v. O.J. Simpson: American Crime Story" title="The People v. O.J. Simpson: American Crime Story" srcset="http://static.tvgcdn.net/mediabin/showcards/tvshows/700000-800000/thumbs/705835-the-people-v-oj-simpson-american-crime-story_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/tvshows/700000-800000/thumbs/705835-the-people-v-oj-simpson-american-crime-story_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																							<li class="popular-objects-category-show-card" data-object-id="25373661-6">
+									<a href="http://www.tvguide.com/tvshows/how-to-get-away-with-murder/641176/" class="show-card show-card-small popular-objects-category-show-cards-image" data-section-id="showcard">
+
+			<img src="http://static.tvgcdn.net/mediabin/showcards/tvshows/600000-649999/thumbs/641176-how-to-get-away-with-murder3_70x93.png" class="show-card-image" alt="How to Get Away with Murder" title="How to Get Away with Murder" srcset="http://static.tvgcdn.net/mediabin/showcards/tvshows/600000-649999/thumbs/641176-how-to-get-away-with-murder3_140x187.png 2x, http://static.tvgcdn.net/mediabin/showcards/tvshows/600000-649999/thumbs/641176-how-to-get-away-with-murder3_210x280.png 3x" width="70" height="93" />
+	
+	
+</a>								</li>
+																					</ul>
+						<ul class="popular-objects-category-items">
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">1.</span>
+									<a href="http://www.tvguide.com/tvshows/jane-the-virgin/episode-1-season-2/chapter-twenty-three/660344/?video=25054462" class="popular-objects-category-item-link" data-object-id="25054462-0">Chapter Twenty-Three</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">2.</span>
+									<a href="http://www.tvguide.com/tvshows/pretty-little-liars/episode-1-season-6/game-on-charles/304160/?video=25050805" class="popular-objects-category-item-link" data-object-id="25050805-1">Game On, Charles</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">3.</span>
+									<a href="http://www.tvguide.com/tvshows/arrow/episode-1-season-4/green-arrow/375406/?video=25051134" class="popular-objects-category-item-link" data-object-id="25051134-2">Green Arrow</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">4.</span>
+									<a href="http://www.tvguide.com/tvshows/supernatural/episode-1-season-11/out-of-the-darkness-into-the-fire/192272/?video=25056016" class="popular-objects-category-item-link" data-object-id="25056016-3">Out of the Darkness, Into the Fire</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">5.</span>
+									<a href="http://www.tvguide.com/tvshows/the-bachelor/episode-7-season-20/week-7/191811/?video=25919308" class="popular-objects-category-item-link" data-object-id="25919308-4">Week 7</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">6.</span>
+									<a href="http://www.tvguide.com/tvshows/the-people-v-oj-simpson-american-crime-story/episode-1-season-1/from-the-ashes-of-tragedy/705835/?video=25856433" class="popular-objects-category-item-link" data-object-id="25856433-5">From the Ashes of Tragedy</a>
+								</li>
+															<li class="popular-objects-category-item">
+									<span class="popular-objects-category-item-number">7.</span>
+									<a href="http://www.tvguide.com/tvshows/how-to-get-away-with-murder/episode-1-season-2/its-time-to-move-on/641176/?video=25373661" class="popular-objects-category-item-link" data-object-id="25373661-6">It&#039;s Time to Move On</a>
+								</li>
+													</ul>
+					</div>
+				</div>
+					</div>
+	</div>
+</div>
+
+													</div>
+
+						<div class="content-after">
+									<div class="article-social-section hide">
+				
+		<div class="article-social-bottom-popover hide">
+	<div class="article-social-bottom-popover-background"></div>
+	<div class="article-social-bottom-popover-content article-social-background">
+		<span class="article-social-bottom-popover-arrow"></span>
+
+		<h2 class="article-social-bottom-popover-text">Like Us to Get More Entertainment News from TV Guide</h2>
+
+		<a data-button="close" class="article-social-bottom-popover-close" href="#"><span class="fa fa-times"></span></a>
+
+		<div class="article-social-bottom-popover-button-container article-social-background">
+			<div class="article-social-button article-social-bottom-popover-button">
+				<div class="fb-like" data-href="https://facebook.com/TVGuide" data-layout="button" data-action="like" data-show-faces="true" data-share="false"></div>
+			</div>
+		</div>
+	</div>
+</div>	</div>
+
+	<div class="article-sharing-xs">
+<ul class="sharing sharing-gt-xs-hidden sharing-xs-fixed">
+	<li class="sharing-item"><button data-sharing="facebook" class="sharing-link sharing-link-facebook" title="Share on Facebook">
+		<span class="sharing-link-icon"><span class="fa fa-fw fa-facebook"></span>
+		<span class="sharing-link-title">Share on Facebook</span>
+	</button></li>
+		<li class="sharing-item"><button data-sharing="twitter" class="sharing-link sharing-link-twitter" title="Share on Twitter">
+		<span class="sharing-link-icon"><span class="fa fa-fw fa-twitter"></span>
+		<span class="sharing-link-title">Share on Twitter</span>
+	</button></li>
+	<li class="sharing-item"><button data-sharing="email" class="sharing-link sharing-link-email" title="Share via Email">
+		<span class="sharing-link-icon"><span class="fa fa-fw fa-envelope"></span>
+		<span class="sharing-link-title">Share via Email</span>
+	</button></li>
+	<li class="sharing-item"><button data-sharing="pinterest" class="sharing-link sharing-link-pinterest" title="Share on Pinterest">
+		<span class="sharing-link-icon"><span class="fa fa-fw fa-pinterest"></span>
+		<span class="sharing-link-title">Share on Pinterest</span>
+	</button></li>
+	<li class="sharing-item"><button data-sharing="google-plus" class="sharing-link sharing-link-google-plus" title="Share on Google Plus">
+		<span class="sharing-link-icon"><span class="fa fa-fw fa-google-plus"></span>
+		<span class="sharing-link-title">Share on Google Plus</span>
+	</button></li>
+
+	<li class="sharing-item hidden-md hidden-lg"><button data-sharing="whatsapp" class="sharing-link sharing-link-whats-app">
+		<span class="sharing-link-icon"><span class="fa fa-fw fa-whatsapp"></span>
+		<span class="sharing-link-title">Share on WhatsApp</span>
+	</button></li>
+</ul></div>
+
+							<div  data-placement="layout.footer" id="leader_bottom" class="ad-dfp"></div>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		
+		<div id="footer" data-section-id="footer">
+	<div class="footer-container container">
+		<div class="footer-row row">
+			<div class="footer-primary col-md-7">
+				<a href="http://www.tvguide.com/" class="footer-brand">TV Guide</a>
+				<span class="footer-copyright footer-copyright-small">
+					<span class="footer-copyright-text">
+						&copy; 2016 CBS Interactive Inc. All rights reserved.
+					</span>
+				</span>
+				
+				<ul class="footer-social-links">
+			<li class="footer-social-links-item"><a class="footer-link" href="https://www.facebook.com/TVGuide" target="_blank"><i class="footer-social-links-icon fa fa-facebook"></i></a></li>
+			<li class="footer-social-links-item"><a class="footer-link" href="https://www.twitter.com/TVGuide" target="_blank"><i class="footer-social-links-icon fa fa-twitter"></i></a></li>
+			<li class="footer-social-links-item"><a class="footer-link" href="https://plus.google.com/+TVGuide" target="_blank"><i class="footer-social-links-icon fa fa-google-plus"></i></a></li>
+			<li class="footer-social-links-item"><a class="footer-link" href="https://instagram.com/tvguide" target="_blank"><i class="footer-social-links-icon fa fa-instagram"></i></a></li>
+			<li class="footer-social-links-item"><a class="footer-link" href="https://www.pinterest.com/tvguide/" target="_blank"><i class="footer-social-links-icon fa fa-pinterest-p"></i></a></li>
+			<li class="footer-social-links-item"><a class="footer-link" href="http://tvguide.tumblr.com" target="_blank"><i class="footer-social-links-icon fa fa-tumblr"></i></a></li>
+	</ul>
+				<ul class="footer-links">
+					<li class="footer-links-item footer-links-item-even"><a href="http://www.tvguide.com/help/" class="footer-link">Help</a></li>
+					<li class="footer-links-item"><a href="http://www.cbsinteractive.com/advertise/" class="footer-link" target="_blank" rel="nofollow">Media Kit</a></li>
+					<li class="footer-links-item"><a href="https://cbsi.secure.force.com/CBSi/articles/FAQ/CBS-Interactive-Copyright-Complaints?retURL=%2FCBSi%2Fapex%2Fknowledgehome%3Freferer%3Dmobiletou.com%26data%3D&popup=false&categories=CBS_Interactive%3AmTOU&template=template_mobiletou&referer=mobiletou.com&data=&cfs=SFS_TOU_PP" class="footer-link" target="_blank" rel="nofollow">Copyright Policy</a></li>
+					<li class="footer-links-item"><a href="http://www.tvguide.com/pages/staff/" class="footer-link">About Us</a></li>
+					<li class="footer-links-item"><a href="http://www.tvguide.com/pages/sitemap/" class="footer-link">Sitemap</a></li>
+					<li class="footer-links-item"><a href="http://www.tvguide.com/rss/" class="footer-link">RSS</a></li>
+					<li class="footer-links-item footer-links-item-even footer-links-item-mobile"><a href="http://www.tvguide.com/mobile/" class="footer-link">Mobile</a></li>
+					<li class="footer-copyright-item footer-links-item footer-copyright footer-copyright-large hidden-xs hidden-sm">
+						<span class="footer-copyright-text">
+							&copy; 2016 CBS Interactive Inc. All rights reserved.
+						</span>
+					</li>
+					<li class="footer-links-item"><a href="http://legalterms.cbsinteractive.com/privacy" class="footer-link" target="_blank" rel="nofollow">Privacy Policy</a></li>
+					<li class="footer-links-item footer-links-item-even"><a href="http://legalterms.cbsinteractive.com/adchoice" class="footer-link" target="_blank" rel="nofollow">Ad Choice</a></li>
+					<li class="footer-links-item"><a href="http://legalterms.cbsinteractive.com/terms-of-use" class="footer-link" target="_blank" rel="nofollow">Terms of Use</a></li>
+					<li class="footer-links-item footer-links-item-even"><a href="http://legalterms.cbsinteractive.com/eula" class="footer-link" target="_blank" rel="nofollow">Mobile User Agreement</a></li>
+				</ul>
+
+												<span class="footer-credits">
+					Photo Credits: CBS; Robert Voets; Richard Cartwright, CBS
+				</span>
+							</div>
+			<div class="footer-mobile col-md-5">
+				<a href="http://www.tvguide.com/mobile/"><h5 class="footer-mobile-header">Watch TV. Anytime. Anywhere.</h5></a>
+				<p class="footer-mobile-copy">Download the TV Guide app for iPhone, iPad and Android!</p>
+				<a class="footer-mobile-app-store" target="_blank" href="https://itunes.apple.com/us/app/id333647776"></a>
+				<a class="footer-mobile-google-play" target="_blank" href="https://play.google.com/store/apps/details?id=com.tvguidemobile"></a>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="footer-overscroll"></div>
+		<div  data-placement="layout.interstitial" id="intromercial" class="ad-dfp"></div>
+					<script src="http://www.googletagservices.com.tvgcdn.net/www/js/gpt.js"></script>
+
+			<script src="http://ox-d.cbs.servedbyopenx.com.tvgcdn.net/www/js/ads.js"></script>
+
+												<script type="text/javascript">
+				window.$tvg.guid = '8f745a10-ee37-42c0-8e2f-4dec85a85075';
+				window.$tvg.adConfig = {"dfp":{"base":{"desktop":"\/8264\/aw-tvguide\/news\/article","mobile":"\/8264\/maw-tvguide\/news\/article"},"units":{"mpu_top":{"desktop":{"sizes":[[300,250]],"position":"top","slot":"MPU","weight":800},"mobile":{"sizes":[[320,50],[300,250]],"position":"middle","slot":"MPU","weight":800}},"native_middle":{"desktop":{"sizes":[[11,11]],"position":"middle","slot":"strnative","constrainedSize":false,"weight":350,"targeting":{"strnativekey":"fe74c288"}},"mobile":{"sizes":[[11,11]],"position":"middle","slot":"strnative","constrainedSize":false,"weight":350,"targeting":{"strnativekey":"fe74c288"}}},"mpu_bottom":{"desktop":{"sizes":[[300,250]],"position":"bottom","slot":"MPU","weight":300},"mobile":{"sizes":[[320,50],[300,250]],"position":"middle2","slot":"MPU","weight":300}},"omnibar_ad":{"desktop":{"sizes":[[980,45]],"position":"top","slot":"omnibar_ad","weight":801}},"navbar_top":{"desktop":{"sizes":[[300,60]],"position":"top","slot":"300x60","minimumWidth":728,"weight":50}},"skin":{"desktop":{"sizes":[[1600,1000]],"position":"top","slot":"Skin","weight":75}},"leader_plus_top":{"desktop":{"sizes":[[728,90],[728,91],[970,66],[970,250]],"position":"top","slot":"Banner","weight":1000},"mobile":{"sizes":[[320,50]],"position":"top","slot":"Banner","weight":1000}},"leader_bottom":{"desktop":{"sizes":[[728,90],[728,92],[970,66]],"position":"bottom","slot":"Banner","weight":100},"mobile":{"sizes":[[320,50]],"position":"bottom","slot":"Banner","weight":100}},"intromercial":{"desktop":{"sizes":null,"slot":"intromercial","weight":1},"mobile":{"sizes":null,"slot":"intromercial","weight":1}}},"targeting":{"ptype":"article","cid":"exclusive-criminal-minds-sneak-peek-jj-theory","env":"production","pname":"news\/article","vguid":"8f745a10-ee37-42c0-8e2f-4dec85a85075","ftag":"twtrsoshares","session":"d","subses":3}},"adsense":{"units":[],"term":null},"taboola":{"articles.show":{"target_type":"mix","desktop":{"mode":"alternating-thumbnails-b","placement":"Bottom Article Thumbnails"},"mobile":{"mode":"alternating-thumbnails-a","placement":"Mobile Below Content Thumbnails"},"container":"taboola-articles-show"}},"netseer":[],"native":null};
+
+								window.utag_data = {"pageViewGuid":"8f745a10-ee37-42c0-8e2f-4dec85a85075","siteType":"responsive web","siteId":432,"ci":"us-203529h","siteSection":"news","bkPath":"aw-tvguide\/news","pageType":"article","siteHierarchy":"news|exclusive-criminal-minds-sneak-peek-jj-theory","userState":"not authenticated","userType":"anon","assetType":"article","articleId":"bf746169-dbf7-4478-9c17-42f19a86b30f","articleTitle":"Exclusive Criminal Minds Sneak Peek: JJ Has One Mother of a Theory","topicId":"85365a9c-afc5-4e70-ac1b-8b526b6de3e7","topicSlug":"winter-preview","articleAuthorId":"d8ece3bc-ad92-47f7-8e03-2f277c02d695","articleAuthorName":"Joyce Eng"};
+				window.$tvg.tealium = 'tags.tiqcdn.com/utag/cbsi/tvguidesite/prod/utag.js';
+			</script>
+			<script src="//static-5.tvgcdn.net/www/js/jquery-1.10.2-5ec6bb8c1c977bddb0c922659d3c192b.js"></script>
+
+
+			
+			
+			<!--[if lte IE 9]>
+				<script src="//static-2.tvgcdn.net/www/js/jquery.xdomainrequest-fe59549399abbf26db1c9018ec40ca91.js"></script>
+
+			<![endif]-->
+			<script src="//static-3.tvgcdn.net/www/js/srcset-cfa36228dba75b67e114cd54372ebe35.js"></script>
+
+			<script src="//static-5.tvgcdn.net/www/js/logger-4968e002c938f339adaec6b5143cffba.js"></script>
+
+			<script src="//static-1.tvgcdn.net/www/js/tvguid-1ad3a06070dbb8ec64406ff511b59f4e.js"></script>
+
+
+			<script src="http://native.sharethrough.com/assets/tag.js"></script>
+<script src="//static-3.tvgcdn.net/www/js/articl-ec9c1b267624152f94c991cf3f3ea558.js"></script>
+<script src="//static-5.tvgcdn.net/www/js/videos/hub-07b2bcc0bbbd4c5f73868703bf78284a.js"></script>
+
+		
+		<script type="application/ld+json">
+	{
+	    "@context" : "http://schema.org",
+	    "@type" : "Organization",
+	    "name" : "TVGuide.com",
+	    "url" : "http://www.tvguide.com",
+	    "sameAs" : [ ["https:\/\/www.facebook.com\/TVGuide","https:\/\/www.twitter.com\/TVGuide","https:\/\/plus.google.com\/+TVGuide","https:\/\/instagram.com\/tvguide","https:\/\/www.pinterest.com\/tvguide\/","http:\/\/tvguide.tumblr.com"] ]
+	}
+	</script>	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3f9fb3df7c","applicationID":"4525918","transactionName":"ZVdSMkFQCkUCVEwLDVwdcQVHWAtYTFRXDBZXXEQ5UkMQXwBbXQ==","queueTime":0,"applicationTime":510,"atts":"SRBRRAlKGUs=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

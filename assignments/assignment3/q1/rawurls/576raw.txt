@@ -1,0 +1,969 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<title>SoKing News: Daily Video Podcast for Wednesday, Feb. 10, 2016: A crane truck knocked down the large ‘Downtown Burien’ overhead archway sign on SW 152nd Street & we've got surveillance video and photos of it; local schools have mid-winter break next week...</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="viewport" content="initial-scale = 1.0, user-scalable = no">
+	<meta name="apple-itunes-app" content="app-id=993368264">
+	<meta name="description" content="Daily Video Podcast for Wednesday, Feb. 10, 2016: A crane&amp;nbsp;truck knocked down the large &amp;lsquo;Downtown Burien&amp;rsquo; overhead archway sign on SW 152nd Street Wednesday, and we've got surveillance video and photos; local schools have mid-winter break Mon. &amp;amp; Tues. next week, and Mt. Rainier Pool is holding fun events...">
+	<meta itemprop="name" content="SoKing News: Daily Video Podcast for Wednesday, Feb. 10, 2016: A crane truck knocked down the large ‘Downtown Burien’ overhead archway sign on SW 152nd Street &amp; we've got surveillance video and photos of it; local schools have mid-winter break next week...">
+	<meta itemprop="description" content="Daily Video Podcast for Wednesday, Feb. 10, 2016: A crane&amp;nbsp;truck knocked down the large &amp;lsquo;Downtown Burien&amp;rsquo; overhead archway sign on SW 152nd Street Wednesday, and we've got surveillance video and photos; local schools have mid-winter break Mon. &amp;amp; Tues. next week, and Mt. Rainier Pool is holding fun events...">
+	<meta itemprop="image" content="http://assets.libsyn.com/content/10901383">
+	<meta property="og:url" content="http://sokingnews.libsyn.com/daily-video-podcast-for-wednesday-feb-10-2016-a-winch-truck-knocked-down-the-large-downtown-burien-overhead-archway-sign-on-sw-152nd-street-weve-got-surveillance-video-and-photos-of-it-local-schools-have-mid-winter-break-mon-tues-next-week-and-mt-rainier-">
+	<meta property="og:type" content="video.other">
+	<meta property="og:video" content="https://traffic.libsyn.com/secure/sokingnews/SoKingDailyNews-021016.mp4">
+	<meta property="og:video:type" content="video/mp4">
+	<meta property="og:video:secure_url" content="https://traffic.libsyn.com/secure/sokingnews/SoKingDailyNews-021016.mp4">
+	<meta property="og:title" content="SoKing News: Daily Video Podcast for Wednesday, Feb. 10, 2016: A crane truck knocked down the large ‘Downtown Burien’ overhead archway sign on SW 152nd Street &amp; we've got surveillance video and photos of it; local schools have mid-winter break next week...">
+	<meta property="og:description" content="Daily Video Podcast for Wednesday, Feb. 10, 2016: A crane&amp;nbsp;truck knocked down the large &amp;lsquo;Downtown Burien&amp;rsquo; overhead archway sign on SW 152nd Street Wednesday, and we've got surveillance video and photos; local schools have mid-winter break Mon. &amp;amp; Tues. next week, and Mt. Rainier Pool is holding fun events...">
+	<meta property="og:image" content="http://assets.libsyn.com/content/10901383?height=250&amp;width=250&amp;overlay=true">
+	<meta property="og:image:width" content="250">
+	<meta property="og:image:height" content="250">
+	<meta name="twitter:site" content="@sokingnews">
+	<meta name="twitter:card" content="player">
+	<meta name="twitter:image" content="https://assets.libsyn.com/secure/item/4140435?height=480&amp;width=640&amp;overlay=true">
+	<meta name="twitter:player" content="https://html5-player.libsyn.com/embed/episode/id/4140435/theme/standard/height/480/width/640/menu/no">
+	<meta name="twitter:player:width" content="640">
+	<meta name="twitter:player:height" content="480">
+	<meta name="twitter:player:stream" content="http://traffic.libsyn.com/preview/sokingnews/SoKingDailyNews-021016.mp4">
+	<meta name="twitter:player:stream:content_type" content="video/mp4">
+	<meta name="twitter:title" content="SoKing News: Daily Video Podcast for Wednesday, Feb. 10, 2016: A crane truck knocked down the large ‘Downtown Burien’ overhead archway sign on SW 152nd Street &amp; we've got surveillance video and photos of it; local schools have mid-winter break next week...">
+	<meta name="twitter:description" content="Daily Video Podcast for Wednesday, Feb. 10, 2016: A crane&amp;nbsp;truck knocked down the large &amp;lsquo;Downtown Burien&amp;rsquo; overhead archway sign on SW 152nd Street Wednesday, and we've got surveillance video and photos; local schools have mid-winter break Mon. &amp;amp; Tues. next week, and Mt. Rainier Pool is holding fun events...">	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+	<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
+<!--	<script type="text/javascript" src="http://player.libsyn.com/jplayer/jquery.jplayer.js"></script>
+	<script type="text/javascript" src="http://player.libsyn.com/jplayer/libsyn.jplayer.js"></script>
+-->	<script type="text/javascript" src="http://static.libsyn.com/p/assets/simplemodal/basic/js/jquery.simplemodal.js"></script>
+	<script type="text/javascript">
+		// redirect to size 2 on iOS user agent
+		var ua = navigator.userAgent;
+		var isIos = (ua.indexOf('iPhone') != -1 || ua.indexOf('iPad') != -1 || ua.indexOf('iPod') != -1);
+
+		if(isIos && window.location.href.indexOf('/size/2') == -1 && window.location.href.indexOf('size=2') == -1){
+			var urlAppend = '';
+			
+			if(document.location.href.indexOf('?') != -1){
+				urlAppend = '&size=2';
+			} else if(document.location.href.lastIndexOf('/') == (document.location.href.length -1)){ // ends in slash
+				urlAppend = 'size/2';
+			} else {
+				urlAppend = '/size/2';
+			}
+			window.location.href = window.location.href + urlAppend;
+		}	
+	
+		(function($){
+			$('.libsyn-comment-form form').validate();
+
+			// get all premium episodes
+			var show_id = '65591';
+			var id_prefix = "libsyn-item-";
+			var episode_ids = new Array(); // For some reason, this line was causing Firefox to become unresponsive.
+			//var episode_ids = '';
+			$('div.libsyn-item:has(div.libsyn-item-premium)').each(function(index){
+				episode_ids.push($(this).attr('id').substring(id_prefix.length));	
+			});
+			
+			var episodes =  (episode_ids.length > 0) ? episode_ids.join(',') : 0;
+			$.ajax({
+				type: 'GET',
+				url: "http://my.libsyn.com/auth/check-premium-episodes",
+				data: {show_id: show_id, episodes: episodes}, 
+				dataType: 'jsonp',
+				success:function(json){
+					if(typeof json.success != "undefined"){
+						// hide premium promos
+						$('.producer_message_premium').remove();
+						$('.libsyn-item-premium').addClass('libsyn-item-free').removeClass('libsyn-item-premium');
+						
+													$('#premium-banner-wrapper').addClass("has-premium").find('a').html('You Have Premium Access');
+							$('.libsyn-premium-notice').html('<div>This is a premium episode.</div>');
+											} else {
+						noPremium();
+					}
+				},
+				error:function(xhr, textStatus, errorThrown){
+					noPremium();
+				}
+			}); 
+			
+			$.fn.libsynPlayerSize = function(options){
+				var settings = $.extend({
+					rightMargin: 30,
+					verticalMargin: 0
+				}, options);
+				
+				var maxWidth = $(window).width();
+									
+				return this.each(function(){
+					var playerWidth = $(this).width();
+					var playerHeight = $(this).height();
+					var originalWidth = $(this).data('original-width');
+					var originalHeight = $(this).data('original-height');
+					
+					if(!originalWidth){
+						originalWidth = playerWidth;
+						$(this).data('original-width', originalWidth);
+						originalHeight = playerHeight;
+						$(this).data('original-height', originalHeight);
+					}
+					var aspectRatio = originalWidth/originalHeight;
+					var containerMaxWidth = $(this).parent().css('maxWidth');
+					
+					if(containerMaxWidth && containerMaxWidth != 'none' && !isNaN(parseInt(containerMaxWidth))){
+				//		maxWidth = containerMaxWidth;
+					}
+					
+					// no players narrower than 200
+					var newWidth = Math.max(Math.min(maxWidth - settings.rightMargin, originalWidth), 200);
+					var newHeight = Math.round(newWidth/aspectRatio);
+					
+					var maxHeight = $(window).height() - settings.verticalMargin;
+					
+					if(newHeight > maxHeight && maxHeight * aspectRatio >= 200){
+						newHeight = maxHeight;
+						newWidth = Math.round(newHeight * aspectRatio);
+					}
+					if(newWidth == playerWidth) return;
+					
+					if(newHeight < 90 && originalHeight == 90) newHeight = 90;
+					
+					$(this).css('width', newWidth + 'px');
+					if(originalHeight > 75){
+						$(this).css('height', newHeight + 'px');
+					}
+				});
+			};
+		})(jQuery);
+				
+		$(document).ready(function(){
+			$("iframe[src*='html5-player']").libsynPlayerSize({rightMargin: 30, verticalMargin: 45});
+			
+			$('img.item-web-image')
+				.css('cursor', 'pointer')
+				.click(function(){
+					var imgLoaded = false;
+					var imgWidth = 0;
+					var imgHeight = 0;
+					var modalLoaded = false;
+					var modalContent;
+					var modalContainer;
+					var newImg = new Image();
+					newImg.src = $(this).data("src");
+					
+					var resizeModalImage = function(){
+						var horizBuffer = 60;
+						var vertBuffer = 60;
+						var maxWidth = $(window).width() - horizBuffer;
+						var maxHeight = $(window).height() - vertBuffer;
+					
+						var aspectRatio = imgWidth/imgHeight;
+						if(imgWidth > maxWidth){
+							imgWidth = maxWidth;
+							imgHeight = Math.round(imgWidth / aspectRatio);
+						}
+						
+						if(imgHeight > maxHeight){
+							imgHeight = maxHeight;
+							imgWidth = Math.round(imgHeight * aspectRatio);
+						}
+						
+						// resize image
+						$(modalContent).find('img').width(imgWidth).height(imgHeight);
+						
+						modalContainer.css('width', imgWidth + 10).css('height', 'auto');
+						$(window).trigger('resize.simplemodal');
+					}
+					
+					newImg.onload = function(){
+						imgLoaded = true;
+						imgWidth = $(newImg).width();
+						imgHeight = $(newImg).height();
+						
+						if(modalLoaded){
+							resizeModalImage();
+						}
+					};
+					
+					var modal = $('<div>').modal({
+						opacity:50, 
+						autoPosition: true, 
+						overlayClose: true, 
+						autoResize: false,
+						onShow: function(dialog){
+							modalLoaded = true;
+							modalContainer = dialog.container;
+							modalContent = dialog.wrap;
+							modalContent.append(newImg);
+							if(imgLoaded){
+								resizeModalImage();
+							}
+							dialog.container.css('height', 'auto');
+						}
+					});
+				});
+		});
+		
+		$(window).resize(function(){
+			$("iframe[src*='html5-player']").libsynPlayerSize({rightMargin: 30, verticalMargin: 45});
+		});
+		
+		function noPremium(){
+			// remove player
+			$('div.libsyn-item:has(div.libsyn-item-premium) div.libsyn-item-player').hide();
+			// remove links from download links
+			$('div.libsyn-item:has(div.libsyn-item-premium) div.libsyn-item-content ul li').each(function(){ 
+				$(this).html($(this).text()); 
+			});
+		}	
+
+		function showInfoModal(){
+			$('#info_text').modal({opacity:0, position:[60,null],dataCss:{color:"#ffffff"}, overlayClose:true});
+			$('#simplemodal-container').css('height', 'auto');
+		}
+
+		function showArchivesModal(){
+			$('#archives_text').modal({opacity:0, autoPosition: true,containerCss:{width:"200px"},dataCss:{color:"#ffffff"}, overlayClose:true, autoResize: true});
+		}
+		
+		function showCategoriesModal(){
+			$('#categories_text').modal({opacity:0, autoPosition: true,containerCss:{width:"250px"},dataCss:{color:"#ffffff"}, overlayClose:true, autoResize: true});
+		}
+	</script>
+
+	<link rel="stylesheet" href="http://static.libsyn.com/p/assets/simplemodal/basic/css/basic.css" />
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="http://static.libsyn.com/p/assets/simplemodal/basic/css/basic_ie.css" />
+	<![endif]-->
+	<style type="text/css">
+        body {
+                margin: 0px;
+                font-size: 12px;
+                font-family: Verdana, Geneva, sans-serif;
+				background-color: #000000;
+				color: #000000;
+									background-image: url('http://asset-server.libsyn.com/show/k-4af4f6dfbff96e93/assets/background_mp1.png');
+				        }
+		
+		img.item-web-image {
+			max-width: 300px;
+			float: right;
+			margin-left: 8px;
+			margin-bottom: 8px;
+		}
+
+        a, a:active, a:link, a:visited {
+                color: #000000;
+                text-decoration: none;
+        }
+
+        a:hover {
+                text-decoration: underline;
+        }
+
+        p {
+                margin-top: 0em;
+                margin-bottom: 1em;
+        }
+		
+		button, input[type="submit"] {
+			background-color: #B50D01;
+			border: 1px solid #f0f0f0;
+			color: #ffffff;
+		}
+		
+		.libsyn-podcast-page, #premium-banner-inner, #status-message-inner {
+			max-width: 768px;
+            min-width: 320px;
+			margin-left: auto;
+            margin-right: auto;
+		}
+		
+        .libsyn-podcast-page {
+                background-color: #ffffff;
+                margin-bottom: 40px;
+                -moz-border-bottom-left-radius: 15px;
+                -webkit-border-bottom-left-radius: 15px;
+                -khtml-border-bottom-left-radius: 15px;
+                border-bottom-left-radius: 15px;
+                -moz-border-bottom-right-radius: 15px;
+                -webkit-border-bottom-right-radius: 15px;
+                -khtml-border-bottom-right-radius: 15px;
+                border-bottom-right-radius: 15px;
+				        }
+		
+		#premium-banner-wrapper {
+			background-color: #B50D01;
+			height: 40px;
+			position:fixed;
+			top: 0;
+			z-index: 100;
+			line-height: 40px;
+			width: 100%;
+			font-size: 14px;
+		}
+		
+		#status-message-wrapper {
+			background-color: #FFFFFF;
+			height: 40px;
+			top: 0;
+			position:fixed;
+			z-index: 100;
+			line-height: 40px;
+			width: 100%;
+			font-size: 14px;
+		}
+		
+		#premium-banner-wrapper.has-premium {
+			position: absolute;
+			background-color: #06BB00;
+		}
+		
+		#premium-banner-inner a{
+			color: #ffffff;
+			font-weight: bold;
+		}
+		
+		#premium-banner-inner a:hover{
+			color: #ffffff;
+			text-decoration: underline;
+		}	
+		
+		#premium-banner-wrapper .icon {
+			margin-left: 20px;
+			margin-right: 5px;
+			position: relative;
+			top: 3px;
+			height: 16px;
+			width: 16px;
+			display: inline-block;
+			text-indent: -99999px;
+			overflow: hidden;
+			background-repeat: no-repeat;
+			background-image: url('http://static.libsyn.com/p/assets/platform/pcp-sprite-ffffff.png');
+			background-position: 0 0;
+		}
+		
+		#premium-banner-wrapper.has-premium .icon{
+			background-position: -16px 0;
+		}
+			
+			
+        .libsyn-archives {
+                margin-left: auto;
+                margin-right: auto;
+        }
+		
+		#categories_text ul {
+			padding-left: 5px;
+			list-style-type:none;
+		}
+		
+		#categories_text li {
+			margin: 5px auto;
+		}
+
+        .libsyn-show-header {
+                background-color: #000000;
+                height: 289px;
+                font-weight: bold;
+                color: #333;
+                position: relative;
+        }
+
+        .libsyn-show-title,
+        .libsyn-show-title:active,
+        .libsyn-show-title:visited,
+        .libsyn-show-title:link {
+                display: block;
+                position: absolute;
+                left: 20px;
+                top: 100px;
+                font-size: 2.5em;
+        }
+		
+		.libsyn-show-title, 
+		.libsyn-show-title:active, 
+		.libsyn-show-title:visited,
+        .libsyn-show-title:link  {
+			color: #000000;
+		}
+
+        .libsyn-show-title:hover {
+                text-decoration: none;
+        }
+
+        .libsyn-item-list {
+                padding-left: 15px;
+                padding-right: 15px;
+        }
+
+        .libsyn-social-button {
+                background-image: url('http://static.libsyn.com/p/assets/platform/icon_argyle.png');
+                overflow: hidden;
+                color: transparent;
+                display: block;
+                height:35px;
+                width:40px;
+                float:left;
+				cursor: pointer;
+        }
+		
+		
+        .libsyn-social-button span {
+                display: none;
+        }
+
+        .libsyn-social-info {
+                background-position: -475px center;
+        }
+
+        .libsyn-social-twitter {
+                background-position: -2px center;
+        }
+
+        .libsyn-social-facebook {
+                background-position: -60px center;
+        }
+
+        .libsyn-social-phone {
+                background-position:-116px center;
+        }
+
+        .libsyn-social-email {
+                background-position: -182px center;
+        }
+
+        .libsyn-social-itunes {
+                background-position:-248px center;
+        }
+
+        .libsyn-social-rss {
+                background-position:-306px center;
+        }
+
+        .libsyn-social-android {
+                background-position: -343px center;
+        }
+
+        .libsyn-social-ios {
+                background-position: -376px center; 
+				width: 96px;
+        }
+
+		.libsyn-social-premium {
+							background-position: -655px center;
+                width: 55px;
+						
+			position:relative;
+			top:-1px;
+        }
+		
+		.libsyn-social-premium.logged-in {
+			background-position: -795px center;
+			width: 68px;
+		}
+		
+		#libsyn-social-spacer {
+			width: 100%;
+			height: 18px;
+		}
+		
+        .libsyn-social {
+			width: 500px;
+			margin-left: 20px;
+        }
+
+        .libsyn-search {
+                z-index: 15;
+                float: right;
+				width: 200px;
+                margin-right: 20px;
+				margin-bottom: 8px;
+				margin-top: 20px;
+                text-align: right;
+        }
+
+        .libsyn-search-field {
+                width: 150px;;
+                padding: 4px;
+                padding-left: 13px;
+                font-size: 1.1em;
+                -moz-border-radius: 15px;
+                -webkit-border-radius: 15px;
+                -khtml-border-radius: 15px;
+                border-radius: 15px;
+                border: 1px #333 solid;
+                opacity: .25;
+        }
+
+        .libsyn-search-field:focus {
+                opacity: .85;
+                outline: none;
+        }
+
+        .libsyn-item {
+                padding-top: 20px;
+                padding-bottom: 20px;
+                border-bottom: 1px #ccc solid;
+        }
+
+        .libsyn-item-title a {
+                display: block;
+                font-size: 1.6em;
+                font-weight: bold;
+                height: 1.6em;
+                width: 100%;
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+				color: #000000;
+        }
+
+        .libsyn-item-title a,
+        .libsyn-item-title a:visited,
+        .libsyn-item-title a:link,
+        .libsyn-item-title a:active {
+                color:  #000000;
+        }
+
+        .libsyn-item-title a:hover {
+                text-decoration: none;
+        }
+
+        .libsyn-item-content li {
+                list-style-type: none;
+                line-height: 18px;
+        }
+		
+		.libsyn-item-content a:hover {
+			text-decoration: underline;
+		}
+		
+
+        .libsyn-premium {
+                display: block;
+                float: left;
+                background-image: url(http://static.libsyn.com/p/assets/platform/18px_lock.png);
+                width: 12px;
+                height: 18px;
+                margin-right: 5px;
+        }
+        
+        ul.libsyn-item-premium li{
+                text-decoration:line-through;
+        }       
+
+        .libsyn-item-content .libsyn-item-premium {
+                list-style-image: url(http://static.libsyn.com/p/assets/platform/18px_lock.png);
+        }
+
+        .libsyn-item-release-date {
+                font-size: .9em;
+                color: #555555;
+                padding-bottom: 7px;
+        }
+		
+        .libsyn-comment-count,
+        .libsyn-comment-count:active,
+        .libsyn-comment-count:visited,
+        .libsyn-comment-count:link {
+                background-image: url('http://assets.libsyn.com/static/wtfpod/25px_comment_bubble_argyle.png');
+                background-position: 0px -22px;
+                display: block;
+                float: right;
+                height: 21px;
+                width: 25px;
+                padding-top: 1px;
+				text-decoration: none;
+                text-align: center;
+                color: #fff !important;
+				font-size: 0.9em !important;
+				font-weight: normal !important;
+		}
+
+        .libsyn-comment-count:hover {
+                text-decoration: none;
+        }
+
+        .libsyn-item-body {
+                line-height: 1.5em;
+				color: #000000;
+        }
+
+        .libsyn-item-social {
+                margin-bottom: 10px;
+        }
+
+        .libsyn-item-player {
+                margin-bottom: 10px;
+        }
+
+        .libsyn-episode-player .libsyn-player {
+                border: 1px #aaa solid;
+                background-color: #efefef;\
+                /**
+                -webkit-border-radius: 10px;
+                -moz-border-radius: 10px;
+                border-radius: 10px;
+                **/
+        }
+
+        .libsyn-item-content a {
+                font-weight: bold;
+        }
+        
+        .libsyn-extra-content{
+                text-transform:capitalize;      
+        }       
+
+        .libsyn-comments {
+                margin-top: 20px;
+        }
+
+        .libsyn-comment-header {
+                font-size: 1.5em;
+                margin-bottom: 10px;
+        }
+
+        .libsyn-comments ul {
+                padding: 0px;
+                margin: 0px;
+        }
+
+        .libsyn-comment {
+                list-style-type: none;
+                margin-left: 0px;
+                margin-bottom: 20px;
+                padding: 20px;
+                background-color: #eee;
+        }
+
+        .libsyn-comment-poster-name {
+                font-weight: bold;
+        }
+
+        .libsyn-comment-creation-date {
+                float: right;
+        }
+
+        .libsyn-comment-form {
+                width: 70%;
+                margin-top: 50px;
+                margin-left: auto;
+                margin-right: auto;
+        }
+
+        .libsyn-comment-form-fields {
+                padding: 0px;
+                margin: 0px;
+        }
+
+        .libsyn-comment-form-fields li {
+                list-style-type: none;
+                margin-left: 0px;
+        }
+
+        .libsyn-comment-form-fields label {
+                display: block;
+                margin-top: 10px;
+        }
+
+        #recaptcha {
+                margin-top: 10px;
+        }
+
+        .libsyn-comment-form-fields label.error {
+                margin-top: 0px;
+                color: red;
+        }
+
+        .libsyn-comment-form-fields input,
+        .libsyn-comment-form-fields textarea {
+                border: 1px #aaa solid;
+                padding: 7px;
+                font-size: 1.4em;
+                width: 100%;
+        }
+
+        .libsyn-comment-form-fields input:focus,
+        .libsyn-comment-form-fields textarea:focus {
+                border: 1px #000 solid;
+                outline: none;
+        }
+
+        #submit {
+                margin-top: 15px;
+                width: auto;
+                padding-left: 20px;
+                padding-right: 20px;
+                cursor: pointer;
+        }
+
+        .libsyn-alert {
+                font-size: 1.1em;
+                        font-weight: bold;
+                padding: 10px;
+                margin-bottom: 25px;
+                border:1px #CCDF00 solid;
+                background-color:#F8FFA7;
+        }
+
+        .libsyn-copyright {
+                font-size: .85em;
+                font-style: italic;
+        }
+
+        .pager {
+                text-align: center;
+                margin-top: 20px;
+        }
+
+        .pager .page {
+                padding-left: 7px;
+                padding-right: 7px;
+        }
+
+        .pager .currentPage {
+                font-weight: bold;
+                font-size: 1.4em;
+        }
+
+        .pager .previousPage {
+                padding-right: 15px;
+        }
+
+        .pager .nextPage {
+                padding-left: 15px;
+        }
+
+        .pager .anchorPage {
+                padding-left: 10px;
+                padding-right: 10px;
+        }
+		
+		.pager a:hover {
+			text-decoration: underline;
+		}
+
+        .padding {
+                padding: 20px;
+        }
+
+        .center {
+                text-align: center;
+                margin-left: auto;
+                margin-right: auto;
+        }
+
+        .clear {
+                clear: both;
+        }
+
+        .space {
+                min-height: 20px;
+                height: 20px;
+        }	
+		
+		a, a:link, a:hover, a:visited {
+			color: #000000;
+			text-decoration:none;
+		}
+
+        .libsyn-navbar {
+                background-color: #dcdcdc;
+                padding: 2px 5px;
+        }
+
+        .libsyn-navbutton {
+                color: #000000;
+                font-size: 12px;
+                text-decoration: none;
+                vertical-align: middle;
+                display: inline-block;
+                margin: 5px;
+        }
+
+        .libsyn-navbutton, a.libsyn-navbutton:active, a.libsyn-navbutton:link, a.libsyn-navbutton:visited {
+                text-decoration: none;
+                color: #000000;
+        }
+
+        a.libsyn-navbutton:hover, div.libsyn-navbutton:hover {
+                color: #000000;
+                cursor: pointer;
+                text-decoration: underline;
+        }
+
+        .libsyn-navbutton:active {
+                color: #1874CD;
+        }
+
+        .libsyn-filterbar {
+                background-color: #f0f0f0;
+				color: #000000;
+                padding: 7px 10px;
+                font-weight: bold;
+                border-bottom: 1px #999999 solid;
+                border-top: 1px #999999 solid;
+        }
+
+        .libsyn-producer-message {
+                background-color: #666666;
+                color: #ffffff;
+                font-size:14pt;
+                padding: 7px 10px;
+                border-bottom: 1px solid #999999;
+                border-top: 1px solid #999999;
+        }
+
+        .libsyn-message-button {
+                margin-left: auto;
+                margin-right: auto;
+				padding: 10px;
+                cursor: pointer;
+                display: block;
+				font-weight: bold;
+        }
+
+        /* fix player fullscreen */
+        .jp-playlist{display:none}
+        .libsyn-fullscreen{z-index:1000000000}
+        
+
+        /* info modal */
+        #info_text{
+                display:none;
+        }
+
+        /* archives modal */
+        #archives_text{
+                display:none;
+        }
+		
+		 /* categories modal */
+        #categories_text{
+                display:none;
+        }
+
+        #simplemodal-container {width:600px; color:#ffffff; background-color:#333333; border:4px solid #444444; padding:12px;}
+	
+        #simplemodal-container h2 {margin-top:0px}
+		
+		#simplemodal-container a {
+			color: #ffffff;
+		}
+
+        </style>
+	<style type="text/css">
+
+			.libsyn-show-header {
+			background-image: url('http://assets.libsyn.com/content/9788598');
+		}
+		</style>
+<script type="text/javascript">
+	var _gaq = _gaq || [];_gaq.push(['_setAccount','UA-1417413-3']);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();
+
+ </script>
+</head>
+<body>
+			<div class="libsyn-podcast-page">
+		<div class="libsyn-show-header">
+			
+<div class="libsyn-search"><form method="get" action="http://sokingnews.libsyn.com/"><input class="libsyn-search-field" type="text" name="search" placeholder="Search" /></form></div>			<div id="libsyn-social-spacer"></div>
+<div class="libsyn-social">
+<div onClick="showInfoModal()" class="libsyn-social-button libsyn-social-info"></div>
+<div id="info_text"><h2>SoKing News</h2>Local News & more for an area south of Seattle, WA, gleaned from South King Media's award-winning six local blogs!</div>
+<a class="libsyn-social-button libsyn-social-facebook" href="http://facebook.com/sokingnews" target="_blank" title="Facebook"><span>Facebook</span></a>
+<a class="libsyn-social-button libsyn-social-twitter" href="http://twitter.com/sokingnews" target="_blank" title="Twitter"><span>Twitter</span></a>
+<a class="libsyn-social-button libsyn-social-email" href="mailto:scott@southkingmedia.com" target="_blank" title="Email"><span>Email</span></a>
+<a class="libsyn-social-button libsyn-social-rss" href="http://sokingnews.libsyn.com/rss" target="_blank" title="RSS Feed"><span>RSS Feed</span></a>
+<a class="libsyn-social-button libsyn-social-itunes" href="https://itunes.apple.com/us/podcast/soking-news/id993368264?mt=2&ign-mpt=uo%3D4&ls=1" target="_blank" title="Subscribe in iTunes"><span>Subscribe in iTunes</span></a>
+</div> <!-- CLOSE <div class="libsyn-social"> -->			
+<div class="clear"></div>			
+<a class="libsyn-show-title" href="/">SoKing News</a>		</div> <!-- CLOSE <div class="libsyn-show-header"> -->
+		<div id="archives_text" class="libsyn-archives"><div style="border-bottom: 1px solid #aaa; width:40%;"><strong><a href="/2016">2016</a></strong><br /><span style="margin-left: 10px;"><a href="/2016/02">February</a><br></span><span style="margin-left: 10px;"><a href="/2016/01">January</a><br></span><br /></div> <!-- CLOSE <div style="border-bottom: 1px solid #aaa; width:40%;"> --><br /><div style="border-bottom: 1px solid #aaa; width:40%;"><strong><a href="/2015">2015</a></strong><br /><span style="margin-left: 10px;"><a href="/2015/12">December</a><br></span><span style="margin-left: 10px;"><a href="/2015/11">November</a><br></span><span style="margin-left: 10px;"><a href="/2015/10">October</a><br></span><span style="margin-left: 10px;"><a href="/2015/09">September</a><br></span><span style="margin-left: 10px;"><a href="/2015/08">August</a><br></span><span style="margin-left: 10px;"><a href="/2015/07">July</a><br></span><span style="margin-left: 10px;"><a href="/2015/06">June</a><br></span><span style="margin-left: 10px;"><a href="/2015/05">May</a><br></span><br /></div> <!-- CLOSE <div style="border-bottom: 1px solid #aaa; width:40%;"> --><br /></div> <!-- CLOSE <div id="archives_text" class="libsyn-archives"> -->				
+<div class="libsyn-navbar">
+<a class="libsyn-navbutton" href="/">All Episodes</a>
+<div class="libsyn-navbutton" style="width:auto" onClick="showArchivesModal()">Archives</div>
+</div> <!-- CLOSE <div class="libsyn-navbar"> -->		
+<div class="libsyn-filterbar">Now displaying: Page 1</div>		
+		
+<div class="libsyn-item-list"><div class="libsyn-item" id="libsyn-item-4140435">
+<div class="libsyn-item-title">
+<a href="http://sokingnews.libsyn.com/daily-video-podcast-for-wednesday-feb-10-2016-a-winch-truck-knocked-down-the-large-downtown-burien-overhead-archway-sign-on-sw-152nd-street-weve-got-surveillance-video-and-photos-of-it-local-schools-have-mid-winter-break-mon-tues-next-week-and-mt-rainier-">Daily Video Podcast for Wednesday, Feb. 10, 2016: A crane truck knocked down the large ‘Downtown Burien’ overhead archway sign on SW 152nd Street & we've got surveillance video and photos of it; local schools have mid-winter break next week...</a>
+<a class="libsyn-comment-count" href="http://sokingnews.libsyn.com/daily-video-podcast-for-wednesday-feb-10-2016-a-winch-truck-knocked-down-the-large-downtown-burien-overhead-archway-sign-on-sw-152nd-street-weve-got-surveillance-video-and-photos-of-it-local-schools-have-mid-winter-break-mon-tues-next-week-and-mt-rainier-#comments">0</a>
+</div> <!-- CLOSE <div class="libsyn-item-title"> -->
+<div class="libsyn-item-release-date">
+Feb 11, 2016
+</div> <!-- CLOSE <div class="libsyn-item-release-date"> -->
+<div class="libsyn-item-body">
+<p>Daily Video Podcast for Wednesday, Feb. 10, 2016: A crane&nbsp;truck knocked down the large &lsquo;Downtown Burien&rsquo; overhead archway sign on SW 152nd Street Wednesday, and we've got surveillance video and photos; local schools have mid-winter break Mon. &amp; Tues. next week, and Mt. Rainier Pool is holding fun events...</p>
+</div> <!-- CLOSE <div class="libsyn-item-body"> -->
+<div class="libsyn-item-social">
+<div class="pw-widget pw-counter-horizontal" pw:url="http://sokingnews.libsyn.com/daily-video-podcast-for-wednesday-feb-10-2016-a-winch-truck-knocked-down-the-large-downtown-burien-overhead-archway-sign-on-sw-152nd-street-weve-got-surveillance-video-and-photos-of-it-local-schools-have-mid-winter-break-mon-tues-next-week-and-mt-rainier-" pw:title="Daily Video Podcast for Wednesday, Feb. 10, 2016: A crane truck knocked down the large ‘Downtown Burien’ overhead archway sign on SW 152nd Street &amp; we've got surveillance video and photos of it; local schools have mid-winter break next week...">
+<a class="pw-button-facebook pw-look-native"></a>
+<a class="pw-button-twitter pw-look-native"></a>
+<a class="pw-button-pinterest pw-look-native"></a>
+<a class="pw-button-googleplus pw-look-native"></a>
+<a class="pw-button-post-share"></a>
+</div>
+</div> <!-- CLOSE <div class="libsyn-item-social"> -->
+<div class="libsyn-item-player">
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4140435/height/360/width/480/theme/standard/autonext/no/thumbnail/yes/autoplay/no/preload/no/class/video/no_addthis/no/direction/forward/" height="360" width="480" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+</div> <!-- CLOSE <div class="libsyn-item-player"> -->
+<div class="libsyn-item-content">
+<ul class="libsyn-item-free">
+<li><a href="http://traffic.libsyn.com/sokingnews/SoKingDailyNews-021016.mp4" >Download this Episode</a></li>
+</ul>
+</div> <!-- CLOSE <div class="libsyn-item-content"> -->
+<div class="libsyn-comments">
+<div class="libsyn-comment-header">0 Comments</div>
+<div class="libsyn-comment-form">
+<form method="post" action="http://web-support.libsyn.com/comment/submit">
+<input type="hidden" name="item_id" value="4140435"/>
+<input type="hidden" name="redirect_url" value="http://sokingnews.libsyn.com/daily-video-podcast-for-wednesday-feb-10-2016-a-winch-truck-knocked-down-the-large-downtown-burien-overhead-archway-sign-on-sw-152nd-street-weve-got-surveillance-video-and-photos-of-it-local-schools-have-mid-winter-break-mon-tues-next-week-and-mt-rainier-/comments"/>
+<input type="hidden" name="client_ip" value="204.16.245.39"/>
+<input type="hidden" name="comment_poster_user_agent" value="curl/7.35.0"/>
+<ul class="libsyn-comment-form-fields">
+<li>
+<label for="comment_poster_name">Name</label>
+<input name="comment_poster_name" id="comment_poster_name" type="text" size="255" class="required" value="" required />
+</li>
+<li>
+<label for="comment_poster_email">E-mail</label>
+<input name="comment_poster_email" id="comment_poster_email" type="email" size="255" class="required email" value="" required />
+</li>
+<li>
+<label for="comment_body">Comment</label>
+<textarea name="comment_body" id="comment_body" cols="50" rows="6" class="required" required></textarea>
+</li>
+<li id="recaptcha">
+<script type="text/javascript">
+var RecaptchaOptions = {"theme":"red","lang":"en"};
+</script>
+<script type="text/javascript" src="http://api.recaptcha.net/challenge?k=6Le90QAAAAAAANK4VJBwyDUz-6bOYmb5VnbSXxkz">
+</script>
+<noscript>
+<iframe src="http://api.recaptcha.net/noscript?k=6Le90QAAAAAAANK4VJBwyDUz-6bOYmb5VnbSXxkz" height="300" width="500" frameborder="0"></iframe><br>
+<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+<input type="hidden" name="recaptcha_response_field" value="manual_challenge">
+</noscript>
+</li>
+<li><input type="submit" name="submit" id="submit" value="post comment"/></li>
+</ul>
+</form>
+</div> <!-- CLOSE <div class="libsyn-comment-form"> -->
+</div> <!-- CLOSE <div class="libsyn-comments"> -->
+</div> <!-- CLOSE <div class="libsyn-item" id="libsyn-item-4140435"> -->
+</div> <!-- CLOSE <div class="libsyn-item-list"> -->		
+<div class="space"></div>				
+<div class="space"></div>		
+<div class="libsyn-copyright center padding">&copy;© Copyright 2015 South King Media, SoKing Internet Radio</div>	</div> <!-- CLOSE <div class="libsyn-podcast-page"> -->
+
+	
+	<script src="http://i.po.st/share/script/post-widget.js#publisherKey=j83vqrk56jrkmkqqt00c" type="text/javascript"></script>
+</body>
+</html>

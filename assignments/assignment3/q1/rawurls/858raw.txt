@@ -1,0 +1,3149 @@
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+        
+    
+    
+
+
+
+
+
+<!DOCTYPE html>
+
+
+
+
+<html lang="en" class=" ">
+    <head prefix="og: http://ogp.me/ns#">
+        
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+        <meta name="usn-platform-id" content="a" />
+
+        
+        
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgEGUlJVGwcAXVVRDwE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function s(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);return i}function c(t,e){d[t]=f(t).concat(e)}function f(t){return d[t]||[]}function u(){return r(s)}var d={};return{on:c,emit:s,create:u,listeners:f,context:e,_events:d}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:25,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:26,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").create(),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:27,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:27,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:27,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:27,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,l,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-",o)}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:27,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=this.lastSize||n(t);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t){var e=t.responseType,n="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return r(n)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=0,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:16,4:12,5:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:25,2:26,handle:"D5DuLP"}],16:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var h=0},{1:25,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],25:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],26:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],27:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:26,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script><script src="//tags.tiqcdn.com/utag/usnews/main/prod/utag.sync.js"></script>
+
+        
+        <script type="text/javascript">
+            var utag_data = {"site_portal":"News","article_publish_date":"2016-02-10","content_type":"editorial","page_type":"article","page_name":"Sacramento coach Karl says meeting with GM Divac positive - US News","site_product_section":"Article","site_product":"Sports News","site_vertical":"News"};
+        </script>
+
+        
+        
+            <meta name="usn-stitial-fact" content="{&#034;slug&#034;:&#034;140326.most.presidents.fact&#034;,&#034;text&#034;:&#034;Ohio and Virginia both claim to have produced the most presidents, with eight each.&#034;}" />
+        
+
+        
+        
+            
+                
+<link rel="stylesheet" type="text/css" href="/static/css/global.css"/>
+            
+        
+            
+                
+<link rel="stylesheet" type="text/css" href="/static/css/article.css"/>
+            
+        
+            
+                
+<link rel="alternate" type="application/json+oembed" href="http://www.usnews.com/news/sports/articles/2016-02-10/sacramento-coach-karl-says-meeting-with-gm-divac-positive?utm_source=feedburner&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A%20usnews%2FcRaq%20%28U.S.%20News%20-%20News%29&amp;_embed=true&amp;_format=oembed"/>
+            
+        
+            
+                
+<title>Sacramento coach Karl says meeting with GM Divac positive - US News</title>
+            
+        
+            
+                
+<meta property="og:title" content="Sacramento Kings coach George Karl says he has a positive outlook after meeting with team general manager Vlade Divac amid a losing streak and speculation about his job"/>
+            
+        
+            
+                
+<meta name="description" content="PHILADELPHIA (AP) &mdash; Sacramento Kings coach George Karl said Wednesday he has a positive outlook after meeting with team general manager Vlade Divac amid a losing streak and speculation about his job."/>
+            
+        
+            
+                
+<meta property="og:description" content="PHILADELPHIA (AP) &mdash; Sacramento Kings coach George Karl said Wednesday he has a positive outlook after meeting with team general manager Vlade Divac amid a losing streak and speculation about his job."/>
+            
+        
+            
+                
+<meta name="keywords" content="Collections: Sports,Associated Press"/>
+            
+        
+            
+                
+<meta charset="UTF-8"/>
+            
+        
+            
+                
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+            
+        
+            
+                
+<link rel="canonical" href="http://www.usnews.com/news/sports/articles/2016-02-10/sacramento-coach-karl-says-meeting-with-gm-divac-positive"/>
+            
+        
+            
+                
+<meta name="usn-comments-mode" content="facebook"/>
+            
+        
+            
+                
+<meta name="google-site-verification" content="owJBuFHD3VHcTSsnPSOYizmUcs3GSBjbx09vBbBi1MM"/>
+            
+        
+            
+                
+<meta name="msvalidate.01" content="A8E47FA91124063A4A9C78AD5273DC0F"/>
+            
+        
+            
+                
+<meta property="fb:app_id" content="130063997038366"/>
+            
+        
+            
+                
+<meta name="twitter:card" content="summary"/>
+            
+        
+            
+                
+<meta name="twitter:site" content="@USNews"/>
+            
+        
+            
+                
+<meta name="twitter:title" content="Sacramento coach Karl says meeting with GM Divac positive - US News"/>
+            
+        
+            
+                
+<meta name="twitter:description" content="PHILADELPHIA (AP) &mdash; Sacramento Kings coach George Karl said Wednesday he has a positive outlook after meeting with team general manager Vlade Divac amid a losing streak and speculation about his job."/>
+            
+        
+            
+                
+<meta property="og:site_name" content="US News &amp; World Report"/>
+            
+        
+            
+                
+<meta property="og:url" content="http://www.usnews.com/news/sports/articles/2016-02-10/sacramento-coach-karl-says-meeting-with-gm-divac-positive"/>
+            
+        
+            
+                
+<meta name="viewport" content="width=980"/>
+            
+        
+            
+                
+<meta name="site" content="news"/>
+            
+        
+            
+                
+<meta name="zone" content="sports/articles"/>
+            
+        
+            
+                
+<meta property="og:type" content="article"/>
+            
+        
+            
+                
+<meta property="og:image" content="http://www.usnews.com/cmsmedia/4e/0002fba514f0f9538fd3c8efa6a457/media:e7bdea161d684fbeb09e55425159eba0KingsCavaliersBasketball.JPEG"/>
+            
+        
+            
+                
+<meta property="social_id" content="http://t.usnews.com/Zhqxfd"/>
+            
+        
+            
+                
+<meta class="swiftype" name="image" content="http://www.usnews.com/dims4/USNEWS/9956dd9/2147483647/thumbnail/80x80/quality/85/?url=%2Fcmsmedia%2F4e%2F0002fba514f0f9538fd3c8efa6a457%2Fresizes%2F500%2Fmedia%3Ae7bdea161d684fbeb09e55425159eba0KingsCavaliersBasketball.JPEG" data-type="enum"/>
+            
+        
+            
+                
+<meta name="usn-content-type" content="article"/>
+            
+        
+            
+                
+<meta property="article:published_time" content="2016-02-10"/>
+            
+        
+            
+                
+<meta class="swiftype" content="2016-02-10" name="published_at" data-type="date"/>
+            
+        
+            
+                
+<meta property="article:publisher" content="https://www.facebook.com/usnewsandworldreport"/>
+            
+        
+
+        <link rel="shortcut icon" href="/static/images/favicon.ico"/>
+
+        
+        <script src="/static/scripts/jquery/base.js" type="text/javascript"></script>
+
+        
+        <script src="/static/scripts/jquery/autocomplete.js"></script>
+        <script>USN.load('brightspot');</script>
+
+        
+        <script src="/static/scripts/lib/requirejs-concat.js"></script>
+
+        
+        <!-- Amazon A9 -->
+        <script data-partner-name="amazon" type="text/javascript">
+            USN.load('amzn');
+        </script>
+        <script data-partner-name="amazon" type="text/javascript">
+            try {
+                amznads.getAds('3143');
+            } catch(e) { /*ignore*/}
+        </script>
+        <!-- /Amazon A9 -->
+
+        <script type="text/javascript">
+            USN.load('head-scripts-concat');
+        </script>
+
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+
+        
+        <link href="/assets/css/grid.css" rel="stylesheet" type="text/css"/>
+        
+
+        
+        
+
+        <!--[if lt IE 9]>
+            <script src='/static/scripts/html5shiv.js'></script>
+        <![endif]-->
+        <script data-partner-name="nativo" type="text/javascript" src="http://a.postrelease.com/serve/load.js?async=true"></script>
+        <!-- Yieldbot.com Intent Tag LOADING -->
+        <script type="text/javascript" src="//cdn.yldbt.com/js/yieldbot.intent.js"></script>
+        <!-- Yieldbot.com Intent Tag ACTIVATION -->
+        <script type="text/javascript">
+          var checkMobile = $("meta[name='usn-is-mobile']");
+          if (checkMobile.attr('content') === 'true'){
+              yieldbot.pub('2652');
+              yieldbot.defineSlot('mobile_LB');
+              yieldbot.defineSlot('mobile_medrec');
+          } else {
+              yieldbot.pub('9597');
+              yieldbot.defineSlot('leaderboard');
+              yieldbot.defineSlot('medrec', {sizes: [ [300, 250],[300, 600] ]});
+          }
+          yieldbot.go();
+        </script>
+        
+        <script type="text/javascript">
+            (function(a,b,c,d){
+                a='//tags.tiqcdn.com/utag/usnews/main/prod/utag.js';
+                b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+                a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+            })();
+        </script>
+</head>
+
+
+<body class="wrapper-global section-news">
+
+    
+        
+    
+    
+        
+
+
+
+
+
+
+
+
+
+    
+    
+
+        <div id="header_takeover" class="ad ad-headerTakeover sep">
+            
+                
+                
+                    <script type="text/javascript"> dblclick('header_takeover'); </script>
+                
+            
+        </div>
+
+    
+
+
+
+    
+
+    
+    
+    
+
+    <div class="wrapper-global_inner">
+
+    
+
+
+
+
+
+
+
+<style type="text/css">._da{-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box;}._dj{float:left;}._dj-px:before{content:' . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .';display:block;height:0;overflow:hidden;visibility:hidden;}._dw{height:0;}._dh{width:0;}.layout-standard{min-width:972.0px;}.layout-standard>._da[_da]{display:none;}.layout-standard>._da[_da="header"]{display:block;float:left;margin:0 -100% 0 -30000px;padding:0 0 0 0.0%;width:100.0%;}.layout-standard>._da>._dj-px[_da="header"]{height:auto;margin:0.0px -30000.0px 0 30000.0px;width:auto;}.layout-standard>._da>._dj-px ._dw-em[_da="header"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-pt[_da="header"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-px[_da="header"]{padding-left:972.0px;}.layout-standard>._da[_da="ad"]{clear:left;display:block;float:left;margin:0 -100% 0 -30000px;padding:0 0 0 0.0%;width:100.0%;}.layout-standard>._da>._dj-px[_da="ad"]{height:auto;margin:0.0px -30000.0px 0 30000.0px;width:auto;}.layout-standard>._da>._dj-px ._dw-em[_da="ad"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-pt[_da="ad"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-px[_da="ad"]{padding-left:972.0px;}.layout-standard>._da[_da="bc"]{clear:left;display:block;float:left;margin:0 -100% 0 -30000px;padding:0 0 0 50.0%;width:0.0%;}.layout-standard>._da>._dj-px[_da="bc"]{height:auto;margin:0.0px -30486.0px 0 29514.0px;width:972.0px;}.layout-standard>._da>._dj-px ._dw-em[_da="bc"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-pt[_da="bc"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-px[_da="bc"]{padding-left:972.0px;}.layout-standard>._da[_da="left"]{clear:left;display:block;float:left;margin:0 -100% 0 -30000px;padding:0 0 0 50.0%;width:0.0%;}.layout-standard>._da>._dj-px[_da="left"]{height:auto;margin:0.0px -30166.0px 0 29514.0px;width:652.0px;}.layout-standard>._da>._dj-px ._dw-em[_da="left"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-pt[_da="left"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-px[_da="left"]{padding-left:652.0px;}.layout-standard>._da[_da="right"]{display:block;float:left;margin:0 -100% 0 -30000px;padding:0 0 0 50.0%;width:0.0%;}.layout-standard>._da>._dj-px[_da="right"]{height:auto;margin:0.0px -30486.0px 0 30186.0px;width:300.0px;}.layout-standard>._da>._dj-px ._dw-em[_da="right"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-pt[_da="right"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-px[_da="right"]{padding-left:300.0px;}.layout-standard>._da[_da="well"]{clear:left;display:block;float:left;margin:0 -100% 0 -30000px;padding:0 0 0 50.0%;width:0.0%;}.layout-standard>._da>._dj-px[_da="well"]{height:auto;margin:0.0px -30486.0px 0 29514.0px;width:972.0px;}.layout-standard>._da>._dj-px ._dw-em[_da="well"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-pt[_da="well"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-px[_da="well"]{padding-left:972.0px;}.layout-standard>._da[_da="footer"]{clear:left;display:block;float:left;margin:0 -100% 0 -30000px;padding:0 0 0 0.0%;width:100.0%;}.layout-standard>._da>._dj-px[_da="footer"]{height:auto;margin:0.0px -30000.0px 0 30000.0px;width:auto;}.layout-standard>._da>._dj-px ._dw-em[_da="footer"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-pt[_da="footer"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-px[_da="footer"]{padding-left:972.0px;}</style><script type="text/javascript">if (typeof jQuery !== 'undefined') (function($, win, undef) {var reorder, reorderTimer;if (!window.matchMedia) return;reorder = function() {$.each({"DEFAULT":{".layout-anthill":["header","leaderboardA","bc","left","right","mainWidget","leaderboardB","footer"],".layout-product":["header","bc","well","footer"],".layout-standard":["header","ad","bc","left","right","well","footer"],".layout-529":["header","ad","bc","lead","left","right","well","footer"],".layout-section":["header","ad","bc","lead","right","left","center","well","footer"],".layout-section-wide":["header","ad","bc","lead","left","right","well","footer"],".layout-triple-promo":["top","main","rt","rb"],".layout-product-category":["header","ad","bc","left","center","right","well","footer"],".layout-full":["header","ad","bc","full","well","footer"],".layout-529-search":["header","ad","bc","left","center","well","footer"],".layout-split":["header","bc","left","right","well","footer"],".layout-boxed":["header","ad","bc","box","footer"],".layout-photo":["header","ad","bc","lead","slides","center","well","footer"],".layout-wide":["header","ad","bc","lead","right","left","center","well","footer"]}}, function(media, grids) {if (media === 'DEFAULT' || window.matchMedia(media).matches) {$.each(grids, function(selector, areas) {$(selector).each(function() {var $layout = $(this),$children = $layout.find('>._da'),expected = areas.join(', '),current = $.map($children, function(area) { return $(area).attr('_da'); }).join(', '),$clear;if (expected === current) { return; }$.each(areas, function(index, area) {var $child = $children.filter('[_da="' + area + '"]');if ($child.length > 0) { $layout[0].appendChild($child[0]); }});$clear = $layout.find('>.dari-grid-clear');if ($clear.length > 0) { $layout[0].appendChild($clear[0]); }});});return false;}});};$(reorder);$(win).resize(function() {if (!reorderTimer) {reorderTimer = setTimeout(function() {reorder();reorderTimer = null;}, 100);}});})(jQuery, window);</script><div class="layout-standard"><div class="dari-grid-area _da" data-grid-area="header" _da="header"><div class="dari-grid-adj _dj dari-grid-adj-px _dj-px" data-grid-area="header" _da="header"><div class="dari-grid-mw _dw dari-grid-mw-px _dw-px" data-grid-area="header" _da="header"></div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+        
+    
+    
+
+
+
+
+
+    
+
+    
+        <div class="header header-news">
+            <div class="header_globalNav">
+                <div class="header_content">
+                    <ul class="bar">
+                        
+
+                        
+                            <li class="dropdown item item-right item-first item-odd">
+                                <a href="javascript:;">
+                                    <span class="dropdown_label">Rankings &amp; Advice </span>
+                                </a>
+
+                                <ul class="dropdown_content">
+                                    
+                                        <li
+                                            class="item item-first  item-even "
+                                        ><a href="//www.usnews.com/education" class="dropdown_content_icon-edu">Education </a></li>
+                                    
+                                        <li
+                                            class="item  item-odd "
+                                        ><a href="http://health.usnews.com/" class="dropdown_content_icon-health">Health </a></li>
+                                    
+                                        <li
+                                            class="item  item-even "
+                                        ><a href="http://money.usnews.com/" class="dropdown_content_icon-money">Money </a></li>
+                                    
+                                        <li
+                                            class="item  item-odd "
+                                        ><a href="http://travel.usnews.com" class="dropdown_content_icon-travel"> Travel</a></li>
+                                    
+                                        <li
+                                            class="item  item-even "
+                                        ><a href="http://usnews.rankingsandreviews.com/cars-trucks" class="dropdown_content_icon-cars">Cars</a></li>
+                                    
+                                        <li
+                                            class="item  item-odd "
+                                        ><a href="http://bestlawfirms.usnews.com/" class="dropdown_content_icon-law"> Law Firms</a></li>
+                                    
+                                </ul></li>
+                        
+                        <li class="item item-right item-first item-odd"><a href="//www.usnews.com/news">News</a></li>
+
+                        <li class="item item-right item-first item-odd"><a href="http://www.usnews.com">
+                                <i class="icon-header-home"></i> U.S. News Home</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="header_content">
+                
+                
+                <div class="header_title">
+                    <a href="http://www.usnews.com">
+                    <img class="header_title_image"
+                        height="40"
+                        width="166"
+                        src="/static/images/homepage-logo-166x40.png"
+                        srcset="/static/images/homepage-logo-166x40.png, /static/images/homepage-logo-332x80.png 2x"
+                    /></a>
+
+                    <a href="//www.usnews.com/news" class="header_title_section" data-text="News">
+                        News
+
+                    </a>
+
+                    
+                    <div class="header_social_links">
+                        
+                            <span
+                                class="item item-even"
+                            > <a href="//www.facebook.com/usnewsandworldreport" target="_blank"><span
+                                    class="icon-header-facebook"
+                                >Facebook</span></a>
+                            </span>
+                        
+                            <span
+                                class="item item-odd item-last"
+                            > <a href="//twitter.com/usnews" target="_blank"><span
+                                    class="icon-header-twitter"
+                                >Twitter</span></a>
+                            </span>
+                        
+                    </div>
+                    <span class="header_vr"></span>
+                    
+                        <span class="header_title_tagline">News, Opinion &amp; Analysis</span>
+                    
+
+                </div>
+            </div>
+
+            
+            
+                <div class="header_primaryNav_wrapper">
+                    
+                        <form class="swiftype-form">
+                            <input type="text" id="st-search-input" class="textfield-swiftype" />
+                        </form>
+                        <script type="text/javascript" src="//s.swiftypecdn.com/cc/dmKZNqszVpRWzWHHGRFP.js"></script>
+                    
+                    <ul class="header_primaryNav bar">
+                        
+                            
+                            
+                            <li
+                                class="item
+                                       active 
+                                       item-first 
+                                       item-even 
+                                       header_primaryNav_item-subNaved
+                                       "
+                            ><a href="//www.usnews.com/news">
+                                    News
+                                </a> 
+                                    <ul class="header_secondaryNav bar">
+                                        
+                                            
+                                            
+                                            <li
+                                                class="item  item-first   item-even"
+                                            ><a href="//www.usnews.com/news/blogs/Ken-Walshs-Washington">
+                                                    Ken Walsh&#039;s Washington
+                                                </a></li>
+                                        
+                                            
+                                            
+                                            <li
+                                                class="item    item-odd"
+                                            ><a href="//www.usnews.com/politics">
+                                                    Decision 2016
+                                                </a></li>
+                                        
+                                            
+                                            
+                                            <li
+                                                class="item    item-even"
+                                            ><a href="//www.usnews.com/news/blogs/the-run-2016">
+                                                    The Run 2016
+                                                </a></li>
+                                        
+                                            
+                                            
+                                            <li
+                                                class="item    item-odd"
+                                            ><a href="//www.usnews.com/news/the-chase">
+                                                    The Chase
+                                                </a></li>
+                                        
+                                            
+                                            
+                                            <li
+                                                class="item    item-even"
+                                            ><a href="//www.usnews.com/news/blogs/washington-whispers">
+                                                    Washington Whispers
+                                                </a></li>
+                                        
+                                            
+                                            
+                                            <li
+                                                class="item    item-odd"
+                                            ><a href="//www.usnews.com/news/blogs/at-the-edge">
+                                                    At the Edge
+                                                </a></li>
+                                        
+                                            
+                                            
+                                            <li
+                                                class="item    item-even"
+                                            ><a href="//www.usnews.com/news/blogs/data-mine">
+                                                    Data Mine
+                                                </a></li>
+                                        
+                                            
+                                            
+                                            <li
+                                                class="item   item-last  item-odd"
+                                            ><a href="//www.usnews.com/news/special-reports">
+                                                    Special Reports
+                                                </a></li>
+                                        
+                                        
+                                    </ul>
+                                </li>
+                        
+                            
+                            
+                            <li
+                                class="item
+                                       
+                                       
+                                       item-odd 
+                                       
+                                       "
+                            ><a href="//www.usnews.com/opinion">
+                                    Opinion
+                                </a> </li>
+                        
+                            
+                            
+                            <li
+                                class="item
+                                       
+                                       
+                                       item-even 
+                                       
+                                       "
+                            ><a href="//www.usnews.com/national-issues">
+                                    National Issues
+                                </a> </li>
+                        
+                            
+                            
+                            <li
+                                class="item
+                                       
+                                       
+                                       item-odd 
+                                       
+                                       "
+                            ><a href="//www.usnews.com/news/best-countries">
+                                    Best Countries
+                                </a> </li>
+                        
+                            
+                            
+                            <li
+                                class="item
+                                       
+                                       
+                                       item-even 
+                                       
+                                       "
+                            ><a href="//www.usnews.com/cartoons">
+                                    Cartoons
+                                </a> </li>
+                        
+                            
+                            
+                            <li
+                                class="item
+                                       
+                                       
+                                       item-odd 
+                                       
+                                       "
+                            ><a href="//www.usnews.com/photos">
+                                    Photos
+                                </a> </li>
+                        
+                            
+                            
+                            <li
+                                class="item
+                                       
+                                       
+                                       item-even 
+                                       
+                                       "
+                            ><a href="//www.usnews.com/news/the-report">
+                                    The Report
+                                </a> </li>
+                        
+                        <li class="header_primaryNav_adbug adbug_primaryNav">
+                            
+                                
+                             
+
+
+
+
+
+
+
+
+
+    
+    
+
+        <div id="navbug" class="ad ad-navbug sep">
+            
+                
+                
+                    <script type="text/javascript"> dblclick('navbug'); </script>
+                
+            
+        </div>
+
+    
+
+
+
+                        </li>
+                    </ul>
+                </div>
+            
+        </div>
+    
+
+
+
+</div></div><div class="dari-grid-area _da" data-grid-area="ad" _da="ad"><div class="dari-grid-adj _dj dari-grid-adj-px _dj-px" data-grid-area="ad" _da="ad"><div class="dari-grid-mw _dw dari-grid-mw-px _dw-px" data-grid-area="ad" _da="ad"></div>
+    
+        
+    
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+        <div id="leaderboardA" class="ad ad-leaderboard ad-leaderboard-a sep">
+            
+                
+                    <script>
+                        oz_api = USN.rubicon.apiName;
+                        oz_site = USN.rubicon.site;
+                        oz_zone = USN.rubicon.getZone('leaderboardA');
+                        oz_ad_slot_size = USN.rubicon.getAdSize('leaderboardA');
+                        oz_callback = function (data) {
+                            USN.rubicon.injectTargeting(data, 'leaderboardA');
+                        }
+                        USN.rubicon.callApi('leaderboardA');
+                    </script>
+                
+                
+            
+        </div>
+
+    
+
+
+
+</div></div><div class="dari-grid-area _da" data-grid-area="bc" _da="bc"><div class="dari-grid-adj _dj dari-grid-adj-px _dj-px" data-grid-area="bc" _da="bc"></div></div><div class="dari-grid-area _da" data-grid-area="left" _da="left"><div class="dari-grid-adj _dj dari-grid-adj-px _dj-px" data-grid-area="left" _da="left">
+    
+
+
+
+
+
+
+<article id="content" class="block" data-swiftype-index="true">
+    
+
+
+
+
+
+
+
+
+
+    <header>
+        
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+        
+        <h1 class="h-biggest">Sacramento Kings coach George Karl says he has a positive outlook after meeting with team general manager Vlade Divac amid a losing streak and speculation about his job</h1>
+        <h2 class="h-big h-slacker h-light h-normal"></h2>
+
+        
+        
+            <img src="http://www.usnews.com/dims4/USNEWS/a77ed52/2147483647/thumbnail/652x765%3E/quality/85/?url=%2Fcmsmedia%2F4e%2F0002fba514f0f9538fd3c8efa6a457%2Fresizes%2F1500%2Fmedia%3Ae7bdea161d684fbeb09e55425159eba0KingsCavaliersBasketball.JPEG" width="652" height="765" class="img-responsive block-generous" alt="The Associated Press" title="The Associated Press" srcset="http://www.usnews.com/dims4/USNEWS/563b637/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2F4e%2F0002fba514f0f9538fd3c8efa6a457%2Fmedia%3Ae7bdea161d684fbeb09e55425159eba0KingsCavaliersBasketball.JPEG, http://www.usnews.com/dims4/USNEWS/ce2a5ff/2147483647/thumbnail/1304x1530%3E/quality/85/?url=%2Fcmsmedia%2F4e%2F0002fba514f0f9538fd3c8efa6a457%2Fmedia%3Ae7bdea161d684fbeb09e55425159eba0KingsCavaliersBasketball.JPEG 2x" data-size="rectangle652"/>
+            
+                <p class="t t-dim" style="margin-top: -20px;"><p> Sacramento Kings head coach George Karl yells to an official in the second half of an NBA basketball game against the Cleveland Cavaliers, Monday, Feb. 8, 2016, in Cleveland. The Cavaliers won 120-100. (AP Photo/Tony Dejak) </p></p>
+            
+        
+
+        
+
+
+
+
+
+
+
+<div class="drawer block-generous">
+    <div class="drawer_main bar-sep-overunder t-small">
+        
+        
+            <span class="item drawer_paddingTop">Associated Press</span>
+        
+
+        
+        <time itemprop="datePublished" datetime="Wed Feb 10 18:45:31 EST 2016" class="t-small item drawer_marginTop">
+           Feb. 10, 2016, at 6:45 p.m. 
+        </time>
+
+        <span class="thumb-middled-right right t-small t-subdued drawer_trigger drawer_paddingTop"
+              id="bylineSocialMore"
+            >+ More</span>
+
+        <ul class="right" id="bylineSocialIcons">
+            <li class="right">
+                
+
+
+<a href="https://twitter.com/share?url=http%3A%2F%2Ft.usnews.com%2FZhqxfd%3Fsrc=usn_tw&via=usnews&text=Sacramento%20coach%20Karl%20says%20meeting%20with%20GM%20Divac%20positive" target="_blank">
+    <i class="icon-social-tw"></i>
+</a>
+
+            </li>
+            <li class="right-pad">
+                
+
+
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ft.usnews.com%2FZhqxfd%3Fsrc=usn_gp"
+   target="_blank">
+   <i class="icon-social-gp"></i>
+</a>
+
+            </li>
+            <li class="right-pad">
+                
+
+
+<a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ft.usnews.com%2FZhqxfd%3Fsrc=usn_fb"
+   target="_blank">
+    <i class="icon-social-fb"></i>
+</a>
+
+            </li>
+        </ul>
+    </div>
+
+    
+    <div class="drawer_slide box-borderless-aqua">
+        <ul class="bar-pad12 block-close alt">
+            
+	            <li class="item">
+	                
+	                    
+	                
+	                
+
+
+
+
+
+
+
+
+
+    
+    
+
+        <div id="sharebug" class="ad ad-sharebug sep">
+            
+                
+                
+                    <script type="text/javascript"> dblclick('sharebug'); </script>
+                
+            
+        </div>
+
+    
+
+
+
+	            </li>
+	            <li class="item item-right">
+	                
+
+<a href="http://www.reddit.com/submit?url=http%3A%2F%2Ft.usnews.com%2FZhqxfd%3Fsrc=usn_rd&title=Sacramento%20coach%20Karl%20says%20meeting%20with%20GM%20Divac%20positive"
+   target="_blank">
+    <i class="icon-social-red"></i>
+</a>
+
+	            </li>
+	            <li class="item item-right">
+	                
+
+<a href="http://www.stumbleupon.com/badge/?url=http%3A%2F%2Ft.usnews.com%2FZhqxfd%3Fsrc=usn_su"
+   target="_blank">
+    <i class="icon-social-su"></i>
+</a>
+
+	            </li>
+	            <li class="item item-right">
+	                
+
+
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Ft.usnews.com%2FZhqxfd%3Fsrc=usn_li&title=Sacramento%20coach%20Karl%20says%20meeting%20with%20GM%20Divac%20positive&summary=&source=U.%20S.%20News"
+   target="_blank">
+   <i class="icon-social-li"></i>
+</a>
+
+	            </li>
+            
+        </ul>
+    </div>
+    <script type="text/javascript">
+        $(".drawer_trigger").click(function() {
+            $(this).parents('.drawer').find('.drawer_slide').slideToggle();
+        });
+    </script>
+</div>
+
+    </header>
+
+    
+    
+        <div class="article-logo block">
+            
+                <img src="http://www.usnews.com/dims4/USNEWS/b67b07e/2147483647/thumbnail/27x31%3E/quality/85/?url=%2Fcmsmedia%2Fa4%2F4a853fc5fefcf0845c1a9ac58570c9%2F6977FE_PR_080923associatedpress.jpg" width="27" height="31" srcset="http://www.usnews.com/dims4/USNEWS/1ab17d2/2147483647/thumbnail/150x100%3E/quality/85/?url=%2Fcmsmedia%2Fa4%2F4a853fc5fefcf0845c1a9ac58570c9%2F6977FE_PR_080923associatedpress.jpg, http://www.usnews.com/dims4/USNEWS/2474aa2/2147483647/thumbnail/54x62%3E/quality/85/?url=%2Fcmsmedia%2Fa4%2F4a853fc5fefcf0845c1a9ac58570c9%2F6977FE_PR_080923associatedpress.jpg 2x" data-size="rectangle150x100"/>
+            
+        </div>
+    
+
+    
+    
+
+    
+    
+    
+        
+            <div class="block skin-editable clearfix">
+                <style type="text/css">.cms-textAlign-left{text-align:left;}.cms-textAlign-center{text-align:center;}.cms-textAlign-right{text-align:right;}.cms-custom-quote{border-left: 1px solid #eee;
+margin-left: 15px;
+padding-left: 15px;
+font-style: italic;
+font-size: 17px;
+line-height: 28px;
+color: #666;}</style><p>By DAVE ZEITLIN and AARON BRACY, Associated Press</p><p>PHILADELPHIA (AP) — Sacramento Kings coach George Karl said Wednesday he has a positive outlook after meeting with team general manager Vlade Divac amid a losing streak and speculation about his job.</p> 
+<p>Karl said before the Kings-76ers game in Philadelphia that he and Divac are on the same page.</p> 
+<p>"I've always felt good about Vlade. I don't think Vlade and I have a disconnect other than we want to win more games than we're winning right now," Karl said. "And that's fine with me. Everyone should want to win more games."</p> 
+<p>Sacramento is 21-31 and has lost eight of its last nine. After Wednesday's game, Karl said the team would go home for the All-Star break to "regroup and recuperate."</p> 
+<p>Divac said in a statement that Karl "is our coach and we're collectively working through our issues."</p> 
+<p>He told The Associated Press before the game that the team's defense must improve. Sacramento is allowing a league-worst 109.1 points per game and has given up 120.8 over a four-game losing streak.</p> 
+<p>"Defensively, we are not good," Divac said. "That's something we have to improve big. It would make a difference. Our offense is stable, but defensively we go on and off."</p> 
+<p>Divac said he believes in his players, but didn't rule out adding pieces to help defensively -- or in other areas -- before next Thursday's trading deadline.</p> 
+<p>"We do have what we need, but still like every other organization, if it's something that will improve us we will do it," he said. "But, now, we are happy with the group."</p> 
+<p>Karl declined to offer more specifics about their meeting.</p> 
+<p>The coach said speculation about his job won't add extra pressure.</p> 
+<p>"That's your world," he said. "My world is basketball, the gym and players. Your world is interpretation, innuendo, gossip. I'm not into it."</p> 
+<p>Kings star DeMarcus Cousins and Karl have struggled to work together. The All-Star center has not hid his emotions or frustrations.</p> 
+<p>Karl says he thinks the team's funk is temporary.</p> 
+<p>Meanwhile, he says he won't be bothered by the criticism that comes with losing.</p> 
+<p>"When you're younger, you're always a little more into what people are saying and what people think of you," said the 64-year-old Karl, who is coaching his sixth NBA team after time in Cleveland, Golden State, Seattle, Milwaukee and Denver.</p> 
+<p>"As you get older, I think you learn you have no control over that. You can do your job perfectly in this league and if you don't fulfill expectations, you're going to be criticized," he said.</p> 
+<p>Last year, Karl became the Kings' third coach in one season. He took over following the 2015 All-Star break, succeeding Tyrone Corbin. Corbin had been promoted from top assistant to replace the fired Michael Malone. Karl coached Sacramento to an 11-19 record for the rest of the season.</p> 
+<p>The Kings are in 10th place in the Western Conference and haven't made the playoffs in 10 years.</p><p>Copyright 2016 The&nbsp;<a href="http://www.ap.org" target="_blank">Associated Press</a>. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.<br></p>
+            </div>
+        
+        
+    
+    <div data-config-distributor-id="90080" id="ndn-video-player-3" class="ndn_embed" data-config-site-section="ndn1_usnews" style="width:100%;" data-config-height="9/16w"></div><br />
+
+    
+    
+
+    
+    
+
+    
+
+
+
+
+
+
+<footer data-swiftype-index="false">
+
+    
+
+
+
+
+
+
+
+
+    <dl class="commalist t t-subdued" data-swiftype-index="true">
+        <dt class="t-small">TAGS:</dt>
+        
+            <dd class="t"><a href="//www.usnews.com/topics/organizations/associated_press" class="link-subdued">Associated Press</a></dd>
+        
+    </dl>
+
+
+    <div class="bar block-generous">
+    <div id="social_screen" class="item" style="width: 125px; overflow: hidden;">
+        <ul class="bar-middled-loose">
+            <li class="item">
+                
+
+
+<a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ft.usnews.com%2FZhqxfd%3Fsrc=usn_fb"
+   target="_blank">
+    <i class="icon-social-fb"></i>
+</a>
+
+            </li>
+            <li class="item">
+                
+
+
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ft.usnews.com%2FZhqxfd%3Fsrc=usn_gp"
+   target="_blank">
+   <i class="icon-social-gp"></i>
+</a>
+
+            </li>
+            <li class="item">
+                
+
+
+<a href="https://twitter.com/share?url=http%3A%2F%2Ft.usnews.com%2FZhqxfd%3Fsrc=usn_tw&via=usnews&text=Sacramento%20coach%20Karl%20says%20meeting%20with%20GM%20Divac%20positive" target="_blank">
+    <i class="icon-social-tw"></i>
+</a>
+
+            </li>
+            <li class="item">
+                
+
+
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Ft.usnews.com%2FZhqxfd%3Fsrc=usn_li&title=Sacramento%20coach%20Karl%20says%20meeting%20with%20GM%20Divac%20positive&summary=&source=U.%20S.%20News"
+   target="_blank">
+   <i class="icon-social-li"></i>
+</a>
+
+            </li>
+            <li class="item item-right">
+                
+
+<a href="http://www.stumbleupon.com/badge/?url=http%3A%2F%2Ft.usnews.com%2FZhqxfd%3Fsrc=usn_su"
+   target="_blank">
+    <i class="icon-social-su"></i>
+</a>
+
+            </li>
+            <li class="item item-right">
+                
+
+<a href="http://www.reddit.com/submit?url=http%3A%2F%2Ft.usnews.com%2FZhqxfd%3Fsrc=usn_rd&title=Sacramento%20coach%20Karl%20says%20meeting%20with%20GM%20Divac%20positive"
+   target="_blank">
+    <i class="icon-social-red"></i>
+</a>
+
+            </li>
+        </ul>
+    </div>
+    <div id="social_more" class="item t-small link-subdued link-pointer" style="padding-top: 8px;">+ More</div>
+    <script type="text/javascript">
+        $('#social_more').click(function () {
+            $(this).fadeOut();
+            $('#social_screen').animate({width: 300});
+        });
+    </script>
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+<div>
+    
+    
+</div>
+
+    
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+        <div id="afterContent" class="ad ad-after-content ad-labeled sep">
+            
+                
+                
+                    <script type="text/javascript"> dblclick('afterContent'); </script>
+                
+            
+        </div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="mod-b sep"
+         data-usn-element-name="00000143-8ead-d9f4-a7d7-efff37610000"
+         data-aid="a6f909">
+        <h4>You Might Also Like</h4>
+        <hr class="hr-heavy"/>
+
+        
+            
+
+
+
+
+
+
+<ul class="column-3-guttered mod-b sep"
+    data-usn-element-name="00000143-9d11-d789-a753-df991ee70001"
+    data-aid="962e08">
+    
+        <li class="media item">
+            
+                <a href="//www.usnews.com/cartoons/donald-trump-cartoons">
+                    <img src="http://www.usnews.com/dims4/USNEWS/099b8bc/2147483647/thumbnail/204x136%3E/format/png/quality/85/?url=%2Fcmsmedia%2F92%2F65%2Fe6ddadaf4d7db2f83b782158c29e%2F20160211edstc-a.tif" alt="Editorial cartoon on Donald Trump and the GOP" class="block-taut" data-size="featuredMediaWide"/>
+                </a>
+            
+            
+            <p class="t-block">
+                <a href="//www.usnews.com/cartoons/donald-trump-cartoons">Trump Cartoons</a>
+            </p>
+        </li>
+    
+        <li class="media item">
+            
+                <a href="//www.usnews.com/photos/obama-behind-the-scenes">
+                    <img src="http://www.usnews.com/dims4/USNEWS/4a2c21b/2147483647/thumbnail/204x136%3E/quality/85/?url=%2Fcmsmedia%2F56%2Fbd%2F53c7917345d3a14110a1d1a64a0a%2Fresizes%2F500%2Fap278800513483-9.jpg" width="204" height="136" alt="President Barack Obama boards Air Force One at Yangon International Airport on Friday, Nov. 14, 2014, in Yangon, Myanmar, for the G-20 summit in Brisbane, Australia. " class="block-taut" srcset="http://www.usnews.com/dims4/USNEWS/4a2c21b/2147483647/thumbnail/204x136%3E/quality/85/?url=%2Fcmsmedia%2F56%2Fbd%2F53c7917345d3a14110a1d1a64a0a%2Fresizes%2F500%2Fap278800513483-9.jpg, http://www.usnews.com/dims4/USNEWS/8af1b53/2147483647/thumbnail/408x272%3E/quality/85/?url=%2Fcmsmedia%2F56%2Fbd%2F53c7917345d3a14110a1d1a64a0a%2Fresizes%2F500%2Fap278800513483-9.jpg 2x" data-size="featuredMediaWide"/>
+                </a>
+            
+            
+            <p class="t-block">
+                <a href="//www.usnews.com/photos/obama-behind-the-scenes">Obama Behind the Scenes</a>
+            </p>
+        </li>
+    
+        <li class="media item">
+            
+                <a href="//www.usnews.com/cartoons/gun-control-and-gun-rights-cartoons">
+                    <img src="http://www.usnews.com/dims4/USNEWS/a6db2d1/2147483647/thumbnail/204x136%3E/format/png/quality/85/?url=%2Fcmsmedia%2F21%2F56%2Fd8b357344b0c916cefa643bda4ce%2F20160113edhan-a.tif" alt="Editorial cartoon on Obama and gun control" class="block-taut" data-size="featuredMediaWide"/>
+                </a>
+            
+            
+            <p class="t-block">
+                <a href="//www.usnews.com/cartoons/gun-control-and-gun-rights-cartoons">Gun Control Cartoons</a>
+            </p>
+        </li>
+    
+</ul>
+
+        
+
+        
+
+        
+            <div class="sep">
+                
+                <script type="text/javascript">(function($, win, undef) {var done = function() {$(window.document).frame({'setBody': function(body) {var insertionMode = $(this).attr('data-insertion-mode');if ('append' === insertionMode) {$(this).append(body);} else if ('prepend' === insertionMode) {$(this).prepend(body);} else {$(this).html(body);}}}).ready(function() {$(this).trigger('create');});};var deferreds = [];if (!$.isFunction($.plugin2)) {deferreds.push($.getScript('/_resource/jquery2/jquery.extra.js'));}if (!$.isFunction($.fn.popup)) {deferreds.push($.getScript('/_resource/jquery2/jquery.popup.js'));}if (!$.isFunction($.fn.frame)) {deferreds.push($.getScript('/_resource/jquery2/jquery.frame.js'));}if (deferreds.length > 0) {deferreds.push($.Deferred(function(deferred) {$(deferred.resolve);}));$.when.apply($, deferreds).done(function() {done();});} else {done();}}(jQuery, window));</script><div data-river="{&quot;target&quot;:&quot;.more-link&quot;}" class="dari-frame dari-frame-loaded" name="loadRelatedArticles" data-insertion-mode="append" data-extra-form-data="_frame.path=f82535dc5a19cfaaf968e02e280dc3b2&amp;_frame.name=loadRelatedArticles">
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="//www.usnews.com/news/articles/2016-02-17/trump-kasich-criticize-apples-opposition-to-court-order" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/af1b48c/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fa0%2F6897f2e71aedb1ca06e74b6aa53432%2Fresizes%2F500%2Fmedia%3A123bb827cded4969a2d45cfdda4d502dGOP2016Kasich.JPEG" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/af1b48c/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fa0%2F6897f2e71aedb1ca06e74b6aa53432%2Fresizes%2F500%2Fmedia%3A123bb827cded4969a2d45cfdda4d502dGOP2016Kasich.JPEG, http://www.usnews.com/dims4/USNEWS/6850301/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2Fa0%2F6897f2e71aedb1ca06e74b6aa53432%2Fresizes%2F500%2Fmedia%3A123bb827cded4969a2d45cfdda4d502dGOP2016Kasich.JPEG 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="//www.usnews.com/news/articles/2016-02-17/trump-kasich-criticize-apples-opposition-to-court-order" target="_top">
+                Trump, Kasich Criticize Apple&#039;s Opposition to Court Order
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/tom-risen" class="link-dark" target="_top">
+                        Tom Risen
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 18:33:00 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="//www.usnews.com/news/articles/2016-02-17/us-cuba-push-forward-on-ties-despite-embargo" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/2b07c48/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Ffa%2F38%2F53f827914db8b7bc727485c8e840%2Fresizes%2F500%2F160217-editorial.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/2b07c48/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Ffa%2F38%2F53f827914db8b7bc727485c8e840%2Fresizes%2F500%2F160217-editorial.jpg, http://www.usnews.com/dims4/USNEWS/850e612/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2Ffa%2F38%2F53f827914db8b7bc727485c8e840%2Fresizes%2F500%2F160217-editorial.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="//www.usnews.com/news/articles/2016-02-17/us-cuba-push-forward-on-ties-despite-embargo" target="_top">
+                U.S., Cuba Push Forward on Ties Despite Embargo
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/sabrina-rodriguez" class="link-dark" target="_top">
+                        Sabrina Rodriguez
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 18:31:00 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="//www.usnews.com/news/articles/2016-02-17/nations-capital-grapples-with-ems-challenges" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/ccc3e1c/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F63%2Fec%2F80258e264039bd4f7819ccd2d042%2Fresizes%2F500%2F160217-dcfire-editorial.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/ccc3e1c/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F63%2Fec%2F80258e264039bd4f7819ccd2d042%2Fresizes%2F500%2F160217-dcfire-editorial.jpg, http://www.usnews.com/dims4/USNEWS/c3c4cbe/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2F63%2Fec%2F80258e264039bd4f7819ccd2d042%2Fresizes%2F500%2F160217-dcfire-editorial.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="//www.usnews.com/news/articles/2016-02-17/nations-capital-grapples-with-ems-challenges" target="_top">
+                Nation’s Capital Grapples With EMS Challenges
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/steve_sternberg" class="link-dark" target="_top">
+                        Steve Sternberg
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 18:11:00 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                
+                                    
+                                
+                                
+
+
+
+
+
+
+
+
+
+    
+    
+
+        <div id="rectangle_1" class="ad ad-rectangle ad-rectangle-a ad-labeled sep">
+            
+                
+                
+                    <script type="text/javascript"> dblclick('rectangle_1'); </script>
+                
+            
+        </div>
+
+    
+
+
+
+                            
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="//www.usnews.com/news/articles/2016-02-17/obama-will-not-attend-scalias-funeral" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/41a31be/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F21%2F5e%2Fb13f4f104cb4922429ba1d8defcd%2Fresizes%2F500%2F160216-scalia-editorial.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/41a31be/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F21%2F5e%2Fb13f4f104cb4922429ba1d8defcd%2Fresizes%2F500%2F160216-scalia-editorial.jpg, http://www.usnews.com/dims4/USNEWS/ac4bb88/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2F21%2F5e%2Fb13f4f104cb4922429ba1d8defcd%2Fresizes%2F500%2F160216-scalia-editorial.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="//www.usnews.com/news/articles/2016-02-17/obama-will-not-attend-scalias-funeral" target="_top">
+                Obama Will Not Attend Scalia&#039;s Funeral
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/gabrielle-levy" class="link-dark" target="_top">
+                        Gabrielle Levy
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 17:58:00 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="//www.usnews.com/news/articles/2016-02-17/gop-beware-trumps-wide-open-independent-option" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/0e032cd/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F68%2Fd1%2F366c433e45e8af60001e0e38899b%2Fresizes%2F500%2F160212-trump-editorial.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/0e032cd/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F68%2Fd1%2F366c433e45e8af60001e0e38899b%2Fresizes%2F500%2F160212-trump-editorial.jpg, http://www.usnews.com/dims4/USNEWS/c9ea5a6/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2F68%2Fd1%2F366c433e45e8af60001e0e38899b%2Fresizes%2F500%2F160212-trump-editorial.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="//www.usnews.com/news/articles/2016-02-17/gop-beware-trumps-wide-open-independent-option" target="_top">
+                GOP, Beware: Trump&#039;s Wide-Open Independent Option
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/steven_nelson" class="link-dark" target="_top">
+                        Steven Nelson
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 17:05:14 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="//www.usnews.com/news/articles/2016-02-17/in-snub-to-bush-haley-endorses-rubio" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/f1654aa/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fe7%2F52%2F67833d4e4b87a056ea6ba73a5928%2Fresizes%2F500%2F160217-haley-editorial.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/f1654aa/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fe7%2F52%2F67833d4e4b87a056ea6ba73a5928%2Fresizes%2F500%2F160217-haley-editorial.jpg, http://www.usnews.com/dims4/USNEWS/1a0262e/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2Fe7%2F52%2F67833d4e4b87a056ea6ba73a5928%2Fresizes%2F500%2F160217-haley-editorial.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="//www.usnews.com/news/articles/2016-02-17/in-snub-to-bush-haley-endorses-rubio" target="_top">
+                In Snub to Bush, Haley Endorses Rubio
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/gabrielle-levy" class="link-dark" target="_top">
+                        Gabrielle Levy
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 16:53:00 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="//www.usnews.com/news/articles/2016-02-17/federal-reserve-plagued-by-uncertainty-in-latest-minutes" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/870e093/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F42%2F40bc35b92c32f9cbb927407f1a9a6c%2Fresizes%2F500%2Fmedia%3A0f013e6e289842eda3f18a77a00da414FederalReserveYellen.JPEG" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/870e093/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F42%2F40bc35b92c32f9cbb927407f1a9a6c%2Fresizes%2F500%2Fmedia%3A0f013e6e289842eda3f18a77a00da414FederalReserveYellen.JPEG, http://www.usnews.com/dims4/USNEWS/3fb6242/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2F42%2F40bc35b92c32f9cbb927407f1a9a6c%2Fresizes%2F500%2Fmedia%3A0f013e6e289842eda3f18a77a00da414FederalReserveYellen.JPEG 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="//www.usnews.com/news/articles/2016-02-17/federal-reserve-plagued-by-uncertainty-in-latest-minutes" target="_top">
+                Federal Reserve Plagued by &#039;Uncertainty&#039; in Latest Minutes
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/andrew-soergel" class="link-dark" target="_top">
+                        Andrew Soergel
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 16:00:00 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="//www.usnews.com/news/articles/2016-02-17/gop-front-runners-brawl-escalates-with-trumps-legal-notice-to-cruz" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/c1004f6/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F8b%2Ff6%2F6ec1a19640ca948ffb065f7bbdf4%2Fresizes%2F500%2F160217-trumpcruz-editorial.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/c1004f6/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F8b%2Ff6%2F6ec1a19640ca948ffb065f7bbdf4%2Fresizes%2F500%2F160217-trumpcruz-editorial.jpg, http://www.usnews.com/dims4/USNEWS/ca417de/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2F8b%2Ff6%2F6ec1a19640ca948ffb065f7bbdf4%2Fresizes%2F500%2F160217-trumpcruz-editorial.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="//www.usnews.com/news/articles/2016-02-17/gop-front-runners-brawl-escalates-with-trumps-legal-notice-to-cruz" target="_top">
+                GOP Front-Runners&#039; Brawl Escalates With Trump’s Legal Notice to Cruz
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/gabrielle-levy" class="link-dark" target="_top">
+                        Gabrielle Levy
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 15:31:00 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="//www.usnews.com/news/articles/2016-02-17/arachnophobia-makes-spiders-seem-huge-study-says" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/274e3ab/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fbf%2F1b%2F04abf0d14c349af40c9deeb15943%2Fresizes%2F500%2F160217-spider-stock.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/274e3ab/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fbf%2F1b%2F04abf0d14c349af40c9deeb15943%2Fresizes%2F500%2F160217-spider-stock.jpg, http://www.usnews.com/dims4/USNEWS/73195f8/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2Fbf%2F1b%2F04abf0d14c349af40c9deeb15943%2Fresizes%2F500%2F160217-spider-stock.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="//www.usnews.com/news/articles/2016-02-17/arachnophobia-makes-spiders-seem-huge-study-says" target="_top">
+                Arachnophobia Makes Spiders Seem Huge, Study Says
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/rachel-dicker" class="link-dark" target="_top">
+                        Rachel Dicker
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 15:16:02 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="//www.usnews.com/news/articles/2016-02-17/starbucks-drinks-have-25-teaspoons-of-sugar-study-claims" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/8bdc0e4/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F20%2F45%2Fe72da89848fabb785959303c1e88%2Fresizes%2F500%2F160217-starbucks.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/8bdc0e4/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F20%2F45%2Fe72da89848fabb785959303c1e88%2Fresizes%2F500%2F160217-starbucks.jpg, http://www.usnews.com/dims4/USNEWS/f12eecc/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2F20%2F45%2Fe72da89848fabb785959303c1e88%2Fresizes%2F500%2F160217-starbucks.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="//www.usnews.com/news/articles/2016-02-17/starbucks-drinks-have-25-teaspoons-of-sugar-study-claims" target="_top">
+                Starbucks Drinks Have 25 Teaspoons of Sugar, Study Claims
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/rachel-dicker" class="link-dark" target="_top">
+                        Rachel Dicker
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 13:39:43 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="//www.usnews.com/news/articles/2016-02-17/gops-hard-line-softens-on-potential-scalia-replacement" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/cace936/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F92%2F93%2Fba60254d458fa8840dd42b957b1c%2Fresizes%2F500%2F160217-grassley-editorial.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/cace936/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F92%2F93%2Fba60254d458fa8840dd42b957b1c%2Fresizes%2F500%2F160217-grassley-editorial.jpg, http://www.usnews.com/dims4/USNEWS/47d01ca/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2F92%2F93%2Fba60254d458fa8840dd42b957b1c%2Fresizes%2F500%2F160217-grassley-editorial.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="//www.usnews.com/news/articles/2016-02-17/gops-hard-line-softens-on-potential-scalia-replacement" target="_top">
+                GOP&#039;s Hard Line Softens on Potential Scalia Replacement
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/gabrielle-levy" class="link-dark" target="_top">
+                        Gabrielle Levy
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 13:20:00 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="//www.usnews.com/news/articles/2016-02-17/microbead-ban-aims-to-scrub-out-harmful-plastics" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/3bb8095/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Ff8%2F00%2F99ad3a2f495892dc5bff7fc9b2f2%2Fresizes%2F500%2F160217-face-stock.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/3bb8095/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Ff8%2F00%2F99ad3a2f495892dc5bff7fc9b2f2%2Fresizes%2F500%2F160217-face-stock.jpg, http://www.usnews.com/dims4/USNEWS/db7370d/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2Ff8%2F00%2F99ad3a2f495892dc5bff7fc9b2f2%2Fresizes%2F500%2F160217-face-stock.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="//www.usnews.com/news/articles/2016-02-17/microbead-ban-aims-to-scrub-out-harmful-plastics" target="_top">
+                Microbead Ban Aims to Scrub Out Harmful Plastics
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/allyson-chiu" class="link-dark" target="_top">
+                        Allyson Chiu
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 13:19:00 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="//www.usnews.com/news/articles/2016-02-17/america-hikes-alone-as-japanese-rates-go-negative" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/86f027b/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F18%2Feaf151a077326f5222d0d86f268cff%2Fresizes%2F500%2Fmedia%3A2472a769238d4b2dbfd1593633416aa2JapanEconomy.JPEG" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/86f027b/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F18%2Feaf151a077326f5222d0d86f268cff%2Fresizes%2F500%2Fmedia%3A2472a769238d4b2dbfd1593633416aa2JapanEconomy.JPEG, http://www.usnews.com/dims4/USNEWS/47a958d/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2F18%2Feaf151a077326f5222d0d86f268cff%2Fresizes%2F500%2Fmedia%3A2472a769238d4b2dbfd1593633416aa2JapanEconomy.JPEG 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="//www.usnews.com/news/articles/2016-02-17/america-hikes-alone-as-japanese-rates-go-negative" target="_top">
+                America Hikes Alone as Japanese Rates Go Negative
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/andrew-soergel" class="link-dark" target="_top">
+                        Andrew Soergel
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 11:15:00 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="//www.usnews.com/news/articles/2016-02-17/jeb-bush-posts-photo-of-personalized-handgun-on-social-media" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/4d67d36/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F8e%2Faa%2F19e457334f5394efbf2339cd3198%2Fresizes%2F500%2F160217-jebgun-editorial.33.45%20AM.png" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/4d67d36/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F8e%2Faa%2F19e457334f5394efbf2339cd3198%2Fresizes%2F500%2F160217-jebgun-editorial.33.45%20AM.png, http://www.usnews.com/dims4/USNEWS/b64dd3a/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2F8e%2Faa%2F19e457334f5394efbf2339cd3198%2Fresizes%2F500%2F160217-jebgun-editorial.33.45%20AM.png 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="//www.usnews.com/news/articles/2016-02-17/jeb-bush-posts-photo-of-personalized-handgun-on-social-media" target="_top">
+                Jeb Bush Posts Photo of Personalized Handgun on Social Media
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/rachel-dicker" class="link-dark" target="_top">
+                        Rachel Dicker
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 11:13:59 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="//www.usnews.com/news/articles/2016-02-17/china-deploys-advanced-missiles-to-contested-island" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/6ce4c33/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fc4%2Fbc%2Fb02bd9374f02bb6abce7dc4f617b%2Fresizes%2F500%2F160217-paracelisles-editorial.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/6ce4c33/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fc4%2Fbc%2Fb02bd9374f02bb6abce7dc4f617b%2Fresizes%2F500%2F160217-paracelisles-editorial.jpg, http://www.usnews.com/dims4/USNEWS/c92b895/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2Fc4%2Fbc%2Fb02bd9374f02bb6abce7dc4f617b%2Fresizes%2F500%2F160217-paracelisles-editorial.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="//www.usnews.com/news/articles/2016-02-17/china-deploys-advanced-missiles-to-contested-island" target="_top">
+                China Deploys Advanced Missiles to Contested Island
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/paul_d_shinkman" class="link-dark" target="_top">
+                        Paul D. Shinkman
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 10:21:00 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="//www.usnews.com/news/articles/2016-02-17/pope-francis-to-cap-mexico-trip-with-prison-visit-mass" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/6136d0c/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fca%2F4d%2Fe8f40f9340daba1b750f2bc7fde7%2Fresizes%2F500%2F160217-popefrancis-editorial.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/6136d0c/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fca%2F4d%2Fe8f40f9340daba1b750f2bc7fde7%2Fresizes%2F500%2F160217-popefrancis-editorial.jpg, http://www.usnews.com/dims4/USNEWS/a8a02b5/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2Fca%2F4d%2Fe8f40f9340daba1b750f2bc7fde7%2Fresizes%2F500%2F160217-popefrancis-editorial.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="//www.usnews.com/news/articles/2016-02-17/pope-francis-to-cap-mexico-trip-with-prison-visit-mass" target="_top">
+                Pope Francis to Cap Mexico Trip With Prison Visit, Mass
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/teresa-welsh" class="link-dark" target="_top">
+                        Teresa Welsh
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 10:18:25 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="//www.usnews.com/news/articles/2016-02-17/cj-german-shorthaired-pointer-is-best-in-show-at-westminster" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/ce985ec/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F44%2F2b58496d5ef1f2919a74b3738d5a14%2Fresizes%2F500%2Fmedia%3A8f5920fecbfc445bb982cd35786b1d9aDogShow.JPEG" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/ce985ec/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F44%2F2b58496d5ef1f2919a74b3738d5a14%2Fresizes%2F500%2Fmedia%3A8f5920fecbfc445bb982cd35786b1d9aDogShow.JPEG, http://www.usnews.com/dims4/USNEWS/ba312f6/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2F44%2F2b58496d5ef1f2919a74b3738d5a14%2Fresizes%2F500%2Fmedia%3A8f5920fecbfc445bb982cd35786b1d9aDogShow.JPEG 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="//www.usnews.com/news/articles/2016-02-17/cj-german-shorthaired-pointer-is-best-in-show-at-westminster" target="_top">
+                C.J., German Shorthaired Pointer, Is Best in Show at Westminster
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 10:08:14 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="//www.usnews.com/news/articles/2016-02-17/apple-to-fbi-we-wont-hack-encrypted-iphone-of-san-bernardino-shooter" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/e745812/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F77%2Fa4%2F3580c7a543ff8d273f7b8b335bbc%2Fresizes%2F500%2F160217-sanbernardino-editorial.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/e745812/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F77%2Fa4%2F3580c7a543ff8d273f7b8b335bbc%2Fresizes%2F500%2F160217-sanbernardino-editorial.jpg, http://www.usnews.com/dims4/USNEWS/a1d29bb/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2F77%2Fa4%2F3580c7a543ff8d273f7b8b335bbc%2Fresizes%2F500%2F160217-sanbernardino-editorial.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="//www.usnews.com/news/articles/2016-02-17/apple-to-fbi-we-wont-hack-encrypted-iphone-of-san-bernardino-shooter" target="_top">
+                Apple Resists Court Order to Unlock Encrypted Phone
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/tom-risen" class="link-dark" target="_top">
+                        Tom Risen
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 10:01:40 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="//www.usnews.com/news/articles/2016-02-17/iran-says-no-to-oil-production-freeze" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/cd656b2/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F52%2F97%2F3191de814c248775715495780e7a%2Fresizes%2F500%2F160217-oilrig-editorial.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/cd656b2/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F52%2F97%2F3191de814c248775715495780e7a%2Fresizes%2F500%2F160217-oilrig-editorial.jpg, http://www.usnews.com/dims4/USNEWS/b94b8f3/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2F52%2F97%2F3191de814c248775715495780e7a%2Fresizes%2F500%2F160217-oilrig-editorial.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="//www.usnews.com/news/articles/2016-02-17/iran-says-no-to-oil-production-freeze" target="_top">
+                Iran Says No to Oil Production Freeze
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/alan-neuhauser" class="link-dark" target="_top">
+                        Alan Neuhauser
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 09:45:00 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="//www.usnews.com/news/articles/2016-02-16/unsafe-levels-of-wood-pulp-discovered-in-store-bought-parmesan-cheese" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/b765c86/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F4b%2F9e%2Ffa8076a34b9e818367fbf98b3bb5%2F160216-parmesan-stock.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/b765c86/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F4b%2F9e%2Ffa8076a34b9e818367fbf98b3bb5%2F160216-parmesan-stock.jpg, http://www.usnews.com/dims4/USNEWS/34188c1/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2F4b%2F9e%2Ffa8076a34b9e818367fbf98b3bb5%2F160216-parmesan-stock.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="//www.usnews.com/news/articles/2016-02-16/unsafe-levels-of-wood-pulp-discovered-in-store-bought-parmesan-cheese" target="_top">
+                Parmesan Cheese May Contain Wood Pulp
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/rachel-dicker" class="link-dark" target="_top">
+                        Rachel Dicker
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Tue Feb 16 19:46:09 EST 2016" class="t item">
+                Feb. 16, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+
+                    
+                        
+
+                        <a href="//www.usnews.com/news/sports/articles/2016-02-10/sacramento-coach-karl-says-meeting-with-gm-divac-positive?offset=20" class="button-secondary button-fullwidth sep more-link" rel="nofollow">
+                            See More
+                        </a>
+                    
+                </div>
+            </div>
+            <script type="text/javascript"> USN.load('jquery.river'); </script>
+        
+    </div>
+
+ 
+</footer>    
+
+    
+    
+    
+    <script type="text/javascript">
+        function checkImgPrevNextElement(e){var t,n=e,r=n.nextElementSibling,i=n.previousElementSibling,o=!1,l=!1,a=!1;return t=n.querySelectorAll("img"),o=hasLargeImage(t),null!==r&&(r=nextNotEmpty(r),t=r.querySelectorAll("img"),l=t.length>0?hasLargeImage(t):!1),null!==i&&(i=prevNotEmpty(i),t=i.querySelectorAll("img"),a=t.length>0?hasLargeImage(t):!1),l||a||o}function checkVideoPrevNextElement(e){var t=e,n=e.nextElementSibling,r=e.previousElementSibling,i=!1,o=!1,l=!1;return i=checkVideoInElement(t),null!==n&&(n=nextNotEmpty(n),o=checkVideoInElement(n)),null!==r&&(r=prevNotEmpty(r),l=checkVideoInElement(r)),o||l||i}function checkVideoSiblings(e){var t,n=e,r=!1;return t=n.parentNode,r=checkVideoInElement(t)}function checkVideoInElement(e){var t,n=!1,r=e.tagName.toLowerCase(),i=e.getAttribute("src");if("video"==r||"object"==r||"embed"==r)return!0;if(i&&isVideo(i))return!0;if(e.querySelectorAll("video").length>0)return!0;if(e.querySelectorAll("object").length>0)return!0;t=e.querySelectorAll("[src]");for(var o=0;o<t.length;o++){var l=t[o];if(i=l.getAttribute("src"),isVideo(i))return n=!0}return n}function isVideo(e){var t=/youtube|youtu.be|dailymotion|day.ly|vimeo|instagram|vine-videos/i;return t.test(e)}function hasLargeImage(e){for(var t=!1,n=75,r=0;r<e.length;r++){var i=e[r];if(i.offsetWidth>n)return t=!0}return t}function isEmpty(e){var t=["iframe","object","img"];return-1===t.indexOf(e.tagName.toLowerCase())&&0===e.querySelectorAll(t.join(",")).length&&""==e.textContent.trim()}function nextNotEmpty(e){for(var t=0,n=3;isEmpty(e)&&n>t;)e=e.nextElementSibling,t++;return e}function prevNotEmpty(e){for(var t=0,n=3;isEmpty(e)&&n>t;)e=e.previousElementSibling,t++;return e}var usnVertical=USN.util.getSection();if("news"===usnVertical||"education"===usnVertical)window._ttf=window._ttf||[],_ttf.push({pid:42436,lang:"en",slot:"#ntv-content, .media-overline.block-generous, .bar.block-generous, .pagination",format:"inread",before:!0,minSlot:0,components:{skip:{delay:0}},filter:function(e){return 0===window.top.document.querySelectorAll("#ndn-widget-embed-5-player").length}}),function(e){var t,n=e.getElementsByTagName("script")[0];t=e.createElement("script"),t.async=!0,t.src="//cdn.teads.tv/media/format.js",n.parentNode.insertBefore(t,n)}(window.document);else if("health"===usnVertical||"money"===usnVertical){Array.prototype.indexOf||(Array.prototype.indexOf=function(e,t){if(void 0===this||null===this)throw new TypeError("this is null or not defined");var n=this.length>>>0;for(t=+t||0,Math.abs(t)===1/0&&(t=0),0>t&&(t+=n,0>t&&(t=0));n>t;t++)if(this[t]===e)return t;return-1});var _tt_filterVideo=!0;window._ttf=window._ttf||[],_ttf.push({pid:27843,lang:"en",slot:"#content .block > p, .centered-margin .block > p",minSlot:5,format:"inread",components:{skip:{delay:0}},css:"margin: 0px 0px 25px;",avoidSlot:{slot:".thumb-left, .thumb-right",dist:10},filter:function(e){var t=e.elts[e.i],n=!0;return isEmpty(t)&&(n=!1),n=n&&!checkImgPrevNextElement(t),n=n&&!checkVideoPrevNextElement(t),n=n&&e.wrappedSizes.width>=250},passBack:function(e){zflag_breplay="1",function(e){var t,n=e.getElementsByTagName("script")[0];t=e.createElement("script"),t.async=!0,t.src="http://d6.zedo.com/jsc/d6/frd.js",n.parentNode.insertBefore(t,n)}(window.document)}}),function(e){var t,n=e.getElementsByTagName("script")[0];t=e.createElement("script"),t.async=!0,t.src="//cdn.teads.tv/media/format.js",n.parentNode.insertBefore(t,n)}(window.document)}
+    </script>
+</article>
+</div></div><div class="dari-grid-area _da" data-grid-area="right" _da="right"><div class="dari-grid-adj _dj dari-grid-adj-px _dj-px" data-grid-area="right" _da="right">
+    <aside class="rail-right" id="rail">
+        
+
+
+
+
+
+
+<div class="mod-b sep block "
+    data-usn-element-name="00000142-95af-d6ec-a772-bfef96c30000"
+    data-aid="a39b09">
+
+
+
+<style type="text/css">
+.reversed {
+  background-color: #222222;
+}
+.reversed,
+.reversed * {
+  color: white;
+}
+.reversed p,
+.reversed .t,
+.reversed .h-light {
+  color: #cccccc;
+}
+.reversed .t-subdued,
+.reversed .h-subdued {
+  color: #999999;
+}
+.reversed .t-dim {
+  color: #666666;
+}
+.reversed .t-subdued a,
+.reversed .h-subdued a,
+.reversed a.t-subdued,
+.reversed a.h-subdued {
+  color: #cccccc;
+}
+.reversed a, .reversed a.stealth {
+  color: white;
+}
+.reversed a:hover {
+  color: white;
+  text-decoration: underline;
+}
+.reversed hr,
+.reversed .hr,
+.reversed .hr-heavy,
+.reversed .sep,
+.reversed .sep-generous,
+.reversed .bar-sep-overunder {
+  border-color: #444444;
+}
+.reversed h4, .reversed p {
+padding-left: 10px;
+padding-right: 10px;
+}
+.reversed:first-child h4 {
+padding-top: 10px;
+}
+.reversed p {
+margin-bottom: 15px;
+}
+.reversed ul {
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 5px;    
+}
+</style>
+    
+        <h4>Latest Videos</h4>
+    
+
+    <div class="block">
+        
+
+
+
+
+
+
+
+    
+    
+    
+        <div
+    class="ndn_embed"
+    data-config-widget-id="27469"
+    data-config-type="VideoLauncher/Slider300x250"
+    data-config-tracking-group="90080"
+    data-config-site-section="usnews_hom_non_fro"></div>
+
+    
+
+
+    </div>
+
+    
+    
+</div>
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+        <div id="rectangleA" class="ad ad-rectangle ad-rectangle-a ad-labeled sep">
+            
+                
+                    <script>
+                        oz_api = USN.rubicon.apiName;
+                        oz_site = USN.rubicon.site;
+                        oz_zone = USN.rubicon.getZone('rectangleA');
+                        oz_ad_slot_size = USN.rubicon.getAdSize('rectangleA');
+                        oz_callback = function (data) {
+                            USN.rubicon.injectTargeting(data, 'rectangleA');
+                        }
+                        USN.rubicon.callApi('rectangleA');
+                    </script>
+                
+                
+            
+        </div>
+
+    
+
+
+
+
+
+
+
+
+
+
+<div class="mod-b sep
+            skin-legacy
+            the-report-email-signup
+            "
+     data-usn-element-name="0000014d-0037-d6bb-a77d-04f77ac90000"
+     data-aid="9c7708">
+    
+    
+        <div class="media block">
+            
+
+            <div class="content">
+                
+
+                <div class="t">
+                        <script type="text/javascript">
+        (function ($) {
+            "use strict";
+
+            USN.load('jquery.cookie');
+
+            $(function () {
+                var cnameSubscribed = "cms.theReportSubscriber",
+                    cookieSubscribed = $.cookie(cnameSubscribed),
+                    $form = $('.theReport_emailSignUp_form'),
+                    signupURL = '/emailprefs/list-add?list=The%20Report',
+                    $initial = $('.theReport_emailSignUp-initial'),
+                    $success = $('.theReport_emailSignUp-success');
+
+                $form.submit(function (event) {
+                    var $email = $('input[name=email]' ,$form),
+                        email = $email.val();
+                    event.preventDefault();
+                    $.post(signupURL + '&email=' + email).done(function (response) {
+                            if (response.result === 'success') {
+                                $initial.hide();
+                                $success.show();
+                                $.cookie(cnameSubscribed, "true", { expires: 365, path: '/' , domain: 'usnews.com'} );
+                               // Tealium check
+                               if (typeof utag !== 'undefined') {
+                                    // Track the link click within Tealium
+                                    utag.link({
+                                        'event_name': 'email_signup',
+                                        'page_url': location.host + location.pathname,
+                                        'customer_email': email
+                                    });
+                                }
+                            } else {
+                                $initial.show();
+                                $success.hide();
+                            }
+                            // Reset the clearfield state
+                            $email.blur();
+                        });
+                });
+            });
+        })(window.jQuery);
+    </script>
+    <div class="t">
+        <img class="block" src="http://www.usnews.com/cmsmedia/9f/a0/5181ad8b4259a230828c8b390c9b/150429reportsignuppromo.png">
+
+        <div class="theReport_emailSignUp-success" style="display: none;">
+            <p class="t-block t-large" style="margin-bottom:0;">
+                Thank you, your email has been submitted.
+            </p>
+        </div>
+        <div class="theReport_emailSignUp-initial">
+            <form class="theReport_emailSignUp_form form-aurStandard-inline form-aurStandard-close" method="post">
+                <input type="submit" value="Subscribe" class="form_item-medium button right t-large" style="margin-left: 10px;">
+                <div class="unwrap column-1">
+                    <input type="text" name="email" title="Email Address" class="form_item-medium item clearfield clearfield-blurred">
+                </div>
+            </form>
+        </div>
+    </div>
+                </div>
+            </div>
+        </div>
+    
+</div>
+
+
+
+
+
+
+
+
+<div class="mod-b sep block"
+    data-usn-element-name="00000143-8c18-dc0a-ab63-bd5edc680000"
+    data-aid="a0fe09">
+    
+        <h4 class="h">Latest Galleries</h4>
+    
+
+    <div class="carousel-slidesjs t-slack" style="display: none;" data-add-height="116">
+        
+            
+            
+                
+                
+                    
+                    
+                    
+                
+            
+            <div class="frame">
+                <div class="captionbox-300x270">
+                    <a href="//www.usnews.com/news/photos/2016/01/07/photos-paris-1-year-after-charlie-hebdo" class="img-cameraIcon">
+                        <img src="http://www.usnews.com/dims4/USNEWS/9b249b4/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2F42%2F43%2F2fd9ee00448297a6d5d704cb3feb%2F160107-hebdo-6-editorial.jpg" width="300" height="270" class="img" alt="Photos: Paris, 1 Year After Charlie Hebdo" srcset="http://www.usnews.com/dims4/USNEWS/9b249b4/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2F42%2F43%2F2fd9ee00448297a6d5d704cb3feb%2F160107-hebdo-6-editorial.jpg, http://www.usnews.com/dims4/USNEWS/82c4d24/2147483647/thumbnail/600x540/quality/85/?url=%2Fcmsmedia%2F42%2F43%2F2fd9ee00448297a6d5d704cb3feb%2F160107-hebdo-6-editorial.jpg 2x" data-size="rectangle300x270"/>
+                    </a>
+
+                    <div class="copy">
+                        <p class="t-subdued t-smaller t-strong t-flush">News</p>
+                        <p class="t-block">
+                            <a href="//www.usnews.com/news/photos/2016/01/07/photos-paris-1-year-after-charlie-hebdo">
+                                Photos: Paris, 1 Year After Charlie Hebdo
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            
+            
+                
+                
+                    
+                    
+                    
+                
+            
+            <div class="frame">
+                <div class="captionbox-300x270">
+                    <a href="//www.usnews.com/news/photos/2015/12/28/photos-famous-faces-who-died-in-2015" class="img-cameraIcon">
+                        <img src="http://www.usnews.com/dims4/USNEWS/e04f377/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2Fdf%2Fc7%2F2e2a3c4946689145e1c8f2503bbb%2F151224-obits-leonardnimoy-editorial.jpg" width="300" height="270" class="img" alt="Photos: Famous Faces Who Died in 2015 " srcset="http://www.usnews.com/dims4/USNEWS/e04f377/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2Fdf%2Fc7%2F2e2a3c4946689145e1c8f2503bbb%2F151224-obits-leonardnimoy-editorial.jpg, http://www.usnews.com/dims4/USNEWS/a1fb5f9/2147483647/thumbnail/600x540/quality/85/?url=%2Fcmsmedia%2Fdf%2Fc7%2F2e2a3c4946689145e1c8f2503bbb%2F151224-obits-leonardnimoy-editorial.jpg 2x" data-size="rectangle300x270"/>
+                    </a>
+
+                    <div class="copy">
+                        <p class="t-subdued t-smaller t-strong t-flush">News</p>
+                        <p class="t-block">
+                            <a href="//www.usnews.com/news/photos/2015/12/28/photos-famous-faces-who-died-in-2015">
+                                Photos: Famous Faces Who Died in 2015 
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            
+            
+                
+                
+                    
+                    
+                    
+                
+            
+            <div class="frame">
+                <div class="captionbox-300x270">
+                    <a href="//www.usnews.com/news/photos/2015/09/01/photos-scenes-from-europes-migrant-crisis" class="img-cameraIcon">
+                        <img src="http://www.usnews.com/dims4/USNEWS/b5f5590/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2Faa%2Fa2%2Fe36d563947159d3095aac313f05b%2Fresizes%2F500%2F150901-migrants-11-editorial.jpg" width="300" height="270" class="img" alt="Scenes From Europe&#39;s Migrant Crisis" srcset="http://www.usnews.com/dims4/USNEWS/b5f5590/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2Faa%2Fa2%2Fe36d563947159d3095aac313f05b%2Fresizes%2F500%2F150901-migrants-11-editorial.jpg, http://www.usnews.com/dims4/USNEWS/d79db1d/2147483647/thumbnail/600x540/quality/85/?url=%2Fcmsmedia%2Faa%2Fa2%2Fe36d563947159d3095aac313f05b%2Fresizes%2F1500%2F150901-migrants-11-editorial.jpg 2x" data-size="rectangle300x270"/>
+                    </a>
+
+                    <div class="copy">
+                        <p class="t-subdued t-smaller t-strong t-flush">News</p>
+                        <p class="t-block">
+                            <a href="//www.usnews.com/news/photos/2015/09/01/photos-scenes-from-europes-migrant-crisis">
+                                Scenes From Europe&#039;s Migrant Crisis
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            
+            
+                
+                
+                    
+                    
+                    
+                
+            
+            <div class="frame">
+                <div class="captionbox-300x270">
+                    <a href="//www.usnews.com/news/the-report/photos/2015/11/27/photos-the-real-impact-of-climate-change" class="img-cameraIcon">
+                        <img src="http://www.usnews.com/dims4/USNEWS/53b72d5/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2F4d%2F61%2Fa263b940419597c5ca9db3fb47e6%2Fresizes%2F500%2F151127reportessay001-editorial.essay001.JPG" width="300" height="270" class="img" alt="Photos: The Real Impact of Climate Change" srcset="http://www.usnews.com/dims4/USNEWS/53b72d5/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2F4d%2F61%2Fa263b940419597c5ca9db3fb47e6%2Fresizes%2F500%2F151127reportessay001-editorial.essay001.JPG, http://www.usnews.com/dims4/USNEWS/8e2ddfa/2147483647/thumbnail/600x540/quality/85/?url=%2Fcmsmedia%2F4d%2F61%2Fa263b940419597c5ca9db3fb47e6%2Fresizes%2F1500%2F151127reportessay001-editorial.essay001.JPG 2x" data-size="rectangle300x270"/>
+                    </a>
+
+                    <div class="copy">
+                        <p class="t-subdued t-smaller t-strong t-flush">The Report</p>
+                        <p class="t-block">
+                            <a href="//www.usnews.com/news/the-report/photos/2015/11/27/photos-the-real-impact-of-climate-change">
+                                Photos: The Real Impact of Climate Change
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            
+            
+                
+                
+                    
+                    
+                    
+                
+            
+            <div class="frame">
+                <div class="captionbox-300x270">
+                    <a href="//www.usnews.com/news/photos/2015/10/21/photos-syrias-ongoing-civil-war" class="img-cameraIcon">
+                        <img src="http://www.usnews.com/dims4/USNEWS/143bdee/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2F87%2Ff2%2F0a7eac0a4aab865cf870ae34cdf6%2Fresizes%2F500%2F151020-syria-2-editorial.jpg" width="300" height="270" class="img" alt="Photos: Syria&#39;s Ongoing Civil War" srcset="http://www.usnews.com/dims4/USNEWS/143bdee/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2F87%2Ff2%2F0a7eac0a4aab865cf870ae34cdf6%2Fresizes%2F500%2F151020-syria-2-editorial.jpg, http://www.usnews.com/dims4/USNEWS/145080f/2147483647/thumbnail/600x540/quality/85/?url=%2Fcmsmedia%2F87%2Ff2%2F0a7eac0a4aab865cf870ae34cdf6%2Fresizes%2F1500%2F151020-syria-2-editorial.jpg 2x" data-size="rectangle300x270"/>
+                    </a>
+
+                    <div class="copy">
+                        <p class="t-subdued t-smaller t-strong t-flush">News</p>
+                        <p class="t-block">
+                            <a href="//www.usnews.com/news/photos/2015/10/21/photos-syrias-ongoing-civil-war">
+                                Photos: Syria&#039;s Ongoing Civil War
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+    </div>
+    <script type="text/javascript">
+        USN.load('jquery.slides.min');
+    </script>
+    <script type="text/javascript">
+        $(function(){
+            $('.carousel-slidesjs').each(function () {
+                var $img = $(this).find('img').first(),
+                        height = $img.attr('height'),
+                        width = $img.attr('width');
+
+                $(this).slidesjs({
+                    height: '270',
+                    width: '300',
+                    play: {
+                        auto: true
+                    }
+                });
+            });
+        });
+    </script>
+</div>
+
+
+
+
+
+
+
+<div class="mod-b sep"
+    data-usn-element-name="00000142-95b0-d6ec-a772-bff98d420000"
+    data-aid="9d3408">
+    <h4>Follow U.S. News</h4>
+
+    <ul class="bar-pad6 block">
+        
+            <li class="item">
+                <a href="http://www.facebook.com/usnewsandworldreport" target="_blank">
+                    <img src="http://www.usnews.com/dims4/USNEWS/490a609/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2Fc4%2F39%2F677999944687ac9ad6e43d137456%2Ffacebook-icon.png" width="55" height="55" alt="Facebook" srcset="http://www.usnews.com/dims4/USNEWS/490a609/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2Fc4%2F39%2F677999944687ac9ad6e43d137456%2Ffacebook-icon.png, http://www.usnews.com/dims4/USNEWS/978d219/2147483647/thumbnail/110x110/quality/85/?url=%2Fcmsmedia%2Fc4%2F39%2F677999944687ac9ad6e43d137456%2Ffacebook-icon.png 2x" data-size="socialModuleIcon"/>
+                </a>
+            </li>
+        
+            <li class="item">
+                <a href="https://twitter.com/usnews" target="_blank">
+                    <img src="http://www.usnews.com/dims4/USNEWS/fd3ae02/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2F67%2F7d%2Fb1d026154808be5169e12d9eea1a%2Ftwitter-icon.png" width="55" height="55" alt="Twitter" srcset="http://www.usnews.com/dims4/USNEWS/fd3ae02/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2F67%2F7d%2Fb1d026154808be5169e12d9eea1a%2Ftwitter-icon.png, http://www.usnews.com/dims4/USNEWS/61220e8/2147483647/thumbnail/110x110/quality/85/?url=%2Fcmsmedia%2F67%2F7d%2Fb1d026154808be5169e12d9eea1a%2Ftwitter-icon.png 2x" data-size="socialModuleIcon"/>
+                </a>
+            </li>
+        
+            <li class="item">
+                <a href="https://plus.google.com/b/108263727096451155269/#108263727096451155269/posts" target="_blank">
+                    <img src="http://www.usnews.com/dims4/USNEWS/926d82f/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2Ff9%2Fc6%2F77b52fad43989c86af1be633e5ca%2Fgoogle-icon.png" width="55" height="55" alt="Google+" srcset="http://www.usnews.com/dims4/USNEWS/926d82f/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2Ff9%2Fc6%2F77b52fad43989c86af1be633e5ca%2Fgoogle-icon.png, http://www.usnews.com/dims4/USNEWS/2feb01a/2147483647/thumbnail/110x110/quality/85/?url=%2Fcmsmedia%2Ff9%2Fc6%2F77b52fad43989c86af1be633e5ca%2Fgoogle-icon.png 2x" data-size="socialModuleIcon"/>
+                </a>
+            </li>
+        
+            <li class="item">
+                <a href="http://www.linkedin.com/company/u.s.-news-&amp;-world-report">
+                    <img src="http://www.usnews.com/dims4/USNEWS/f278c30/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2Fea%2F0b%2Fc2989d554fc3ac3fc3c4ddc328c1%2Flinkedin-icon.png" width="55" height="55" alt="LinkedIn" srcset="http://www.usnews.com/dims4/USNEWS/f278c30/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2Fea%2F0b%2Fc2989d554fc3ac3fc3c4ddc328c1%2Flinkedin-icon.png, http://www.usnews.com/dims4/USNEWS/bc81333/2147483647/thumbnail/110x110/quality/85/?url=%2Fcmsmedia%2Fea%2F0b%2Fc2989d554fc3ac3fc3c4ddc328c1%2Flinkedin-icon.png 2x" data-size="socialModuleIcon"/>
+                </a>
+            </li>
+        
+            <li class="item">
+                <a href="http://www.usnews.com/rss/">
+                    <img src="http://www.usnews.com/dims4/USNEWS/de32fca/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2F88%2Fbe%2F99f2482541d7a2759e9ca9785d30%2Frss58x58.png" width="55" height="55" alt="rss58x58.png" srcset="http://www.usnews.com/dims4/USNEWS/de32fca/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2F88%2Fbe%2F99f2482541d7a2759e9ca9785d30%2Frss58x58.png, http://www.usnews.com/dims4/USNEWS/5c04a78/2147483647/thumbnail/110x110/quality/85/?url=%2Fcmsmedia%2F88%2Fbe%2F99f2482541d7a2759e9ca9785d30%2Frss58x58.png 2x" data-size="socialModuleIcon"/>
+                </a>
+            </li>
+        
+    </ul>
+
+    
+</div>
+
+
+
+
+
+
+
+<div class="mod-b sep"
+     data-usn-element-name="00000145-28d7-d51a-abc7-bbf78ad50000"
+     data-aid="a01109">
+    <h4 class="h link-dark">
+        <a href="//www.usnews.com/news/blogs/data-mine">
+            
+                
+                    
+                        <img src="http://www.usnews.com/dims4/USNEWS/e4e3ea8/2147483647/thumbnail/300x85/quality/85/?url=%2Fcmsmedia%2F3a%2F66%2F1c36c2c44fa381b26939c23469e8%2Fdata-mine.jpg" width="300" height="85" alt="Data Mine" srcset="http://www.usnews.com/dims4/USNEWS/c10c82c/2147483647/resize/300x/quality/85/?url=%2Fcmsmedia%2F3a%2F66%2F1c36c2c44fa381b26939c23469e8%2Fdata-mine.jpg, http://www.usnews.com/dims4/USNEWS/6d2b774/2147483647/thumbnail/600x170/quality/85/?url=%2Fcmsmedia%2F3a%2F66%2F1c36c2c44fa381b26939c23469e8%2Fdata-mine.jpg 2x"/>
+                    
+                    
+                    
+                
+            
+            
+        </a>
+    </h4>
+
+    
+        <article class="">
+            
+            
+                
+                    <p class="t-taut"><a href="//www.usnews.com/news/blogs/data-mine/2016/02/17/saudi-arabia-russia-feeling-the-pain-from-oil">Saudi Arabia, Russia Feeling the Pain from Oil</a></p>
+                    
+                
+                
+            
+        </article>
+    
+        <article class="">
+            
+            
+                
+                    <p class="t-taut"><a href="//www.usnews.com/news/blogs/data-mine/articles/2016-02-17/south-carolinas-key-role-in-the-2016-presidential-race">South Carolina&#039;s Key Role in the 2016 Presidential Race</a></p>
+                    
+                
+                
+            
+        </article>
+    
+        <article class="">
+            
+            
+                
+                    <p class="t-taut"><a href="//www.usnews.com/news/blogs/data-mine/articles/2016-02-16/a-look-at-donald-trump-supporters-ahead-of-the-south-carolina-primary">A Look at Donald Trump Supporters Ahead of the South Carolina Primary</a></p>
+                    
+                
+                
+            
+        </article>
+    
+
+    
+        <p class="sep-dashed t-block">
+            <a href="//www.usnews.com/news/blogs/data-mine">
+                See More Posts
+            </a>
+        </p>
+    
+</div>
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+        <div id="rectangleB" class="ad ad-rectangle ad-rectangle-b ad-labeled sep">
+            
+                
+                    <script>
+                        oz_api = USN.rubicon.apiName;
+                        oz_site = USN.rubicon.site;
+                        oz_zone = USN.rubicon.getZone('rectangleB');
+                        oz_ad_slot_size = USN.rubicon.getAdSize('rectangleB');
+                        oz_callback = function (data) {
+                            USN.rubicon.injectTargeting(data, 'rectangleB');
+                        }
+                        USN.rubicon.callApi('rectangleB');
+                    </script>
+                
+                
+            
+        </div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="mod-b sep"
+         data-usn-element-name="00000146-81e0-d81a-a17e-e9f803c30000"
+         data-aid="998208">
+        
+            <h4 class="h">
+                <a href="//www.usnews.com/topics/series/picks" class="link-dark">Editor's Picks</a>
+            </h4>
+        
+
+        
+
+        
+            <div class="media">
+                
+                <div class="content">
+                    
+                        <p class="t-tight t-close">
+                            <a href="//www.usnews.com/news/blogs/run-2016/2016/02/17/jeb-bushs-supporters-are-singing-the-blues">Jeb Bush’s Supporters Are Singing the Blues</a>
+                        </p>
+                        
+                    
+                        <p class="t-tight t-close">
+                            <a href="//www.usnews.com/news/articles/2016-02-17/trump-kasich-criticize-apples-opposition-to-court-order">Trump, Kasich Criticize Apple&#039;s Opposition to Court Order</a>
+                        </p>
+                        
+                    
+                        <p class="t-tight t-close">
+                            <a href="//www.usnews.com/news/articles/2016-02-17/gop-beware-trumps-wide-open-independent-option">GOP, Beware: Trump&#039;s Wide-Open Independent Option</a>
+                        </p>
+                        
+                    
+                        <p class="t-tight t-close">
+                            <a href="http://health.usnews.com/health-news/health-wellness/articles/2016-02-17/common-antibiotics-may-cause-delirium">Common Antibiotics May Cause Delirium</a>
+                        </p>
+                        
+                    
+                        <p class="t-tight t-close">
+                            <a href="//www.usnews.com/news/articles/2016-02-17/federal-reserve-plagued-by-uncertainty-in-latest-minutes">Federal Reserve Plagued by &#039;Uncertainty&#039; in Latest Minutes</a>
+                        </p>
+                        
+                    
+                </div>
+            </div>
+        
+    </div>
+
+
+    </aside>
+</div></div><div class="dari-grid-area _da" data-grid-area="well" _da="well"><div class="dari-grid-adj _dj dari-grid-adj-px _dj-px" data-grid-area="well" _da="well"></div></div><div class="dari-grid-area _da" data-grid-area="footer" _da="footer"><div class="dari-grid-adj _dj dari-grid-adj-px _dj-px" data-grid-area="footer" _da="footer"><div class="dari-grid-mw _dw dari-grid-mw-px _dw-px" data-grid-area="footer" _da="footer"></div>
+    
+        
+    
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+        <div id="leaderboardB" class="ad ad-leaderboard ad-leaderboard-b sep">
+            
+                
+                    <script>
+                        oz_api = USN.rubicon.apiName;
+                        oz_site = USN.rubicon.site;
+                        oz_zone = USN.rubicon.getZone('leaderboardB');
+                        oz_ad_slot_size = USN.rubicon.getAdSize('leaderboardB');
+                        oz_callback = function (data) {
+                            USN.rubicon.injectTargeting(data, 'leaderboardB');
+                        }
+                        USN.rubicon.callApi('leaderboardB');
+                    </script>
+                
+                
+            
+        </div>
+
+    
+
+
+
+    
+
+
+
+
+
+
+
+<div id="footer" class="footer footer-news">
+    <div class="grid-976">
+        <div class="span12 sep-strong t-slackest">
+            <div class="span span2">
+                <h3 class="h h-fancy h-slack sep-strong">News</h3>
+                <ul class="sep-strong">
+                    
+                        <li class="t-taut"><a href="//www.usnews.com/news" class="link-subdued">News Home</a></li>
+                    
+                        <li class="t-taut"><a href="//www.usnews.com/opinion" class="link-subdued">Opinion</a></li>
+                    
+                        <li class="t-taut"><a href="//www.usnews.com/national-issues" class="link-subdued">National Issues</a></li>
+                    
+                        <li class="t-taut"><a href="//www.usnews.com/cartoons" class="link-subdued">Cartoons</a></li>
+                    
+                        <li class="t-taut"><a href="//www.usnews.com/photos" class="link-subdued">Photos</a></li>
+                    
+                        <li class="t-taut"><a href="http://video.usnews.com" class="link-subdued">Videos</a></li>
+                    
+                        <li class="t-taut"><a href="//www.usnews.com/news/special-reports" class="link-subdued">Special Reports</a></li>
+                    
+                        <li class="t-taut"><a href="//www.usnews.com/news/the-report" class="link-subdued">The Report</a></li>
+                    
+                </ul>
+            </div>
+            <div class="span span10">
+                <h3 class="h h-fancy h-slack sep-strong">Rankings &amp; Consumer Advice</h3>
+                <ul class="sep-strong">
+                    
+                        
+                            <li class="item span span2">
+                                <h4 class="link-dim h-mini">
+                                    <a href="//www.usnews.com/education">Education</a>
+                                </h4>
+                                <ul>
+                                    
+                                        <li class="t-taut"><a href="//www.usnews.com/best-colleges" class="link-subdued">Colleges</a></li>
+                                    
+                                        <li class="t-taut"><a href="//www.usnews.com/best-graduate-schools" class="link-subdued">Graduate Schools</a></li>
+                                    
+                                        <li class="t-taut"><a href="//www.usnews.com/education/best-high-schools" class="link-subdued">High Schools</a></li>
+                                    
+                                        <li class="t-taut"><a href="//www.usnews.com/education/online-education" class="link-subdued">Online Programs</a></li>
+                                    
+                                        <li class="t-taut"><a href="//www.usnews.com/education/community-colleges" class="link-subdued">Community Colleges</a></li>
+                                    
+                                        <li class="t-taut"><a href="//www.usnews.com/education/best-global-universities" class="link-subdued">Global Universities</a></li>
+                                    
+                                        <li class="t-taut"><a href="//www.usnews.com/education/arab-region-universities" class="link-subdued">Arab Universities</a></li>
+                                    
+
+                                </ul>
+                            </li>
+                        
+                        
+                    
+                        
+                            <li class="item span span2">
+                                <h4 class="link-dim h-mini">
+                                    <a href="http://health.usnews.com/">Health</a>
+                                </h4>
+                                <ul>
+                                    
+                                        <li class="t-taut"><a href="http://health.usnews.com/health-news/best-hospitals" class="link-subdued">Hospitals</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://health.usnews.com/doctors" class="link-subdued">Doctor Finder</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://health.usnews.com/best-diet" class="link-subdued">Diets</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://health.usnews.com/best-nursing-homes" class="link-subdued">Nursing Homes</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://health.usnews.com/health-products" class="link-subdued">Health Products</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://health.usnews.com/health-insurance" class="link-subdued">Health Insurance</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://health.usnews.com/medicare" class="link-subdued">Medicare</a></li>
+                                    
+
+                                </ul>
+                            </li>
+                        
+                        
+                    
+                        
+                            <li class="item span span2">
+                                <h4 class="link-dim h-mini">
+                                    <a href="http://money.usnews.com/">Money</a>
+                                </h4>
+                                <ul>
+                                    
+                                        <li class="t-taut"><a href="http://money.usnews.com/money/careers" class="link-subdued">Jobs</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://money.usnews.com/financial-advisors" class="link-subdued">Financial Advisors</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://money.usnews.com/funds/etfs" class="link-subdued">ETFs</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://money.usnews.com/funds/mutual-funds" class="link-subdued">Mutual Funds</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://money.usnews.com/money/retirement" class="link-subdued">Retirement</a></li>
+                                    
+
+                                </ul>
+                            </li>
+                        
+                        
+                    
+                        
+                            <li class="item span span2">
+                                <h4 class="link-dim h-mini">
+                                    <a href="http://travel.usnews.com/">Travel</a>
+                                </h4>
+                                <ul>
+                                    
+                                        <li class="t-taut"><a href="http://travel.usnews.com/Rankings/" class="link-subdued">Vacations</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://travel.usnews.com/cruises/" class="link-subdued">Cruises</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://travel.usnews.com/Hotels/" class="link-subdued">Hotels</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://travel.usnews.com/Rankings/Travel-Rewards/hotel-rewards/" class="link-subdued">Hotel Rewards</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://travel.usnews.com/Rankings/Travel-Rewards/airline-rewards/" class="link-subdued">Airline Rewards</a></li>
+                                    
+
+                                </ul>
+                            </li>
+                        
+                        
+                    
+                        
+                        
+                            <li class="item span span2">
+                                    <h4 class="link-dim h-mini">
+                                        <a href="http://usnews.rankingsandreviews.com/cars-trucks">Cars</a>
+                                    </h4>
+                                    <ul class="block">
+                                        
+                                            <li class="t-taut"><a href="http://usnews.rankingsandreviews.com/cars-trucks/rankings/" class="link-subdued">New Cars</a></li>
+                                        
+                                            <li class="t-taut"><a href="http://usnews.rankingsandreviews.com/cars-trucks/used-cars/" class="link-subdued">Used Cars</a></li>
+                                        
+
+                                    </ul>
+                                
+                                    <h4 class="link-dim h-mini">
+                                        <a href="http://bestlawfirms.usnews.com/">Law</a>
+                                    </h4>
+                                    <ul class="block">
+                                        
+                                            <li class="t-taut"><a href="http://bestlawfirms.usnews.com/rankings.aspx" class="link-subdued">Law Firms</a></li>
+                                        
+
+                                    </ul>
+                                </li>
+                        
+                    
+                </ul>
+            </div>
+        </div>
+        <div class="span12 sep-strong block">
+            <img class="img span span4" src="/static/images/homepage-logo.png" style="border: 1px solid #ddd;" />
+
+            <ul class="span span2">
+                
+                    
+                        <li class="item"><a href="/info/features/about-usnews" class="link-subdued">About U.S. News</a></li>
+                    
+                
+                    
+                
+                    
+                        <li class="item"><a href="/info/features/contact" class="link-subdued">Contact Us</a></li>
+                    
+                
+                    
+                
+                    
+                        <li class="item"><a href="http://www.usnews.com/products/features/home" class="link-subdued">Store</a></li>
+                    
+                
+                    
+                
+                    
+                        <li class="item"><a href="/info/features/sitemap" class="link-subdued">Site Map</a></li>
+                    
+                
+            </ul>
+            <ul class="span span2">
+                
+                    
+                
+                    
+                        <li class="item"><a href="//www.usnews.com/info/blogs/press-room" class="link-subdued">Press Room</a></li>
+                    
+                
+                    
+                
+                    
+                        <li class="item"><a href="http://mediakit.usnews.com/index.php" class="link-subdued">Advertising Info</a></li>
+                    
+                
+                    
+                
+                    
+                        <li class="item"><a href="http://mediakit.usnews.com/advertising-self-service" class="link-subdued"> Ads – Self-Service</a></li>
+                    
+                
+                    
+                
+            </ul>
+            <div class="span span4">
+                
+                <p class="t-close t-dim">Connect with us:
+                
+                    <a class="link-subdued" href="//www.facebook.com/usnewsandworldreport" target="_blank"> <span
+                        class="icon-header-facebook-dark"
+                    >Facebook</span>
+                    </a>
+                    
+                    <a class="link-subdued" href="//twitter.com/usnews" target="_blank"> <span
+                        class="icon-header-twitter-dark"
+                    >Twitter</span>
+                    </a>
+                    
+                    <a class="link-subdued" href="//plus.google.com/+usnewsworldreport" target="_blank"> <span
+                        class="icon-header-gplus-dark"
+                    >Google+</span>
+                    </a>
+                    
+                </p>
+                    <p class="footer_disclaimer t-dim t-small t-flush">
+                        Copyright 2016 &copy; U.S. News &amp; World Report LP.
+                        <br/>
+                        <a href="/info/features/terms" class="link-subdued">Terms and Conditions</a>
+                        /
+                        <a href="/info/features/terms#privacy" class="link-subdued">Privacy Policy</a>.
+                    </p>
+
+
+            </div>
+        </div>
+
+    </div>
+</div>
+<div id="foobar"></div>
+
+    
+</div></div><div class="dari-grid-clear" style="clear:both;"></div></div>
+<!-- Sailthru Horizon -->
+
+<script type="text/javascript">
+    (function() 
+    {
+        function loadHorizon() 
+        {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+            var x = document.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+            }
+        loadHorizon();
+        var oldOnLoad = window.onload;
+        window.onload = function() 
+        {
+                if (typeof oldOnLoad === 'function') 
+            {
+                    oldOnLoad();
+                }
+                Sailthru.setup({
+                    domain: 'horizon.messaging.usnews.com',
+                        useStoredTags: false
+                    });
+            };
+        })();
+</script>
+
+
+    
+        
+
+        
+        <script data-partner-name="crazyegg" type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/9297.js"></script>
+        
+
+        <script>
+            USN.load('foot-scripts-concat');
+        </script>
+
+        
+        <script data-partner-name="ndn" type="text/javascript" async src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+
+        
+        <div id="stitial"></div>
+        <script type="text/javascript">dblclick('stitial');</script>
+        <div id="anchor"></div>
+        <script type="text/javascript">dblclick('anchor');</script>
+        <div id="custom1" class="ad-custom ad-custom1"></div>
+        <script type="text/javascript">dblclick('custom1');</script>
+        <div id="custom2" class="ad-custom ad-custom2"></div>
+        <script type="text/javascript">dblclick('custom2');</script>
+        <div id="custom3" class="ad-custom ad-custom3"></div>
+        <script type="text/javascript">dblclick('custom3');</script>
+        <div id="custom4" class="ad-custom ad-custom4"></div>
+        <script type="text/javascript">dblclick('custom4');</script>
+        <div id="custom5" class="ad-custom ad-custom5"></div>
+        <script type="text/javascript">dblclick('custom5');</script>
+
+        
+
+        <script data-partner-name="lotame" type="text/javascript" src="http://tags.crwdcntrl.net/c/5305/cc.js?ns=_cc5305" id="LOTCC_5305"></script>
+        <script data-partner-name="lotame" type="text/javascript">_cc5305.bcp();</script>
+        </div><!-- /.wrapper-global_inner -->
+    
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"07f9f00f2b","agent":"","beacon":"bam.nr-data.net","applicationTime":985,"applicationID":"4094380","transactionName":"ZlQBZBYDWkMEVkZRCV8eKWM0TWN1Jxh7diAeUgxdCQ1aHxVUVV05AQFRVAcNWkQEXFxdFB9bEEA=","queueTime":0}</script></body>
+</html>
+
+
+
+    
+
+

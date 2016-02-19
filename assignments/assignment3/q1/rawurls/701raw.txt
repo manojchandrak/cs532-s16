@@ -1,0 +1,1534 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="head"><title>
+	 |  ABS-CBN News
+</title><meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+ 
+<meta http-equiv="content-style-type" content="text/css" /> 
+<meta http-equiv="content-script-type" content="text/javascript" /> 
+<link type='text/css' rel='stylesheet' media='all' href='/CMSPages/GetResource.ashx?stylesheetname=ABS-CBNNEWS5a9c56bb3e45f548b27e20afd3b92f50'>
+
+<link rel="shortcut icon" href="//sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/abscbnmaster/favicon.ico" type="image/x-icon" />
+<link type="text/css" rel="stylesheet" media="screen" href="/CMSPages/GetResource.ashx?stylesheetname=ABS-CBNNEWS741064d464fb780d64fb7a5826700969" />
+<link type="text/css" rel="stylesheet" media="all" href="/CMSPages/GetResource.ashx?stylesheetname=ABS-CBNNEWSskin" />
+<link type="text/css" rel="stylesheet" media="all" href="/CMSPages/GetResource.ashx?stylesheetname=ABS-CBNNEWS043a41e58a4795792584c5507e169762" />
+<link type="text/css" rel="stylesheet" media="all" href="/CMSPages/GetResource.ashx?stylesheetname=ABS-CBNNEWS08e8770341bfe79777db47290b711b56" />
+<link  rel="stylesheet" type="text/css" media="all" href="/CMSPages/GetResource.ashx?stylesheetname=ABS-CBNNEWSuninav" />
+<link type="text/css" rel="stylesheet" media="all" href="/CMSPages/GetResource.ashx?stylesheetname=BreakingNews"/>
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?1" />
+<![endif]-->
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/abscbn2010/abscbn2010-ie.css?1" />
+<![endif]
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>-->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="/CMSScripts/Custom/ABS-CBN-News/ABSCBNMaster/jquery-core.js"></script>
+<script type="text/javascript" src="/CMSScripts/Custom/ABS-CBN-News/ABSCBNMaster/jquery.js"></script>
+<script type="text/javascript" src="/CMSScripts/Custom/ABS-CBN-News/ABSCBNMaster/drupal.js"></script>
+<script type="text/javascript" src="/CMSScripts/Custom/ABS-CBN-News/ABSCBNMaster/quicktabs.js"></script>
+<script type="text/javascript" src="/CMSScripts/Custom/ABS-CBN-News/ABSCBNMaster/nice_menus.js"></script>
+<script type="text/javascript" src="/CMSScripts/Custom/ABS-CBN-News/ABSCBNMaster/jquery.dropshadow.js"></script>
+<script type="text/javascript" src="/CMSScripts/Custom/ABS-CBN-News/ABSCBNMaster/facebox.js"></script>
+<script type="text/javascript" src="/CMSScripts/Custom/ABS-CBN-News/ABSCBNMaster/abscbn2010.js"></script>
+<script type="text/javascript" src="/CMSScripts/Custom/ABS-CBN-News/ABSCBNMaster/lazy.core.js"></script>
+<script type="text/javascript" src="/CMSScripts/Custom/ABS-CBN-News/ABSCBNMaster/jquery.simplemodal.js"></script>
+<script type="text/javascript" src="/CMSScripts/Custom/ABS-CBN-News/ABSCBNMaster/jquery.simpleslider.js"></script>
+<script type="text/javascript" src="/CMSScripts/Custom/ABS-CBN-News/ABSCBNMaster/slider.js"></script>
+<script type="text/javascript" src="/CMSScripts/Custom/ABS-CBN-News/ABSCBNMaster/abscbn2010-front.js"></script>
+<script type="text/javascript" src="/CMSScripts/Custom/ABS-CBN-News/ABSCBNMaster/jquery.cycle.js"></script>
+<script type="text/javascript" src="/CMSScripts/Custom/ABS-CBN-News/ABSCBNMaster/views_cycle.js?0"></script>
+<!-- name: universal text. -->
+
+<script type="text/javascript" src="http://sa.kapamilya.com/absnews/abscbnnews/scripts/newsmobile.js"></script>
+
+<script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+  jQuery.extend(Drupal.settings, {"basePath":"\/"});
+  //--><!]]>
+</script>
+<script type="text/javascript">
+  <!--//--><![CDATA[//><!--
+    jQuery.extend(Drupal.settings, {"views_cycle":{"block-views-abscbn2010_blocks-block_11":{"params":{"fx":"fade","timeout":10000,"speed":1000},"use_prevnext_links":1,"nextLabel":"-","prevLabel":"-","prevnextLocation":"before"}}});
+    jQuery.extend(Drupal.settings, {"views_cycle":{"views-cycle-abscbn2010_images-block_5":{"params":{"fx":"fade","timeout":10000,"speed":1000},"use_prevnext_links":1,"nextLabel":"-","prevLabel":"-","prevnextLocation":"before"}}});
+ //--><!]]>
+  
+</script>
+<!--<script type="text/javascript" src="//use.typekit.net/hkd3jik.js"></script>-->
+<script type="text/javascript">try { Typekit.load(); } catch (e) { }</script>
+<script type="text/javascript" src="//cdn.innity.net/admanager.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $(".uninav-toggler").click(function(){
+      $(".uninav-main").slideToggle();
+    });
+  });
+</script>
+<script>
+  $(window).load(function(){ $('.bbWidgetContent').click(function(e){e.preventDefault();});});
+  </script>
+
+<script type='text/javascript'>
+	(function() {
+		var useSSL = 'https:' == document.location.protocol;
+		var src = (useSSL ? 'https:' : 'http:') +
+		'//www.googletagservices.com/tag/js/gpt.js';
+		document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+	})();
+</script>
+
+
+
+	<script type='text/javascript'>
+	  googletag.cmd.push(function() {
+		googletag.defineOutOfPageSlot('/2744311/ABSNews_Entertainment_OutOfPage_AdUnit', 'div-gpt-ad-1446723839037-0').addService(googletag.pubads());
+		googletag.defineSlot('/2744311/ABSNews_Entertainment_LeaderboardTop_728x90', [728, 90], 'div-gpt-ad-1446723839037-1').addService(googletag.pubads());
+		googletag.defineSlot('/2744311/ABSNews_Entertainment_SquareBannerTop_250x250', [250, 250], 'div-gpt-ad-1446723839037-2').addService(googletag.pubads());
+		googletag.defineSlot('/2744311/ABSNews_Entertainment_SkinningAdsLeft', [140, 1025], 'div-gpt-ad-1446723839037-3').addService(googletag.pubads());
+		googletag.defineSlot('/2744311/ABSNews_Entertainment_SkinningAdsRight', [140, 1025], 'div-gpt-ad-1446723839037-4').addService(googletag.pubads());
+		googletag.defineSlot('/2744311/ABSNews_Entertainment_BannerTop_468x60', [468, 60], 'div-gpt-ad-1446723839037-5').addService(googletag.pubads());
+		googletag.defineSlot('/2744311/ABSNews_Entertainment_WideSkyscraper_160x600', [160, 600], 'div-gpt-ad-1446723839037-6').addService(googletag.pubads());
+		googletag.defineSlot('/2744311/ABSNews_Entertainment_LeaderboardBottom_728x90', [728, 90], 'div-gpt-ad-1446723839037-7').addService(googletag.pubads());
+		googletag.pubads().enableSyncRendering();
+		googletag.enableServices();
+	  });
+	</script>
+
+
+
+
+
+
+
+
+ 
+<!-- uta-wp-hhcADTagsScripts end -->
+<script type="text/javascript">
+$(window).load(function(){
+    $('#relatedarticles > h3').hide();
+ var count=$('#relatedarticles .item-list .RelatedCount').size();
+  if(count>0){
+  $('#relatedarticles > h3').show();
+  }
+});
+</script>
+
+
+<!-- uta-wp-hhcADTagsScripts end --><meta property="fb:app_id" content="1710456575844989">
+<meta property="og:locale" content="en_US" />
+<meta property="og:site_name" content="ABS-CBN News" /></head>
+<body class="LTR ENUS ContentBody"  ><!-- Google Tag Manager -->  <noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KDVGXZ" height="0" width="0" style="display:none;visibility:hidden"> </iframe> </noscript>  <script> (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'}); var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:''; j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); }) (window,document,'script','dataLayer','GTM-KDVGXZ'); </script>  <!-- End Google Tag Manager -->
+    <form method="post" action="/entertainment/02/10/16/otwol-leah-chooses-career-over-clark" id="form">
+<div class="aspNetHidden">
+<input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyMTY0MTExOTEPFgIeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYCAgEPFgIeBmFjdGlvbgU8L2VudGVydGFpbm1lbnQvMDIvMTAvMTYvb3R3b2wtbGVhaC1jaG9vc2VzLWNhcmVlci1vdmVyLWNsYXJrFgICBQ9kFgJmDw8WBB4IQ3NzQ2xhc3MFD1BhZ2VQbGFjZWhvbGRlch4EXyFTQgICZBYCZg9kFgoCAQ9kFgJmD2QWAmYPDxYCHgdWaXNpYmxlaGRkAhcPZBYCZg9kFgJmD2QWAmYPFhYeDFplcm9Sb3dzVGV4dAUNTm8gZGF0YSBmb3VuZB4OU2hvd0VkaXRCdXR0b25oHgxFbmFibGVQYWdpbmdoHhZSZXNvbHZlRHluYW1pY0NvbnRyb2xzZx4QU2hvd0RlbGV0ZUJ1dHRvbmgeHUFsdGVybmF0aW5nVHJhbnNmb3JtYXRpb25OYW1lZR4RRGF0YUJpbmRCeURlZmF1bHRnHgtfIUl0ZW1Db3VudAIMHh5TZWxlY3RlZEl0ZW1UcmFuc2Zvcm1hdGlvbk5hbWVlHhJUcmFuc2Zvcm1hdGlvbk5hbWUFJEFCU0NCTi5OZXdzQ29udGVudC54TGF0ZXN0VmlkZW9zTGlzdB4WSGlkZUNvbnRyb2xGb3JaZXJvUm93c2dkAhkPZBYCZg9kFgJmD2QWAgICD2QWAmYPDxYEHwIFD1BhZ2VQbGFjZWhvbGRlch8DAgJkFgJmD2QWBgIBD2QWAmYPZBYCAgMPDxYCHwRoZBYCZg9kFgJmDxYKHwUFDU5vIGRhdGEgZm91bmQfCGceDkRhdGFTb3VyY2VOYW1lBQtjdGRzQXJ0aWNsZR8PZx8LaGQCAw9kFgJmD2QWAgIBDw8WAh8EaGQWAmYPZBYCZg8WCh8FBQ1ObyBkYXRhIGZvdW5kHwhnHxAFC2N0ZHNBcnRpY2xlHw9nHwtoZAIFD2QWAmYPZBYEZg8PFgIfBGhkFgJmD2QWAmYPFgofBQUNTm8gZGF0YSBmb3VuZB8IZx8QBQtjdGRzQXJ0aWNsZR8PZx8LaGQCAQ8PFgIfBGhkZAIjD2QWAmYPZBYCZg9kFgICAg8PFjAfDmUeDVBhZ2VyUG9zaXRpb24LKXFDTVMuQ29udHJvbHMuUGFnaW5nUGxhY2VUeXBlRW51bSwgQ01TLkNvbnRyb2xzLCBWZXJzaW9uPTguMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49ODM0YjEyYTI1OGYyMTNmOQAfEGUeG1NlcGFyYXRvclRyYW5zZm9ybWF0aW9uTmFtZWUfCWgeCUl0ZW1Db3VudAIhHhdVc2VIaWVyYXJjaGljYWxPcmRlcmluZ2ceGEhlYWRlclRyYW5zZm9ybWF0aW9uTmFtZWUeEE5lc3RlZENvbnRyb2xzSURlHh5IaWVyYXJjaGljYWxUcmFuc2Zvcm1hdGlvbk5hbWUFH05ld3MuU2VjdGlvbnBhZ2UueEZvb3RlclByaW1hcnkeJFNlbGVjdGVkSGVhZGVySXRlbVRyYW5zZm9ybWF0aW9uTmFtZWUfBQUNTm8gZGF0YSBmb3VuZB8KZR8GaB4UTG9hZEhpZXJhcmNoaWNhbERhdGFnHwwCIR8PZx4jU2VsZWN0ZWRGb290ZXJ0ZW1UcmFuc2Zvcm1hdGlvbk5hbWVlHgtfIURhdGFCb3VuZGceGEZvb3RlclRyYW5zZm9ybWF0aW9uTmFtZWUeF0ZpcnN0VHJhbnNmb3JtYXRpb25OYW1lZR4YU2luZ2xlVHJhbnNmb3JtYXRpb25OYW1lZR4WTGFzdFRyYW5zZm9ybWF0aW9uTmFtZWUeDkRlbGF5ZWRMb2FkaW5naGQWAmYPDxYOHghQYWdlU2l6ZQIKHg5RdWVyeVN0cmluZ0tleQUEUGFnZR4JUGFnZXJNb2RlCylqQ01TLkNvbnRyb2xzLlVuaVBhZ2VyTW9kZSwgQ01TLkNvbnRyb2xzLCBWZXJzaW9uPTguMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49ODM0YjEyYTI1OGYyMTNmOQAeCUdyb3VwU2l6ZQIKHh1EaXNwbGF5Rmlyc3RMYXN0QXV0b21hdGljYWxseWgeIERpc3BsYXlQcmV2aW91c05leHRBdXRvbWF0aWNhbGx5aB4HRW5hYmxlZGhkZAIlD2QWAmYPZBYCZg9kFgICAg8PFjAfDmUfEQsrBAAfEGUfEmUfCWgfEwIfHxRnHxVlHxZlHxcFH05ld3MuU2VjdGlvbnBhZ2UueEZvb3RlclByaW1hcnkfGGUfBQUNTm8gZGF0YSBmb3VuZB8KZR8GaB8ZZx8MAh8fD2cfGmUfG2cfHGUfHWUfHmUfH2UfIGhkFgJmDw8WDh8hAgofIgUEUGFnZR8jCysFAB8kAgofJWgfJmgfJ2hkZGT0TXrhcAjImYmRerpTGGoUirU2Ug==" />
+</div>
+
+<input type="hidden" name="lng" id="lng" value="en-US" />
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); } if(window.CMSContentManager) { CMSContentManager.allowSubmit = true; }; __doPostBack('m$am',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=gWvQ42LJcaeBk3vzMYd38Sc19RiolYNs-WiAW8n9Zbh4ASaVlF9did-gZuv9kokemDfNJzr1-tXmWdYLMX2KNT5ELptwz4k-54efFrAQYYqrPDFZ03ISO_-wzkyo_6PR1EJzKg2&amp;t=7c776dc1" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+var CMS = CMS || {};
+CMS.Application = {
+  "isRTL": "false",
+  "applicationUrl": "/",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDialog": false
+};
+
+//]]>
+</script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185" />
+</div>
+    
+    <div id="ctxM">
+
+</div>
+    <script>
+  $( document ).ready(function() {
+    $('#block-views-abscbn2010_blocks-block_11,#views-cycle-abscbn2010_images-block_7').cycle();
+  });
+  
+</script>
+
+
+
+	<!-- /2744311/ABSNews_Entertainment_OutOfPage_AdUnit -->
+	<div id='div-gpt-ad-1446723839037-0'>
+	<script type='text/javascript'>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446723839037-0'); });
+	</script>
+	</div>
+	
+	<!-- Zone Tag : ABS-CBN ABS-CBNNews_Premium_Entertainment_Bottomsup -->
+	<script type="text/javascript">
+	innity_country = "PH";
+	innity_client = "1051";
+	innity_zone = "7411";
+	</script>
+	<script type="text/javascript" src="http://cdn.innity.net/synd.js"></script>
+	
+	<!-- Zone Tag : ABS-CBN ABS-CBNNews_ROS_Bottomsup -->
+	<script type="text/javascript">
+	innity_country = "PH";
+	innity_client = "1051";
+	innity_zone = "7392";
+	</script>
+	<script type="text/javascript" src="http://cdn.innity.net/synd.js"></script>
+	
+	<!-- Zone Tag : ABS-CBN ABS-CBNNews_ROS_Site Takeover -->
+	<script type="text/javascript">
+	innity_country = "PH";
+	innity_client = "1051";
+	innity_zone = "6882";
+	</script>
+	<script type="text/javascript" src="http://cdn.innity.net/synd.js"></script>
+
+
+
+
+
+
+
+
+
+
+<div class=" uninav-abs-cbnnews">
+  <div id="top-menu">
+    <div id="centeredmenu">
+      
+<ul><li >
+  
+   <a target="_blank" href="/tvpatrol">TV PATROL</a>  
+ 
+  
+<ul class="last"><li style="text-transform:uppercase"><a href="/tvpatrollive" target="_blank">LIVE</a></li><li style="text-transform:uppercase"><a href="/tvpatrolreplay" target="_blank">REPLAY</a></ul></li><li >
+  
+   <a target="_blank" href="/bandila">BANDILA</a>  
+ 
+  
+</li><li >
+  
+   <a target="_blank" href="http://bmpm.abs-cbnnews.com/">BMPM</a>  
+ 
+  
+</li><li >
+  
+   <a target="_blank" href="/currentaffairs">CURRENT AFFAIRS</a>  
+ 
+  
+<ul class="last"><li style="text-transform:uppercase"><a href="" target="_blank">Umagang Kay Ganda  </a></li><li style="text-transform:uppercase"><a href="" target="_blank">Matanglawin</a></li><li style="text-transform:uppercase"><a href="" target="_blank">Rated K</a></li><li style="text-transform:uppercase"><a href="" target="_blank">XXX</a></li><li style="text-transform:uppercase"><a href="" target="_blank">Patrol ng Pilipino</a></li><li style="text-transform:uppercase"><a href="" target="_blank">Ako ang Simula</a></li><li style="text-transform:uppercase"><a href="" target="_blank">Krusada</a></li><li style="text-transform:uppercase"><a href="" target="_blank">SOCO</a></li><li style="text-transform:uppercase"><a href="" target="_blank">failon Ngayon </a></li><li style="text-transform:uppercase"><a href="" target="_blank">SportsUnlimited</a></li><li style="text-transform:uppercase"><a href="" target="_blank">Salamat Dok</a></ul></li><li >
+  
+   <a target="_blank" href="/anc">ANC</a>  
+ 
+  
+</li><li >
+  
+   <a target="_blank" href="/tvpatrol/local">LOCAL TV PATROL</a>  
+ 
+  
+<ul class="last"><li style="text-transform:uppercase"><a href="/tvpatrol/bicol" target="_blank">bicol</a></li><li style="text-transform:uppercase"><a href="/tvpatrol/cagayanvalley" target="_blank">cagayan valley</a></li><li style="text-transform:uppercase"><a href="/tvpatrol/caraga" target="_blank">caraga</a></li><li style="text-transform:uppercase"><a href="/tvpatrol/centralmindanao" target="_blank">central mindanao</a></li><li style="text-transform:uppercase"><a href="/tvpatrol/centralvisayas" target="_blank">central visayas</a></li><li style="text-transform:uppercase"><a href="/tvpatrol/chavacano" target="_blank">chavacano</a></li><li style="text-transform:uppercase"><a href="/tvpatrol/ilocos" target="_blank">ilocos</a></li><li style="text-transform:uppercase"><a href="/tvpatrol/negros" target="_blank">negros</a></li><li style="text-transform:uppercase"><a href="/tvpatrol/northcentralluzon" target="_blank">north central luzon</a></li><li style="text-transform:uppercase"><a href="/tvpatrol/northernluzon" target="_blank">northern luzon</a></li><li style="text-transform:uppercase"><a href="/tvpatrol/northernmindanao" target="_blank">northern mindanao</a></li><li style="text-transform:uppercase"><a href="/tvpatrol/iloilo" target="_blank">panay</a></li><li style="text-transform:uppercase"><a href="/tvpatrol/pampanga" target="_blank">pampanga</a></li><li style="text-transform:uppercase"><a href="/tvpatrol/palawan" target="_blank">palawan</a></li><li style="text-transform:uppercase"><a href="/tvpatrol/socksargen" target="_blank">socksargen</a></li><li style="text-transform:uppercase"><a href="/tvpatrol/southernmindanao" target="_blank">southern mindanao</a></li><li style="text-transform:uppercase"><a href="/tvpatrol/southerntagalog" target="_blank">southern tagalog</a></li><li style="text-transform:uppercase"><a href="/tvpatrol/tacloban" target="_blank">tacloban</a></ul></li><li >
+  
+   <a target="_blank" href="http://dzmm.abs-cbnnews.com/">DZMM</a>  
+ 
+  
+<ul class="last"><li style="text-transform:uppercase"><a href="http://dzmm.abs-cbnnews.com/page/audiostreaming.html" target="_blank">Live Audio</a></ul></li><li >
+  
+    <a href="javascript:void(0)" class="uninav-toggler">ABS-CBN.COM</a>
+  
+</ul>
+
+    </div>
+  </div>
+</div>
+
+<div id="container">
+  <div id="inner_container">
+    <!-- <div id="site_content">-->
+    <!-- START: Masthead -->
+    <div id="masthead">
+      <h1><a id="p_lt_WebPartZone3_LogoButton_lbLogo_btnElem_hyperLink" class="active" href="/"><img id="p_lt_WebPartZone3_LogoButton_lbLogo_btnElem_image" src="//sa.kapamilya.com/cmsstorage/abscbnnews/media/abs-cbnnews/news-logov2.gif" /><span id="p_lt_WebPartZone3_LogoButton_lbLogo_btnElem_lblText">ABS-CBN News</span></a>
+</h1>
+      <div id="header">
+        <div id="block-block-175" class="block block-block region-odd odd region-count-1 count-1">
+          <div class="block-inner">
+            <div class="content">
+              <input class="elephant-text" id="q" name="q" onkeypress="return SubmitOnEnter(this,event)" size="31" type="text" /> 
+<input class="elephant-button" name="sa" onclick="SearchSite();" type="button" value="." /> 
+<script type="text/javascript" language="javascript">
+
+var cx = '004480001603176837531:wu3cbcqy3d0'; // Custom search engine "CX" value has to be given
+
+function URLEncode (clearString) {
+  var output = '';
+  var x = 0;
+  clearString = clearString.toString();
+  var regex = /(^[a-zA-Z0-9_.]*)/;
+  while (x < clearString.length) {
+    var match = regex.exec(clearString.substr(x));
+    if (match != null && match.length > 1 && match[1] != '') {
+    	output += match[1];
+      x += match[1].length;
+    } else {
+      if (clearString[x] == ' ')
+        output += '+';
+      else {
+        var charCode = clearString.charCodeAt(x);
+        var hexVal = charCode.toString(16);
+        output += '%' + ( hexVal.length < 2 ? '0' : '' ) + hexVal.toUpperCase();
+      }
+      x++;
+    }
+  }
+  return output;
+}
+
+function SubmitOnEnter(myfield, e)
+{
+	var keycode;
+	if (window.event)
+		keycode = window.event.keyCode;
+	else if (e)
+		keycode = e.which;
+	else
+		return true;
+	if (keycode == 13)
+	{
+		SearchSite();
+		return false;
+	}
+	else
+		return true;
+}
+function SearchSite()  
+{
+document.location.href='/Special-Pages/Search?cx='+cx+'&cof=FORID%3A11&ie=UTF-8&q=' + 
+URLEncode(document.getElementById('q').value) + '&sa=Search';
+}
+</script> <!--End-->
+            </div>      
+          </div>
+        </div> <!-- /block-inner, /block -->   
+      </div>
+    </div><!-- /masthead -->
+    <!-- END: Masthead -->
+<!--MiddleMenu-->
+    
+    <div id="nav">
+      <div id="block-menu-primary-links" class="block block-menu region-odd even region-count-1 count-2"><div class="block-inner">
+        
+        <ul class="menu">
+          
+
+
+<li >
+  <a href="/" title="" >
+    Home
+  </a>
+ </li>
+
+<li >
+  <a href="/nation" title="" >
+    Nation
+  </a>
+ </li>
+
+<li >
+  <a href="/business" title="" >
+    Business
+  </a>
+ </li>
+
+<li >
+  <a href="/entertainment" title="" >
+    Entertainment
+  </a>
+ </li>
+
+<li >
+  <a href="/sports" title="" >
+    Sports
+  </a>
+ </li>
+
+<li >
+  <a href="/lifestyle" title="" >
+    Lifestyle
+  </a>
+ </li>
+
+<li >
+  <a href="/global-filipino" title="" >
+    Global Filipino
+  </a>
+ </li>
+
+<li >
+  <a href="/nation/regions" title="" >
+    Regions
+  </a>
+ </li>
+
+<li >
+  <a href="/nation/metro-manila" title="" >
+    Metro Manila
+  </a>
+ </li>
+
+<li >
+  <a href="/technology" title="" >
+    Technology
+  </a>
+ </li>
+
+<li >
+  <a href="/weather" title="" >
+    Weather
+  </a>
+ </li>
+
+
+        </ul>  
+        
+        </div>
+      </div> <!-- /block-inner, /block -->
+    </div>
+<!--End:MiddleMenu-->
+    
+<!--Top add-->
+    
+    <div id='site_content'>
+    <div id="ad_banner" class="ad-region">
+      
+      <!-- Zone Tag : ABS-CBN ABS-CBNNews_Premium_Homepage_BillboardDisplay -->
+      <!--
+      <div id="block-block-579" class="block block-block region-even even region-count-2 count-36">
+        <div class="block-inner">
+          <div class="content">
+            <script type="text/javascript">
+              innity_country= "PH";
+              innity_client= "1051";
+              innity_zone= "7100";
+            </script>
+            <script type="text/javascript" src="//cdn.innity.net/synd.js"></script>
+          </div>
+        </div>
+      </div>
+      -->
+      <div id="block-block-579" class="block block-block region-even even region-count-2 count-36">
+	<div class="block-inner">
+		<div class="content">
+
+
+
+
+		</div>
+	</div>
+</div>
+      <div id="block-block-454" class="block block-block region-odd odd region-count-3 count-37">
+        <div class="block-inner">
+          <div class="content">
+            
+            
+            <div class="topAdFrame">
+              <center>
+                
+
+
+	<!-- /2744311/ABSNews_Entertainment_LeaderboardTop_728x90 -->
+	<div id='div-gpt-ad-1446723839037-1' style='height:90px; width:728px;'>
+	<script type='text/javascript'>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446723839037-1'); });
+	</script>
+	</div>
+
+
+
+
+
+
+
+
+
+              </center>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /block-inner, /block -->
+    </div>
+    
+    <!--End:Top add-->
+    <div id="breaking" class="breaking-2">
+      <div id="block-block-432" class="block block-block region-odd odd region-count-1 count-3">
+        <div class="block-inner">
+          <div class="block-heading">
+<h2 class="title" style="border-bottom: 0px none;"><span>Specials</span></h2>
+</div>
+
+<div class="content">
+<div class="item-list showMe" style="display: none;">
+<ul>
+	<li><span class="field-content"><a href="http://news.abs-cbn.com/yolandatales">Tales in tikog leaves: Weaving past &#39;Yolanda&#39; -</a><a href="http://news.abs-cbn.com/fallen44">- #Fallen44 -</a><a href="http://www.abs-cbnnews.com/list/tanim-bala">- Tanim-bala -</a><a href="http://news.abs-cbn.com/apec2015">- APEC 2015 -</a><a href="http://news.abs-cbn.com/list/mary-jane-veloso">- Mary Jane Veloso -</a><a href="http://tulongph.abs-cbnnews.com/">- A Year After Yolanda: Tuloy ang Kwento ng Pagbangon -</a><a href="http://news.abs-cbn.com/specials/3disasters">- A Tale of 3 Disasters -</a><a href="http://news.abs-cbn.com/specials/mission-ayungin">- Mission to Ayungin Shoal -</a><a href="http://news.abs-cbn.com/specials/sierra-madre">- On Board the BRP Sierra Madre -</a><a href="http://news.abs-cbn.com/popefrancisph">- Pope Francis PH -</a><a href="http://news.abs-cbn.com/list/maguindanao-massacre">- Maguindanao Massacre</a></span></li>
+</ul>
+
+<div>&nbsp;</div>
+</div>
+</div>
+
+        </div>
+      </div>
+      
+      
+      <div id="block-block-433" class="block block-block region-even even region-count-2 count-4">
+        <div class="block-heading">
+          <div class="block-heading">
+<h2 class="title" style="border-bottom: 0px none;"><span>ForEx</span></h2>
+</div>
+
+<div class="content" style="display: none; position: absolute; border: 1px solid rgb(204, 204, 204); z-index: 8000; background: rgb(243, 243, 243) none repeat scroll 0% 0%;">
+<div class="item-list showMe" style="display: block;">
+<ul>
+	<li><span class="field-content">P 47.65 = $ 1.00</span></li>
+	<li><span class="field-content">P 68.09 = &pound; 1.00</span></li>
+	<li><span class="field-content">P 0.41 = &yen; 1.00</span></li>
+	<li><span class="field-content">P 12.71 = SAR 1.00</span></li>
+</ul>
+
+<div id="forex-info">
+<div class="posted">As of closing Feb 18, 2016</div>
+
+<div class="more"><a href="http://www.bsp.gov.ph/statistics/sdds/exchrate.htm" target="_blank">more...</a></div>
+</div>
+
+<div>&nbsp;</div>
+</div>
+</div>
+
+        </div>
+      </div>
+    </div>
+    <!--videos-->
+    <div id="videos">
+      <style>
+        .nansy {z-index:-1; margin-bottom:5px;}
+        .pansy-link, .pansy-teaser {padding:5px 0; background-color:#c51000;}
+        .nansy ul {margin:0px !important;}
+        .nansy li {list-style:none !important; margin:0px !important; padding:0px !important;}
+        .pansy-link a:link, .pansy-link a:hover, .pansy-link a:visited {color:#fff !important; font-size:2em !important; font-weight:bold;}
+        .pansy-teaser {color:#fff !important; font-size:2em !important; font-weight:bold;}
+      </style>
+      
+      <link type="text/css" rel="stylesheet" media="all" href="/CMSPages/GetResource.ashx?stylesheetname=ABS-CBNNEWSSkin"/>
+      <script type="text/javascript">
+        var mycarousel_itemList= [];
+      </script>
+      <div class="view view-abscbn2010-blocks view-id-abscbn2010_blocks view-display-id-block_17 view-dom-id-3">
+        <div class="view-content">
+          <div class="views-row-1 views-row-odd views-row-first " >
+  <script type="text/javascript">
+    mycarousel_itemList.push({thumb: "<img src=\"http://sa.kapamilya.com/absnews/abscbnnews/media/2016/lifestyle/02/18/021816_suv.jpg\" alt=\"\" title=\"\"  width=\"100\" height=\"67\" />", title: "Motorsiklo bumangga sa SUV; 2 sugatan", url: "/video/nation/metro-manila/02/18/16/motorsiklo-bumangga-sa-suv-2-sugatan"});
+  </script>  
+</div><div class="views-row-2 views-row-even  " >
+  <script type="text/javascript">
+    mycarousel_itemList.push({thumb: "<img src=\"http://sa.kapamilya.com/absnews/abscbnnews/media/2016/lifestyle/02/18/021816_lublob.jpg\" alt=\"\" title=\"\"  width=\"100\" height=\"67\" />", title: "Bata pinatay umano para gawing sakripisyo", url: "/video/nation/regions/02/18/16/bata-pinatay-umano-para-gawing-sakripisyo"});
+  </script>  
+</div><div class="views-row-3 views-row-odd  " >
+  <script type="text/javascript">
+    mycarousel_itemList.push({thumb: "<img src=\"http://sa.kapamilya.com/absnews/abscbnnews/media/2016/lifestyle/02/18/021816_yosi.jpg\" alt=\"\" title=\"\"  width=\"100\" height=\"67\" />", title: "Pasimuno ng 'yosi contest' sa CamSur nag-sorry", url: "/video/nation/regions/02/18/16/pasimuno-ng-yosi-contest-sa-camsur-nag-sorry"});
+  </script>  
+</div><div class="views-row-4 views-row-even  " >
+  <script type="text/javascript">
+    mycarousel_itemList.push({thumb: "<img src=\"http://sa.kapamilya.com/absnews/abscbnnews/media/2016/lifestyle/02/18/021816_sj.jpg\" alt=\"\" title=\"\"  width=\"100\" height=\"67\" />", title: "3 sasakyan nagkarambola sa San Juan", url: "/video/nation/metro-manila/02/18/16/3-sasakyan-nagkarambola-sa-san-juan"});
+  </script>  
+</div><div class="views-row-5 views-row-odd  " >
+  <script type="text/javascript">
+    mycarousel_itemList.push({thumb: "<img src=\"http://sa.kapamilya.com/absnews/abscbnnews/media/2016/lifestyle/02/18/021816_anak.jpg\" alt=\"\" title=\"\"  width=\"100\" height=\"67\" />", title: "Babaeng napaanak sa gilid ng kalsada tinulungan ng 2 bumbero", url: "/video/nation/regions/02/18/16/babaeng-napaanak-sa-gilid-ng-kalsada-tinulungan-ng-2-bumbero"});
+  </script>  
+</div><div class="views-row-6 views-row-even  " >
+  <script type="text/javascript">
+    mycarousel_itemList.push({thumb: "<img src=\"http://sa.kapamilya.com/absnews/abscbnnews/media/2016/entertainment/01/27/012716_zika.jpg\" alt=\"\" title=\"\"  width=\"100\" height=\"67\" />", title: "US biotech firm eyes human trial of Zika vaccine within 2016", url: "/video/global-filipino/world/v1/02/18/16/us-biotech-firm-eyes-human-trial-of-zika-vaccine-within-2016"});
+  </script>  
+</div><div class="views-row-7 views-row-odd  " >
+  <script type="text/javascript">
+    mycarousel_itemList.push({thumb: "<img src=\"http://sa.kapamilya.com/absnews/abscbnnews/media/2016/entertainment/02/18/paco-021816.jpg\" alt=\"\" title=\"\"  width=\"100\" height=\"67\" />", title: "SAPUL SA CCTV: SUV inararo ang nakaparadang traysikel", url: "/video/nation/metro-manila/02/18/16/sapul-sa-cctv-suv-inararo-ang-nakaparadang-traysikel"});
+  </script>  
+</div><div class="views-row-8 views-row-even  " >
+  <script type="text/javascript">
+    mycarousel_itemList.push({thumb: "<img src=\"http://sa.kapamilya.com/absnews/abscbnnews/media/2016/entertainment/02/18/shabu-021816.jpg\" alt=\"\" title=\"\"  width=\"100\" height=\"67\" />", title: "Tsino, drayber nahulihan ng 8kg shabu sa Macapagal Ave", url: "/video/nation/metro-manila/02/18/16/tsino-drayber-nahulihan-ng-8kg-shabu-sa-macapagal-ave"});
+  </script>  
+</div><div class="views-row-9 views-row-odd  " >
+  <script type="text/javascript">
+    mycarousel_itemList.push({thumb: "<img src=\"http://sa.kapamilya.com/absnews/abscbnnews/media/2015/lifestyle/dengue-121015.jpg\" alt=\"\" title=\"\"  width=\"100\" height=\"67\" />", title: "January dengue cases in Iloilo up by 98-pct", url: "/video/nation/regions/v1/02/18/16/january-dengue-cases-in-iloilo-up-by-98-pct"});
+  </script>  
+</div><div class="views-row-10 views-row-even  " >
+  <script type="text/javascript">
+    mycarousel_itemList.push({thumb: "<img src=\"http://sa.kapamilya.com/absnews/abscbnnews/media/2016/entertainment/02/18/sunog-021816.jpg\" alt=\"\" title=\"\"  width=\"100\" height=\"67\" />", title: "Bahay, barracks nasunog sa QC", url: "/video/nation/metro-manila/02/18/16/bahay-barracks-nasunog-sa-qc"});
+  </script>  
+</div><div class="views-row-11 views-row-odd  " >
+  <script type="text/javascript">
+    mycarousel_itemList.push({thumb: "<img src=\"http://sa.kapamilya.com/absnews/abscbnnews/media/2016/entertainment/02/18/stamesa-021816.jpg\" alt=\"\" title=\"\"  width=\"100\" height=\"67\" />", title: "Lalaki natagpuang patay sa apartment sa Maynila", url: "/video/nation/metro-manila/02/18/16/lalaki-natagpuang-patay-sa-apartment-sa-maynila"});
+  </script>  
+</div><div class="views-row-12 views-row-even  views-row-Last" >
+  <script type="text/javascript">
+    mycarousel_itemList.push({thumb: "<img src=\"http://sa.kapamilya.com/absnews/abscbnnews/media/2016/entertainment/02/18/matteo_021816.jpg\" alt=\"\" title=\"\"  width=\"100\" height=\"67\" />", title: "Matteo thanks Sarah for supporting his career", url: "/video/entertainment/02/18/16/matteo-thanks-sarah-for-supporting-his-career"});
+  </script>  
+</div> 
+        </div>
+      </div>
+      <script type="text/javascript">
+        
+        function mycarousel_itemLoadCallback(carousel, state) {
+          for (var i= carousel.first; i <= carousel.last; i++) {
+            if (carousel.has(i)) {
+              continue;
+            }
+            
+            if (i > mycarousel_itemList.length) {
+              break;
+            }
+            
+            carousel.add(i, mycarousel_getItemHTML(mycarousel_itemList[i - 1]));
+          }
+        };
+        
+        /**
+* Item html creation helper.
+*/
+        function mycarousel_getItemHTML(item) {
+          return "<a href=\"" + item.url + "\">" + item.thumb + item.title + "</a>";
+        };
+        
+        jQuery(document).ready(function () {
+          jQuery('#mycarousel').jcarousel({
+            size: mycarousel_itemList.length,
+            itemLoadCallback: { onBeforeAnimation: mycarousel_itemLoadCallback }
+          });
+        });
+        
+      </script>
+      
+      <div id="block-views-abscbn2010_blocks-block_17" class="block block-views region-odd even region-count-1 count-6">
+        <div class="latest-video"><a href="/list/latest-video" style="color: #CC0033 !important;">Latest Video</a></div>
+        <ul id="mycarousel" class="jcarousel-skin-ie7">
+          <!-- The content will be dynamically loaded in here -->
+        </ul>
+      </div>
+      
+      
+    </div>
+    
+    <!--end:video-->
+    
+<!--starts-->
+<div id="main_content">
+  <div id="top">
+    <div id="block-block-525" class="block block-block region-odd odd region-count-1 count-15 with-block-editing">
+      <div class="block-inner">
+        <div class="content">    
+          <div class="middleAdFrame">
+            
+
+
+	<!-- /2744311/ABSNews_Entertainment_BannerTop_468x60 -->
+	<div id='div-gpt-ad-1446723839037-5' style='height:60px; width:468px;'>
+	<script type='text/javascript'>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446723839037-5'); });
+	</script>
+	</div>
+
+
+
+
+
+
+
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+  <div id="content" >
+    <div style="background-color:#ccc; height:1px; margin-bottom:10px;"></div>
+<div class="OUTBRAIN" data-src="http://news.abs-cbn.com/entertainment/02/10/16/otwol-leah-chooses-career-over-clark" data-widget-id="AR_1" data-ob-template="ABS-CBN"></div>
+<div class="OUTBRAIN" data-src="http://news.abs-cbn.com/entertainment/02/10/16/otwol-leah-chooses-career-over-clark" data-widget-id="AR_2" data-ob-template="ABS-CBN"></div><div class="relatedarticles">
+		<h3>Sponsored Links</h3>
+		<script>
+			google_ad_client = 'ca-pub-1805244726360577';
+			google_ad_channel = '0153105720';
+			google_ad_width = 518;
+			google_ad_height = 140;
+			google_ui_version = 1;
+			google_tl = 3;
+			google_font_face = 'arial';
+			google_font_size = 'small';
+			google_tfs = 11;
+			google_color_link = '#006699';
+			google_color_text = '#666666';
+			google_color_url = '#000000';
+			google_color_url = '#000000';
+		</script>
+		<script src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+	</div>
+</div>
+
+  </div>
+  <br class="clear" />
+</div>
+<div id="left">
+  <div id="block-quicktabs-57" class="block block-quicktabs region-odd even region-count-1 count-6">
+    <div class="block-inner">
+      <div class="content">
+        <div class="quicktabs_wrapper">
+          <ul class="quicktabs_tabs">
+            <li class="active"><a href="#">Latest</a></li>
+            <li><a href="#">Most Read</a></li>
+          </ul>
+          <div class="quicktabs_main">
+            <div class="quicktabs">
+  <div id="block-views-abscbn2010_blocks-block_1" class="block block-views">
+    <div class="content">
+      <div class="view view-abscbn2010-blocks view-id-abscbn2010_blocks view-display-id-block_1 view-dom-id-4">
+        <div class="view-content">
+          <div class="item-list">
+            <ul>
+<li class="views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/entertainment/02/18/16/why-inigo-pascual-keeps-changing-leading-ladies" class=''>Why Inigo Pascual keeps changing leading ladies</a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ 
+<li class="views-row-2 views-row-even ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/entertainment/02/18/16/robin-padilla-to-pacquiao-listen-to-your-heart" class=''>Robin Padilla to Pacquiao: Listen to your heart</a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ 
+<li class="views-row-3 views-row-odd ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/entertainment/02/18/16/watch-pare-mahal-mo-raw-ako-teaser-released" class=''>WATCH: 'Pare Mahal Mo Raw Ako' teaser released</a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ 
+<li class="views-row-4 views-row-even ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/entertainment/02/18/16/why-gerald-anderson-is-envious-of-xian" class=''>Why Gerald Anderson is envious of Xian</a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ 
+<li class="views-row-5 views-row-odd ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/entertainment/02/18/16/throwback-this-is-how-luis-greeted-anne-a-happy-birthday" class=''>THROWBACK: This is how Luis greeted Anne a happy birthday</a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ 
+<li class="views-row-6 views-row-even ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/video/entertainment/02/18/16/matteo-thanks-sarah-for-supporting-his-career" class='video-link'>Matteo thanks Sarah for supporting his career</a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ 
+<li class="views-row-7 views-row-odd ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/entertainment/02/18/16/nadine-disputes-claims-that-james-not-a-gentleman" class=''>Nadine disputes claims that James not a gentleman</a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ 
+<li class="views-row-8 views-row-even ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/entertainment/02/18/16/kim-to-mark-10th-year-in-showbiz-with-concert" class=''>Kim to mark 10th year in showbiz with concert</a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ 
+<li class="views-row-9 views-row-odd ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/entertainment/02/17/16/academy-sues-over-200000-so-called-oscar-gift-bags" class=''>Academy sues over $200,000 so-called Oscar gift bags</a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ 
+<li class="views-row-10 views-row-even views-row-Last">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/entertainment/02/17/16/winslet-says-playing-a-brit-would-be-ultimate-challenge" class=''>Winslet says playing a Brit 'would be ultimate challenge'</a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+  </ul>
+</div>
+</div> 
+</div>
+</div>
+</div>
+</div>
+<div class="quicktabs">
+  <div id="block-views-abscbn2010_blocks-block_1" class="block block-views">
+    <div class="content">
+      <div class="view view-abscbn2010-blocks view-id-abscbn2010_blocks view-display-id-block_1 view-dom-id-4">
+        <div class="view-content">
+          <div class="item-list">
+            <ul><li class="views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="http://news.abs-cbn.com/entertainment/02/17/16/pacquiao-has-message-for-vice-ganda-boy-abunda" class='' >Pacquiao has message for Vice Ganda, Boy Abunda </a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ <li class="views-row-2 views-row-even ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="http://news.abs-cbn.com/entertainment/02/17/16/jinkee-pacquiao-haters-gonna-hate" class='' >Jinkee Pacquiao: Haters gonna hate </a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ <li class="views-row-3 views-row-odd ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="http://news.abs-cbn.com/entertainment/02/17/16/vice-ganda-accused-of-hypocrisy-over-pacquiao-jabs" class='' >Vice Ganda accused of 'hypocrisy' over Pacquiao jabs </a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ <li class="views-row-4 views-row-even ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="http://news.abs-cbn.com/entertainment/02/17/16/john-lloyd-breaks-silence-on-rumors-linking-him-to-bea" class='' >John Lloyd breaks silence on rumors linking him to Bea </a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ <li class="views-row-5 views-row-odd ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="http://news.abs-cbn.com/entertainment/02/16/16/you-do-not-own-my-humanity-boy-abunda-tells-pacquiao" class='' >You do not own my humanity, Boy Abunda tells Pacquiao </a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ <li class="views-row-6 views-row-even ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="http://news.abs-cbn.com/entertainment/02/17/16/angel-is-home-after-neck-procedure-in-singapore" class='' >Angel is home after neck procedure in Singapore </a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ <li class="views-row-7 views-row-odd ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="http://news.abs-cbn.com/entertainment/02/16/16/lea-salonga-hits-pacquiaos-false-claim" class='' >Lea Salonga hits Pacquiao's false claim </a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ <li class="views-row-8 views-row-even ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="http://news.abs-cbn.com/entertainment/02/17/16/rosanna-roces-to-marry-lesbian-partner" class='' >Rosanna Roces to marry lesbian partner </a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ <li class="views-row-9 views-row-odd ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="http://news.abs-cbn.com/video/entertainment/v2/02/16/16/is-gloria-diaz-against-daughters-engagement" class='' >Is Gloria Diaz against daughter's engagement? </a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ <li class="views-row-10 views-row-even views-row-Last">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="http://news.abs-cbn.com/entertainment/02/16/16/remember-actress-angeline-aguilar" class='' >Remember actress Angeline Aguilar? </a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ 
+</ul>
+</div>
+</div> 
+</div>
+</div>
+</div>
+</div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="block-block-494" class="block block-block region-even odd region-count-2 count-7">
+  <div class="block-inner">
+    <div class="content"><div class="active">Links</div>
+
+<div style="border-bottom:1px solid #ccc; border-left:1px solid #ccc; border-right:1px solid #ccc; padding:10px; border-top:3px solid #A80033;font-size:14px;">
+<ul>
+	<li style="color:#CC0033; background:none !important;"><a href="/youth">Youth</a></li>
+	<li style="color:#CC0033; background:none;"><a href="/world">World</a></li>
+	<li style="color:#CC0033; background:none;"><a href="/anc">ANC</a></li>
+	<li style="color:#CC0033; background:none;"><a href="/research">Research</a></li>
+	<li style="color:#CC0033; background:none;"><a href="/public-service">Public Service</a></li>
+	<li style="color:#CC0033; background:none;"><a href="/exam-results">Exam Results</a></li>
+	<li style="color:#CC0033; background:none;"><a href="/daily-gospel">Daily Gospel</a></li>
+	<li style="color:#CC0033; background:none;"><a href="/list/lotto-2010">Lotto Results</a></li>
+	<li style="color:#CC0033; background:none;"><a href="/feedback">Feedback</a></li>
+</ul>
+</div>
+
+
+
+
+</div>
+</div>
+</div>
+
+
+  <div id="block-views-abscbn2010_sections-block_6" class="block block-views region-odd even region-count-3 count-8">
+  <div class="block-inner">
+    <h2 class="title"><span>Other Stories</span></h2>
+    <div class="content">
+      <div class="view view-abscbn2010-sections view-id-abscbn2010_sections view-display-id-block_6 view-dom-id-5">
+        <div class="view-content">
+          <div class="item-list">
+            <ul>
+<li class="views-row17 views-row-odd ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/entertainment/02/17/16/vice-ganda-accused-of-hypocrisy-over-pacquiao-jabs" class='' >Vice Ganda accused of 'hypocrisy' over Pacquiao jabs</a>
+    </span>   
+  </div>
+</li>
+
+
+<li class="views-row18 views-row-even ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/entertainment/02/17/16/pacquiao-has-message-for-vice-ganda-boy-abunda" class='' >Pacquiao has message for Vice Ganda, Boy Abunda</a>
+    </span>   
+  </div>
+</li>
+
+
+<li class="views-row19 views-row-odd ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/entertainment/02/17/16/book-on-aj-perez-to-be-released-in-april" class='' >Book on AJ Perez to be released in April</a>
+    </span>   
+  </div>
+</li>
+
+
+<li class="views-row20 views-row-even ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/entertainment/02/17/16/watch-navotas-dad-enters-tawag-ng-tanghalan-semis" class='' >WATCH: Navotas dad enters 'Tawag ng Tanghalan' semis</a>
+    </span>   
+  </div>
+</li>
+
+
+<li class="views-row21 views-row-odd ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/entertainment/02/17/16/angel-is-home-after-neck-procedure-in-singapore" class='' >Angel is home after neck procedure in Singapore</a>
+    </span>   
+  </div>
+</li>
+
+
+<li class="views-row22 views-row-even ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/entertainment/v2/02/17/16/look-anne-curtis-gets-birthday-surprise" class='' >LOOK: Anne Curtis gets birthday surprise</a>
+    </span>   
+  </div>
+</li>
+
+
+<li class="views-row23 views-row-odd ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/entertainment/02/17/16/alamin-theme-song-ni-idol-odette-khan" class='' >ALAMIN: Theme Song ni Idol Odette Khan</a>
+    </span>   
+  </div>
+</li>
+
+
+<li class="views-row24 views-row-even ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/video/entertainment/02/17/16/watch-anne-marks-birthday-on-showtime" class='video-link' >WATCH: Anne marks birthday on 'Showtime'</a>
+    </span>   
+  </div>
+</li>
+
+
+<li class="views-row25 views-row-odd ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/entertainment/02/17/16/jinkee-pacquiao-haters-gonna-hate" class='' >Jinkee Pacquiao: Haters gonna hate</a>
+    </span>   
+  </div>
+</li>
+
+
+<li class="views-row26 views-row-even views-row-Last">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/video/entertainment/02/17/16/james-nadine-to-miss-otwol-cast" class='video-link' >James, Nadine to miss 'OTWOL' cast</a>
+    </span>   
+  </div>
+</li>
+
+ </ul>
+</div>
+</div>
+</div>
+<div class="more">
+  <a href="/list/entertainment">More articles under entertainment</a>
+</div>
+</div>
+
+</div>
+</div>
+
+  
+
+	<!-- /2744311/ABSNews_Entertainment_WideSkyscraper_160x600 -->
+	<div id='div-gpt-ad-1446723839037-6' style='height:600px; width:160px;'>
+	<script type='text/javascript'>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446723839037-6'); });
+	</script>
+	</div>
+
+
+
+
+
+
+
+
+</div>
+<div id="right">
+  <div id="block-block-452" class="block block-block region-odd even region-count-1 count-10">
+    <div class="block-inner">  
+      <div class="content">
+        <div class="top-rightadvtsment">
+          
+
+
+	<!-- /2744311/ABSNews_Entertainment_SquareBannerTop_250x250 -->
+	<div id='div-gpt-ad-1446723839037-2' style='height:250px; width:250px;'>
+	<script type='text/javascript'>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446723839037-2'); });
+	</script>
+	</div>
+
+
+
+
+
+
+
+
+        </div>
+      </div>  
+    </div>
+  </div>
+  <div id="block-views-abscbn2010_sections-block_4" class="block block-views region-even odd region-count-2 count-11">
+  <div class="block-inner">
+    <div style="background-color: #ebebeb; padding: 10px;">
+      <span class="brand">Brand</span>
+      <span class="brandnews">News</span>
+      <span class="brandnewslink">
+        <a href="#">What is BrandNews?</a></span></div>    
+    
+    <script type="text/javascript" src="/CMSScripts/Custom/ABS-CBN-News/ABSCBNMaster/jquery.jscrollpane.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $('.scroll-pane').jScrollPane();
+      });
+    </script>
+    <div class="scroll-pane" tabindex="0">  
+      <div class="view view-abscbn2010-blocks view-id-abscbn2010_blocks view-display-id-block_4 view-dom-id-12">
+        <div class="view-content"><div class='views-row-1 views-row-odd views-row-first '>
+  <div class="advertorialview">
+    <div style="width: 100px; margin-right: 10px; float: left;">
+     <a href="/advertorial/entertainment/10/14/15/telus-rocks-90s-musicians-town-hall-2015-0">
+       <img src="http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/thumbnails/janet-and-bamboo2.jpg" alt="TELUS rocks with '90s musicians in Town Hall 2015" title="TELUS rocks with '90s musicians in Town Hall 2015" width="100" height="67"></a>
+    </div>
+    <h2><a href="/advertorial/entertainment/10/14/15/telus-rocks-90s-musicians-town-hall-2015-0">TELUS rocks with '90s musicians in Town Hall 2015</a></h2>
+  </div>
+</div>
+
+
+
+<div class='views-row-2 views-row-even  '>
+  <div class="advertorialview">
+    <div style="width: 100px; margin-right: 10px; float: left;">
+     <a href="/advertorial/entertainment/10/01/15/abs-cbn-tvplus-now-only-p1999">
+       <img src="http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/related/tv-plus.jpg" alt="ABS-CBN TVplus, NOW ONLY P1,999" title="ABS-CBN TVplus, NOW ONLY P1,999" width="100" height="67"></a>
+    </div>
+    <h2><a href="/advertorial/entertainment/10/01/15/abs-cbn-tvplus-now-only-p1999">ABS-CBN TVplus, NOW ONLY P1,999</a></h2>
+  </div>
+</div>
+
+
+
+<div class='views-row-3 views-row-odd  '>
+  <div class="advertorialview">
+    <div style="width: 100px; margin-right: 10px; float: left;">
+     <a href="/advertorial/entertainment/04/25/15/why-vic-sotto-shunned-endorsements-real-estate-firms-favor-citiglobal">
+       <img src="http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/access/citiglobal2.jpg" alt="Why Vic Sotto shunned endorsements from real estate firms in favor of CitiGlobal?" title="Why Vic Sotto shunned endorsements from real estate firms in favor of CitiGlobal?" width="100" height="67"></a>
+    </div>
+    <h2><a href="/advertorial/entertainment/04/25/15/why-vic-sotto-shunned-endorsements-real-estate-firms-favor-citiglobal">Why Vic Sotto shunned endorsements from real estate firms in favor of CitiGlobal?</a></h2>
+  </div>
+</div>
+
+
+
+<div class='views-row-4 views-row-even  views-row-last'>
+  <div class="advertorialview">
+    <div style="width: 100px; margin-right: 10px; float: left;">
+     <a href="/advertorial/entertainment/04/06/15/why-do-kids-love-telpad">
+       <img src="http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/objects/telpad.jpg" alt="Why do kids love the Telpad?" title="Why do kids love the Telpad?" width="100" height="67"></a>
+    </div>
+    <h2><a href="/advertorial/entertainment/04/06/15/why-do-kids-love-telpad">Why do kids love the Telpad?</a></h2>
+  </div>
+</div>
+
+
+
+ </div>
+</div>
+</div>
+
+</div>
+</div> 
+
+  
+  
+  <div id="block-views-abscbn2010_sections-block_3" class="block block-views region-even odd region-count-4 count-13">
+  <div class="block-inner">
+    <h2 class="title"><span>Latest Video</span></h2>
+    <div class="content">
+      <div class="view view-abscbn2010-sections view-id-abscbn2010_sections view-display-id-block_3 view-dom-id-7">
+        <div class="view-content">
+          <div class="item-list">
+            <ul>
+              
+<li class="views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/video/entertainment/02/18/16/matteo-thanks-sarah-for-supporting-his-career" class='video-link'>Matteo thanks Sarah for supporting his career</a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ 
+<li class="views-row-2 views-row-even ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/video/entertainment/v2/02/17/16/whats-inside-the-22000-oscars-gift-bag" class='video-link'>What's inside the $22,000 Oscars gift bag</a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ 
+<li class="views-row-3 views-row-odd ">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/video/entertainment/02/17/16/watch-anne-marks-birthday-on-showtime" class='video-link'>WATCH: Anne marks birthday on 'Showtime'</a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+ 
+<li class="views-row-4 views-row-even views-row-Last">  
+  <div class="views-field-title">
+    <span class="field-content">     
+      <a href="/video/entertainment/02/17/16/james-nadine-to-miss-otwol-cast" class='video-link'>James, Nadine to miss 'OTWOL' cast</a>
+    </span>   
+  </div>
+</li>
+
+
+
+
+  </ul>
+</div>   
+</div>  
+</div>  
+</div>
+</div>
+</div>
+  
+  
+  <div id="block-views-image_title_article-block_3" class="block block-views region-even odd region-count-4 count-13">
+  <div class="block-inner">
+    <div class="content">
+      <h2 class="title"><span>Celebrity Birthdays</span></h2>
+      
+      <div class="body">
+        <div class="views-row-1 views-row-odd views-row-first views-row-last"> <div class="left">
+<a href="/entertainment/v2/02/17/16/look-anne-curtis-gets-birthday-surprise" class='' > <img src="http://sa.kapamilya.com/absnews/abscbnnews/media/2016/sports/02/17/021716_annebday.jpg" alt="" title="" width="88" height="59"></a>  
+<h1>
+<a href="/entertainment/v2/02/17/16/look-anne-curtis-gets-birthday-surprise" >LOOK: Anne Curtis gets birthday surprise</a>
+</h1>
+  </div> </div>
+<div class="view-footer">
+  <a href="/list/celebrity-birthdays">view more</a>	
+</div>
+</div>
+
+</div>
+</div>
+</div>
+  
+  <div class="block block-block region-odd odd region-count-5 count-15" id="block-block-91">
+<div class="block-inner">
+<div class="content">
+<style type="text/css">#block-block-91 .ob_org_header {display:none !important;}
+				#outbrain_widget_3 {border-bottom:1px solid #CCCCCC; border-left:1px solid #CCCCCC; border-right:1px solid #CCCCCC; margin-bottom:10px;}
+				#outbrain_widget_0 {border-bottom:1px solid #CCCCCC; border-left:1px solid #CCCCCC; border-right:1px solid #CCCCCC; margin-bottom:10px;}
+</style>
+<h2 class="masterbossingsir"><span>Videos from the web</span></h2>
+
+<div class="OUTBRAIN" data-ob-template="ABS-CBN" data-src="http://news.abs-cbn.com/entertainment/02/10/16/otwol-leah-chooses-career-over-clark" data-widget-id="AR_2">&nbsp;</div>
+
+
+<div class="block-inner">
+<h2 class="masterbossingsir"><span>Social Web</span></h2>
+
+<div class="content-masterbossingsir"><!-- crowdynews 113015 -->
+<div data-crowdynews-widget="ABSCBN/entertainment-inline-new" style="width: 300px; height: 400px;"><script src="//widget.crowdynews.com/js/widget.js" async="true" type="text/javascript"></script></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$(window).load(function(){
+$('.content-masterbossingsir a.bbWidgetFullscreen').attr('href', '/socialweb/entertainment');
+});</script>
+  
+  
+</div>
+    <br class="clear">
+  </div>
+  </div>
+  
+  <!--<br/>-->
+  <!--footer-->
+  <div class="outer-left-ads">
+    <div class="outer-left-loob-ads">
+      <div id="block-block-38" class="block block-block region-odd odd region-count-1 count-35">
+        <div class="block-inner">
+          <div class="content">
+            <!-- ABSNews_Home_SkinningAdsLeft -->
+            <div id='div-gpt-ad-1383201996838-6' style='width:140px; height:1025px; float:right;'>
+              
+
+
+	<!-- /2744311/ABSNews_Entertainment_SkinningAdsLeft -->
+	<div id="div-gpt-ad-1446723839037-3" style="height:1025px; width:140px;">
+	<script type="text/javascript">
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446723839037-3'); });
+	</script>
+	</div>
+
+
+
+
+
+
+
+
+
+            </div>
+          </div>
+        </div>
+      </div> <!-- /block-inner, /block -->	
+    </div>
+  </div>
+  <div class="outer-right-ads">
+    <div class="outer-right-loob-ads">
+      <div id="block-block-73" class="block block-block region-odd even region-count-1 count-36"><div class="block-inner">
+        
+        
+        <div class="content">
+          <!-- ABSNews_Home_SkinningAdsRight -->
+          <div id='div-gpt-ad-1383201996838-7' style='width:140px; height:1025px;'>
+               <!-- /2744311/ABSNews_Entertainment_SkinningAdsRight -->
+
+<div id="div-gpt-ad-1446723839037-4" style="height:1025px; width:140px;"><script type="text/javascript">
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446723839037-4'); });
+	</script></div>
+        
+          </div>
+        </div>
+        
+        
+        </div></div> <!-- /block-inner, /block -->	</div>
+  </div>
+  <div id="ad_footer" class="ad-region">
+    <div id="block-block-455" class="block block-block region-odd even region-count-1 count-34">
+      <div class="block-inner">    
+        <div class="content">
+          <div class="bottomAdFrame">
+            <center>
+              
+
+
+	<!-- /2744311/ABSNews_Entertainment_LeaderboardBottom_728x90 -->
+	<div id='div-gpt-ad-1446723839037-7' style='height:90px; width:728px;'>
+	<script type='text/javascript'>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446723839037-7'); });
+	</script>
+	</div>
+
+
+
+
+
+
+
+
+
+            </center>
+          </div>
+        </div>
+      </div></div> <!-- /block-inner, /block --></div>
+  <div id="footer">
+    <div id="inner_footer">
+      <div id="footer_text">
+        
+        Copyright &copy; 2016 ABS-CBN Interactive All rights reserved<br />
+<a href="/sites/default/files/Terms" style="text-decoration:none !important; color:#ccc !important;" target="blank">Terms and Conditions | Privacy Policy</a><br />
+Media Partners | <a href="http://digitaledition.philstar.com" style="color:#ccc;">The Philippine Star</a>
+        
+      </div>
+      
+      <div id="footer_block">
+        <div id="footer_primary">
+          
+<ul class="menu"><li class="leaf first">
+  <a  href="/"  title="Home">Home
+  </a></li><li class="leaf first">
+  <a  href="/nation"  title="Nation">Nation
+  </a><ul class="menu"><li class="leaf last"><a  href="/nation/metro-manila" title="">Metro-Manila</a></li><li class="leaf last"><a  href="/nation/regions" title="">Regions</a></ul></li><li class="leaf first">
+  <a  href="/business"  title="Business">Business
+  </a><ul class="menu"><li class="leaf last"><a  href="/business/tech-biz" title="">Tech Biz</a></ul></li><li class="leaf first">
+  <a  href="/entertainment"  title="Entertainment">Entertainment
+  </a></li><li class="leaf first">
+  <a  href="/sports"  title="Sports">Sports
+  </a></li><li class="leaf first">
+  <a  href="/lifestyle"  title="Lifestyle">Lifestyle
+  </a><ul class="menu"><li class="leaf last"><a  href="/lifestyle/gadget-and-tech" title="">Technology</a></li><li class="leaf last"><a  href="/classified-odd"  title="">Classified Odd</a></li><li class="leaf last"><a  href="/youth" title="">Youth </a></ul></li><li class="leaf first">
+  <a  href="/global-filipino"  title="Global Filipino">Global Filipino
+  </a><ul class="menu"><li class="leaf last"><a  href="/global-filipino/world" title="">World</a></ul></ul>
+
+          <br class="clear"></div>
+        <div id="footer_secondary">
+          
+<ul class="menu"><li class="leaf first">
+  <a  href="/insights"  title="Insights">Insights
+  </a></li><li class="leaf first">
+  <a  href="/focus"  title="Focus">Focus
+  </a></li><li class="leaf first">
+  <a  href="/anc"  title="ANC">ANC
+  </a></li><li class="leaf first">
+  <a  href="/currentaffairs"  title="Current Affairs Programs">Current Affairs Programs
+  </a><ul class="menu"><li class="leaf last"><a  href="/current-affairs-programs/tv-patrol" title="">TV Patrol</a></li><li class="leaf last"><a  href="/current-affairs-programs/bandila" title="">Bandila</a></ul></li><li class="leaf first">
+  <a  href="javascript:void(0)"  title="Services">Services
+  </a><ul class="menu"><li class="leaf last"><a  href="/services/corporate" title="">Corporate</a></li><li class="leaf last"><a  href="/advisories" title="">Advisories</a></li><li class="leaf last"><a  href="/research" title="">Research</a></li><li class="leaf last"><a  href="/public-service" title="">Public Service</a></li><li class="leaf last"><a  href="/exam-results" title="">Exam Results</a></li><li class="leaf last"><a  href="/daily-gospel" title="">Daily Gospel</a></li><li class="leaf last"><a  href="/feedback" title="">Feedback</a></ul></ul>
+<br class="clear"></div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Top Nav Commented-->
+
+<div class="uninav">
+  <div class="uninav-main" style="top: 23px;">
+    <div class="uninav-container">
+      <h2 class="uninav-main-heading">Welcome to your one-stop hub for everything Kapamilya!<br>Where would you like to go next?</h2>
+    </div><div class="uninav-main-divider"></div>
+    <div class="uninav-container">
+      <ul class="uninav-main-links clearfix">
+        <li>
+          <ul>
+            <li><a target="_blank" href="//www.abs-cbn.com/">ABS-CBN.COM</a></li>
+            <li><a target="_blank" href="//abscbnmobile.com/">ABS-CBN mobile</a></li>
+            <li><a target="_blank" href="//store.abs-cbn.com/">ABS-CBN Store</a></li>
+            <li><a target="_blank" href="//tvplus.abs-cbn.com/">ABS-CBN TVplus</a></li>
+            <li><a target="_blank" href="//www.abs-cbnnews.com/anc">ANC</a></li>
+            <li><a target="_blank" href="//ballschannel.tv/">Balls</a></li>
+            <li><a target="_blank" href="//bmpm.abs-cbnnews.com/">BMPM</a></li>
+            <li><a target="_blank" href="//www.choosephilippines.com/">Choose Philippines</a></li>
+            <li><a target="_blank" href="//dzmm.abs-cbnnews.com/">DZMM</a></li>
+            <li><a target="_blank" href="//lifestyle.abs-cbn.com/">Lifestyle</a></li>
+          </ul></li>
+        <li>
+          <ul>
+            <li><a target="_blank" href="//www.mor1019.com/">MOR 101.9</a></li>
+            <li><a target="_blank" href="//myxph.com/">Myx PH</a></li>
+            <li><a target="_blank" class="active">News <br> and Current Affairs</a></li>
+            <li><a target="_blank" href="//push.abs-cbn.com/">Push</a></li>
+            <li><a target="_blank" href="//sports.abs-cbn.com/">Sports</a></li>
+            <li><a target="_blank" href="//starcinema.abs-cbn.com/">Star Cinema</a></li>
+            <li><a target="_blank" href="//starmagic.abs-cbn.com/">Star Magic</a></li>
+            <li><a target="_blank" href="//starmusic.abs-cbn.com/">Star Music</a></li>
+            <li><a target="_blank" href="//www.uaapsports.tv/">UAAP</a></li>
+          </ul>
+        </li>
+        <li>
+          <ul>
+            <li><a target="_blank" href="//tfcmyremit.com/">TFC myREMIT</a></li>
+            <li><a target="_blank" href="//www.tfc.tv/">TFC.tv</a></li>
+          </ul>
+          <ul>
+            <li><a target="_blank" href="//www.iwantv.com.ph/">iWant TV</a></li>
+            <li><a target="_blank" href="//www.mysky.com.ph/">Sky</a></li>
+          </ul>
+        </li>
+        <li>
+          <ul>
+            <li><a target="_blank" href="//www.abs-cbnfoundation.com/">ABS-CBN Foundation</a></li>
+            <li><a target="_blank" href="//corporate.abs-cbn.com/careers/">Careers</a></li>
+            <li><a target="_blank" href="//corporate.abs-cbn.com/">Corporate</a></li>
+            <li><a target="_blank" href="//internationalsales.abs-cbn.com/">International Sales</a></li>
+            <li><a target="_blank" href="//marketportal.abs-cbn.com/">Market Portal</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("manScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();//]]>
+</script>
+</form>
+</body>
+</html>

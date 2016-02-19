@@ -1,0 +1,2244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=EDGE,chrome=1">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Hayley Atwell of &#8216;Agent Carter&#8217; to Star in ABC Legal Pilot &#8216;Conviction&#8217; | TVLine	</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://tvline.com/xmlrpc.php">
+	<link href="https://plus.google.com/110728700766487792328" rel="publisher" />
+
+	<!-- Mobile  Meta -->
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta http-equiv="cleartype" content="on">
+	<meta itemprop="inlanguage" content="en-US"/>
+	<meta name="p:domain_verify" content="9ad238c78ee34da2d6d96a41981790d2"/>
+
+			<!-- Amazon adcode begin-->
+		<script type='text/javascript' src='//c.amazon-adsystem.com/aax2/amzn_ads.js'></script>
+		<script type='text/javascript'>
+			try {
+				amznads.getAds('3157');
+			} catch(e) { /*ignore*/}
+		</script>
+		<!-- Amazon adcode end-->
+				<script type='text/javascript'>
+			var crtg_nid = '4959';
+			var crtg_cookiename = 'crtg_rta';
+			var crtg_varname = 'crtg_content';
+			function crtg_getCookie(c_name) {
+				var i, x, y, ARRCookies = document.cookie.split(";");
+				for (i = 0; i < ARRCookies.length; i++) {
+					x = ARRCookies[i].substr(0, ARRCookies[i].indexOf("=") );
+					y = ARRCookies[i].substr(ARRCookies[i].indexOf("=") + 1);
+					x = x.replace(/^\s+|\s+$/g, "");
+					if (x == c_name) {
+						return decodeURIComponent(y);
+					}
+				}
+				return '';
+			}
+			var crtg_content = crtg_getCookie(crtg_cookiename);
+			var crtg_rnd = Math.floor(Math.random() * 99999999999);
+			(function () {
+				var crtg_url = location.protocol + '//rtax.criteo.com/delivery/rta/rta.js?netId=' + encodeURIComponent(crtg_nid);
+				crtg_url += '&cookieName=' + encodeURIComponent(crtg_cookiename);
+				crtg_url += '&rnd=' + crtg_rnd;
+				crtg_url += '&varName=' + encodeURIComponent(crtg_varname);
+				var crtg_script = document.createElement('script');
+				crtg_script.type = 'text/javascript';
+				crtg_script.src = crtg_url;
+				crtg_script.async = true;
+				if (document.getElementsByTagName("head").length > 0) {
+					document.getElementsByTagName("head")[0].appendChild(crtg_script);
+				}
+				else if (document.getElementsByTagName("body").length > 0) {
+					document.getElementsByTagName("body")[0].appendChild(crtg_script);
+				}
+			})();
+		</script>
+	
+<!-- BEGIN Krux Control Tag -->
+<script class="kxct" data-id="Jhm7K1dZ" data-timing="async" data-version="1.9" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+    k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=Jhm7K1dZ";
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+
+</script>
+<!-- END Krux Controltag -->
+
+<!-- GPT interchange code -->
+<script>
+ window.Krux || ((Krux = function() {
+   Krux.q.push(arguments);
+ }).q = []);
+ (function() {
+   function retrieve(n) {
+     var m, k = 'kx' + n;
+     if (window.localStorage) {
+       return window.localStorage[k] || "";
+     } else if (navigator.cookieEnabled) {
+       m = document.cookie.match(k + '=([^;]*)');
+       return (m && unescape(m[1])) || "";
+     } else {
+       return '';
+     }
+   }
+   Krux.user = retrieve('user');
+   Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+ })();
+</script>
+	
+<!-- Quantcast Tag, part 1 -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+})();
+</script>
+<!-- Quantcast tag End, part 1 -->
+
+<meta property="fb:page_id" content="187516444593639" />
+
+<!-- Pingdom RUM - Start -->
+<script>
+var _prum = [['id', '55133cd0abe53d470db40683'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+<!-- Pingdom RUM - End -->
+			<meta name="publish-date" content="2016-02-10 17:30:57 +0000" />
+			
+<meta name="description" content="TV&#039;s Agent Carter is looking to moonlight, on a very different kind of mission. Hayley Atwell has landed the lead in Conviction, a drama pilot in development at ABC." />
+<meta name="keywords" content="" />
+<meta name="news_keywords" content="ABC, Conviction, Hayley Atwell, Marvel&#039;s Agent Carter" />
+
+<script type="text/javascript">dataLayer = window.dataLayer || []; /* Google Tag Manager */</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pmc_meta = {"lob":"tvline","page-type":"article","env":"desktop","primary-category":"Casting News","primary-vertical":"","vertical":"","category":["Casting News","Pilots"],"tag":["ABC","Conviction","Hayley Atwell","Marvel's Agent Carter"],"author":["Matt Webb Mitovich"],"logged-in":"","subscriber-type":"","country":"us","genre":["Drama"]};
+
+/* ]]> */
+</script>
+		<script type="text/javascript">
+		if( window.hasOwnProperty( 'pmc_meta' ) ) {
+			if( !window.hasOwnProperty( 'dataLayer' ) || !window.dataLayer.hasOwnProperty('push') ) {
+				window.dataLayer = [];
+			}
+			window.dataLayer.push( pmc_meta );
+		}
+		</script>
+
+				<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=tvline.com&amp;id=33565533&amp;t=1455771139&amp;back=http%3A%2F%2Ftvline.com%2F2016%2F02%2F10%2Fhayley-atwell-cast-conviction-pilot-abc%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="alternate" type="application/rss+xml" title="TVLine &raquo; Hayley Atwell Lands Lead in Conviction Legal Drama Pilot at ABC Comments Feed" href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<link rel='stylesheet' id='all-css-0' href='https://s1.wp.com/wp-content/mu-plugins/likes/jetpack-likes.css?m=1424450955g' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.4.1-alpha-36109' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2' href='https://s2.wp.com/_static/??-eJylU1tSwzAMvBCuW2j6x3AWJVYSUfkxltNMb4+TlJBSppDy45Hs3R1ZK+k+KHIVdwZFVyLagLRUeScbS26Tb570dwiY/KRKiFeQzEnokk4t2gw8UdDBVipw15CTMW6RQxY5jioWXfcbOZ2YHKrn7W6vmcoI8TxyJZ0ZHyaTa35g226utfIR870NkAaERUOAnMVdukez4fDJGsIWqqPcw/cho1VZhogiKp+WOqumX6xpa8O+BFZ156pE3k0mLR78CWMks0609j5hnKWmdI1ARIaERmUTjn83bakgPdXpHFCDCCb5v/N1hivoUbxdVUiKQIxR9WQaTI99Ji/N3Mwcq4UAaefTuHNzcG9sGvSKfQWD11eJqhno1qMFNWLJvslhM9bylT68SxeLVo0rcG7mxC9BHuYarKHj24280Nu9nuZ/ALzZ192+KA7FdvtSvH8AP5vZEg==' type='text/css' media='all' />
+<script type="text/javascript" src="https://s2.wp.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/geoPosition.js?m=1392820885g"></script><script type="text/javascript" src="https://s2.wp.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/pmc-utils.js?m=1436193849g"></script>			<script type="text/javascript">
+			var pmc_do_analytics_pagecount = true;		//flag to allow analytics code to count a page view
+			var pmc_common_urls = {
+				parent_theme_uri: 'https://s0.wp.com/wp-content/themes/vip/pmc-tvline-2014/',
+				current_theme_uri: 'https://s0.wp.com/wp-content/themes/vip/pmc-tvline-2014/',
+				fb_channel_uri: 'https://s1.wp.com/wp-content/themes/vip/pmc-plugins/partner/facebook/channel.html'
+			};
+			</script>
+		<script type="text/javascript">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			var pmc_ga_dimensions = {"dimension1":"article","dimension3":"682627","dimension4":"matt-webb-mitovich","dimension5":"casting-news|pilots","dimension6":"abc|conviction|hayley-atwell|marvels-agent-carter","dimension8":"casting-news","dimension10":"2016","dimension11":"02","dimension12":"10","dimension13":"09","dimension14":"30","dimension25":"2016-02-10T17:30:57+00:00","dimension26":"2016-02-10 09:30:57"};			pmc_ga_dimensions['dimension15'] = document.location.protocol.replace(':', '');
+			(function(dim){
+				var ac = document.cookie ? document.cookie.split('; ') : [];
+				var i, parts, name, c, cookies = {}, rdecode = /(%[0-9A-Z]{2})+/g, rspace = /\+/g;
+				for(i = 0; i < ac.length; i++) {
+					parts = ac[i].split('=');
+					name = parts[0].replace(rdecode, decodeURIComponent);
+					c = parts.slice(1).join('=');
+					if(c.charAt(0) === '"') { c = c.slice(1, -1); }
+					c = c.replace(rdecode, decodeURIComponent).replace(rspace, ' ');
+					cookies[name] = c;
+				}
+				window[dim] = window[dim] || {};
+							})('pmc_ga_dimensions');
+			ga('create', 'UA-1915907-37', 'auto');
+			ga('set', 'forceSSL', true);
+			ga('set', 'hitCallback', function() { if ( typeof pmc === 'object' && typeof pmc.tracking === 'object' && typeof pmc.tracking.do_call_events === 'function' ) { pmc.tracking.do_call_events(); } } );
+						ga('require', 'linkid', 'linkid.js');
+			ga('require', 'displayfeatures');			ga('set', pmc_ga_dimensions);
+			
+				ga('send', 'pageview');
+		</script>
+
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_helpdesk_vars = {"_ajax_url":"https:\/\/pmctvline2.wordpress.com\/wp-admin\/admin-ajax.php","_activity_indicator_url":"https:\/\/pmctvline2.wordpress.com\/wp-admin\/images\/wpspin_light.gif","affirm":"Okay"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJytkN0OwiAMhV9IxN8LL4zPMrGybtAihS369LJFL4yLxsSEpOTw9XBa3QeFZFw+geimnEuGeH2UeSMz/QlQHm2sEsw90hM2TAkoDaznIzpQWSBWtmjF6MwTXGBJHkQKNPH6GgmpQ+i/Yg2kUJlWRRC8vbmmGsp/usOggzcquGyRZLzX4EIZtR3zA+UfWq3jY+XUOZNJyDSua9AjeO5ApVgCIdk/ONbMrRSfg98vN+vddrlY7TbNHaiKrCY='></script>
+<script type='text/javascript' src='//video-cdn.tvline.com/libraries/BXMKjcHy.js?ver=4.4.1-alpha-36109'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_comscore_options = {"pageview_candidate_url":"\/\/tvline.com\/wp-content\/themes\/vip\/pmc-plugins\/pmc-comscore\/xml\/comscore-pageview-candidate.xml"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tvline_comments_ajax = {"ajaxurl":"\/tl-ajax\/tl-comments\/"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_criteo_script_code = {"enabled":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJylkUsOgjAQQC9kLQgkboxnqWWCA/1lpkK4va1KxJUSd+1L3ks7I6cgtHcRXJTxChZYjhhksFoEc+vQ8eM8Ygs+ETUDyZ4la8IQ9z3v5G8B7S1rT5Dl9X1D4kKgBnSdcDBx7nyAL6E4GnQgDkVZS4MXUjTnxBP/4wqOqIdZkEKzobN87MXSOGwyeNVd0IYJxfwIIDFh20F872lLQ7U2i8arFih5Z3sq66Ypqrqpjv0dUwvOtQ=='></script>
+<script type='text/javascript' src='https://load.instinctiveads.com/i.js?ver=4.4.1-alpha-36109'></script>
+<link rel='stylesheet' id='all-css-0' href='https://s2.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621g' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s2.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563g&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://wp.me/p2gPVz-2RA7' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Ftvline.com%2F2016%2F02%2F10%2Fhayley-atwell-cast-conviction-pilot-abc%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Ftvline.com%2F2016%2F02%2F10%2Fhayley-atwell-cast-conviction-pilot-abc%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Hayley Atwell Lands Lead in Conviction Legal Drama Pilot at ABC" />
+<meta property="og:url" content="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/" />
+<meta property="og:description" content="TV&#039;s Agent Carter is looking to moonlight, on a very different kind of mission." />
+<meta property="article:published_time" content="2016-02-10T17:30:57+00:00" />
+<meta property="article:modified_time" content="2016-02-10T17:35:08+00:00" />
+<meta property="og:site_name" content="TVLine" />
+<meta property="og:image" content="https://pmctvline2.files.wordpress.com/2016/02/hayley-atwell.jpg?w=621" />
+<meta property="og:image:width" content="621" />
+<meta property="og:image:height" content="420" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@TVLine" />
+<meta name="twitter:image:src" content="https://pmctvline2.files.wordpress.com/2016/02/hayley-atwell.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@MattMitovich" />
+<meta name="twitter:title" content="Hayley Atwell Lands Lead in Conviction Legal Drama Pilot at ABC" />
+<meta name="twitter:description" content="TV&#039;s Agent Carter is looking to moonlight, on a very different kind of mission." />
+<meta name="twitter:image" content="https://pmctvline2.files.wordpress.com/2016/02/hayley-atwell.jpg" />
+<link rel="shortcut icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/287ed40095fad9b4cfed057b0dcaf6b1?s=16" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/287ed40095fad9b4cfed057b0dcaf6b1?s=16" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="http://0.gravatar.com/blavatar/0d66e99b0b16f516c2204d896a0f8a8d?s=114" />
+<link rel='openid.server' href='http://pmctvline2.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://pmctvline2.wordpress.com/' />
+<meta name="author" content="Matt Webb Mitovich"><link rel="canonical" href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/" />
+
+<style type="text/css">
+.vvqbox {
+	visibility: visible !important;
+	display: block;
+	clear: both;
+	width: 100%;
+}
+.vvqbox div {
+	margin: 10px auto;
+}
+.vvqbox img {
+	max-width: 100%;
+	height: 100%;
+}
+.vvqbox object {
+	max-width: 100%;
+}
+</style>
+		<link rel="search" type="application/opensearchdescription+xml"
+		      href="http://tvline.com/pmc-opensearch"
+		      title="TVLine  Search"/>
+	
+<!-- Swiftype Meta Tags Start -->
+<meta class="swiftype" name="content_type" data-type="string" content="Article" />
+<meta class="swiftype" name="title" data-type="string" content="Hayley Atwell Lands Lead in &lt;I&gt;Conviction&lt;/i&gt; Legal Drama Pilot at ABC" />
+<meta class="swiftype" name="author" data-type="string" content="Matt Webb Mitovich" />
+<meta class="swiftype" name="published_at" data-type="date" content="2016-02-10 09:30:57" />
+<meta class="swiftype" name="image" data-type="enum" content="https://pmctvline2.files.wordpress.com/2016/02/hayley-atwell.jpg?w=300&#038;h=208&#038;crop=1" />
+<meta class="swiftype" name="comment_count" data-type="integer" content="44" />
+<meta class="swiftype" name="tags" data-type="string" content="ABC" />
+<meta class="swiftype" name="tags" data-type="string" content="Conviction" />
+<meta class="swiftype" name="tags" data-type="string" content="Hayley Atwell" />
+<meta class="swiftype" name="tags" data-type="string" content="Marvel&#039;s Agent Carter" />
+<meta class="swiftype" name="topics" data-type="string" content="Casting News" />
+<meta class="swiftype" name="topics" data-type="string" content="Pilots" />
+<meta class="swiftype" name="body" data-type="text" content="TV&#039;s Agent Carter is looking to moonlight, on a very different kind of mission.
+
+Hayley Atwell has landed the lead in Conviction, a drama pilot in development at ABC.
+
+
+
+The project will star Atwell as the brilliant-but-rebellious daughter of a Clinton-like political family, who is forced into taking a job as the head of Los Angeles’ newly created Conviction Integrity Unit. Along with her team of lawyers, investigators and forensic experts, she has two weeks to examine cases where there&#039;s credible suspicion that the wrong person may have been convicted of a crime.
+
+
+
+What does this mean for Agent Carter? In the event that Conviction is ordered to series and ABC&#039;s Marvel drama is renewed for Season 3 (after returning to depressed ratings), TVLine hears that Atwell&#039;s schedule would be worked out so that she could do both roles.
+
+Mark Gordon and Nick Pepper will executive produce the pilot with co-creators Liz Friedman and Liz Friedlander. Friedman wrote the pilot, and Friedlander will direct." />
+<!-- Swiftype Meta Tags End -->
+
+		<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="TVLine" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="TV News, Previews, Spoilers, Casting Scoop, Interviews" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://tvline.com/feed/;icon-uri=http://0.gravatar.com/blavatar/287ed40095fad9b4cfed057b0dcaf6b1?s=16" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pmc_krux = {"lob":"tvline","page-type":"article","env":"desktop","primary-category":"Casting News","primary-vertical":"","vertical":"","category":["Casting News","Pilots"],"tag":["ABC","Conviction","Hayley Atwell","Marvel's Agent Carter"],"author":["Matt Webb Mitovich"],"logged-in":"","subscriber-type":"","genre":["Drama"]};
+
+/* ]]> */
+</script>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+
+<body class="single single-post postid-682627 single-format-standard mp6 customizer-styles-applied highlander-enabled highlander-light pmc-desktop pmc-no-tablet pmc-no-mobile geo-us pmc-ads-interruptus">
+	<!-- Google Tag Manager -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-55MB34"
+					  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-55MB34');</script>
+	<!-- End Google Tag Manager -->
+
+	<!-- Begin comScore Tag -->
+<noscript> <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035310&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" /> </noscript>
+<!-- End comScore Tag -->
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+				<div class="site-branding">
+
+			<h1 class="site-title">
+				<a href="http://tvline.com/" rel="home">TVLine</a></h1>
+
+			<div class="menu-mobile-wrapper">
+				<i class='fa fa-bars fa-2x'><ul class='menu-mobile'> <li class='menu-category'><a href='javascript:void(0);'>Categories</a><div></div><ul class='submenu-category'><li><a href="http://tvline.com/category/spoilers/">Spoilers</a></li><li><a href="http://tvline.com/tag/ask-ausiello/">Ask Ausiello</a></li><li><a href="http://tvline.com/tag/grammys/">Grammys</a></li><li><a href="http://tvline.com/tag/gilmore-girls/">Gilmore Girls Revival</a></li><li><a href="/2015/10/16/renewed-tv-shows-2016-renewal-scorecard-cancelled-series/">Renewal Scorecard</a></li></ul></li><li><a href="">Hot Shows</a><div></div><ul class="submenu-category"><li><a href="/tag/marvels-agents-of-shield/">Agents of S.H.I.E.L.D.</a></li><li><a href="http://tvline.com/tag/american-horror-story/">American Horror Story</a></li><li><a href="http://tvline.com/tag/american-idol/">American Idol</a></li><li><a href="/tag/arrow/">Arrow</a></li><li><a href="/tag/the-big-bang-theory/">The Big Bang Theory</a></li><li><a href="http://tvline.com/tag/blindspot/">Blindspot</a></li><li><a href="/tag/bones/">Bones</a></li><li><a href="/tag/castle/">Castle</a></li><li><a href="http://tvline.com/tag/dancing-with-the-stars/">Dancing With The Stars</a></li><li><a href="http://tvline.com/tag/empire/">Empire</a></li><li><a href="http://tvline.com/tag/the-flash/">The Flash</a></li><li><a href="http://tvline.com/tag/fuller-house/">Fuller House</a></li><li><a href="http://tvline.com/tag/game-of-thrones/">Game Of Thrones</a></li><li><a href="http://tvline.com/tag/gilmore-girls/">Gilmore Girls</a></li><li><a href="/tag/the-good-wife/">The Good Wife</a></li><li><a href="/tag/greys-anatomy/">Grey&#039;s Anatomy</a></li><li><a href="http://tvline.com/tag/how-to-get-away-with-murder/">How to Get Away....</a></li><li><a href="http://tvline.com/tag/legends-of-tomorrow/">Legends of Tomorrow</a></li><li><a href="/tag/ncis/">NCIS</a></li><li><a href="http://tvline.com/tag/nashville/">Nashville</a></li><li><a href="/tag/new-girl/">New Girl</a></li><li><a href="/tag/once-upon-a-time/">Once Upon a Time</a></li><li><a href="/tag/pretty-little-liars/">Pretty Little Liars</a></li><li><a href="http://tvline.com/tag/quantico/">Quantico</a></li><li><a href="/tag/scandal/">Scandal</a></li><li><a href="http://tvline.com/tag/sleepy-hollow/">Sleepy Hollow</a></li><li><a href="http://tvline.com/tag/supergirl/">Supergirl</a></li><li><a href="/tag/supernatural/">Supernatural</a></li><li><a href="/tag/the-vampire-diaries/">The Vampire Diaries</a></li><li><a href="http://tvline.com/tag/the-voice/">The Voice</a></li><li><a href="/tag/the-walking-dead/">The Walking Dead</a></li><li><a href="http://tvline.com/tag/the-x-files/">The X-Files</a></li></ul></li></ul>				</i>
+			</div>
+			<div class="site-social">
+				<a href="http://www.facebook.com/pages/TVLine/187516444593639" target="_blank" title="Facebook">
+					<img src="https://s0.wp.com/wp-content/themes/vip/pmc-tvline-2014/library/images/follow_us_on_facebook_graphic.png" />
+				</a>
+			</div>
+			<div class="mobile-search">
+				<a href="javascript:void(0);"><i class="fa fa-search fa-2x fa-flip-horizontal"></i></a>
+			</div>
+			<div class="site-search">
+				<!-- Site Search -->
+						<section id="swiftype-search-widget" class="swiftype">
+			<div class="search_form block search_form_widget">
+				<div data-st-search-form="small_search_form"></div>
+			</div>
+		</section>
+					</div>
+
+		</div>
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<div class="menu"><ul id="nav" class="menu"><li id="nav-menu-item-294103" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a class="menu-link main-menu-link">Hot Shows</a><a href=""><i class="fa fa-sort-asc"></i></a>
+<div class='sub-menu-wrap'><ul class="sub-menu">
+	<li id="nav-menu-item-453695" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/marvels-agents-of-shield/" class="menu-link sub-menu-link">Agents of S.H.I.E.L.D.</a></li>
+	<li id="nav-menu-item-619286" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://tvline.com/tag/american-horror-story/" class="menu-link sub-menu-link">American Horror Story</a></li>
+	<li id="nav-menu-item-676948" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://tvline.com/tag/american-idol/" class="menu-link sub-menu-link">American Idol</a></li>
+	<li id="nav-menu-item-406093" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/arrow/" class="menu-link sub-menu-link">Arrow</a></li>
+	<li id="nav-menu-item-294106" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/the-big-bang-theory/" class="menu-link sub-menu-link">The Big Bang Theory</a></li>
+	<li id="nav-menu-item-644036" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://tvline.com/tag/blindspot/" class="menu-link sub-menu-link">Blindspot</a></li>
+	<li id="nav-menu-item-294316" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/bones/" class="menu-link sub-menu-link">Bones</a></li>
+	<li id="nav-menu-item-294317" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/castle/" class="menu-link sub-menu-link">Castle</a></li>
+	<li id="nav-menu-item-644042" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://tvline.com/tag/dancing-with-the-stars/" class="menu-link sub-menu-link">Dancing With The Stars</a></li>
+	<li id="nav-menu-item-583895" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://tvline.com/tag/empire/" class="menu-link sub-menu-link">Empire</a></li>
+	<li id="nav-menu-item-549624" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://tvline.com/tag/the-flash/" class="menu-link sub-menu-link">The Flash</a></li>
+	<li id="nav-menu-item-619291" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://tvline.com/tag/fuller-house/" class="menu-link sub-menu-link">Fuller House</a></li>
+	<li id="nav-menu-item-676947" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://tvline.com/tag/game-of-thrones/" class="menu-link sub-menu-link">Game Of Thrones</a></li>
+	<li id="nav-menu-item-653371" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://tvline.com/tag/gilmore-girls/" class="menu-link sub-menu-link">Gilmore Girls</a></li>
+	<li id="nav-menu-item-294325" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/the-good-wife/" class="menu-link sub-menu-link">The Good Wife</a></li>
+	<li id="nav-menu-item-294327" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/greys-anatomy/" class="menu-link sub-menu-link">Grey's Anatomy</a></li>
+	<li id="nav-menu-item-583897" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://tvline.com/tag/how-to-get-away-with-murder/" class="menu-link sub-menu-link">How to Get Away....</a></li>
+	<li id="nav-menu-item-676946" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://tvline.com/tag/legends-of-tomorrow/" class="menu-link sub-menu-link">Legends of Tomorrow</a></li>
+	<li id="nav-menu-item-294333" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/ncis/" class="menu-link sub-menu-link">NCIS</a></li>
+	<li id="nav-menu-item-549627" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://tvline.com/tag/nashville/" class="menu-link sub-menu-link">Nashville</a></li>
+	<li id="nav-menu-item-294334" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/new-girl/" class="menu-link sub-menu-link">New Girl</a></li>
+	<li id="nav-menu-item-294336" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/once-upon-a-time/" class="menu-link sub-menu-link">Once Upon a Time</a></li>
+	<li id="nav-menu-item-294339" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/pretty-little-liars/" class="menu-link sub-menu-link">Pretty Little Liars</a></li>
+	<li id="nav-menu-item-644037" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://tvline.com/tag/quantico/" class="menu-link sub-menu-link">Quantico</a></li>
+	<li id="nav-menu-item-397888" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/scandal/" class="menu-link sub-menu-link">Scandal</a></li>
+	<li id="nav-menu-item-549628" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://tvline.com/tag/sleepy-hollow/" class="menu-link sub-menu-link">Sleepy Hollow</a></li>
+	<li id="nav-menu-item-619285" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://tvline.com/tag/supergirl/" class="menu-link sub-menu-link">Supergirl</a></li>
+	<li id="nav-menu-item-294351" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/supernatural/" class="menu-link sub-menu-link">Supernatural</a></li>
+	<li id="nav-menu-item-294352" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/the-vampire-diaries/" class="menu-link sub-menu-link">The Vampire Diaries</a></li>
+	<li id="nav-menu-item-644040" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://tvline.com/tag/the-voice/" class="menu-link sub-menu-link">The Voice</a></li>
+	<li id="nav-menu-item-357751" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/the-walking-dead/" class="menu-link sub-menu-link">The Walking Dead</a></li>
+	<li id="nav-menu-item-619290" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://tvline.com/tag/the-x-files/" class="menu-link sub-menu-link">The X-Files</a></li>
+</ul></div>
+</li>
+<li id="nav-menu-item-294102" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://tvline.com/category/spoilers/" class="menu-link main-menu-link">Spoilers</a></li>
+<li id="nav-menu-item-595546" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://tvline.com/tag/ask-ausiello/" class="menu-link main-menu-link">Ask Ausiello</a></li>
+<li id="nav-menu-item-684388" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://tvline.com/tag/grammys/" class="menu-link main-menu-link">Grammys</a></li>
+<li id="nav-menu-item-679451" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-post_tag"><a href="http://tvline.com/tag/gilmore-girls/" class="menu-link main-menu-link">Gilmore Girls Revival</a></li>
+<li id="nav-menu-item-649911" class="main-menu-item  menu-item-even menu-item-depth-0 special-menu menu-item menu-item-type-custom menu-item-object-custom"><a href="/2015/10/16/renewed-tv-shows-2016-renewal-scorecard-cancelled-series/" class="menu-link main-menu-link">Renewal Scorecard</a></li>
+</ul></div>		</nav>
+		<!-- #site-navigation -->
+	</header>
+	<!-- #masthead -->
+
+	<div class="header-top-ad">
+		<div class="admz" id="adm-header-leaderboard">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="970">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-ad-tvline-ros-728x90-uid0" class="ad-rotatable"></div>
+			<div id="div-gpt-ad-tvline-ros-728x90-uid0-oop" class="ad-rotatable"></div>
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript" class="script-mobile">
+	new AdLoader('#adm-header-leaderboard', [
+				{
+			"device": "Desktop",
+			"width": 970,
+			"height": 90		}			]);
+</script>
+	</div>
+
+	<div class="mobile-header-ad">
+			</div>
+
+	<div id="content" class="site-content">
+			<div class="single-post single-post-682627">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+			
+				
+<article id="post-682627" class="river-image-large post-682627 post type-post status-publish format-standard has-post-thumbnail hentry category-casting-news category-pilots tag-abc tag-conviction tag-hayley-atwell tag-marvels-agent-carter genre-drama" itemscope itemType="http://schema.org/NewsArticle">
+	<header class="entry-header">
+		
+		<img width="620" height="420" src="https://pmctvline2.files.wordpress.com/2016/02/hayley-atwell.jpg?w=620&amp;h=420&amp;crop=1" class="attachment-river-image-large size-river-image-large wp-post-image" alt="Hayley Atwell ABC Pilot" /><br style="clear: both;" /><div class="image-copyright">Shutterstock</div>
+		<h1 itemprop="headline" class="post-title entry-title">Hayley Atwell Lands Lead in <I>Conviction</i> Legal Drama Pilot at&nbsp;ABC</h1>
+
+		<div class="entry-meta">
+			<p class="post-author-time">
+				By 
+				<span class="vcard author">
+				<span class="coauthors"><a href="http://tvline.com/author/matt-webb-mitovich/" title="Posts by Matt Webb Mitovich" class="author url fn" rel="author">Matt Webb Mitovich</a></span> / 				</span>
+				<time class="date-published date updated">
+					February 10 2016, 9:30 AM PST				</time>
+			</p>
+		</div>
+
+		<ul class="share-comment home-left-col">
+			<li id="fb-like-682627">
+			<a class="fb-share-button" data-href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/" data-type="button_count"></a>
+		</li>
+		<li>
+			<a class="twitter-share-button" data-counturl="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/" target="_blank" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Ftvline.com%2F2016%2F02%2F10%2Fhayley-atwell-cast-conviction-pilot-abc%2F&#038;text=Hayley+Atwell+Lands+Lead+in+Conviction+Legal+Drama+Pilot+at%C2%A0ABC&#038;via=TVLine" rel="nofollow"></a>
+		</li>
+		<li class="google-share-button">
+			<div class="g-plusone" data-href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/" data-size="medium" data-callback="tvline_event_gplus_onLoadCallback"></div>
+		</li>
+					<li class="article-comment">
+			<a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#tvline-comments-682627">
+					<span class="icon-comments-count comment-limit">
+						<em itemprop="interactionCount">44</em>
+					</span>
+			</a>
+		</li>
+	</ul>
+		<!-- .entry-meta -->
+	</header>
+	<!-- .entry-header -->
+
+
+	<div id="wp-post-featured" class="wp-post-featured">
+
+	
+	</div>
+
+	<div itemprop="articlebody" class="entry-content">
+		<p>TV&#8217;s <a  href="http://tvline.com/tag/marvels-agent-carter"  >Agent Carter</a> is looking to moonlight, on a very different kind of mission.<span id="more-682627"></span></p>
+<p><a  href="http://tvline.com/tag/hayley-atwell/"  >Hayley Atwell</a> has landed the lead in <em>Conviction</em>, a drama pilot in development at ABC.</p>
+<p class="pmc-related-link related">
+			<strong class="pmc-related-type">RELATED</strong><a target="_self" href="http://tvline.com/2016/01/20/pilot-season-abc-cbs-cw-fox-nbc-2016-2017/" title="Pilot Season &#8217;16: Scoop on This Fall&#8217;s (Possible) New Shows and Stars">Pilot Season &#8217;16: Scoop on This Fall&#8217;s (Possible) New Shows and Stars</a>
+		</p>
+<p>The project will star Atwell as the brilliant-but-rebellious daughter of a Clinton-like political family, who is forced into taking a job as the head of Los Angeles’ newly created Conviction Integrity Unit. Along with her team of lawyers, investigators and forensic experts, she has two weeks to examine cases where there&#8217;s credible suspicion that the wrong person may have been convicted of a crime.</p>
+<p class="pmc-related-link related">
+			<strong class="pmc-related-type">RELATED</strong><a target="_self" href="http://tvline.com/2016/02/10/the-flash-earth-two-episode-ratings/" title="Tuesday Ratings: &lt;i&gt;Agent Carter&lt;/i&gt; Stabilizes in Week 4">Tuesday Ratings: <i>Agent Carter</i> Stabilizes in Week 4</a>
+		</p>
+<p><strong>What does this mean for <em>Agent Carter</em>? </strong>In the event that <em>Conviction</em> is ordered to series <em>and</em> ABC&#8217;s Marvel drama is renewed for Season 3 (after returning to depressed ratings), TVLine hears that Atwell&#8217;s schedule would be worked out so that she could do <em>both</em> roles.</p>
+<p>Mark Gordon and Nick Pepper will executive produce the pilot with co-creators Liz Friedman and Liz Friedlander. Friedman wrote the pilot, and Friedlander will direct.</p>
+		
+
+
+
+			</div>
+	<!-- .entry-content -->
+
+	<!--add hidden schema for organization-->
+	<div itemscope itemtype="http://schema.org/Organization">
+		<link itemprop="url" href="http://tvline.com/">
+		<meta itemprop="name" content="TVLine">
+		<meta itemprop="legalname" content="TVLine Media, LLC">
+	</div>
+
+	<footer class="entry-meta">
+		<div class="comment-add">
+						<span><a href="#commentform-682627"> Add a Comment</a></span>
+			
+			<div class="comment-bubble"></div>
+		</div>
+
+		<div class='post-tax'><span>TAGS: </span><a href="http://tvline.com/tag/abc/" rel="tag">ABC</a>, <a href="http://tvline.com/tag/conviction/" rel="tag">Conviction</a>, <a href="http://tvline.com/tag/hayley-atwell/" rel="tag">Hayley Atwell</a>, <a href="http://tvline.com/tag/marvels-agent-carter/" rel="tag">Marvel's Agent Carter</a></div><div class='post-tax'><span>GET MORE: </span><a href="http://tvline.com/category/casting-news/" rel="category tag">Casting News</a>, <a href="http://tvline.com/category/pilots/" rel="category tag">Pilots</a></div>
+			<ul class="guest-authors-module">
+					<li>
+				<div class="author-meta">
+									<span class="author-image">
+										<img width="54" height="70" src="https://pmctvline2.files.wordpress.com/2014/05/matt_mitovich_final_v3.jpg?w=54&amp;h=70&amp;crop=1" class="attachment-guest-author-thumb size-guest-author-thumb wp-post-image" alt="matt_mitovich_final_v3" />									</span>
+				
+									<a href="https://twitter.com/@MattMitovich" class="twitter-follow" data-show-count="false"><i class="fa fa-twitter"></i></a>
+				
+					<ul>
+						<li>
+							Follow Matt Webb Mitovich						</li>
+						<li>Editor-At-Large</li>
+						<li><a rel="author" href="http://tvline.com/author/matt-webb-mitovich/" title="Matt Webb Mitovich">
+								Archive
+							</a></li>
+					</ul>
+				</div>
+
+				<div class="author-posts">
+											<ul>
+															<li><a href="http://tvline.com/2016/02/17/katy-mixon-mike-molly-cast-fattest-housewife-pilot/">
+										<p><i>Mike &amp; Molly</i>'s Katy Mixon to Star in ABC's <i>Second-Fattest&hellip;</i> </p>
+									</a>
+								</li>
+															<li><a href="http://tvline.com/2016/02/17/wayward-pines-season-2-cast-djimon-hounsou/">
+										<p><I>Wayward Pines</i> Season 2 Adds Djimon&nbsp;Hounsou </p>
+									</a>
+								</li>
+													</ul>
+									</div>
+			</li>
+			</ul>
+		<div class="widget-outbrain">
+		<div class="widget widget_pmc_outbrain_widget"><div class="outbrain-widget">
+			<div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_1" data-ob-template="TVLine" ></div>
+			<div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_2" data-ob-template="TVLine" ></div>
+	</div>
+</div>		</div>
+
+	</footer>
+	<!-- .entry-meta -->
+</article><!-- #post-## -->
+
+				
+				<div class="admz" id="adm-mid-river-banner">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="620">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-ad-tvline-ros-620x250-uid1" class=""></div>
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript" class="script-mobile">
+	new AdLoader('#adm-mid-river-banner', [
+				{
+			"device": "Desktop",
+			"width": 620,
+			"height": 250		}			]);
+</script>
+				
+				<div id="tvline-comments-682627" class="module-comments">
+					<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title"> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#respond" style="display:none;">Cancel reply</a></small></h3>				<form action="http://tvline.com/wp-comments-post.php" method="post" id="commentform-682627" class="comment-form">
+					Comments are monitored, so don’t go off topic, don’t frakkin’ curse and don’t bore us with how much your coworker’s sister-in-law makes per hour. Talk smart about TV!<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="aebac7f840" /><input type="hidden" name="_wp_http_referer" value="/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Enter your comment here..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+
+	<div id="comment-form-nascar">
+		<p>Fill in your details below or click an icon to log in:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" title="Guest">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+			<li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="http://s0.wp.com/i/mu.gif?m=1196125237g" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(required)</span> <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name <span class="required">(required)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="text" value="" /></div>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://s2.wp.com/wp-content/mu-plugins/highlander-comments/images/wplogo.png" alt="WordPress.com Logo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+				<p class="comment-form-posting-as pa-wordpress"><strong></strong> You are commenting using your WordPress.com account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://s0.wp.com/i/mu.gif?m=1196125237g" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://s0.wp.com/i/mu.gif?m=1196125237g" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://s0.wp.com/i/mu.gif?m=1196125237g" alt="Google+ photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+				<p class="comment-form-posting-as pa-googleplus"><strong></strong> You are commenting using your Google+ account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;" tabindex="6"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notify me of new comments via email.</label></p></div>
+
+
+
+
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='682627' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="c39788d871" /></p>
+<input type="hidden" name="genseq" value="1455771139" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="220"/></p>				</form>
+					</div><!-- #respond -->
+		<div style="clear: both"></div>	<div class="comment-count">
+		<span>44 Comments</span>
+
+		<div class="comment-bubble"></div>
+	</div>
+			<div>
+			<ol id="comment-list-wrapper" class="commentlist commentlist-partial-hidden">
+						<li class="comment even thread-even depth-1 parent highlander-comment" id="comment-4651714">
+				<div id="div-comment-4651714" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/9ccdd8ad2c368b7ed45b0b5dd17579c7?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Mr. Tran K</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 9:33 AM</a>		</div>
+
+		<p>This could be bad news for Agent Carter if the series gets cancelled.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651714#respond' onclick='return addComment.moveForm( "div-comment-4651714", "4651714", "respond", "682627" )' aria-label='Reply to Mr. Tran K'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment byuser comment-author-mattmitovich comment-author-is-site-member bypostauthor odd alt depth-2 parent highlander-comment" id="comment-4651736">
+				<div id="div-comment-4651736" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://2.gravatar.com/avatar/b002d613f7b7f5439312fb862182f685?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Matt Webb Mitovich</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 9:37 AM</a>		</div>
+
+		<p><b>How?</b></p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651736#respond' onclick='return addComment.moveForm( "div-comment-4651736", "4651736", "respond", "682627" )' aria-label='Reply to Matt Webb Mitovich'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-3 parent highlander-comment" id="comment-4651862">
+				<div id="div-comment-4651862" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/9b7dcb10cabd2e91d0fa721270c9e96b?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='https://www.facebook.com/app_scoped_user_id/589777114/' rel='external nofollow' class='url'>Ezzy Klein</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 10:08 AM</a>		</div>
+
+		<p>Matt, does AC have any chance of a season 3 or to early?</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651862#respond' onclick='return addComment.moveForm( "div-comment-4651862", "4651862", "respond", "682627" )' aria-label='Reply to Ezzy Klein'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment byuser comment-author-kevinlawrencecantor odd alt depth-4 parent highlander-comment" id="comment-4652262">
+				<div id="div-comment-4652262" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/423f5c93bcaf0dcb349ee4fb84c340d0?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='http://kevinlawrencecantor.wordpress.com' rel='external nofollow' class='url'>kevinlawrencecantor</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 11:28 AM</a>		</div>
+
+		<p>By the numbers alone, it looks bad. There are a lot of other factors in play including the fact that it is a Marvel show, it has a little bit of a cult following online and since it is a Disney show there are in-house ways costs can be cut.</p>
+<p>I would guess it will be canceled, but it will not be terribly surprising if it survives.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4652262#respond' onclick='return addComment.moveForm( "div-comment-4652262", "4652262", "respond", "682627" )' aria-label='Reply to kevinlawrencecantor'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-5 highlander-comment" id="comment-4652975">
+				<div id="div-comment-4652975" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/6016c11d1d5847111a893cf4c44acd5a?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">prish</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 2:08 PM</a>		</div>
+
+		<p>They need to bring back the TV movies!</p>
+
+		
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt depth-5 highlander-comment" id="comment-4653113">
+				<div id="div-comment-4653113" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/d8daa84bfcd5d9cdc06775d70bb58d6f?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Stacy</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 2:39 PM</a>		</div>
+
+		<p>In my mind, *because* it&#8217;s a franchise it&#8217;s in more danger. They&#8217;ll trim the fat and refocus their efforts on the more lucrative aspects.</p>
+
+		
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment even depth-2 highlander-comment" id="comment-4651745">
+				<div id="div-comment-4651745" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://2.gravatar.com/avatar/29d05cc6a7b3cf1b12ce07a42f87768c?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">herman1959</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 9:39 AM</a>		</div>
+
+		<p>&#8230;but, good news for Hayley Atwell if the pilot gets picked up. She &#8216;s great.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651745#respond' onclick='return addComment.moveForm( "div-comment-4651745", "4651745", "respond", "682627" )' aria-label='Reply to herman1959'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt depth-2 highlander-comment" id="comment-4651756">
+				<div id="div-comment-4651756" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://2.gravatar.com/avatar/bf6dd03b3d6c9c7a5abc0e3ac5f6f747?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Rob</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 9:41 AM</a>		</div>
+
+		<p>I&#8217;d say cancellation certainly would be bad news for Agent Carter&#8230;</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651756#respond' onclick='return addComment.moveForm( "div-comment-4651756", "4651756", "respond", "682627" )' aria-label='Reply to Rob'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1 highlander-comment" id="comment-4651726">
+				<div id="div-comment-4651726" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/075e454a8c5640ffda8492c0178a3d13?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Mark</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 9:35 AM</a>		</div>
+
+		<p>NOOOOOOOOO!!!! I NEED AGENT CARTER IN MY LIFEEEEEEEEE!!##</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651726#respond' onclick='return addComment.moveForm( "div-comment-4651726", "4651726", "respond", "682627" )' aria-label='Reply to Mark'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt thread-even depth-1 highlander-comment" id="comment-4651729">
+				<div id="div-comment-4651729" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://2.gravatar.com/avatar/e5093e9be0e50b7f7bc9236841989dd4?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">ABG</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 9:36 AM</a>		</div>
+
+		<p>The ratings are awful. I love Agent Carter but we should be thankful we even got a second season.</p>
+<p>I love Hayley Atwell, and after The Good Wife ends I need a new lawyer show and this one sounds good.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651729#respond' onclick='return addComment.moveForm( "div-comment-4651729", "4651729", "respond", "682627" )' aria-label='Reply to ABG'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1 parent highlander-comment" id="comment-4651730">
+				<div id="div-comment-4651730" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/734b6752674cb2fc682869cba2f2a578?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='http://www.facebook.com/100000394393339' rel='external nofollow' class='url'>Kate Garner</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 9:36 AM</a>		</div>
+
+		<p>Love her!  Will watch Hayley in anything.  I want more Agent Carter though.  And a time-travel story in an upcoming Marvel movie that brings Peggy to the future to be with Captain American.  (Yes, total shipper here.)</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651730#respond' onclick='return addComment.moveForm( "div-comment-4651730", "4651730", "respond", "682627" )' aria-label='Reply to Kate Garner'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-2 parent highlander-comment" id="comment-4651743">
+				<div id="div-comment-4651743" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://2.gravatar.com/avatar/b2bf09705799ad6b06ab942084342533?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Van</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 9:39 AM</a>		</div>
+
+		<p>Here here!!!</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651743#respond' onclick='return addComment.moveForm( "div-comment-4651743", "4651743", "respond", "682627" )' aria-label='Reply to Van'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-3 highlander-comment" id="comment-4651783">
+				<div id="div-comment-4651783" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/734b6752674cb2fc682869cba2f2a578?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='http://www.facebook.com/100000394393339' rel='external nofollow' class='url'>Kate Garner</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 9:47 AM</a>		</div>
+
+		<p>Oh, I know.  But time travel can change that timeline.  Any sci-fi nerd knows that. ;)</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651783#respond' onclick='return addComment.moveForm( "div-comment-4651783", "4651783", "respond", "682627" )' aria-label='Reply to Kate Garner'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt depth-2 parent highlander-comment" id="comment-4651755">
+				<div id="div-comment-4651755" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/3504a9f6ade73b5eb2cb8171212cb080?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Z</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 9:41 AM</a>		</div>
+
+		<p>That would be difficult as Hayley has already played an old version of the character in Cap and Emily Van Camp&#8217;s character is supposed to be her descendant.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651755#respond' onclick='return addComment.moveForm( "div-comment-4651755", "4651755", "respond", "682627" )' aria-label='Reply to Z'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-3 highlander-comment" id="comment-4651994">
+				<div id="div-comment-4651994" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/daad3eadf11ff7840c15ecfd3652b058?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Lia</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 10:31 AM</a>		</div>
+
+		<p>She has Alzheimer&#8217;s now, so maybe it would have been the result of a timey wimey mess w/ the timeline just so they could have that dance?! Yeah, a shipper&#8217;s heart can dream &#8230;</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651994#respond' onclick='return addComment.moveForm( "div-comment-4651994", "4651994", "respond", "682627" )' aria-label='Reply to Lia'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt thread-even depth-1 highlander-comment" id="comment-4651734">
+				<div id="div-comment-4651734" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/f3f7cd6358328c48e686aa531f904bf2?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Katie T</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 9:37 AM</a>		</div>
+
+		<p>Really hoping for an Agent Carter season 3 so glad to already hear that she will be able to do both if it does get renewed. This show sounds like it could be good too though so it would be great to have Hayley leading two shows</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651734#respond' onclick='return addComment.moveForm( "div-comment-4651734", "4651734", "respond", "682627" )' aria-label='Reply to Katie T'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1 highlander-comment" id="comment-4651789">
+				<div id="div-comment-4651789" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/a5b998e13cc4351be8af984ec6c79bdd?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Steve F.</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 9:48 AM</a>		</div>
+
+		<p>Anything to get more Hayley Atwell &#8211; she&#8217;s awesome!  (Also, fingers crossed that we do get a Season 3 of Agent Carter &#8211; why aren&#8217;t more people watching?)</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651789#respond' onclick='return addComment.moveForm( "div-comment-4651789", "4651789", "respond", "682627" )' aria-label='Reply to Steve F.'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt thread-even depth-1 parent highlander-comment" id="comment-4651794">
+				<div id="div-comment-4651794" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/c4dab5cd61c146ed352cf05447658d2f?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">smartysenior</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 9:50 AM</a>		</div>
+
+		<p>I hope she fakes an American accent for this one, I can&#8217;t understand a word she says in Agent Carter.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651794#respond' onclick='return addComment.moveForm( "div-comment-4651794", "4651794", "respond", "682627" )' aria-label='Reply to smartysenior'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment byuser comment-author-xomylifexo even depth-2 highlander-comment" id="comment-4652617">
+				<div id="div-comment-4652617" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://2.gravatar.com/avatar/87a679899363f23e61b305e1e23ff756?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='http://xomylifexo.wordpress.com' rel='external nofollow' class='url'>xomylifexo</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 12:53 PM</a>		</div>
+
+		<p>That says more about you than it does a clear and common accent.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4652617#respond' onclick='return addComment.moveForm( "div-comment-4652617", "4652617", "respond", "682627" )' aria-label='Reply to xomylifexo'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt depth-2 highlander-comment" id="comment-4656292">
+				<div id="div-comment-4656292" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/de815fa9138507f793612bfa978284b3?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">tvjunkie</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 11, 2016 at 9:32 AM</a>		</div>
+
+		<p>I wonder where you&#8217;re from.  Must be one of those parts of the country with a really mess up accent, because she sounds fine.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4656292#respond' onclick='return addComment.moveForm( "div-comment-4656292", "4656292", "respond", "682627" )' aria-label='Reply to tvjunkie'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1 highlander-comment" id="comment-4651804">
+				<div id="div-comment-4651804" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/f0dae7901d4749e0b4a7a0fa5cee7974?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Lysh</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 9:52 AM</a>		</div>
+
+		<p>I&#8217;m going to need Agent Carter (with Jarvis and Stark) for the rest of my life, but I&#8217;m glad if it&#8217;s renewed then she&#8217;ll be able to do both roles. It doesn&#8217;t really sound like my type of show, but I&#8217;m glad Hayley is getting more work and I may check it out because I have a slight girl crush.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651804#respond' onclick='return addComment.moveForm( "div-comment-4651804", "4651804", "respond", "682627" )' aria-label='Reply to Lysh'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt thread-even depth-1 parent highlander-comment" id="comment-4651854">
+				<div id="div-comment-4651854" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/d3ea8c060c0bdc7fdd599f71f95d864a?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Gospino</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 10:05 AM</a>		</div>
+
+		<p>The new show sounds awful. It seems very similar to a short-lived series called In Justice that was really mediocre despite the presence of Kyle MacLachlan. I expect cardboard characters with little personality and the same old, same old every week. Atwell deserves a better premise.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651854#respond' onclick='return addComment.moveForm( "div-comment-4651854", "4651854", "respond", "682627" )' aria-label='Reply to Gospino'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment even depth-2 highlander-comment" id="comment-4651883">
+				<div id="div-comment-4651883" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://2.gravatar.com/avatar/b3ce1f523245bee0c352e86acee6f17e?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">John NYC</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 10:12 AM</a>		</div>
+
+		<p>Never heard of it so I&#8217;ll wait to judge what the new show&#8217;s people actually deliver before judging this isn&#8217;t what Attwell &#8220;deserves&#8221;.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651883#respond' onclick='return addComment.moveForm( "div-comment-4651883", "4651883", "respond", "682627" )' aria-label='Reply to John NYC'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt depth-2 highlander-comment" id="comment-4653642">
+				<div id="div-comment-4653642" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/482befb2455c3e2692e59d23708dfb95?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">JP</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 4:45 PM</a>		</div>
+
+		<p>For those who remember that short lived series, MacLachlan&#8217;s appearances were minimal and the rest of the characters were pretty shallow . . . the cases that were investigated weren&#8217;t all that interesting which only added to its demise. One can only hope that lessons were learned from that &#8216;attempt&#8217; .</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4653642#respond' onclick='return addComment.moveForm( "div-comment-4653642", "4653642", "respond", "682627" )' aria-label='Reply to JP'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1 highlander-comment" id="comment-4651898">
+				<div id="div-comment-4651898" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/3f8f6f7b335fe1bf5201d0af020b41fd?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Jake L.</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 10:15 AM</a>		</div>
+
+		<p>Well, obviously if Agent Carter were to be renewed, it would be for the usual reduced amount of episodes as fill-in for SHIELD, so presumably that wouldn&#8217;t take as long to film as a standard 22-episode cycle, so she could probably easily do both as long as Carter&#8217;s renewal would fit its usual episode count.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651898#respond' onclick='return addComment.moveForm( "div-comment-4651898", "4651898", "respond", "682627" )' aria-label='Reply to Jake L.'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt thread-even depth-1 highlander-comment" id="comment-4651915">
+				<div id="div-comment-4651915" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://2.gravatar.com/avatar/e9a65decb94732ab064c06d6cdd8b1c3?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Paul D</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 10:18 AM</a>		</div>
+
+		<p>The more Hayley Atwell we get to see, the better! She is an absolute knockout with the voice of an angel!</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651915#respond' onclick='return addComment.moveForm( "div-comment-4651915", "4651915", "respond", "682627" )' aria-label='Reply to Paul D'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1 highlander-comment" id="comment-4651945">
+				<div id="div-comment-4651945" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/1e0b4a6d21990c900a3d095e157e2534?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">john036</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 10:23 AM</a>		</div>
+
+		<p>Well the fact that the pilot is coming from ABC, I have a feeling that Agent Carter is ending after this season.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651945#respond' onclick='return addComment.moveForm( "div-comment-4651945", "4651945", "respond", "682627" )' aria-label='Reply to john036'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment byuser comment-author-lshoemaker odd alt thread-even depth-1 parent highlander-comment" id="comment-4651968">
+				<div id="div-comment-4651968" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://2.gravatar.com/avatar/b89436398958c7bf3dd599208f79079a?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">lshoemaker</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 10:27 AM</a>		</div>
+
+		<p>I think Michelle Fazeekas and Tara Butters are also working on another series in development. I love &#8220;Agent Carter &#8221; but I think with this news, we&#8217;re looking at the end of the series no matter what ABC says right now. It&#8217;s unfortunate, because this has been a consistently good series, with great stories and wonderful acting. I often wonder if this show  would have done better had it been given it&#8217;s own timeslot this season, (not against the monster NCIS block and made to seem more important by ABC) instead of subbing in for AOS. Oh well, at least we got 18 episodes.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651968#respond' onclick='return addComment.moveForm( "div-comment-4651968", "4651968", "respond", "682627" )' aria-label='Reply to lshoemaker'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment byuser comment-author-mattmitovich comment-author-is-site-member bypostauthor even depth-2 parent highlander-comment" id="comment-4652008">
+				<div id="div-comment-4652008" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://2.gravatar.com/avatar/b002d613f7b7f5439312fb862182f685?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Matt Webb Mitovich</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 10:34 AM</a>		</div>
+
+		<p><strong>&#8220;Don&#8217;t cry because it&#8217;s over, smile because it happened.&#8221;</strong></p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4652008#respond' onclick='return addComment.moveForm( "div-comment-4652008", "4652008", "respond", "682627" )' aria-label='Reply to Matt Webb Mitovich'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment byuser comment-author-lshoemaker odd alt depth-3 highlander-comment" id="comment-4652102">
+				<div id="div-comment-4652102" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://2.gravatar.com/avatar/b89436398958c7bf3dd599208f79079a?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">lshoemaker</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 10:57 AM</a>		</div>
+
+		<p>I don&#8217;t think quotes from Dr. Suess will help here, Matt. But thanks for trying. I just get discouraged when good tv doesn&#8217;t survive. &#8220;Marvel&#8217;s Most Wanted&#8221; is probably going to be just craptastic,  no matter how good Adrianne Palicki is. Maybe they can cast Adrianne as Hayley&#8217;s long lost sister in &#8220;Conviction&#8221; when that fails. Sorry&#8230;when I think about the quality of Marvel shows on broadcast network that are gonna be given a chance versus the one they&#8217;re dumping, I get frustrated. (Yes, AOS is better, but think of how good it could be if Fazeekas, Butters and their writers were involved.)</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4652102#respond' onclick='return addComment.moveForm( "div-comment-4652102", "4652102", "respond", "682627" )' aria-label='Reply to lshoemaker'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1 highlander-comment" id="comment-4651975">
+				<div id="div-comment-4651975" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/32d99ebbc362d4c5ece767e1b7c93ef2?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Dennis</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 10:28 AM</a>		</div>
+
+		<p>Soooooooook basically Agent Carter is cancelled.  But hey, super nice for ABC to kind of ensure her employment.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4651975#respond' onclick='return addComment.moveForm( "div-comment-4651975", "4651975", "respond", "682627" )' aria-label='Reply to Dennis'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment byuser comment-author-girlieq24 odd alt thread-even depth-1 highlander-comment" id="comment-4652010">
+				<div id="div-comment-4652010" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://2.gravatar.com/avatar/852f25cf5e3de070033d83713ca80775?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">girlieq24</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 10:35 AM</a>		</div>
+
+		<p>I love her, so I will watch anything she is in.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4652010#respond' onclick='return addComment.moveForm( "div-comment-4652010", "4652010", "respond", "682627" )' aria-label='Reply to girlieq24'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1 highlander-comment" id="comment-4652023">
+				<div id="div-comment-4652023" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/f2d9fe69a7f20a27c738585e949bd761?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='http://www.theassemblynyc.com' rel='external nofollow' class='url'>The Assembly NYC</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 10:37 AM</a>		</div>
+
+		<p>If there is anyone who could pull off two kick-ass shows, it&#8217;s Hayley Atwell. This woman could read the dictionary and win an Emmy.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4652023#respond' onclick='return addComment.moveForm( "div-comment-4652023", "4652023", "respond", "682627" )' aria-label='Reply to The Assembly NYC'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt thread-even depth-1 highlander-comment" id="comment-4652231">
+				<div id="div-comment-4652231" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/6d1b78ea8c3e74b7a40f3d448ab01eb8?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Walkie</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 11:23 AM</a>		</div>
+
+		<p>Smart for Hayley to get another job lined up.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4652231#respond' onclick='return addComment.moveForm( "div-comment-4652231", "4652231", "respond", "682627" )' aria-label='Reply to Walkie'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1 highlander-comment" id="comment-4652251">
+				<div id="div-comment-4652251" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/452e1b6f662726b98eb9f02f543845fe?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Robin</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 11:27 AM</a>		</div>
+
+		<p>I like Hayley so even if Agent Carter goes away it would be cool to have her on tv again.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4652251#respond' onclick='return addComment.moveForm( "div-comment-4652251", "4652251", "respond", "682627" )' aria-label='Reply to Robin'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt thread-even depth-1 highlander-comment" id="comment-4652490">
+				<div id="div-comment-4652490" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/4b7a669d382021c270ac8522bcc5fc94?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">R.O.B.</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 12:20 PM</a>		</div>
+
+		<p>Agent Carter is great.  What is wrong with people?</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4652490#respond' onclick='return addComment.moveForm( "div-comment-4652490", "4652490", "respond", "682627" )' aria-label='Reply to R.O.B.'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1 parent highlander-comment" id="comment-4652691">
+				<div id="div-comment-4652691" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/1370a5f958f11a78d70a7ea0d8d69d9c?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Cassandra</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 1:06 PM</a>		</div>
+
+		<p>Agent Carter should stay on the air. It&#8217;s smart, it&#8217;s funny, it has a wonderful cast &#8211; and I have no idea why all these things haven&#8217;t attracted more viewers. I guess they&#8217;d rather be watching The Bachelor or some repetitive crime show that&#8217;s been on for fifteen years. I do not understand people at all.</p>
+<p>Peggy is one of my favorite characters not only in the MCU, but ever, and to lose her would just be a crying shame. She&#8217;s strong, fearless, caring, funny, clever, and intelligent, and we need more women like her on TV and in the movies, certainly not less. If ABC takes her away from us, at least let Netflix save her!</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4652691#respond' onclick='return addComment.moveForm( "div-comment-4652691", "4652691", "respond", "682627" )' aria-label='Reply to Cassandra'>Reply</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment odd alt depth-2 highlander-comment" id="comment-4652823">
+				<div id="div-comment-4652823" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/9aa176e5c577a987a55979fc0fa35304?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Alicia</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 1:33 PM</a>		</div>
+
+		<p>I agree 100%. Peggy is so awesome! This cannot be the end of her story!!!</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4652823#respond' onclick='return addComment.moveForm( "div-comment-4652823", "4652823", "respond", "682627" )' aria-label='Reply to Alicia'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1 highlander-comment" id="comment-4652819">
+				<div id="div-comment-4652819" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://2.gravatar.com/avatar/2d1fc3c8531800d90b7c6805ae3c1f73?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='http://aol' rel='external nofollow' class='url'>Ruth</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 1:32 PM</a>		</div>
+
+		<p>I really like Agent Carter, so I hope it is renewed.  They need to advertise more.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4652819#respond' onclick='return addComment.moveForm( "div-comment-4652819", "4652819", "respond", "682627" )' aria-label='Reply to Ruth'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="comment-4653374">
+				<div id="div-comment-4653374" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/79234ef2d1aac6333f018891ad666af6?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Kristina</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 3:30 PM</a>		</div>
+
+		<p>So happy for her. I love Hayley Atwell, and this show sounds interesting and different, so I&#8217;m in. I&#8217;d be even happier if this show got picked up AND Agent Carter got renewed, but that&#8217;s probably pushing it.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4653374#respond' onclick='return addComment.moveForm( "div-comment-4653374", "4653374", "respond", "682627" )' aria-label='Reply to Kristina'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1 highlander-comment" id="comment-4653768">
+				<div id="div-comment-4653768" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/43fd0ea8bfb5faa9da4338f422c53c86?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">irishrose4583</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 10, 2016 at 5:25 PM</a>		</div>
+
+		<p>I&#8217;m so torn&#8230;.on one hand I love Hayley Atwell and want her to be super successful! on the other hand I love Peggy Carter and want to watch it forever!! She&#8217;s my fave female marvel character-maybe just fave character!!:)</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4653768#respond' onclick='return addComment.moveForm( "div-comment-4653768", "4653768", "respond", "682627" )' aria-label='Reply to irishrose4583'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="comment-4655383">
+				<div id="div-comment-4655383" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/3097c6694ab13f5c045d4faad1a5ca41?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">dee</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 11, 2016 at 3:31 AM</a>		</div>
+
+		<p>they better keep her character british, i would be heartbroken if she does this role with an american accent.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4655383#respond' onclick='return addComment.moveForm( "div-comment-4655383", "4655383", "respond", "682627" )' aria-label='Reply to dee'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment byuser comment-author-kirads09 even thread-even depth-1 highlander-comment" id="comment-4656118">
+				<div id="div-comment-4656118" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/0d91eee25d7afebe32f6c81457e9359e?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='http://kirads09.wordpress.com' rel='external nofollow' class='url'>kirads09</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 11, 2016 at 8:22 AM</a>		</div>
+
+		<p>I am glad to have Hayley in another series but hope this is not a bad sign for Agent Carter.  So much fun and a great S2 so far &#8211; I&#8217;m all #TeamRose :-)</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4656118#respond' onclick='return addComment.moveForm( "div-comment-4656118", "4656118", "respond", "682627" )' aria-label='Reply to kirads09'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="comment-4663945">
+				<div id="div-comment-4663945" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/391af01a0ee9126a66c66db111249e72?s=32&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#038;r=G' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">lame</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comment-list-wrapper">
+			February 14, 2016 at 8:37 AM</a>		</div>
+
+		<p>For those  who&#8217;ve  never  seen  Agent Carter, it&#8217;s  a  dramaty  with emphasis  on  comedy.  Peggy Cater can be badass, difference being  she does it wearing skirts.  The exception  is S2,ep5 which   was  hilariously  hysterical  from the scene right out of &#8220;Gun a fight At The OK Corral&#8221; to the 1940&#8217;s  song &#8220;put that pistol down boy,&#8221; to Peggy zapping that Letcher 3 or t extra times knowing it could cause brain damage  or the look on Rose&#8217;s face looking to take out a second  thug.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/?replytocom=4663945#respond' onclick='return addComment.moveForm( "div-comment-4663945", "4663945", "respond", "682627" )' aria-label='Reply to lame'>Reply</a></div>
+				</div>
+		</li><!-- #comment-## -->
+			</ol>
+			<div class='pre-next-comment-link'></div>
+			<div class='next-comment-link-wrapper'>
+				<a href="http://tvline.com/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/#comments"  id="more-comments" onclick="tvline_comments.more_comments(682627); return false;" pagenum="1" maxpages="1" >See More  Comments</a>			</div>
+		</div>
+	</div>
+
+			
+		</main>
+		<!-- #main -->
+	</div><!-- #primary -->
+
+<div class="sidebar-wrapper nocontent">
+	<div id="secondary" class="sidebar-area" role="complementary">
+		<ul>
+						<div class="admz" id="adm-widget-sidebar-half-page-ros">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-ad-tvline-ros-300x600-uid2" class="ad-rotatable"></div>
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript" class="script-mobile">
+	new AdLoader('#adm-widget-sidebar-half-page-ros', [
+				{
+			"device": "Desktop",
+			"width": 300,
+			"height": 600		}			]);
+</script>
+<li id="mmc_2day_popular-2" class="widget widget_mmc_2day_popular"><h3 class="widgettitle">Today's Hottest Stories</h3><div class="border"></div><ul class="module-content todays-hot"><li><div><a href="http://tvline.com/2015/10/16/renewed-tv-shows-2016-renewal-scorecard-cancelled-series/" title="2016 Renewal Scorecard: What&#039;s Coming Back? What&#039;s Getting Cancelled? What&#039;s on the Bubble?"><span class="counter">1</span><span class="title"><span>2016 Renewal Scorecard</span>: What's Coming Back? What's Getting Cancelled? What's on the Bubble?</span><span class="image"><img src="https://pmctvline2.files.wordpress.com/2015/10/renewal-scorecard-new.jpg?w=620" alt="2016 Renewal Scorecard: What&#039;s Coming Back? What&#039;s Getting Cancelled? What&#039;s on the&nbsp;Bubble?" class="Thumbnail thumbnail todays-hot AAA" width="100" height="60" /></span></a></div></li><li><div><a href="http://tvline.com/2016/02/16/gilmore-girls-revival-paul-anka-returns-dog-cast-netflix/" title="Gilmore Girls Raises the Woof, Retrieves &#039;Paul Anka&#039; for Netflix Revival"><span class="counter">2</span><span class="title"><span>Gilmore Girls Raises the Woof, Retrieves 'Paul Anka' for Netflix Revival</span></span><span class="image"><img src="https://pmctvline2.files.wordpress.com/2016/02/gilmore-girls-paul-anka.jpg?w=620" alt="Gilmore Girls Raises the Woof, Retrieves &#039;Paul Anka&#039; for Netflix&nbsp;Revival" class="Thumbnail thumbnail todays-hot AAA" width="100" height="60" /></span></a></div></li><li><div><a href="http://tvline.com/2016/02/16/the-flash-season-2-recap-zoom-takes-jay-garrick/" title="The Flash Recap: Cannon Fodder &mdash; Plus, What Was Iron Mask&#039;s Message?"><span class="counter">3</span><span class="title"><span>The Flash Recap</span>: Cannon Fodder &mdash; Plus, What Was Iron Mask's Message?</span><span class="image"><img src="https://pmctvline2.files.wordpress.com/2016/02/flash-recap-jay-taken-earth-two-zoom.jpg?w=620" alt="The Flash -- &quot;Escape From Earth-2&quot; -- Image FLA214a_0277b -- Pictured (L-R): Zoom and Grant Gustin as The Flash -- Photo: Diyah Pera/The CW -- ÃÂ© 2016 The CW Network, LLC. All rights reserved." class="Thumbnail thumbnail todays-hot AAA" width="100" height="60" /></span></a></div></li><li><div><a href="http://tvline.com/2016/02/17/greys-anatomy-season-12-spoilers-meredith-shrink/" title="Grey&#039;s Anatomy Sneak Peek: Mer&#039;s Pals Fear She&#039;ll &#039;Explode&#039; &mdash; Will She?"><span class="counter">4</span><span class="title"><span>Grey's Anatomy Sneak Peek</span>: Mer's Pals Fear She'll 'Explode' &mdash; Will She?</span><span class="image"><img src="https://pmctvline2.files.wordpress.com/2016/02/mer.png?w=620" alt="Grey&#039;s Anatomy Sneak Peek: Mer&#039;s Pals Fear She&#039;ll &#039;Explode&#039; — Will&nbsp;She?" class="Thumbnail thumbnail todays-hot AAA" width="100" height="60" /></span></a></div></li><li><div><a href="http://tvline.com/2016/02/13/ellen-pompeo-performance-greys-anatomy-the-sound-of-silence-season-12/" title="Performer of the Week: Ellen Pompeo"><span class="counter">5</span><span class="title"><span>Performer of the Week</span>: Ellen Pompeo</span><span class="image"><img src="https://pmctvline2.files.wordpress.com/2016/02/ellen.png?w=621" alt="Performer of the Week: Ellen&nbsp;Pompeo" class="Thumbnail thumbnail todays-hot AAA" width="100" height="60" /></span></a></div></li></ul></li><li id="pmc_most_com_stories-3" class="widget mcs_stories"><h3 class="widgettitle">Most Commented</h3><div class="border"></div><ul class="mostcommented"><li class="first" ><div><span class="counter">1</span><a class="title" href="http://tvline.com/2016/02/16/the-flash-season-2-recap-zoom-takes-jay-garrick/" title="The Flash Recap: Cannon Fodder &mdash; Plus, What Was Iron Mask&#039;s&hellip;"><span>The Flash Recap</span>: Cannon Fodder &mdash; Plus, What Was Iron Mask's&hellip;</a><span class="comment-count">184</span></div></li><li  ><div><span class="counter">2</span><a class="title" href="http://tvline.com/2016/02/15/the-flash-season-2-earth-two-candice-patton-interview/" title="The Flash&#039;s Candice Patton Cheers &#039;Badass&#039; Iris of Earth-Two and the&hellip;"><span>The Flash's Candice Patton Cheers 'Badass' Iris of Earth-Two and the&hellip;</span></a><span class="comment-count">131</span></div></li><li  ><div><span class="counter">3</span><a class="title" href="http://tvline.com/2016/02/17/paul-lee-abc-president-quits-leaving/" title="Paul Lee Steps Down as ABC President; Channing Dungey Tapped as&hellip;"><span>Paul Lee Steps Down as ABC President; Channing Dungey Tapped as&hellip;</span></a><span class="comment-count">84</span></div></li><li  ><div><span class="counter">4</span><a class="title" href="http://tvline.com/2016/02/15/castle-season-8-recap-rick-meets-stepmother-rita/" title="Castle Recap: Stepmother, Russia"><span>Castle Recap</span>: Stepmother, Russia</a><span class="comment-count">78</span></div></li><li  ><div><span class="counter">5</span><a class="title" href="http://tvline.com/2016/02/16/reality-check-american-idol-top-14-thomas-stringfellow-gianna-isabella/" title="Reality Check: How the American Idol Judges Are Failing Their Faves&hellip;"><span>Reality Check</span>: How the American Idol Judges Are Failing Their Faves&hellip;</a><span class="comment-count">55</span></div></li></ul></li><div class="admz" id="adm-widget-sidebar-300x250-ros">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="div-gpt-ad-tvline-ros-300x250-uid3" class="ad-rotatable"></div>
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript" class="script-mobile">
+	new AdLoader('#adm-widget-sidebar-300x250-ros', [
+				{
+			"device": "Desktop",
+			"width": 300,
+			"height": 250		}			]);
+</script>
+<li>		<div class="what-to-watch">
+			<div class="gradient top"></div>
+			<span><a href="http://tvline.com/what-to-watch/">What to Watch Tonight</a></span>
+			<ul>
+									<li>
+						<a href="http://tvline.com/what-to-watch/">
+							<time>
+								<span>08:00</span>
+								<ul>
+									<li>P</li>
+									<li>M</li>
+								</ul>
+							</time>
+							<span>Survivor</span>
+						</a>
+					</li>
+									<li>
+						<a href="http://tvline.com/what-to-watch/">
+							<time>
+								<span>08:00</span>
+								<ul>
+									<li>P</li>
+									<li>M</li>
+								</ul>
+							</time>
+							<span>The Mysteries of Laura</span>
+						</a>
+					</li>
+									<li>
+						<a href="http://tvline.com/what-to-watch/">
+							<time>
+								<span>08:00</span>
+								<ul>
+									<li>P</li>
+									<li>M</li>
+								</ul>
+							</time>
+							<span>Arrow</span>
+						</a>
+					</li>
+									<li>
+						<a href="http://tvline.com/what-to-watch/">
+							<time>
+								<span>08:30</span>
+								<ul>
+									<li>P</li>
+									<li>M</li>
+								</ul>
+							</time>
+							<span>The Goldbergs</span>
+						</a>
+					</li>
+							</ul>
+			<a class="full-story" href="http://tvline.com/what-to-watch/">Full Story</a>
+
+			<div class="gradient bottom"></div>
+		</div>
+		</li><li id="_tvline_voices-4" class="widget widget__tvline_voices"><ul class='tvline-voices'><h3 class="widgettitle">Our Team</h3><div class="border"></div>			<li>
+				<div>
+					<a class="author-image" rel="author" href="http://tvline.com/author/michael-ausiello/"
+					   title="Michael Ausiello" rel="nofollow">
+						<img width="39" height="39" src="https://pmctvline2.files.wordpress.com/2014/05/michael_final_v2.jpg?w=39&amp;h=39&amp;crop=1" class="attachment-author-thumb size-author-thumb wp-post-image" alt="michael_final_v2" />					</a>
+
+					<h3>
+						<a rel="author" href="http://tvline.com/author/michael-ausiello/"
+						   title="Michael Ausiello">
+							Michael Ausiello						</a>
+					</h3>
+
+					<h4 class="voices-widget-post-title">
+													<a href="http://tvline.com/2016/02/17/abigail-spencer-time-travel-nbc-cast-shawn-ryan-eric-kripke/">
+								<p><i>Rectify</i>'s Abigail Spencer to Star in NBC's <i>Time</i>&hellip; </p>
+							</a>
+											</h4>
+				</div>
+			</li>
+					<li>
+				<div>
+					<a class="author-image" rel="author" href="http://tvline.com/author/matt-webb-mitovich/"
+					   title="Matt Webb Mitovich" rel="nofollow">
+						<img width="39" height="39" src="https://pmctvline2.files.wordpress.com/2014/05/matt_mitovich_final_v3.jpg?w=39&amp;h=39&amp;crop=1" class="attachment-author-thumb size-author-thumb wp-post-image" alt="matt_mitovich_final_v3" />					</a>
+
+					<h3>
+						<a rel="author" href="http://tvline.com/author/matt-webb-mitovich/"
+						   title="Matt Webb Mitovich">
+							Matt Webb Mitovich						</a>
+					</h3>
+
+					<h4 class="voices-widget-post-title">
+													<a href="http://tvline.com/2016/02/17/katy-mixon-mike-molly-cast-fattest-housewife-pilot/">
+								<p><i>Mike &amp; Molly</i>'s Katy Mixon to Star in ABC's <i>Second&hellip;</i> </p>
+							</a>
+											</h4>
+				</div>
+			</li>
+					<li>
+				<div>
+					<a class="author-image" rel="author" href="http://tvline.com/author/michael-slezak/"
+					   title="Michael Slezak" rel="nofollow">
+						<img width="39" height="39" src="https://pmctvline2.files.wordpress.com/2014/05/slezak_final.jpg?w=39&amp;h=39&amp;crop=1" class="attachment-author-thumb size-author-thumb wp-post-image" alt="Slezak_Final" />					</a>
+
+					<h3>
+						<a rel="author" href="http://tvline.com/author/michael-slezak/"
+						   title="Michael Slezak">
+							Michael Slezak						</a>
+					</h3>
+
+					<h4 class="voices-widget-post-title">
+													<a href="http://tvline.com/2016/02/17/american-idol-recap-top-24-performances-trent-harmon-dalton-rapattoni/">
+								<p><i>American Idol</i> Semifinals (Week 2) Recap: What Are&hellip; </p>
+							</a>
+											</h4>
+				</div>
+			</li>
+					<li>
+				<div>
+					<a class="author-image" rel="author" href="http://tvline.com/author/kimberly-roots/"
+					   title="Kimberly Roots" rel="nofollow">
+						<img width="39" height="39" src="https://pmctvline2.files.wordpress.com/2014/05/kimberly_final.jpg?w=39&amp;h=39&amp;crop=1" class="attachment-author-thumb size-author-thumb wp-post-image" alt="kimberly_final" />					</a>
+
+					<h3>
+						<a rel="author" href="http://tvline.com/author/kimberly-roots/"
+						   title="Kimberly Roots">
+							Kimberly Roots						</a>
+					</h3>
+
+					<h4 class="voices-widget-post-title">
+													<a href="http://tvline.com/2016/02/17/josh-bowman-time-after-time-pilot-cast-jack-the-ripper/">
+								<p><i>Revenge</i>'s Josh Bowman Nabs Deadly Role in ABC's <i>Ti&hellip;</i> </p>
+							</a>
+											</h4>
+				</div>
+			</li>
+					<li>
+				<div>
+					<a class="author-image" rel="author" href="http://tvline.com/author/andy-swift/"
+					   title="Andy Swift" rel="nofollow">
+						<img width="39" height="39" src="https://pmctvline2.files.wordpress.com/2014/02/andy_final.jpg?w=39&amp;h=39&amp;crop=1" class="attachment-author-thumb size-author-thumb wp-post-image" alt="Andy_Final" />					</a>
+
+					<h3>
+						<a rel="author" href="http://tvline.com/author/andy-swift/"
+						   title="Andy Swift">
+							Andy Swift						</a>
+					</h3>
+
+					<h4 class="voices-widget-post-title">
+													<a href="http://tvline.com/2016/02/17/awkward-season-5b-trailer-mattys-baby-luke-returns-video/">
+								<p><i>Awkward</i> Season 5B Trailer: Jenna and the Gang&hellip; </p>
+							</a>
+											</h4>
+				</div>
+			</li>
+					<li>
+				<div>
+					<a class="author-image" rel="author" href="http://tvline.com/author/vlada-gelman/"
+					   title="Vlada Gelman" rel="nofollow">
+						<img width="39" height="39" src="https://pmctvline2.files.wordpress.com/2014/05/gelman_vlada_final_v3.jpg?w=39&amp;h=39&amp;crop=1" class="attachment-author-thumb size-author-thumb wp-post-image" alt="Gelman_Vlada_final_v3" />					</a>
+
+					<h3>
+						<a rel="author" href="http://tvline.com/author/vlada-gelman/"
+						   title="Vlada Gelman">
+							Vlada Gelman						</a>
+					</h3>
+
+					<h4 class="voices-widget-post-title">
+													<a href="http://tvline.com/2016/02/17/arrow-season-4-recap-damien-darhk-kidnaps-william/">
+								<p><i>Arrow</i> Recap: When Buildings Attack &mdash; Plus&hellip; </p>
+							</a>
+											</h4>
+				</div>
+			</li>
+					<li>
+				<div>
+					<a class="author-image" rel="author" href="http://tvline.com/author/rebecca-iannucci/"
+					   title="Rebecca Iannucci" rel="nofollow">
+						<img width="39" height="39" src="https://pmctvline2.files.wordpress.com/2013/09/rebecca-iannucci-1.jpg?w=39&amp;h=39&amp;crop=1" class="attachment-author-thumb size-author-thumb wp-post-image" alt="rebecca-iannucci-1" />					</a>
+
+					<h3>
+						<a rel="author" href="http://tvline.com/author/rebecca-iannucci/"
+						   title="Rebecca Iannucci">
+							Rebecca Iannucci						</a>
+					</h3>
+
+					<h4 class="voices-widget-post-title">
+													<a href="http://tvline.com/2016/02/17/american-crime-school-shooting-season-2-connor-jessup/">
+								<p><i>American Crime</i>: Connor Jessup on the Aftermath of&hellip; </p>
+							</a>
+											</h4>
+				</div>
+			</li>
+		</ul></li>		</ul>
+	</div>
+	<!-- #secondary -->
+</div>
+
+
+	</div>
+</div><!-- #content -->
+<footer id="colophon" class="site-footer" role="contentinfo">
+
+	<div id="other-pmc-properties">
+		<ul id="property-snippets">
+			
+			<li class="footer-sites deadline">
+				<a href="http://deadline.com/2016/02/cbs-ratings-all-10-of-weeks-top-programs-1201704838/">
+					<h5 class="deadline-logo logos"></h5>
+					<img src="//i1.wp.com/pmcdeadline2.files.wordpress.com/2014/11/cbs-logo.jpg?resize=180%2C101" width="180" height="101" alt="Deadline" />
+					<p>CBS Scores All 10 Of Week's Most-Watched Shows &ndash; A First In L+SD&hellip;</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites hollywoodlife">
+				<a href="http://hollywoodlife.com/2016/02/17/big-ang-alive-not-dead-mob-wives-jennifer-graziano-confirms/">
+					<h5 class="hollywoodlife-logo logos"></h5>
+					<img src="//i2.wp.com/pmchollywoodlife.files.wordpress.com/2016/02/big-ang-alive-ftr.jpg?resize=180%2C101" width="180" height="101" alt="HollywoodLife" />
+					<p>Big Ang Alive: 'Mob Wives' Creator Jennifer Graziano Confirms To&hellip;</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites variety">
+				<a href="http://variety.com/2016/tv/features/american-crime-taylor-shoots-wes-episode-7-connor-jessup-1201705687/">
+					<h5 class="variety-logo logos"></h5>
+					<img src="//i0.wp.com/pmcvariety.files.wordpress.com/2016/02/141544_5526.jpg?resize=180%2C101" width="180" height="101" alt="Variety" />
+					<p>'American Crime' Recap: Connor Jessup Breaks Down Taylor's&hellip;</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites bgr">
+				<a href="http://bgr.com/2016/02/17/apple-designer-brain-ai/">
+					<h5 class="bgr-logo logos"></h5>
+					<img src="//i2.wp.com/boygeniusreport.files.wordpress.com/2015/11/computer.jpg?resize=180%2C101" width="180" height="101" alt="BGR" />
+					<p>Former Apple designer brings us one step closer to advanced AI&hellip;</p>
+				</a>
+			</li>
+		
+			<li class="footer-sites wwd">
+				<a href="http://wwd.com/retail-news/designer-luxury/hermes-plans-to-relocate-hong-kong-flagship-10358665/">
+					<h5 class="wwd-logo logos"></h5>
+					<img src="https://s0.wp.com/wp-content/themes/vip/pmc-plugins/pmc-footer/images/trans.png" width="180" height="101" alt="WWD" />
+					<p>Hermes Plans to Relocate Hong Kong Flagship</p>
+				</a>
+			</li>
+				</ul>
+
+		<section class="footer-links">
+			<ul>
+				<li><a href="/about-us/" title="about" rel="nofollow">About Us</a></li>
+				<li><a href="/advertise/" title="advertise" rel="nofollow">Advertise</a></li>
+				<li><a href="/terms-and-conditions/" title="terms & conditions" rel="nofollow">Terms & Conditions</a>
+				</li>
+				<li><a href="/privacy-policy/" title="privacy policy" rel="nofollow">Privacy Policy</a></li>
+				<li><a href="/contact-us/" title="contact us" rel="nofollow">Contact Us</a></li>
+				<li><a href="http://pages.email.tvline.com/signup/" rel="publisher">Newsletter</a></li>
+			</ul>
+		</section>
+
+		<div class="pmc-logo"><a href="http://www.pmc.com/" title="PMC Network"><span class="pmc-logo logos"></span><span class="power-content">The Power of Content</span></a>
+		</div>
+
+
+		<ul class="pmc-properties icon-pmc-logos">
+			<li class="variety-logo logos"><a href="http://variety.com"><span class="icon-logo-variety"></span></a></li>
+			<li class="deadline-logo logos"><a href="http://deadline.com"><span class="icon-logo-deadline"></span></a></li>
+			<li class="hollywoodlife-logo logos"><a href="http://hollywoodlife.com/"><span class="icon-logo-hollywoodlife"></span></a></li>
+			<li class="entv-logo logos"><a href="http://youtube.com/entv"><span class="icon-logo-entv"></span></a></li>
+			<li class="india-logo logos"><a href="http://india.com"><span class="icon-logo-indiadotcom"></span></a></li>
+			<li class="bgr-logo logos"><a href="http://bgr.com/"><span class="icon-logo-bgr"></span></a></li>
+			<li class="wwd-logo logos"><a href="http://wwd.com/"><span class="icon-logo-wwd"></span></a></li>
+			<li class="fn-logo logos"><a href="http://footwearnews.com/"><span class="icon-logo-fn"></span></a></li>
+		</ul>
+		<p class="copyright">Copyright &copy; 2016 TVLine Media, LLC. All rights
+			reserved.</p>
+					<p class="copyright powered-by-vip">Powered by <a href="https://vip.wordpress.com/" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></p>
+		
+
+	</div>
+	<!-- /#other-pmc-properties -->
+
+
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' class="script-mobile">
+pmc_adm_gpt.init({
+    "ad_targetings": {
+        "host": [
+            "tvline.com"
+        ],
+        "kw": [
+            "casting-news",
+            "pilots",
+            "abc",
+            "conviction",
+            "hayley-atwell",
+            "marvels-agent-carter"
+        ]
+    },
+    "ad_list": {
+        "default": [
+            {
+                "targeting": {
+                    "pos": "top"
+                },
+                "slot": "3782/tvline/ros",
+                "id": "div-gpt-ad-tvline-ros-728x90-uid0",
+                "width": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ]
+            },
+            {
+                "targeting": {
+                    "pos": "top"
+                },
+                "slot": "3782/tvline/ros",
+                "id": "div-gpt-ad-tvline-ros-728x90-uid0-oop",
+                "width": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ],
+                "oop": true
+            },
+            {
+                "targeting": {
+                    "pos": "bottom"
+                },
+                "slot": "3782/tvline/ros",
+                "id": "div-gpt-ad-tvline-ros-620x250-uid1",
+                "width": [
+                    [
+                        620,
+                        250
+                    ]
+                ]
+            },
+            {
+                "targeting": {
+                    "pos": "top"
+                },
+                "slot": "3782/tvline/ros",
+                "id": "div-gpt-ad-tvline-ros-300x600-uid2",
+                "width": [
+                    [
+                        300,
+                        600
+                    ],
+                    [
+                        300,
+                        1050
+                    ],
+                    [
+                        300,
+                        251
+                    ]
+                ]
+            },
+            {
+                "targeting": {
+                    "pos": "bottom"
+                },
+                "slot": "3782/tvline/ros",
+                "id": "div-gpt-ad-tvline-ros-300x250-uid3",
+                "width": [
+                    [
+                        300,
+                        250
+                    ]
+                ]
+            }
+        ]
+    }
+});
+</script>
+
+<!-- wpcom_wp_footer -->
+<script type="text/javascript">var pmc_gallery_jsdata = {"gallery_first":0,"ad_click":"3","ad_interstitial":"","interstitial_duration":"","interstitial_start":0,"shortcode":"0"};</script>		<script type="text/javascript">
+
+			try {
+
+				/**
+				 * Check if GA Universal API is available or not. If both
+				 * UA API & old API exist then first preference goes to UA API.
+				 *
+				 * @version 2016-01-28 Amit Gupta - PMCVIP-873
+				 */
+				if ( typeof window.ga !== 'undefined' ) {
+
+					ga( 'send', 'pageview', location.pathname + location.hash );
+
+				} else if ( ( typeof _gaq !== "undefined" ) && ( typeof pmc_do_analytics_pagecount == "undefined" || pmc_do_analytics_pagecount === true ) ) {
+
+					_gaq.push(['_trackPageview', location.pathname + location.hash]);
+
+				}
+
+				
+			} catch ( e ) {}
+
+		</script>
+	<script type="text/liquid" id="ac_article">
+	<div class="ac_title">{{ result | highlight: 'title' | unescape }}</div>
+	<div class="ac_sub">{{ result.published_at | date: "%h %d, %Y" }}</div>
+</script>
+
+<script type="text/liquid" id="ac_tag">
+	<div class="ac_title">
+		<a href="{{ result.url }}">{{ result.name }}</a>
+	</div>
+</script>
+	<div style="display:none">
+	<div class="grofile-hash-map-9ccdd8ad2c368b7ed45b0b5dd17579c7">
+	</div>
+	<div class="grofile-hash-map-b002d613f7b7f5439312fb862182f685">
+	</div>
+	<div class="grofile-hash-map-9b7dcb10cabd2e91d0fa721270c9e96b">
+	</div>
+	<div class="grofile-hash-map-423f5c93bcaf0dcb349ee4fb84c340d0">
+	</div>
+	<div class="grofile-hash-map-6016c11d1d5847111a893cf4c44acd5a">
+	</div>
+	<div class="grofile-hash-map-d8daa84bfcd5d9cdc06775d70bb58d6f">
+	</div>
+	<div class="grofile-hash-map-29d05cc6a7b3cf1b12ce07a42f87768c">
+	</div>
+	<div class="grofile-hash-map-bf6dd03b3d6c9c7a5abc0e3ac5f6f747">
+	</div>
+	<div class="grofile-hash-map-075e454a8c5640ffda8492c0178a3d13">
+	</div>
+	<div class="grofile-hash-map-e5093e9be0e50b7f7bc9236841989dd4">
+	</div>
+	<div class="grofile-hash-map-734b6752674cb2fc682869cba2f2a578">
+	</div>
+	<div class="grofile-hash-map-b2bf09705799ad6b06ab942084342533">
+	</div>
+	<div class="grofile-hash-map-3504a9f6ade73b5eb2cb8171212cb080">
+	</div>
+	<div class="grofile-hash-map-daad3eadf11ff7840c15ecfd3652b058">
+	</div>
+	<div class="grofile-hash-map-f3f7cd6358328c48e686aa531f904bf2">
+	</div>
+	<div class="grofile-hash-map-a5b998e13cc4351be8af984ec6c79bdd">
+	</div>
+	<div class="grofile-hash-map-c4dab5cd61c146ed352cf05447658d2f">
+	</div>
+	<div class="grofile-hash-map-87a679899363f23e61b305e1e23ff756">
+	</div>
+	<div class="grofile-hash-map-de815fa9138507f793612bfa978284b3">
+	</div>
+	<div class="grofile-hash-map-f0dae7901d4749e0b4a7a0fa5cee7974">
+	</div>
+	<div class="grofile-hash-map-d3ea8c060c0bdc7fdd599f71f95d864a">
+	</div>
+	<div class="grofile-hash-map-b3ce1f523245bee0c352e86acee6f17e">
+	</div>
+	<div class="grofile-hash-map-482befb2455c3e2692e59d23708dfb95">
+	</div>
+	<div class="grofile-hash-map-3f8f6f7b335fe1bf5201d0af020b41fd">
+	</div>
+	<div class="grofile-hash-map-e9a65decb94732ab064c06d6cdd8b1c3">
+	</div>
+	<div class="grofile-hash-map-1e0b4a6d21990c900a3d095e157e2534">
+	</div>
+	<div class="grofile-hash-map-b89436398958c7bf3dd599208f79079a">
+	</div>
+	<div class="grofile-hash-map-32d99ebbc362d4c5ece767e1b7c93ef2">
+	</div>
+	<div class="grofile-hash-map-852f25cf5e3de070033d83713ca80775">
+	</div>
+	<div class="grofile-hash-map-f2d9fe69a7f20a27c738585e949bd761">
+	</div>
+	<div class="grofile-hash-map-6d1b78ea8c3e74b7a40f3d448ab01eb8">
+	</div>
+	<div class="grofile-hash-map-452e1b6f662726b98eb9f02f543845fe">
+	</div>
+	<div class="grofile-hash-map-4b7a669d382021c270ac8522bcc5fc94">
+	</div>
+	<div class="grofile-hash-map-1370a5f958f11a78d70a7ea0d8d69d9c">
+	</div>
+	<div class="grofile-hash-map-9aa176e5c577a987a55979fc0fa35304">
+	</div>
+	<div class="grofile-hash-map-2d1fc3c8531800d90b7c6805ae3c1f73">
+	</div>
+	<div class="grofile-hash-map-79234ef2d1aac6333f018891ad666af6">
+	</div>
+	<div class="grofile-hash-map-43fd0ea8bfb5faa9da4338f422c53c86">
+	</div>
+	<div class="grofile-hash-map-3097c6694ab13f5c045d4faad1a5ca41">
+	</div>
+	<div class="grofile-hash-map-0d91eee25d7afebe32f6c81457e9359e">
+	</div>
+	<div class="grofile-hash-map-391af01a0ee9126a66c66db111249e72">
+	</div>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/pmctvline2.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/pmctvline2.wordpress.com\/wp-login.php?action=logout&_wpnonce=9e4e6c2937","homeURL":"http:\/\/tvline.com\/","postID":"682627","gravDefault":"blank","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1424115551j'></script>
+<img src="//heartbeat.pmc.com/track?host=tvline.com&#038;path=/2016/02/10/hayley-atwell-cast-conviction-pilot-abc/&#038;post_id=682627&#038;title=Hayley%20Atwell%20Lands%20Lead%20in%20IConviction/i%20Legal%20Drama%20Pilot%20at&nbsp;ABC&#038;author=Matt%20Webb%20Mitovich&#038;comment_count=44" border="0" width="0" height="0" style="z-index: 0; bottom: -1px; left: -1px; display: inline; position: fixed;" /><script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/akismet-3.0/_inc/form.js?m=1404442431g'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var krux_event_pixels = {"gallery_slide_view":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyVjMsOwiAQRX9InGhIw8b4LYhTHOQxkaGlf1/syq27k3tzDqysXMmCWSBUeOJCDrmfQz3BzyUvTFhhIQZOTnFsnnI92MfysFHNLTuhMsaRWe3GhbLUPzrvT+tKrP/6BzN1jCNwT7eL1kZPkzHXsAM3skEu'></script>
+<script type='text/javascript' src='//s.swiftypecdn.com/cc/tyfxTVRxDFStuk5aCQu2.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SwiftypeConfigs = {"engine_key":"tyfxTVRxDFStuk5aCQu2","redirect_to":"\/results","home_url":"http:\/\/tvline.com\/","placeholder_image":"","image_size":"river-image","autocomplete":{"tags":{"include":true,"name":"Tags"},"articles":{"include":true,"name":"Articles"}},"author_list":[],"date_filters":["date_options:radio-options","topics_facet:checkbox-facet","tags_facet:checkbox-facet","author_facet:checkbox-facet"],"meta_tags":{"post_types":{"post":"Article"},"show_content_type_meta_tag":true,"tags":["post_tag"],"topics":["category"],"appeared_in_print":false},"q":"","trans":{"search":"Search","reference":"Relevance","pub_date_new":"Published Date (newest first)","pub_date_old":"Published Date (oldest first)","most_commented":"Most Commented","clear":"Clear","content_type":"Content Type","topics":"Topics","tags":"Tags","all":"All","twentyfour_hours":"Past 24 Hours","seven_days":"Past 7 Days","thirty_days":"Past 30 Days","twelve_months":"Past 12 Months"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJydkD1uwzAMhS9UiXDqBM1QdOjUuSdQZMaSoL+KVAzfvrKTBh0ytAY4EOR73yMIUxY6RcbIwAYDElxshhy0yL6ONtLa02TPPGcERYRM4Ag+b6P3FHKKzU/S0RNs5jXX2Y61KLYp/qBs1L4OuApMumD5WNEy2IcSnUJoa1Ew+/m36A8nORLenooqdhFgHFKBIfG1oJMH2fXgviqWWd7njzJCvXN3Yklya6BQUfmZrf7Pn0blfQtcEO1lGbdZjSKjjYrjRv+ppImwDMioeRvi1jbzW3jt+n2/3z0fjy/uGxac764='></script>
+<script type='text/javascript' src='//widgets.outbrain.com/outbrain.js?ver=4.4.1-alpha-36109'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/themes/vip/pmc-plugins/pmc-outbrain/assets/js/pmc-outbrain.js?m=1444841494g'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?51" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'33565533','blog_tz':'-8','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'33565533','v':'wpcom','tz':'-8','user_id':'0','post':'682627','subd':'pmctvline2'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=33565533&v=wpcomvt&tz=-8&user_id=0&post=682627&subd=pmctvline2&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTc/SE4sMjNxJnlra1FNcmEzWHZdNmQ2M1RKXWdEfGVvUkRLLSV8SHpwWFJ0aVN+Z1MzTF85aSZHcVkwcWJrOSsyfklhbDdtYkZEdlhaT1ZLc0ctVU1JYkEmalNod19YdT04QzdXcDZXQnBnYkFBX3ZZK3U3d1RJelM2eTJzXV83dVZ1QiZ5dDQ4bURuZVVtdm8mMDlmLEFqekluS0I2andLK2VPTjQxMktoJUNDclRLcm8='}]);
+_stq.push([ 'clickTrackerInit', '33565533', '682627' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>		<script type='text/javascript'>
+			try {
+				amznads.setTargetingForGPTAsync('amznslots');
+			} catch(e) { /*ignore*/}
+		</script>
+				<script async src="//plugin.mediavoice.com/mediaconductor/mc.js"></script>
+		<script>
+			window.mediaconductor=window.mediaconductor||function(){(mediaconductor.q=mediaconductor.q||[]).push(arguments);}
+			mediaconductor("init", "1c951dcc94c9403cb8154ac4a1add42d");
+			mediaconductor("exec");
+		</script>
+	
+<!-- pmc-adm targeting -->
+<script>
+if ( typeof pmc !== 'undefined' && typeof pmc.hooks !== 'undefined' ) {
+	pmc.hooks.add_filter( 'pmc-adm-set-targeting-keywords', function( keywords ) {
+		try {
+			if ( typeof Krux !== 'undefined' ) {
+				if ( typeof keywords['ksg'] === 'undefined' ) {
+					keywords['ksg']  = Krux.segments;
+				}
+				if ( typeof keywords['kuid'] === 'undefined' ) {
+					keywords['kuid']  = Krux.user;
+				}
+			}
+		} catch(e) {}
+		return keywords;
+	} );
+}
+
+(function() {
+	if( window.hasOwnProperty('pmc_krux' ) ) {
+		window.pmc_krux['destination-url'] = document.location.href;
+		if( document.hasOwnProperty('referrer') && document.referrer.length ) {
+			window.pmc_krux['referrer'] = document.referrer;
+		}
+	}
+})();
+
+</script>
+
+	<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "6035310", c3: "", c4: "", c5: "", c6: "", c15: "" }); (function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();
+</script>
+<!-- End comScore Tag -->
+
+<!-- Quantcast Tag, part 2 -->
+<script type="text/javascript">
+_qevents.push([
+	{ qacct:"p-60R-umvc0T-Cw" }, // Tvline P-code
+	{ qacct:"p-31f3D02tYU8zY" } // PMC P-Code
+]);
+</script>
+<noscript>
+	<div style="display:none;">
+		<img src="//pixel.quantserve.com/pixel?a.1=p-60R-umvc0T-Cw&a.2=p-31f3D02tYU8zY" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- Quantcast tag End, part 2 -->
+
+<!--Heatmapping JS tag - using CrazyEgg Start -->
+<script type="text/javascript">document.write(unescape('%3Cscript type="text/javascript" src="'+document.location.protocol+'//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4414.js"%3E%3C%2Fscript%3E'))</script>
+<!--Heatmapping JS tag - using CrazyEgg End -->
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+	(function () {
+		var d = new Image(1, 1);
+		d.onerror = d.onload = function () {
+			d.onerror = d.onload = null;
+		};
+
+		d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-203220h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+
+	})();
+</script>
+
+<noscript>
+	<div>
+		<img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-203220h&cg=0&cc=1&ts=noscript" width="1" height="1" alt="" />
+	</div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+<!-- BuzzFeed START -->
+<div id="BF_WIDGET_1">&nbsp;</div>
+<script type="text/javascript">
+(function( ){
+BF_WIDGET_JS=document.createElement("script"); BF_WIDGET_JS.type="text/javascript";
+BF_WIDGET_SRC="http://ct.buzzfeed.com/wd/UserWidget?u=tvline.com&to=1&or=vb&wid=1&cb=" + (new Date()).getTime();
+setTimeout(function() {document.getElementById("BF_WIDGET_1").appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC},1);
+})();
+</script>
+<!-- BuzzFeed END -->
+
+	<!-- START callback function for onhashchange(when the hash tag in the url gets updated) -->
+	<script type="text/javascript">
+		function global_urlhashchanged() {
+			
+			// Track PV in GA
+			try {
+				ga( 'send', 'pageview', location.pathname + location.hash );
+			} catch(err) {}
+
+			// Track Quantcast
+			try {
+
+				// need to reset the array containing the options previously sent
+				// as quantcast does not send the same key twice.
+				if (__qc && __qc.qpixelsent && __qc.qpixelsent.length > 0) {
+					__qc.qpixelsent.length = 0;
+				}
+				// First Quantcast Tag
+				_qoptions=[
+					{ qacct:"p-60R-umvc0T-Cw" }, // Tvline P-code
+					{ qacct:"p-31f3D02tYU8zY" } // PMC P-Code
+				];
+
+				quantserve();
+
+			} catch(err) {}
+
+			// Track Comscore
+			try {
+				setTimeout(function(){ var url = "http" + (/^https:/.test(document.location.href) ? "s" : "") + "://beacon.scorecardresearch.com/scripts/beacon.dll" + "?c1=2&amp;c2=6035310&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=" + escape(document.location.href) + "&amp;c8=" + escape(document.title) + "&amp;c9=" + escape(document.referrer) + "&amp;c10=" + escape(screen.width+'x'+screen.height) + "&amp;rn=" + (new Date()).getTime(); var i = new Image(); i.src = url; }, 1);
+
+				COMSCORE.beacon({c1:2,c2:"6035310",c3:"6035310",c4:"",c5:"",c6:"",c15:""});
+
+
+			} catch(err) {}
+
+			/**
+			 * Track pageview end
+			 */
+		}
+
+		//Gravity Beacon..
+		//<![CDATA[
+		    (function(){
+		    window.gravityInsightsParams = {
+		      'type': 'content',
+		      'action': '',
+		      'site_guid': 'b7fbb26a291e1b4fd21015a6169de89e'
+		    };
+		    var b,c;b="https:"===document.location.protocol?"https://b-ssl.grvcdn.com/moth-min.js":"http://b.grvcdn.com/moth-min.js";window.grvMakeScript=function(d){var a;a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src=d;return a};c=document.getElementsByTagName("script")[0];b&&c.parentNode.insertBefore(window.grvMakeScript(b),c);})();
+		  //]]>
+	</script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=228932107161302";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<script type="text/javascript">
+	window.___gcfg = {
+		lang       : 'en-US',
+		"parsetags": "explicit"
+	};
+
+	(function () {
+		var po = document.createElement('script');
+		po.type = 'text/javascript';
+		po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js?onload=tvline_gplus_onLoadCallback';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(po, s);
+	})();
+
+	function tvline_gplus_onLoadCallback() {
+		gapi.plusone.go();
+	}
+
+</script>
+<script type="text/javascript" src="//s.skimresources.com/js/87443X1540251.skimlinks.js"></script>
+<!-- DO NOT REMOVE, comment for engineering, 4BAfe4nkpyAktm3S -->
+
+</body>
+</html>

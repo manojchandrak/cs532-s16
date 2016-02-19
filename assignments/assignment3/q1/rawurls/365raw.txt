@@ -1,0 +1,3114 @@
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+        
+    
+    
+
+
+
+
+
+<!DOCTYPE html>
+
+
+
+
+<html lang="en" class=" ">
+    <head prefix="og: http://ogp.me/ns#">
+        
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+        <meta name="usn-platform-id" content="a" />
+
+        
+        
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgEGUlJVGwcAXVVRDwE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function s(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);return i}function c(t,e){d[t]=f(t).concat(e)}function f(t){return d[t]||[]}function u(){return r(s)}var d={};return{on:c,emit:s,create:u,listeners:f,context:e,_events:d}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:25,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:26,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").create(),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:27,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:27,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:27,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:27,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,l,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-",o)}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:27,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=this.lastSize||n(t);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t){var e=t.responseType,n="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return r(n)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=0,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:16,4:12,5:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:25,2:26,handle:"D5DuLP"}],16:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var h=0},{1:25,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],25:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],26:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],27:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:26,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script><script src="//tags.tiqcdn.com/utag/usnews/main/prod/utag.sync.js"></script>
+
+        
+        <script type="text/javascript">
+            var utag_data = {"site_portal":"Health","article_publish_date":"2016-02-08","content_type":"editorial","page_type":"article","page_name":"Study Links Concussion to Higher Risk of Later Suicide - US News","site_product_section":"Article","site_product":"","site_vertical":"Health"};
+        </script>
+
+        
+        
+            <meta name="usn-stitial-fact" content="{&#034;slug&#034;:&#034;160202&#034;,&#034;text&#034;:&#034;Ninety percent of women have at least one risk factor for developing heart disease.&#034;}" />
+        
+
+        
+        
+            
+                
+<link rel="stylesheet" type="text/css" href="/static/css/global.css"/>
+            
+        
+            
+                
+<link rel="stylesheet" type="text/css" href="/static/css/sectionFront.css"/>
+            
+        
+            
+                
+<link rel="stylesheet" type="text/css" href="/static/css/article.css"/>
+            
+        
+            
+                
+<link rel="alternate" type="application/json+oembed" href="http://health.usnews.com/health-news/articles/2016-02-08/study-links-concussion-to-higher-risk-of-later-suicide?src=usn_tw&amp;_embed=true&amp;_format=oembed"/>
+            
+        
+            
+                
+<title>Study Links Concussion to Higher Risk of Later Suicide - US News</title>
+            
+        
+            
+                
+<meta property="og:title" content="Study Links Concussion to Higher Risk of Later Suicide"/>
+            
+        
+            
+                
+<meta name="description" content="But while researchers found an association, they didn&#39;t prove cause-and-effect"/>
+            
+        
+            
+                
+<meta property="og:description" content="But while researchers found an association, they didn&#39;t prove cause-and-effect"/>
+            
+        
+            
+                
+<meta name="keywords" content="Collections: Health,HealthDay,brain,mental health"/>
+            
+        
+            
+                
+<meta charset="UTF-8"/>
+            
+        
+            
+                
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+            
+        
+            
+                
+<link rel="canonical" href="http://health.usnews.com/health-news/articles/2016-02-08/study-links-concussion-to-higher-risk-of-later-suicide"/>
+            
+        
+            
+                
+<meta name="usn-comments-mode" content="facebook"/>
+            
+        
+            
+                
+<meta name="google-site-verification" content="owJBuFHD3VHcTSsnPSOYizmUcs3GSBjbx09vBbBi1MM"/>
+            
+        
+            
+                
+<meta name="msvalidate.01" content="A8E47FA91124063A4A9C78AD5273DC0F"/>
+            
+        
+            
+                
+<meta property="fb:app_id" content="130063997038366"/>
+            
+        
+            
+                
+<meta name="twitter:card" content="summary"/>
+            
+        
+            
+                
+<meta name="twitter:site" content="@USNews"/>
+            
+        
+            
+                
+<meta name="twitter:title" content="Study Links Concussion to Higher Risk of Later Suicide - US News"/>
+            
+        
+            
+                
+<meta name="twitter:description" content="But while researchers found an association, they didn&#39;t prove cause-and-effect"/>
+            
+        
+            
+                
+<meta property="og:site_name" content="US News &amp; World Report"/>
+            
+        
+            
+                
+<meta property="og:url" content="http://health.usnews.com/health-news/articles/2016-02-08/study-links-concussion-to-higher-risk-of-later-suicide"/>
+            
+        
+            
+                
+<meta name="viewport" content="width=980"/>
+            
+        
+            
+                
+<meta name="site" content="health-news"/>
+            
+        
+            
+                
+<meta name="zone" content="homepage/articles"/>
+            
+        
+            
+                
+<meta name="usn-content-type" content="article"/>
+            
+        
+            
+                
+<meta property="og:type" content="article"/>
+            
+        
+            
+                
+<link rel="alternate" type="application/rss+xml" title="US News RSS Feed" href="http://www.usnews.com/rss/health"/>
+            
+        
+            
+                
+<meta property="social_id" content="http://t.usnews.com/Zhokm5"/>
+            
+        
+            
+                
+<meta property="article:published_time" content="2016-02-08"/>
+            
+        
+            
+                
+<meta class="swiftype" content="2016-02-08" name="published_at" data-type="date"/>
+            
+        
+            
+                
+<meta property="article:publisher" content="https://www.facebook.com/usnewsandworldreport"/>
+            
+        
+
+        <link rel="shortcut icon" href="/static/images/favicon.ico"/>
+
+        
+        <script src="/static/scripts/jquery/base.js" type="text/javascript"></script>
+
+        
+        <script src="/static/scripts/jquery/autocomplete.js"></script>
+        <script>USN.load('brightspot');</script>
+
+        
+        <script src="/static/scripts/lib/requirejs-concat.js"></script>
+
+        
+        <!-- Amazon A9 -->
+        <script data-partner-name="amazon" type="text/javascript">
+            USN.load('amzn');
+        </script>
+        <script data-partner-name="amazon" type="text/javascript">
+            try {
+                amznads.getAds('3143');
+            } catch(e) { /*ignore*/}
+        </script>
+        <!-- /Amazon A9 -->
+
+        <script type="text/javascript">
+            USN.load('head-scripts-concat');
+        </script>
+
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+
+        
+        <link href="/assets/css/grid.css" rel="stylesheet" type="text/css"/>
+        
+
+        
+        
+
+        <!--[if lt IE 9]>
+            <script src='/static/scripts/html5shiv.js'></script>
+        <![endif]-->
+        <script data-partner-name="nativo" type="text/javascript" src="http://a.postrelease.com/serve/load.js?async=true"></script>
+        <!-- Yieldbot.com Intent Tag LOADING -->
+        <script type="text/javascript" src="//cdn.yldbt.com/js/yieldbot.intent.js"></script>
+        <!-- Yieldbot.com Intent Tag ACTIVATION -->
+        <script type="text/javascript">
+          var checkMobile = $("meta[name='usn-is-mobile']");
+          if (checkMobile.attr('content') === 'true'){
+              yieldbot.pub('2652');
+              yieldbot.defineSlot('mobile_LB');
+              yieldbot.defineSlot('mobile_medrec');
+          } else {
+              yieldbot.pub('9597');
+              yieldbot.defineSlot('leaderboard');
+              yieldbot.defineSlot('medrec', {sizes: [ [300, 250],[300, 600] ]});
+          }
+          yieldbot.go();
+        </script>
+        
+        <script type="text/javascript">
+            (function(a,b,c,d){
+                a='//tags.tiqcdn.com/utag/usnews/main/prod/utag.js';
+                b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+                a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+            })();
+        </script>
+</head>
+
+
+<body class="wrapper-global section-health">
+
+    
+        
+    
+    
+        
+
+
+
+
+
+
+
+
+
+    
+    
+
+        <div id="header_takeover" class="ad ad-headerTakeover sep">
+            
+                
+                
+                    <script type="text/javascript"> dblclick('header_takeover'); </script>
+                
+            
+        </div>
+
+    
+
+
+
+    
+
+    
+    
+    
+
+    <div class="wrapper-global_inner">
+
+    
+
+
+
+
+
+
+
+<style type="text/css">._da{-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box;}._dj{float:left;}._dj-px:before{content:' . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .';display:block;height:0;overflow:hidden;visibility:hidden;}._dw{height:0;}._dh{width:0;}.layout-standard{min-width:972.0px;}.layout-standard>._da[_da]{display:none;}.layout-standard>._da[_da="header"]{display:block;float:left;margin:0 -100% 0 -30000px;padding:0 0 0 0.0%;width:100.0%;}.layout-standard>._da>._dj-px[_da="header"]{height:auto;margin:0.0px -30000.0px 0 30000.0px;width:auto;}.layout-standard>._da>._dj-px ._dw-em[_da="header"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-pt[_da="header"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-px[_da="header"]{padding-left:972.0px;}.layout-standard>._da[_da="ad"]{clear:left;display:block;float:left;margin:0 -100% 0 -30000px;padding:0 0 0 0.0%;width:100.0%;}.layout-standard>._da>._dj-px[_da="ad"]{height:auto;margin:0.0px -30000.0px 0 30000.0px;width:auto;}.layout-standard>._da>._dj-px ._dw-em[_da="ad"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-pt[_da="ad"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-px[_da="ad"]{padding-left:972.0px;}.layout-standard>._da[_da="bc"]{clear:left;display:block;float:left;margin:0 -100% 0 -30000px;padding:0 0 0 50.0%;width:0.0%;}.layout-standard>._da>._dj-px[_da="bc"]{height:auto;margin:0.0px -30486.0px 0 29514.0px;width:972.0px;}.layout-standard>._da>._dj-px ._dw-em[_da="bc"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-pt[_da="bc"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-px[_da="bc"]{padding-left:972.0px;}.layout-standard>._da[_da="left"]{clear:left;display:block;float:left;margin:0 -100% 0 -30000px;padding:0 0 0 50.0%;width:0.0%;}.layout-standard>._da>._dj-px[_da="left"]{height:auto;margin:0.0px -30166.0px 0 29514.0px;width:652.0px;}.layout-standard>._da>._dj-px ._dw-em[_da="left"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-pt[_da="left"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-px[_da="left"]{padding-left:652.0px;}.layout-standard>._da[_da="right"]{display:block;float:left;margin:0 -100% 0 -30000px;padding:0 0 0 50.0%;width:0.0%;}.layout-standard>._da>._dj-px[_da="right"]{height:auto;margin:0.0px -30486.0px 0 30186.0px;width:300.0px;}.layout-standard>._da>._dj-px ._dw-em[_da="right"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-pt[_da="right"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-px[_da="right"]{padding-left:300.0px;}.layout-standard>._da[_da="well"]{clear:left;display:block;float:left;margin:0 -100% 0 -30000px;padding:0 0 0 50.0%;width:0.0%;}.layout-standard>._da>._dj-px[_da="well"]{height:auto;margin:0.0px -30486.0px 0 29514.0px;width:972.0px;}.layout-standard>._da>._dj-px ._dw-em[_da="well"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-pt[_da="well"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-px[_da="well"]{padding-left:972.0px;}.layout-standard>._da[_da="footer"]{clear:left;display:block;float:left;margin:0 -100% 0 -30000px;padding:0 0 0 0.0%;width:100.0%;}.layout-standard>._da>._dj-px[_da="footer"]{height:auto;margin:0.0px -30000.0px 0 30000.0px;width:auto;}.layout-standard>._da>._dj-px ._dw-em[_da="footer"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-pt[_da="footer"]{padding-left:0;}.layout-standard>._da>._dj-px ._dw-px[_da="footer"]{padding-left:972.0px;}</style><script type="text/javascript">if (typeof jQuery !== 'undefined') (function($, win, undef) {var reorder, reorderTimer;if (!window.matchMedia) return;reorder = function() {$.each({"DEFAULT":{".layout-anthill":["header","leaderboardA","bc","left","right","mainWidget","leaderboardB","footer"],".layout-product":["header","bc","well","footer"],".layout-standard":["header","ad","bc","left","right","well","footer"],".layout-529":["header","ad","bc","lead","left","right","well","footer"],".layout-section":["header","ad","bc","lead","right","left","center","well","footer"],".layout-section-wide":["header","ad","bc","lead","left","right","well","footer"],".layout-triple-promo":["top","main","rt","rb"],".layout-product-category":["header","ad","bc","left","center","right","well","footer"],".layout-full":["header","ad","bc","full","well","footer"],".layout-529-search":["header","ad","bc","left","center","well","footer"],".layout-split":["header","bc","left","right","well","footer"],".layout-boxed":["header","ad","bc","box","footer"],".layout-photo":["header","ad","bc","lead","slides","center","well","footer"],".layout-wide":["header","ad","bc","lead","right","left","center","well","footer"]}}, function(media, grids) {if (media === 'DEFAULT' || window.matchMedia(media).matches) {$.each(grids, function(selector, areas) {$(selector).each(function() {var $layout = $(this),$children = $layout.find('>._da'),expected = areas.join(', '),current = $.map($children, function(area) { return $(area).attr('_da'); }).join(', '),$clear;if (expected === current) { return; }$.each(areas, function(index, area) {var $child = $children.filter('[_da="' + area + '"]');if ($child.length > 0) { $layout[0].appendChild($child[0]); }});$clear = $layout.find('>.dari-grid-clear');if ($clear.length > 0) { $layout[0].appendChild($clear[0]); }});});return false;}});};$(reorder);$(win).resize(function() {if (!reorderTimer) {reorderTimer = setTimeout(function() {reorder();reorderTimer = null;}, 100);}});})(jQuery, window);</script><div class="layout-standard"><div class="dari-grid-area _da" data-grid-area="header" _da="header"><div class="dari-grid-adj _dj dari-grid-adj-px _dj-px" data-grid-area="header" _da="header"><div class="dari-grid-mw _dw dari-grid-mw-px _dw-px" data-grid-area="header" _da="header"></div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+        
+        
+        
+        
+    
+    
+
+
+
+
+
+    
+
+    
+        <div class="header header-health">
+            <div class="header_globalNav">
+                <div class="header_content">
+                    <ul class="bar">
+                        
+
+                        
+                            <li class="dropdown item item-right item-first item-odd">
+                                <a href="javascript:;">
+                                    <span class="dropdown_label">Rankings &amp; Advice </span>
+                                </a>
+
+                                <ul class="dropdown_content">
+                                    
+                                        <li
+                                            class="item item-first  item-even "
+                                        ><a href="//www.usnews.com/education" class="dropdown_content_icon-edu">Education </a></li>
+                                    
+                                        <li
+                                            class="item  item-odd "
+                                        ><a href="http://health.usnews.com/" class="dropdown_content_icon-health">Health </a></li>
+                                    
+                                        <li
+                                            class="item  item-even "
+                                        ><a href="http://money.usnews.com/" class="dropdown_content_icon-money">Money </a></li>
+                                    
+                                        <li
+                                            class="item  item-odd "
+                                        ><a href="http://travel.usnews.com" class="dropdown_content_icon-travel"> Travel</a></li>
+                                    
+                                        <li
+                                            class="item  item-even "
+                                        ><a href="http://usnews.rankingsandreviews.com/cars-trucks" class="dropdown_content_icon-cars">Cars</a></li>
+                                    
+                                        <li
+                                            class="item  item-odd "
+                                        ><a href="http://bestlawfirms.usnews.com/" class="dropdown_content_icon-law"> Law Firms</a></li>
+                                    
+                                </ul></li>
+                        
+                        <li class="item item-right item-first item-odd"><a href="//www.usnews.com/news">News</a></li>
+
+                        <li class="item item-right item-first item-odd"><a href="http://www.usnews.com">
+                                <i class="icon-header-home"></i> U.S. News Home</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="header_content">
+                
+                
+                <div class="header_title">
+                    <a href="http://www.usnews.com">
+                    <img class="header_title_image"
+                        height="40"
+                        width="166"
+                        src="/static/images/homepage-logo-166x40.png"
+                        srcset="/static/images/homepage-logo-166x40.png, /static/images/homepage-logo-332x80.png 2x"
+                    /></a>
+
+                    <a href="http://health.usnews.com/" class="header_title_section" data-text="Health">
+                        Health
+
+                    </a>
+
+                    
+                    <div class="header_social_links">
+                        
+                            <span
+                                class="item item-even"
+                            > <a href="//www.facebook.com/usnewsandworldreport" target="_blank"><span
+                                    class="icon-header-facebook"
+                                >Facebook</span></a>
+                            </span>
+                        
+                            <span
+                                class="item item-odd item-last"
+                            > <a href="//twitter.com/usnews" target="_blank"><span
+                                    class="icon-header-twitter"
+                                >Twitter</span></a>
+                            </span>
+                        
+                    </div>
+                    <span class="header_vr"></span>
+                    
+                        <span class="header_title_tagline">Health Rankings &amp; Advice</span>
+                    
+
+                </div>
+            </div>
+
+            
+            
+                <div class="header_primaryNav_wrapper">
+                    
+                    <ul class="header_primaryNav bar">
+                        
+                            
+                            
+                            <li
+                                class="item
+                                       active 
+                                       item-first 
+                                       item-even 
+                                       
+                                       "
+                            ><a href="http://health.usnews.com/">
+                                    Home
+                                </a> </li>
+                        
+                            
+                            
+                            <li
+                                class="item
+                                       
+                                       
+                                       item-odd 
+                                       
+                                       "
+                            ><a href="http://health.usnews.com/best-hospitals">
+                                    Hospitals
+                                </a> </li>
+                        
+                            
+                            
+                            <li
+                                class="item
+                                       
+                                       
+                                       item-even 
+                                       
+                                       "
+                            ><a href="http://health.usnews.com/doctors">
+                                    Doctors
+                                </a> </li>
+                        
+                            
+                            
+                            <li
+                                class="item
+                                       
+                                       
+                                       item-odd 
+                                       
+                                       "
+                            ><a href="http://health.usnews.com/health-insurance">
+                                    Health Insurance
+                                </a> </li>
+                        
+                            
+                            
+                            <li
+                                class="item
+                                       
+                                       
+                                       item-even 
+                                       
+                                       "
+                            ><a href="http://health.usnews.com/best-nursing-homes">
+                                    Nursing Homes
+                                </a> </li>
+                        
+                            
+                            
+                            <li
+                                class="item
+                                       
+                                       
+                                       item-odd 
+                                       
+                                       "
+                            ><a href="http://health.usnews.com/best-diet">
+                                    Diets
+                                </a> </li>
+                        
+                            
+                            
+                            <li
+                                class="item
+                                       
+                                       
+                                       item-even 
+                                       
+                                       "
+                            ><a href="http://health.usnews.com/health-news/health-wellness">
+                                    Health &amp; Wellness
+                                </a> </li>
+                        
+                        <li class="header_primaryNav_adbug adbug_primaryNav">
+                            
+                                
+                             
+
+
+
+
+
+
+
+
+
+    
+    
+
+        <div id="navbug" class="ad ad-navbug sep">
+            
+                
+                
+                    <script type="text/javascript"> dblclick('navbug'); </script>
+                
+            
+        </div>
+
+    
+
+
+
+                        </li>
+                    </ul>
+                </div>
+            
+        </div>
+    
+
+
+
+</div></div><div class="dari-grid-area _da" data-grid-area="ad" _da="ad"><div class="dari-grid-adj _dj dari-grid-adj-px _dj-px" data-grid-area="ad" _da="ad"><div class="dari-grid-mw _dw dari-grid-mw-px _dw-px" data-grid-area="ad" _da="ad"></div>
+    
+        
+    
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+        <div id="leaderboardA" class="ad ad-leaderboard ad-leaderboard-a sep">
+            
+                
+                    <script>
+                        oz_api = USN.rubicon.apiName;
+                        oz_site = USN.rubicon.site;
+                        oz_zone = USN.rubicon.getZone('leaderboardA');
+                        oz_ad_slot_size = USN.rubicon.getAdSize('leaderboardA');
+                        oz_callback = function (data) {
+                            USN.rubicon.injectTargeting(data, 'leaderboardA');
+                        }
+                        USN.rubicon.callApi('leaderboardA');
+                    </script>
+                
+                
+            
+        </div>
+
+    
+
+
+
+</div></div><div class="dari-grid-area _da" data-grid-area="bc" _da="bc"><div class="dari-grid-adj _dj dari-grid-adj-px _dj-px" data-grid-area="bc" _da="bc"></div></div><div class="dari-grid-area _da" data-grid-area="left" _da="left"><div class="dari-grid-adj _dj dari-grid-adj-px _dj-px" data-grid-area="left" _da="left">
+    
+
+
+
+
+
+
+<article id="content" class="block" data-swiftype-index="true">
+    
+
+
+
+
+
+
+
+
+
+    <header>
+        
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+        
+        <h1 class="h-biggest">Study Links Concussion to Higher Risk of Later Suicide</h1>
+        <h2 class="h-big h-slacker h-light h-normal"></h2>
+
+        
+        
+
+        
+
+
+
+
+
+
+
+<div class="drawer block-generous">
+    <div class="drawer_main bar-sep-overunder t-small">
+        
+        
+            <span class="item drawer_paddingTop">HealthDay</span>
+        
+
+        
+        <time itemprop="datePublished" datetime="Mon Feb 08 14:00:00 EST 2016" class="t-small item drawer_marginTop">
+           Feb. 8, 2016, at 2:00 p.m. 
+        </time>
+
+        <span class="thumb-middled-right right t-small t-subdued drawer_trigger drawer_paddingTop"
+              id="bylineSocialMore"
+            >+ More</span>
+
+        <ul class="right" id="bylineSocialIcons">
+            <li class="right">
+                
+
+
+<a href="https://twitter.com/share?url=http%3A%2F%2Ft.usnews.com%2FZhokm5%3Fsrc=usn_tw&via=usnews&text=Study%20Links%20Concussion%20to%20Higher%20Risk%20of%20Later%20Suicide" target="_blank">
+    <i class="icon-social-tw"></i>
+</a>
+
+            </li>
+            <li class="right-pad">
+                
+
+
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ft.usnews.com%2FZhokm5%3Fsrc=usn_gp"
+   target="_blank">
+   <i class="icon-social-gp"></i>
+</a>
+
+            </li>
+            <li class="right-pad">
+                
+
+
+<a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ft.usnews.com%2FZhokm5%3Fsrc=usn_fb"
+   target="_blank">
+    <i class="icon-social-fb"></i>
+</a>
+
+            </li>
+        </ul>
+    </div>
+
+    
+    <div class="drawer_slide box-borderless-aqua">
+        <ul class="bar-pad12 block-close alt">
+            
+	            <li class="item">
+	                
+	                    
+	                
+	                
+
+
+
+
+
+
+
+
+
+    
+    
+
+        <div id="sharebug" class="ad ad-sharebug sep">
+            
+                
+                
+                    <script type="text/javascript"> dblclick('sharebug'); </script>
+                
+            
+        </div>
+
+    
+
+
+
+	            </li>
+	            <li class="item item-right">
+	                
+
+<a href="http://www.reddit.com/submit?url=http%3A%2F%2Ft.usnews.com%2FZhokm5%3Fsrc=usn_rd&title=Study%20Links%20Concussion%20to%20Higher%20Risk%20of%20Later%20Suicide"
+   target="_blank">
+    <i class="icon-social-red"></i>
+</a>
+
+	            </li>
+	            <li class="item item-right">
+	                
+
+<a href="http://www.stumbleupon.com/badge/?url=http%3A%2F%2Ft.usnews.com%2FZhokm5%3Fsrc=usn_su"
+   target="_blank">
+    <i class="icon-social-su"></i>
+</a>
+
+	            </li>
+	            <li class="item item-right">
+	                
+
+
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Ft.usnews.com%2FZhokm5%3Fsrc=usn_li&title=Study%20Links%20Concussion%20to%20Higher%20Risk%20of%20Later%20Suicide&summary=&source=U.%20S.%20News"
+   target="_blank">
+   <i class="icon-social-li"></i>
+</a>
+
+	            </li>
+            
+        </ul>
+    </div>
+    <script type="text/javascript">
+        $(".drawer_trigger").click(function() {
+            $(this).parents('.drawer').find('.drawer_slide').slideToggle();
+        });
+    </script>
+</div>
+
+    </header>
+
+    
+    
+        <div class="article-logo block">
+            
+                <img src="http://www.usnews.com/dims4/USNEWS/751703f/2147483647/thumbnail/150x52%3E/quality/85/?url=%2Fcmsmedia%2Ff6%2F78867a7db0a44eeb1accb7d5071200%2F1725GR_PR_healthdaylogo.jpg" width="150" height="52" srcset="http://www.usnews.com/dims4/USNEWS/7010a58/2147483647/thumbnail/150x100%3E/quality/85/?url=%2Fcmsmedia%2Ff6%2F78867a7db0a44eeb1accb7d5071200%2F1725GR_PR_healthdaylogo.jpg, http://www.usnews.com/dims4/USNEWS/05d6d3f/2147483647/thumbnail/300x104%3E/quality/85/?url=%2Fcmsmedia%2Ff6%2F78867a7db0a44eeb1accb7d5071200%2F1725GR_PR_healthdaylogo.jpg 2x" data-size="rectangle150x100"/>
+            
+        </div>
+    
+
+    
+    
+
+    
+    
+    
+        
+        
+            
+            
+                
+                
+                <div class="block skin-editable">
+                    <style type="text/css">.cms-textAlign-left{text-align:left;}.cms-textAlign-center{text-align:center;}.cms-textAlign-right{text-align:right;}.cms-custom-quote{border-left: 1px solid #eee;
+margin-left: 15px;
+padding-left: 15px;
+font-style: italic;
+font-size: 17px;
+line-height: 28px;
+color: #666;}</style><p><b>By Dennis Thompson</b><br><i>HealthDay Reporter</i></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        
+        
+        <div class="thumb-right" style="margin-bottom: 0px;">
+            <a href="http://www.usnews.com/cmsmedia/c6/8c03d1beb02e5fb97196fc3e743fd3/HD70781718120.jpg?resize=180%3A135" class="js-lightbox" target="_blank">
+                <img src="http://www.usnews.com/dims4/USNEWS/ad61007/2147483647/thumbnail/180x135%3E/quality/85/?url=%2Fcmsmedia%2Fc6%2F8c03d1beb02e5fb97196fc3e743fd3%2FHD70781718120.jpg%3Fresize%3D180%3A135" width="180" height="135" title="(HealthDay)" alt="18120.jpg?resize=180:135" srcset="http://www.usnews.com/dims4/USNEWS/b3e4eeb/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2Fc6%2F8c03d1beb02e5fb97196fc3e743fd3%2FHD70781718120.jpg%3Fresize%3D180%3A135, http://www.usnews.com/dims4/USNEWS/8519572/2147483647/thumbnail/360x270%3E/quality/85/?url=%2Fcmsmedia%2Fc6%2F8c03d1beb02e5fb97196fc3e743fd3%2FHD70781718120.jpg%3Fresize%3D180%3A135 2x" data-size="rectangle652"/>
+            </a>
+            
+        </div>
+    
+    
+
+<p>MONDAY, Feb. 8, 2016 (HealthDay News) -- Average people who suffer a concussion may be three times more likely to commit suicide years after their brain injury, a new Canadian study suggests.</p><p>Further, the long-term risk of suicide appears to increase even more if the head injury occurs during a weekend, researchers found.</p><p>Based on these results, loved ones and physicians should keep a close eye on anyone who's had a concussion, even if the head injury happened years ago, said senior author Dr. Donald Redelmeier, senior core scientist at the Institute for Clinical Evaluative Sciences and a physician at Sunnybrook Health Sciences Center in Toronto.</p><p>"Nobody commits suicide in the immediate weeks or the immediate months after the concussion," Redelmeier said, noting that suicide tended to occur on average nearly six years following the head injury.</p><p>It's important to note, however, that this study only showed an association between concussion and suicide; it did not prove a cause-and-effect link.</p><p>Most research on long-term effects of concussion has involved military veterans and professional athletes, Redelmeier said. But he and his colleagues wanted to investigate whether garden-variety concussions cause any lasting problems for the general population.</p><p>They combed medical records to find every adult diagnosed with a concussion anywhere in Ontario during a two-decade period. The researchers looked for people who had concussions, but didn't need surgery and didn't need to be hospitalized, Redelmeier said. They came up with more than 235,000 people who'd had a concussion. From this group, 677 committed suicide.</p><p>Concussion patients wound up committing suicide at a rate of 31 per 100,000 people annually, researchers found. That's more than triple the average Canadian suicide rate of nine per 100,000 people each year, Redelmeier said</p><p>Findings from the study were published Feb. 8 in the <i>CMAJ</i>.</p><p>People who got a concussion on the weekends fared even worse, with four times the average suicide rate, the researchers said.</p><p>The increased risk remained even after researchers accounted for people with a prior history of psychiatric problems.</p><p>"That's an important finding in and of itself," said Dr. Robert Glatter, an emergency physician at Lenox Hill Hospital in New York City and former sideline physician for the New York Jets football team. "Just having concussion increases suicide risk in patients without a psychiatric history. All primary care physicians and pediatricians need to be aware of this study."</p><p>Weekend concussions probably have longer-lasting effects because they receive less medical attention, the experts suggested.</p><p>Concussions during weekdays typically occur on the job, where "we often have a more regimented type of follow-up," Glatter said.</p><p>"People are referred to the emergency department after such injuries because they are job-related and they will be compensated for follow-up care," he said.</p><p>On the other hand, weekend concussions often are related to recreation or sports activities, Glatter and Redelmeier said. People are more inclined to shake off those head injuries and not get proper care.</p><p>"If you want to get back up and back in the game, no one will stop you, and some of your teammates or your coaches might even encourage that," Redelmeier said.</p><p>There are several theories why concussions might be related to increased suicide risk, the experts said.</p><p>Repeated concussions are thought to cause lasting injuries to the brain that affect brain chemistry, increasing the risk of mood disorders that can lead to suicide, Glatter said.</p><p>These findings show that concussions may have an impact on long-term brain health, Redelmeier added.</p><p>"A concussion doesn't do anybody any good," Redelmeier said. "It can injure hundreds and hundreds of neurons inside the skull, every one of which might be important for something."</p>
+                </div>
+                <hr />
+                
+
+
+
+
+
+
+
+
+    <div class="pagination">
+        
+
+        
+            
+                
+                
+                
+                    <span class="pager_curpage">1</span>
+                
+            
+
+        
+            
+                
+                
+                    
+                    <a class="pager_link" href="http://health.usnews.com/health-news/articles/2016-02-08/study-links-concussion-to-higher-risk-of-later-suicide?page=2">2</a>
+                
+                
+            
+
+        
+
+        
+            
+            <a class="pager_link next" href="http://health.usnews.com/health-news/articles/2016-02-08/study-links-concussion-to-higher-risk-of-later-suicide?page=2">&gt;</a>
+        
+    </div>
+
+
+            
+        
+    
+    <div data-config-distributor-id="90080" id="ndn-video-player-3" class="ndn_embed" data-config-site-section="ndn1_usnews" style="width:100%;" data-config-height="9/16w"></div><br />
+
+    
+    
+
+    
+    
+
+    
+
+
+
+
+
+
+<footer data-swiftype-index="false">
+
+    
+
+
+
+
+
+
+
+
+    <dl class="commalist t t-subdued" data-swiftype-index="true">
+        <dt class="t-small">TAGS:</dt>
+        
+            <dd class="t"><a href="//www.usnews.com/topics/subjects/mental-health" class="link-subdued">mental health</a></dd>
+        
+    </dl>
+
+
+    <div class="bar block-generous">
+    <div id="social_screen" class="item" style="width: 125px; overflow: hidden;">
+        <ul class="bar-middled-loose">
+            <li class="item">
+                
+
+
+<a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ft.usnews.com%2FZhokm5%3Fsrc=usn_fb"
+   target="_blank">
+    <i class="icon-social-fb"></i>
+</a>
+
+            </li>
+            <li class="item">
+                
+
+
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ft.usnews.com%2FZhokm5%3Fsrc=usn_gp"
+   target="_blank">
+   <i class="icon-social-gp"></i>
+</a>
+
+            </li>
+            <li class="item">
+                
+
+
+<a href="https://twitter.com/share?url=http%3A%2F%2Ft.usnews.com%2FZhokm5%3Fsrc=usn_tw&via=usnews&text=Study%20Links%20Concussion%20to%20Higher%20Risk%20of%20Later%20Suicide" target="_blank">
+    <i class="icon-social-tw"></i>
+</a>
+
+            </li>
+            <li class="item">
+                
+
+
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Ft.usnews.com%2FZhokm5%3Fsrc=usn_li&title=Study%20Links%20Concussion%20to%20Higher%20Risk%20of%20Later%20Suicide&summary=&source=U.%20S.%20News"
+   target="_blank">
+   <i class="icon-social-li"></i>
+</a>
+
+            </li>
+            <li class="item item-right">
+                
+
+<a href="http://www.stumbleupon.com/badge/?url=http%3A%2F%2Ft.usnews.com%2FZhokm5%3Fsrc=usn_su"
+   target="_blank">
+    <i class="icon-social-su"></i>
+</a>
+
+            </li>
+            <li class="item item-right">
+                
+
+<a href="http://www.reddit.com/submit?url=http%3A%2F%2Ft.usnews.com%2FZhokm5%3Fsrc=usn_rd&title=Study%20Links%20Concussion%20to%20Higher%20Risk%20of%20Later%20Suicide"
+   target="_blank">
+    <i class="icon-social-red"></i>
+</a>
+
+            </li>
+        </ul>
+    </div>
+    <div id="social_more" class="item t-small link-subdued link-pointer" style="padding-top: 8px;">+ More</div>
+    <script type="text/javascript">
+        $('#social_more').click(function () {
+            $(this).fadeOut();
+            $('#social_screen').animate({width: 300});
+        });
+    </script>
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+<div>
+    
+    
+</div>
+
+    
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+        <div id="afterContent" class="ad ad-after-content ad-labeled sep">
+            
+                
+                
+                    <script type="text/javascript"> dblclick('afterContent'); </script>
+                
+            
+        </div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="mod-b sep"
+         data-usn-element-name="00000143-990f-dcdb-a55f-db6f2acd0000"
+         data-aid="a57b09">
+        <h4>You Might Also Like</h4>
+        <hr class="hr-heavy"/>
+
+        
+            
+
+
+
+
+
+
+<ul class="column-3-guttered mod-b sep"
+    data-usn-element-name="00000143-ab27-d672-a37f-fbaf32f50000"
+    data-aid="9e8c08">
+    
+        <li class="media item">
+            
+                <a href="http://health.usnews.com/best-diet">
+                    <img src="http://www.usnews.com/dims4/USNEWS/664d1ed/2147483647/thumbnail/204x136%3E/quality/85/?url=%2Fcmsmedia%2Fca%2F7a%2F866b12754fef90585cee3f45fdde%2Fresizes%2F500%2F141224-dietcomposite-stock.png" width="204" height="136" alt="Best Diets composite" class="block-taut" srcset="http://www.usnews.com/dims4/USNEWS/664d1ed/2147483647/thumbnail/204x136%3E/quality/85/?url=%2Fcmsmedia%2Fca%2F7a%2F866b12754fef90585cee3f45fdde%2Fresizes%2F500%2F141224-dietcomposite-stock.png, http://www.usnews.com/dims4/USNEWS/2878e23/2147483647/thumbnail/408x272%3E/quality/85/?url=%2Fcmsmedia%2Fca%2F7a%2F866b12754fef90585cee3f45fdde%2Fresizes%2F500%2F141224-dietcomposite-stock.png 2x" data-size="featuredMediaWide"/>
+                </a>
+            
+            
+            <p class="t-block">
+                <a href="http://health.usnews.com/best-diet">Find the Best Diet for You</a>
+            </p>
+        </li>
+    
+        <li class="media item">
+            
+                <a href="http://health.usnews.com/health-news/health-wellness/slideshows/10-cold-and-flu-myths-debunked">
+                    <img src="http://www.usnews.com/dims4/USNEWS/8ea6a89/2147483647/crop/1197x798%2B0%2B0/resize/204x136%3E/quality/85/?url=%2Fcmsmedia%2F68%2F2c%2F5ef25bc84553ab7f0bfbf237094f%2F151215-coldflu-stock.jpg" width="204" height="136" alt="Sick woman laying on sofa blowing nose." class="block-taut" srcset="http://www.usnews.com/dims4/USNEWS/8ea6a89/2147483647/crop/1197x798%2B0%2B0/resize/204x136%3E/quality/85/?url=%2Fcmsmedia%2F68%2F2c%2F5ef25bc84553ab7f0bfbf237094f%2F151215-coldflu-stock.jpg, http://www.usnews.com/dims4/USNEWS/874a96b/2147483647/crop/1197x798%2B0%2B0/resize/408x272%3E/quality/85/?url=%2Fcmsmedia%2F68%2F2c%2F5ef25bc84553ab7f0bfbf237094f%2F151215-coldflu-stock.jpg 2x" data-size="featuredMediaWide"/>
+                </a>
+            
+            
+            <p class="t-block">
+                <a href="http://health.usnews.com/health-news/health-wellness/slideshows/10-cold-and-flu-myths-debunked">10 Cold and Flu Myths Debunked</a>
+            </p>
+        </li>
+    
+        <li class="media item">
+            
+                <a href="http://health.usnews.com/health-products">
+                    <img src="http://www.usnews.com/dims4/USNEWS/0f2a97b/2147483647/thumbnail/204x136%3E/quality/85/?url=%2Fcmsmedia%2Fac%2F3d%2F2c8a4d424358a1a32dafd16fcf02%2Fresizes%2F500%2F140617-trhpcarousel-stock.png" width="204" height="136" alt="TRHP Carousel composite" class="block-taut" srcset="http://www.usnews.com/dims4/USNEWS/0f2a97b/2147483647/thumbnail/204x136%3E/quality/85/?url=%2Fcmsmedia%2Fac%2F3d%2F2c8a4d424358a1a32dafd16fcf02%2Fresizes%2F500%2F140617-trhpcarousel-stock.png, http://www.usnews.com/dims4/USNEWS/cddf148/2147483647/thumbnail/408x272%3E/quality/85/?url=%2Fcmsmedia%2Fac%2F3d%2F2c8a4d424358a1a32dafd16fcf02%2Fresizes%2F500%2F140617-trhpcarousel-stock.png 2x" data-size="featuredMediaWide"/>
+                </a>
+            
+            
+            <p class="t-block">
+                <a href="http://health.usnews.com/health-products">Top Recommended Health Products</a>
+            </p>
+        </li>
+    
+</ul>
+
+        
+
+        
+
+        
+            <div class="sep">
+                
+                <script type="text/javascript">(function($, win, undef) {var done = function() {$(window.document).frame({'setBody': function(body) {var insertionMode = $(this).attr('data-insertion-mode');if ('append' === insertionMode) {$(this).append(body);} else if ('prepend' === insertionMode) {$(this).prepend(body);} else {$(this).html(body);}}}).ready(function() {$(this).trigger('create');});};var deferreds = [];if (!$.isFunction($.plugin2)) {deferreds.push($.getScript('/_resource/jquery2/jquery.extra.js'));}if (!$.isFunction($.fn.popup)) {deferreds.push($.getScript('/_resource/jquery2/jquery.popup.js'));}if (!$.isFunction($.fn.frame)) {deferreds.push($.getScript('/_resource/jquery2/jquery.frame.js'));}if (deferreds.length > 0) {deferreds.push($.Deferred(function(deferred) {$(deferred.resolve);}));$.when.apply($, deferreds).done(function() {done();});} else {done();}}(jQuery, window));</script><div data-river="{&quot;target&quot;:&quot;.more-link&quot;}" class="dari-frame dari-frame-loaded" name="loadRelatedArticles" data-insertion-mode="append" data-extra-form-data="_frame.path=f82535dc5a19cfaaf968e02e280dc3b2&amp;_frame.name=loadRelatedArticles">
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-17/zika-virus-sexual-transmission-and-protection-101" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/f09d3b0/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F31%2F91%2Fb4d3c8984fcba1af85deb912d93a%2F160217-stock" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-17/zika-virus-sexual-transmission-and-protection-101" target="_top">
+                Zika Virus: Sexual Transmission and Protection 101
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/elaine-cox-md" class="link-dark" target="_top">
+                        Elaine Cox, M.D.
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 16:20:10 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                            
+                                
+                                
+                                    
+                                
+                                
+
+
+
+
+
+
+
+
+
+    
+    
+
+        <div id="brandfuse_1" class="ad ad-brandfuse sep">
+            
+                
+                
+                    <script type="text/javascript"> dblclick('brandfuse_1'); </script>
+                
+            
+        </div>
+
+    
+
+
+
+                            
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-17/cancer-survivor-taking-on-new-meaning-for-patients" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/ad4fd1d/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fb5%2F9a%2F852f7a774759a40912456dc7cc71%2Fresizes%2F500%2F160217-cancerscarf-stock.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/ad4fd1d/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fb5%2F9a%2F852f7a774759a40912456dc7cc71%2Fresizes%2F500%2F160217-cancerscarf-stock.jpg, http://www.usnews.com/dims4/USNEWS/992c089/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2Fb5%2F9a%2F852f7a774759a40912456dc7cc71%2Fresizes%2F500%2F160217-cancerscarf-stock.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-17/cancer-survivor-taking-on-new-meaning-for-patients" target="_top">
+                ‘Cancer Survivor’ Taking on New Meaning for Patients
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/lisa-esposito" class="link-dark" target="_top">
+                        Lisa Esposito
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 10:43:12 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-17/does-going-to-the-hospital-make-you-sicker" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/f92b17c/2147483647/crop/333x333%2B166%2B0/resize/80x80%3E/quality/85/?url=%2Fcmsmedia%2Ffe%2Ffb%2Fcf6a35444a49a6adfb4298477ec2%2Fresizes%2F500%2F160217-doctorpatientbed-stock.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/f92b17c/2147483647/crop/333x333%2B166%2B0/resize/80x80%3E/quality/85/?url=%2Fcmsmedia%2Ffe%2Ffb%2Fcf6a35444a49a6adfb4298477ec2%2Fresizes%2F500%2F160217-doctorpatientbed-stock.jpg, http://www.usnews.com/dims4/USNEWS/0e14635/2147483647/crop/333x333%2B166%2B0/resize/160x160%3E/quality/85/?url=%2Fcmsmedia%2Ffe%2Ffb%2Fcf6a35444a49a6adfb4298477ec2%2Fresizes%2F500%2F160217-doctorpatientbed-stock.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-17/does-going-to-the-hospital-make-you-sicker" target="_top">
+                Does Going to the Hospital Make You Sicker?
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/stacey-colino" class="link-dark" target="_top">
+                        Stacey Colino
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 17 10:04:27 EST 2016" class="t item">
+                Feb. 17, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+                            
+                                
+                                
+                                    
+                                
+                                
+
+
+
+
+
+
+
+
+
+    
+    
+
+        <div id="rectangle_1" class="ad ad-rectangle ad-rectangle-a ad-labeled sep">
+            
+                
+                
+                    <script type="text/javascript"> dblclick('rectangle_1'); </script>
+                
+            
+        </div>
+
+    
+
+
+
+                            
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="http://health.usnews.com/health-news/health-wellness/slideshows/10-reasons-you-should-try-self-massage" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/77c6a17/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fc9%2Fdf%2F55fb4eda46ba896f098b07d3cfcc%2Fresizes%2F500%2F160216-neckpain-stock.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/77c6a17/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fc9%2Fdf%2F55fb4eda46ba896f098b07d3cfcc%2Fresizes%2F500%2F160216-neckpain-stock.jpg, http://www.usnews.com/dims4/USNEWS/147c19e/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2Fc9%2Fdf%2F55fb4eda46ba896f098b07d3cfcc%2Fresizes%2F500%2F160216-neckpain-stock.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="http://health.usnews.com/health-news/health-wellness/slideshows/10-reasons-you-should-try-self-massage" target="_top">
+                10 Reasons You Should Try Self-Massage
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/anna-medaris-miller" class="link-dark" target="_top">
+                        Anna Medaris Miller
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Tue Feb 16 11:29:09 EST 2016" class="t item">
+                Feb. 16, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-16/do-you-really-need-a-vitamin-d-supplement" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/2a73237/2147483647/crop/326x326%2B30%2B1/resize/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fe6%2Fc4%2F84d0605946b680617de879285d15%2Fresizes%2F500%2F141119-vitamind-stock.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/2a73237/2147483647/crop/326x326%2B30%2B1/resize/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fe6%2Fc4%2F84d0605946b680617de879285d15%2Fresizes%2F500%2F141119-vitamind-stock.jpg, http://www.usnews.com/dims4/USNEWS/325d482/2147483647/crop/326x326%2B30%2B1/resize/160x160%3E/quality/85/?url=%2Fcmsmedia%2Fe6%2Fc4%2F84d0605946b680617de879285d15%2Fresizes%2F500%2F141119-vitamind-stock.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-16/do-you-really-need-a-vitamin-d-supplement" target="_top">
+                Do You Really Need a Vitamin D Supplement?
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/michael-o-schroeder" class="link-dark" target="_top">
+                        Michael O. Schroeder
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Tue Feb 16 11:22:14 EST 2016" class="t item">
+                Feb. 16, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-16/anti-romance-why-breaking-up-is-so-hard-to-do" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/48253bc/2147483647/crop/329x329%2B31%2B0/resize/80x80%3E/quality/85/?url=%2Fcmsmedia%2F48%2Fe3%2Fa05e2b7a473aa451c1f59c8519b9%2Fresizes%2F500%2F140213-brokenheart-stock.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/48253bc/2147483647/crop/329x329%2B31%2B0/resize/80x80%3E/quality/85/?url=%2Fcmsmedia%2F48%2Fe3%2Fa05e2b7a473aa451c1f59c8519b9%2Fresizes%2F500%2F140213-brokenheart-stock.jpg, http://www.usnews.com/dims4/USNEWS/74633ad/2147483647/crop/329x329%2B31%2B0/resize/160x160%3E/quality/85/?url=%2Fcmsmedia%2F48%2Fe3%2Fa05e2b7a473aa451c1f59c8519b9%2Fresizes%2F500%2F140213-brokenheart-stock.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-16/anti-romance-why-breaking-up-is-so-hard-to-do" target="_top">
+                Anti-Romance: Why Breaking Up Is So Hard to Do
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/howard-forman" class="link-dark" target="_top">
+                        Howard Forman
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Tue Feb 16 06:00:00 EST 2016" class="t item">
+                Feb. 16, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="http://health.usnews.com/health-news/patient-advice/slideshows/17-ways-heart-health-varies-in-women-and-men" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/bd5e739/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fde%2Ffa%2F09d58fa34c3b979bec3340c169db%2Fresizes%2F500%2F160211-heartstethoscope-stock.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/bd5e739/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fde%2Ffa%2F09d58fa34c3b979bec3340c169db%2Fresizes%2F500%2F160211-heartstethoscope-stock.jpg, http://www.usnews.com/dims4/USNEWS/1611f35/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2Fde%2Ffa%2F09d58fa34c3b979bec3340c169db%2Fresizes%2F500%2F160211-heartstethoscope-stock.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="http://health.usnews.com/health-news/patient-advice/slideshows/17-ways-heart-health-varies-in-women-and-men" target="_top">
+                17 Ways Heart Health Varies in Women and Men
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/lisa-esposito" class="link-dark" target="_top">
+                        Lisa Esposito
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Fri Feb 12 12:53:30 EST 2016" class="t item">
+                Feb. 12, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="http://health.usnews.com/health-news/health-wellness/articles/2016-02-12/15-science-backed-ways-to-make-any-workout-feel-easier" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/6d9edec/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Faf%2F59%2F0c709235422c935a49de0b85182f%2Fresizes%2F500%2F160211-easierworkout-composite-stock.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/6d9edec/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Faf%2F59%2F0c709235422c935a49de0b85182f%2Fresizes%2F500%2F160211-easierworkout-composite-stock.jpg, http://www.usnews.com/dims4/USNEWS/fa9ad12/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2Faf%2F59%2F0c709235422c935a49de0b85182f%2Fresizes%2F500%2F160211-easierworkout-composite-stock.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="http://health.usnews.com/health-news/health-wellness/articles/2016-02-12/15-science-backed-ways-to-make-any-workout-feel-easier" target="_top">
+                15 Science-Backed Ways to Make Any Workout Feel Easier
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/k-aleisha-fetters" class="link-dark" target="_top">
+                        K. Aleisha Fetters
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Fri Feb 12 09:16:47 EST 2016" class="t item">
+                Feb. 12, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-12/gone-in-80-seconds-women-and-heart-disease" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/0898e6c/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fea%2F9cdbc1e57c845a9f35cc479661f83a%2F44842Slideshow_ChestPainsSenior_130719.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/0898e6c/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fea%2F9cdbc1e57c845a9f35cc479661f83a%2F44842Slideshow_ChestPainsSenior_130719.jpg, http://www.usnews.com/dims4/USNEWS/16a5e28/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2Fea%2F9cdbc1e57c845a9f35cc479661f83a%2F44842Slideshow_ChestPainsSenior_130719.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-12/gone-in-80-seconds-women-and-heart-disease" target="_top">
+                Gone in 80 Seconds – Women and Heart Disease
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/dr-kevin-campbell" class="link-dark" target="_top">
+                        Dr. Kevin Campbell
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Fri Feb 12 08:38:30 EST 2016" class="t item">
+                Feb. 12, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="http://health.usnews.com/health-news/health-wellness/articles/2016-02-11/dating-with-a-disability" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/60e9729/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fa7%2F5c%2F7d2203e545dbb151ef860e51cc6f%2Fresizes%2F500%2F160211-patrickjessica-submitted.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/60e9729/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fa7%2F5c%2F7d2203e545dbb151ef860e51cc6f%2Fresizes%2F500%2F160211-patrickjessica-submitted.jpg, http://www.usnews.com/dims4/USNEWS/1f7d8cd/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2Fa7%2F5c%2F7d2203e545dbb151ef860e51cc6f%2Fresizes%2F500%2F160211-patrickjessica-submitted.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="http://health.usnews.com/health-news/health-wellness/articles/2016-02-11/dating-with-a-disability" target="_top">
+                Dating With a Disability
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/anna-medaris-miller" class="link-dark" target="_top">
+                        Anna Medaris Miller
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Thu Feb 11 10:34:19 EST 2016" class="t item">
+                Feb. 11, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-11/racial-bias-in-medicine-leads-to-worse-care-for-minorities" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/5913cff/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fcb%2Ffe%2Faaa24a0e447bb9565daa948a9ee9%2Fresizes%2F500%2F160211-sadseniorpatient-stock.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/5913cff/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fcb%2Ffe%2Faaa24a0e447bb9565daa948a9ee9%2Fresizes%2F500%2F160211-sadseniorpatient-stock.jpg, http://www.usnews.com/dims4/USNEWS/9923c43/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2Fcb%2Ffe%2Faaa24a0e447bb9565daa948a9ee9%2Fresizes%2F500%2F160211-sadseniorpatient-stock.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-11/racial-bias-in-medicine-leads-to-worse-care-for-minorities" target="_top">
+                Racial Bias in Medicine Leads to Worse Care for Minorities
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/michael-o-schroeder" class="link-dark" target="_top">
+                        Michael O. Schroeder
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Thu Feb 11 10:13:17 EST 2016" class="t item">
+                Feb. 11, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-11/i-had-ocular-melanoma-one-womans-experience-with-the-rare-aggressive-eye-cancer" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/1fe312c/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F53%2F5b%2Ffc5263a54030af7538359c1902b2%2Fresizes%2F500%2F150319-closeupeye-stock.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/1fe312c/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2F53%2F5b%2Ffc5263a54030af7538359c1902b2%2Fresizes%2F500%2F150319-closeupeye-stock.jpg, http://www.usnews.com/dims4/USNEWS/64bd1c5/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2F53%2F5b%2Ffc5263a54030af7538359c1902b2%2Fresizes%2F500%2F150319-closeupeye-stock.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-11/i-had-ocular-melanoma-one-womans-experience-with-the-rare-aggressive-eye-cancer" target="_top">
+                I Had Ocular Melanoma: One Woman&#039;s Experience With the Rare, Aggressive Eye Cancer
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/michelle-martin" class="link-dark" target="_top">
+                        Michelle Martin
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Thu Feb 11 06:00:00 EST 2016" class="t item">
+                Feb. 11, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-10/your-heart-needs-sleep" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/a0eec09/2147483647/crop/801x801%2B398%2B0/resize/80x80%3E/quality/85/?url=%2Fcmsmedia%2F9e%2Fd4%2F3057ec564cc58f93ed95dca80dbb%2F150209-sleepingwoman-stock.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/a0eec09/2147483647/crop/801x801%2B398%2B0/resize/80x80%3E/quality/85/?url=%2Fcmsmedia%2F9e%2Fd4%2F3057ec564cc58f93ed95dca80dbb%2F150209-sleepingwoman-stock.jpg, http://www.usnews.com/dims4/USNEWS/907bfec/2147483647/crop/801x801%2B398%2B0/resize/160x160%3E/quality/85/?url=%2Fcmsmedia%2F9e%2Fd4%2F3057ec564cc58f93ed95dca80dbb%2F150209-sleepingwoman-stock.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-10/your-heart-needs-sleep" target="_top">
+                Your Heart Needs Sleep
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/samantha-costa" class="link-dark" target="_top">
+                        Samantha Costa
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 10 14:29:21 EST 2016" class="t item">
+                Feb. 10, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-10/you-finally-decided-to-get-help-for-addiction-now-what" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/92b404d/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fcd%2Fc0%2Fe14118774c8d8db8fdcfc5a79a44%2Fresizes%2F500%2F140210-drugaddiction-stock.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/92b404d/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fcd%2Fc0%2Fe14118774c8d8db8fdcfc5a79a44%2Fresizes%2F500%2F140210-drugaddiction-stock.jpg, http://www.usnews.com/dims4/USNEWS/6272199/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2Fcd%2Fc0%2Fe14118774c8d8db8fdcfc5a79a44%2Fresizes%2F500%2F140210-drugaddiction-stock.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-10/you-finally-decided-to-get-help-for-addiction-now-what" target="_top">
+                You Finally Decided to Get Help for Addiction. Now What?
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/roman-petrocelli" class="link-dark" target="_top">
+                        Roman Petrocelli
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Wed Feb 10 06:00:00 EST 2016" class="t item">
+                Feb. 10, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-09/1-in-5-children-estimated-to-have-high-or-abnormally-low-cholesterol" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/64c3c75/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fe6%2F95%2Fa88fd1894f2cafe29d60d21813a7%2Fresizes%2F500%2F160209-overweightkid-stock.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/64c3c75/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fe6%2F95%2Fa88fd1894f2cafe29d60d21813a7%2Fresizes%2F500%2F160209-overweightkid-stock.jpg, http://www.usnews.com/dims4/USNEWS/aa91496/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2Fe6%2F95%2Fa88fd1894f2cafe29d60d21813a7%2Fresizes%2F500%2F160209-overweightkid-stock.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-09/1-in-5-children-estimated-to-have-high-or-abnormally-low-cholesterol" target="_top">
+                1 in 5 Children Estimated to Have High – or Abnormally Low – Cholesterol
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/michael-o-schroeder" class="link-dark" target="_top">
+                        Michael O. Schroeder
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Tue Feb 09 10:12:54 EST 2016" class="t item">
+                Feb. 9, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-09/pre-sports-participation-screening-what-you-need-to-know" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/ccdfec5/2147483647/crop/801x801%2B0%2B0/resize/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fd2%2F4d%2Ffcfb8f8b4edd921228a91098bafb%2F150127-heartbeat-stock.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/ccdfec5/2147483647/crop/801x801%2B0%2B0/resize/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fd2%2F4d%2Ffcfb8f8b4edd921228a91098bafb%2F150127-heartbeat-stock.jpg, http://www.usnews.com/dims4/USNEWS/1cf0fa8/2147483647/crop/801x801%2B0%2B0/resize/160x160%3E/quality/85/?url=%2Fcmsmedia%2Fd2%2F4d%2Ffcfb8f8b4edd921228a91098bafb%2F150127-heartbeat-stock.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-09/pre-sports-participation-screening-what-you-need-to-know" target="_top">
+                Pre-Sports Participation Screening: What You Need to Know
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/daphne-t-hsu-md" class="link-dark" target="_top">
+                        Daphne T. Hsu, M.D.
+                    </a>
+                    |
+                
+                    <a href="/topics/author/christopher-m-janson-md" class="link-dark" target="_top">
+                        Christopher M. Janson, M.D. 
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Tue Feb 09 06:00:00 EST 2016" class="t item">
+                Feb. 9, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="http://health.usnews.com/health-news/health-wellness/articles/2016-02-05/are-football-players-too-fat" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/0f86a1c/2147483647/crop/801x801%2B157%2B0/resize/80x80%3E/quality/85/?url=%2Fcmsmedia%2Ff3%2Ffc%2F9f3d03fc4dbfa1c107ebe77e7798%2F160205-overweightfootball-stock.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/0f86a1c/2147483647/crop/801x801%2B157%2B0/resize/80x80%3E/quality/85/?url=%2Fcmsmedia%2Ff3%2Ffc%2F9f3d03fc4dbfa1c107ebe77e7798%2F160205-overweightfootball-stock.jpg, http://www.usnews.com/dims4/USNEWS/5e0e9bd/2147483647/crop/801x801%2B157%2B0/resize/160x160%3E/quality/85/?url=%2Fcmsmedia%2Ff3%2Ffc%2F9f3d03fc4dbfa1c107ebe77e7798%2F160205-overweightfootball-stock.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="http://health.usnews.com/health-news/health-wellness/articles/2016-02-05/are-football-players-too-fat" target="_top">
+                Are Football Players Too Fat?
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/anna-medaris-miller" class="link-dark" target="_top">
+                        Anna Medaris Miller
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Fri Feb 05 13:13:39 EST 2016" class="t item">
+                Feb. 5, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="http://health.usnews.com/health-news/health-wellness/articles/2016-02-05/is-soy-good-or-bad-for-you" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/8da7687/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fbf%2F87%2F4baee79747459bbb0045cec8dc0e%2Fresizes%2F500%2F151118-tofu-stock.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/8da7687/2147483647/thumbnail/80x80%3E/quality/85/?url=%2Fcmsmedia%2Fbf%2F87%2F4baee79747459bbb0045cec8dc0e%2Fresizes%2F500%2F151118-tofu-stock.jpg, http://www.usnews.com/dims4/USNEWS/cef6858/2147483647/thumbnail/160x160%3E/quality/85/?url=%2Fcmsmedia%2Fbf%2F87%2F4baee79747459bbb0045cec8dc0e%2Fresizes%2F500%2F151118-tofu-stock.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="http://health.usnews.com/health-news/health-wellness/articles/2016-02-05/is-soy-good-or-bad-for-you" target="_top">
+                Is Soy Good or Bad for You?
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/k-aleisha-fetters" class="link-dark" target="_top">
+                        K. Aleisha Fetters
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Fri Feb 05 09:45:20 EST 2016" class="t item">
+                Feb. 5, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-05/exercising-for-your-heart-in-the-new-year-and-beyond" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/d7d79b5/2147483647/crop/330x330%2B123%2B0/resize/80x80%3E/quality/85/?url=%2Fcmsmedia%2F1b%2Fb8%2F49b49557480997da3ff81bf2f92b%2Fresizes%2F500%2Fexercisesenior.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/d7d79b5/2147483647/crop/330x330%2B123%2B0/resize/80x80%3E/quality/85/?url=%2Fcmsmedia%2F1b%2Fb8%2F49b49557480997da3ff81bf2f92b%2Fresizes%2F500%2Fexercisesenior.jpg, http://www.usnews.com/dims4/USNEWS/158e61f/2147483647/crop/330x330%2B123%2B0/resize/160x160%3E/quality/85/?url=%2Fcmsmedia%2F1b%2Fb8%2F49b49557480997da3ff81bf2f92b%2Fresizes%2F500%2Fexercisesenior.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="http://health.usnews.com/health-news/patient-advice/articles/2016-02-05/exercising-for-your-heart-in-the-new-year-and-beyond" target="_top">
+                Exercising for Your Heart – in the New Year and Beyond
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/leslie-cho-md" class="link-dark" target="_top">
+                        Leslie Cho, M.D.
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Fri Feb 05 07:47:23 EST 2016" class="t item">
+                Feb. 5, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+                        
+                        
+
+                        
+                            
+                            
+
+
+
+
+
+
+<div class="sep media">
+    
+            <a href="http://health.usnews.com/health-news/health-wellness/articles/2016-02-04/is-your-child-becoming-a-psychopath" class="img block" target="_top">
+                <img src="http://www.usnews.com/dims4/USNEWS/3b55449/2147483647/crop/800x800%2B199%2B0/resize/80x80%3E/quality/85/?url=%2Fcmsmedia%2F24%2F6d%2F395431174e3a9a6d1ad577ee4bec%2F160203-childmask-stock.jpg" width="80" height="80" srcset="http://www.usnews.com/dims4/USNEWS/3b55449/2147483647/crop/800x800%2B199%2B0/resize/80x80%3E/quality/85/?url=%2Fcmsmedia%2F24%2F6d%2F395431174e3a9a6d1ad577ee4bec%2F160203-childmask-stock.jpg, http://www.usnews.com/dims4/USNEWS/5e47bf4/2147483647/crop/800x800%2B199%2B0/resize/160x160%3E/quality/85/?url=%2Fcmsmedia%2F24%2F6d%2F395431174e3a9a6d1ad577ee4bec%2F160203-childmask-stock.jpg 2x" data-size="articleThumb"/>
+            </a>
+    
+    <div class="content">
+        <h4>
+            <a href="http://health.usnews.com/health-news/health-wellness/articles/2016-02-04/is-your-child-becoming-a-psychopath" target="_top">
+                Is Your Child Becoming a Psychopath?
+            </a>
+        </h4>
+        <p class="t-block t-subdued">
+            
+                By
+                
+                    <a href="/topics/author/michael-o-schroeder" class="link-dark" target="_top">
+                        Michael O. Schroeder
+                    </a>
+                    |
+                
+            
+            
+            <time itemprop="datePublished" datetime="Thu Feb 04 15:00:08 EST 2016" class="t item">
+                Feb. 4, 2016
+            </time>
+        </p>
+    </div>
+</div>
+
+                        
+                    
+
+                    
+                        
+
+                        <a href="http://health.usnews.com/health-news/articles/2016-02-08/study-links-concussion-to-higher-risk-of-later-suicide?offset=20" class="button-secondary button-fullwidth sep more-link" rel="nofollow">
+                            See More
+                        </a>
+                    
+                </div>
+            </div>
+            <script type="text/javascript"> USN.load('jquery.river'); </script>
+        
+    </div>
+
+ 
+</footer>    
+
+    
+    
+    
+    <script type="text/javascript">
+        function checkImgPrevNextElement(e){var t,n=e,r=n.nextElementSibling,i=n.previousElementSibling,o=!1,l=!1,a=!1;return t=n.querySelectorAll("img"),o=hasLargeImage(t),null!==r&&(r=nextNotEmpty(r),t=r.querySelectorAll("img"),l=t.length>0?hasLargeImage(t):!1),null!==i&&(i=prevNotEmpty(i),t=i.querySelectorAll("img"),a=t.length>0?hasLargeImage(t):!1),l||a||o}function checkVideoPrevNextElement(e){var t=e,n=e.nextElementSibling,r=e.previousElementSibling,i=!1,o=!1,l=!1;return i=checkVideoInElement(t),null!==n&&(n=nextNotEmpty(n),o=checkVideoInElement(n)),null!==r&&(r=prevNotEmpty(r),l=checkVideoInElement(r)),o||l||i}function checkVideoSiblings(e){var t,n=e,r=!1;return t=n.parentNode,r=checkVideoInElement(t)}function checkVideoInElement(e){var t,n=!1,r=e.tagName.toLowerCase(),i=e.getAttribute("src");if("video"==r||"object"==r||"embed"==r)return!0;if(i&&isVideo(i))return!0;if(e.querySelectorAll("video").length>0)return!0;if(e.querySelectorAll("object").length>0)return!0;t=e.querySelectorAll("[src]");for(var o=0;o<t.length;o++){var l=t[o];if(i=l.getAttribute("src"),isVideo(i))return n=!0}return n}function isVideo(e){var t=/youtube|youtu.be|dailymotion|day.ly|vimeo|instagram|vine-videos/i;return t.test(e)}function hasLargeImage(e){for(var t=!1,n=75,r=0;r<e.length;r++){var i=e[r];if(i.offsetWidth>n)return t=!0}return t}function isEmpty(e){var t=["iframe","object","img"];return-1===t.indexOf(e.tagName.toLowerCase())&&0===e.querySelectorAll(t.join(",")).length&&""==e.textContent.trim()}function nextNotEmpty(e){for(var t=0,n=3;isEmpty(e)&&n>t;)e=e.nextElementSibling,t++;return e}function prevNotEmpty(e){for(var t=0,n=3;isEmpty(e)&&n>t;)e=e.previousElementSibling,t++;return e}var usnVertical=USN.util.getSection();if("news"===usnVertical||"education"===usnVertical)window._ttf=window._ttf||[],_ttf.push({pid:42436,lang:"en",slot:"#ntv-content, .media-overline.block-generous, .bar.block-generous, .pagination",format:"inread",before:!0,minSlot:0,components:{skip:{delay:0}},filter:function(e){return 0===window.top.document.querySelectorAll("#ndn-widget-embed-5-player").length}}),function(e){var t,n=e.getElementsByTagName("script")[0];t=e.createElement("script"),t.async=!0,t.src="//cdn.teads.tv/media/format.js",n.parentNode.insertBefore(t,n)}(window.document);else if("health"===usnVertical||"money"===usnVertical){Array.prototype.indexOf||(Array.prototype.indexOf=function(e,t){if(void 0===this||null===this)throw new TypeError("this is null or not defined");var n=this.length>>>0;for(t=+t||0,Math.abs(t)===1/0&&(t=0),0>t&&(t+=n,0>t&&(t=0));n>t;t++)if(this[t]===e)return t;return-1});var _tt_filterVideo=!0;window._ttf=window._ttf||[],_ttf.push({pid:27843,lang:"en",slot:"#content .block > p, .centered-margin .block > p",minSlot:5,format:"inread",components:{skip:{delay:0}},css:"margin: 0px 0px 25px;",avoidSlot:{slot:".thumb-left, .thumb-right",dist:10},filter:function(e){var t=e.elts[e.i],n=!0;return isEmpty(t)&&(n=!1),n=n&&!checkImgPrevNextElement(t),n=n&&!checkVideoPrevNextElement(t),n=n&&e.wrappedSizes.width>=250},passBack:function(e){zflag_breplay="1",function(e){var t,n=e.getElementsByTagName("script")[0];t=e.createElement("script"),t.async=!0,t.src="http://d6.zedo.com/jsc/d6/frd.js",n.parentNode.insertBefore(t,n)}(window.document)}}),function(e){var t,n=e.getElementsByTagName("script")[0];t=e.createElement("script"),t.async=!0,t.src="//cdn.teads.tv/media/format.js",n.parentNode.insertBefore(t,n)}(window.document)}
+    </script>
+</article>
+</div></div><div class="dari-grid-area _da" data-grid-area="right" _da="right"><div class="dari-grid-adj _dj dari-grid-adj-px _dj-px" data-grid-area="right" _da="right">
+    <aside class="rail-right" id="rail">
+        
+
+
+
+
+
+
+<div class="mod-b sep"
+     data-usn-element-name="00000142-976a-df54-a156-b76a0d9a0000"
+     data-aid="986d08">
+    <h4 class="h link-dark">
+        <a href="http://health.usnews.com/health-news/blogs/eat-run">
+            
+                
+                    
+                        <img src="http://www.usnews.com/dims4/USNEWS/32b1778/2147483647/thumbnail/300x85/quality/85/?url=%2Fcmsmedia%2F19%2F44%2F28dffd424db0811f8a84f8a4f274%2Feat-run.png" width="300" height="85" alt="Eat + Run" srcset="http://www.usnews.com/dims4/USNEWS/087a763/2147483647/resize/300x/quality/85/?url=%2Fcmsmedia%2F19%2F44%2F28dffd424db0811f8a84f8a4f274%2Feat-run.png, http://www.usnews.com/dims4/USNEWS/10743e1/2147483647/thumbnail/600x170/quality/85/?url=%2Fcmsmedia%2F19%2F44%2F28dffd424db0811f8a84f8a4f274%2Feat-run.png 2x"/>
+                    
+                    
+                    
+                
+            
+            
+        </a>
+    </h4>
+
+    
+        <article class="">
+            
+            
+                
+                    <p class="t-taut"><a href="http://health.usnews.com/health-news/blogs/eat-run/articles/2016-02-17/how-fast-should-your-heart-beat-really">How Fast Should Your Heart Beat, Really?</a></p>
+                    
+                        <p class="t-block">Everything you need to know about measuring your heart rate.&nbsp;</p>
+                    
+                
+                
+            
+        </article>
+    
+        <article class="">
+            
+            
+                
+                    <p class="t-taut"><a href="http://health.usnews.com/health-news/blogs/eat-run/articles/2016-02-17/eat-and-drink-your-way-to-a-healthier-heart">Eat and Drink Your Way to a Healthier Heart</a></p>
+                    
+                        <p class="t-block">These
+dietary changes can have a big impact in lowering cardiovascular risk.<br></p>
+                    
+                
+                
+            
+        </article>
+    
+        <article class="">
+            
+            
+                
+                    <p class="t-taut"><a href="http://health.usnews.com/health-news/blogs/eat-run/articles/2016-02-17/7-simple-steps-to-a-healthier-heart">7 Simple Steps to a Healthier Heart</a></p>
+                    
+                        <p class="t-block">Breaking big goals into small changes suddenly makes them achievable.&nbsp;<br></p>
+                    
+                
+                
+            
+        </article>
+    
+        <article class="">
+            
+            
+                
+                    <p class="t-taut"><a href="http://health.usnews.com/health-news/blogs/eat-run/articles/2016-02-15/dietitians-go-to-winter-ingredients-with-recipes">Dietitian’s Go-To Winter Ingredients – With Recipes</a></p>
+                    
+                        <p class="t-block">It’s the perfect time
+of year to utilize lesser appreciated foods.<br></p>
+                    
+                
+                
+            
+        </article>
+    
+        <article class="">
+            
+            
+                
+                    <p class="t-taut"><a href="http://health.usnews.com/health-news/blogs/eat-run/articles/2016-02-12/how-toxic-is-your-valentines-day-gift">How Toxic Is Your Valentine&#039;s Day Gift?</a></p>
+                    
+                        <p class="t-block">The scientific truth about chocolate, wine and coffee.&nbsp;</p>
+                    
+                
+                
+            
+        </article>
+    
+
+    
+        <p class="sep-dashed t-block">
+            <a href="http://health.usnews.com/health-news/blogs/eat-run">
+                See more Eat + Run posts »
+            </a>
+        </p>
+    
+</div>
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+        <div id="rectangleA" class="ad ad-rectangle ad-rectangle-a ad-labeled sep">
+            
+                
+                    <script>
+                        oz_api = USN.rubicon.apiName;
+                        oz_site = USN.rubicon.site;
+                        oz_zone = USN.rubicon.getZone('rectangleA');
+                        oz_ad_slot_size = USN.rubicon.getAdSize('rectangleA');
+                        oz_callback = function (data) {
+                            USN.rubicon.injectTargeting(data, 'rectangleA');
+                        }
+                        USN.rubicon.callApi('rectangleA');
+                    </script>
+                
+                
+            
+        </div>
+
+    
+
+
+
+
+
+
+
+
+
+<div class="mod-b sep"
+    data-usn-element-name="00000143-f35d-d25c-abcb-f3ffe8cc0000"
+    data-aid="a7fe09">
+    <h4>Connect with U.S. News Health</h4>
+
+    <ul class="bar-pad6 block">
+        
+            <li class="item">
+                <a href="https://www.facebook.com/usnewsandworldreport">
+                    <img src="http://www.usnews.com/dims4/USNEWS/490a609/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2Fc4%2F39%2F677999944687ac9ad6e43d137456%2Ffacebook-icon.png" width="55" height="55" alt="Facebook" srcset="http://www.usnews.com/dims4/USNEWS/490a609/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2Fc4%2F39%2F677999944687ac9ad6e43d137456%2Ffacebook-icon.png, http://www.usnews.com/dims4/USNEWS/978d219/2147483647/thumbnail/110x110/quality/85/?url=%2Fcmsmedia%2Fc4%2F39%2F677999944687ac9ad6e43d137456%2Ffacebook-icon.png 2x" data-size="socialModuleIcon"/>
+                </a>
+            </li>
+        
+            <li class="item">
+                <a href="https://twitter.com/USNewshealth">
+                    <img src="http://www.usnews.com/dims4/USNEWS/fd3ae02/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2F67%2F7d%2Fb1d026154808be5169e12d9eea1a%2Ftwitter-icon.png" width="55" height="55" alt="Twitter" srcset="http://www.usnews.com/dims4/USNEWS/fd3ae02/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2F67%2F7d%2Fb1d026154808be5169e12d9eea1a%2Ftwitter-icon.png, http://www.usnews.com/dims4/USNEWS/61220e8/2147483647/thumbnail/110x110/quality/85/?url=%2Fcmsmedia%2F67%2F7d%2Fb1d026154808be5169e12d9eea1a%2Ftwitter-icon.png 2x" data-size="socialModuleIcon"/>
+                </a>
+            </li>
+        
+            <li class="item">
+                <a href="https://plus.google.com/b/108263727096451155269/#108263727096451155269/posts">
+                    <img src="http://www.usnews.com/dims4/USNEWS/926d82f/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2Ff9%2Fc6%2F77b52fad43989c86af1be633e5ca%2Fgoogle-icon.png" width="55" height="55" alt="Google+" srcset="http://www.usnews.com/dims4/USNEWS/926d82f/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2Ff9%2Fc6%2F77b52fad43989c86af1be633e5ca%2Fgoogle-icon.png, http://www.usnews.com/dims4/USNEWS/2feb01a/2147483647/thumbnail/110x110/quality/85/?url=%2Fcmsmedia%2Ff9%2Fc6%2F77b52fad43989c86af1be633e5ca%2Fgoogle-icon.png 2x" data-size="socialModuleIcon"/>
+                </a>
+            </li>
+        
+            <li class="item">
+                <a href="http://www.linkedin.com/company/u.s.-news-&amp;-world-report">
+                    <img src="http://www.usnews.com/dims4/USNEWS/f278c30/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2Fea%2F0b%2Fc2989d554fc3ac3fc3c4ddc328c1%2Flinkedin-icon.png" width="55" height="55" alt="LinkedIn" srcset="http://www.usnews.com/dims4/USNEWS/f278c30/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2Fea%2F0b%2Fc2989d554fc3ac3fc3c4ddc328c1%2Flinkedin-icon.png, http://www.usnews.com/dims4/USNEWS/bc81333/2147483647/thumbnail/110x110/quality/85/?url=%2Fcmsmedia%2Fea%2F0b%2Fc2989d554fc3ac3fc3c4ddc328c1%2Flinkedin-icon.png 2x" data-size="socialModuleIcon"/>
+                </a>
+            </li>
+        
+            <li class="item">
+                <a href="http://www.usnews.com/rss/health">
+                    <img src="http://www.usnews.com/dims4/USNEWS/de32fca/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2F88%2Fbe%2F99f2482541d7a2759e9ca9785d30%2Frss58x58.png" width="55" height="55" alt="rss58x58.png" srcset="http://www.usnews.com/dims4/USNEWS/de32fca/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2F88%2Fbe%2F99f2482541d7a2759e9ca9785d30%2Frss58x58.png, http://www.usnews.com/dims4/USNEWS/5c04a78/2147483647/thumbnail/110x110/quality/85/?url=%2Fcmsmedia%2F88%2Fbe%2F99f2482541d7a2759e9ca9785d30%2Frss58x58.png 2x" data-size="socialModuleIcon"/>
+                </a>
+            </li>
+        
+    </ul>
+
+    
+</div>
+
+
+
+
+
+
+
+<div class="mod-b sep"
+    data-usn-element-name="00000143-ef04-d667-a7c3-efe5d9a80000"
+    data-aid="9f7408">
+    <div class="carousel-slidesjs t-slack" style="display: none;" data-add-height="116">
+        
+            <div class="frame">
+                <div class="captionbox-300x270">
+                    <a href="http://health.usnews.com/health-news/health-wellness/slideshows/dietary-guidelines-do-over">
+                        <img src="http://www.usnews.com/dims4/USNEWS/49b5834/2147483647/crop/611x550%2B97%2B0/resize/300x270/quality/85/?url=%2Fcmsmedia%2F38%2F05%2Fe9ac5c8e4434a6495305f22e6427%2F140711-superfood-stock.jpg" width="300" height="270" class="img" alt="Dietary Guidelines Do-Over" srcset="http://www.usnews.com/dims4/USNEWS/49b5834/2147483647/crop/611x550%2B97%2B0/resize/300x270/quality/85/?url=%2Fcmsmedia%2F38%2F05%2Fe9ac5c8e4434a6495305f22e6427%2F140711-superfood-stock.jpg, http://www.usnews.com/dims4/USNEWS/6bbfc7c/2147483647/crop/611x550%2B97%2B0/resize/600x540/quality/85/?url=%2Fcmsmedia%2F38%2F05%2Fe9ac5c8e4434a6495305f22e6427%2F140711-superfood-stock.jpg 2x" data-size="photoFeaturedGallery"/>
+                    </a>
+
+                    <div class="copy">
+                        <p class="t-subdued t-smaller t-strong t-flush">
+                            SLIDESHOW
+                        </p>
+                        <p class="t-block">
+                            <a href="http://health.usnews.com/health-news/health-wellness/slideshows/dietary-guidelines-do-over">
+                                Dietary Guidelines Do-Over
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="frame">
+                <div class="captionbox-300x270">
+                    <a href="http://health.usnews.com/health-news/health-wellness/slideshows/the-38-best-diets-overall">
+                        <img src="http://www.usnews.com/dims4/USNEWS/15e79db/2147483647/crop/889x800%2B157%2B0/resize/300x270/quality/85/?url=%2Fcmsmedia%2F10%2F99%2Fdc9c57704f988786a373c5176eac%2F151230-diets2016composite-stock.jpg" width="300" height="270" class="img" alt="The 38 Best Diets Overall" srcset="http://www.usnews.com/dims4/USNEWS/15e79db/2147483647/crop/889x800%2B157%2B0/resize/300x270/quality/85/?url=%2Fcmsmedia%2F10%2F99%2Fdc9c57704f988786a373c5176eac%2F151230-diets2016composite-stock.jpg, http://www.usnews.com/dims4/USNEWS/ae823d9/2147483647/crop/889x800%2B157%2B0/resize/600x540/quality/85/?url=%2Fcmsmedia%2F10%2F99%2Fdc9c57704f988786a373c5176eac%2F151230-diets2016composite-stock.jpg 2x" data-size="photoFeaturedGallery"/>
+                    </a>
+
+                    <div class="copy">
+                        <p class="t-subdued t-smaller t-strong t-flush">
+                            SLIDESHOW
+                        </p>
+                        <p class="t-block">
+                            <a href="http://health.usnews.com/health-news/health-wellness/slideshows/the-38-best-diets-overall">
+                                The 38 Best Diets Overall
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="frame">
+                <div class="captionbox-300x270">
+                    <a href="http://health.usnews.com/health-news/health-wellness/slideshows/do-you-really-need-to-cover-the-toilet-seat-with-paper">
+                        <img src="http://www.usnews.com/dims4/USNEWS/34942bb/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2Fc3%2Fb4%2Fb95a2031493aaf6953e0266e605d%2Fresizes%2F500%2F160113-toiletseattowel-stock.jpg" width="300" height="270" class="img" alt="Do You Really Need to Cover the Toilet Seat With Paper?" srcset="http://www.usnews.com/dims4/USNEWS/34942bb/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2Fc3%2Fb4%2Fb95a2031493aaf6953e0266e605d%2Fresizes%2F500%2F160113-toiletseattowel-stock.jpg, http://www.usnews.com/dims4/USNEWS/ac952d2/2147483647/thumbnail/600x540/quality/85/?url=%2Fcmsmedia%2Fc3%2Fb4%2Fb95a2031493aaf6953e0266e605d%2F160113-toiletseattowel-stock.jpg 2x" data-size="photoFeaturedGallery"/>
+                    </a>
+
+                    <div class="copy">
+                        <p class="t-subdued t-smaller t-strong t-flush">
+                            SLIDESHOW
+                        </p>
+                        <p class="t-block">
+                            <a href="http://health.usnews.com/health-news/health-wellness/slideshows/do-you-really-need-to-cover-the-toilet-seat-with-paper">
+                                Do You Really Need to Cover the Toilet Seat With Paper?
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="frame">
+                <div class="captionbox-300x270">
+                    <a href="//www.usnews.com/health-news/health-wellness/best-diet/slideshows/easiest-diets-to-follow">
+                        <img src="http://www.usnews.com/dims4/USNEWS/17b0160/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2F5c%2Ff4%2F1ed3f7b7466daf2cdecac9697149%2Fresizes%2F500%2F151207-saladeatingbestdietsbadge-stock.jpg" width="300" height="270" class="img" alt="The 38 Easiest Diets to Follow: in Pictures" srcset="http://www.usnews.com/dims4/USNEWS/17b0160/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2F5c%2Ff4%2F1ed3f7b7466daf2cdecac9697149%2Fresizes%2F500%2F151207-saladeatingbestdietsbadge-stock.jpg, http://www.usnews.com/dims4/USNEWS/6b0463e/2147483647/thumbnail/600x540/quality/85/?url=%2Fcmsmedia%2F5c%2Ff4%2F1ed3f7b7466daf2cdecac9697149%2F151207-saladeatingbestdietsbadge-stock.jpg 2x" data-size="photoFeaturedGallery"/>
+                    </a>
+
+                    <div class="copy">
+                        <p class="t-subdued t-smaller t-strong t-flush">
+                            SLIDESHOW
+                        </p>
+                        <p class="t-block">
+                            <a href="//www.usnews.com/health-news/health-wellness/best-diet/slideshows/easiest-diets-to-follow">
+                                The 38 Easiest Diets to Follow: in Pictures
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="frame">
+                <div class="captionbox-300x270">
+                    <a href="http://health.usnews.com/health-news/health-wellness/slideshows/7-exercises-that-trainers-wouldnt-be-caught-dead-doing">
+                        <img src="http://www.usnews.com/dims4/USNEWS/a05ed53/2147483647/crop/889x800%2B239%2B0/resize/300x270/quality/85/?url=%2Fcmsmedia%2Fc0%2F73%2Fdd187e33491385101cd2bc0827ba%2F160108-groupweights-stock.jpg" width="300" height="270" class="img" alt="7 Exercises That Trainers Wouldn&#39;t Be Caught Dead Doing" srcset="http://www.usnews.com/dims4/USNEWS/a05ed53/2147483647/crop/889x800%2B239%2B0/resize/300x270/quality/85/?url=%2Fcmsmedia%2Fc0%2F73%2Fdd187e33491385101cd2bc0827ba%2F160108-groupweights-stock.jpg, http://www.usnews.com/dims4/USNEWS/06feb73/2147483647/crop/889x800%2B239%2B0/resize/600x540/quality/85/?url=%2Fcmsmedia%2Fc0%2F73%2Fdd187e33491385101cd2bc0827ba%2F160108-groupweights-stock.jpg 2x" data-size="photoFeaturedGallery"/>
+                    </a>
+
+                    <div class="copy">
+                        <p class="t-subdued t-smaller t-strong t-flush">
+                            SLIDESHOW
+                        </p>
+                        <p class="t-block">
+                            <a href="http://health.usnews.com/health-news/health-wellness/slideshows/7-exercises-that-trainers-wouldnt-be-caught-dead-doing">
+                                7 Exercises That Trainers Wouldn&#039;t Be Caught Dead Doing
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="frame">
+                <div class="captionbox-300x270">
+                    <a href="//www.usnews.com/health-news/health-wellness/slideshows/6-foods-that-can-keep-your-brain-sharp">
+                        <img src="http://www.usnews.com/dims4/USNEWS/2a9ac76/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2Fb8%2Feb%2F917ad8534d6abaa3f1eb18b7fccc%2Fresizes%2F500%2F140617-brainfoodbadge-stock.jpg" width="300" height="270" class="img" alt="9 Foods That Can Keep Your Brain Sharp" srcset="http://www.usnews.com/dims4/USNEWS/2a9ac76/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2Fb8%2Feb%2F917ad8534d6abaa3f1eb18b7fccc%2Fresizes%2F500%2F140617-brainfoodbadge-stock.jpg, http://www.usnews.com/dims4/USNEWS/1373606/2147483647/thumbnail/600x540/quality/85/?url=%2Fcmsmedia%2Fb8%2Feb%2F917ad8534d6abaa3f1eb18b7fccc%2F140617-brainfoodbadge-stock.jpg 2x" data-size="photoFeaturedGallery"/>
+                    </a>
+
+                    <div class="copy">
+                        <p class="t-subdued t-smaller t-strong t-flush">
+                            SLIDESHOW
+                        </p>
+                        <p class="t-block">
+                            <a href="//www.usnews.com/health-news/health-wellness/slideshows/6-foods-that-can-keep-your-brain-sharp">
+                                9 Foods That Can Keep Your Brain Sharp
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="frame">
+                <div class="captionbox-300x270">
+                    <a href="http://health.usnews.com/health-news/health-wellness/slideshows/11-simple-proven-ways-to-optimize-your-mental-health">
+                        <img src="http://www.usnews.com/dims4/USNEWS/25d7b34/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2F5a%2F51%2Fb9728f0344cb869ff136cdfea681%2Fresizes%2F500%2F160107-womanatpeace-stock.jpg" width="300" height="270" class="img" alt="11 Simple, Proven Ways to Optimize Your Mental Health" srcset="http://www.usnews.com/dims4/USNEWS/25d7b34/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2F5a%2F51%2Fb9728f0344cb869ff136cdfea681%2Fresizes%2F500%2F160107-womanatpeace-stock.jpg, http://www.usnews.com/dims4/USNEWS/65952ed/2147483647/thumbnail/600x540/quality/85/?url=%2Fcmsmedia%2F5a%2F51%2Fb9728f0344cb869ff136cdfea681%2F160107-womanatpeace-stock.jpg 2x" data-size="photoFeaturedGallery"/>
+                    </a>
+
+                    <div class="copy">
+                        <p class="t-subdued t-smaller t-strong t-flush">
+                            SLIDESHOW
+                        </p>
+                        <p class="t-block">
+                            <a href="http://health.usnews.com/health-news/health-wellness/slideshows/11-simple-proven-ways-to-optimize-your-mental-health">
+                                11 Simple, Proven Ways to Optimize Your Mental Health
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="frame">
+                <div class="captionbox-300x270">
+                    <a href="//www.usnews.com/health-news/health-wellness/slideshows/reasons-to-choose-a-plant-based-diet">
+                        <img src="http://www.usnews.com/dims4/USNEWS/27d46b0/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2F5f%2Fdb%2F388e314246519d54bd2768dc3897%2Fresizes%2F500%2F151118-salmonsteakbadge-stock.jpg" width="300" height="270" class="img" alt="7 Reasons to Choose a Plant-Based Diet" srcset="http://www.usnews.com/dims4/USNEWS/27d46b0/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2F5f%2Fdb%2F388e314246519d54bd2768dc3897%2Fresizes%2F500%2F151118-salmonsteakbadge-stock.jpg, http://www.usnews.com/dims4/USNEWS/fe74768/2147483647/thumbnail/600x540/quality/85/?url=%2Fcmsmedia%2F5f%2Fdb%2F388e314246519d54bd2768dc3897%2F151118-salmonsteakbadge-stock.jpg 2x" data-size="photoFeaturedGallery"/>
+                    </a>
+
+                    <div class="copy">
+                        <p class="t-subdued t-smaller t-strong t-flush">
+                            SLIDESHOW
+                        </p>
+                        <p class="t-block">
+                            <a href="//www.usnews.com/health-news/health-wellness/slideshows/reasons-to-choose-a-plant-based-diet">
+                                7 Reasons to Choose a Plant-Based Diet
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="frame">
+                <div class="captionbox-300x270">
+                    <a href="http://health.usnews.com/health-news/patient-advice/slideshows/10-ways-to-prepare-for-surgery">
+                        <img src="http://www.usnews.com/dims4/USNEWS/4d9db3e/2147483647/crop/366x329%2B91%2B0/resize/300x270/quality/85/?url=%2Fcmsmedia%2Fb5%2Fcf%2F0666b6f4474cb49b7a68196d5037%2Fresizes%2F500%2F150612-surgeryoperation-stock.jpg" width="300" height="270" class="img" alt="10 Ways to Prepare for Surgery" srcset="http://www.usnews.com/dims4/USNEWS/4d9db3e/2147483647/crop/366x329%2B91%2B0/resize/300x270/quality/85/?url=%2Fcmsmedia%2Fb5%2Fcf%2F0666b6f4474cb49b7a68196d5037%2Fresizes%2F500%2F150612-surgeryoperation-stock.jpg, http://www.usnews.com/dims4/USNEWS/b518242/2147483647/crop/880x792%2B219%2B0/resize/600x540/quality/85/?url=%2Fcmsmedia%2Fb5%2Fcf%2F0666b6f4474cb49b7a68196d5037%2F150612-surgeryoperation-stock.jpg 2x" data-size="photoFeaturedGallery"/>
+                    </a>
+
+                    <div class="copy">
+                        <p class="t-subdued t-smaller t-strong t-flush">
+                            SLIDESHOW
+                        </p>
+                        <p class="t-block">
+                            <a href="http://health.usnews.com/health-news/patient-advice/slideshows/10-ways-to-prepare-for-surgery">
+                                10 Ways to Prepare for Surgery
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="frame">
+                <div class="captionbox-300x270">
+                    <a href="http://health.usnews.com/health-news/health-wellness/slideshows/8-dairy-free-desserts">
+                        <img src="http://www.usnews.com/dims4/USNEWS/353edd9/2147483647/crop/890x801%2B164%2B0/resize/300x270/quality/85/?url=%2Fcmsmedia%2F85%2F24%2Fa077ef834bcf84c26bba319204dd%2F151229-fatherdaughterbaking-stock.jpg" width="300" height="270" class="img" alt="8 Dairy-Free Desserts" srcset="http://www.usnews.com/dims4/USNEWS/353edd9/2147483647/crop/890x801%2B164%2B0/resize/300x270/quality/85/?url=%2Fcmsmedia%2F85%2F24%2Fa077ef834bcf84c26bba319204dd%2F151229-fatherdaughterbaking-stock.jpg, http://www.usnews.com/dims4/USNEWS/455e611/2147483647/crop/890x801%2B164%2B0/resize/600x540/quality/85/?url=%2Fcmsmedia%2F85%2F24%2Fa077ef834bcf84c26bba319204dd%2F151229-fatherdaughterbaking-stock.jpg 2x" data-size="photoFeaturedGallery"/>
+                    </a>
+
+                    <div class="copy">
+                        <p class="t-subdued t-smaller t-strong t-flush">
+                            SLIDESHOW
+                        </p>
+                        <p class="t-block">
+                            <a href="http://health.usnews.com/health-news/health-wellness/slideshows/8-dairy-free-desserts">
+                                8 Dairy-Free Desserts
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="frame">
+                <div class="captionbox-300x270">
+                    <a href="http://health.usnews.com/health-news/health-wellness/slideshows/11-healthy-veggie-recipes-that-prove-slow-cookers-are-for-more-than-meat">
+                        <img src="http://www.usnews.com/dims4/USNEWS/6f9e4a1/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2F3c%2Faf%2Fcd211803446da531731533207980%2Fresizes%2F500%2F151218-slowcooker-stock.jpg" width="300" height="270" class="img" alt="11 Healthy Veggie Recipes That Prove Slow Cookers Are for More Than Meat" srcset="http://www.usnews.com/dims4/USNEWS/6f9e4a1/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2F3c%2Faf%2Fcd211803446da531731533207980%2Fresizes%2F500%2F151218-slowcooker-stock.jpg, http://www.usnews.com/dims4/USNEWS/24f2529/2147483647/thumbnail/600x540/quality/85/?url=%2Fcmsmedia%2F3c%2Faf%2Fcd211803446da531731533207980%2F151218-slowcooker-stock.jpg 2x" data-size="photoFeaturedGallery"/>
+                    </a>
+
+                    <div class="copy">
+                        <p class="t-subdued t-smaller t-strong t-flush">
+                            SLIDESHOW
+                        </p>
+                        <p class="t-block">
+                            <a href="http://health.usnews.com/health-news/health-wellness/slideshows/11-healthy-veggie-recipes-that-prove-slow-cookers-are-for-more-than-meat">
+                                11 Healthy Veggie Recipes That Prove Slow Cookers Are for More Than Meat
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="frame">
+                <div class="captionbox-300x270">
+                    <a href="http://health.usnews.com/health-news/health-wellness/slideshows/10-cold-and-flu-myths-debunked">
+                        <img src="http://www.usnews.com/dims4/USNEWS/6f097ff/2147483647/crop/887x798%2B0%2B0/resize/300x270/quality/85/?url=%2Fcmsmedia%2F68%2F2c%2F5ef25bc84553ab7f0bfbf237094f%2F151215-coldflu-stock.jpg" width="300" height="270" class="img" alt="10 Cold and Flu Myths Debunked" srcset="http://www.usnews.com/dims4/USNEWS/6f097ff/2147483647/crop/887x798%2B0%2B0/resize/300x270/quality/85/?url=%2Fcmsmedia%2F68%2F2c%2F5ef25bc84553ab7f0bfbf237094f%2F151215-coldflu-stock.jpg, http://www.usnews.com/dims4/USNEWS/e359f41/2147483647/crop/887x798%2B0%2B0/resize/600x540/quality/85/?url=%2Fcmsmedia%2F68%2F2c%2F5ef25bc84553ab7f0bfbf237094f%2F151215-coldflu-stock.jpg 2x" data-size="photoFeaturedGallery"/>
+                    </a>
+
+                    <div class="copy">
+                        <p class="t-subdued t-smaller t-strong t-flush">
+                            SLIDESHOW
+                        </p>
+                        <p class="t-block">
+                            <a href="http://health.usnews.com/health-news/health-wellness/slideshows/10-cold-and-flu-myths-debunked">
+                                10 Cold and Flu Myths Debunked
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="frame">
+                <div class="captionbox-300x270">
+                    <a href="http://health.usnews.com/health-news/patient-advice/slideshows/10-ways-to-avoid-winter-joint-pain">
+                        <img src="http://www.usnews.com/dims4/USNEWS/3a65a9b/2147483647/crop/367x330%2B69%2B0/resize/300x270/quality/85/?url=%2Fcmsmedia%2F99%2F24%2F3f0c28e541e68239f80800b4b2cf%2Fresizes%2F500%2F151208-neckpain-stock.jpg" width="300" height="270" class="img" alt="10 Ways to Avoid Winter Joint Pain" srcset="http://www.usnews.com/dims4/USNEWS/3a65a9b/2147483647/crop/367x330%2B69%2B0/resize/300x270/quality/85/?url=%2Fcmsmedia%2F99%2F24%2F3f0c28e541e68239f80800b4b2cf%2Fresizes%2F500%2F151208-neckpain-stock.jpg, http://www.usnews.com/dims4/USNEWS/1eed7f1/2147483647/crop/881x793%2B166%2B0/resize/600x540/quality/85/?url=%2Fcmsmedia%2F99%2F24%2F3f0c28e541e68239f80800b4b2cf%2F151208-neckpain-stock.jpg 2x" data-size="photoFeaturedGallery"/>
+                    </a>
+
+                    <div class="copy">
+                        <p class="t-subdued t-smaller t-strong t-flush">
+                            SLIDESHOW
+                        </p>
+                        <p class="t-block">
+                            <a href="http://health.usnews.com/health-news/patient-advice/slideshows/10-ways-to-avoid-winter-joint-pain">
+                                10 Ways to Avoid Winter Joint Pain
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="frame">
+                <div class="captionbox-300x270">
+                    <a href="http://health.usnews.com/health-news/health-wellness/slideshows/7-ways-to-get-calcium-beyond-milk">
+                        <img src="http://www.usnews.com/dims4/USNEWS/c934228/2147483647/crop/1484x1336%2B138%2B0/resize/300x269/quality/85/?url=%2Fcmsmedia%2Fbf%2Fba%2F89517ce9447c95e9ae02e134b775%2F150707-cereal-stock.jpg" width="299" height="269" class="img" alt="7 Ways to Get Calcium Beyond Milk" srcset="http://www.usnews.com/dims4/USNEWS/9b45b16/2147483647/crop/1484x1336%2B138%2B0/resize/300x270/quality/85/?url=%2Fcmsmedia%2Fbf%2Fba%2F89517ce9447c95e9ae02e134b775%2F150707-cereal-stock.jpg, http://www.usnews.com/dims4/USNEWS/97d6555/2147483647/crop/1484x1336%2B138%2B0/resize/600x538/quality/85/?url=%2Fcmsmedia%2Fbf%2Fba%2F89517ce9447c95e9ae02e134b775%2F150707-cereal-stock.jpg 2x" data-size="photoFeaturedGallery"/>
+                    </a>
+
+                    <div class="copy">
+                        <p class="t-subdued t-smaller t-strong t-flush">
+                            SLIDESHOW
+                        </p>
+                        <p class="t-block">
+                            <a href="http://health.usnews.com/health-news/health-wellness/slideshows/7-ways-to-get-calcium-beyond-milk">
+                                7 Ways to Get Calcium Beyond Milk
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="frame">
+                <div class="captionbox-300x270">
+                    <a href="http://health.usnews.com/health-news/health-wellness/slideshows/10-surprising-habits-killing-your-teeth">
+                        <img src="http://www.usnews.com/dims4/USNEWS/4fb1260/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2Fee%2F55%2F41c661f34cc59b09f3535a89a0d6%2Fresizes%2F500%2F160126-smilecloseup-stock.jpg" width="300" height="270" class="img" alt="10 Surprising Habits Killing Your Teeth" srcset="http://www.usnews.com/dims4/USNEWS/4fb1260/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2Fee%2F55%2F41c661f34cc59b09f3535a89a0d6%2Fresizes%2F500%2F160126-smilecloseup-stock.jpg, http://www.usnews.com/dims4/USNEWS/f76abbb/2147483647/thumbnail/600x540/quality/85/?url=%2Fcmsmedia%2Fee%2F55%2F41c661f34cc59b09f3535a89a0d6%2F160126-smilecloseup-stock.jpg 2x" data-size="photoFeaturedGallery"/>
+                    </a>
+
+                    <div class="copy">
+                        <p class="t-subdued t-smaller t-strong t-flush">
+                            SLIDESHOW
+                        </p>
+                        <p class="t-block">
+                            <a href="http://health.usnews.com/health-news/health-wellness/slideshows/10-surprising-habits-killing-your-teeth">
+                                10 Surprising Habits Killing Your Teeth
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        
+    </div>
+    
+        <script type="text/javascript">
+            USN.load('jquery.slides.min');
+        </script>
+        <script type="text/javascript">
+            $(function(){
+                $('.carousel-slidesjs').each(function () {
+                    var $img = $(this).find('img').first(),
+                        height = $img.attr('height'),
+                        width = $img.attr('width');
+
+                    //TODO hashtag much regret
+                    $(this).slidesjs({
+                        height: '270',
+                        width: '300',
+                        play: {
+                            auto: true
+                        }
+                    });
+                });
+            });
+        </script>
+    
+</div>
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+        <div id="rectangleB" class="ad ad-rectangle ad-rectangle-b ad-labeled sep">
+            
+                
+                    <script>
+                        oz_api = USN.rubicon.apiName;
+                        oz_site = USN.rubicon.site;
+                        oz_zone = USN.rubicon.getZone('rectangleB');
+                        oz_ad_slot_size = USN.rubicon.getAdSize('rectangleB');
+                        oz_callback = function (data) {
+                            USN.rubicon.injectTargeting(data, 'rectangleB');
+                        }
+                        USN.rubicon.callApi('rectangleB');
+                    </script>
+                
+                
+            
+        </div>
+
+    
+
+
+
+    </aside>
+</div></div><div class="dari-grid-area _da" data-grid-area="well" _da="well"><div class="dari-grid-adj _dj dari-grid-adj-px _dj-px" data-grid-area="well" _da="well"></div></div><div class="dari-grid-area _da" data-grid-area="footer" _da="footer"><div class="dari-grid-adj _dj dari-grid-adj-px _dj-px" data-grid-area="footer" _da="footer"><div class="dari-grid-mw _dw dari-grid-mw-px _dw-px" data-grid-area="footer" _da="footer"></div>
+    
+        
+    
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+        <div id="leaderboardB" class="ad ad-leaderboard ad-leaderboard-b sep">
+            
+                
+                    <script>
+                        oz_api = USN.rubicon.apiName;
+                        oz_site = USN.rubicon.site;
+                        oz_zone = USN.rubicon.getZone('leaderboardB');
+                        oz_ad_slot_size = USN.rubicon.getAdSize('leaderboardB');
+                        oz_callback = function (data) {
+                            USN.rubicon.injectTargeting(data, 'leaderboardB');
+                        }
+                        USN.rubicon.callApi('leaderboardB');
+                    </script>
+                
+                
+            
+        </div>
+
+    
+
+
+
+    
+
+
+
+
+
+
+
+<div id="footer" class="footer footer-health">
+    <div class="grid-976">
+        <div class="span12 sep-strong t-slackest">
+            <div class="span span2">
+                <h3 class="h h-fancy h-slack sep-strong">News</h3>
+                <ul class="sep-strong">
+                    
+                        <li class="t-taut"><a href="//www.usnews.com/news" class="link-subdued">News Home</a></li>
+                    
+                        <li class="t-taut"><a href="//www.usnews.com/opinion" class="link-subdued">Opinion</a></li>
+                    
+                        <li class="t-taut"><a href="//www.usnews.com/national-issues" class="link-subdued">National Issues</a></li>
+                    
+                        <li class="t-taut"><a href="//www.usnews.com/cartoons" class="link-subdued">Cartoons</a></li>
+                    
+                        <li class="t-taut"><a href="//www.usnews.com/photos" class="link-subdued">Photos</a></li>
+                    
+                        <li class="t-taut"><a href="http://video.usnews.com" class="link-subdued">Videos</a></li>
+                    
+                        <li class="t-taut"><a href="//www.usnews.com/news/special-reports" class="link-subdued">Special Reports</a></li>
+                    
+                        <li class="t-taut"><a href="//www.usnews.com/news/the-report" class="link-subdued">The Report</a></li>
+                    
+                </ul>
+            </div>
+            <div class="span span10">
+                <h3 class="h h-fancy h-slack sep-strong">Rankings &amp; Consumer Advice</h3>
+                <ul class="sep-strong">
+                    
+                        
+                            <li class="item span span2">
+                                <h4 class="link-dim h-mini">
+                                    <a href="//www.usnews.com/education">Education</a>
+                                </h4>
+                                <ul>
+                                    
+                                        <li class="t-taut"><a href="//www.usnews.com/best-colleges" class="link-subdued">Colleges</a></li>
+                                    
+                                        <li class="t-taut"><a href="//www.usnews.com/best-graduate-schools" class="link-subdued">Graduate Schools</a></li>
+                                    
+                                        <li class="t-taut"><a href="//www.usnews.com/education/best-high-schools" class="link-subdued">High Schools</a></li>
+                                    
+                                        <li class="t-taut"><a href="//www.usnews.com/education/online-education" class="link-subdued">Online Programs</a></li>
+                                    
+                                        <li class="t-taut"><a href="//www.usnews.com/education/community-colleges" class="link-subdued">Community Colleges</a></li>
+                                    
+                                        <li class="t-taut"><a href="//www.usnews.com/education/best-global-universities" class="link-subdued">Global Universities</a></li>
+                                    
+                                        <li class="t-taut"><a href="//www.usnews.com/education/arab-region-universities" class="link-subdued">Arab Universities</a></li>
+                                    
+
+                                </ul>
+                            </li>
+                        
+                        
+                    
+                        
+                            <li class="item span span2">
+                                <h4 class="link-dim h-mini">
+                                    <a href="http://health.usnews.com/">Health</a>
+                                </h4>
+                                <ul>
+                                    
+                                        <li class="t-taut"><a href="http://health.usnews.com/health-news/best-hospitals" class="link-subdued">Hospitals</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://health.usnews.com/doctors" class="link-subdued">Doctor Finder</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://health.usnews.com/best-diet" class="link-subdued">Diets</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://health.usnews.com/best-nursing-homes" class="link-subdued">Nursing Homes</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://health.usnews.com/health-products" class="link-subdued">Health Products</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://health.usnews.com/health-insurance" class="link-subdued">Health Insurance</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://health.usnews.com/medicare" class="link-subdued">Medicare</a></li>
+                                    
+
+                                </ul>
+                            </li>
+                        
+                        
+                    
+                        
+                            <li class="item span span2">
+                                <h4 class="link-dim h-mini">
+                                    <a href="http://money.usnews.com/">Money</a>
+                                </h4>
+                                <ul>
+                                    
+                                        <li class="t-taut"><a href="http://money.usnews.com/money/careers" class="link-subdued">Jobs</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://money.usnews.com/financial-advisors" class="link-subdued">Financial Advisors</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://money.usnews.com/funds/etfs" class="link-subdued">ETFs</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://money.usnews.com/funds/mutual-funds" class="link-subdued">Mutual Funds</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://money.usnews.com/money/retirement" class="link-subdued">Retirement</a></li>
+                                    
+
+                                </ul>
+                            </li>
+                        
+                        
+                    
+                        
+                            <li class="item span span2">
+                                <h4 class="link-dim h-mini">
+                                    <a href="http://travel.usnews.com/">Travel</a>
+                                </h4>
+                                <ul>
+                                    
+                                        <li class="t-taut"><a href="http://travel.usnews.com/Rankings/" class="link-subdued">Vacations</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://travel.usnews.com/cruises/" class="link-subdued">Cruises</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://travel.usnews.com/Hotels/" class="link-subdued">Hotels</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://travel.usnews.com/Rankings/Travel-Rewards/hotel-rewards/" class="link-subdued">Hotel Rewards</a></li>
+                                    
+                                        <li class="t-taut"><a href="http://travel.usnews.com/Rankings/Travel-Rewards/airline-rewards/" class="link-subdued">Airline Rewards</a></li>
+                                    
+
+                                </ul>
+                            </li>
+                        
+                        
+                    
+                        
+                        
+                            <li class="item span span2">
+                                    <h4 class="link-dim h-mini">
+                                        <a href="http://usnews.rankingsandreviews.com/cars-trucks">Cars</a>
+                                    </h4>
+                                    <ul class="block">
+                                        
+                                            <li class="t-taut"><a href="http://usnews.rankingsandreviews.com/cars-trucks/rankings/" class="link-subdued">New Cars</a></li>
+                                        
+                                            <li class="t-taut"><a href="http://usnews.rankingsandreviews.com/cars-trucks/used-cars/" class="link-subdued">Used Cars</a></li>
+                                        
+
+                                    </ul>
+                                
+                                    <h4 class="link-dim h-mini">
+                                        <a href="http://bestlawfirms.usnews.com/">Law</a>
+                                    </h4>
+                                    <ul class="block">
+                                        
+                                            <li class="t-taut"><a href="http://bestlawfirms.usnews.com/rankings.aspx" class="link-subdued">Law Firms</a></li>
+                                        
+
+                                    </ul>
+                                </li>
+                        
+                    
+                </ul>
+            </div>
+        </div>
+        <div class="span12 sep-strong block">
+            <img class="img span span4" src="/static/images/homepage-logo.png" style="border: 1px solid #ddd;" />
+
+            <ul class="span span2">
+                
+                    
+                        <li class="item"><a href="/info/features/about-usnews" class="link-subdued">About U.S. News</a></li>
+                    
+                
+                    
+                
+                    
+                        <li class="item"><a href="/info/features/contact" class="link-subdued">Contact Us</a></li>
+                    
+                
+                    
+                
+                    
+                        <li class="item"><a href="http://www.usnews.com/products/features/home" class="link-subdued">Store</a></li>
+                    
+                
+                    
+                
+                    
+                        <li class="item"><a href="/info/features/sitemap" class="link-subdued">Site Map</a></li>
+                    
+                
+            </ul>
+            <ul class="span span2">
+                
+                    
+                
+                    
+                        <li class="item"><a href="//www.usnews.com/info/blogs/press-room" class="link-subdued">Press Room</a></li>
+                    
+                
+                    
+                
+                    
+                        <li class="item"><a href="http://mediakit.usnews.com/index.php" class="link-subdued">Advertising Info</a></li>
+                    
+                
+                    
+                
+                    
+                        <li class="item"><a href="http://mediakit.usnews.com/advertising-self-service" class="link-subdued"> Ads – Self-Service</a></li>
+                    
+                
+                    
+                
+            </ul>
+            <div class="span span4">
+                
+                <p class="t-close t-dim">Connect with us:
+                
+                    <a class="link-subdued" href="//www.facebook.com/usnewsandworldreport" target="_blank"> <span
+                        class="icon-header-facebook-dark"
+                    >Facebook</span>
+                    </a>
+                    
+                    <a class="link-subdued" href="//twitter.com/usnews" target="_blank"> <span
+                        class="icon-header-twitter-dark"
+                    >Twitter</span>
+                    </a>
+                    
+                    <a class="link-subdued" href="//plus.google.com/+usnewsworldreport" target="_blank"> <span
+                        class="icon-header-gplus-dark"
+                    >Google+</span>
+                    </a>
+                    
+                </p>
+                    <p class="footer_disclaimer t-dim t-small t-flush">
+                        Copyright 2016 &copy; U.S. News &amp; World Report LP.
+                        <br/>
+                        <a href="/info/features/terms" class="link-subdued">Terms and Conditions</a>
+                        /
+                        <a href="/info/features/terms#privacy" class="link-subdued">Privacy Policy</a>.
+                    </p>
+
+
+            </div>
+        </div>
+
+    </div>
+</div>
+<div id="foobar"></div>
+
+    
+</div></div><div class="dari-grid-clear" style="clear:both;"></div></div>
+<!-- Sailthru Horizon -->
+
+<script type="text/javascript">
+    (function() 
+    {
+        function loadHorizon() 
+        {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+            var x = document.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+            }
+        loadHorizon();
+        var oldOnLoad = window.onload;
+        window.onload = function() 
+        {
+                if (typeof oldOnLoad === 'function') 
+            {
+                    oldOnLoad();
+                }
+                Sailthru.setup({
+                    domain: 'horizon.messaging.usnews.com',
+                        useStoredTags: false
+                    });
+            };
+        })();
+</script>
+
+
+    
+        
+
+        
+        <script data-partner-name="crazyegg" type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/9297.js"></script>
+        
+
+        <script>
+            USN.load('foot-scripts-concat');
+        </script>
+
+        
+        <script data-partner-name="ndn" type="text/javascript" async src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+
+        
+        <div id="stitial"></div>
+        <script type="text/javascript">dblclick('stitial');</script>
+        <div id="anchor"></div>
+        <script type="text/javascript">dblclick('anchor');</script>
+        <div id="custom1" class="ad-custom ad-custom1"></div>
+        <script type="text/javascript">dblclick('custom1');</script>
+        <div id="custom2" class="ad-custom ad-custom2"></div>
+        <script type="text/javascript">dblclick('custom2');</script>
+        <div id="custom3" class="ad-custom ad-custom3"></div>
+        <script type="text/javascript">dblclick('custom3');</script>
+        <div id="custom4" class="ad-custom ad-custom4"></div>
+        <script type="text/javascript">dblclick('custom4');</script>
+        <div id="custom5" class="ad-custom ad-custom5"></div>
+        <script type="text/javascript">dblclick('custom5');</script>
+
+        
+
+        <script data-partner-name="lotame" type="text/javascript" src="http://tags.crwdcntrl.net/c/5305/cc.js?ns=_cc5305" id="LOTCC_5305"></script>
+        <script data-partner-name="lotame" type="text/javascript">_cc5305.bcp();</script>
+        </div><!-- /.wrapper-global_inner -->
+    
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"07f9f00f2b","agent":"","beacon":"bam.nr-data.net","applicationTime":775,"applicationID":"4094380","transactionName":"ZlQBZBYDWkMEVkZRCV8eKWM0TWN1Jxh7diAeUgxdCQ1aHxVUVV05AQFRVAcNWkQEXFxdFB9bEEA=","queueTime":0}</script></body>
+</html>
+
+
+
+    
+
+

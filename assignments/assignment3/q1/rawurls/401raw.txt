@@ -1,0 +1,354 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no" />
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    
+    
+    <meta name="fragment" content="!">
+
+
+    <title> Jenkers</title>
+    <script src="/Scripts/Views/__extensions-images.js"></script>
+    <script type="text/javascript">
+        var imageClose = new Image(32, 32);
+        imageClose.src = "/Content/Images/close_32x32_ffffff.png";
+        var imageClose2 = new Image(32, 32);
+        imageClose2.src = "/Content/Images/close_32x32_000000.png";
+        var imageClose3 = new Image(32, 32);
+        imageClose3.src = "/Content/Images/close_24x24_ffffff.png";
+        var imageFacebook = new Image(16, 16);
+        imageFacebook.src = "/Content/Images/facebook_16x16.png";
+        var imageFacebook2 = new Image(32, 32);
+        imageFacebook2.src = "/Content/Images/facebook_32x32.png";
+        var imageFlagRussia = new Image(32, 32);
+        imageFlagRussia.src = "/Content/Images/flag_russia_32x32.png";
+        var imageFlagUsa = new Image(32, 32);
+        imageFlagUsa.src = "/Content/Images/flag_usa_32x32.png";
+        var imageGoogleplus = new Image(16, 16);
+        imageGoogleplus.src = "/Content/Images/googleplus_16x16.png";
+        var imageGoogleplus2 = new Image(32, 32);
+        imageGoogleplus2.src = "/Content/Images/googleplus_32x32.png";
+        var imageLogoLetter = new Image(30, 30);
+        imageLogoLetter.src = "/Content/Images/logo_letter_30x30.png";
+        var imageLogoTextWhite = new Image(175, 30);
+        imageLogoTextWhite.src = "/Content/Images/logo_text_white_175x30.png";
+        var imageMicrosoft = new Image(16, 16);
+        imageMicrosoft.src = "/Content/Images/microsoft_16x16.png";
+        var imageMicrosoft2 = new Image(32, 32);
+        imageMicrosoft2.src = "/Content/Images/microsoft_32x32.png";
+        var imagePreloader = new Image(48, 48);
+        imagePreloader.src = "/Content/Images/preloader_48x48_ffffff_0776a0.gif";
+        var imagePreloader2 = new Image(48, 48);
+        imagePreloader2.src = "/Content/Images/preloader_48x48_0776a0_ffffff.gif";
+        var imagePreloader3 = new Image(90, 20);
+        imagePreloader3.src = "/Content/Images/preloader_90x20_0776a0_e6edf2.gif";
+        var imageSearch = new Image(20, 20);
+        imageSearch.src = "/Content/Images/search_20x20_0776A0.png";
+        var imageSearch2 = new Image(24, 24);
+        imageSearch2.src = "/Content/Images/search_24x24_ffffff.png";
+        var imageSignin = new Image(24, 24);
+        imageSignin.src = "/Content/Images/signin_24x24_ffffff.png";
+        var imageTwitter = new Image(16, 16);
+        imageTwitter.src = "/Content/Images/twitter_16x16.png";
+        var imageTwitter2 = new Image(32, 32);
+        imageTwitter2.src = "/Content/Images/twitter_32x32.png";
+        var imageUser = new Image(32, 32);
+        imageUser.src = "/Content/Images/user_32x32_ffffff.png";
+        var imageUser2 = new Image(512, 512);
+        imageUser2.src = "/Content/Images/user_512x512_ffffff.png";
+        var imageVkontakte = new Image(16, 16);
+        imageVkontakte.src = "/Content/Images/vkontakte_16x16.png";
+        var imageVkontakte2 = new Image(32, 32);
+        imageVkontakte2.src = "/Content/Images/vkontakte_32x32.png";
+        var imageRightArrow = new Image(30, 48);
+        imageRightArrow.src = "/Content/Images/right_arrow_30x48_ffffff.png";
+        var imageLeftArrow = new Image(30, 48);
+        imageLeftArrow.src = "/Content/Images/left_arrow_30x48_ffffff.png";
+        var imageStar = new Image(20, 20);
+        imageStar.src = "/Content/Images/star_20x20.png";
+    </script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-60870238-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function () {
+                try {
+                    w.yaCounter29106410 = new Ya.Metrika({
+                        id: 29106410,
+                        clickmap: true,
+                        trackLinks: true,
+                        accurateTrackBounce: true
+                    });
+                } catch (e) {
+                }
+            });
+
+            var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+            if (w.opera == "[object Opera]") {
+                d.addEventListener("DOMContentLoaded", f, false);
+            } else {
+                f();
+            }
+        })(document, window, "yandex_metrika_callbacks");
+    </script>
+    <noscript>
+        <div>
+            <img src="//mc.yandex.ru/watch/29106410" style="position: absolute; left: -9999px;" alt="" />
+        </div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+    
+    <script type="text/javascript">
+        var imageCheckmark = new Image(16, 16);
+        imageCheckmark.src = "/Content/Images/checkmark_16x16_ffffff.png";
+        var imageCreate = new Image(24, 24);
+        imageCreate.src = "/Content/Images/create_24x24_ffffff.png";
+        var imageDelete = new Image(24, 24);
+        imageDelete.src = "/Content/Images/delete_24x24_ffffff.png";
+        var imageEdit = new Image(16, 16);
+        imageEdit.src = "/Content/Images/edit_16x16_ffffff.png";
+        var imageEdit2 = new Image(24, 24);
+        imageEdit2.src = "/Content/Images/edit_24x24_ffffff.png";
+        var imageLeftArrow = new Image(64, 64);
+        imageLeftArrow.src = "/Content/Images/left-arrow_64x64_ffffff.png";
+        var imageOk = new Image(16, 16);
+        imageOk.src = "/Content/Images/ok_16x16_ffffff.png";
+        var imageRestore = new Image(24, 24);
+        imageRestore.src = "/Content/Images/restore_24x24_ffffff.png";
+        var imageRightArrow = new Image(64, 64);
+        imageRightArrow.src = "/Content/Images/right-arrow_64x64_ffffff.png";
+        var imageTriangleDown = new Image(16, 16);
+        imageTriangleDown.src = "/Content/Images/triangle-down_16x16_000000.png";
+        var imageTriangleDown2 = new Image(16, 16);
+        imageTriangleDown2.src = "/Content/Images/triangle-down_16x16_ffffff.png";
+        var imageTriangleRight = new Image(16, 16);
+        imageTriangleRight.src = "/Content/Images/triangle-right_16x16_000000.png";
+        var imageTriangleRight2 = new Image(16, 16);
+        imageTriangleRight2.src = "/Content/Images/triangle-right_16x16_ffffff.png";
+        var imageTimeline = new Image(24, 24);
+        imageTimeline.src = "/Content/Images/timeline_24x24.png";
+        var imageShare = new Image(24, 24);
+        imageShare.src = "/Content/Images/share_24x24.png";
+        var imageLocation = new Image(18, 24);
+        imageLocation.src = "/Content/Images/location_18x24_000000.png";
+    </script>
+    <script type="text/javascript" src=https://maps.googleapis.com/maps/api/js?key=AIzaSyC4Kv9tIfvtDeoyP1Ck1dlUvSNy_wFGVfQ&amp;sensor=FALSE&amp;language=ru></script>
+    <script src="/Scripts/markerclusterer_compiled.js"></script>
+    
+
+    <script src="/bundles/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1"></script>
+
+    <link href="/Styles/jquery-ui.css" rel="stylesheet" />
+    <link href="/Styles/hopscotch.css" rel="stylesheet" />
+    <link href="/Styles/Views/_layout.css?ver=19" rel="stylesheet" />
+    <link href="/Styles/Views/__extensions.css?ver=19" rel="stylesheet" />
+    <link href="/Styles/Views/_modalsigninpartial.css?ver=19" rel="stylesheet"/>
+
+    
+    <link href="/Styles/Widgets/jenkers.simplearticleviewer.css?ver=19" rel="stylesheet" />
+    <link href="/Styles/Widgets/jenkers.articleviewer.css?ver=19" rel="stylesheet" />
+    <link href="/Styles/Views/_newslayout.css?ver=19" rel="stylesheet" />
+    <link href="/Styles/Views/__news-extensions.css?ver=19" rel="stylesheet" />
+    <link href="/Styles/Widgets/jenkers.mapviewer.css?ver=19" rel="stylesheet" />
+    
+    <link href="/Styles/Widgets/jenkers.locationviewer.css?ver=19" rel="stylesheet" />
+    <link href="/Styles/Widgets/jenkers.imageviewer.css?ver=19" rel="stylesheet" />
+    <link href="/Styles/Widgets/jenkers.timeline.css?ver=19" rel="stylesheet" />
+    <link href="/Styles/Views/news-rubric.css?ver=19" rel="stylesheet" />
+
+
+</head>
+<body data-language="ru">
+    <script src="/bundles/jquery?v=oQHqReejE2A6FeDHA9oKJ4RKxiyHxCff-RE6BXZkoQU1"></script>
+
+    <script src="/bundles/jqueryval?v=sTM6z75i3uDpVeh__Zai1IpnDnqY9pO-TNy0Ztaw6Y81"></script>
+
+    <script src="/bundles/hopscotch?v=ePb41wi7XXYwtwGh_8W3SOjoq6ULm3ghrInL3I_q8JA1"></script>
+
+    <script src="/Scripts/jquery.ui.touch-punch.min.js"></script>
+    <script src="/Scripts/detectmobilebrowser.js"></script>
+    <script src="/Scripts/jquery.watermark.min.js"></script>
+
+    <script src="/Scripts/Views/_signinpartial.js?ver=19"></script>
+
+    <script src="/Scripts/Views/_modalsigninpartial.js?ver=19"></script>
+
+
+    <div class="page-header">
+        <div class="container">
+            <div class="logo" title="Jenkers объединяет новости">
+                <a href="/">
+                    <img class="logo-full" src="/Content/Images/logo_text_white_175x30.png" />
+                    <img class="logo-letter" src="/Content/Images/logo_letter_30x30.png" />
+                </a>
+            </div>
+            
+    <div class="rubric-selector">
+        <span class="triangle inactive"></span>
+        <span class="rubric-selector-text"></span>
+    </div>
+    <span class="rubric-edit" title="Редактировать рубрики">
+        <img alt="Редактировать рубрики" src="/Content/Images/edit_16x16_ffffff.png" />
+    </span>
+
+    
+
+
+                <div id="loginForm">
+                    
+
+
+    <div class="signin-button" title="Войти">
+        <img src="/Content/Images/signin_24x24_ffffff.png" alt="Войти" />
+    </div>
+
+
+
+                </div>
+
+                    <a class="language-button" title="English" data-language="en" href="/en">
+                        <img src="/Content/Images/flag_usa_32x32.png" alt="English" />
+                    </a>
+
+            <div class="search-box">
+                <input class="search-input-watermark" type="text" />
+                <input class="search-input" type="text" />
+                <img src="/Content/Images/search_20x20_0776A0.png" />
+                <div class="search-phrases"></div>
+            </div>
+            <div class="search-button">
+                <img src="/Content/Images/search_24x24_ffffff.png" />
+            </div>
+        </div>
+    </div>
+    <div class="messages"></div>
+    
+    
+
+    <div class="body-wrapper">
+        <div class="body-content">
+            <div class="body-content-wrapper container">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+    <div class="page-footer">
+        <div class="container">
+            
+            <a class="footer-button" href="/ru/Company/About">О нас</a>
+            <span class="copyrights">© Jenkers 2014-2016</span>
+        </div>
+    </div>
+        <script type="text/javascript">
+            function loginCallback(success, returnUrl) {
+                if (returnUrl) {
+                    if (window.location.href == returnUrl || window.location.pathname + window.location.hash == returnUrl) {
+                        location.reload();
+                    } else {
+                        window.location.href = returnUrl;
+                    }
+                } else {
+                    $.ajax({
+                        url: '/ru/Account/SignInPartial',
+                        success: function (result) {
+                            $('#loginForm').html(result);
+                        }
+                    });
+                }
+            }
+        </script>
+
+    <script type="text/javascript">
+        var currentLanguage = "ru";
+
+
+        var uriBuilder = "";
+        var articlePublishUrl = "https://jenkers.com/ru/News/Article";
+        
+    var rubricRedirectUrl = "/ru/News/Rubric/rubricId"
+    
+    var rubricId = "1";
+    var sourceRedirectUrl = "/ru/News/Source/sourceId"
+
+
+    </script>
+    <script src="/Scripts/jquery.cookie.js"></script>
+    <script src="/Scripts/Views/_layout.js?ver=19"></script>
+    <script src="/Scripts/Views/__extensions.js?ver=19"></script>
+    
+    <script src="/Scripts/jquery.mousewheel.js"></script>
+    <script src="/Scripts/imagesloaded.pkgd.min.js"></script>
+    <script src="/Scripts/Widgets/jenkers.simplearticleviewer.js?ver=19"></script>
+    <script src="/Scripts/Widgets/jenkers.articleviewer.js?ver=19"></script>
+    <script src="/Scripts/Views/__news-extensions.js?ver=19"></script>
+    <script src="/Scripts/Views/_newslayout.js?ver=19"></script>
+    
+    <script src="/Scripts/jquery.dotdotdot.min.js"></script>
+    <script src="/Scripts/jquery.ba-bbq.min.js"></script>
+    <script src="/Scripts/date.format.js"></script>
+    <script src="/Scripts/Widgets/jenkers.mapviewer.js?ver=19"></script>
+    <script src="/Scripts/Widgets/jenkers.locationviewer.js?ver=19"></script>
+    <script src="/Scripts/Widgets/jenkers.imageviewer.js?ver=19"></script>
+    <script src="/Scripts/swipe.js"></script>
+    <script src="/Scripts/date.js"></script>
+    <script src="/Scripts/Widgets/jenkers.timeline.js?ver=19"></script>
+    <script src="/Scripts/Views/news-rubric.js?ver=19"></script>
+
+
+
+    <!--LiveInternet counter-->
+    <script type="text/javascript">
+    <!--
+    new Image().src = "//counter.yadro.ru/hit?r" +
+        escape(document.referrer) + ((typeof(screen) == "undefined") ? "" :
+            ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+                screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+        ";h" + escape(document.title.substring(0, 80)) +
+        ";" + Math.random(); //-->
+
+    </script><!--/LiveInternet-->
+</body>
+
+</html>

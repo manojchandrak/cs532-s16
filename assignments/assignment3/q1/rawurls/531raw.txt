@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQDWFZXGwEJUFNUAgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function s(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);return i}function c(t,e){d[t]=f(t).concat(e)}function f(t){return d[t]||[]}function u(){return r(s)}var d={};return{on:c,emit:s,create:u,listeners:f,context:e,_events:d}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:25,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:26,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").create(),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:27,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:27,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:27,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:27,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,l,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-",o)}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:27,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=this.lastSize||n(t);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t){var e=t.responseType,n="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return r(n)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=0,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:16,4:12,5:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:25,2:26,handle:"D5DuLP"}],16:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var h=0},{1:25,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],25:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],26:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],27:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:26,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+<meta name="viewport" content="width=1020" />
+<title>Chance The Rapper Names His Favorite Songs on 'The College Dropout' - XXL</title>
+
+<link id="design-fav" rel="shortcut icon" href="http://www.xxlmag.com/files/2015/09/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="XXL Mag &raquo; Feed" href="http://www.xxlmag.com/feed/" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.xxlmag.com/wp-content/themes/townsquare3-music/style.css" />
+<script type="text/javascript">
+			window.TSM = window.TSM || {};
+			window.TSM.ga = {"accounts":["UA-19109753-54","UA-19109753-35"]};
+		</script><script type="text/javascript">(function(w){w.TSM.sitetype="national";})(window);</script><link rel="alternate" type="application/rss+xml" title="XXL Mag &raquo; Chance The Rapper Names His Favorite Songs on Kanye West&#8217;s &#8216;The College Dropout&#8217; Comments Feed" href="http://www.xxlmag.com/news/2016/02/chance-the-rapper-favorite-songs-college-dropout/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.xxlmag.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='weather-widget-css-css'  href='http://www.xxlmag.com/wp-content/plugins/weather-widget/resources/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sp-gallery-css'  href='http://www.xxlmag.com/wp-content/plugins/gallery/resources/sp-gallery.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-fancybox-css'  href='http://www.xxlmag.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.css?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e' type='text/css' media='all' />
+<link rel='stylesheet' id='ts3-css'  href='http://www.xxlmag.com/css/ts3.css?ver=1446557009fe23f82ae0' type='text/css' media='all' />
+<link rel='stylesheet' id='facebook_auth-css'  href='http://www.xxlmag.com/wp-content/plugins/facebook-apps/css/facebook-auth.css?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e' type='text/css' media='all' />
+<link rel='stylesheet' id='tsm-photogallery-styles-css'  href='http://www.xxlmag.com/wp-content/plugins/galleryv2/css/styles.css?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e' type='text/css' media='all' />
+<link rel='stylesheet' id='ts-list-fe-css'  href='http://ts-tools.s3.amazonaws.com/lists/css/ts-lists-fe.css?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e' type='text/css' media='all' />
+<link rel='stylesheet' id='radio-players-css'  href='http://www.xxlmag.com/wp-content/plugins/radio-players/resources/css/radio-players.css?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/plugins/jquery-updater/js/jquery-1.7.2.min.js?ver=1.7.2'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/mu-plugins/handlebarsjs/resources/js/handlebars.min.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/plugins/radio-players/resources/js/radio-players.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/themes/townsquare3/resources/js/html5.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.1.1.d'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.xxlmag.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.xxlmag.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Chuck D Writes Touching Open Letter After Father&#8217;s Death' href='http://www.xxlmag.com/news/2016/02/chuck-d-writes-touching-open-letter-after-fathers-death/' />
+<link rel='next' title='Supermodels Wear Yeezy Season 2 for CR Fashion Book' href='http://www.xxlmag.com/lifestyle/2016/02/supermodels-wear-yeezy-season-2-for-cr-fashion-book/' />
+<link rel='shortlink' href='http://www.xxlmag.com/?p=552393' />
+		<script type='text/javascript'>
+			var crtg_nid = '3480';
+			var crtg_cookiename = 'crtg_townsquare';
+			var crtg_varname = 'crtg_content';
+			function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);} }return'';}
+			var crtg_content = crtg_getCookie(crtg_cookiename);
+			var crtg_rnd=Math.floor(Math.random()*99999999999);
+			(function(){
+				var crtg_url='http://rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);
+				crtg_url +='&cookieName='+escape(crtg_cookiename);
+				crtg_url +='&rnd='+crtg_rnd;
+				crtg_url +='&varName=' + escape(crtg_varname);
+				var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;
+				if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
+				else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
+			})();
+		</script>
+			<script type='text/javascript' src='http://c.amazon-adsystem.com/aax2/amzn_ads.js'></script>
+		<script type="text/javascript">
+		var googletag = googletag || {};
+		var TSMAdHelperSettings = {};
+	</script>
+		<script type="text/javascript">
+		googletag.cmd = googletag.cmd || [];
+	</script>
+	<script id="tsm-googletag-init" type="text/javascript" >
+	window.TSMAdSettings = {"activeSlots":["top-right-300x250","middle-right-300x250","bottom-right-300x250","top-728x90","bottom-728x90","tsm-out-of-page","top-right-noflex-300x250","tsm-2x2"],"adPageSettings":{"pageSettings":{"sitetype":"National","market":"National","callletters":"XXL","pagetype":"post","amazonAds":true,"enableCriteo":true,"enableViewability":true,"enableViewabilityBR":true,"enableSharethrough":true,"sharethroughKey":"a57de54a","enableYieldbot":"5f49","enableSonobi":"{\"top-right-300x250\":{\"key\":\"xxlmag_top-right\",\"val\":\"eaa0b985d789a8523b41\"},\"middle-right-300x250\":{\"key\":\"xxlmag_middle-right\",\"val\":\"d83b319a96e32e7e420e\"},\"bottom-right-300x250\":{\"key\":\"xxlmag_bottom-right\",\"val\":\"ea8f763bdfc3c891785d\"},\"top-728x90\":{\"key\":\"xxlmag_top\",\"val\":\"83787d84fc1d5ef15658\"},\"bottom-728x90\":{\"key\":\"xxlmag_bottom\",\"val\":\"7b653e38c83e3e782f64\"},\"top-right-noflex-300x250\":{\"key\":\"xxlmag_top-right\",\"val\":\"eaa0b985d789a8523b41\"},\"ads-top-leaderboard\":{\"key\":\"xxlmag_mobile_ads-top-leaderboard\",\"val\":\"e4be74c11671bc4d02b5\"},\"ads-top-right\":{\"key\":\"xxlmag_mobile_ads-top-right\",\"val\":\"fcc46e7131e8e7e302c1\"},\"ads-bottom-right\":{\"key\":\"xxlmag_mobile_ads-bottom-right\",\"val\":\"7a5b1299b1e326c061ab\"},\"ads-bottom-leaderboard\":{\"key\":\"xxlmag_mobile_ads-bottom-leaderboard\",\"val\":\"6447065884089fde7e73\"},\"ads-mid-top\":{\"key\":\"xxlmag_mobile_ads-mid-top\",\"val\":\"347896fd2cb2ce92a964\"},\"ads-mid-bottom\":{\"key\":\"xxlmag_mobile_ads-mid-bottom\",\"val\":\"1808fc376d6ddd95d116\"}}"},"attrs":{"catid":["news"],"id":"chance-the-rapper-favorite-songs-college-dropout","author":"maxweinstein","kw":["maxweinstein","chance-the-rapper-favorite-songs-college-dropout","news","chance-the-rapper","kanye-west","pagetype-post"],"genre":["urban"],"device":"web","kv":[]}}};
+			var crtg_split = crtg_content.split( ';' );
+		for (var i=1;i<crtg_split.length;i++){
+			var keyvals = crtg_split[ i-1 ].split( '=' );
+			if( window.TSMAdSettings.adPageSettings.attrs[ keyvals[ 0 ] ] === undefined ){
+				window.TSMAdSettings.adPageSettings.attrs[ keyvals[ 0 ] ] = [];
+			}
+			window.TSMAdSettings.adPageSettings.attrs[ keyvals[ 0 ] ].push( keyvals[ 1 ] );
+		}
+	</script>
+<script type="text/javascript" src="/wp-content/mu-plugins/google-ads/js/tsmadhelper.js?v=fe23f82ae0f471ae64f81428ef67e53d52f4463e"></script>
+
+<!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Design[591,714] -->
+<meta name="description" content="Chance The Rapper might not be on Kanye's new album, but he still has his thoughts on the best tracks from Yeezy's debut LP." />
+<meta name="keywords" content="chance the rapper, kanye west, college dropout" />
+<link rel="canonical" href="http://www.xxlmag.com/news/2016/02/chance-the-rapper-favorite-songs-college-dropout/" />
+<!-- /all in one seo pack Pro Version-->
+<meta property="fb:app_id" content="134615943276794"/>
+<meta property="fb:admins" content="100002025987268"/>
+<meta property="og:title" content="Chance The Rapper Names His Favorite Songs on 'The College Dropout' - XXL"/>
+<meta property="og:description" content="Chance The Rapper might not be on Kanye's new album, but he still has his thoughts on the best tracks from Yeezy's debut LP."/>
+<meta property="og:url" content="http://www.xxlmag.com/news/2016/02/chance-the-rapper-favorite-songs-college-dropout/"/>
+<meta property="og:site_name" content="XXL Mag"/>
+<meta property="og:type" content="blog"/>
+<meta property="og:image" content="http://www.xxlmag.com/files/2016/02/chance-ye.jpg?w=600&h=0&zc=1&s=0&a=t&q=89"/>
+<!--[if lt IE 8]><link rel="stylesheet" href="http://www.xxlmag.com/wp-content/plugins/gallery/resources/ie7.css" type="text/css" media="screen"><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" href="http://www.xxlmag.com/wp-content/plugins/gallery/resources/ie8.css" type="text/css" media="screen"><![endif]-->
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@XXL"/>
+
+
+<!-- BEGIN Sailthru Horizon Meta Information -->
+<meta name="sailthru.description" content="Chance The Rapper might not be on Kanye&#039;s new album, but he still has his thoughts on the best tracks from Yeezy&#039;s debut LP." />
+<meta name="sailthru.date" content="2016-02-10 13:49:56" />
+<meta name="sailthru.title" content="Chance The Rapper Names His Favorite Songs on Kanye West&#8217;s &#8216;The College Dropout&#8217;" />
+<meta name="sailthru.tags" content="tsmsite-xxl, tsmmarket-national, tsmtype-national, chance-the-rapper, kanye-west, news" />
+<meta name="sailthru.author" content="maxweinstein" />
+<meta name="sailthru.image.full" content="http://www.xxlmag.com/files/2016/02/chance-ye.jpg" />
+<meta name="sailthru.image.thumb" content="http://www.xxlmag.com/files/2016/02/chance-ye.jpg" />
+<!-- END Sailthru Horizon Meta Information -->
+
+<style type="text/css" media="all">
+/* <![CDATA[ */
+@import url("http://www.xxlmag.com/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.3");
+@import url("http://www.xxlmag.com/wp-content/plugins/wp-table-reloaded/css/datatables.css?ver=1.9.3");
+/* ]]> */
+</style><script type="text/javascript">
+				window.TSM = window.TSM || {};
+				window.TSM.clip = {"readmore":{"text":"Read More: "},"followus":{"text":"Follow Us: ","enabled":0},"visitus":{"text":"Visit Us At: ","enabled":0},"GA":{"kw":[],"accounts":["UA-19109753-54","UA-19109753-35"]}};
+				window.TSM.clip.GA.kw = ( window.TSMAdSettings !== undefined && window.TSMAdSettings.adPageSettings !== undefined && window.TSMAdSettings.adPageSettings.attrs !== undefined && window.TSMAdSettings.adPageSettings.attrs.kw !== undefined )?window.TSMAdSettings.adPageSettings.attrs.kw:[];
+			</script><!-- Begin comScore Tag -->
+<script>
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "16896931" });
+	(function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+</script>
+
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=16896931&cv=2.0&cj=1" /> </noscript>
+<!-- End comScore Tag -->
+
+<link rel="apple-touch-icon-precomposed" href="http://www.xxlmag.com/files/2015/09/57X57.png" />
+
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.xxlmag.com/files/2015/09/114x114.png" />
+
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.xxlmag.com/files/2015/09/72x72.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.1.1.d: http://ronaldheft.com/code/analyticator/ -->
+<script type="text/javascript">
+var analyticsFileTypes = [''];
+var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+var _gaq_author = 'maxweinstein';
+var _gaq_categories = 'news';
+var _gaq_uid = 'UA-19109753-54';
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-19109753-54']);
+_gaq.push(['_setCampaignCookieTimeout', 0]);
+_gaq.push(['_setAllowHash', false]);
+_gaq.push(['_setCustomVar', 1, 'Author', _gaq_author, 3]);
+_gaq.push(['_setCustomVar', 2, 'Categories', _gaq_categories, 3]);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_setAccount', 'UA-19109753-35']);
+_gaq.push(['_setCampaignCookieTimeout', 0]);
+_gaq.push(['_setAllowHash', false]);
+_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</head>
+
+<body class="single single-post postid-552393 single-format-standard onetone clear-sidebar-header block-listen-bar category-news">
+<div id="takeover_wrap" class="body_child">
+<div id="top_banner" class="tsmAd clearfix"><div id="top-728x90" class="tsm-google-ad" ></div></div><div class="google_ad_oop_wrap tsmAd"><div id="tsm-out-of-page" class="tsm-google-ad" ></div></div><div id="fb-root"></div>
+<script>
+	window.fbAsyncInit = function() {
+		FB.init({
+			appId      : '134615943276794', // App ID from the App Dashboard
+			channelUrl : 'http://www.xxlmag.com/wp-content/plugins/facebook-apps/views/channel.php', // Channel File for x-domain communication
+			status     : true,
+			cookie     : true,
+			xfbml      : true,
+			oauth      : true
+		});
+	};
+	(function(d, debug){
+		var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+		if (d.getElementById(id)) {return;}
+		js = d.createElement('script'); js.id = id; js.async = true;
+		js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
+		ref.parentNode.insertBefore(js, ref);
+	}(document, /*debug*/ false));
+</script>
+		<header class="top" >
+    <a href="http://www.xxlmag.com" title="XXL Mag" class="site_logo_link"><img src="http://www.xxlmag.com/files/2015/11/xxl.png" alt="XXL Mag" id="site-logo" class=""/></a>    <div id="header_search">
+                <form method="get" action="http://www.xxlmag.com/" class="search_form">
+            <label for="search_input">Search</label>
+            <input type="submit" name="submit_button" alt="Search" class="search_icon" value="" />
+            <input type="text" id="search_input" name="s" value="Search" size="15" onblur="if (this.value == '')  {this.value = 'Search';}" onfocus="if (this.value == 'Search') {this.value = '';}"/>
+        </form>
+    </div>
+    <a class="contactUs" href="/help/">Contact Us</a>
+    <div id="topright">
+       		<div id="sso">
+		<span class="sso_links"><a class="fb-auth-login-link" href="#fb-auth-login">Sign In</a> | <a class="fb-auth-registration-link" href="#fb-auth-registration">Sign Up</a></span>
+    </div><!-- // #sso.right -->
+</header><!-- // #header_nav. -->
+
+<div id="main_container" class="clearfix">
+    <nav class="main">
+	<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-520704" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-520704"><a href="http://www.xxlmag.com/category/news/"><span class="nav_item">News</span></a></li>
+<li id="menu-item-519455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-519455"><a href="/tags/bangers"><span class="nav_item">MUSIC</span></a></li>
+<li id="menu-item-303330" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-303330"><a href="http://www.xxlmag.com/category/video/"><span class="nav_item">VIDEOS</span></a></li>
+<li id="menu-item-519417" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-519417"><a href="/tags/feature"><span class="nav_item">FEATURES</span></a></li>
+<li id="menu-item-519418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-519418"><a href="http://www.xxlmag.com/tags/the-list/"><span class="nav_item">LISTS</span></a></li>
+<li id="menu-item-519415" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-519415"><a href="http://www.xxlmag.com/category/rap-music/reviews/"><span class="nav_item">REVIEWS</span></a></li>
+<li id="menu-item-303329" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-303329"><a href="http://www.xxlmag.com/category/lifestyle/"><span class="nav_item">LIFESTYLE</span></a></li>
+</ul></div>	<div class="social_icons">
+					<a href="https://www.facebook.com/xxlmag" title="Visit us on Facebook" class="share_link facebook" target="_blank">
+				<span class="social_icon">Follow on Facebook</span>
+			</a>
+					<a href="https://twitter.com/XXL" title="Visit us on Twitter" class="share_link twitter" target="_blank">
+				<span class="social_icon">Follow on Twitter</span>
+			</a>
+					<a href="https://www.youtube.com/user/XXLMagazine" title="Visit us on YouTube" class="share_link youtube" target="_blank">
+				<span class="social_icon">Subscribe on YouTube</span>
+			</a>
+					<a href="https://instagram.com/xxl" title="Visit us on Instagram" class="share_link instagram" target="_blank">
+				<span class="social_icon">Follow on Instagram</span>
+			</a>
+					<span class="nav-social-submenu">
+							<!--<iframe class="share_link_small facebook" src="//www.facebook.com/plugins/like.php?href=https://www.facebook.com/xxlmag&amp;width&amp;layout=button&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=35" scrolling="no" frameborder="0" style="overflow:hidden; width:50px; height:20px;" allowTransparency="true"></iframe>-->
+				<div class="fb-like share_link_small facebook" data-href="https://www.facebook.com/xxlmag" data-layout="button" data-action="like" data-show-faces="false" data-share="false" data-width="47px"></div>
+							<!--<iframe class="share_link_small twitter" allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=XXL&show_count=false&show_screen_name=false" style="width:60px; height:20px;"></iframe>-->
+								<div class="share_link_small twitter" id="nav-social-submenu-twitter" data-handle="XXL"></div>
+							<!--<iframe class="share_link_small youtube" data-gapiattached="true" frameborder="0" scrolling="no"
+						src="http://www.youtube.com/subscribe_embed?bsv&usegapi=1&channel=XXLMagazine&count=hidden"
+						style="overflow: hidden; height: 24px; width: 87px;">
+				</iframe>-->
+				<script type="text/javascript">
+					function TSMonYtEvent(payload) {
+						var gaPrimaryAccount = '';
+						if(typeof window.TSM !== undefined) {
+							try {
+								gaPrimaryAccount = window.TSM.ga.accounts[0];
+							}
+							catch(err){
+								throw 'primary google analytics account not found';
+							}
+						}
+						if (payload.eventType == 'subscribe') {
+							if( _gaq !== undefined && gaPrimaryAccount !== ''){
+								_gaq.push(
+									[ '_setAccount', gaPrimaryAccount ],
+									[
+										'_trackEvent',
+										'social',
+										'YouTube Subscribe',
+										'https://www.youtube.com/channel/' + payload.channelExternalId
+									]
+								);
+							}
+						} else if (payload.eventType == 'unsubscribe') {
+							if( _gaq !== undefined && gaPrimaryAccount !== ''){
+								_gaq.push(
+									[ '_setAccount', gaPrimaryAccount ],
+									[
+										'_trackEvent',
+										'social',
+										'YouTube Unsubscribe',
+										'https://www.youtube.com/channel/' + payload.channelExternalId
+									]
+								);
+							}
+						}
+					}
+				</script>
+				<div class="share_link_small youtube"><div class="g-ytsubscribe" data-channel="XXLMagazine" data-layout="default" data-count="hidden" data-onytevent="TSMonYtEvent"></div></div>
+					</span>
+					<a href="http://www.xxlmag.com/feed/" title="Subscribe via RSS" class="share_link rss" target="_blank"><span class="social_icon">subscribe via RSS</span></a>	</div><!-- // #.social_icons -->
+
+</nav><!-- // nav -->
+
+<div id="pushdown_ad" class="tsmAd clearfix"></div>    <div id="content" class=" clearfix">
+
+
+
+
+
+
+
+
+
+
+<div id="content_main" class="clearfix">
+    <section class="single">
+        <article id="post-content-552393">
+	<div id="single_sponsor_header"></div>
+    <h1>Chance The Rapper Names His Favorite Songs on Kanye West&#8217;s &#8216;The College Dropout&#8217;</h1>
+	<div class="post_meta">
+    <span class="author_avatar"><a href="http://www.xxlmag.com/author/maxweinstein/" title="Max Weinstein"></a></span>
+    <span class="the_author"><span>By </span><a href="http://www.xxlmag.com/author/maxweinstein/" title="Max Weinstein">Max Weinstein</a></span>
+    <span class="the_date">February 10, 2016 1:49 PM</span>    </div>	<div class="social-group-top large"><div class="social_icons size_large flat four">
+
+	<a   class="facebook share_link" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2016%2F02%2Fchance-the-rapper-favorite-songs-college-dropout%2F%3Ftrackback%3Dfbshare_top_flat_4&t=Chance+The+Rapper+Names+His+Favorite+Songs+on+Kanye+West%26%238217%3Bs+%26%238216%3BThe+College+Dropout%26%238217%3B" title="SHARE" target="_blank">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">SHARE</span>
+	</a>
+	
+
+	<a   class="twitter share_link" href="http://twitter.com/intent/tweet?text=Check%20out%20Chance%20The%20Rapper%20Names%20His%20Favorite%20Songs%20on%20Kanye%20West%E2%80%99s%20%E2%80%98The%20College%20Dropout%E2%80%99%20http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2016%2F02%2Fchance-the-rapper-favorite-songs-college-dropout%2F%3Ftrackback%3Dtwitter_top_flat_4%20%40XXL" title="TWEET" target="_blank">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">TWEET</span>
+	</a>
+	
+
+	<a   class="email share_link" href="mailto:?subject=Check out Chance%20The%20Rapper%20Names%20His%20Favorite%20Songs%20on%20Kanye%20West%E2%80%99s%20%E2%80%98The%20College%20Dropout%E2%80%99&body=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2016%2F02%2Fchance-the-rapper-favorite-songs-college-dropout%2F%3Ftrackback%3Demail_top_flat_4" title="EMAIL" target="_self">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">EMAIL</span>
+	</a>
+	
+
+	<a   class="reddit share_link" name="tsq-reddit" href="http://www.reddit.com/submit?url=http://www.xxlmag.com/news/2016/02/chance-the-rapper-favorite-songs-college-dropout/%3Ftrackback%3Dreddit_top_flat_4&title=Chance+The+Rapper+Names+His+Favorite+Songs+on+Kanye+West%E2%80%99s+%E2%80%98The+College+Dropout%E2%80%99" title="REDDIT" target="_blank" count-layout="none">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">REDDIT</span>
+	</a>
+	<span class="social-submenu">
+
+	<a   class="email share_link" href="mailto:?subject=Check out Chance%20The%20Rapper%20Names%20His%20Favorite%20Songs%20on%20Kanye%20West%E2%80%99s%20%E2%80%98The%20College%20Dropout%E2%80%99&body=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2016%2F02%2Fchance-the-rapper-favorite-songs-college-dropout%2F%3Ftrackback%3Demail_top_flat_4" title="EMAIL" target="_self">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">EMAIL</span>
+	</a>
+	
+
+	<a   class="reddit share_link" name="tsq-reddit" href="http://www.reddit.com/submit?url=http://www.xxlmag.com/news/2016/02/chance-the-rapper-favorite-songs-college-dropout/%3Ftrackback%3Dreddit_top_flat_4&title=Chance+The+Rapper+Names+His+Favorite+Songs+on+Kanye+West%E2%80%99s+%E2%80%98The+College+Dropout%E2%80%99" title="REDDIT" target="_blank" count-layout="none">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">REDDIT</span>
+	</a>
+	</span></div></div>    <div class="the_content clearfix">
+
+        <figure id="attachment_552408" class="alignnone" ><img class="wp-image-552408 size-large" src="http://www.xxlmag.com/files/2016/02/chance-ye.jpg?w=630&amp;h=420&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" alt="Jason Merritt/Kevork Djansezian, Getty Images (2)" width="630" height="420" /><figcaption style="width:630px;">Jason Merritt/Kevork Djansezian, Getty Images (2)</figcaption></figure>
+<p>Today <a href="http://www.xxlmag.com/tags/chance-the-rapper/">Chance the Rapper</a> took to Twitter to ask his followers a simple question: what are the three best songs on <a href="http://www.xxlmag.com/tags/kanye-west/">Kanye West&#8217;s</a> <em>College Dropout </em>album?</p>
+<p>He didn&#8217;t give them much time to answer before providing his own answers: &#8220;All Falls Down,&#8221; &#8220;Family Business,&#8221; and &#8220;We Don&#8217;t Care&#8221; are his personal favorites.</p>
+<blockquote class="twitter-tweet" data-width="550"><p lang="fr" dir="ltr">Best 3 songs on College Dropout?</p>
+<p>&mdash; Chance The Rapper (@chancetherapper) <a href="https://twitter.com/chancetherapper/status/697473450441515008">February 10, 2016</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="550"><p lang="en" dir="ltr">Me personally&#8230; All Falls Down, Family Business, We Don&#39;t Care</p>
+<p>&mdash; Chance The Rapper (@chancetherapper) <a href="https://twitter.com/chancetherapper/status/697475461312425984">February 10, 2016</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>When <em>Acid Rap </em>came out in 2013, the opening song <a href="https://soundcloud.com/chancetherapper/good-ass-intro-ft-bj-the?in=chancetherapper/sets/chance-the-rapper-acid-rap" target="_blank">&#8220;Good Ass Intro&#8221;</a> was recognized as having a strong Kanye influence. With its partial gospel flavor combined with some juke rhythms, &#8220;Good Ass Intro&#8221; might have even been a prescient sign of the music to come from Yeezy, since he&#8217;s calling his new LP a &#8220;gospel&#8221; album.</p>
+<p>Chance and Kanye have been spotted in the studio before and Big Boy teased Chance&#8217;s name when he <a href="http://www.xxlmag.com/news/2016/01/kanye-west-chance-the-rapper-good-fridays/" target="_blank">snapped the first pic of Kanye&#8217;s notepad</a> in the studio. At the top of the year <a href="https://twitter.com/chancetherapper/status/685652227294285824" target="_blank">Chance also joked</a> about artists finding out they aren&#8217;t on the new Yeezy album.</p>
+<p>Anyone who&#8217;s seen Chance the Rapper perform live might have been able to guess that &#8220;Family Business&#8221; is one of his favorite cuts from <em>College Dropout</em>; in 2015 he premiered a live cover version of the track at the Summer&#8217;s End Music Festival in Arizona, followed by a <a href="https://youtu.be/ZCI2cK7AeEg" target="_blank">studio version of the song</a> with an accompanying video clip.</p>
+<p>Whether Chance the Rapper will be on Kanye West&#8217;s upcoming album remains to be seen, but it&#8217;d be a bit of a disappointment if he&#8217;s not. The trajectory of his past work meshes well with Kanye&#8217;s experimental style, so it&#8217;d make a lot of sense to see these two Chitown natives collaborate.</p>
+<p style="text-align: center;"><strong>See 40 Hip-Hop Albums Turning 20 in 2016</strong></p>
+<script type="text/javascript">
+	window.TSM = window.TSM || {};
+	window.TSM.photogalleryConfigs = window.TSM.photogalleryConfigs || [];
+	var photogalleryConfig = {
+		galleryUrl:'/api/json/galleries/545899?filterexclusions&galleryindex=0'
+		,galleryId:'tsm-photogallery-812-545899-0'
+		,showThumbs:0
+		,colorscheme:'dark'
+		
+		,dozIndexTweak:1
+		,refreshRate:1
+		,enableFullscreen:1
+		,expandOnLoadHash:0
+		,portraitMode:0
+		,initImage:'http://www.xxlmag.com/files/2016/01/Fugees-Ghostface-2Pac.jpg'
+	};
+	window.TSM.photogalleryConfigs.push( photogalleryConfig );
+</script>
+<div id="tsm-photogallery-812-545899-0-placeholder"></div>
+<div class="tsm-photogallery-wrapper dark">
+	<div class="tsm-photogallery-container" id="tsm-photogallery-812-545899-0">
+		<div class="tsm-photogallery-header">
+			<div class="tsm-photogallery-ad tsm-photogallery-320x50 off" id="tsm-photogallery-812-545899-0-320x50"></div>
+		</div>
+		<div class="tsm-photogallery">
+			<div class="loadinganim"><span></span><span></span><span></span></div>
+			<div class="tsm-photogallery-mover-container">
+				<div class="tsm-photogallery-nav prev primary-active-color"><a title="Previous" class="icon-left-open prev-btn" href="javascript:void(0);"></a></div>
+				<div class="tsm-photogallery-nav next primary-active-color"><a class="icon-right-open next-btn" title="Next" href="javascript:void(0);"></a></div>
+				<div class="tsm-photogallery-mover"></div>
+			</div>
+			<div class="tsm-photogallery-thumbnail-wrapper off">
+				<div class="tsm-photogallery-thumbnail-nav prev"><a title="Previous" class="thumb-prev-btn" href="javascript:void(0);"></a></div>
+				<div class="tsm-photogallery-thumbnail-nav next"><a title="Next" class="thumb-next-btn" href="javascript:void(0);"></a></div>
+				<div class="tsm-photogallery-thumbnails">
+					<div class="tsm-photogallery-thumbnail-mover"></div>
+				</div>
+			</div>
+			<div class="tsm-photogallery-footer off"><div class="tsm-photogallery-imagecount"><b>Image </b><span class="tsm-photogallery-current"></span> of <span class="tsm-photogallery-total"></span></div><div class="tsm-photogallery-caption"></div></div>
+		</div>
+		<a href="javascript:void(0);" class="tsm-photogallery-engagement-close"></a>
+		<aside class="tsm-photogallery-sidebar">
+			<div class="tsm-photogallery-ad tsm-photogallery-300x250 off" id="tsm-photogallery-812-545899-0-300x250"></div>
+			<div class="tsm-photogallery-copy">
+				<h2 class="tsm-photogallery-imagetitle"></h2>
+				<p class="tsm-photogallery-imagedescription"></p>
+				<div class="description-scroll description-up"></div><div class="description-scroll description-down"></div>
+			</div>
+			<div class="under-description-content"></div>
+		</aside>
+		<footer>
+			<div class="tsm-photogallery-ad tsm-photogallery-728x90 off" id="tsm-photogallery-812-545899-0-728x90"></div>
+			<div class="tsm-photogallery-ad" id="tsm-photogallery-oop"></div>
+		</footer>
+	</div>
+	<div class="tsm-photogallery-overlay"></div>
+</div>
+<p><iframe style="vertical-align: bottom;" width="630" height="354" src="https://www.youtube.com/embed/kLGFoWon808?feature=oembed" frameborder="0" allowfullscreen></iframe><span class="tsm_youtube_sub" style="max-width:620px;">Subscribe to <a href=http://www.youtube.com/subscription_center?add_user=XXLMagazine>XXL</a> on <span style="vertical-align: bottom; display: inline-block; height: 24px;"><span class="g-ytsubscribe" data-channel="XXLMagazine" data-layout="default" data-count="hidden" data-onytevent="TSMonYtEvent"></span></span></span></p>
+			        </div>
+    <div class="content_meta clearfix">
+        <div class="cat_meta clearfix">
+            <span class="the_tags">Filed Under: <a href="http://www.xxlmag.com/tags/chance-the-rapper/" rel="tag">Chance The Rapper</a> | <a href="http://www.xxlmag.com/tags/kanye-west/" rel="tag">Kanye West</a></span>            <span class="the_category">Category: <a href="http://www.xxlmag.com/category/news/" rel="category tag">News</a></span>        </div><!-- // #.cat_meta -->
+    </div><!-- // #.excerpt_meta -->
+    <div class="social-group large"><div class="social_icons size_large flat four">
+
+	<a   class="facebook share_link" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2016%2F02%2Fchance-the-rapper-favorite-songs-college-dropout%2F%3Ftrackback%3Dfbshare_flat_4&t=Chance+The+Rapper+Names+His+Favorite+Songs+on+Kanye+West%26%238217%3Bs+%26%238216%3BThe+College+Dropout%26%238217%3B" title="SHARE" target="_blank">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">SHARE</span>
+	</a>
+	
+
+	<a   class="twitter share_link" href="http://twitter.com/intent/tweet?text=Check%20out%20Chance%20The%20Rapper%20Names%20His%20Favorite%20Songs%20on%20Kanye%20West%E2%80%99s%20%E2%80%98The%20College%20Dropout%E2%80%99%20http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2016%2F02%2Fchance-the-rapper-favorite-songs-college-dropout%2F%3Ftrackback%3Dtwitter_flat_4%20%40XXL" title="TWEET" target="_blank">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">TWEET</span>
+	</a>
+	
+
+	<a   class="email share_link" href="mailto:?subject=Check out Chance%20The%20Rapper%20Names%20His%20Favorite%20Songs%20on%20Kanye%20West%E2%80%99s%20%E2%80%98The%20College%20Dropout%E2%80%99&body=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2016%2F02%2Fchance-the-rapper-favorite-songs-college-dropout%2F%3Ftrackback%3Demail_flat_4" title="EMAIL" target="_self">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">EMAIL</span>
+	</a>
+	
+
+	<a   class="reddit share_link" name="tsq-reddit" href="http://www.reddit.com/submit?url=http://www.xxlmag.com/news/2016/02/chance-the-rapper-favorite-songs-college-dropout/%3Ftrackback%3Dreddit_flat_4&title=Chance+The+Rapper+Names+His+Favorite+Songs+on+Kanye+West%E2%80%99s+%E2%80%98The+College+Dropout%E2%80%99" title="REDDIT" target="_blank" count-layout="none">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">REDDIT</span>
+	</a>
+	
+
+	<a   class="more share_link" title="More">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">More</span>
+	</a>
+	<span class="social-submenu">
+
+	<a   class="email share_link" href="mailto:?subject=Check out Chance%20The%20Rapper%20Names%20His%20Favorite%20Songs%20on%20Kanye%20West%E2%80%99s%20%E2%80%98The%20College%20Dropout%E2%80%99&body=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2016%2F02%2Fchance-the-rapper-favorite-songs-college-dropout%2F%3Ftrackback%3Demail_flat_4" title="EMAIL" target="_self">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">EMAIL</span>
+	</a>
+	
+
+	<a   class="print share_link" href="javascript:window.print();" title="Print this page" target="">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">Print this page</span>
+	</a>
+		<div class="google-plus-one">
+		<div class="g-plusone" data-size="medium" data-href="http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2016%2F02%2Fchance-the-rapper-favorite-songs-college-dropout%2F%3Ftrackback%3Dgplus" data-callback="TSMTrackGPlus" data-annotation="none"></div>
+		<script type="text/javascript">
+			function TSMTrackGPlus(data){
+				var gaPrimaryAccount = '';
+				if(typeof window.TSM !== undefined) {
+					try {
+						gaPrimaryAccount = window.TSM.ga.accounts[0];
+					}
+					catch(err){
+						throw 'primary google analytics account not found';
+					}
+				}
+				if(data.state=="on"){
+					if( _gaq !== undefined && gaPrimaryAccount !== ''){
+						_gaq.push(
+							[ '_setAccount', gaPrimaryAccount ],
+							[
+								'_trackEvent',
+								'social',
+								'Gplus',
+								data.href
+							]
+						);
+					}
+				}else if(data.state=="off"){
+					if( _gaq !== undefined && gaPrimaryAccount !== ''){
+						_gaq.push(
+							[ '_setAccount', gaPrimaryAccount ],
+							[
+								'_trackEvent',
+								'social',
+								'Gminus',
+								data.href
+							]
+						);
+					}
+				}
+			}
+			(function() {
+				if(!document.getElementById('google-plus-loaded')){
+					var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+					po.id='google-plus-loaded';
+					po.src = 'https://apis.google.com/js/plusone.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+				}
+			})();
+		</script>
+	</div>
+	
+
+	<a   class="pinterest share_link" name="tsq-pinterest" href="http://pinterest.com/pin/create/button/?url=http://www.xxlmag.com/news/2016/02/chance-the-rapper-favorite-songs-college-dropout/%3Ftrackback%3Dpinterest&media=http%3A%2F%2Fwww.xxlmag.com%2Ffiles%2F2016%2F02%2Fchance-ye.jpg%3Fw%3D150%26h%3D150%26zc%3D1%26s%3D0%26a%3Dt%26q%3D89" title="Pin it!" target="_blank" count-layout="none">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">Pin it!</span>
+	</a>
+	
+
+	<a   class="reddit share_link" name="tsq-reddit" href="http://www.reddit.com/submit?url=http://www.xxlmag.com/news/2016/02/chance-the-rapper-favorite-songs-college-dropout/%3Ftrackback%3Dreddit_flat_4&title=Chance+The+Rapper+Names+His+Favorite+Songs+on+Kanye+West%E2%80%99s+%E2%80%98The+College+Dropout%E2%80%99" title="REDDIT" target="_blank" count-layout="none">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">REDDIT</span>
+	</a>
+	
+
+	<a   class="tumblr share_link" name="tsq-tumblr" href="http://www.tumblr.com/share/photo?click_thru=http%3A%2F%2Fwww.xxlmag.com%2Fnews%2F2016%2F02%2Fchance-the-rapper-favorite-songs-college-dropout%2F%3Ftrackback%3Dtumblr&source=http%3A%2F%2Fwww.xxlmag.com%2Ffiles%2F2016%2F02%2Fchance-ye.jpg&caption=Chance+The+Rapper+Names+His+Favorite+Songs+on+Kanye+West%E2%80%99s+%E2%80%98The+College+Dropout%E2%80%99" title="Share on Tumblr!" target="_blank" count-layout="none">
+					<div class="social_icon_large"></div>
+				<span class="social_icon">Share on Tumblr!</span>
+	</a>
+	<div class="tsq-facebook-like sonar_facebook_app" data-app-type="like" data-href="http://www.xxlmag.com/news/2016/02/chance-the-rapper-favorite-songs-college-dropout/?trackback=fblike" data-send="no" data-layout="button" data-width="200" data-show-faces="false" data-font="segoe ui" data-colorscheme="light" data-action=""></div></span></div></div>	    <div id="widget_third_party_content-2" class="widget widget_third_party_content  clearfix"><section class="blogroll main_content_thumb_title_roll clearfix size4"><h3>Recommended For You</h3>
+	<script language="javascript" type="text/javascript">
+		(function() {
+			var zergnet = document.createElement("script");
+			zergnet.type = "text/javascript"; zergnet.async = true;
+			zergnet.src = "http://www.zergnet.com/zerg.js?id=35862";
+			var znscr = document.getElementsByTagName("script")[0];
+			znscr.parentNode.insertBefore(zergnet, znscr);
+		})();
+	</script>
+	<div id="zergnet-widget-35862" style="text-align:center;margin-left:-7px;"><a href="http://www.zergnet.com/?w=35862" target="_blank"><b>ZergNet</b></a></div>
+</section></div><div id="widget_third_party_content-3" class="widget widget_third_party_content  clearfix"><section class="blogroll main_content_thumb_title_roll clearfix size4"><h3>Around the Web</h3>
+	<script language="javascript" type="text/javascript">
+		(function() {
+			var zergnet = document.createElement("script");
+			zergnet.type = "text/javascript"; zergnet.async = true;
+			zergnet.src = "http://www.zergnet.com/zerg.js?id=32785";
+			var znscr = document.getElementsByTagName("script")[0];
+			znscr.parentNode.insertBefore(zergnet, znscr);
+		})();
+	</script>
+	<div id="zergnet-widget-32785" style="text-align:center;margin-left:-7px;"><a href="http://www.zergnet.com/?w=32785" target="_blank"><b>ZergNet</b></a></div>
+</section></div><section class="blogroll main_content_thumb_title_roll clearfix size4">
+	<h3>Best of XXL</h3>    <div class="articles">
+            <article id="post-content-553173">
+            <figure>
+                <a href="http://www.xxlmag.com/news/2016/02/heres-a-round-up-of-kanyes-recent-twitter-shenanigans/" title="Here&#8217;s a Round-Up of Kanye&#8217;s Recent Twitter Shenanigans"><img width="146" height="97" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-146x97 sonar_image" alt="Kanye West Yeezy Season 3 - Runway" datasrc="http://www.xxlmag.com/files/2016/02/GettyImages-509643078.jpg?w=146&amp;h=97&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" /></a>
+            </figure>
+            <h2><a href="http://www.xxlmag.com/news/2016/02/heres-a-round-up-of-kanyes-recent-twitter-shenanigans/" title="Here&#8217;s a Round-Up of Kanye&#8217;s Recent Twitter Shenanigans">Here&#8217;s a Round-Up of Kanye&#8217;s Recent Twitter Shenanigans</a></h2>
+        </article>
+                <article id="post-content-552424">
+            <figure>
+                <a href="http://www.xxlmag.com/news/2016/02/6-rappers-failed-to-pay-taxes-past-year/" title="6 Rappers That Failed to Pay Their Taxes in the Past Year"><img width="146" height="97" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-146x97 sonar_image" alt="Jason Kempin / Theo Wargo, Getty Images (2)" datasrc="http://www.xxlmag.com/files/2016/02/rappers-taxes.jpg?w=146&amp;h=97&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" /></a>
+            </figure>
+            <h2><a href="http://www.xxlmag.com/news/2016/02/6-rappers-failed-to-pay-taxes-past-year/" title="6 Rappers That Failed to Pay Their Taxes in the Past Year">6 Rappers That Failed to Pay Their Taxes in the Past Year</a></h2>
+        </article>
+                <article id="post-content-552924">
+            <figure>
+                <a href="http://www.xxlmag.com/news/2016/02/hilarious-memes-2016-grammy-awards/" title="Most Hilarious Memes From 2016 Grammy Awards"><img width="146" height="97" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-146x97 sonar_image" alt="MemeFeaturedImages" datasrc="http://www.xxlmag.com/files/2016/02/MemeFeaturedImages.jpg?w=146&amp;h=97&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" /></a>
+            </figure>
+            <h2><a href="http://www.xxlmag.com/news/2016/02/hilarious-memes-2016-grammy-awards/" title="Most Hilarious Memes From 2016 Grammy Awards">Most Hilarious Memes From 2016 Grammy Awards</a></h2>
+        </article>
+                <article id="post-content-551667">
+            <figure>
+                <a href="http://www.xxlmag.com/news/2016/02/20-most-anticipated-albums-2016/" title="20 Most Anticipated Albums of 2016 According to Fans"><img width="146" height="97" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-146x97 sonar_image" alt="Ben Gabbe / Vaughn Ridley / Brad Barket, Getty Images (3)" datasrc="http://www.xxlmag.com/files/2016/02/most-anticipated-albums-20163.jpg?w=146&amp;h=97&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" /></a>
+            </figure>
+            <h2><a href="http://www.xxlmag.com/news/2016/02/20-most-anticipated-albums-2016/" title="20 Most Anticipated Albums of 2016 According to Fans">20 Most Anticipated Albums of 2016 According to Fans</a></h2>
+        </article>
+            </div>
+</section>
+	</article>    </section>
+    
+<div class="comments-header"><h4>Leave a Comment</h4></div>
+<div id="comments" class="anchor"></div>
+<div id="comments_wrap" class="comments_template facebook_bg content_wrap clearfix facebook_comments">
+	<div class="sonar_facebook_app" data-app-type="comments" data-href="http://www.xxlmag.com/news/2016/02/chance-the-rapper-favorite-songs-college-dropout/" data-width="630" data-num-posts="10" data-colorscheme=""></div></div></div>
+
+
+<aside id="content_sidebar" class="sidebar clearfix">
+    <div id="google-ads-widget-11" class="widget google-ads-widget clearfix"><div id="top-right-300x250" class="tsm-google-ad" ></div></div><div id="tsq_sailthru_newsletter_widget-3" class="widget tsq_sailthru_newsletter_widget TSQ_sailthru_newsletter_widget_class clearfix"><div class="widget_header clearfix"><h4>XXL Newsletter</h4></div><div class="gform_wrapper">
+				<form action="" method="post">
+					<div class="gform_heading">
+					<span class="gform_description"></span>
+				</div>
+				<div class="sailthru-newsletter">
+						<input class="sailthru-email" type="text" name="email" value="" placeholder="email address" />
+					<div class="default-button">
+						<input type="hidden" name="list" value="XXL" />
+						<input type="hidden" name="tsq-st-widget-is_submitted" value="true" />
+						<input type="submit" class="button sailthru-button" value="SIGN UP NOW" />
+					</div>
+				</div>
+				</form>
+			</div></div><div id="ts_blogroll-23" class="widget ts_blogroll  clearfix"><div class="widget_header clearfix"><h4>Latest News</h4></div><article class="small_thumb_title_date  clearfix">
+        <figure>
+        <a href="http://www.xxlmag.com/news/2016/02/sage-the-gemini-keep-loving-you/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="sage gemini jordin sparks keep loving you" datasrc="http://www.xxlmag.com/files/2016/02/Sage-Gemini-Keep-Loving-You.png?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" /></a>
+    </figure>
+        <div class="excerpt clearfix">
+        <a href="http://www.xxlmag.com/news/2016/02/sage-the-gemini-keep-loving-you/">Sage The Gemini Tells Jordin Sparks &#8220;I&#8217;ll Keep Loving You&#8221;</a>
+        <em>February 18, 2016 1:02 AM</em>
+    </div>
+</article>
+<article class="small_thumb_title_date  clearfix">
+        <figure>
+        <a href="http://www.xxlmag.com/rap-music/new-music/2016/02/ti-money-talk/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="ti money talk new single" datasrc="http://www.xxlmag.com/files/2016/02/ti-money-talk.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" /></a>
+    </figure>
+        <div class="excerpt clearfix">
+        <a href="http://www.xxlmag.com/rap-music/new-music/2016/02/ti-money-talk/">T.I. Hits Sweet Spot on &#8220;Money Talk&#8221;</a>
+        <em>February 18, 2016 12:16 AM</em>
+    </div>
+</article>
+<article class="small_thumb_title_date  clearfix">
+        <figure>
+        <a href="http://www.xxlmag.com/news/2016/02/kanye-west-who-is-pablo/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="kanye west life of pablo" datasrc="http://www.xxlmag.com/files/2016/02/Kanye-West-confusing.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" /></a>
+    </figure>
+        <div class="excerpt clearfix">
+        <a href="http://www.xxlmag.com/news/2016/02/kanye-west-who-is-pablo/">Why Kanye West&#8217;s &#8216;The Life of Pablo&#8217; Is the Most Confusing Album Title Ever</a>
+        <em>February 17, 2016 8:48 PM</em>
+    </div>
+</article>
+<article class="small_thumb_title_date  clearfix">
+        <figure>
+        <a href="http://www.xxlmag.com/news/2016/02/tyler-the-creator-yonkers-joke/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="tyler banned UK" datasrc="http://www.xxlmag.com/files/2014/05/tyler-the-creator-getty.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" /></a>
+    </figure>
+        <div class="excerpt clearfix">
+        <a href="http://www.xxlmag.com/news/2016/02/tyler-the-creator-yonkers-joke/">Tyler The Creator Made &#8220;Yonkers&#8221; as a Joke</a>
+        <em>February 17, 2016 8:48 PM</em>
+    </div>
+</article>
+<article class="small_thumb_title_date last clearfix">
+        <figure>
+        <a href="http://www.xxlmag.com/news/2016/02/bobby-shmurda-no-beef-50-cent-2-million-bail/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Neilson Barnard, Getty Images" datasrc="http://www.xxlmag.com/files/2016/02/bobby-shmurda-new-trial-date.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" /></a>
+    </figure>
+        <div class="excerpt clearfix">
+        <a href="http://www.xxlmag.com/news/2016/02/bobby-shmurda-no-beef-50-cent-2-million-bail/">Bobby Shmurda Insists He Has No Beef With 50 Cent, Speaks on $2 Million Bail</a>
+        <em>February 17, 2016 8:06 PM</em>
+    </div>
+</article>
+<p class="more_act"><a href="/category/news/" title="See More">See More</a></p>
+</div><div id="google-ads-widget-15" class="widget google-ads-widget clearfix"><div id="middle-right-300x250" class="tsm-google-ad" ></div></div><div id="rss-feed-8" class="widget rss-feed  clearfix"><div class="widget_header clearfix"><h4><span class="rssfeed-title">Eye Candy</span></h4></div><ul class="image-rss-feed"><li>
+						<span class="rssfeed-image" >
+							<a href="http://www.xxlmag.com/eye-candy/2016/02/sexiest-eye-candy-at-2016-grammy-awards/" title="Here&#039;s the hottest and sexiest females from the 2016 Grammy Awards in Los Angeles. [&hellip;]" >
+								<img class="rssfeed-item-image" src="http://www.xxlmag.com/files/2016/02/Main3.jpg?w=80&h=60&zc=1&s=0&a=t&q=89" width="80" height="60" alt="">
+							</a>
+						</span><span class="rssfeed-copy">
+							<a class="rsswidget" href="http://www.xxlmag.com/eye-candy/2016/02/sexiest-eye-candy-at-2016-grammy-awards/" title="Sexiest Eye Candy at 2016 Grammy Awards" >Sexiest Eye Candy at 2016 Grammy Awards</a>
+							<span class="rss-date">February 15, 2016</span>
+							
+							
+						</span>
+					</li><li>
+						<span class="rssfeed-image" >
+							<a href="http://www.xxlmag.com/eye-candy/2016/02/12-reasons-you-should-follow-the-sexy-ayisha-diaz/" title="Here&#039;s a few reasons you should follow the beautiful and voluptuous Ayisha Diaz. [&hellip;]" >
+								<img class="rssfeed-item-image" src="http://www.xxlmag.com/files/2016/02/Main2.jpg?w=80&h=60&zc=1&s=0&a=t&q=89" width="80" height="60" alt="">
+							</a>
+						</span><span class="rssfeed-copy">
+							<a class="rsswidget" href="http://www.xxlmag.com/eye-candy/2016/02/12-reasons-you-should-follow-the-sexy-ayisha-diaz/" title="15 Reasons You Should Follow Sexy Ayisha Diaz" >15 Reasons You Should Follow Sexy Ayisha Diaz</a>
+							<span class="rss-date">February 12, 2016</span>
+							
+							
+						</span>
+					</li><li>
+						<span class="rssfeed-image" >
+							<a href="http://www.xxlmag.com/eye-candy/2016/02/15-hot-and-sexy-photos-of-reality-tv-star-joseline-hernandez/" title="Here&#039;s some of the sexiest and hottest photos of reality TV star Joseline Hernandez. [&hellip;]" >
+								<img class="rssfeed-item-image" src="http://www.xxlmag.com/files/2016/02/Main-7.jpg?w=80&h=60&zc=1&s=0&a=t&q=89" width="80" height="60" alt="">
+							</a>
+						</span><span class="rssfeed-copy">
+							<a class="rsswidget" href="http://www.xxlmag.com/eye-candy/2016/02/15-hot-and-sexy-photos-of-reality-tv-star-joseline-hernandez/" title="15 Sexy Photos of Reality TV Star Joseline Hernandez" >15 Sexy Photos of Reality TV Star Joseline Hernandez</a>
+							<span class="rss-date">February 8, 2016</span>
+							
+							
+						</span>
+					</li></ul></div><div id="promotion-4" class="widget promotion  clearfix"><div class="widget_header clearfix"><h4>ON STANDS NOW</h4></div>
+<article class="single">
+		<figure>
+					<a href="http://www.xxlmag.com/tags/xxl-magazine/" target="_self"><img width="300" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-300w sonar_image" alt="XXL" datasrc="http://www.xxlmag.com/files/2015/12/kendrick-xxl-cover.jpg?w=300&amp;h=0&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" /></a>
+			</figure>
+		<div class="excerpt clearfix">
+			</div>
+</article>
+	<p class="more_act">
+		<a href="http://www.xxlmag.com/tags/xxl-magazine/" title="Table of Contents" target="_self">Table of Contents</a>
+	</p>
+
+</div><div id="ts_blogroll_pinned ts_blogroll-3" class="widget ts_blogroll_pinned ts_blogroll  clearfix"><div class="widget_header clearfix"><h4>Galleries</h4></div>	<article class="small_thumb_title_date  clearfix">
+	    	    <figure>
+	        <a href="http://www.xxlmag.com/news/2016/02/fan-covers-based-off-kanye-wests-the-life-of-pablo/">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Kanye West TLOP fan cover" datasrc="http://www.xxlmag.com/files/2016/02/Screen-Shot-2016-02-12-at-4.23.35-PM.png?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" />	        </a>
+	        	    </figure>
+	    	    <div class="excerpt clearfix">
+	        <a href="http://www.xxlmag.com/news/2016/02/fan-covers-based-off-kanye-wests-the-life-of-pablo/">25 Dope Fan-Made Album Covers Imitating Kanye West&#8217;s &#8216;T.L.O.P.&#8217;</a>
+	        <em>February 12, 2016 5:51 PM</em>
+	    </div>
+	</article>
+    	<article class="small_thumb_title_date  clearfix">
+	    	    <figure>
+	        <a href="http://www.xxlmag.com/news/2016/02/rappers-perfect-valentines-day-date/">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Instagram" datasrc="http://www.xxlmag.com/files/2016/02/rappers-perfect-valentines-date1.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" />	        </a>
+	        	    </figure>
+	    	    <div class="excerpt clearfix">
+	        <a href="http://www.xxlmag.com/news/2016/02/rappers-perfect-valentines-day-date/">16 Rappers Reveal Their Perfect Valentine&#8217;s Day Dates</a>
+	        <em>February 12, 2016 4:40 PM</em>
+	    </div>
+	</article>
+    	<article class="small_thumb_title_date  clearfix">
+	    	    <figure>
+	        <a href="http://www.xxlmag.com/lifestyle/2016/02/top-5-sneakers-coming-out-this-weekend-16/">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Jordan Brand" datasrc="http://www.xxlmag.com/files/2016/02/ovo-air-jordan-10-black.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" />	        </a>
+	        	    </figure>
+	    	    <div class="excerpt clearfix">
+	        <a href="http://www.xxlmag.com/lifestyle/2016/02/top-5-sneakers-coming-out-this-weekend-16/">Top 5 Sneakers Coming Out This Weekend</a>
+	        <em>February 12, 2016 12:12 PM</em>
+	    </div>
+	</article>
+    	<article class="small_thumb_title_date  clearfix">
+	    	    <figure>
+	        <a href="http://www.xxlmag.com/lifestyle/2016/02/heres-a-first-look-at-the-full-yeezy-season-3-collection/">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Yeezy Season 3" datasrc="http://www.xxlmag.com/files/2016/02/Yeezy-season-3-main.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" />	        </a>
+	        	    </figure>
+	    	    <div class="excerpt clearfix">
+	        <a href="http://www.xxlmag.com/lifestyle/2016/02/heres-a-first-look-at-the-full-yeezy-season-3-collection/">Here&#8217;s a First Look at the Full Yeezy Season 3 Collection</a>
+	        <em>February 12, 2016 11:19 AM</em>
+	    </div>
+	</article>
+    	<article class="small_thumb_title_date last clearfix">
+	    	    <figure>
+	        <a href="http://www.xxlmag.com/news/2016/02/twitter-t-l-o-p-initials-kanye-wests-album/">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Kevin Winter, Getty Images" datasrc="http://www.xxlmag.com/files/2016/01/kanye-west-twitter-reactions-waves.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" />	        </a>
+	        	    </figure>
+	    	    <div class="excerpt clearfix">
+	        <a href="http://www.xxlmag.com/news/2016/02/twitter-t-l-o-p-initials-kanye-wests-album/">Twitter Guesses &#8216;T.L.O.P.&#8217; Initials for Kanye West’s New Album</a>
+	        <em>February 10, 2016 5:10 PM</em>
+	    </div>
+	</article>
+    </div><div id="google-ads-widget-13" class="widget google-ads-widget clearfix"><div id="bottom-right-300x250" class="tsm-google-ad" ></div></div></aside>    </div><!-- // #content -->
+</div><!-- // #main-container -->
+
+<footer id="footer_wrap" class="footer_wrap clearfix">
+    <div data-id="39" id="xlink_footer" class="clearfix footer-id-39 data--wp_cache map--wp_cache"><div class="top_row row clearfix"><div class="sect clearfix"><a data="foo" class="logo" href="http://theboombox.com" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/tsm-images/logos/footer/625-dark.png?id=812" alt="Logo for the website http://theboombox.com"></a><a data-id="206485" class="article" href="http://theboombox.com/fetty-wap-post-malone-surprise-fans-with-g-unit-appearance-in-new-york-city/" title="Fetty Wap, Post Malone Surprise Fans With G-Unit in New York City" target="_blank" rel="nofollow"><span>Fetty Wap, Post Malone Surprise Fans With G-Unit in New York City<em>&bull;</em></span></a><a data-id="205941" class="article" href="http://theboombox.com/artists-we-lost-in-2016/" title="Artists We Lost in 2016" target="_blank" rel="nofollow"><span>Artists We Lost in 2016<em>&bull;</em></span></a></div>
+<div class="sect clearfix"><a data="foo" class="logo" href="http://screencrush.com" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/tsm-images/logos/footer/442-dark.png?id=812" alt="Logo for the website http://screencrush.com"></a><a data-id="283085" class="article" href="http://screencrush.com/gremlins-facts/" title="Celebrate Christmas With These 10 ‘Gremlins’ Facts" target="_blank" rel="nofollow"><span>Celebrate Christmas With These 10 ‘Gremlins’ Facts<em>&bull;</em></span></a><a data-id="282321" class="article" href="http://screencrush.com/die-hard-facts/" title="Yippie-Ki-Yay, Here Are 10 ‘Die Hard’ Facts" target="_blank" rel="nofollow"><span>Yippie-Ki-Yay, Here Are 10 ‘Die Hard’ Facts<em>&bull;</em></span></a></div>
+<div class="sect clearfix"><a data="foo" class="logo" href="http://comicsalliance.com" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/tsm-images/logos/footer/622-dark.png?id=812" alt="Logo for the website http://comicsalliance.com"></a><a data-id="182134" class="article" href="http://comicsalliance.com/greatest-romantic-couples-comics/" title="The 30 Greatest Romantic Couples In Comics" target="_blank" rel="nofollow"><span>The 30 Greatest Romantic Couples In Comics<em>&bull;</em></span></a><a data-id="180619" class="article" href="http://comicsalliance.com/neal-adams-dc-comics-art/" title="One of a Kind: A Gallery Of Neal Adams' Best DC Covers" target="_blank" rel="nofollow"><span>One of a Kind: A Gallery Of Neal Adams' Best DC Covers<em>&bull;</em></span></a></div>
+<div class="sect clearfix"><a data="foo" class="logo" href="http://diffuser.fm" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/tsm-images/logos/footer/443-dark.png?id=812" alt="Logo for the website http://diffuser.fm"></a><a data-id="232242" class="article" href="http://diffuser.fm/50-sexiest-album-covers/" title="This Is Hardcore: The 50 Sexiest (and Definitely NSFW) Alternative Album Covers" target="_blank" rel="nofollow"><span>This Is Hardcore: The 50 Sexiest (and Definitely NSFW) Alternative Album Covers<em>&bull;</em></span></a><a data-id="232075" class="article" href="http://diffuser.fm/animal-collective-worst-to-first/" title="Worst to First: Every Animal Collective Album Ranked" target="_blank" rel="nofollow"><span>Worst to First: Every Animal Collective Album Ranked<em>&bull;</em></span></a></div>
+<div class="sect clearfix"><a data="foo" class="logo" href="http://popcrush.com" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/tsm-images/logos/footer/252-dark.png?id=812" alt="Logo for the website http://popcrush.com"></a><a data-id="466297" class="article" href="http://popcrush.com/full-house-premiere-gallery/" title="'Fuller House' Is Nearly Unlocked: See Photos From The Premiere's Red Carpet" target="_blank" rel="nofollow"><span>'Fuller House' Is Nearly Unlocked: See Photos From The Premiere's Red Carpet<em>&bull;</em></span></a><a data-id="465896" class="article" href="http://popcrush.com/songs-written-by-ed-sheeran-gallery/" title="18 Songs You Didn't Know Ed Sheeran Wrote" target="_blank" rel="nofollow"><span>18 Songs You Didn't Know Ed Sheeran Wrote<em>&bull;</em></span></a></div>
+</div><hr><div class="row clearfix"><div class="sect clearfix"><a class="article img" href="http://theboombox.com/rappers-who-correctly-predicted-their-own-death/?footer" title="5 Rappers Who Correctly Predicted Their Own Deaths" target="_blank" rel="nofollow"><img width="180" height="120" src="http://theboombox.com/files/2014/11/death-predictions.jpg?w=180&h=120&zc=1&s=0&a=t&q=89" alt="5 Rappers Who Correctly Predicted Their Own Deaths"><span>5 Rappers Who Correctly Predicted Their Own Deaths</span></a></div>
+<div class="sect clearfix"><a class="article img" href="http://screencrush.com/guardians-of-the-galaxy-easter-egg-undiscovered/?footer" title="A Huge 'Guardians of the Galaxy' Easter Egg No One's Found Yet" target="_blank" rel="nofollow"><img width="180" height="120" src="http://screencrush.com/files/2015/10/guardians-300.jpg?w=180&h=120&zc=1&s=0&a=t&q=89" alt="A Huge 'Guardians of the Galaxy' Easter Egg No One's Found Yet"><span>A Huge 'Guardians of the Galaxy' Easter Egg No One's Found Yet</span></a></div>
+<div class="sect clearfix"><a class="article img" href="http://comicsalliance.com/deadpool-deadshot-deathstroke-deathlok-which-ones-which/?footer" title="Deadpool, Deadshot, Deathstroke, Deathlok: Which One's Which?" target="_blank" rel="nofollow"><img width="180" height="120" src="http://comicsalliance.com/files/2015/08/deadpool-300.jpg?w=180&h=120&zc=1&s=0&a=t&q=89" alt="Deadpool, Deadshot, Deathstroke, Deathlok: Which One's Which?"><span>Deadpool, Deadshot, Deathstroke, Deathlok: Which One's Which?</span></a></div>
+<div class="sect clearfix"><a class="article img" href="http://diffuser.fm/50-rock-facts-you-may-not-know/?footer" title="The Coolest Little-Known Facts In Rock Music" target="_blank" rel="nofollow"><img width="180" height="120" src="http://diffuser.fm/files/2015/10/ryan-adams-300.jpg?w=180&h=120&zc=1&s=0&a=t&q=89" alt="The Coolest Little-Known Facts In Rock Music"><span>The Coolest Little-Known Facts In Rock Music</span></a></div>
+<div class="sect clearfix"><a class="article img" href="http://popcrush.com/mad-men-guest-stars/?footer" title="13 Famous Stars You Might Not Have Recognized On 'Mad Men’" target="_blank" rel="nofollow"><img width="180" height="120" src="http://popcrush.com/files/2015/10/mad-men-300.jpg?w=180&h=120&zc=1&s=0&a=t&q=89" alt="13 Famous Stars You Might Not Have Recognized On 'Mad Men’"><span>13 Famous Stars You Might Not Have Recognized On 'Mad Men’</span></a></div>
+</div>
+</div>
+<div data="bar" id="footer_links" class="horizontal_navigation clearfix">
+	<ul id="menu-footer-links" class=""><li class="first menu-item"><a target="_parent">THE XXL NETWORK</a></li><li id="menu-item-519440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-519440"><a target="_parent" href="/contact/">Contact Us</a></li>
+<li id="menu-item-519443" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-519443"><a target="_parent" href="http://www.townsquaremedia.com/national-media/advertise">Advertise</a></li>
+<li id="menu-item-519444" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-519444"><a target="_parent" href="/privacy">Privacy</a></li>
+</ul></div><div data="bar" id="network_links" class="horizontal_navigation clearfix">
+	</div><div id="bottom_banner" class="tsmAd clearfix"><div id="bottom-728x90" class="tsm-google-ad" ></div></div></footer><!-- // footer -->
+
+<script type="text/javascript" src="http://www.xxlmag.com/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.1"></script>
+<script type="text/javascript">AudioPlayer.setup("http://www.xxlmag.com/wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.1", {width:"290",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"565656",leftbg:"DC3229",lefticon:"FFFFFF",voltrack:"565656",volslider:"FFFFFF",rightbg:"DC3229",rightbghover:"DC3229",righticon:"FFFFFF",righticonhover:"FFFFFF",text:"FFFFFF",track:"565656",border:"565656",loader:"565656",tracker:"FFFFFF",skip:"565656",pagebg:"FFFFFF",transparentpagebg:"yes"});</script>
+
+<script type="text/javascript" src="http://loadus.exelator.com/load/?p=656&g=001&c=285367&ctg=urban"></script>
+<div style="display:none;">
+	<div id="fb-auth-form-nonce"><input type="hidden" id="fb_auth_form_nonce" name="fb_auth_form_nonce" value="5761f160c8" /><input type="hidden" name="_wp_http_referer" value="/news/2016/02/chance-the-rapper-favorite-songs-college-dropout/" /></div>
+	<div id="fb-auth-account-activation" class="fb-auth-form">
+		<h3 class="generic-link-color">Welcome back to XXL Mag</h3>
+		<p>
+			It appears that you already have an account created within our VIP network of sites on <a class="blog-tag generic-link-color" href="#"></a>.
+			To keep your personal information safe, we need to verify that it's really you.
+			To activate your account, please confirm your <a class="blog-tag generic-link-color" href="#"></a> password.
+			When you have confirmed your password, you will be able to log in through Facebook on both sites.
+		</p>
+		<p class="error-messages"></p>
+		<p>
+			<label>Enter your password</label>
+			<input class="password" type="password" name="cpwd" value="" />
+			<a class="forgot generic-link-color" href="/login/?action=lost-password">Forgot your password?</a>
+		</p>
+		<div class="default-button">
+			<a href="#">YES, Activate My Account Now!</a>
+		</div>
+			</div>
+
+	<div id="fb-auth-site-activation" class="fb-auth-form">
+		<h3 class="generic-link-color">Welcome back to XXL Mag</h3>
+		<p>It appears that you already have an account on this site associated with <strong class="user-email"></strong>. To connect your existing account just click on the account activation button below. You will maintain your existing VIP profile. After you do this, you will be able to always log in to <a class="generic-link-color" href="http://www.xxlmag.com" target="_blank">http://www.xxlmag.com</a> using your original account information.</p>
+		<p class="error-messages"></p>
+		<div class="default-button"><a href="#">YES, Activate My Account Now!</a></div>
+					</div>
+
+	<div id="fb-auth-required-fields" class="fb-auth-form">
+		<h3 class="generic-link-color">We're Almost There!</h3>
+		<p>Please fill out the information below to help us provide you a better experience.</p>
+		<p class="error-messages"></p>
+		<p>
+			<label>Zip</label>
+			<input class="zip" type="text" name="zip" value="" />
+					</p>
+		<div class="default-button"><a href="#">Continue and Activate</a></div>
+	</div>
+
+	<div id="fb-auth-login" class="fb-auth-form">
+				<div class="loyalty-restricted-logo-container"><img class="loyalty-restricted-logo" src="http://www.xxlmag.com/files/2015/11/xxl.png" /></div>
+						<h3 class="generic-link-color">Log in to XXL Mag</h3>
+				<p class="error-messages"></p>
+				<input type="text" class="username" tabindex="600" value="" name="username" placeholder="Email address" />
+		<input type="password" class="password" tabindex="601" value="" name="password" placeholder="Password" />
+		<a class="forgot generic-link-color" href="http://www.xxlmag.com/login/?action=lost-password">(Forgot your password?)</a>
+		<div class="default-button login"><a href="#">Log In</a></div>
+		<div class="or"></div>
+		<div class="facebook-connect-button"></div>
+				<p class="register">Not a member? <a class="fb-auth-registration-link generic-link-color" href="#fb-auth-registration">Sign up here</a></p>
+		
+		<div class="clear"></div>
+		<div class="loyalty-global-sponsor">
+			<div id="overlay_fancybox">
+				<div class="hidden overlay_sponsor_wrap">
+					<div><p class="meta">XXL Mag brought to you by:</p></div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+	<div id="fb-auth-registration" class="fb-auth-form">
+					<div class="loyalty-restricted-logo-container"><img class="loyalty-restricted-logo" src="http://www.xxlmag.com/files/2015/11/xxl.png" /></div>
+				<h3 class="generic-link-color">
+						Sign up for XXL Mag		</h3>
+
+		
+		<p class="error-messages"></p>
+
+		
+		<div class="default-button registration"><a href="/registration/">Register Now</a></div>
+
+		
+		<div class="fb-registration-block">
+			<div class="or"></div>
+			<div class="facebook-connect-button"></div>
+			<p class="meta">Sign up for XXL Mag quickly by connecting your Facebook account.  It's just as secure and no password to remember!</p>
+		</div>
+	</div>
+</div>
+<div style="display:none;">
+	<div id="request-song-form-container" class="fb-auth-form" style="width:300px;">
+
+		<h3 class="generic-link-color">XXL</h3>
+
+		<form id="request_song_form" class="login-registration" action="/" method="post">
+
+			<label>Song<span class="error-messages error-song" style="display:none;">*Please enter a song name.</span></label>
+			<input type="text" class="input isong" value="">
+
+			<label>Artist<span>(Optional)</span></label>
+			<input type="text" class="input iartist" value="">
+
+			<label>Your Name<span class="error-messages error-name" style="display:none;">*Please enter your name.</span></label>
+			<input type="text" class="input iname" value="">
+
+			<label>Your Email<span>(Optional)</span></label>
+			<input type="text" class="input iemail" value="">
+
+			<div class="default-button login">
+				<a class="request-submit" href="#">Submit</a>
+			</div>
+
+			<input type="hidden" id="request_song" name="request_song" value="609420d4d1" /><input type="hidden" name="_wp_http_referer" value="/news/2016/02/chance-the-rapper-favorite-songs-college-dropout/" />
+		</form>
+
+		<h3 class="sent-message" style="display:none;">Thank you for your request.</h3>
+
+	</div>
+</div>
+<!-- Page rendered at 2:15:55 am 02/18/16 --><link rel='stylesheet' id='local_experts-css'  href='http://www.xxlmag.com/wp-content/plugins/local-experts/resources/css/local_experts.css?ver=1.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/plugins/graceful-email-obfuscation/geo-spam-prevention.js?ver=0.1'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/plugins/gallery/resources/jquery.cycle.min.js?ver=2.86'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/plugins/gallery/resources/sp-gallery.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/plugins/tsmclip/js/tsmclip.min.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.pack.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/mu-plugins/fancybox/vendor/jquery.easing-1.3.pack.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://tsm-js.s3.amazonaws.com/jquery.sonar.min.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/mu-plugins/sonar-load/js/sonar.load.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/mu-plugins/townsquare/resources/js/make_homepage.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/mu-plugins/internaladapi/assets/internaladapi.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/mu-plugins/internaladapi/apis/sponsors/assets/front/townsquaresponsors.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/mu-plugins/internaladapi/apis/header/assets/front/townsquareheaders.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/mu-plugins/internaladapi/apis/overlaylogo/assets/front/overlaylogo.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/mu-plugins/internaladapi/assets/internaladapiajax.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/plugins/facebook-apps/js/facebook-auth.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/plugins/galleryv2/js/scripts.min.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/plugins/google-analyticator/post-button-tracking.js?ver=6.1.1.d'></script>
+<script type='text/javascript' src='http://content.jwplatform.com/libraries/RAvk1rfG.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/plugins/social-sharing/resources/social-tracking.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/plugins/social-sharing/resources/more-button.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/plugins/tsq-sailthru-newsletter/resources/js/horizon-error.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/themes/townsquare3/resources/js/jquery.template.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://www.xxlmag.com/wp-content/widgets/request-song/js/request_song.js?ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<script type='text/javascript' src='http://wms.assoc-amazon.com/20070822/US/js/auto-tagger.js?tag=tsmnetwork-20&#038;locale=US&#038;overwrite=1&#038;ver=fe23f82ae0f471ae64f81428ef67e53d52f4463e'></script>
+<!-- ip: 72.21.86.254 -->
+</div><!-- // #takeover_wrap.body_child  -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a007ead414","applicationID":"2942652","transactionName":"MlQBNUdTWEBWURZcVgseIgJBW1ldGEELW14JVA==","queueTime":0,"applicationTime":536,"atts":"HhMCQw9JS04=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Database Caching 35/48 queries in 0.022 seconds using memcached
+Database cluster enabled 
+Object Caching 2877/3052 objects using memcached
+
+ Served from: www.xxlmag.com @ 2016-02-18 02:15:55 by W3 Total Cache -->

@@ -1,0 +1,2130 @@
+        
+        	<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function c(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),c=a.length,u=0;c>u;u++)a[u].apply(i,r);return i}function u(t,e){p[t]=f(t).concat(e)}function f(t){return p[t]||[]}function s(){return r(c)}var p={};return{on:u,emit:c,create:s,listeners:f,context:e,_events:p}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!v++){var t=l.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(p,function(e,n){t[e]||(t[e]=n)});var n="https"===s.split(":")[0]||t.sslForHttp;l.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=l.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),c=t(1),u=window,f=u.document;t(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),l=e.exports={offset:i(),origin:s,features:{},xhrWrappable:d};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var v=0},{1:12,2:3,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],12:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],13:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}]},{},["G9z0Bl"]);</script>
+
+    <title>404 Page Not Found</title>
+
+    <link rel="shortcut icon" href="http://p3.isanook.com/sh/0/di/sanook-fav-icon.ico">
+    
+                
+            <meta name="description" content="เกาะติดข่าว ข่าววันนี้ ข่าวด่วน ข่าวบันเทิง ข่าวดารา ทันเหตุการณ์ จากทุกสำนักข่าวทั้ง ในประเทศ และต่างประเทศ ที่ Sanook! News">
+        <meta name="keywords" content="ข่าว, ข่าววันนี้, ข่าวบันเทิง, ข่าวด่วน, ข่าวสด, ข่าวดารา, ข่าวการเมือง, ข่าวอาชญากรรม, สลากกินแบ่งรัฐบาล, ข่าวสังคม, ข่าวน้ำท่วม, ข่าววันนี้ ล่าสุด">
+
+        <meta property="fb:app_id" content="156775971014419">
+        
+        <meta property="og:title" content="ข่าว ข่าววันนี้ ข่าวสด ข่าวบันเทิง ข่าวดารา ข่าวด่วน : Sanook! News">
+        <meta property="og:description" content="เกาะติดข่าว ข่าววันนี้ ข่าวด่วน ข่าวบันเทิง ข่าวดารา ทันเหตุการณ์ จากทุกสำนักข่าวทั้ง ในประเทศ และต่างประเทศ ที่ Sanook! News">
+
+        
+        <meta property="og:type" content="website">
+        <meta property="og:image" content="http://p3.isanook.com/sh/0/di/og/sanook-news-share620x372.jpg">
+        <meta property="og:site_name" content="news.sanook.com">
+    
+    
+            <link rel="stylesheet" type="text/css" href="http://p3.isanook.com/de/0/shared/cs/fonts.1.0.3.css" />
+<link rel="stylesheet" type="text/css" href="http://p4.isanook.com/de/0/shared/cs/base.1.0.34.css" />
+<link rel="stylesheet" type="text/css" href="http://p.isanook.com/de/0/custom/news/cs/theme.1.0.11.css" />
+
+<script type="text/javascript">
+!function(a){"use strict";a.loadCSS=function(b,c,d){var g,e=a.document,f=e.createElement("link");if(c)g=c;else{var h=(e.body||e.getElementsByTagName("head")[0]).childNodes;g=h[h.length-1]}var i=e.styleSheets;f.rel="stylesheet",f.href=b,f.media="only x",g.parentNode.insertBefore(f,c?g:g.nextSibling);var j=function(a){for(var b=f.href,c=i.length;c--;)if(i[c].href===b)return a();setTimeout(function(){j(a)})};return f.onloadcssdefined=j,j(function(){f.media=d||"all"}),f}}(this);
+</script>        
+            <!-- ga -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-8147095-6', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- /ga -->
+
+<!-- em -->
+<script type="text/javascript" src="http://p3.isanook.com/sh/0/js/sanook_em.js"></script>
+<noscript><img src="//c.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" /></noscript>
+<!-- /em -->
+
+<!-- comscore --> 
+<script type="text/javascript" src="http://p3.isanook.com/sh/0/js/beacon.v1.js"></script> 
+<noscript> 
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=14617386&cv=2.0&cj=1" style="position:absolute; left:-5px;"/> 
+</noscript> 
+<!-- comscore -->         
+                
+                        <script type="text/javascript" src="http://ad.crwdcntrl.net/5/c=6509/pe=y/var=lotauds"></script>
+<script type="text/javascript" src="http://p3.isanook.com/sh/0/js/criteo.js"></script>
+
+<script type="text/javascript">
+    var zmt_mtag;
+
+    function zd_get_placements() {
+        zmt_mtag = zmt_get_tag(3259, '992697');
+
+        
+                        	p992697_1 = zmt_mtag.zmt_get_placement('zt_992697_1', '992697', '1', '15', '20', '2', '300', '250');
+            	p992697_1.zmt_add_ct('LAudience:' + SLotame + '^criteo:' + crtg_content);
+            
+        
+                        	p992697_5 = zmt_mtag.zmt_get_placement('zt_992697_5', '992697', '5', '15', '46', '2', '1150', '100');
+            	p992697_5.zmt_add_ct('LAudience:' + SLotame + '^criteo:' + crtg_content);
+            
+        
+                        	p992697_2 = zmt_mtag.zmt_get_placement('zt_992697_2', '992697', '2', '15', '25', '2', '300', '600');
+            	p992697_2.zmt_add_ct('LAudience:' + SLotame + '^criteo:' + crtg_content);
+            
+        
+        zmt_mtag.zmt_set_async();
+        zmt_mtag.zmt_load(zmt_mtag); 
+    } 
+</script>
+<script type="text/javascript" src="http://xp1.zedo.com/client/xp1/fmos.js" async ></script>                
+        
+    </head>
+<body>
+    
+    
+                     <header class="sn-header">
+            <div class="sn-header__wrapper">
+                <div class="sn-row">
+                    <div class="sn-switch sn-col">
+                        <button class="sn-switch__btn close">
+                            <span class="sn-switch__label">เมนู</span>
+                        </button>
+                    </div>
+                    <div class="sn-logo sn-col">
+                        <a href="http://www.sanook.com/" title>Sanook</a>
+                    </div>
+                    
+                    <div class="sn-keyword sn-col">
+                        <!--Tags-->
+                        <div><a href="http://news.sanook.com/" title="ข่าว">ข่าว</a> <a href="http://news.sanook.com/" title="ข่าววันนี้">ข่าววันนี้</a> <a href="http://news.sanook.com/lotto/" title="ตรวจสลากกินแบ่งรัฐบาล">ตรวจสลากกินแบ่งรัฐบาล</a> <a href="http://sport.sanook.com/football/premierleague/" title="พรีเมียร์ลีก">พรีเมียร์ลีก</a> <a href="http://news.sanook.com/lotto/" title="ตรวจหวย">ตรวจหวย</a> <a href="http://news.sanook.com/entertain/" title="ข่าวบันเทิง">ข่าวบันเทิง</a> <a href="http://radio.sanook.com/" title="ฟังเพลงออนไลน์">ฟังเพลงออนไลน์</a> <a href="http://sport.sanook.com/football/" title="วิเคราะห์บอล">วิเคราะห์บอล</a></div>
+                        <!--/Tags-->
+                    </div>
+                    
+                    <div id="member-section" data-psnid="000001-000046-000049-000001" class="sn-user-profile sn-col"></div>
+                    
+                    <div class="sn-stat sn-col">
+                        <!--truehits begin--><a name='th_link' href='#' class="truehit"><img name='th_img' width='14' height='17' src="http://p3.isanook.com/sh/0/di/ac/vl/spacer.gif" alt="" border='0'/></a><script type="text/javascript">if(typeof page=="undefined"){loc=document.createElement("a");loc.href=window.location.href+"";_subs=loc.hostname.split(".");subdomain=_subs[0];var page="sanook."+subdomain;_paths=loc.pathname.split("/");_id=(new RegExp("^/?([0-9]+)/(?:.*)/?")).exec(loc.pathname);if(_id!=null&&_id[1]>0){page=page+".entry"}else{if(_paths.length>5){page=page+"."+_paths[1]+"."+_paths[2]+"."+_paths[3]}else if(_paths.length>3){page=page+"."+_paths[1]+"."+_paths[2]}else if(_paths.length>2){page=page+"."+_paths[1]}else{page=page+".index"}}}(function(){var hth=document.createElement('script');hth.type='text/javascript';hth.async=true;hth.src="http://hits.truehits.in.th/dataa/d0004449.js";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(hth,s)})();</script><!--truehits end-->                    </div>
+                </div>
+            </div>
+            <div class="sn-panel sn-menu close">
+                <div class="sn-header__wrapper">
+                    <div class="sn-row">
+                        <div class="sn-panel__main sn-col">
+                            <div class="sn-search">
+                                <form id="search-form-global" action="http://search.sanook.com/search.php">
+                                    <input id="search-input-global" class="sn-search__input" type="text" name="q" placeholder="ค้นหาข่าว, บทความ, บุคคล ฯลฯ">
+                                    <input type="hidden" name="si" value="s">
+                                    <input type="hidden" name="searchtype" value="1">
+                                    <button type="submit" class="sn-search__submit">ค้นหา</button>
+                                </form>
+                            </div>
+                            <ul class="sn-panel__list">
+
+                                
+                                <li class="sn-panel__item  sn-panel__item--active ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--news" href="http://news.sanook.com/" title="ข่าว">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                        ข่าว
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--sport" href="http://sport.sanook.com/" title="กีฬา">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                        กีฬา
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--hitech" href="http://hitech.sanook.com/" title="ไอที">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                        ไอที
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--money" href="http://money.sanook.com/" title="การเงิน">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                        การเงิน
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--lotto" href="http://news.sanook.com/lotto/" title="ตรวจหวย">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                        ตรวจหวย
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--horoscope" href="http://horoscope.sanook.com/" title="ดูดวง">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                        ดูดวง
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--video" href="http://video.sanook.com/" title="คลิป">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                            <span class="menu-badge menu-badge--beta">BETA</span>
+                                                                                        คลิป
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--tv" href="http://tv.sanook.com/" title="ทีวี">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                        ทีวี
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--gossip" href="http://news.sanook.com/entertain/" title="ซุบซิบดารา">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                        ซุบซิบดารา
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--movie" href="http://movie.sanook.com/" title="หนัง-ละคร">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                        หนัง-ละคร
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--radio" href="http://music.sanook.com/" title="เพลง">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                            <span class="menu-badge menu-badge--beta">NEW</span>
+                                                                                        เพลง
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--game" href="http://game.sanook.com/" title="เกมส์">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                        เกมส์
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--women" href="http://women.sanook.com/" title="ผู้หญิง">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                        ผู้หญิง
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--men" href="http://men.sanook.com/" title="ผู้ชาย">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                        ผู้ชาย
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--campus" href="http://campus.sanook.com/" title="วัยรุ่น">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                        วัยรุ่น
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--book" href="http://books.sanook.com/" title="หนังสือ">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                        หนังสือ
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--health" href="http://health.sanook.com/" title="สุขภาพ">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                        สุขภาพ
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--auto" href="http://auto.sanook.com/" title="รถยนต์">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                        รถยนต์
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--home" href="http://home.sanook.com/" title="แต่งบ้าน">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                        แต่งบ้าน
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--travel" href="http://travel.sanook.com/" title="ท่องเที่ยว">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                        ท่องเที่ยว
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--album" href="http://www.sanook.com/gallery/" title="แกลเลอรี">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                        แกลเลอรี
+                                        </span>
+                                    </a>
+                                </li>
+
+                                
+                                <li class="sn-panel__item ">
+                                    <a target="_blank" class="sn-panel__link sn-icon sn-icon--webboard" href="http://webboard.sanook.com/" title="เว็บบอร์ด">
+                                        <span class="sn-panel__msg sukhumvit">
+                                                                                        เว็บบอร์ด
+                                        </span>
+                                    </a>
+                                </li>
+
+                                                                
+                            </ul>
+                        </div>
+
+                        
+                    </div>
+                    <div class="sn-panel-footer"></div>
+                </div>
+                <div class="sn-panel__dt-footer">
+                    <div class="sn-header__wrapper">
+                        <div class="sn-row">
+                            <div class="sn-panel-trending sn-col">
+                                <span class="sn-panel-trending__title">
+                                                                            <a href="http://home.sanook.com/8601/" title="Trending Today" target="_blank">Trending Today</a>
+                                                                    </span>
+                                <p class="sn-panel-trending__detail">
+                                                                            <a href="http://home.sanook.com/8601/" title="ใกล้ถึงวันวาเลนไทน์ หลายๆ คนอาจจะเครียดไม่รู้จะเลือกของขวัญอะไรให้ดูแปลกใหม่และโดนใจคนที่คุณรัก หรือจะแอบชอบอยู่ก็ตาม" target="_blank">ของขวัญเก๋ๆ สไตล์อิเกีย สื่อรักวันวาเลนไทน์</a>
+                                                                    </p>
+                            </div>
+                            <div class="sn-panel-social sn-col">
+                                <span class="sn-panel-social__title">ติดตาม ความสนุก !</span>
+                                <a target="_blank" href="https://www.facebook.com/fan.sanook" title="Facebook" class="sn-icon sn-icon--facebook">
+                                    <span class="sn-panel-social__item">FB</span>
+                                </a>
+                                <a target="_blank" href="https://twitter.com/sanook" title="Twitter" class="sn-icon sn-icon--twitter">
+                                    <span class="sn-panel-social__item">TW</span>
+                                </a>
+                                <a target="_blank" href="https://plus.google.com/+sanook/posts" title="G+" class="sn-icon sn-icon--gplus">
+                                    <span class="sn-panel-social__item">G+</span>
+                                </a>
+                                <a target="_blank" href="https://www.youtube.com/user/SanookTV" title="Youtube" class="sn-icon sn-icon--youtube">
+                                    <span class="sn-panel-social__item">Youtube</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>                
+                    <div class="section section--snic section--snictop" id="sticky-top">
+    <div class="wrapper">
+        <div class="snic snic--top">
+        	<div class="snic__wrapper">
+	            	<div id="zt_992697_5"> 
+	  <script id="zt_992697_5" type="text/javascript"> 
+	  	if (typeof zmt_mtag !='undefined' && typeof zmt_mtag.zmt_render_placement !='undefined') {
+	  		zmt_mtag.zmt_render_placement(p992697_5);
+	  	}
+	  </script>
+	</div>
+        	</div>
+        </div>
+    </div>
+</div>        
+                    <header class="header header--channel">
+                <div class="wrapper">
+                    
+                    <div class="header-row header__body">  
+                        
+                                                    <div class="header-col header__logo">
+                                <div class="logo logo--channel">
+                                    <a href="http://news.sanook.com/" title="ข่าว ข่าววันนี้ ข่าวบันเทิง ข่าวด่วน ข่าวสด ข่าวดารา">
+                                        <span class="snvh">ข่าว ข่าววันนี้ ข่าวบันเทิง ข่าวด่วน ข่าวสด ข่าวดารา</span>
+                                    </a>
+                                </div>
+                            </div>
+                                            
+                                                    <div class="header-col header__search">
+                                <div class="search search--channel">
+                                    <form id="search-form" action="http://news.sanook.com/search/all/">
+                                        <div class="search__input search__input--text">
+                                            <input type="text" id="search-input" placeholder="ค้นหาข่าว" autocomplete="off">
+                                            <div id="search-suggestions" class="autocomplete"></div>
+                                        </div>
+                                        <input type="submit" class="search__input search__input--submit sukhumvitreg" value="ค้นหา">
+                                    </form>
+                                </div>
+                            </div>
+                        
+                        <div class="header-col header__aside">
+    <ul class="header-daily">
+        <li class="header-daily__date header-daily__item">
+            <span>18 กุมภาพันธ์ 2559</span>
+        </li>
+        <li class="header-daily__item header-daily__item--2">
+            <a href="http://news.sanook.com/lotto/" title="ตรวจหวยงวดล่าสุด">ตรวจหวยงวดล่าสุด</a>
+        </li>
+    </ul>
+</div>
+                    </div>
+
+                    <div class="header-fixed animated"></div>
+
+                </div>
+            </header>
+        
+                    <div class="main-menu">
+    <div class="wrapper">
+        <nav class="header__nav">
+            <ul class="nav nav--channel">
+
+                                    <li class="nav__item">
+
+                            <a href="http://news.sanook.com/" class="nav__link" target="">หน้าแรกข่าว</a>
+
+                        
+                    </li>
+                                    <li class="nav__item nav__item--dropdown">
+
+                            <a href="http://news.sanook.com/crime/" class="nav__link" target="">อาชญากรรม</a>
+
+                                                    <div class="nav__content default-font">
+                                <div class="section section--nav">
+                                    <div class="section__heading">
+                                        <p class="section__title sukhumvitbold">
+                                            ข่าวล่าสุดของหมวด อาชญากรรม
+                                        </p> 
+                                    </div>
+                                    <div class="section__body row">
+                                        <div class="col span-12">
+                                            <div class="section__post">
+                                                
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951482/" title="รบ.ปลื้มยอดสมาชิกกอช.พุ่ง6ด.400,388ราย" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDgyLzY3OTU2NS0wMS5qcGc=.jpg" alt="รบ.ปลื้มยอดสมาชิกกอช.พุ่ง6ด.400,388ราย" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">รบ.ปลื้มยอดสมาชิกกอช.พุ่ง6ด.400,388ราย</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951486/" title="ป.แถลงรวบแก๊งปลอมตั๋วแลกเงิน3พันล้าน" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDg2LzY3OTU2My0wMS5qcGc=.jpg" alt="ป.แถลงรวบแก๊งปลอมตั๋วแลกเงิน3พันล้าน" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">ป.แถลงรวบแก๊งปลอมตั๋วแลกเงิน3พันล้าน</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951375/" title="รวบเกย์ทำอนาจารเด็กชายม.ต้น เผยมีเด็กในสังกัด 300 คน" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe1.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxMzc1LzEwLmpwZw==.jpg" alt="รวบเกย์ทำอนาจารเด็กชายม.ต้น เผยมีเด็กในสังกัด 300 คน" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">รวบเกย์ทำอนาจารเด็กชายม.ต้น เผยมีเด็กในสังกัด 300 คน</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951378/" title="DSIสอบรถสมเด็จช่วงจดประกอบผิดกม.ปลอมเอกสาร" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxMzc4LzY3OTUyMC0wMS5qcGc=.jpg" alt="DSIสอบรถสมเด็จช่วงจดประกอบผิดกม.ปลอมเอกสาร" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">DSIสอบรถสมเด็จช่วงจดประกอบผิดกม.ปลอมเอกสาร</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951351/" title="แจ้งความ! ลูกสาว 4 ขวบ ถูกผัวใหม่แม่ยายข่มขืน จนหวาดกลัว" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxMzUxLzkuanBn.jpg" alt="แจ้งความ! ลูกสาว 4 ขวบ ถูกผัวใหม่แม่ยายข่มขืน จนหวาดกลัว" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">แจ้งความ! ลูกสาว 4 ขวบ ถูกผัวใหม่แม่ยายข่มขืน จนหวาดกลัว</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951310/" title="สื่อเกาะติดดีเอสไอแถลงข่าวรถเบนซ์สมเด็จช่วง" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxMzEwLzY3OTQ5Ni0wMS5qcGc=.jpg" alt="สื่อเกาะติดดีเอสไอแถลงข่าวรถเบนซ์สมเด็จช่วง" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">สื่อเกาะติดดีเอสไอแถลงข่าวรถเบนซ์สมเด็จช่วง</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                
+                                            </div>
+
+                                            <div class="section__footer tags tags--trending">
+                                                <span class="tags__title sukhumvitbold">TRENDING TAG</span> 
+                                                
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/อาชญากรรม/" rel="tag" title="อาชญากรรม">อาชญากรรม</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ฆ่าหั่นศพ/" rel="tag" title="ฆ่าหั่นศพ">ฆ่าหั่นศพ</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ตำรวจฆ่าตัวตาย/" rel="tag" title="ตำรวจฆ่าตัวตาย">ตำรวจฆ่าตัวตาย</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/อาร์ตูร์/" rel="tag" title="อาร์ตูร์">อาร์ตูร์</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ไฟไหม้ตึก/" rel="tag" title="ไฟไหม้ตึก">ไฟไหม้ตึก</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/อุบัติเหตุรถชน/" rel="tag" title="อุบัติเหตุรถชน">อุบัติเหตุรถชน</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ข่มขืนทิ้งเหว/" rel="tag" title="ข่มขืนทิ้งเหว">ข่มขืนทิ้งเหว</a>
+                                                
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </li>
+                                    <li class="nav__item nav__item--dropdown">
+
+                            <a href="http://news.sanook.com/politic/" class="nav__link" target="">การเมือง</a>
+
+                                                    <div class="nav__content default-font">
+                                <div class="section section--nav">
+                                    <div class="section__heading">
+                                        <p class="section__title sukhumvitbold">
+                                            ข่าวล่าสุดของหมวด การเมือง
+                                        </p> 
+                                    </div>
+                                    <div class="section__body row">
+                                        <div class="col span-12">
+                                            <div class="section__post">
+                                                
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951478/" title="ประวิตร,ผบ.ทอ.ลงนามถวายพระพรในหลวง" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDc4LzY3OTU2Mi0wMS5qcGc=.jpg" alt="ประวิตร,ผบ.ทอ.ลงนามถวายพระพรในหลวง" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">ประวิตร,ผบ.ทอ.ลงนามถวายพระพรในหลวง</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951466/" title="ปนัดดาติดตามแก้ปัญหาภัยแล้ง-หมอกควัน" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe1.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDY2LzY3OTU1OC0wMi5qcGc=.jpg" alt="ปนัดดาติดตามแก้ปัญหาภัยแล้ง-หมอกควัน" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">ปนัดดาติดตามแก้ปัญหาภัยแล้ง-หมอกควัน</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951470/" title="สนช. ผ่านร่างพ.ร.บ.งบฯเพิ่มเติมแล้ว3วาระรวด" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe1.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDcwLzY3OTU1Ny0wMS5qcGc=.jpg" alt="สนช. ผ่านร่างพ.ร.บ.งบฯเพิ่มเติมแล้ว3วาระรวด" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">สนช. ผ่านร่างพ.ร.บ.งบฯเพิ่มเติมแล้ว3วาระรวด</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951458/" title="สมชาย อภิปรายร่างพ.ร.บ.งบฯเพิ่มเติม" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDU4LzY3OTU1MC0wMS5qcGc=.jpg" alt="สมชาย อภิปรายร่างพ.ร.บ.งบฯเพิ่มเติม" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">สมชาย อภิปรายร่างพ.ร.บ.งบฯเพิ่มเติม</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951451/" title="คอมเพรสเซอร์แอร์ห้องทำงานพงศพัศไหม้" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe1.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDUxLzEyLmpwZw==.jpg" alt="คอมเพรสเซอร์แอร์ห้องทำงานพงศพัศไหม้" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">คอมเพรสเซอร์แอร์ห้องทำงานพงศพัศไหม้</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951414/" title="สนช.ไม่กังวลนำเงินประมูลความถี่จัดทำงบ" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDE0LzY3OTU0MS0wMS5qcGc=.jpg" alt="สนช.ไม่กังวลนำเงินประมูลความถี่จัดทำงบ" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">สนช.ไม่กังวลนำเงินประมูลความถี่จัดทำงบ</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                
+                                            </div>
+
+                                            <div class="section__footer tags tags--trending">
+                                                <span class="tags__title sukhumvitbold">TRENDING TAG</span> 
+                                                
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/การเมือง/" rel="tag" title="การเมือง">การเมือง</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ร่างรัฐธรรมนูญ/" rel="tag" title="ร่างรัฐธรรมนูญ">ร่างรัฐธรรมนูญ</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/เปลวไฟน้อย/" rel="tag" title="เปลวไฟน้อย">เปลวไฟน้อย</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/พล.อ.ประยุทธ์ จันทร์โอชา" rel="tag" title="พล.อ.ประยุทธ์ จันทร์โอชา">พล.อ.ประยุทธ์ จันทร์โอชา</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/จ่านิว/" rel="tag" title="จ่านิว">จ่านิว</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ม.ร.ว.สุขุมพันธุ์ บริพัตร" rel="tag" title="ม.ร.ว.สุขุมพันธุ์ บริพัตร">ม.ร.ว.สุขุมพันธุ์ บริพัตร</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/คสช." rel="tag" title="คสช.">คสช.</a>
+                                                
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </li>
+                                    <li class="nav__item nav__item--dropdown">
+
+                            <a href="http://news.sanook.com/entertain/" class="nav__link" target="">บันเทิง</a>
+
+                                                    <div class="nav__content default-font">
+                                <div class="section section--nav">
+                                    <div class="section__heading">
+                                        <p class="section__title sukhumvitbold">
+                                            ข่าวล่าสุดของหมวด บันเทิง
+                                        </p> 
+                                    </div>
+                                    <div class="section__body row">
+                                        <div class="col span-12">
+                                            <div class="section__post">
+                                                
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951490/" title="อ้วนฟุ้งรักสาวเกาหลี พาเที่ยวเขาใหญ่" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDkwLzY3OTU2MC0wMS5qcGc=.jpg" alt="อ้วนฟุ้งรักสาวเกาหลี พาเที่ยวเขาใหญ่" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">อ้วนฟุ้งรักสาวเกาหลี พาเที่ยวเขาใหญ่</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951494/" title="บอยเมินคนแซวรักแห้ง ไร้ปัญหามาร์กี้" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDk0LzY3OTU1OS0wMS5qcGc=.jpg" alt="บอยเมินคนแซวรักแห้ง ไร้ปัญหามาร์กี้" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">บอยเมินคนแซวรักแห้ง ไร้ปัญหามาร์กี้</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951410/" title="ใบเตยปลื้มแมนให้ดอกไม้14ก.พ.ยังไม่คุยแต่ง" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDEwLzY3OTUyOS0wMS5qcGc=.jpg" alt="ใบเตยปลื้มแมนให้ดอกไม้14ก.พ.ยังไม่คุยแต่ง" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">ใบเตยปลื้มแมนให้ดอกไม้14ก.พ.ยังไม่คุยแต่ง</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951386/" title="เบิร์ด ตื่นเต้น Concert 27ก.พ.-ใหม่รับเชิญ" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe1.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxMzg2LzY3OTUxNi0wMS5qcGc=.jpg" alt="เบิร์ด ตื่นเต้น Concert 27ก.พ.-ใหม่รับเชิญ" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">เบิร์ด ตื่นเต้น Concert 27ก.พ.-ใหม่รับเชิญ</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951374/" title="หนูนาโพสต์IG ขอโทษคู่กรณีจอดรถขวาง" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe1.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxMzc0LzY3OTUxMy0wMS5qcGc=.jpg" alt="หนูนาโพสต์IG ขอโทษคู่กรณีจอดรถขวาง" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">หนูนาโพสต์IG ขอโทษคู่กรณีจอดรถขวาง</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951283/" title="&quot;โฟร์&quot;อัลฟอลโลว์ไอจี &quot;มด&quot; แจงทำทุกอย่างมีเหตุผลเสมอ" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe1.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxMjgzLzUuanBn.jpg" alt="&quot;โฟร์&quot;อัลฟอลโลว์ไอจี &quot;มด&quot; แจงทำทุกอย่างมีเหตุผลเสมอ" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">&quot;โฟร์&quot;อัลฟอลโลว์ไอจี &quot;มด&quot; แจงทำทุกอย่างมีเหตุผลเสมอ</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                
+                                            </div>
+
+                                            <div class="section__footer tags tags--trending">
+                                                <span class="tags__title sukhumvitbold">TRENDING TAG</span> 
+                                                
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ไฮไลท์บันเทิง/" rel="tag" title="ไฮไลท์บันเทิง">ไฮไลท์บันเทิง</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/เม้าท์กันทั้งเมือง/" rel="tag" title="เม้าท์กันทั้งเมือง">เม้าท์กันทั้งเมือง</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ปอ ทฤษฎี/" rel="tag" title="ปอ ทฤษฎี">ปอ ทฤษฎี</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ข่าวบันเทิงวันนี้/" rel="tag" title="ข่าวบันเทิงวันนี้">ข่าวบันเทิงวันนี้</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/น้องมะลิ/" rel="tag" title="น้องมะลิ">น้องมะลิ</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/งานศพปอ ทฤษฎี/" rel="tag" title="งานศพปอ ทฤษฎี">งานศพปอ ทฤษฎี</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ปอ ทฤษฎี เสียชีวิต/" rel="tag" title="ปอ ทฤษฎี เสียชีวิต">ปอ ทฤษฎี เสียชีวิต</a>
+                                                
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </li>
+                                    <li class="nav__item nav__item--dropdown">
+
+                            <a href="http://news.sanook.com/world/" class="nav__link" target="">ต่างประเทศ</a>
+
+                                                    <div class="nav__content default-font">
+                                <div class="section section--nav">
+                                    <div class="section__heading">
+                                        <p class="section__title sukhumvitbold">
+                                            ข่าวล่าสุดของหมวด ต่างประเทศ
+                                        </p> 
+                                    </div>
+                                    <div class="section__body row">
+                                        <div class="col span-12">
+                                            <div class="section__post">
+                                                
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951411/" title="นักโทษหญิงเวียดนามหนีโทษประหาร ด้วยการตั้งท้อง" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDExLzExLmpwZw==.jpg" alt="นักโทษหญิงเวียดนามหนีโทษประหาร ด้วยการตั้งท้อง" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">นักโทษหญิงเวียดนามหนีโทษประหาร ด้วยการตั้งท้อง</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951438/" title="ตลาดทองเอเชียร่วงอิทธิพลมุมมองเฟด-ศก.จีน" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe1.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDM4LzY3OTUzNy0wMS5qcGc=.jpg" alt="ตลาดทองเอเชียร่วงอิทธิพลมุมมองเฟด-ศก.จีน" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">ตลาดทองเอเชียร่วงอิทธิพลมุมมองเฟด-ศก.จีน</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951334/" title="ดัชนีผู้บริโภคจีนเพิ่มขึ้นขณะPPIลดลง5.3%" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe1.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxMzM0LzY3OTUxMC0wMS5qcGc=.jpg" alt="ดัชนีผู้บริโภคจีนเพิ่มขึ้นขณะPPIลดลง5.3%" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">ดัชนีผู้บริโภคจีนเพิ่มขึ้นขณะPPIลดลง5.3%</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951338/" title="สหรัฐ-EUเตือนจีนเคารพการตัดสินปมพิพาทดินแดน" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxMzM4LzY3OTUwNy0wMS5qcGc=.jpg" alt="สหรัฐ-EUเตือนจีนเคารพการตัดสินปมพิพาทดินแดน" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">สหรัฐ-EUเตือนจีนเคารพการตัดสินปมพิพาทดินแดน</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951250/" title="FEDเล็งเปลี่ยนแนวปรับดบ.ระบุศก.จีนกระทบ" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe1.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxMjUwLzY3OTQ2NC0wMS5qcGc=.jpg" alt="FEDเล็งเปลี่ยนแนวปรับดบ.ระบุศก.จีนกระทบ" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">FEDเล็งเปลี่ยนแนวปรับดบ.ระบุศก.จีนกระทบ</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951254/" title="ผู้แทนอิหร่านยันยังไม่ตรึงการผลิตน้ำมันดิบ" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe1.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxMjU0LzY3OTQ1OS0wMS5qcGc=.jpg" alt="ผู้แทนอิหร่านยันยังไม่ตรึงการผลิตน้ำมันดิบ" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">ผู้แทนอิหร่านยันยังไม่ตรึงการผลิตน้ำมันดิบ</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                
+                                            </div>
+
+                                            <div class="section__footer tags tags--trending">
+                                                <span class="tags__title sukhumvitbold">TRENDING TAG</span> 
+                                                
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ต่างประเทศ/" rel="tag" title="ต่างประเทศ">ต่างประเทศ</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ข่าวจีน/" rel="tag" title="ข่าวจีน">ข่าวจีน</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/แผ่นดินไหว/" rel="tag" title="แผ่นดินไหว">แผ่นดินไหว</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ข่าวแปลก/" rel="tag" title="ข่าวแปลก">ข่าวแปลก</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ไต้หวัน/" rel="tag" title="ไต้หวัน">ไต้หวัน</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/mh370/" rel="tag" title="mh370">mh370</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/อินเดีย/" rel="tag" title="อินเดีย">อินเดีย</a>
+                                                
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </li>
+                                    <li class="nav__item nav__item--dropdown">
+
+                            <a href="http://news.sanook.com/social/" class="nav__link" target="">สังคม</a>
+
+                                                    <div class="nav__content default-font">
+                                <div class="section section--nav">
+                                    <div class="section__heading">
+                                        <p class="section__title sukhumvitbold">
+                                            ข่าวล่าสุดของหมวด สังคม
+                                        </p> 
+                                    </div>
+                                    <div class="section__body row">
+                                        <div class="col span-12">
+                                            <div class="section__post">
+                                                
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951434/" title="อุตุฯพยากรณ์เที่ยงหนาวยังปกคลุมไทยตอนบน" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDM0LzY3OTUzNC0wMS5qcGc=.jpg" alt="อุตุฯพยากรณ์เที่ยงหนาวยังปกคลุมไทยตอนบน" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">อุตุฯพยากรณ์เที่ยงหนาวยังปกคลุมไทยตอนบน</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951390/" title="อ.แม่ลาวจ.เชียงใหม่แผ่นดินไหว1.7ริกเตอร์" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://p1.isanook.com/de/0/shared/di/no-image.png" alt="อ.แม่ลาวจ.เชียงใหม่แผ่นดินไหว1.7ริกเตอร์" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">อ.แม่ลาวจ.เชียงใหม่แผ่นดินไหว1.7ริกเตอร์</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951347/" title="สุดกตัญญูหนุ่มน้อยเล่นกีตาร์ร้องเพลง หาทุนการศึกษา" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxMzQ3LzMuanBn.jpg" alt="สุดกตัญญูหนุ่มน้อยเล่นกีตาร์ร้องเพลง หาทุนการศึกษา" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">สุดกตัญญูหนุ่มน้อยเล่นกีตาร์ร้องเพลง หาทุนการศึกษา</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951303/" title="DSI รับคดีรถโบราณของสมเด็จช่วงเป็นคดีพิเศษ หลังพบมีการปลอมเอกสาร" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxMzAzLzcuanBn.jpg" alt="DSI รับคดีรถโบราณของสมเด็จช่วงเป็นคดีพิเศษ หลังพบมีการปลอมเอกสาร" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">DSI รับคดีรถโบราณของสมเด็จช่วงเป็นคดีพิเศษ หลังพบมีการปลอมเอกสาร</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951226/" title="อุตุเผยไทยตอนบนอุ่นขึ้นกทม.มีหมอกเหนืออีสานหนาวเย็น" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe1.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxMjI2LzY3OTQ0NS0wMi5qcGc=.jpg" alt="อุตุเผยไทยตอนบนอุ่นขึ้นกทม.มีหมอกเหนืออีสานหนาวเย็น" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">อุตุเผยไทยตอนบนอุ่นขึ้นกทม.มีหมอกเหนืออีสานหนาวเย็น</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951219/" title="สามีทันตแพทย์หนีทุน ร่อนจม. แจงไม่มีเงินใช้หนี้" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe1.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxMjE5LzEuanBn.jpg" alt="สามีทันตแพทย์หนีทุน ร่อนจม. แจงไม่มีเงินใช้หนี้" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">สามีทันตแพทย์หนีทุน ร่อนจม. แจงไม่มีเงินใช้หนี้</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                
+                                            </div>
+
+                                            <div class="section__footer tags tags--trending">
+                                                <span class="tags__title sukhumvitbold">TRENDING TAG</span> 
+                                                
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/สังคม/" rel="tag" title="สังคม">สังคม</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/แวดวงสังคม/" rel="tag" title="แวดวงสังคม">แวดวงสังคม</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ทันตแพทย์หนีทุน/" rel="tag" title="ทันตแพทย์หนีทุน">ทันตแพทย์หนีทุน</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/การศึกษา/" rel="tag" title="การศึกษา">การศึกษา</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ปอ ทฤษฎี/" rel="tag" title="ปอ ทฤษฎี">ปอ ทฤษฎี</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ตุ๊กตาลูกเทพ/" rel="tag" title="ตุ๊กตาลูกเทพ">ตุ๊กตาลูกเทพ</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/นกแอร์/" rel="tag" title="นกแอร์">นกแอร์</a>
+                                                
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </li>
+                                    <li class="nav__item nav__item--dropdown">
+
+                            <a href="http://news.sanook.com/region/" class="nav__link" target="">ภูมิภาค</a>
+
+                                                    <div class="nav__content default-font">
+                                <div class="section section--nav">
+                                    <div class="section__heading">
+                                        <p class="section__title sukhumvitbold">
+                                            ข่าวล่าสุดของหมวด ภูมิภาค
+                                        </p> 
+                                    </div>
+                                    <div class="section__body row">
+                                        <div class="col span-12">
+                                            <div class="section__post">
+                                                
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951474/" title="กาฬสินธุ์เตือนเกษตรกรลอบสูบน้ำทำนาปรัง" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe1.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDc0LzY3OTU1My0wMS5qcGc=.jpg" alt="กาฬสินธุ์เตือนเกษตรกรลอบสูบน้ำทำนาปรัง" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">กาฬสินธุ์เตือนเกษตรกรลอบสูบน้ำทำนาปรัง</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951462/" title="ค่าหมอกควันภาคเหนือกลับเข้าสู่ภาวะปกติ" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDYyLzY3OTU0Ny0wMS5qcGc=.jpg" alt="ค่าหมอกควันภาคเหนือกลับเข้าสู่ภาวะปกติ" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">ค่าหมอกควันภาคเหนือกลับเข้าสู่ภาวะปกติ</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951455/" title="สาวพัทยาใจบุญ เลี้ยงอาหารหมาจรจัดกว่า 80 ตัว" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDU1LzEzLmpwZw==.jpg" alt="สาวพัทยาใจบุญ เลี้ยงอาหารหมาจรจัดกว่า 80 ตัว" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">สาวพัทยาใจบุญ เลี้ยงอาหารหมาจรจัดกว่า 80 ตัว</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951442/" title="ตร.เชียงรายเร่งหาตัวผู้ร่วมแก๊งค้ายาบ้า" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDQyLzY3OTUzOS0wMS5qcGc=.jpg" alt="ตร.เชียงรายเร่งหาตัวผู้ร่วมแก๊งค้ายาบ้า" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">ตร.เชียงรายเร่งหาตัวผู้ร่วมแก๊งค้ายาบ้า</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951446/" title="สุรินทร์เปิดหนองน้ำให้ชาวบ้านร่วมจับปลา" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDQ2LzY3OTUzMy0wMS5qcGc=.jpg" alt="สุรินทร์เปิดหนองน้ำให้ชาวบ้านร่วมจับปลา" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">สุรินทร์เปิดหนองน้ำให้ชาวบ้านร่วมจับปลา</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                                                                    <div class="post col post--main">
+        											    <a data-trackevent="trendingindex-click-pc" href="http://news.sanook.com/1951398/" title="ผู้ว่าฯลำปางสำรวจสถานการณ์ไฟป่าในพื้นที่" class="post__link">
+        											        <div class="post__img">
+                                                                <img src="http://pe2.isanook.com/ns/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxMzk4LzY3OTUzMi0wMS5qcGc=.jpg" alt="ผู้ว่าฯลำปางสำรวจสถานการณ์ไฟป่าในพื้นที่" width="165" height="99">
+        											        </div>
+        											        <div class="post__body">
+        											            <p class="post__title">ผู้ว่าฯลำปางสำรวจสถานการณ์ไฟป่าในพื้นที่</p>
+        											        </div>
+        											    </a>
+        											</div>
+                                                
+                                            </div>
+
+                                            <div class="section__footer tags tags--trending">
+                                                <span class="tags__title sukhumvitbold">TRENDING TAG</span> 
+                                                
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ภูมิภาค/" rel="tag" title="ภูมิภาค">ภูมิภาค</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ข่มขืน/" rel="tag" title="ข่มขืน">ข่มขืน</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ตุ๊กตาลูกเทพ/" rel="tag" title="ตุ๊กตาลูกเทพ">ตุ๊กตาลูกเทพ</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ผูกคอตาย/" rel="tag" title="ผูกคอตาย">ผูกคอตาย</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ฆ่าตัวตาย/" rel="tag" title="ฆ่าตัวตาย">ฆ่าตัวตาย</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/ชลบุรี/" rel="tag" title="ชลบุรี">ชลบุรี</a>
+                                                                                                    <a class="tags__item" href="http://news.sanook.com/tag/อ่างทอง/" rel="tag" title="อ่างทอง">อ่างทอง</a>
+                                                
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    </li>
+                                    <li class="nav__item">
+
+                            <a href="http://sport.sanook.com" class="nav__link" target="_blank">กีฬา</a>
+
+                        
+                    </li>
+                                    <li class="nav__item">
+
+                            <a href="http://money.sanook.com" class="nav__link" target="_blank">เศรษฐกิจ</a>
+
+                        
+                    </li>
+                                    <li class="nav__item">
+
+                            <a href="http://news.sanook.com/archive/" class="nav__link" target="">ข่าวทั้งหมด</a>
+
+                        
+                    </li>
+                                    <li class="nav__item">
+
+                            <a href="http://news.sanook.com/lotto/" class="nav__link" target="">ตรวจหวย</a>
+
+                        
+                    </li>
+                                    <li class="nav__item">
+
+                            <a href="http://webboard.sanook.com/forum/?board=258" class="nav__link" target="_blank">เว็บบอร์ด</a>
+
+                        
+                    </li>
+                                
+            </ul>
+        </nav>
+    </div>
+</div>
+                
+        
+    <div class="wrapper clearfix">
+
+        
+        <div class="section section--archive">
+
+            
+            <div class="flex-box">
+
+                <div class="box-cell content">
+
+                    <div class="archive">
+
+                        	<div class="notfound notfound--page">
+        <p class="sukhumvitreg notfound__para">
+            <span class="sukhumvitbold notfound__big notfound--page__big">404</span> ไม่พบหน้าเว็บไซต์
+            <br>ที่คุณต้องการค้นหา
+        </p>
+    </div>
+
+                                <div class="archive__filter">
+    <div class="row">
+                    <div class="col span-6">
+                <select id="filter_category" class="custom-select">
+                                            <option value="http://news.sanook.com/archive/social/" 
+                                                        >
+
+                            สังคม
+
+                        </option>
+                                            <option value="http://news.sanook.com/archive/entertain/" 
+                                                        >
+
+                            บันเทิง
+
+                        </option>
+                                            <option value="http://news.sanook.com/archive/thaiflood/" 
+                                                        >
+
+                            น้ำท่วม
+
+                        </option>
+                                            <option value="http://news.sanook.com/archive/world/" 
+                                                        >
+
+                            ต่างประเทศ
+
+                        </option>
+                                            <option value="http://news.sanook.com/archive/crime/" 
+                                                        >
+
+                            อาชญากรรม
+
+                        </option>
+                                            <option value="http://news.sanook.com/archive/politic/" 
+                                                        >
+
+                            การเมือง
+
+                        </option>
+                                            <option value="http://news.sanook.com/archive/region/" 
+                                                        >
+
+                            ภูมิภาค
+
+                        </option>
+                                            <option value="http://news.sanook.com/archive/poll/" 
+                                                        >
+
+                            โพล
+
+                        </option>
+                                            <option value="http://news.sanook.com/archive/" 
+                            selected="true"                            >
+
+                            เนื้อหาทั้งหมด
+
+                        </option>
+                                    </select>
+            </div>
+        
+                    <div class="col span-6">
+                <select id="filter_sort" class="custom-select">
+                                            <option value="http://news.sanook.com/archive/" selected="true">ใหม่ล่าสุด</option>
+                                            <option value="http://news.sanook.com/archive/all/topview/week/" >ผู้ชมสูงสุด สัปดาห์นี้</option>
+                                            <option value="http://news.sanook.com/archive/all/topview/month/" >ผู้ชมสูงสุด เดือนนี้</option>
+                                            <option value="http://news.sanook.com/archive/all/topview/year/" >ผู้ชมสูงสุด ปีนี้</option>
+                                            <option value="http://news.sanook.com/archive/all/topview/all/" >ผู้ชมสูงสุด ทั้งหมด</option>
+                                    </select>
+            </div>
+            </div>
+</div>                        
+
+                                                    <div class="section__post">
+        <article class="post post--list post--archive">
+        <a href="http://news.sanook.com/1951482/" title="รบ.ปลื้มยอดสมาชิกกอช.พุ่ง6ด.400,388ราย" class="post__link">
+            <div class="post__img">
+                <img src="http://pe1.isanook.com/ns/0/rp/r/w257/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDgyLzY3OTU2NS0wMS5qcGc=.jpg" alt="รบ.ปลื้มยอดสมาชิกกอช.พุ่ง6ด.400,388ราย" width="257">
+
+                                
+            </div>
+            <div class="post__body">
+                <h3 class="post__title">รบ.ปลื้มยอดสมาชิกกอช.พุ่ง6ด.400,388ราย</h3>
+                <p class="post__desc">
+รัฐบาลปลื้ม ยอดสมาชิก กอช. พุ่ง 6 เดือน 400,388 ราย ยอดเงินออมรวม 558,695,319.73 บาท</p>
+            </div>
+        </a>
+        <footer class="post__footer">
+            <time title="วันที่" class="post__meta" datetime="2016-02-18 13:35">
+                <i class="sn-icon sn-icon--clock"></i> วันนี้
+                <span>(13:35 น.)</span>
+            </time>
+            <small title="เปิดอ่าน" class="post__meta">
+                <i class="sn-icon sn-icon--graph"></i>
+                <span class="snvh">เปิดอ่าน</span>6</small>
+            <small title="จำนวนแชร์" class="post__meta">
+                <i class="sn-icon sn-icon--reply"></i>
+                <span class="snvh">จำนวนแชร์</span>0</small>
+
+                            
+                <small title="จำนวนคอมเม้น" class="post__meta">
+                    <i class="sn-icon sn-icon--comment"></i>
+                    <span class="snvh">จำนวนคอมเม้น</span> 0</small>
+                    </footer>
+    </article>
+        <article class="post post--list post--archive">
+        <a href="http://news.sanook.com/1951486/" title="ป.แถลงรวบแก๊งปลอมตั๋วแลกเงิน3พันล้าน" class="post__link">
+            <div class="post__img">
+                <img src="http://pe1.isanook.com/ns/0/rp/r/w257/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDg2LzY3OTU2My0wMS5qcGc=.jpg" alt="ป.แถลงรวบแก๊งปลอมตั๋วแลกเงิน3พันล้าน" width="257">
+
+                                
+            </div>
+            <div class="post__body">
+                <h3 class="post__title">ป.แถลงรวบแก๊งปลอมตั๋วแลกเงิน3พันล้าน</h3>
+                <p class="post__desc">
+ผกก.1บก.ป. แถลง รวบแก๊งปลอมตั๋วแลกเงินกว่า 3 พันล้านบาท พบ ประวัติผู้ต้องหา มีหมายจับคดีปลอมเอกสาร เมื่อปี 2558</p>
+            </div>
+        </a>
+        <footer class="post__footer">
+            <time title="วันที่" class="post__meta" datetime="2016-02-18 13:29">
+                <i class="sn-icon sn-icon--clock"></i> วันนี้
+                <span>(13:29 น.)</span>
+            </time>
+            <small title="เปิดอ่าน" class="post__meta">
+                <i class="sn-icon sn-icon--graph"></i>
+                <span class="snvh">เปิดอ่าน</span>16</small>
+            <small title="จำนวนแชร์" class="post__meta">
+                <i class="sn-icon sn-icon--reply"></i>
+                <span class="snvh">จำนวนแชร์</span>0</small>
+
+                            
+                <small title="จำนวนคอมเม้น" class="post__meta">
+                    <i class="sn-icon sn-icon--comment"></i>
+                    <span class="snvh">จำนวนคอมเม้น</span> 0</small>
+                    </footer>
+    </article>
+        <article class="post post--list post--archive">
+        <a href="http://news.sanook.com/1951478/" title="ประวิตร,ผบ.ทอ.ลงนามถวายพระพรในหลวง" class="post__link">
+            <div class="post__img">
+                <img src="http://pe2.isanook.com/ns/0/rp/r/w257/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDc4LzY3OTU2Mi0wMS5qcGc=.jpg" alt="ประวิตร,ผบ.ทอ.ลงนามถวายพระพรในหลวง" width="257">
+
+                                
+            </div>
+            <div class="post__body">
+                <h3 class="post__title">ประวิตร,ผบ.ทอ.ลงนามถวายพระพรในหลวง</h3>
+                <p class="post__desc">
+รองนายกฯประวิตร และ ผบ.ทอ. ลงนามถวายพระพร พระบาทสมเด็จพระเจ้าอยู่หัว ณ ศาลาสหทัยสมาคม พระบรมมหาราชวัง</p>
+            </div>
+        </a>
+        <footer class="post__footer">
+            <time title="วันที่" class="post__meta" datetime="2016-02-18 13:28">
+                <i class="sn-icon sn-icon--clock"></i> วันนี้
+                <span>(13:28 น.)</span>
+            </time>
+            <small title="เปิดอ่าน" class="post__meta">
+                <i class="sn-icon sn-icon--graph"></i>
+                <span class="snvh">เปิดอ่าน</span>7</small>
+            <small title="จำนวนแชร์" class="post__meta">
+                <i class="sn-icon sn-icon--reply"></i>
+                <span class="snvh">จำนวนแชร์</span>0</small>
+
+                            
+                <small title="จำนวนคอมเม้น" class="post__meta">
+                    <i class="sn-icon sn-icon--comment"></i>
+                    <span class="snvh">จำนวนคอมเม้น</span> 0</small>
+                    </footer>
+    </article>
+        <article class="post post--list post--archive">
+        <a href="http://news.sanook.com/1951490/" title="อ้วนฟุ้งรักสาวเกาหลี พาเที่ยวเขาใหญ่" class="post__link">
+            <div class="post__img">
+                <img src="http://pe1.isanook.com/ns/0/rp/r/w257/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDkwLzY3OTU2MC0wMS5qcGc=.jpg" alt="อ้วนฟุ้งรักสาวเกาหลี พาเที่ยวเขาใหญ่" width="257">
+
+                                
+            </div>
+            <div class="post__body">
+                <h3 class="post__title">อ้วนฟุ้งรักสาวเกาหลี พาเที่ยวเขาใหญ่</h3>
+                <p class="post__desc">
+หนุ่ม &#039;อ้วน รังสิต&#039; ฟุ้งรักสาวเกาหลี พาเที่ยวเขาใหญ่ ฝ่ายหญิงให้ของขวัญ คุยเรื่องแต่ง</p>
+            </div>
+        </a>
+        <footer class="post__footer">
+            <time title="วันที่" class="post__meta" datetime="2016-02-18 13:20">
+                <i class="sn-icon sn-icon--clock"></i> วันนี้
+                <span>(13:20 น.)</span>
+            </time>
+            <small title="เปิดอ่าน" class="post__meta">
+                <i class="sn-icon sn-icon--graph"></i>
+                <span class="snvh">เปิดอ่าน</span>11</small>
+            <small title="จำนวนแชร์" class="post__meta">
+                <i class="sn-icon sn-icon--reply"></i>
+                <span class="snvh">จำนวนแชร์</span>0</small>
+
+                            
+                <small title="จำนวนคอมเม้น" class="post__meta">
+                    <i class="sn-icon sn-icon--comment"></i>
+                    <span class="snvh">จำนวนคอมเม้น</span> 0</small>
+                    </footer>
+    </article>
+        <article class="post post--list post--archive">
+        <a href="http://news.sanook.com/1951466/" title="ปนัดดาติดตามแก้ปัญหาภัยแล้ง-หมอกควัน" class="post__link">
+            <div class="post__img">
+                <img src="http://pe2.isanook.com/ns/0/rp/r/w257/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDY2LzY3OTU1OC0wMi5qcGc=.jpg" alt="ปนัดดาติดตามแก้ปัญหาภัยแล้ง-หมอกควัน" width="257">
+
+                                
+            </div>
+            <div class="post__body">
+                <h3 class="post__title">ปนัดดาติดตามแก้ปัญหาภัยแล้ง-หมอกควัน</h3>
+                <p class="post__desc">
+&#039;ม.ล.ปนัดดา&#039; ลงพื้นที่ภาคเหนือตรวจราชการเขต 15 ติดตามแก้ปัญหาภัยแล้ง หมอกควัน</p>
+            </div>
+        </a>
+        <footer class="post__footer">
+            <time title="วันที่" class="post__meta" datetime="2016-02-18 13:17">
+                <i class="sn-icon sn-icon--clock"></i> วันนี้
+                <span>(13:17 น.)</span>
+            </time>
+            <small title="เปิดอ่าน" class="post__meta">
+                <i class="sn-icon sn-icon--graph"></i>
+                <span class="snvh">เปิดอ่าน</span>19</small>
+            <small title="จำนวนแชร์" class="post__meta">
+                <i class="sn-icon sn-icon--reply"></i>
+                <span class="snvh">จำนวนแชร์</span>0</small>
+
+                            
+                <small title="จำนวนคอมเม้น" class="post__meta">
+                    <i class="sn-icon sn-icon--comment"></i>
+                    <span class="snvh">จำนวนคอมเม้น</span> 0</small>
+                    </footer>
+    </article>
+        <article class="post post--list post--archive">
+        <a href="http://news.sanook.com/1951470/" title="สนช. ผ่านร่างพ.ร.บ.งบฯเพิ่มเติมแล้ว3วาระรวด" class="post__link">
+            <div class="post__img">
+                <img src="http://pe1.isanook.com/ns/0/rp/r/w257/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDcwLzY3OTU1Ny0wMS5qcGc=.jpg" alt="สนช. ผ่านร่างพ.ร.บ.งบฯเพิ่มเติมแล้ว3วาระรวด" width="257">
+
+                                
+            </div>
+            <div class="post__body">
+                <h3 class="post__title">สนช. ผ่านร่างพ.ร.บ.งบฯเพิ่มเติมแล้ว3วาระรวด</h3>
+                <p class="post__desc">
+สภานิติบัญญัติแห่งชาติ ผ่านวาระ 3 ร่าง พ.ร.บ.งบประมาณรายจ่ายเพิ่มเติมปี 59 วงเงิน 5.6 หมื่นล้าน ประกาศใช้เป็นกฎหมายแล้ว</p>
+            </div>
+        </a>
+        <footer class="post__footer">
+            <time title="วันที่" class="post__meta" datetime="2016-02-18 13:16">
+                <i class="sn-icon sn-icon--clock"></i> วันนี้
+                <span>(13:16 น.)</span>
+            </time>
+            <small title="เปิดอ่าน" class="post__meta">
+                <i class="sn-icon sn-icon--graph"></i>
+                <span class="snvh">เปิดอ่าน</span>16</small>
+            <small title="จำนวนแชร์" class="post__meta">
+                <i class="sn-icon sn-icon--reply"></i>
+                <span class="snvh">จำนวนแชร์</span>0</small>
+
+                            
+                <small title="จำนวนคอมเม้น" class="post__meta">
+                    <i class="sn-icon sn-icon--comment"></i>
+                    <span class="snvh">จำนวนคอมเม้น</span> 0</small>
+                    </footer>
+    </article>
+        <article class="post post--list post--archive">
+        <a href="http://news.sanook.com/1951494/" title="บอยเมินคนแซวรักแห้ง ไร้ปัญหามาร์กี้" class="post__link">
+            <div class="post__img">
+                <img src="http://pe2.isanook.com/ns/0/rp/r/w257/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDk0LzY3OTU1OS0wMS5qcGc=.jpg" alt="บอยเมินคนแซวรักแห้ง ไร้ปัญหามาร์กี้" width="257">
+
+                                
+            </div>
+            <div class="post__body">
+                <h3 class="post__title">บอยเมินคนแซวรักแห้ง ไร้ปัญหามาร์กี้</h3>
+                <p class="post__desc">
+บอย เมินคนแซวรักแห้ง อ้างงานเยอะ ไร้ปัญหา มาร์กี้ ยันปกติ-เจอน้อยลง</p>
+            </div>
+        </a>
+        <footer class="post__footer">
+            <time title="วันที่" class="post__meta" datetime="2016-02-18 13:15">
+                <i class="sn-icon sn-icon--clock"></i> วันนี้
+                <span>(13:15 น.)</span>
+            </time>
+            <small title="เปิดอ่าน" class="post__meta">
+                <i class="sn-icon sn-icon--graph"></i>
+                <span class="snvh">เปิดอ่าน</span>9</small>
+            <small title="จำนวนแชร์" class="post__meta">
+                <i class="sn-icon sn-icon--reply"></i>
+                <span class="snvh">จำนวนแชร์</span>0</small>
+
+                            
+                <small title="จำนวนคอมเม้น" class="post__meta">
+                    <i class="sn-icon sn-icon--comment"></i>
+                    <span class="snvh">จำนวนคอมเม้น</span> 0</small>
+                    </footer>
+    </article>
+        <article class="post post--list post--archive">
+        <a href="http://news.sanook.com/1951474/" title="กาฬสินธุ์เตือนเกษตรกรลอบสูบน้ำทำนาปรัง" class="post__link">
+            <div class="post__img">
+                <img src="http://pe1.isanook.com/ns/0/rp/r/w257/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDc0LzY3OTU1My0wMS5qcGc=.jpg" alt="กาฬสินธุ์เตือนเกษตรกรลอบสูบน้ำทำนาปรัง" width="257">
+
+                                
+            </div>
+            <div class="post__body">
+                <h3 class="post__title">กาฬสินธุ์เตือนเกษตรกรลอบสูบน้ำทำนาปรัง</h3>
+                <p class="post__desc">
+กาฬสินธุ์เตือนเกษตรกรสูบน้ำทำนาปรัง หลังทำลำน้ำชีวิกฤติ พบลักลอบทำการเกษตรถึง 35,698 ไร่</p>
+            </div>
+        </a>
+        <footer class="post__footer">
+            <time title="วันที่" class="post__meta" datetime="2016-02-18 13:00">
+                <i class="sn-icon sn-icon--clock"></i> วันนี้
+                <span>(13:00 น.)</span>
+            </time>
+            <small title="เปิดอ่าน" class="post__meta">
+                <i class="sn-icon sn-icon--graph"></i>
+                <span class="snvh">เปิดอ่าน</span>32</small>
+            <small title="จำนวนแชร์" class="post__meta">
+                <i class="sn-icon sn-icon--reply"></i>
+                <span class="snvh">จำนวนแชร์</span>0</small>
+
+                            
+                <small title="จำนวนคอมเม้น" class="post__meta">
+                    <i class="sn-icon sn-icon--comment"></i>
+                    <span class="snvh">จำนวนคอมเม้น</span> 0</small>
+                    </footer>
+    </article>
+        <article class="post post--list post--archive">
+        <a href="http://news.sanook.com/1951458/" title="สมชาย อภิปรายร่างพ.ร.บ.งบฯเพิ่มเติม" class="post__link">
+            <div class="post__img">
+                <img src="http://pe2.isanook.com/ns/0/rp/r/w257/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDU4LzY3OTU1MC0wMS5qcGc=.jpg" alt="สมชาย อภิปรายร่างพ.ร.บ.งบฯเพิ่มเติม" width="257">
+
+                                
+            </div>
+            <div class="post__body">
+                <h3 class="post__title">สมชาย อภิปรายร่างพ.ร.บ.งบฯเพิ่มเติม</h3>
+                <p class="post__desc">
+&#039;สนช.สมชาย&#039; อภิปราย ร่าง พ.ร.บ.งบฯ เพิ่มเติม แนะต้องสร้างภูมิคุ้มกัน ให้ความรู้ต่อประชาชน เพื่อลดความเหลื่อมล้ำ </p>
+            </div>
+        </a>
+        <footer class="post__footer">
+            <time title="วันที่" class="post__meta" datetime="2016-02-18 12:48">
+                <i class="sn-icon sn-icon--clock"></i> วันนี้
+                <span>(12:48 น.)</span>
+            </time>
+            <small title="เปิดอ่าน" class="post__meta">
+                <i class="sn-icon sn-icon--graph"></i>
+                <span class="snvh">เปิดอ่าน</span>30</small>
+            <small title="จำนวนแชร์" class="post__meta">
+                <i class="sn-icon sn-icon--reply"></i>
+                <span class="snvh">จำนวนแชร์</span>0</small>
+
+                            
+                <small title="จำนวนคอมเม้น" class="post__meta">
+                    <i class="sn-icon sn-icon--comment"></i>
+                    <span class="snvh">จำนวนคอมเม้น</span> 0</small>
+                    </footer>
+    </article>
+        <article class="post post--list post--archive">
+        <a href="http://news.sanook.com/1951462/" title="ค่าหมอกควันภาคเหนือกลับเข้าสู่ภาวะปกติ" class="post__link">
+            <div class="post__img">
+                <img src="http://pe2.isanook.com/ns/0/rp/r/w257/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDYyLzY3OTU0Ny0wMS5qcGc=.jpg" alt="ค่าหมอกควันภาคเหนือกลับเข้าสู่ภาวะปกติ" width="257">
+
+                                
+            </div>
+            <div class="post__body">
+                <h3 class="post__title">ค่าหมอกควันภาคเหนือกลับเข้าสู่ภาวะปกติ</h3>
+                <p class="post__desc">
+ค่าหมอกควันภาคเหนือ กลับสู่ภาวะปกติ ล่าสุดไม่พบจังหวัดใด มีค่าสารมลพิษทางอากาศในระดับส่งผลกระทบต่อสุขภาพ</p>
+            </div>
+        </a>
+        <footer class="post__footer">
+            <time title="วันที่" class="post__meta" datetime="2016-02-18 12:42">
+                <i class="sn-icon sn-icon--clock"></i> วันนี้
+                <span>(12:42 น.)</span>
+            </time>
+            <small title="เปิดอ่าน" class="post__meta">
+                <i class="sn-icon sn-icon--graph"></i>
+                <span class="snvh">เปิดอ่าน</span>31</small>
+            <small title="จำนวนแชร์" class="post__meta">
+                <i class="sn-icon sn-icon--reply"></i>
+                <span class="snvh">จำนวนแชร์</span>1</small>
+
+                            
+                <small title="จำนวนคอมเม้น" class="post__meta">
+                    <i class="sn-icon sn-icon--comment"></i>
+                    <span class="snvh">จำนวนคอมเม้น</span> 0</small>
+                    </footer>
+    </article>
+        <article class="post post--list post--archive">
+        <a href="http://news.sanook.com/1951455/" title="สาวพัทยาใจบุญ เลี้ยงอาหารหมาจรจัดกว่า 80 ตัว" class="post__link">
+            <div class="post__img">
+                <img src="http://pe1.isanook.com/ns/0/rp/r/w257/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDU1LzEzLmpwZw==.jpg" alt="สาวพัทยาใจบุญ เลี้ยงอาหารหมาจรจัดกว่า 80 ตัว" width="257">
+
+                                
+            </div>
+            <div class="post__body">
+                <h3 class="post__title">สาวพัทยาใจบุญ เลี้ยงอาหารหมาจรจัดกว่า 80 ตัว</h3>
+                <p class="post__desc">พัทยา พบหญิงสาวใจบุญ เลี้ยงอาหารสุนัขจรจัดกว่า 80 ตัว เป็นประจำ - วอนผู้เกี่ยวข้องช่วยคุมกำเนิดลดจำนวน</p>
+            </div>
+        </a>
+        <footer class="post__footer">
+            <time title="วันที่" class="post__meta" datetime="2016-02-18 12:39">
+                <i class="sn-icon sn-icon--clock"></i> วันนี้
+                <span>(12:39 น.)</span>
+            </time>
+            <small title="เปิดอ่าน" class="post__meta">
+                <i class="sn-icon sn-icon--graph"></i>
+                <span class="snvh">เปิดอ่าน</span>1,452</small>
+            <small title="จำนวนแชร์" class="post__meta">
+                <i class="sn-icon sn-icon--reply"></i>
+                <span class="snvh">จำนวนแชร์</span>5</small>
+
+                            
+                <small title="จำนวนคอมเม้น" class="post__meta">
+                    <i class="sn-icon sn-icon--comment"></i>
+                    <span class="snvh">จำนวนคอมเม้น</span> 0</small>
+                    </footer>
+    </article>
+        <article class="post post--list post--archive">
+        <a href="http://news.sanook.com/1951451/" title="คอมเพรสเซอร์แอร์ห้องทำงานพงศพัศไหม้" class="post__link">
+            <div class="post__img">
+                <img src="http://pe1.isanook.com/ns/0/rp/r/w257/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDUxLzEyLmpwZw==.jpg" alt="คอมเพรสเซอร์แอร์ห้องทำงานพงศพัศไหม้" width="257">
+
+                                
+            </div>
+            <div class="post__body">
+                <h3 class="post__title">คอมเพรสเซอร์แอร์ห้องทำงานพงศพัศไหม้</h3>
+                <p class="post__desc">ระทึก! ไฟไหม้ คอมเพรสเซอร์แอร์ ห้องทำงาน พล.ต.อ.พงศพัศ รอง ผบ.ตร. โชคดีดับได้ทัน</p>
+            </div>
+        </a>
+        <footer class="post__footer">
+            <time title="วันที่" class="post__meta" datetime="2016-02-18 12:22">
+                <i class="sn-icon sn-icon--clock"></i> วันนี้
+                <span>(12:22 น.)</span>
+            </time>
+            <small title="เปิดอ่าน" class="post__meta">
+                <i class="sn-icon sn-icon--graph"></i>
+                <span class="snvh">เปิดอ่าน</span>2,269</small>
+            <small title="จำนวนแชร์" class="post__meta">
+                <i class="sn-icon sn-icon--reply"></i>
+                <span class="snvh">จำนวนแชร์</span>549</small>
+
+                            
+                <small title="จำนวนคอมเม้น" class="post__meta">
+                    <i class="sn-icon sn-icon--comment"></i>
+                    <span class="snvh">จำนวนคอมเม้น</span> 0</small>
+                    </footer>
+    </article>
+        <article class="post post--list post--archive">
+        <a href="http://news.sanook.com/1951414/" title="สนช.ไม่กังวลนำเงินประมูลความถี่จัดทำงบ" class="post__link">
+            <div class="post__img">
+                <img src="http://pe1.isanook.com/ns/0/rp/r/w257/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDE0LzY3OTU0MS0wMS5qcGc=.jpg" alt="สนช.ไม่กังวลนำเงินประมูลความถี่จัดทำงบ" width="257">
+
+                                
+            </div>
+            <div class="post__body">
+                <h3 class="post__title">สนช.ไม่กังวลนำเงินประมูลความถี่จัดทำงบ</h3>
+                <p class="post__desc">
+สภานิติบัญญัติแห่งชาติ ไม่กังวล นำเงินจากการประมูลความถี่ มาจัดทำเป็นงบประมาณ ห่วงการเก็บภาษีให้ได้ตามเป้า เหตุแนวโน้มเศรษฐกิจชะลอตัว</p>
+            </div>
+        </a>
+        <footer class="post__footer">
+            <time title="วันที่" class="post__meta" datetime="2016-02-18 12:17">
+                <i class="sn-icon sn-icon--clock"></i> วันนี้
+                <span>(12:17 น.)</span>
+            </time>
+            <small title="เปิดอ่าน" class="post__meta">
+                <i class="sn-icon sn-icon--graph"></i>
+                <span class="snvh">เปิดอ่าน</span>42</small>
+            <small title="จำนวนแชร์" class="post__meta">
+                <i class="sn-icon sn-icon--reply"></i>
+                <span class="snvh">จำนวนแชร์</span>0</small>
+
+                            
+                <small title="จำนวนคอมเม้น" class="post__meta">
+                    <i class="sn-icon sn-icon--comment"></i>
+                    <span class="snvh">จำนวนคอมเม้น</span> 0</small>
+                    </footer>
+    </article>
+        <article class="post post--list post--archive">
+        <a href="http://news.sanook.com/1951411/" title="นักโทษหญิงเวียดนามหนีโทษประหาร ด้วยการตั้งท้อง" class="post__link">
+            <div class="post__img">
+                <img src="http://pe1.isanook.com/ns/0/rp/r/w257/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDExLzExLmpwZw==.jpg" alt="นักโทษหญิงเวียดนามหนีโทษประหาร ด้วยการตั้งท้อง" width="257">
+
+                                
+            </div>
+            <div class="post__body">
+                <h3 class="post__title">นักโทษหญิงเวียดนามหนีโทษประหาร ด้วยการตั้งท้อง</h3>
+                <p class="post__desc">ผู้ต้องขังหญิงชาวเวียดนามหลบหนีโทษประหารชีวิตด้วยการทุ่มเงินซื้ออสุจิจากนักโทษชาย เพื่อฉีดเข้าร่างกายทำให้ตัวเองตั้งท้อง</p>
+            </div>
+        </a>
+        <footer class="post__footer">
+            <time title="วันที่" class="post__meta" datetime="2016-02-18 12:16">
+                <i class="sn-icon sn-icon--clock"></i> วันนี้
+                <span>(12:16 น.)</span>
+            </time>
+            <small title="เปิดอ่าน" class="post__meta">
+                <i class="sn-icon sn-icon--graph"></i>
+                <span class="snvh">เปิดอ่าน</span>40,914</small>
+            <small title="จำนวนแชร์" class="post__meta">
+                <i class="sn-icon sn-icon--reply"></i>
+                <span class="snvh">จำนวนแชร์</span>3,264</small>
+
+                            
+                <small title="จำนวนคอมเม้น" class="post__meta">
+                    <i class="sn-icon sn-icon--comment"></i>
+                    <span class="snvh">จำนวนคอมเม้น</span> 1</small>
+                    </footer>
+    </article>
+        <article class="post post--list post--archive">
+        <a href="http://news.sanook.com/1951418/" title="สุวพันธุ์ ปัดแสดงความคิดเห็นผลสอบรถหรู" class="post__link">
+            <div class="post__img">
+                <img src="http://pe2.isanook.com/ns/0/rp/r/w257/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDE4LzY3OTU0MC0wMS5qcGc=.jpg" alt="สุวพันธุ์ ปัดแสดงความคิดเห็นผลสอบรถหรู" width="257">
+
+                                
+            </div>
+            <div class="post__body">
+                <h3 class="post__title">สุวพันธุ์ ปัดแสดงความคิดเห็นผลสอบรถหรู</h3>
+                <p class="post__desc">
+&#039;สุวพันธุ์ ตันยุวรรธนะ&#039; ปัดแสดงความคิดเห็น ผลสอบรถหรู สมเด็จพระมหารัชมังคลาจารย์ ขอ ปชช.อย่าตื่นตระหนกพระชุมนุม</p>
+            </div>
+        </a>
+        <footer class="post__footer">
+            <time title="วันที่" class="post__meta" datetime="2016-02-18 12:14">
+                <i class="sn-icon sn-icon--clock"></i> วันนี้
+                <span>(12:14 น.)</span>
+            </time>
+            <small title="เปิดอ่าน" class="post__meta">
+                <i class="sn-icon sn-icon--graph"></i>
+                <span class="snvh">เปิดอ่าน</span>92</small>
+            <small title="จำนวนแชร์" class="post__meta">
+                <i class="sn-icon sn-icon--reply"></i>
+                <span class="snvh">จำนวนแชร์</span>0</small>
+
+                            
+                <small title="จำนวนคอมเม้น" class="post__meta">
+                    <i class="sn-icon sn-icon--comment"></i>
+                    <span class="snvh">จำนวนคอมเม้น</span> 0</small>
+                    </footer>
+    </article>
+        <article class="post post--list post--archive">
+        <a href="http://news.sanook.com/1951442/" title="ตร.เชียงรายเร่งหาตัวผู้ร่วมแก๊งค้ายาบ้า" class="post__link">
+            <div class="post__img">
+                <img src="http://pe2.isanook.com/ns/0/rp/r/w257/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDQyLzY3OTUzOS0wMS5qcGc=.jpg" alt="ตร.เชียงรายเร่งหาตัวผู้ร่วมแก๊งค้ายาบ้า" width="257">
+
+                                
+            </div>
+            <div class="post__body">
+                <h3 class="post__title">ตร.เชียงรายเร่งหาตัวผู้ร่วมแก๊งค้ายาบ้า</h3>
+                <p class="post__desc">
+ตำรวจ สภ.แม่ฟ้าหลวง จ.เชียงราย เร่งหาผู้ร่วมขบวนการค้ายาเสพติด หลังจับหนุ่มวัย 36 พร้อมยาบ้า 100,000 เม็ด</p>
+            </div>
+        </a>
+        <footer class="post__footer">
+            <time title="วันที่" class="post__meta" datetime="2016-02-18 12:08">
+                <i class="sn-icon sn-icon--clock"></i> วันนี้
+                <span>(12:08 น.)</span>
+            </time>
+            <small title="เปิดอ่าน" class="post__meta">
+                <i class="sn-icon sn-icon--graph"></i>
+                <span class="snvh">เปิดอ่าน</span>157</small>
+            <small title="จำนวนแชร์" class="post__meta">
+                <i class="sn-icon sn-icon--reply"></i>
+                <span class="snvh">จำนวนแชร์</span>5</small>
+
+                            
+                <small title="จำนวนคอมเม้น" class="post__meta">
+                    <i class="sn-icon sn-icon--comment"></i>
+                    <span class="snvh">จำนวนคอมเม้น</span> 0</small>
+                    </footer>
+    </article>
+        <article class="post post--list post--archive">
+        <a href="http://news.sanook.com/1951438/" title="ตลาดทองเอเชียร่วงอิทธิพลมุมมองเฟด-ศก.จีน" class="post__link">
+            <div class="post__img">
+                <img src="http://pe2.isanook.com/ns/0/rp/r/w257/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDM4LzY3OTUzNy0wMS5qcGc=.jpg" alt="ตลาดทองเอเชียร่วงอิทธิพลมุมมองเฟด-ศก.จีน" width="257">
+
+                                
+            </div>
+            <div class="post__body">
+                <h3 class="post__title">ตลาดทองเอเชียร่วงอิทธิพลมุมมองเฟด-ศก.จีน</h3>
+                <p class="post__desc">
+ตลาดทองเอเชีย ปรับลดลง ผลมาจากนักลงทุนกังวลเกี่ยวกับรายงานเฟด และดัชนีบริโภคจีนที่ลดลง</p>
+            </div>
+        </a>
+        <footer class="post__footer">
+            <time title="วันที่" class="post__meta" datetime="2016-02-18 12:06">
+                <i class="sn-icon sn-icon--clock"></i> วันนี้
+                <span>(12:06 น.)</span>
+            </time>
+            <small title="เปิดอ่าน" class="post__meta">
+                <i class="sn-icon sn-icon--graph"></i>
+                <span class="snvh">เปิดอ่าน</span>480</small>
+            <small title="จำนวนแชร์" class="post__meta">
+                <i class="sn-icon sn-icon--reply"></i>
+                <span class="snvh">จำนวนแชร์</span>1</small>
+
+                            
+                <small title="จำนวนคอมเม้น" class="post__meta">
+                    <i class="sn-icon sn-icon--comment"></i>
+                    <span class="snvh">จำนวนคอมเม้น</span> 0</small>
+                    </footer>
+    </article>
+        <article class="post post--list post--archive">
+        <a href="http://news.sanook.com/1951422/" title="ธนะศักดิ์ นำทูต15ปท.เยี่ยมชมตลาดวัฒนธรรม" class="post__link">
+            <div class="post__img">
+                <img src="http://pe1.isanook.com/ns/0/rp/r/w257/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDIyLzY3OTUzOC0wMS5qcGc=.jpg" alt="ธนะศักดิ์ นำทูต15ปท.เยี่ยมชมตลาดวัฒนธรรม" width="257">
+
+                                
+            </div>
+            <div class="post__body">
+                <h3 class="post__title">ธนะศักดิ์ นำทูต15ปท.เยี่ยมชมตลาดวัฒนธรรม</h3>
+                <p class="post__desc">
+พล.อ.ธนะศักดิ์ นำทูต 15 ประเทศ เยี่ยมชม ตลาดวัฒนธรรม สยามเมืองยิ้ม ที่บริเวณตลาดคลองผดุงกรุงเกษม</p>
+            </div>
+        </a>
+        <footer class="post__footer">
+            <time title="วันที่" class="post__meta" datetime="2016-02-18 12:06">
+                <i class="sn-icon sn-icon--clock"></i> วันนี้
+                <span>(12:06 น.)</span>
+            </time>
+            <small title="เปิดอ่าน" class="post__meta">
+                <i class="sn-icon sn-icon--graph"></i>
+                <span class="snvh">เปิดอ่าน</span>35</small>
+            <small title="จำนวนแชร์" class="post__meta">
+                <i class="sn-icon sn-icon--reply"></i>
+                <span class="snvh">จำนวนแชร์</span>0</small>
+
+                            
+                <small title="จำนวนคอมเม้น" class="post__meta">
+                    <i class="sn-icon sn-icon--comment"></i>
+                    <span class="snvh">จำนวนคอมเม้น</span> 0</small>
+                    </footer>
+    </article>
+        <article class="post post--list post--archive">
+        <a href="http://news.sanook.com/1951426/" title="ผบ.ทบ.ตรวจการฝึกภาคสนามนศท.เขาชนไก่" class="post__link">
+            <div class="post__img">
+                <img src="http://pe1.isanook.com/ns/0/rp/r/w257/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDI2LzY3OTUzNS0wMS5qcGc=.jpg" alt="ผบ.ทบ.ตรวจการฝึกภาคสนามนศท.เขาชนไก่" width="257">
+
+                                
+            </div>
+            <div class="post__body">
+                <h3 class="post__title">ผบ.ทบ.ตรวจการฝึกภาคสนามนศท.เขาชนไก่</h3>
+                <p class="post__desc">
+ผู้บัญชาการทหารบก เดินทางตรวจการฝึกภาคสนามของนักศึกษาวิชาทหาร ปี 2 - 5 ค่ายเขาชนไก่ จ.กาญจนบุรี</p>
+            </div>
+        </a>
+        <footer class="post__footer">
+            <time title="วันที่" class="post__meta" datetime="2016-02-18 12:05">
+                <i class="sn-icon sn-icon--clock"></i> วันนี้
+                <span>(12:05 น.)</span>
+            </time>
+            <small title="เปิดอ่าน" class="post__meta">
+                <i class="sn-icon sn-icon--graph"></i>
+                <span class="snvh">เปิดอ่าน</span>69</small>
+            <small title="จำนวนแชร์" class="post__meta">
+                <i class="sn-icon sn-icon--reply"></i>
+                <span class="snvh">จำนวนแชร์</span>0</small>
+
+                            
+                <small title="จำนวนคอมเม้น" class="post__meta">
+                    <i class="sn-icon sn-icon--comment"></i>
+                    <span class="snvh">จำนวนคอมเม้น</span> 0</small>
+                    </footer>
+    </article>
+        <article class="post post--list post--archive">
+        <a href="http://news.sanook.com/1951434/" title="อุตุฯพยากรณ์เที่ยงหนาวยังปกคลุมไทยตอนบน" class="post__link">
+            <div class="post__img">
+                <img src="http://pe2.isanook.com/ns/0/rp/r/w257/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUxNDM0LzY3OTUzNC0wMS5qcGc=.jpg" alt="อุตุฯพยากรณ์เที่ยงหนาวยังปกคลุมไทยตอนบน" width="257">
+
+                                
+            </div>
+            <div class="post__body">
+                <h3 class="post__title">อุตุฯพยากรณ์เที่ยงหนาวยังปกคลุมไทยตอนบน</h3>
+                <p class="post__desc">
+กรมอุตุฯ พยากรณ์อากาศ เที่ยงวัน อากาศหนาวยังปกคลุมไทยตอนบน ส่วน กทม.หมอกในตอนเช้า เริ่มร้อนขึ้น</p>
+            </div>
+        </a>
+        <footer class="post__footer">
+            <time title="วันที่" class="post__meta" datetime="2016-02-18 12:03">
+                <i class="sn-icon sn-icon--clock"></i> วันนี้
+                <span>(12:03 น.)</span>
+            </time>
+            <small title="เปิดอ่าน" class="post__meta">
+                <i class="sn-icon sn-icon--graph"></i>
+                <span class="snvh">เปิดอ่าน</span>103</small>
+            <small title="จำนวนแชร์" class="post__meta">
+                <i class="sn-icon sn-icon--reply"></i>
+                <span class="snvh">จำนวนแชร์</span>0</small>
+
+                            
+                <small title="จำนวนคอมเม้น" class="post__meta">
+                    <i class="sn-icon sn-icon--comment"></i>
+                    <span class="snvh">จำนวนคอมเม้น</span> 0</small>
+                    </footer>
+    </article>
+    </div>                        
+                                                        <nav class="pagination alpha">
+
+                 
+            <div rel="prev" class="pagination__item pagination__item--previous">
+                <span class="snvh">Previous</span>
+            </div>
+                
+                        
+                                    <span class="pagination__item pagination__item--active">1</span>
+                                                <a href="http://news.sanook.com/archive/page/2/" class="pagination__item pagination__link">2</a>
+                                                <a href="http://news.sanook.com/archive/page/3/" class="pagination__item pagination__link">3</a>
+                                                <a href="http://news.sanook.com/archive/page/4/" class="pagination__item pagination__link">4</a>
+                                                <a href="http://news.sanook.com/archive/page/5/" class="pagination__item pagination__link">5</a>
+                    
+
+                                                                <i class="pagination__item pagination__item--more">
+                        <span class="snvh">more</span>
+                    </i>
+                            
+            <a href="http://news.sanook.com/archive/page/24989/" class="pagination__item pagination__link">24989</a>
+
+                
+                            <a rel="next" href="http://news.sanook.com/archive/page/2/" class="pagination__item pagination__item--next pagination__link">หน้าถัดไป</a>
+                    </nav>
+                        
+                    </div>
+
+                </div>
+
+                                <div class="box-cell sidebar">
+                    <div class="sidebar__inner snic-sticky">
+                                                    
+                                <div class="aside aside--snic">
+        <div class="snic snic--300 snic--mgtop20">
+            <div class="snic__wrapper">
+                	<div id="zt_992697_1"> 
+	  <script id="zt_992697_1" type="text/javascript"> 
+	  	if (typeof zmt_mtag !='undefined' && typeof zmt_mtag.zmt_render_placement !='undefined') {
+	  		zmt_mtag.zmt_render_placement(p992697_1);
+	  	}
+	  </script>
+	</div>
+            </div>
+        </div>
+    </div>
+
+                                                            	<aside class="aside aside--hot">
+	    <h3 class="aside__title sukhumvitbold">
+	        <span>
+	            <a href="http://news.sanook.com/archive/all/" 
+	            	title="เรื่องฮอตในรอบสัปดาห์">
+
+	            	เรื่องฮอตในรอบสัปดาห์	            	
+	            </a>
+	        </span>
+	    </h3>
+	    <p class="aside__subtitle sukhumvitbold">ของ <span>Sanook! News</span></p>
+	    <div class="row">
+
+	        	        	
+	        	
+	            <article class="post col post--aside">
+	                <a href="http://news.sanook.com/1949550/" title="ซีอีโอ”นกแอร์” ด่าแรง ไล่ใส่กระโปรง “คนทุบหม้อข้าวตัวเอง-ใช้คนอื่นไปตาย”" class="post__link">
+	                    <div class="post__img">
+	                        <img src="http://pe2.isanook.com/ns/0/rp/rc/w350h210/ya0xa0m1w0/aHR0cDovL3BlMi5pc2Fub29rLmNvbS9ucy8wL3VkLzM4OS8xOTQ5NTUwLzMuanBn.jpg" alt="ซีอีโอ”นกแอร์” ด่าแรง ไล่ใส่กระโปรง “คนทุบหม้อข้าวตัวเอง-ใช้คนอื่นไปตาย”" width="350" height="210">
+
+	                        	<small class="post__sticker">
+		
+		
+	    	    	เปิดอ่าน 367,285
+    	
+	</small>
+	                        
+	                    </div>
+	                    <div class="post__body">
+	                        <h4 class="post__title">ซีอีโอ”นกแอร์” ด่าแรง ไล่ใส่กระโปรง “คนทุบหม้อข้าวตัวเอง-ใช้คนอื่นไปตาย”</h4>
+	                    </div>
+	                </a>
+	            </article>
+	        	        	
+	        	
+	            <article class="post col post--aside">
+	                <a href="http://news.sanook.com/1949798/" title="ฟินหนักมาก! โตโน่ ให้ของขวัญ แพท ณปภา หลังวาเลนไทน์" class="post__link">
+	                    <div class="post__img">
+	                        <img src="http://pe1.isanook.com/ns/0/rp/rc/w350h210/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM4OS8xOTQ5Nzk4LzcwMC5qcGc=.jpg" alt="ฟินหนักมาก! โตโน่ ให้ของขวัญ แพท ณปภา หลังวาเลนไทน์" width="350" height="210">
+
+	                        	<small class="post__sticker">
+		
+		
+	    	    	เปิดอ่าน 330,255
+    	
+	</small>
+	                        
+	                    </div>
+	                    <div class="post__body">
+	                        <h4 class="post__title">ฟินหนักมาก! โตโน่ ให้ของขวัญ แพท ณปภา หลังวาเลนไทน์</h4>
+	                    </div>
+	                </a>
+	            </article>
+	        	        	
+	        	
+	            <article class="post col post--aside">
+	                <a href="http://news.sanook.com/1950226/" title="ภาพประทับใจ น้องออก้า วิ่งร้องไห้เข้ากอดหลวงพ่อเปิ้ล หลังกลับจากปฏิบัติธรรมอินเดีย" class="post__link">
+	                    <div class="post__img">
+	                        <img src="http://pe1.isanook.com/ns/0/rp/rc/w350h210/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM5MC8xOTUwMjI2LzMuanBn.jpg" alt="ภาพประทับใจ น้องออก้า วิ่งร้องไห้เข้ากอดหลวงพ่อเปิ้ล หลังกลับจากปฏิบัติธรรมอินเดีย" width="350" height="210">
+
+	                        	<small class="post__sticker">
+		
+		
+	    	    	เปิดอ่าน 325,109
+    	
+	</small>
+	                        
+	                    </div>
+	                    <div class="post__body">
+	                        <h4 class="post__title">ภาพประทับใจ น้องออก้า วิ่งร้องไห้เข้ากอดหลวงพ่อเปิ้ล หลังกลับจากปฏิบัติธรรมอินเดีย</h4>
+	                    </div>
+	                </a>
+	            </article>
+	        	        	
+	        	
+	            <article class="post col post--aside">
+	                <a href="http://news.sanook.com/1949314/" title="&#039;อั้ม พัชราภา&#039; คนจริง บอก แอมป์ พิธาน ขอแอร์เมสใส่ตู้" class="post__link">
+	                    <div class="post__img">
+	                        <img src="http://pe1.isanook.com/ns/0/rp/rc/w350h210/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM4OS8xOTQ5MzE0LzguanBn.jpg" alt="&#039;อั้ม พัชราภา&#039; คนจริง บอก แอมป์ พิธาน ขอแอร์เมสใส่ตู้" width="350" height="210">
+
+	                        	<small class="post__sticker">
+		
+		
+	    	    	เปิดอ่าน 247,159
+    	
+	</small>
+	                        
+	                    </div>
+	                    <div class="post__body">
+	                        <h4 class="post__title">&#039;อั้ม พัชราภา&#039; คนจริง บอก แอมป์ พิธาน ขอแอร์เมสใส่ตู้</h4>
+	                    </div>
+	                </a>
+	            </article>
+	        	        	
+	        	
+	            <article class="post col post--aside">
+	                <a href="http://news.sanook.com/1949782/" title="คลิปเดือด! พระสงฆ์ปะทะทหาร ซัดกันนัวกลางถนน หลังขัดขวางเข้า”พุทธมณฑล”" class="post__link">
+	                    <div class="post__img">
+	                        <img src="http://pe1.isanook.com/ns/0/rp/rc/w350h210/ya0xa0m1w0/aHR0cDovL3BlMS5pc2Fub29rLmNvbS9ucy8wL3VkLzM4OS8xOTQ5NzgyL25ld3MxNS5qcGc=.jpg" alt="คลิปเดือด! พระสงฆ์ปะทะทหาร ซัดกันนัวกลางถนน หลังขัดขวางเข้า”พุทธมณฑล”" width="350" height="210">
+
+	                        	<small class="post__sticker">
+		
+		
+	    	    	เปิดอ่าน 148,047
+    	
+	</small>
+	                        
+	                    </div>
+	                    <div class="post__body">
+	                        <h4 class="post__title">คลิปเดือด! พระสงฆ์ปะทะทหาร ซัดกันนัวกลางถนน หลังขัดขวางเข้า”พุทธมณฑล”</h4>
+	                    </div>
+	                </a>
+	            </article>
+	        
+	    </div>
+	</aside>
+                            
+                                                            <div class="aside aside--tags">
+                                        <div class="tags tags--cloud">
+        <div class="tags__heading">
+            <p class="tags__title sukhumvitbold">คำยอดฮิต</p>
+        </div>
+        <div class="tags__body"><a class="tags__item" href="http://news.sanook.com/world/">ข่าวต่างประเทศ</a> <a class="tags__item" href="http://news.sanook.com/politic/">ข่าวการเมือง</a> <a class="tags__item" href="http://www.sanook.com/hot/category/news/">ข่าวด่วนวันนี้</a> <a class="tags__item" href="http://news.sanook.com/tag/%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B9%88%E0%B8%A7%E0%B8%99/">ข่าวด่วน</a> <a class="tags__item" href="http://www.sanook.com/hot/category/news/">ข่าวสดวันนี้</a> <a class="tags__item" href="http://news.sanook.com/tag/%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B8%B5%E0%B9%88/">ดาราเซ็กซี่</a> <a class="tags__item" href="http://news.sanook.com/tag/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2/">ข่าวการศึกษา</a> <a class="tags__item" href="http://news.sanook.com/tag/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99/">อาเซียน</a> <a class="tags__item" href="http://news.sanook.com/tag/%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99/">ดาราแต่งงาน</a> <a class="tags__item" href="http://news.sanook.com/lotto/">สลากกินแบ่ง</a> <a class="tags__item" href="http://news.sanook.com/tag/%E0%B8%AB%E0%B8%A7%E0%B8%A2/">ข่าวหวย</a> <a class="tags__item" href="http://news.sanook.com/archive/hot-issues/latest/all/">เกาะกระแส</a> <a class="tags__item" href="http://news.sanook.com/tag/%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87">เลือกตั้ง</a> <a class="tags__item" href="http://news.sanook.com/archive/">ข่าวย้อนหลัง</a> <a class="tags__item" href="http://news.sanook.com/tag/%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%AA%E0%B8%AD%E0%B8%9A/">เปิดสอบ</a>&nbsp;<a class="tags__item" href="http://news.sanook.com/social/bulletin/">งาน</a> <a class="tags__item" href="http://money.sanook.com/economic/goldrate/">ราคาทอง</a> <a class="tags__item" href="http://money.sanook.com/economic/oil-price/">ราคาน้ำมัน</a> <a class="tags__item" href="http://sport.sanook.com/">ข่าวกีฬา</a> <a class="tags__item" href="http://money.sanook.com/">ข่าวเศรษฐกิจ</a></div>
+    </div>
+                                </div>
+                            
+                                                            <div class="aside aside--snic">
+                                    <div class="snic snic--300">
+                                        <div class="snic__wrapper">
+                                            	<div id="zt_992697_2"> 
+	  <script id="zt_992697_2" type="text/javascript"> 
+	  	if (typeof zmt_mtag !='undefined' && typeof zmt_mtag.zmt_render_placement !='undefined') {
+	  		zmt_mtag.zmt_render_placement(p992697_2);
+	  	}
+	  </script>
+	</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            
+                                            </div>
+                </div>
+                
+            </div>
+
+        </div>
+
+    </div>
+
+            
+                            
+                    <footer id="footer" class="sn-footer">
+    <div class="sn-footer__wrapper">
+        <div class="row">
+            <div class="col span-6">
+                <div class="sn-app">
+                    <h3 class="sn-app__title">Sanook! Application</h3>
+                    <span class="sn-app__desc">ดาวน์โหลดได้แล้ววันนี้</span>
+                    <div class="sn-app__download">
+                        <a href="https://itunes.apple.com/th/app/sanook!/id430564118?mt=8" target="_blank" class="sn-app__download-btn">
+                            <img src="http://fp1.fsanook.com/2/di/sn-appstore.png" width="157" height="56" alt="Download on the App Store">
+                        </a>
+                        <a href="https://play.google.com/store/apps/details?id=m.sanook.com" target="_blank" class="sn-app__download-btn">
+                            <img src="http://fp1.fsanook.com/2/di/sn-playstore.png" width="157" height="56" alt="Download on the Play Store">
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="sn-footer__right-col col span-6">
+                <div class="sn-social">
+                    <div class="sn-social__section">
+                        <span class="sn-social__title">ติดตาม Sanook.com</span>
+                        <div class="sn-social__group">
+                            <div class="sn-social__btn sn-social__btn--fb">
+                                <a href="https://www.facebook.com/fan.sanook" target="_blank" title="Sanook Fanpage">
+                                    <i class="sn-icon sn-icon--facebook"></i>
+                                </a>
+                            </div>
+                            <div class="sn-social__btn sn-social__btn--tw">
+                                <a href="https://twitter.com/sanook" target="_blank" title="@sanook">
+                                    <i class="sn-icon sn-icon--twitter"></i>
+                                </a>
+                            </div>
+                            <div class="sn-social__btn sn-social__btn--ig">
+                                <a href="https://instagram.com/sanookfan/" target="_blank" title="Sanook Instagram">
+                                    <i class="sn-icon sn-icon--instagram"></i>
+                                </a>
+                            </div>
+                            <div class="sn-social__btn sn-social__btn--yt">
+                                <a href="https://www.youtube.com/user/SanookTV" target="_blank" title="Sanook Youtube channel">
+                                    <i class="sn-icon sn-icon--youtube"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <a href="http://feedback.sanook.com/" target="_blank" title="แนะนำ-ติชม" class="suggest-btn">แนะนำ-ติชมเเละแจ้งปัญหาการใช้งาน</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col span-9">
+                <p class="footer-legal">สงวนลิขสิทธิ์ ©
+                    <span itemprop="copyrightYear">2558</span>
+                    <span itemprop="copyrightHolder provider sourceOrganization" itemscope itemtype="http://schema.org/Organization">บริษัท
+                        <span itemprop="name">สนุก ออนไลน์</span> จำกัด</span>
+                </p>
+                <ul class="sn-footer__hot-list">
+                    <li>
+                        <a href="http://corporate.sanook.com/" title="เกี่ยวกับ สนุก! ออนไลน์" target="_blank">เกี่ยวกับ สนุก! ออนไลน์</a>
+                    </li>
+                    <li>
+                        <a href="http://corporate.sanook.com/th/policy/" title="นโยบายการใช้งาน" target="_blank">นโยบายการใช้งาน</a>
+                    </li>
+                    <li>
+                        <a href="http://corporate.sanook.com/th/jobs/" title="ร่วมงานกับสนุก!" target="_blank">ร่วมงานกับสนุก!</a>
+                    </li>
+                    <li>
+                        <script type="text/javascript">
+                            document.write('<a href="mailto:legal-ca@sanook.com?Subject=แจ้งการละเมิดสิทธิหรือความไม่เหมาะสมของเนื้อหา" title="แจ้งการละเมิดสิทธิหรือความไม่เหมาะสมของเนื้อหา">แจ้งการละเมิดสิทธิหรือความไม่เหมาะสมของเนื้อหา</a>');
+                        </script>
+                    </li>
+                </ul>
+            </div>
+            <div class="col span-3">
+                <button id="snfGoToTop" class="sn-footer__totop-btn">
+                    <i class="sn-icon sn-icon--arrow-double-up"></i>ขึ้นไปบนสุด</button>
+            </div>
+        </div>
+    </div>
+</footer>
+<div class="mask"></div>        
+        
+            <script id="tpl_suggestions" type="x-tmpl">
+            
+	<ul class="autocomplete__ul">
+	    {% for item in suggestions %}
+	        <li class="autocomplete__list">
+	            <a href="{{ item.url_display }}" class="autocomplete__link">
+	                {{ item.title }}
+	            </a>
+	        </li>
+	    {% endfor %}
+	</ul>
+        </script>
+        <script id="tpl_member_guest" type="x-tmpl">
+            
+            <div class="sn-user-logoff">
+                <a class="sn-user-logoff__item" title="สมัครสมาชิก" href="http://sso.member.sanook.com/member/signup.php?psnid={{ params.psnid }}&surl={{ params.surl }}">สมัครสมาชิก</a>
+                <a class="sn-user-logoff__item" title="เข้าสู่ระบบ" id="_accessSanook" href="http://sso.member.sanook.com/member/login.php?psnid={{ params.psnid }}&surl={{ params.surl }}">เข้าสู่ระบบ</a>
+            </div>
+            
+        </script>
+        <script id="tpl_member_profile" type="x-tmpl">
+            
+            <div class="sn-user close">
+                <figure class="sn-user__figure">
+                    <div class="sn-user__img" style="background-image: url(http://getimage.member.sanook.com/getimage.php?avatartype=3&gender=1&imgurl=http://member.sanook.com/sanookmemberimage/{{ smiservice.SMI_ID }}.jpg)"></div>
+                </figure>
+                <p class="sn-user__name">
+                    <span>{{ smiservice.DISPLAYNAME }}</span>
+                </p>
+            </div>
+            <ul class="sn-user-ctrl close">
+                <li class="sn-user-ctrl__item">
+                    <a href="http://sso.member.sanook.com/member/editprofile.php?psnid={{ params.psnid }}&surl={{ params.surl }}">แก้ไขข้อมูลส่วนตัว</a>
+                </li>
+                <li class="sn-user-ctrl__item">
+                    <a class="dtLogout" href="http://sso.member.sanook.com/register/deauthen.php?psnid={{ params.psnid }}&surl={{ params.surl }}">ออกจากระบบ</a>
+                </li>
+            </ul>
+            
+        </script>
+    
+            <script type="text/javascript">
+            var dtConfigs = {
+                channel: 'news'
+            }
+        </script>
+        <!--[if lt IE 9]>
+            <script src="http://p2.isanook.com/de/0/shared/js/vendors/jquery-1.11.3.min.js"></script>
+        <![endif]-->
+        <!--[if IE 9]><!-->
+            <script src="http://p3.isanook.com/de/0/shared/js/vendors/jquery-2.1.4.min.js"></script>
+        <!--<![endif]-->
+        <script type="text/javascript" src="http://p4.isanook.com/de/0/shared/js/vendors.1.0.7.js"></script>
+<script type="text/javascript" src="http://p.isanook.com/de/0/shared/js/bundle.1.0.16.js"></script>
+<script type="text/javascript" src="http://tags.crwdcntrl.net/c/6510/cc_af.js"></script>
+<script type="text/javascript" src="http://c.isanook.com/no/0/js/sanook-notification.0.6.min.js"></script>
+<script type="text/javascript" src="http://p1.isanook.com/de/0/shared/js/lotto.1.0.4.js"></script>
+
+        	<div id="fb-root"></div>
+	<script>
+		window.fbAsyncInit = function() {
+		    FB.init({
+		      	appId      : '156775971014419', // for dev, use 1166335236725149
+		      	xfbml      : true,
+		      	version    : 'v2.5'
+		    });
+	  	};
+	    (function(d, s, id){
+	     	var js, fjs = d.getElementsByTagName(s)[0];
+	     	if (d.getElementById(id)) {return;}
+	     	js = d.createElement(s); js.id = id;
+	     	js.src = "//connect.facebook.net/en_US/sdk.js";
+	     	fjs.parentNode.insertBefore(js, fjs);
+	   	}(document, 'script', 'facebook-jssdk'));
+	</script>
+
+
+
+        
+    
+    <!-- THIS_PAGE_IS_COMPLETELY_LOADED -->
+    
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8f062114d3","applicationID":"14762374","transactionName":"Y1ZXYkdYW0dXVUVQDVocYERcFlxaUlNJFxJcQw==","queueTime":0,"applicationTime":265,"atts":"TxFUFA9CSEk=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html><!-- from : desktop --> 
+
+        	
+        	

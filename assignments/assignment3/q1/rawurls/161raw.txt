@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEHUVVbGwAHU1dQAwk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+  <title>DAY 1: CLOSED! Abortion centers out of business - 40 Days For Life</title>
+  <link rel="shortcut icon" href="https://40daysforlife.com/wp-content/themes/40daysforlife/assets/img/favicon.png" /> 
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="40 Days for Life" />
+  <link rel="apple-touch-icon" href="https://40daysforlife.com/wp-content/themes/40daysforlife/assets/img/touch-icon.png">
+  <link rel="apple-touch-startup-image" href="https://40daysforlife.com/wp-content/themes/40daysforlife/assets/img/apple-startup.png">
+  <!-- iPhone SPLASHSCREEN-->
+  <link href="https://40daysforlife.com/wp-content/themes/40daysforlife/assets/img/apple-touch-startup-image-320x460.png" media="(device-width: 320px)" rel="apple-touch-startup-image">
+  <!-- iPhone (Retina) SPLASHSCREEN-->
+  <link href="https://40daysforlife.com/wp-content/themes/40daysforlife/assets/img/apple-touch-startup-image-640x920.png" media="(device-width: 320px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image">
+  <!-- iPhone (Retina) 4" SPLASHSCREEN-->
+  <link href="https://40daysforlife.com/wp-content/themes/40daysforlife/assets/img/apple-touch-startup-image-640x1096.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image">
+  <!-- iPad (portrait) SPLASHSCREEN-->
+  <link href="https://40daysforlife.com/wp-content/themes/40daysforlife/assets/img/apple-touch-startup-image-768x1004.png" media="(device-width: 768px) and (orientation: portrait)" rel="apple-touch-startup-image">
+  <!-- iPad (landscape) SPLASHSCREEN-->
+  <link href="https://40daysforlife.com/wp-content/themes/40daysforlife/assets/img/apple-touch-startup-image-748x1024.png" media="(device-width: 768px) and (orientation: landscape)" rel="apple-touch-startup-image">
+  <!-- iPad (Retina, portrait) SPLASHSCREEN-->
+  <link href="https://40daysforlife.com/wp-content/themes/40daysforlife/assets/img/apple-touch-startup-image-1536x2008.png" media="(device-width: 1536px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image">
+  <!-- iPad (Retina, landscape) SPLASHSCREEN-->
+  <link href="https://40daysforlife.com/wp-content/themes/40daysforlife/assets/img/apple-touch-startup-image-2048x1496.png" media="(device-width: 1536px)  and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image">
+
+	<!-- Cloud.typography Fonts -->
+	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/736312/638082/css/fonts.css" />
+
+  
+<!-- Recent Posts Widget With Thumbnails: Could not open the CSS file! Print inline CSS instead: -->
+<style type='text/css'>.rpwwt-widget ul { list-style: outside none none; margin-left: 0; margin-right: 0; padding-left: 0; padding-right: 0; }
+.rpwwt-widget ul li { overflow: hidden; margin: 0 0 1.5em; }
+.rpwwt-widget ul li:last-child { margin: 0; }
+.rpwwt-widget ul li img { display: inline; float: left; margin: .3em .75em .75em 0; }
+#rpwwt-recent-posts-widget-with-thumbnails-2 img { width: 70px; height: 70px; }
+#rpwwt-recent-posts-widget-with-thumbnails-3 img { width: 55px; height: 55px; }
+#rpwwt-recent-posts-widget-with-thumbnails-4 img { width: 70px; height: 70px; }
+#rpwwt-recent-posts-widget-with-thumbnails-5 img { width: 70px; height: 70px; }
+</style>
+
+<!-- This site is optimized with the Yoast SEO plugin v3.0.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://40daysforlife.com/2016/02/10/abortion-centers-gone/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="DAY 1: CLOSED! Abortion centers out of business - 40 Days For Life" />
+<meta property="og:description" content="It all starts today! Prayer, fasting, and peaceful vigil are powerful &#8230; and needed now more than ever in our culture. Right now, there are babies scheduled to be aborted close to where you live &#8212; and your peaceful presence..." />
+<meta property="og:url" content="https://40daysforlife.com/2016/02/10/abortion-centers-gone/" />
+<meta property="og:site_name" content="40 Days For Life" />
+<meta property="article:section" content="40 Days for Life" />
+<meta property="article:published_time" content="2016-02-10T04:04:11+00:00" />
+<meta property="article:modified_time" content="2016-02-09T19:38:24+00:00" />
+<meta property="og:updated_time" content="2016-02-09T19:38:24+00:00" />
+<meta property="og:image" content="https://40daysforlife.com/media/spring2015roswell4.png" />
+<!-- / Yoast SEO plugin. -->
+
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/40daysforlife.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" href="https://40daysforlife.com/wp-content/themes/40daysforlife/assets/css/styles.css?ver=bf571133c5a8ee3971d7305415dfa9d6">
+<script type='text/javascript' defer="defer" src='https://40daysforlife.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' defer="defer" src='https://40daysforlife.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel='https://api.w.org/' href='https://40daysforlife.com/wp-json/' />
+<link rel="alternate" type="application/json+oembed" href="https://40daysforlife.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2F40daysforlife.com%2F2016%2F02%2F10%2Fabortion-centers-gone%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://40daysforlife.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2F40daysforlife.com%2F2016%2F02%2F10%2Fabortion-centers-gone%2F&#038;format=xml" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+		<meta property="og:title" content="DAY 1: CLOSED! Abortion centers out of business" />
+		<meta property="og:type" content="article" />
+		<meta property="og:image" content="https://40daysforlife.com/media/spring2015roswell4.png" />
+		<meta property="og:url" content="https://40daysforlife.com/2016/02/10/abortion-centers-gone/" />
+		<meta property="og:site_name" content="40 Days For Life" />
+				<!-- WordPress Popular Posts v3.3.3 -->
+				<script type="text/javascript">//<![CDATA[
+
+					var sampling_active = 0;
+					var sampling_rate   = 100;
+					var do_request = false;
+
+					if ( !sampling_active ) {
+						do_request = true;
+					} else {
+						var num = Math.floor(Math.random() * sampling_rate) + 1;
+						do_request = ( 1 === num );
+					}
+
+					if ( do_request ) {
+
+						// Create XMLHttpRequest object and set variables
+						var xhr = ( window.XMLHttpRequest )
+						  ? new XMLHttpRequest()
+						  : new ActiveXObject( "Microsoft.XMLHTTP" ),
+						url = 'https://40daysforlife.com/wp-admin/admin-ajax.php',
+						params = 'action=update_views_ajax&token=e30a86d200&wpp_id=16257';
+						// Set request method and target URL
+						xhr.open( "POST", url, true );
+						// Set request header
+						xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
+						// Hook into onreadystatechange
+						xhr.onreadystatechange = function() {
+							if ( 4 === xhr.readyState && 200 === xhr.status ) {
+								if ( window.console && window.console.log ) {
+									window.console.log( xhr.responseText );
+								}
+							}
+						};
+						// Send request
+						xhr.send( params );
+
+					}
+
+				//]]></script>
+				<!-- End WordPress Popular Posts v3.3.3 -->
+				
+  <!--[if lt IE 9]>
+      <script type="text/javascript" src="https://40daysforlife.com/wp-content/themes/40daysforlife/assets/js/vendor/respond.min.js"></script>
+      <script type="text/javascript" src="https://40daysforlife.com/wp-content/themes/40daysforlife/assets/js/vendor/excanvas.min.js"></script>
+  <![endif]-->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51899503-1', '40daysforlife.com');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script></head>
+<body class="single single-post postid-16257 single-format-standard">
+
+  <!--[if lt IE 8]>
+    <div class="alert alert-warning">
+      You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.    </div>
+  <![endif]-->
+
+  <header class="banner navbar navbar-default navbar-static-top" role="banner">
+  <div class="header-container clearfix">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="menu-text">Menu</span>
+      </button>
+            <a class="navbar-brand" href="https://40daysforlife.com/"><img src="https://40daysforlife.com/media/logo2x.png" height="60" alt="logo" width="301"></a>
+    </div>
+    <div class="right-nav-container">
+      <nav class="collapse navbar-collapse" role="navigation">
+        <ul class="nav navbar-nav"><li class="menu-locations"><a href="https://40daysforlife.com/browse-campaigns/">Locations</a></li>
+<li class="dropdown menu-about"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="#">About <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-mission"><a href="https://40daysforlife.com/mission/">Mission</a></li>
+	<li class="menu-results"><a href="https://40daysforlife.com/results/">Results</a></li>
+	<li class="menu-team"><a href="https://40daysforlife.com/team/">Team</a></li>
+	<li class="menu-board"><a href="https://40daysforlife.com/board/">Board</a></li>
+	<li class="menu-endorsements"><a href="https://40daysforlife.com/endorsements/">Endorsements</a></li>
+	<li class="menu-faq"><a href="https://40daysforlife.com/faq/">FAQ</a></li>
+	<li class="menu-contact"><a href="https://40daysforlife.com/contact/">Contact</a></li>
+</ul>
+</li>
+<li class="dropdown menu-take-action"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="#">Take Action <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-devotionals"><a href="https://40daysforlife.com/devotionals/">Devotionals</a></li>
+	<li class="menu-how-to-start-a-campaign"><a href="https://40daysforlife.com/start-a-campaign/">How to start a campaign</a></li>
+</ul>
+</li>
+<li class="active dropdown menu-whats-new"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="https://40daysforlife.com/updates/">What&#8217;s new <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="active menu-blog"><a href="https://40daysforlife.com/updates/">Blog</a></li>
+	<li class="menu-podcasts"><a href="https://40daysforlife.com/category/podcast/">Podcasts</a></li>
+	<li class="menu-videos"><a href="https://40daysforlife.com/category/video/">Videos</a></li>
+</ul>
+</li>
+<li class="visible-xs menu-my-40-days-for-life"><a href="https://40daysforlife.com/dashboard/">My 40 Days for Life</a></li>
+<li class="visible-xs menu-login"><a title="Login" href="https://40daysforlife.com/login/">Login</a></li>
+<li class="visible-xs menu-sign-up"><a title="Sign up" href="https://40daysforlife.com/register/">Sign up</a></li>
+<li class="visible-xs"><a href="#" data-toggle="modal" data-target="#translate_modal"><i class="ss-icon ss-globe"></i> Translate</a></li><li><button class="search-trigger" data-toggle="collapse" data-target="#site_search"><i class="ss-icon ss-search"></i></button><li><a href="https://40daysforlife.com/donate/" class="button primary outline donate">Donate</a></li></ul>        <form id="site_search" class="collapse site-search light" method="get" action="https://40daysforlife.com/">
+          <span class="ss-search"></span>
+          <input type="text" placeholder="Search ..." value="" name="s" id="search_term">
+        </form>
+      </nav>
+    </div> <!-- .right-nav-container -->
+    <div class="top-right-stuff hidden-xs">
+        <div class="item-container translate-trigger">
+          <a href="#" data-toggle="modal" data-target="#translate_modal"><i class="ss-icon ss-globe"></i> Translate</a>
+        </div>
+        <div class="item-container login-register contains-forty-days-dropdown">
+                      <a href="https://40daysforlife.com/login?redirect_to=https%3A%2F%2F40daysforlife.com%2F2016%2F02%2F10%2Fabortion-centers-gone%2F%3Futm_campaign%3Dcoschedule%26utm_source%3Dtwitter%26utm_medium%3D40daysforlife" class="login-trigger login-button logged-out button secondary"><i class="ss-icon ss-user"></i>Log in</a>
+                  </div> <!-- .login-register -->
+      </div> <!-- .top-right-stuff -->
+  </div>
+</header>
+
+  <div class="wrap" role="document">
+    <div class="content">
+      <main class="main" role="main">
+        <section class="hero all-caps" style="background: url('https://40daysforlife.com/media/banner-mobile.jpg') no-repeat center center; background-size: cover;">
+  <div class="container vertically-center">
+    <div class="row">
+      <div class="col-xs-12 text-center">
+                              </div>
+    </div>
+  </div> <!-- .container -->
+</section><div class="container">
+  <div class="row">
+    <div class="col-md-8">
+              <article class="post-16257 post type-post status-publish format-standard has-post-thumbnail hentry category-40-days-for-life category-feb-mar-2016-campaign">
+          <header>
+            <h1 class="entry-title">DAY 1: CLOSED! Abortion centers out of business</h1>
+            <section class="entry-meta">
+	 <time class="published" datetime="2016-02-10T04:04:11+00:00">February 10, 2016</time>
+</section>
+          </header>
+                      <img width="750" height="422" src="https://40daysforlife.com/media/spring2015roswell4.png" class="attachment-single-featured size-single-featured wp-post-image" alt="spring2015roswell4">                    <div class="entry-content">
+                        <p>It all starts today! Prayer, fasting, and peaceful vigil are powerful &#8230; and needed now more than ever in our culture.</p>
+<p>Right now, there are babies scheduled to be aborted close to where you live &#8212; and your peaceful presence could be the difference. Find your nearest vigil here:</p>
+<p><a href="https://40daysforlife.com/browse-campaigns/" target="_blank">https://40daysforlife.com/browse-campaigns/</a></p>
+<p>Moms do turn around at the last moment. For the abortion industry, that means one thing &#8212; lost income.</p>
+<p>We start this 40 Days for Life campaign with good news &#8230; as we&#8217;re now aware of TWO more abortion facilities that have CLOSED their doors following 40 Days for Life campaigns!</p>
+<p>One was in Oklahoma City, Oklahoma and the other in Roswell, Georgia.</p>
+<p>Eight 40 Days for Life vigils were held outside the Oklahoma City center … and there were two in front of the Roswell facility.</p>
+<p>This now makes 66 locations &#8230; where people peacefully prayed outside during 40 Days for Life vigils … that have gone out of business.</p>
+<p>To God be the glory!</p>
+<p>As we praise God for these victories, ask yourself this question:</p>
+<p>&#8220;How can God use me to save lives where I live?&#8221;</p>
+<p>If you&#8217;ve never been to a 40 Days for Life vigil … you can <a href="https://40daysforlife.com/2016/01/19/episode-2-overcoming-fear/" target="_blank">overcome any natural fear</a> and serve as a peaceful sign of Christ&#8217;s hope &#8212; at the very place where the abortions actually happen.</p>
+<p>Pray about going out &#8230; and then find one of the <a href="https://40daysforlife.com/browse-campaigns/" target="_blank">273 locations</a> taking part in 40 Days for Life &#8212; starting TODAY &#8212; and continuing through March 20.</p>
+<p><a href="https://40daysforlife.com/media/fall2014okc1.png"><img class="alignright size-full wp-image-8757" src="https://40daysforlife.com/media/fall2014okc1.png" alt="fall2014okc1" width="750" height="300" /></a></p>
+<p>&nbsp;</p>
+          </div>
+          <footer>
+            <section class="author-information">
+              <div class="row">
+                                <div class="col-xs-4 col-sm-2">
+                  <img alt='' src='https://secure.gravatar.com/avatar/d9aae5b6a281d7e02f230319145a538b?s=90&#038;d=blank&#038;r=g' srcset='https://secure.gravatar.com/avatar/d9aae5b6a281d7e02f230319145a538b?s=180&amp;d=blank&amp;r=g 2x' class='avatar pull-left media-object avatar-90 photo' height='90' width='90'>                </div>
+                <div class="col-xs-8 col-sm-10">
+                  <p class="author-meta"><em>Written by</em><br>
+                  <span class="author-name">Shawn Carney</span>, <span class="author-title">President</span></p>
+                  <p>In addition to co-founding and directing the 40 Days for Life campaign, Shawn is a <a href="http://www.ambassadorspeakers.com/ACP/speakers.aspx?name=SHAWN%20CARNEY&amp;speaker=1220">popular speaker</a>, and co-author of the #1 Top-Rated Amazon Christian book: <a href="http://premierecollectibles.com/40-days-for-life-discover-what-god-has-done/"><em>40 Days for Life: Discover What God Has Done ... Imagine What He Can Do</em></a></p>
+                </div>
+              </div>
+            </section>
+            <section class="article-meta row">
+	<div class="col-xs-12"> 	
+	  	<div class="campaign-id">
+	  			    	<p><span class="meta-label">Campaign: </span></p>
+	  	</div>
+		<div class="category-id">
+						<p><span class="meta-label">Category: </span><a href="https://40daysforlife.com/category/40-days-for-life" title="40 Days for Life">40 Days for Life</a>, <a href="https://40daysforlife.com/category/feb-mar-2016-campaign" title="Feb-Mar 2016 campaign">Feb-Mar 2016 campaign</a> — <span class="ss-icon ss-book"></span></p>
+		</div>
+	</div>
+</section>          </footer>
+          
+<div id="disqus_thread">
+    </div>
+
+<script type="text/javascript">
+var disqus_url = 'https://40daysforlife.com/2016/02/10/abortion-centers-gone/';
+var disqus_identifier = '16257 https://40daysforlife.com/?p=16257';
+var disqus_container_id = 'disqus_thread';
+var disqus_shortname = '40daysforlife';
+var disqus_title = "DAY 1: CLOSED! Abortion centers out of business";
+var disqus_config_custom = window.disqus_config;
+var disqus_config = function () {
+    /*
+    All currently supported events:
+    onReady: fires when everything is ready,
+    onNewComment: fires when a new comment is posted,
+    onIdentify: fires when user is authenticated
+    */
+    
+    
+    this.language = '';
+        this.callbacks.onReady.push(function () {
+
+        // sync comments in the background so we don't block the page
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = '?cf_action=sync_comments&post_id=16257';
+
+        var firstScript = document.getElementsByTagName('script')[0];
+        firstScript.parentNode.insertBefore(script, firstScript);
+    });
+    
+    if (disqus_config_custom) {
+        disqus_config_custom.call(this);
+    }
+};
+
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+
+        </article>
+          </div>
+    <aside class="sidebar col-md-4">
+      <section class="widget fd_email_signup_widget-2 widget_fd_email_signup_widget"><div class="widget-inner"><h3>Get email updates!</h3><p>See what's new with 40 Days for Life in your town ... and around the world</p>    <a href="#" class="button secondary scroll-trigger"><i class="ss-icon ss-mail"></i> Subscribe</a>
+  
+  </div></section><section class="widget fd_sharing_widget-2 widget_fd_sharing_widget"><div class="widget-inner"><h3>Share This Article</h3>      <span class="sharing-title">Share</span>
+      <ul class="article-sharing-menu">
+        
+	  	  		<li><a onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600'); return false;"  href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2F40daysforlife.com%2F2016%2F02%2F10%2Fabortion-centers-gone%2F"><i class="ss-icon ss-facebook ss-social-circle"></i></a></li>
+	  		<li><a onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600'); return false;"  href="https://twitter.com/share?url=https%3A%2F%2F40daysforlife.com%2F2016%2F02%2F10%2Fabortion-centers-gone%2F&amp;via=40DaysForLife&amp;text=DAY+1%3A+CLOSED%21+Abortion+centers+out+of+business"><i class="ss-icon ss-twitter ss-social-circle"></i></a></li>
+	  		<li><a onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600'); return false;"  href="https://plus.google.com/share?url=https%3A%2F%2F40daysforlife.com%2F2016%2F02%2F10%2Fabortion-centers-gone%2F"><i class="ss-icon ss-googleplus ss-social-circle"></i></a></li>
+			<li><a onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600'); return false;"  href="//pinterest.com/pin/create/button/?url=https%3A%2F%2F40daysforlife.com%2F2016%2F02%2F10%2Fabortion-centers-gone%2F&amp;media=https://40daysforlife.com/media/spring2015roswell4.png&amp;description=DAY+1%3A+CLOSED%21+Abortion+centers+out+of+business" data-pin-config="none" data-do="buttonPin" ><i class="ss-icon ss-pinterest ss-social-circle"></i></a></li>
+			<li><a href="/cdn-cgi/l/email-protection#56692523343c3335226b153e33353d7639232276223e3f25763724223f353a3370373b266d3439322f6b153e33353d7639232276223e3f25763724223f353a336c76Xhttps://40daysforlife.com/2016/02/10/abortion-centers-gone/"><i class="ss-icon ss-mail ss-social-circle"></i></a></li>
+	  
+	      </ul>
+    </div></section><div id="rpwwt-recent-posts-widget-with-thumbnails-2" class="rpwwt-widget">
+	<section class="widget recent-posts-widget-with-thumbnails-2 recent-posts-widget-with-thumbnails"><div class="widget-inner">	<h3>Headquarters Updates</h3>	<ul>
+			<li><a href="https://40daysforlife.com/2016/02/17/planned-parenthood-out/"><img width="70" height="70" src="https://40daysforlife.com/media/spring2016lcclinic1-150x150.png" class="attachment-70x70 size-70x70" alt="spring2016lcclinic1" /><span class="rpwwt-post-title">DAY 8: Planned Parenthood out &#8230; pro-life center in</span></a><div class="rpwwt-post-date">February 17, 2016</div></li>
+			<li><a href="https://40daysforlife.com/2016/02/17/augusta-maine-2/"><img width="70" height="70" src="https://40daysforlife.com/media/spring2015augusta2-150x150.png" class="attachment-70x70 size-70x70" alt="spring2015augusta2" /><span class="rpwwt-post-title">Augusta, Maine</span></a><div class="rpwwt-post-date">February 17, 2016</div></li>
+			<li><a href="https://40daysforlife.com/2016/02/17/sacramento-california-3/"><img width="70" height="70" src="https://40daysforlife.com/media/spring2016sacramento1a-150x150.jpg" class="attachment-70x70 size-70x70" alt="spring2016sacramento1a" /><span class="rpwwt-post-title">Sacramento, California</span></a><div class="rpwwt-post-date">February 17, 2016</div></li>
+			<li><a href="https://40daysforlife.com/2016/02/16/day-7-patriotism-abortion-and-you/"><img width="70" height="70" src="https://40daysforlife.com/media/fall2014indianapolis3-150x150.png" class="attachment-70x70 size-70x70" alt="fall2014indianapolis3" /><span class="rpwwt-post-title">DAY 7: Patriotism, abortion and you</span></a><div class="rpwwt-post-date">February 16, 2016</div></li>
+			<li><a href="https://40daysforlife.com/2016/02/16/milwaukee-wisconsin-3/"><img width="70" height="70" src="https://40daysforlife.com/media/spring2016milwaukee1-150x150.png" class="attachment-70x70 size-70x70" alt="spring2016milwaukee1" /><span class="rpwwt-post-title">Milwaukee, Wisconsin</span></a><div class="rpwwt-post-date">February 16, 2016</div></li>
+		</ul>
+	</div></section></div><section class="widget text-8 widget_text"><div class="widget-inner"><h3>#1 Top-Rated Christian Book</h3>			<div class="textwidget"><a href="http://premierecollectibles.com/40-days-for-life-discover-what-god-has-done/" target="_blank"><img src="https://40daysforlife.com/media/book_widget5.jpg" width="299" height="595"></a></div>
+		</div></section><section class="widget text-7 widget_text"><div class="widget-inner"><h3>Popular Videos</h3>			<div class="textwidget"><a href="https://40daysforlife.com/2014/01/22/video-effective-pro-life-leadership/"><img src="https://40daysforlife.com/media/sfla_small2.jpg" width="299" height="168" alt=""/></a>
+
+<center><a href="https://40daysforlife.com/2014/01/22/video-effective-pro-life-leadership/">David Bereit teaches pro-life leadership to 2,500 college students</a></center>
+<br>
+<br>
+<a href="https://40daysforlife.com/2013/10/31/video-youth-help-save-lives/"><img src="https://40daysforlife.com/media/smhs_small.jpg" width="299" height="168" alt=""/></a>
+
+<center><a href="https://40daysforlife.com/2013/10/31/video-youth-help-save-lives/">High School students join 40 Days for Life to make a life-saving difference</a></center>
+<br>
+<br>
+<a href="https://40daysforlife.com/2013/07/02/video-40-days-life-heartbeat-international-conference/"><img src="https://40daysforlife.com/media/heartbeat_small2.jpg" width="299" height="168" alt=""/></a>
+
+<center><a href="https://40daysforlife.com/2013/07/02/video-40-days-life-heartbeat-international-conference/">40 Days for Life at international pregnancy center conference</a></center>
+<br>
+<br>
+<a href="https://40daysforlife.com/2011/09/01/video-planned-parenthood-manager-converts-clinic-closes/"><img src="https://40daysforlife.com/media/ramona.jpg" width="299" height="168" alt=""/></a>
+
+<center><a href="https://40daysforlife.com/2011/09/01/video-planned-parenthood-manager-converts-clinic-closes/">Planned Parenthood manager converts, clinic closes</a></center>
+</div>
+		</div></section><section class="widget categories-2 widget_categories"><div class="widget-inner"><h3>Categories</h3>		<ul>
+	<li class="cat-item cat-item-33"><a href="https://40daysforlife.com/category/40-days-for-life/" >40 Days for Life</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="https://40daysforlife.com/category/audio/" >Audio</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="https://40daysforlife.com/category/devotionals/" >Devotionals</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="https://40daysforlife.com/category/2014-first-campaign/" >Feb-Apr 2014 campaign</a>
+</li>
+	<li class="cat-item cat-item-53"><a href="https://40daysforlife.com/category/2015-first-campaign/" >Feb-Mar 2015 campaign</a>
+</li>
+	<li class="cat-item cat-item-56"><a href="https://40daysforlife.com/category/feb-mar-2016-campaign/" >Feb-Mar 2016 campaign</a>
+</li>
+	<li class="cat-item cat-item-55"><a href="https://40daysforlife.com/category/podcast/" >Podcast</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="https://40daysforlife.com/category/2014-second-campaign/" >Sept-Nov 2014 campaign</a>
+</li>
+	<li class="cat-item cat-item-54"><a href="https://40daysforlife.com/category/2015-second-campaign/" >Sept-Nov 2015 campaign</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://40daysforlife.com/category/uncategorized/" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-35"><a href="https://40daysforlife.com/category/video/" >Video</a>
+</li>
+		</ul>
+</div></section>    </aside>
+  </div>
+</div>
+      </main><!-- /.main -->
+    </div><!-- /.content -->
+  </div><!-- /.wrap -->
+
+  <footer class="content-info" role="contentinfo">
+	<div class="container">
+	  	<div class="row logo-container">
+	    	<div class="col-sm-4"> 
+	    		<hr class="light hidden-xs">   
+	    	</div>
+	    	<div class="col-sm-4">
+	    		<img src="https://40daysforlife.com/media/logo_light2x.png" class="footer-logo" alt="40 Days Logo" height="142" width="712">
+	    	</div>
+	    	<div class="col-sm-4"> 
+	      		<hr class="light half hidden-xs hidden-sm">
+	      					  			<p class="social-icons text-center">
+			  						  											<a href="https://www.facebook.com/40daysforlife" target="_blank" class="ss-icon ss-facebook ss-social-circle"></a>
+									  											<a href="https://twitter.com/40daysforlife" target="_blank" class="ss-icon ss-twitter ss-social-circle"></a>
+									  											<a href="http://www.youtube.com/user/dbereit" target="_blank" class="ss-icon ss-youtube ss-social-circle"></a>
+												</p>
+					    	</div>
+		</div>
+	  	<div class="row">
+	  		<div class="col-xs-12">
+	  			<h2 class="text-center">Get Email Updates</h2>
+	  		</div>
+	  	</div>
+  		<div class="row horizontal-email-signup">
+            <div class="col-xs-12">
+                	<div class="gform_wrapper">
+	<script src="https://yh125.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=259679be6afbfaaf91dc94152cdfa11d" type="text/javascript"></script>
+	<form accept-charset="UTF-8" action="https://yh125.infusionsoft.com/app/form/process/1146de050bad457c48622f9b904f44ba" class="infusion-form" method="POST" name="Request information" onsubmit="var form = document.forms[0];
+var resolution = document.createElement('input');
+resolution.setAttribute('id', 'screenResolution');
+resolution.setAttribute('type', 'hidden');
+resolution.setAttribute('name', 'screenResolution');
+var resolutionString = screen.width + 'x' + screen.height;
+resolution.setAttribute('value', resolutionString);
+form.appendChild(resolution);
+var pluginString = '';
+if (window.ActiveXObject) {
+    var activeXNames = {'AcroPDF.PDF':'Adobe Reader',
+        'ShockwaveFlash.ShockwaveFlash':'Flash',
+        'QuickTime.QuickTime':'Quick Time',
+        'SWCtl':'Shockwave',
+        'WMPLayer.OCX':'Windows Media Player',
+        'AgControl.AgControl':'Silverlight'};
+    var plugin = null;
+    for (var activeKey in activeXNames) {
+        try {
+            plugin = null;
+            plugin = new ActiveXObject(activeKey);
+        } catch (e) {
+            // do nothing, the plugin is not installed
+        }
+        pluginString += activeXNames[activeKey] + ',';
+    }
+    var realPlayerNames = ['rmockx.RealPlayer G2 Control',
+        'rmocx.RealPlayer G2 Control.1',
+        'RealPlayer.RealPlayer(tm) ActiveX Control (32-bit)',
+        'RealVideo.RealVideo(tm) ActiveX Control (32-bit)',
+        'RealPlayer'];
+    for (var index = 0; index &lt; realPlayerNames.length; index++) {
+        try {
+            plugin = new ActiveXObject(realPlayerNames[index]);
+        } catch (e) {
+            continue;
+        }
+        if (plugin) {
+            break;
+        }
+    }
+    if (plugin) {
+        pluginString += 'RealPlayer,';
+    }
+} else {
+    for (var i = 0; i &lt; navigator.plugins.length; i++) {
+        pluginString += navigator.plugins[i].name + ',';
+    }
+}
+pluginString = pluginString.substring(0, pluginString.lastIndexOf(','));
+var plugins = document.createElement('input');
+plugins.setAttribute('id', 'pluginList');
+plugins.setAttribute('type', 'hidden');
+plugins.setAttribute('name', 'pluginList');
+plugins.setAttribute('value', pluginString);
+form.appendChild(plugins);
+var java = navigator.javaEnabled();
+var javaEnabled = document.createElement('input');
+javaEnabled.setAttribute('id', 'javaEnabled');
+javaEnabled.setAttribute('type', 'hidden');
+javaEnabled.setAttribute('name', 'javaEnabled');
+javaEnabled.setAttribute('value', java);
+form.appendChild(javaEnabled);">
+<input name="inf_form_xid" type="hidden" value="1146de050bad457c48622f9b904f44ba" /><input name="inf_form_name" type="hidden" value="Request information" /><input name="infusionsoft_version" type="hidden" value="1.46.0.37" />
+		<div class="text" id="webformErrors" name="errorContent">
+		</div>
+		<div class="gform_body">
+			<ul class="gform_fields">
+					
+				<li class="gfield field_sublabel_below field_description_below">
+					<label class="gfield_label" for="inf_field_FirstName">First Name *</label>
+					<div class="ginput_container">
+						<input class="infusion-field-input-container" id="inf_field_FirstName" name="inf_field_FirstName" type="text"
+													/>
+					</div>
+				</li>
+				<li class="gfield field_sublabel_below field_description_below">
+					<label class="gfield_label" for="inf_field_LastName">Last Name *</label>
+					<div class="ginput_container">
+						<input class="infusion-field-input-container" id="inf_field_LastName" name="inf_field_LastName" type="text"
+													/>
+					</div>
+				</li>
+				<li class="gfield field_sublabel_below field_description_below">
+					<label class="gfield_label" for="inf_field_Email">Email *</label>
+					<div class="ginput_container">
+						<input class="infusion-field-input-container" id="inf_field_Email" name="inf_field_Email" type="text"
+													/>
+					</div>
+				</li>
+			</ul>
+		</div>
+		<div class="gform_footer top_label">
+			<button class="button primary" type="submit"><i class="ss-icon ss-mail"></i> Subscribe</button>
+		</div>
+	</form>
+</div>
+            </div>
+        </div>
+    </div>
+    <div class="as-featured-on">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 text-center">
+                    <h2>As Featured On</h2>
+                </div>
+            </div>
+            <div class="row row-centered">
+                                                    <div class="col-sm-1 col-centered">
+                        <img src="https://40daysforlife.com/media/fox.gif">
+                    </div>
+                                    <div class="col-sm-1 col-centered">
+                        <img src="https://40daysforlife.com/media/cnn.gif">
+                    </div>
+                                    <div class="col-sm-1 col-centered">
+                        <img src="https://40daysforlife.com/media/abc.gif">
+                    </div>
+                                    <div class="col-sm-1 col-centered">
+                        <img src="https://40daysforlife.com/media/nytimes.gif">
+                    </div>
+                                    <div class="col-sm-1 col-centered">
+                        <img src="https://40daysforlife.com/media/cbs.gif">
+                    </div>
+                                    <div class="col-sm-1 col-centered">
+                        <img src="https://40daysforlife.com/media/npr.gif">
+                    </div>
+                                    <div class="col-sm-1 col-centered">
+                        <img src="https://40daysforlife.com/media/nbc.gif">
+                    </div>
+                                    <div class="col-sm-1 col-centered">
+                        <img src="https://40daysforlife.com/media/hbo.gif">
+                    </div>
+                                    <div class="col-sm-1 col-centered">
+                        <img src="https://40daysforlife.com/media/bbc.gif">
+                    </div>
+                                    <div class="col-sm-1 col-centered">
+                        <img src="https://40daysforlife.com/media/ap.gif">
+                    </div>
+                                    <div class="col-sm-1 col-centered">
+                        <img src="https://40daysforlife.com/media/washpost.gif">
+                    </div>
+                                    <div class="col-sm-1 col-centered">
+                        <img src="https://40daysforlife.com/media/usatoday1.gif">
+                    </div>
+                            </div>
+        </div>
+    </div>
+</footer>
+<footer class="copyright">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <p>&copy; 2016 40 Days for Life. All rights reserved.</p>
+                <nav class="misc-links">
+                    <ul id="menu-secondary-footer-menu" class="menu"><li class="menu-login"><a href="https://40daysforlife.com/login/">Login</a></li>
+<li class="menu-privacy-policy"><a href="https://40daysforlife.com/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-donate"><a href="https://40daysforlife.com/donate/">Donate</a></li>
+</ul>                </nav>
+            </div>
+            <div class="col-lg-4 text-center">
+                <p>4112 East 29th Street, Bryan, TX 77802</p>
+            </div>
+            <div class="col-lg-4 text-center text-center">
+                <div class="row">
+                    <div class="col-lg-6 text-center">
+                        <p>888-LIFE-316        (888-543-3316)</p>
+                    </div>
+                    <div class="col-lg-6">
+                        <a href="/cdn-cgi/l/email-protection#9ff6f1f9f0dfabaffbfee6ecf9f0edf3f6f9fab1fcf0f2"><span class="__cf_email__" data-cfemail="5b32353d341b6f6b3f3a22283d342937323d3e75383436">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("data-cfhash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}t.parentNode.removeChild(t);}}catch(u){}}()/* ]]> */</script></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+        <script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = '40daysforlife';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); 
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+        <script type='text/javascript' defer="defer" src='https://40daysforlife.com/wp-includes/js/comment-reply.min.js?ver=4.4.2'></script>
+<script type='text/javascript' defer="defer" src='https://40daysforlife.com/wp-content/themes/40daysforlife/assets/js/vendor/modernizr-2.8.1.min.js?ver=2.8.1'></script>
+<script type='text/javascript' defer="defer" src='https://40daysforlife.com/wp-content/themes/40daysforlife/assets/js/vendor/jquery.fitvids.min.js?ver=1.1'></script>
+<script type='text/javascript' defer="defer" src='https://40daysforlife.com/wp-content/themes/40daysforlife/assets/js/plugins/jquery.placeholder.min.js?ver=2.0.8'></script>
+<script type='text/javascript' defer="defer" src='https://40daysforlife.com/wp-content/themes/40daysforlife/assets/js/plugins/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript' defer="defer" src='https://40daysforlife.com/wp-content/themes/40daysforlife/assets/js/scripts.min.js?ver=21653022a1cceefb6473333b9c88dae2'></script>
+<script type='text/javascript' defer="defer" src='https://40daysforlife.com/wp-includes/js/wp-embed.min.js?ver=4.4.2'></script>
+<div class="modal fade revised" id="translate_modal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Translate 40daysforlife.com</h2>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body text-center">
+                <div class="translation-widget">
+                    <h4>Website Translation</h4>
+                    <div id="google_translate_element"></div>
+                    <script type="text/javascript">
+                                            function googleTranslateElementInit() {
+                                                new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT}, 'google_translate_element');
+                                            }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="button primary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f62e7759ab","applicationID":"3776248","transactionName":"YVEAYUdRWktRWkBQDlgbN0dcH11WVFxMFxFeRA==","queueTime":0,"applicationTime":653,"atts":"TRYDFw9LSUU=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script><script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
+</body>
+</html>
