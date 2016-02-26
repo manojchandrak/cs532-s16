@@ -1,0 +1,12 @@
+data <- read.csv("followingorder.csv", stringsAsFactors = F, header = FALSE, sep = ",")
+mydata = data[,2]
+meanOut <- paste("Mean: ", mean(mydata), collapse = "")
+medianOut <- paste("Median: ", median(mydata), collapse = "")
+sdOut <- paste("Std Dev: ", sd(mydata), collapse = "")
+write(meanOut, stdout())
+write(medianOut, stdout())
+write(sdOut, stdout())
+pos <- (mydata == 89)
+ barplot(mydata, main="Friends of Friends on Twitter", xlab="Friends sorted in increasing order of their friends", ylab="Number of Friends ",ylim=c(0,1000))
+ text(x=match(c(89), mydata)+12, y=850, labels="Manoj_chandra11", col='red')
+ arrows(x0=match(c(89), mydata)+12, y0=800, x1=match(c(89), mydata)+12, y1=105, length=0.1, lwd=2.5, col='red')

@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{a1}
+Dr.Nelson's powerpoint slides:.
+
+\newblock http://phonedude.github.io/cs532-s16/
+
+\bibitem{a2}
+Minidom API.
+
+\newblock https://docs.python.org/2/library/xml.dom.minidom.html.
+
+\bibitem{a3}
+Getting the follower's data using Tweepy:.
+
+\newblock http://stackoverflow.com/questions/17455107/the-best-way-to-get-a-list-of-followers-in-python-with-tweepy.
+
+\bibitem{a4}
+Getting the friends' friend's count in Twitter:.
+
+\newblock http://stackoverflow.com/questions/32322519/tweepy-iterating-over-tweepy-cursorapi-friends-items.
+
+\end{thebibliography}
