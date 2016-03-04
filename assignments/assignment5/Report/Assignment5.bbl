@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{pdf}
+igraph api.
+\newblock
+  \url{https://www.cs.rhul.ac.uk/home/tamas/development/igraph/tutorial/tutorial.html}.
+
+\bibitem{resources}
+installation.
+\newblock \url {http://cairographics.org/pycairo}.
+
+\bibitem{p}
+Lecture slides.
+\newblock
+  \url{http://www-personal.umich.edu/~ladamic/courses/networks/si614w06/ppt/lecture18.ppt}.
+
+\bibitem{igraph}
+Paper-an information flow model for conflict and fission in small groups.
+\newblock \url{ http://aris.ss.uci.edu/~lin/76.pdf}.
+
+\end{thebibliography}
