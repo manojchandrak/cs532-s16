@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{Layouts}
+For Graph layouts.
+\newblock
+  \url{https://github.com/mbostock/d3/wiki/Force-Layout}.
+
+\bibitem{resources}
+For converting to directed graph.
+\newblock \url {http://www.coppelia.io/2014/07/an-a-to-z-of-extra-features-for-the-d3-force-layout/}.
+
+\bibitem{resources}
+To extract gender data.
+\newblock
+  \url{https://genderize.io/}.
+
+
+\end{thebibliography}
