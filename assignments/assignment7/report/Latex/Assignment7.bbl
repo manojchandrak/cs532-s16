@@ -1,0 +1,11 @@
+\begin{thebibliography}{1}
+
+\bibitem{Layouts}
+Movie Lens dataset \url{http://grouplens.org/datasets/movielens/100k/},
+
+\bibitem{pdf}
+Programming Collective Intelligence  \url {http://forum.myquant.cn},
+
+\bibitem{Python file}
+Recommendations.py  \url{https://github.com/arthur-e/Programming-Collective-Intelligence/blob/master/chapter2/recommendations.py}
+\end{thebibliography}

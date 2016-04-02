@@ -1,0 +1,23 @@
+\BOOKMARK [1][-]{section.1}{Question 1: }{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Approach}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Code Listing}{section.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.2.1}{substitute.py to generate favorite and least favorite movies }{subsection.1.2}% 4
+\BOOKMARK [2][-]{subsection.1.3}{Generated output on shell}{section.1}% 5
+\BOOKMARK [1][-]{section.2}{Question 2: }{}% 6
+\BOOKMARK [2][-]{subsection.2.1}{Approach}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.2}{Code Listing}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.2.1}{correlation.py}{subsection.2.2}% 9
+\BOOKMARK [2][-]{subsection.2.3}{Output}{section.2}% 10
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Response showing most and least correlated users to my substitute }{subsection.2.3}% 11
+\BOOKMARK [1][-]{section.3}{Question 3: }{}% 12
+\BOOKMARK [2][-]{subsection.3.1}{Approach}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.2}{Code Listing}{section.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.2.1}{recsub.py}{subsection.3.2}% 15
+\BOOKMARK [2][-]{subsection.3.3}{Output}{section.3}% 16
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Top movies along with their ratings}{subsection.3.3}% 17
+\BOOKMARK [1][-]{section.4}{Question 4: }{}% 18
+\BOOKMARK [2][-]{subsection.4.1}{Approach}{section.4}% 19
+\BOOKMARK [2][-]{subsection.4.2}{Code Listing}{section.4}% 20
+\BOOKMARK [3][-]{subsubsection.4.2.1}{myfav.py}{subsection.4.2}% 21
+\BOOKMARK [2][-]{subsection.4.3}{Output}{section.4}% 22
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Response showing Pearson's Coefficient along with correlated movies for Shawshank Redemption and A Smile like yours }{subsection.4.3}% 23
