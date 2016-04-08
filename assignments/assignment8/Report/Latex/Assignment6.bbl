@@ -1,0 +1,12 @@
+\begin{thebibliography}{1}
+
+\bibitem{Layouts}
+Feed Parser  \url{https://github.com/Unode/python-feedparser/tree/master/feedparser},
+
+\bibitem{pdf}
+Finding TFIDF value  \url {http://en.wikipedia.org/wiki/Tfidf},
+
+\bibitem{Python }
+Python for beginners \url{http://www.pythonforbeginners.com/feedparser/using-feedparser-in-
+python}
+\end{thebibliography}
