@@ -1,0 +1,314 @@
+
+sirius:~/wsprograms/a9/q2/sports> python feedfilter.py
+----- Begin automatic classification -----
+Title:     Have to improve my landings, says Dipa Karmakar
+Day after winning Rio Olympics berth and first international gold, Dipa Karmakar talks about the road ahead.
+Predicted:  cricket
+Enter actual category: Olympics
+Enter string classifier: Rio
+fisherprob:  0.083
+Title:     Sports federations concerned about venues for Rio Games 2016
+Two top International Olympic Committee officials will be dispatched to Rio for frequent visits to monitor final preparations for Brazil's first games.
+Predicted:  cricket
+Enter actual category: Olympics
+Enter string classifier: Brazil
+fisherprob:  0.25
+Title:     IPL 2016 preview: Struggling MI face RCB challenge at Wankhede Stadium
+Mumbai Indians are on a losing streak while Bangalore have won one and lost one out of the two matches so far.
+Predicted:  cricket
+Enter actual category: cricket
+Enter string classifier: ipl
+fisherprob:  0.955
+Title:     KKR put KXIP back in their place â bottom
+Gautam Gambhirâs team notch up their third win in four matches after an emphatic performance against a listless Punjab in Mohali.
+Predicted:  cricket
+Enter actual category: cricket
+Enter string classifier: KKR
+fisherprob:  0.5
+Title:     We have to win, we need to win, says Louis Van Gaal
+Despite a stuttering campaign Manchester United are still in the hunt for top-four finish and a chance to qualify for next season's Champions League.
+Predicted:  football
+Enter actual category: football
+Enter string classifier: Manchester
+fisherprob:  0.833
+sirius:~/wsprograms/a9/q2/sports> python feedfilter.py
+----- Begin automatic classification -----
+Title:     PSG silent over Jose Mourinho reports
+PSG issued a terse "no comment" following reports in England that they had approached Jose Mourinho to become their new manager.
+Predicted:  football
+Enter actual category: football
+Enter string classifier: PSG
+fisherprob:  0.5
+Title:     PM Modi lauds Dipa Karmakar for her determination
+22-year-old Dipa Karmakar garnered 52.698 points in the Olympics qualifying event to book a berth for artistic gymnastics in the Rio Games.
+Predicted:  football
+Enter actual category: football
+Enter string classifier: event
+fisherprob:  0.5
+
+Title:     Pablo Zabaleta casts doubt over Manchester City future
+Two knee injuries have disrupted Pablo Zabaleta's season and have limited him to 20 appearances in all competitions this season.
+Predicted:  football
+Enter actual category: football
+Enter string classifier: season
+fisherprob:  0.5
+Title:     From what Iâve heardâ¦ Antonio Conteâs disciplined, says Cesc Fabregas
+Chelsea are 10th in the Premier League following a hugely disappointing campaign.
+Predicted:  football
+Enter actual category: football
+Enter string classifier: Chelsea
+fisherprob:  0.5
+
+Title:     PCB disappointed after West Indies refuse to tour Pakistan in 2016
+West Indies board had conveyed that their players still had security concerns over playing in Pakistan.
+Predicted:  cricket
+Enter actual category: cricket
+Enter string classifier: Pakistan
+fisherprob:  0.75
+Title:     South Africa players against day-night Tests, âfeel disadvantagedâ
+Cricket Australia announced last year that they wanted one of the three home Tests against South Africa to be a day-night match.
+Predicted:  cricket
+Enter actual category: cricket
+Enter string classifier: Tests
+fisherprob:  0.5
+Title:     Spurs hit Stoke City for a four, cut Leicester Cityâs lead
+Leicester City remain favourites with 73 points but Tottenham's fourth victory in five games means the title race is back on the boil.
+Predicted:  football
+Enter actual category: football
+Enter string classifier: Leicester
+fisherprob:  0.875
+Title:     Novak Djokovic, Serena Williams wins Laureus World Sportsman and Sportswoman of the Year awards
+Novak Djokovic walked away with the award after clinching three Grand Slams â Australian, Wimbledon and US Open â last year.
+Predicted:  football
+Enter actual category: tennis
+Enter string classifier: Wimbeldon
+fisherprob:  0.5
+Title:     Formula One allows Pirelli more track days to test tyres for 2017
+Pirelli won a tender for 2017-19 contract but that has yet to be signed off with FIA pending agreement on testing schedules.
+Predicted:  cricket
+Enter actual category: others
+Enter string classifier: Formula
+fisherprob:  0.25
+Title:     After win in Monte Carlo, Rafael Nadal turns sights to Barcelona
+Rafael Nadal has a bye in the first round and will face either Marcel Granollers or Daniel Munoz de la Nava in his opening match.
+Predicted:  cricket
+Enter actual category: tennis
+Enter string classifier: Monte
+fisherprob:  0.5
+Title:     At Rio Olympics, India plans to promote âMake in Indiaâ initiative
+A committee of secretaries from multiple ministries met discussed the possibility of setting up a Hospitality House.
+Predicted:  olympics
+Enter actual category: olympics
+Enter string classifier: Rio
+fisherprob:  0.87
+Title:     IPL 2016, KXIP vs KKR: KXIP seek home comfort against KKR
+Kings XI Punjab will like to continue their winning form at home ground when they host KKR on Tuesday in Mohali.
+Predicted:  cricket
+Enter actual category: cricket
+Enter string classifier: cricket
+fisherprob:  0.833
+Title:     One-state, one-vote in BCCI will lead to internal politics, BCA tells Supreme Court
+Maharashtra and Gujarat which have four and three cricket associations would be left with only one permanent member each in BCCI.
+Predicted:  cricket
+Enter actual category: cricket
+Enter string classifier: BCCI
+fisherprob:  0.9
+Title:     Bengaluru FC retain I-League title with one game to play
+Eugenson Lyngdoh and Seminlen Doungel scored for Bengaluru as Ashley Westwood's side took three points to clinch their second I-League title.
+Predicted:  football
+Enter actual category: football
+Enter string classifier: FC
+fisherprob:  1.0
+Title:     Rafael Nadal is âKing of Clayâ once again with Monte Carlo title
+Rafael Nadal ended his four-year wait for ninth Monte Carlo title by defeating Gael Monfils 7-5 5-7 6-0.
+Predicted:  football
+Enter actual category: tennis
+Enter string classifier: Rafael
+fisherprob:  0.25
+Title:     Leaving Afghanistanâs coach job costs Inzamam-ul-Haq rupees 4 lakhs
+Inzamam will select other members of his selection committee and also advised the board to include captain and coach in selection process.
+Predicted:  cricket
+Enter actual category: cricket
+Enter string classifier: Inzamam
+fisherprob:  0.75
+Title:     Leicester City, minus Jamie Vardy, salvage 2-2 draw with West Ham United
+By avoiding a first loss in two months, Leicester City extended its lead to eight points ahead of Tottenham Hotspurs.
+Predicted:  football
+Enter actual category: football
+Enter string classifier: United
+fisherprob:  0.666
+Title:     Jurgen Klopp makes 10 changes as Liverpool beat Bournemouth
+Jurgen Klopp made 10 changes from the team that beat Dortmund and watched his experimental side overcome Bournemouth 2-1.
+Predicted:  footballcricket
+Enter actual category: football 
+Enter string classifier: Liverpool
+fisherprob:  0.833
+Title:     IPL 2016, RCB vs DD: DD beat RCB by 7 wickets
+Quinton de Kock's 108, helped by Karun Nair's 54*, help Delhi chase 193 against Bangalore, give them seven-wicket win.
+Predicted:  cricket
+Enter actual category: cricket
+Enter string classifier: chase
+fisherprob:  0.5
+Title:     Rajkot police orders inquiry into celebratory firing at Ravindra Jadejaâs wedding
+In videos available on social media, a man is seen firing from his revolver as Ravindra Jadeja mounts on horseback.
+Predicted:  cricket
+Enter actual category: cricket
+Enter string classifier: Jadeja
+fisherprob:  0.5
+Title:     Roy Hodgson plays down Andy Carrollâs Euro 2016 chances
+Andy Carroll scored a Premier League hat-trick against Arsenal, prompting calls for Roy Hodgson to include him in the squad for Euro 2016.
+Predicted:  football
+Enter actual category: football
+Enter string classifier: Arsenal
+fisherprob:  0.5
+Title:     Sebastian Vettel hits out at âtorpedoâ Daniil Kvyat
+The two Ferraris came together at the first corner in the race after German Vettel was forced to go wide by Kvyat. 
+Predicted:  others
+Enter actual category: others
+Enter string classifier: Vettel
+fisherprob:  0.5
+
+Title:     Dipa Karmakar vaults into history books after qualifying for Rio Olympic Games 2016
+Dipa Karmakar clinches Rio 2016 berth, becomes the first Indian woman gymnast to qualify for the Olympic games.
+Predicted:  others
+Enter actual category: Olympics
+Enter string classifier: Olympic
+fisherprob:  0.25
+Title:     IPL 2016, SRH vs MI: In David vs Goliath, Warner the difference
+David Warner strikes an unbeaten 90 off 59 balls to lead SRH to an emphatic seven-wicket win over defending champions MI.
+Predicted:  cricket
+Enter actual category: cricket
+Enter string classifier: SRH
+fisherprob:  0.75
+Title:     Charged with âimproper conductâ, Jamie Vardy could face extended ban
+Leicester City have been charged with failing to control their players after West Ham were awarded a penalty.
+Predicted:  football
+Enter actual category: footbal
+Enter string classifier: penalty
+fisherprob:  0.5
+Title:     Newcastle United hoping Manchester City will be distracted by Champions League semi-final
+Manchester City through to the last four of the Champions League for the first time host Real Madrid in the first leg on April 26.
+Predicted:  football
+Enter actual category: football
+Enter string classifier: Newcastle
+fisherprob:  0.5
+Title:     Barcelonaâs slump baffles Carles Puyol, Luis Figo, Raul
+There are a lot of dynamics to football. Losing always hurts but they will come back stronger and that will be interesting said Carles Puyol
+Predicted:  football
+Enter actual category: football
+Enter string classifier: Barcelona
+fisherprob:  0.204
+Title:     Azlan Shah Cup: A few takeaways for India menâs hockey team
+India hockey team's performance over the last one week at the Azlan Shah Cup gave a glimpse into the team's preparation for Rio 2016.
+Predicted:  cricket
+Enter actual category: hockey
+Enter string classifier: hockey
+fisherprob:  0.25
+Title:     IPL 2016, KXIP vs RPS: All is well that Glenn Maxwell ends
+Rising Pune Supergiants have now lost two consecutive matches after having won their first game in Mumbai.
+Predicted:  cricket
+Enter actual category: cricket
+Enter string classifier: Maxwell
+fisherprob:  0.5
+Title:     IPL 2016: Who said what about DDâs win over RCB
+Quinton de Kock's 108, helped by Karun Nair's 54*, help Delhi Daredevils chase 192 against Bangalore.
+Predicted:  cricket
+Enter actual category: cricket
+Enter string classifier: RCB
+fisherprob:  0.833
+Title:     IPL 2016, RCB vs DD: Quintal de Kock gives Delhi Daredevils heavyweight scalp
+Quinton de Kock smacks the first hundred of IPL 9 as Delhi Daredevils shock Royal Challengers Bangalore by chasing down 192.
+Predicted:  cricket
+Enter actual category: cricket
+Enter string classifier: cricket
+fisherprob:  0.833
+
+
+Title:     Former German FA boss cleared over Qatar âcancerâ comment
+Theo Zwanziger has said he was not referring to the Qatari people with his comment.
+Predicted:  football
+Enter actual category: football
+Enter string classifier: FA
+fisherprob:  1.0
+Title:     Formula 1 should stop tinkering with rules: Mercedes boss Toto Wolff
+Formula One teams have until the end of April to agree 2017 rule changes by majority vote and meetings are scheduled in the coming days.
+Predicted:  cricket
+Enter actual category: others
+Enter string classifier: Mercedes
+fisherprob:  0.5
+Title:     Vincent Kompany is working 100 percent with normality, says Manuel Pellegrini
+Manuel Pellegrini said he had no fears about the influential Kompany being able to handle a heavy workload.
+Predicted:  football
+Enter actual category: football
+Enter string classifier: Manuel
+fisherprob:  0.75
+Title:     The performance Tottenham Hotspur showed was perfect, says Mauricio Pochettino
+Tottenham Hotspur host 14th-placed West Bromwich Albion at White Hart Lane on Monday,
+Predicted:  football
+Enter actual category: football
+Enter string classifier: Hotspur
+fisherprob:  0.75
+Title:     SRH vs MI, IPL 2016: David Warner played a great innings, says Tim Southee
+Tim Southee hoped it is a matter of time before Mumbai Indians came up with good performances in the ongoing IPL.
+Predicted:  cricket
+Enter actual category: cricket
+Enter string classifier: IPL
+fisherprob:  0.955
+Title:     Next objective is a medal in Rio Olympics 2016, says Dipa Karmakar
+On Sunday, Dipa Karmakar became the first Indian woman gymnast to qualify for the Olympics and the first overall since 1964.
+Predicted:  others
+Enter actual category: olympics
+Enter string classifier: Rio
+fisherprob:  0.083
+Title:     IPL 2016, SRH vs MI: Barinder Sran fined for inappropriate conduct
+Barinder Sran's conduct was deemed contrary to the spirit of the game by the match referee.
+Predicted:  cricket
+Enter actual category: cricket
+Enter string classifier: MI
+fisherprob:  1.0
+Title:     Ex-CBI chief moves High Court over BCCI-ICC revenue model
+A PIL has been filed by former CBI Director R K Raghavan to restrain BCCI from effecting the deal with ICC that would hurt the board's revenue.
+Predicted:  cricket
+Enter actual category: cricket
+Enter string classifier: ICC
+fisherprob:  0.75
+Title:     Suresh Raina, wife Priyanka expecting first child
+Suresh Raina posted an image on his official Instagram account expressing his excitement over new addition to the Raina clan. 
+Predicted:  cricket
+Enter actual category: cricket
+Enter string classifier: Raina
+fisherprob:  0.75
+Title:     Engine problems force Lewis Hamilton to back of China grid
+Lewis Hamilton will start Chinese Grand Prix from last place on the grid as his team-mate Nico Rosberg took pole.
+Predicted:  football
+Enter actual category: other
+Enter string classifier: grid
+fisherprob:  0.5
+Title:     Positive start by Indian shooters in Rio World Cup
+In the first qualification round of the men's trap event, former world champion and world number one Manavjit missed two targets out of 50.
+Predicted:  others
+Enter actual category: others
+Enter string classifier: shooters
+fisherprob:  0.5
+Title:     Harbhajan Singh can take his villa whenever he wants, says Amrapali CMD
+Harbhajan Singh's villa is allotted. He can take it whenever he wants.I stand by my gift, said Anil Sharma, Amarpali CMD.
+Predicted:  football
+Enter actual category: cricket
+Enter string classifier: Singh
+fisherprob:  0.125
+Title:     IPL 2016: KKR beat SRH by eight wicket, Gambhir smashes unbeaten 90
+Gautam Gambhir smashes unbeaten 90 to power KKR to eight-wicket win over SRH in Hyderabad on Saturday.
+Predicted:  cricket
+Enter actual category: cricket
+Enter string classifier: KKR
+fisherprob:  0.5
+Title:     Mitchell Starc ties the knot with girlfriend Alyssa Healy
+Mitchell Starc and Alyssa Healy tied knot and the auspicious occasion was attended by members of Australia's men's and women's teams. 
+Predicted:  cricket
+Enter actual category: cricket
+Enter string classifier: Starc
+fisherprob:  0.5
+
+
+
+

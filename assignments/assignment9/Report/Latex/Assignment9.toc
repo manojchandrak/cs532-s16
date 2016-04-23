@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Question 1: }{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Approach}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Input blog data }{3}{subsection.1.2}
+\contentsline {section}{\numberline {2}Question 2: }{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Approach}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Tables}{4}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Manual Classification}{4}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Last 50 items using fisher classifier }{6}{subsubsection.2.2.2}
+\contentsline {subsection}{\numberline {2.3}Code Listing}{9}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}feedfilter.py}{9}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}prog.py}{12}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}docclass.py}{12}{subsubsection.2.3.3}
+\contentsline {section}{\numberline {3}Question 3: }{16}{section.3}
+\contentsline {subsection}{\numberline {3.1}Approach}{16}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Tables}{16}{subsection.3.2}
