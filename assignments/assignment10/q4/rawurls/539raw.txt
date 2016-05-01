@@ -1,0 +1,863 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Puff Daddy To Host Gala Fundraiser At Playboy Mansion | HipHopDX</title>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYGVVFQCxAHUVBXAgEG"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta name="robots" content="index,follow,noodp">
+<meta itemprop="url" content="http://hiphopdx.com/news/id.37440/title.puff-daddy-to-host-gala-fundraiser-at-playboy-mansion">
+<link rel="canonical" href="http://hiphopdx.com/news/id.37440/title.puff-daddy-to-host-gala-fundraiser-at-playboy-mansion">
+<meta data-platform-id="10beta4"/>
+<meta data-post-id="231325">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="author" content="HipHopDX"/>
+<meta name="description" content="Puff Daddy to host gala fundraiser at Playboy Mansion. The post-Grammy event is to benefit the non-profit CITY."/>
+<meta name="keywords" content=""/>
+<meta name="DC.creator" content="HipHopDX - http://hiphopdx.com"/>
+<meta name="DC.subject" content="Puff Daddy to host gala fundraiser at Playboy Mansion. The post-Grammy event is to benefit the non-profit CITY."/>
+<meta name="DC.date.issued" content="2016-02-10">
+<link rel="canonical" href="http://hiphopdx.com/news/id.37440/title.puff-daddy-to-host-gala-fundraiser-at-playboy-mansion">
+<meta name="tweetmeme-title" content="Puff Daddy To Host Gala Fundraiser At Playboy Mansion"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:title" content="Puff Daddy To Host Gala Fundraiser At Playboy Mansion"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://hiphopdx.com/news/id.37440/title.puff-daddy-to-host-gala-fundraiser-at-playboy-mansion"/>
+<meta property="og:image" content="http://s3.amazonaws.com/hiphopdx-production/2015/06/Puff-Daddy_06-25-2015.jpg"/>
+<meta property="og:site_name" content="HipHopDX"/>
+<meta property="article:publisher" content="https://www.facebook.com/HipHopDX"/>
+<meta property="og:description" content="The post-Grammy event is to benefit CITY, a non-profit that seeks to provide mentorship for young entrepreneurs."/>
+<meta property="fb:app_id" content="295838568104"/>
+<meta name="twitter:widgets:csp" content="on">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@hiphopdx">
+<meta name="twitter:title" content="Puff Daddy To Host Gala Fundraiser At Playboy Mansion">
+<meta name="twitter:description" content="The post-Grammy event is to benefit CITY, a non-profit that seeks to provide mentorship for young entrepreneurs.">
+<meta name="twitter:image" content="https://s3.amazonaws.com/hiphopdx-production/2015/06/Puff-Daddy_06-25-2015-150x150.jpg"/>
+ 
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic|Oswald:300,400,700" type="text/css"/>
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css">
+<link rel="stylesheet" href="/_/c/storm.css?111320151" type="text/css"/>
+ 
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="icon" sizes="192x192" href="/touch-icon-192x192.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png">
+ 
+<script type='text/javascript'>
+                   cmnunt_site    = 'cmn_hiphopdx';
+                   cmnunt_silo    = 's_mus';
+           cmnunt_subsilo = '';
+           cmnunt_tier    = 't2,to,internal';
+           cmnunt_zone    = 'news_post';
+           cmnunt_kw      = '';
+           cmnunt_exclude = 'ugc';
+           cmn_tb_theme   = 'dark';
+        </script>
+<script type='text/javascript' src='http://cdn.complexmedianetwork.com/js/cmnUNT.js'></script>
+<script type="text/javascript" src="//native.sharethrough.com/assets/sfp.js"></script>
+<script type="text/javascript">
+      googletag.cmd.push(function() {
+         googletag.defineSlot('/1010625/DXSharethrough_Midfeed', [5, 5], 'div-gpt-ad-1433624734530-0').addService(googletag.pubads()).setTargeting('strnativekey','fdb12fff');
+        googletag.defineSlot('/1010625/DXMobile_Bottomfeed', [5, 5], 'div-gpt-ad-1433624734530-1').addService(googletag.pubads()).setTargeting('strnativekey','51b5dae2');
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });
+    </script>
+<script type="text/javascript">
+          googletag.cmd.push(function() {
+            googletag.defineSlot('/1010625/DXMobile_Belowarticle', [5, 5], 'div-gpt-ad-1433624734530-2').addService(googletag.pubads()).setTargeting('strnativekey','78b5c8ee');
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+
+        });
+    </script>
+ 
+<script type="text/javascript">
+      var _qevents = _qevents || [];
+      (function() {
+       var elem = document.createElement('script');
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge")
+                   + ".quantserve.com/quant.js";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem, scpt);
+      })();
+    </script>
+ 
+<script type="text/javascript">
+        var _sf_async_config = _sf_async_config || {};
+        _sf_async_config.uid = 10593;
+        _sf_async_config.domain = 'hiphopdx.com';
+        _sf_async_config.path = window.location.pathname;
+        _sf_startpt = (new Date()).getTime();
+    </script>
+<script src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+<script>
+
+    var dataLayer = window.dataLayer = window.dataLayer || [];
+
+    dataLayer.push({
+        'datePublished': 'February 10th 2016',
+        'yearPublished': '2016',
+        'monthPublished': 'February',
+        'author': 'Victoria Hernandez',
+        'siteCategory': 'news'
+                    });
+
+    </script>
+ 
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript">GS_googleAddAdSenseService("ca-pub-1598907917871807");GS_googleEnableAllServices();</script>
+<script type="text/javascript">
+        GA_googleAddSlot("ca-pub-1598907917871807", "hhdx_hp_top_398x55");
+        GA_googleAddSlot("ca-pub-1598907917871807", "DX_Nav_Skin_961x200");
+    </script>
+<script type="text/javascript">GA_googleFetchAds();</script>
+</head>
+<body>
+ 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NHF7DV" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-NHF7DV');</script>
+<!--[if lt IE 7]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+<div id="cmn_wrap">
+<div class="container">
+<div class="ad header-ad">
+<div class="ad-inner">
+ 
+<div id="cmn_ad_tag_head" class="fw_hiphopdx">
+<script type="text/javascript">cmnUNT('3x3', tile_num++);</script>
+</div>
+ 
+</div>
+</div> 
+<header class="header site-chrome">
+<div class="top">
+<a class="nav-link mobile">
+<div style="width: 25px; height: 30px;">
+<div id="nav-icon">
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+</div>
+</div>
+</a>
+<div class="logo">
+<a href="/">
+<img src="/_/i/logo-white.svg" alt="HipHopDX"/ class="mobile">
+                <img src="/_/i/logo-black.svg" alt="HipHopDX" class="desktop"/>
+            </a>
+        </div>
+
+        <div class="social-counts desktop">
+
+            <a href="https://www.facebook.com/HipHopDX">
+                <i class="fa fa-facebook"></i>1.4M            </a>
+
+            <a href="https://twitter.com/hiphopdx">
+                <i class="fa fa-twitter"></i>436.6K            </a>
+
+            <a href="https://instagram.com/hiphopdx">
+                <i class="fa fa-instagram"></i>78.5K            </a>
+
+            <a href="https://www.youtube.com/user/HipHopDX">
+                <i class="fa fa-youtube-play"></i>47.2K            </a>
+        </div>
+
+                <span id="header-avatar" data-user-name="" data-user-email=""></span>
+        
+        <div id="search-trigger" class="search-trigger desktop">
+            <i class="fa fa-search"></i>
+        </div>
+
+    </div>
+
+    <form method="GET" action="/search" class="search-box">
+        <input class="search-field" name="q" type="text" placeholder="Search" />
+        <button class="search-submit" type="submit" name="submit">
+            <i class="fa fa-search"></i>
+        </button>
+    </form>
+
+    <nav class="main-nav-mobile">
+        <ul>
+            <li class="">
+                <a href="/"><i class="fa fa-home"></i><span class="label">Home</span></a>
+            </li>
+            <li class="active">
+                <a href="/news"><i class="fa fa-newspaper-o"></i><span class="label">News</span></a>
+            </li>
+            <li class="">
+                <a href="/singles"><i class="fa fa-headphones"></i><span class="label">Singles</span></a>
+            </li>
+            <li class="">
+                <a href="/videos"><i class="fa fa-youtube-play"></i><span class="label">Videos</span></a>
+            </li>
+            <li class="">
+                <a href="/reviews" class="review-icon"><i class="dfa dfa-review-record"></i><span class="label">Reviews</span></a>
+            </li>
+            <li class="">
+                <a href="/interviews"><i class="fa fa-quote-left"></i><span class="label">Interviews</span></a>
+            </li>
+            <li class="">
+                <a href="/editorials"><i class="fa fa-book"></i><span class="label">Editorials</span></a>
+            </li>
+            <li class="">
+                <a href="/release-dates?year=2016&amp;month=05"><i class="fa fa-calendar"></i><span class="label">Releases</span></a>
+            </li>
+            <li class="">
+                <a href="/tickets"><i class="fa fa-ticket"></i><span class="label">Tickets</span></a>
+            </li>
+            <li class="">
+                <a href="http://hiphopdx.hingeto.com/"><i class="dfa dfa-shop"></i><span class="label">Shop</span></a>
+            </li>
+        </ul>
+    </nav>
+
+    <nav class="main-nav-desktop desktop">
+    <ul>
+    <li class=""><a href="/">Home</a></li>
+    <li class="active"><a href="/news/">News</a></li>
+    <li class=""><a href="/singles/">Singles</a></li>
+    <li class=""><a href="/videos/">Videos</a></li>
+    <li class=""><a href="/reviews/">Reviews</a></li>
+    <li class=""><a href="/interviews/">Interviews</a></li>
+    <li class=""><a href="/editorials/">Editorials</a></li>
+    <li class=""><a href="/release-dates/">Releases</a></li>
+    <li class=""><a href="/tickets/">Tickets</a></li>
+    <li class=""><a href="http://hiphopdx.hingeto.com/">Shop</a></li>
+    </ul>
+    </nav>
+
+    
+    <nav class="secondary-nav mobile">
+        <ul>
+            <li class="active"><a href="/news">News</a></li>
+            <li class=""><a href="/singles">Singles</a></li>
+            <li class=""><a href="/videos">Videos</a></li>
+            <li class=""><a href="/editorials">Editorials</a></li>
+            <li class="nav-link-mobile"><a href="#">More</a></li>
+        </ul>
+    </nav>
+</header>
+
+
+<div class="content  with-sidebars">
+
+
+
+<div id="article-header" class="article-header" data-post-id="231325" data-item-type="" data-item-rateable="" data-item-image="https://s3.amazonaws.com/hiphopdx-production/2015/06/Puff-Daddy_06-25-2015-150x150.jpg" data-item-title="Puff Daddy To Host Gala Fundraiser At Playboy Mansion">
+
+    <div class="title">
+            <h1>Puff Daddy To Host Gala Fundraiser At Playboy Mansion</h1>
+    </div>
+
+    <div class="date" itemprop="datePublished" content="2016-02-10 23:30:57">
+        February 10, 2016 | 4:30 PM    </div>
+
+
+    <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <meta itemprop="name" content="Victoria Hernandez" />
+        by <a href="/author/victoria.hernandez">Victoria Hernandez</a>
+    </div>
+
+        <div class="image large">
+
+
+        <img src="https://s3.amazonaws.com/hiphopdx-production/2015/06/Puff-Daddy_06-25-2015.jpg" alt="Puff Daddy To Host Gala Fundraiser At Playboy Mansion" class="large" />
+
+        
+            </div>
+
+    
+
+
+    
+    
+    <div class="sharing image-square">
+        <div class="facebook share-item" data-link="http://www.facebook.com/dialog/feed?app_id=295838568104&picture=https://s3.amazonaws.com/hiphopdx-production/2015/06/Puff-Daddy_06-25-2015-150x150.jpg&display=page&link=http://hiphopdx.com/news/id.37440/title.puff-daddy-to-host-gala-fundraiser-at-playboy-mansion&redirect_uri=http://hiphopdx.com/news/id.37440/title.puff-daddy-to-host-gala-fundraiser-at-playboy-mansion&name=Puff%20Daddy%20To%20Host%20Gala%20Fundraiser%20At%20Playboy%20Mansion&caption=The+post-Grammy+event+is+to+benefit+CITY%2C+a+non-profit+that+seeks+to+provide+mentorship+for+young+entrepreneurs.">
+            <i class="fa fa-facebook" data-link="http://www.facebook.com/dialog/feed?app_id=295838568104&picture=https://s3.amazonaws.com/hiphopdx-production/2015/06/Puff-Daddy_06-25-2015-150x150.jpg&display=page&link=http://hiphopdx.com/news/id.37440/title.puff-daddy-to-host-gala-fundraiser-at-playboy-mansion&redirect_uri=http://hiphopdx.com/news/id.37440/title.puff-daddy-to-host-gala-fundraiser-at-playboy-mansion&name=Puff%20Daddy%20To%20Host%20Gala%20Fundraiser%20At%20Playboy%20Mansion&caption=The+post-Grammy+event+is+to+benefit+CITY%2C+a+non-profit+that+seeks+to+provide+mentorship+for+young+entrepreneurs."></i>
+        </div>
+        <div class="twitter share-item" data-link="https://twitter.com/intent/tweet?text=Puff%20Daddy%20To%20Host%20Gala%20Fundraiser%20At%20Playboy%20Mansion -- http://hiphopdx.com/news/id.37440/title.puff-daddy-to-host-gala-fundraiser-at-playboy-mansion&via=hiphopdx">
+            <i class="fa fa-twitter" data-link="https://twitter.com/intent/tweet?text=Puff%20Daddy%20To%20Host%20Gala%20Fundraiser%20At%20Playboy%20Mansion -- http://hiphopdx.com/news/id.37440/title.puff-daddy-to-host-gala-fundraiser-at-playboy-mansion&via=hiphopdx"></i>
+        </div>
+        <div class="email share-item" data-link="mailto:?subject=Puff%20Daddy%20To%20Host%20Gala%20Fundraiser%20At%20Playboy%20Mansion&body=http://hiphopdx.com/news/id.37440/title.puff-daddy-to-host-gala-fundraiser-at-playboy-mansion">
+            <i class="fa fa-envelope-o" data-link="mailto:?subject=Puff%20Daddy%20To%20Host%20Gala%20Fundraiser%20At%20Playboy%20Mansion&body=http://hiphopdx.com/news/id.37440/title.puff-daddy-to-host-gala-fundraiser-at-playboy-mansion"></i>
+        </div>
+        <div class="community">
+
+        <a href="#comment-widget">
+            <i class="fa fa-comment"></i>
+            <b class="comment-count comments-5" id="comment-num-top">5</b>
+        </a>
+
+        </div>
+    </div>
+</div>
+
+<div class="article-body article-news">
+    <!-- <h3 class="summary" itemprop="description">The post-Grammy event is to benefit CITY, a non-profit that seeks to provide mentorship for young entrepreneurs.</h3> -->
+    <div class="body-copy " itemprop="articleBody">
+        <p>Puff Daddy is to host a gala fundraiser at Playboy Mansion, <a href="http://www.billboard.com/articles/news/grammys/6874006/diddy-grammys-city-gala-fundraiser-playboy-mansion" target="_blank">Billboard</a> reports. The event will benefit CITY, short for Community's Inspiring Today's Youth, a non-profit based in Los Angeles that seeks to provide mentorship for young entrepreneurs. The gala is scheduled to be after the Grammys Monday (February 15).</p>
+<p>Virgin Group founder Sir Richie Branson is to be the keynote speaker at the CITY gala fundraiser hosted by <a href="http://hiphopdx.com/news/id.36153/title.puff-daddy-on-producing-i-am-the-best">Puff Daddy</a>. On the bill to perform are Kool of Kool &amp; the Gang, Chanel West Coast and DJ Paul Oakenfold.</p>
+<p>Other events scheduled to be a part of the gala include a celebrity poker tournament and a fashion show from Hemp Blue.</p>
+<p>"We are honored to have such an incredible roster of distinguished guests joining us to raise visibility for these important charitable causes," executive producer Ryan Long says in a statement.</p>
+<p>Astronaut Buzz Aldrin and businessman and philanthropist John Paul DeJoria are to receive the Lifetime Achievement Award and Legacy of Inspiration Award, respectively.</p>
+<p>For additional coverage of Puff Daddy, who is to host a gala fundraiser at Playboy Mansion, watch the following DX Daily:</p>
+<p><iframe src="https://www.youtube.com/embed/HoMlOfb0G1w" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+    </div>
+</div>
+
+
+<div class="newsletter-signup">
+
+    <h3>Sign up for <span>The Daily Drop</span></h3>
+
+    <div id="newsletter-signup-form">
+        <div id="newsletter-form">
+        </div>
+    </div>
+
+    <div id="newsletter-success" class="card thanks">
+        <p>Thank you, thank you, thank you,<br/>you're far too kind!</p>
+    </div>
+
+    <div class="loading" id="newsletter-loading">
+        <i class="fa fa-refresh fa-spin"></i> Joining Newsletter
+    </div>
+</div>
+
+<script type="text/javascript">cmnUNT('100x100', tile_num++);</script>
+
+
+<div class="desktop">
+<div class="box-list small desktop">
+
+    <div class="section-header item-header desktop">
+    <div class="title">
+        <h2>More <span>news</span> on HipHopDX <span></span></h2>
+    </div>
+</div>
+
+                <div class="story">
+            <a href="/news/id.38603/title.ice-cube-examines-n-w-as-status-as-a-political-rap-group">
+                <img data-layzr="https://s3.amazonaws.com/hiphopdx-production/2016/04/Screen-Shot-2016-04-30-at-5.29.38-PM-e1462062656716-150x150.png" itemprop="thumbnailUrl" src="/_/i/blank150.png"/>
+            </a>
+            <p class="title">
+                <a href="/news/id.38603/title.ice-cube-examines-n-w-as-status-as-a-political-rap-group">
+                Ice Cube Examines N.W.A's Status As A Political Rap Group                </a>
+            </p>
+        </div><!-- /.story -->
+                <div class="story">
+            <a href="/news/id.38602/title.chris-gotti-to-meek-mill-make-a-hit-record">
+                <img data-layzr="https://s3.amazonaws.com/hiphopdx-production/2016/04/Chris-Gotti-e1462051462745-150x150.jpg" itemprop="thumbnailUrl" src="/_/i/blank150.png"/>
+            </a>
+            <p class="title">
+                <a href="/news/id.38602/title.chris-gotti-to-meek-mill-make-a-hit-record">
+                Chris Gotti To Meek Mill: "Make A Hit Record"                </a>
+            </p>
+        </div><!-- /.story -->
+                <div class="story">
+            <a href="/news/id.38601/title.bobby-shmurda-still-in-jail-suing-nypd-for-false-arrest">
+                <img data-layzr="https://s3.amazonaws.com/hiphopdx-production/2016/04/bobby-shmurda-court-150x150.png" itemprop="thumbnailUrl" src="/_/i/blank150.png"/>
+            </a>
+            <p class="title">
+                <a href="/news/id.38601/title.bobby-shmurda-still-in-jail-suing-nypd-for-false-arrest">
+                Bobby Shmurda Still In Jail; Suing NYPD For False Arrest                </a>
+            </p>
+        </div><!-- /.story -->
+                <div class="story">
+            <a href="/news/id.38600/title.drake-views-sold-630000-copies-in-one-night">
+                <img data-layzr="https://s3.amazonaws.com/hiphopdx-production/2016/04/160430-Drake-150x150.jpg" itemprop="thumbnailUrl" src="/_/i/blank150.png"/>
+            </a>
+            <p class="title">
+                <a href="/news/id.38600/title.drake-views-sold-630000-copies-in-one-night">
+                Drake: “VIEWS” Sold 630,000 Copies In One Night                </a>
+            </p>
+        </div><!-- /.story -->
+                <div class="story">
+            <a href="/news/id.38599/title.hip-hop-single-sales-prince-desiigner-drake">
+                <img data-layzr="https://s3.amazonaws.com/hiphopdx-production/2016/04/160430-Prince-150x150.jpg" itemprop="thumbnailUrl" src="/_/i/blank150.png"/>
+            </a>
+            <p class="title">
+                <a href="/news/id.38599/title.hip-hop-single-sales-prince-desiigner-drake">
+                Hip Hop Single Sales: Prince, Desiigner & Drake                </a>
+            </p>
+        </div><!-- /.story -->
+        </div>
+</div>
+
+<div class="mobile">
+<div class="related-items">
+    <h3 class="trending-news-title">More <span>news</span> on HipHopDX</h3>
+
+    <div class="trending-news-wrapper">
+                            <div class="trending">
+            <div class="trending-image">
+                <a href="/news/id.38603/title.ice-cube-examines-n-w-as-status-as-a-political-rap-group">
+                    <img src="https://s3.amazonaws.com/hiphopdx-production/2016/04/Screen-Shot-2016-04-30-at-5.29.38-PM-e1462062656716-150x150.png" />
+                </a>
+            </div>
+            <div class="trending-title">
+                <a href="/news/id.38603/title.ice-cube-examines-n-w-as-status-as-a-political-rap-group">Ice Cube Examines N.W.A's Status As A Political Rap Group</a>
+            </div>
+            <div class="trending-excerpt">
+                <p>
+                                    </p>
+            </div>
+
+            <div class="meta-container">
+                <div class="inner-meta">
+                <a href="/news/id.38603/title.ice-cube-examines-n-w-as-status-as-a-political-rap-group" class="listing-meta">
+                    <i class="fa fa-clock-o"></i> <time datetime="2016-05-01 00:00:47">42 minutes ago</time>
+                </a>
+                                </div>
+            </div>
+        </div>
+                    <div id='div-gpt-ad-1433624734530-2' ></div>
+            <script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1433624734530-2'); });</script>
+                
+
+                        <div class="trending">
+            <div class="trending-image">
+                <a href="/news/id.38602/title.chris-gotti-to-meek-mill-make-a-hit-record">
+                    <img src="https://s3.amazonaws.com/hiphopdx-production/2016/04/Chris-Gotti-e1462051462745-150x150.jpg" />
+                </a>
+            </div>
+            <div class="trending-title">
+                <a href="/news/id.38602/title.chris-gotti-to-meek-mill-make-a-hit-record">Chris Gotti To Meek Mill: "Make A Hit Record"</a>
+            </div>
+            <div class="trending-excerpt">
+                <p>
+                    The record producer also details Ja Rule's growth as an artist.                </p>
+            </div>
+
+            <div class="meta-container">
+                <div class="inner-meta">
+                <a href="/news/id.38602/title.chris-gotti-to-meek-mill-make-a-hit-record" class="listing-meta">
+                    <i class="fa fa-clock-o"></i> <time datetime="2016-04-30 22:00:30">2 hours ago</time>
+                </a>
+                                    <span class="seperator">&nbsp; | &nbsp;</span>
+                                        <a href="/news/id.38602/title.chris-gotti-to-meek-mill-make-a-hit-record" class="listing-meta">
+                         <i class="fa fa-comment-o "></i><span class="comment-number" itemprop="commentCount">2</span>
+                    </a>
+                                                    </div>
+            </div>
+        </div>
+                
+
+                        <div class="trending">
+            <div class="trending-image">
+                <a href="/news/id.38601/title.bobby-shmurda-still-in-jail-suing-nypd-for-false-arrest">
+                    <img src="https://s3.amazonaws.com/hiphopdx-production/2016/04/bobby-shmurda-court-150x150.png" />
+                </a>
+            </div>
+            <div class="trending-title">
+                <a href="/news/id.38601/title.bobby-shmurda-still-in-jail-suing-nypd-for-false-arrest">Bobby Shmurda Still In Jail; Suing NYPD For False Arrest</a>
+            </div>
+            <div class="trending-excerpt">
+                <p>
+                    Free Shmurda shirts are still in season, unfortunately for Bobby.                 </p>
+            </div>
+
+            <div class="meta-container">
+                <div class="inner-meta">
+                <a href="/news/id.38601/title.bobby-shmurda-still-in-jail-suing-nypd-for-false-arrest" class="listing-meta">
+                    <i class="fa fa-clock-o"></i> <time datetime="2016-04-30 20:42:12">4 hours ago</time>
+                </a>
+                                    <span class="seperator">&nbsp; | &nbsp;</span>
+                                        <a href="/news/id.38601/title.bobby-shmurda-still-in-jail-suing-nypd-for-false-arrest" class="listing-meta">
+                         <i class="fa fa-comment-o "></i><span class="comment-number" itemprop="commentCount">8</span>
+                    </a>
+                                                    </div>
+            </div>
+        </div>
+                
+
+                
+
+                
+
+        
+        </div><!-- trending-news-wrapper -->
+</div><!-- dx-trending-news -->
+</div>
+
+</div> <!-- content -->
+
+<div class="sidebars desktop">
+<div class="side-ad">
+    <script type="text/javascript">cmnUNT('300x250,300x600', tile_num++);</script>
+</div><!-- /.side-ad -->
+<div class="sidebar-box clearfix">
+
+    <h4>Breaking News</h4>
+
+        <ul class="list">
+                        <li><a href="/news/id.38603/title.ice-cube-examines-n-w-as-status-as-a-political-rap-group">Ice Cube Examines N.W.A's Status As A Political Rap Group</a></li>
+                    <li><a href="/news/id.38602/title.chris-gotti-to-meek-mill-make-a-hit-record">Chris Gotti To Meek Mill: "Make A Hit Record"</a></li>
+                    <li><a href="/news/id.38601/title.bobby-shmurda-still-in-jail-suing-nypd-for-false-arrest">Bobby Shmurda Still In Jail; Suing NYPD For False Arrest</a></li>
+                    <li><a href="/news/id.38600/title.drake-views-sold-630000-copies-in-one-night">Drake: “VIEWS” Sold 630,000 Copies In One Night</a></li>
+                    <li><a href="/news/id.38599/title.hip-hop-single-sales-prince-desiigner-drake">Hip Hop Single Sales: Prince, Desiigner & Drake</a></li>
+                </ul>
+    
+
+</div>
+<div class="sidebar-box clearfix">
+
+    <h4>Most Discussed News</h4>
+
+    
+
+<div class='sidebar-tabs tabs' id="most_discussed">
+
+    <ul class="explore-nav">
+            <li><a class="current" href="#" id="select_most_discussed_today" data-list-id="most_discussed" data-section-id="today">Today</a></li>
+            <li><a  href="#" id="select_most_discussed_week" data-list-id="most_discussed" data-section-id="week">This Week</a></li>
+            <li><a  href="#" id="select_most_discussed_month" data-list-id="most_discussed" data-section-id="month">This Month</a></li>
+        </ul>
+
+                        <ol id="most_discussed_today" class="list discussion ">
+                            <li>
+                                        <span>25</span>
+                                        <a href="/news/id.38600/title.drake-views-sold-630000-copies-in-one-night">Drake: “VIEWS” Sold 630,000 Copies In One Night</a>
+                </li>
+                            <li>
+                                        <span>8</span>
+                                        <a href="/news/id.38601/title.bobby-shmurda-still-in-jail-suing-nypd-for-false-arrest">Bobby Shmurda Still In Jail; Suing NYPD For False Arrest</a>
+                </li>
+                            <li>
+                                        <span>6</span>
+                                        <a href="/news/id.38595/title.chance-the-rapper-to-appear-on-the-tonight-show-starring-jimmy-fallon">Chance The Rapper To Appear On "The Tonight Show Starring Jimmy Fallon”</a>
+                </li>
+                            <li>
+                                        <span>2</span>
+                                        <a href="/news/id.38594/title.hip-hop-week-in-review-birdman-rick-ross-rachel-roy">Hip Hop Week In Review: Birdman, Rick Ross & Rachel Roy</a>
+                </li>
+                            <li>
+                                        <span>2</span>
+                                        <a href="/news/id.38597/title.drake-throws-surprise-views-performance-during-toronto-raptors-halftime">Drake Throws Surprise Performance During Toronto Raptors Halftime</a>
+                </li>
+                            <li>
+                                        <span>2</span>
+                                        <a href="/news/id.38599/title.hip-hop-single-sales-prince-desiigner-drake">Hip Hop Single Sales: Prince, Desiigner & Drake</a>
+                </li>
+                            <li>
+                                        <span>2</span>
+                                        <a href="/news/id.38602/title.chris-gotti-to-meek-mill-make-a-hit-record">Chris Gotti To Meek Mill: "Make A Hit Record"</a>
+                </li>
+                            <li>
+                                        <span>2</span>
+                                        <a href="/news/id.38593/title.instagram-flexin-lil-wayne-is-sighted-with-rick-ross-and-mack-maine-at-beyonce-concert">Instagram Flexin’: Lil Wayne Is Sighted With Rick Ross And Mack Maine At Beyonce Concert</a>
+                </li>
+                            <li>
+                                        <span>1</span>
+                                        <a href="/news/id.38596/title.the-top-10-hip-hop-singles-videos-of-the-week-birdman-trinidad-james-tupac">The Top 10 Hip Hop Singles & Videos Of The Week: Birdman, Trinidad James & Tupac</a>
+                </li>
+                            <li>
+                                        <a href="/news/id.38598/title.beyonce-postpones-nashville-concert-stadium-disputes-possible-reason-for-delay">Beyonce Postpones Nashville Concert; Stadium Disputes Possible Reason For Delay</a>
+                </li>
+                        </ol>
+                                <ol id="most_discussed_week" class="list discussion hidden">
+                            <li>
+                                        <span>319</span>
+                                        <a href="/news/id.37927/title.drake-officially-confirms-views-from-the-6-release-date">Drake's "VIEWS" Now Available For Streaming & Purchase</a>
+                </li>
+                            <li>
+                                        <span>64</span>
+                                        <a href="/news/id.38490/title.birdman-offers-apology-to-the-breakfast-club">Birdman Offers Apology To "The Breakfast Club"</a>
+                </li>
+                            <li>
+                                        <span>52</span>
+                                        <a href="/news/id.38471/title.young-thug-defends-birdmans-honor-against-charlamagne-tha-god">Young Thug Retracts Threats Against Charlamagne Tha God</a>
+                </li>
+                            <li>
+                                        <span>51</span>
+                                        <a href="/news/id.38531/title.azealia-banks-goes-in-on-beyonce-lemonade-says-she-sold-her-soul">Azealia Banks Goes In On Beyonce & "Lemonade," Says She Sold Her Soul</a>
+                </li>
+                            <li>
+                                        <span>49</span>
+                                        <a href="/news/id.38517/title.secret-service-threatening-censorship-on-yg-after-fuck-donald-trump">Secret Service Threatening Censorship On YG After "Fuck Donald Trump"</a>
+                </li>
+                            <li>
+                                        <span>48</span>
+                                        <a href="/news/id.38536/title.iggy-azalea-screams-racism-over-beyonces-becky-lyric">Iggy Azalea Screams Racism Over Beyonce's "Becky" Lyric</a>
+                </li>
+                            <li>
+                                        <span>45</span>
+                                        <a href="/news/id.38489/title.beyonce-lemonade-album-stream-cover-art-tracklist">Beyonce's "LEMONADE" Album Stream, Cover Art, Tracklist & iTunes Purchase Link</a>
+                </li>
+                            <li>
+                                        <span>45</span>
+                                        <a href="/news/id.38592/title.khia-disses-beyonce-serena-williams-over-lemonade-video">Khia Disses Beyonce & Serena Williams Over "Lemonade" Video</a>
+                </li>
+                            <li>
+                                        <span>44</span>
+                                        <a href="/news/id.38587/title.krs-one-on-allegations-afrika-bambattaa-committed-sexual-abuse-i-dont-care">KRS-One On Allegations Afrika Bambaataa Committed Sexual Abuse: "I Don't Care"</a>
+                </li>
+                            <li>
+                                        <span>41</span>
+                                        <a href="/news/id.38579/title.hip-hop-reacts-to-drakes-views">Hip Hop Reacts To Drake's "VIEWS"</a>
+                </li>
+                        </ol>
+                        
+    <div class="clear"></div>
+</div>
+
+
+</div>
+</div>
+
+<div class="community">
+
+    
+        <div id="comment-widget" class="comments-widget">
+
+            <div class="heading">
+                <h2>
+                DX <span>COMMUNITY</span>
+                </h2>
+
+                <h4 class="comment-widget-title">
+                    <span id="comment-num-bottom" class="comment-num"></span>
+                </h4>
+            </div>
+
+            <div class="card form">
+                <section id="respond">
+                    <div class="loading">
+                        <i class="fa fa-refresh fa-spin"></i> Loading Comments
+                    </div>
+                </section>
+            </div>
+
+            <div class="comment-list">
+                <a name="comments"></a>
+                <div class="comment-feed" id="comment-feed">
+                </div>
+            </div>
+
+        </div>
+
+    
+</div>
+
+  <script>
+
+  (function() {
+
+    window.cToolbarInit = function() {
+
+      cToolbar.load({
+        mobileRightButton: 'youtube',
+        facebookUsername: 'hiphopdx',
+        facebookName: 'HiphopDX',
+        twitterHandle: 'hiphopdx',
+        twitterName: 'HipHopDX',
+        youtubeChannel: 'hiphopdx',
+        youtubeChannelName: 'HipHopDX',
+        desktopBackground: 'solid',
+        desktopSocialButtons: ["twitter","facebook"],
+        channel: '',
+        disableMobile: true
+      });
+
+    };
+
+  var ns = document.createElement('script');
+      ns.type = 'text/javascript';
+      ns.async = true;
+      ns.src = '//toolbar.complex.com/dist/ctoolbar.min.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ns, s);
+
+  })();
+
+  </script>
+
+  <!-- Chartbeat -->
+<script type="text/javascript">
+    var _sf_async_config = _sf_async_config || {};
+    // _sf_async_config.uid = 10593;
+    // _sf_async_config.domain = 'hiphopdx.com';
+    // _sf_async_config.path = window.location.pathname;
+    _sf_async_config.sections = 'news';
+    _sf_async_config.authors = 'Victoria Hernandez';
+
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+           'js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+
+<!-- Quantcast Tag Foot -->
+<script type="text/javascript">
+    _qevents.push( { qacct:"p-04JAhcp5WsteE"} );
+</script>
+<noscript>
+<div style="display: none;">
+    <img src="http://pixel.quantserve.com/pixel/p-04JAhcp5WsteE.gif" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+
+<!-- GetSatisfaction Script -->
+<script type="text/javascript" charset="utf-8">
+    var is_ssl = ("https:" == document.location.protocol);
+    var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
+    document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript" charset="utf-8">
+    var feedback_widget_options = {};
+    feedback_widget_options.display = "overlay";
+    feedback_widget_options.company = "hiphopdx";
+    feedback_widget_options.placement = "right";
+    feedback_widget_options.color = "#1b1b1b";
+    feedback_widget_options.style = "problem";
+    var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+</script>
+<!-- /GetSatisfaction Script -->
+
+<!-- ComScore Tag -->
+<script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "11349272" });
+    (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script>
+<noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&c2=11349272&cv=2.0&cj=1" />
+</noscript>
+<!-- /ComScore Tag -->
+
+
+    
+    <!-- Complex Toolbar | Begin Ad Tag -->
+    <script type="text/javascript">
+            cmnUNT('tover', tile_num++);
+    </script>
+    <!-- Complex Toolbar | End Ad Tag -->
+    
+                <footer class="footer site-chrome">
+
+                    <div class="legal">
+
+                        <span class="mobile">
+                                        <a href="/mobile?p=http://hiphopdx.com/news/id.37440/title.puff-daddy-to-host-gala-fundraiser-at-playboy-mansion">View on Mobile</a>
+                            </span>
+
+                        <div class="footer-logo">
+                            <img src="/_/i/logo-white.svg" alt="HipHopDX" title="HipHopDX" />
+                        </div>
+
+                        <div class="mobile">
+                            <ul class="social-links">
+                                <li><a href="https://www.facebook.com/HipHopDX"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://twitter.com/hiphopdx"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="https://instagram.com/hiphopdx"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="https://www.youtube.com/user/HipHopDX"><i class="fa fa-youtube-play"></i></a></li>
+                            </ul>
+                        </div>
+
+                        <span>Version 10beta4</span>
+                        <span>Copyright &copy; 2016 HipHopDX</span>
+                        <span>All Rights Reserved</span>
+
+                        <span class="desktop">
+                                        <a href="/mobile?p=http://hiphopdx.com/news/id.37440/title.puff-daddy-to-host-gala-fundraiser-at-playboy-mansion">View on Mobile</a>
+                            </span>
+                    </div>
+
+                    <ul class="desktop">
+                        <li class="title">Sections</li>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/news/">News</a></li>
+                        <li><a href="/singles/">Singles</a></li>
+                        <li><a href="/videos/">Videos</a></li>
+                        <li><a href="/reviews/">Reviews</a></li>
+                        <li><a href="/interviews/">Interviews</a></li>
+                        <li><a href="/editorials/">Editorials</a></li>
+                        <li><a href="/release-dates/">Releases</a></li>
+                        <li><a href="/tickets/">Tickets</a></li>
+                    </ul>
+
+                    <ul class="desktop">
+                        <li class="title">Connect</li>
+                        <li><a href="http://www.facebook.com/pages/HipHopDXcom/6217682005">Facebook</a></li>
+                        <li><a href="http://twitter.com/hiphopdx">Twitter</a></li>
+                        <li><a href="http://instagram.com/hiphopdx">Instagram</a></li>
+                        <li><a href="http://youtube.com/user/hiphopdx">YouTube</a></li>
+                        <li><a href="/rss/news.xml">RSS</a></li>
+                    </ul>
+
+                    <ul class="desktop">
+                        <li class="title">More Info</li>
+                        <li><a href="/behind-the-site/">Behind The Site</a></li>
+                        <li><a href="/staff/">Staff</a></li>
+                        <li><a href="/advertising/">Advertising</a></li>
+                        <li><a href="/contactus/">Contact Us</a></li>
+                        <li><a href="/tos/">Terms of Use</a></li>
+                        <li><a href="/privacy/">Privacy Policy</a></li>
+                    </ul>
+
+                    <ul class="desktop">
+                        <li class="title">Our Sites</li>
+                        <li><a href="http://cherimedia.com">Cheri Media</a></li>
+                        <li><a href="http://battlerap.com">Battle Rap</a></li>
+                        <li><a href="http://roughstock.com">Roughstock</a></li>
+                    </ul>
+
+                </footer><!-- footer -->
+
+            </div> <!-- cmn_wrap -->
+        </div> <!--  container -->
+
+        
+<!--
+        <script src="https://platform.instagram.com/en_US/embeds.js"></script>
+        <script>if ( typeof window.instgrm !== 'undefined' ) {
+            window.instgrm.Embeds.process();
+        }</script>
+-->
+
+        
+        
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/fluidvids.js/2.4.1/fluidvids.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/layzr.js/1.4.2/layzr.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/Swiper/3.0.7/js/swiper.min.js"></script>
+<script async type="text/javascript" src="//cdn.jsdelivr.net/audiojs/0.1/audio.min.js"></script>
+
+<script type="text/javascript" src="/_/j/main.js"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/mithril/0.2.0/mithril.min.js"></script>
+<script type="text/javascript" src="/_/j/community.js?111320151"></script>
+
+            <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fdf9ba9c57","applicationID":"7515501","transactionName":"YVZVbEUCDBVXUBEKW1gcYkpeTAsIUlYdTUReQw==","queueTime":0,"applicationTime":76,"atts":"TRFWGg0YHxs=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

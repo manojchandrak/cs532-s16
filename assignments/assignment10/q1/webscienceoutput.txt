@@ -1,0 +1,52 @@
+atria:~/wsprograms/a10/q1> python numpredict.py
+For Web Science blog and k=1
+Rod Shone       0.0248283154805
+atria:~/wsprograms/a10/q1> python numpredict.py
+For Web Science blog and k=2
+Rod Shone       0.0248283154805
+adrianoblog     0.0601947926141
+atria:~/wsprograms/a10/q1> python numpredict.py
+For Web Science blog and k=5
+Rod Shone       0.0248283154805
+adrianoblog     0.0601947926141
+INDIEohren.!    0.0609646307293
+IoTube     :)   0.063726921167
+MARISOL 0.0773923984209
+atria:~/wsprograms/a10/q1> python numpredict.py
+For Web Science blog and k=10
+Rod Shone       0.0248283154805
+adrianoblog     0.0601947926141
+INDIEohren.!    0.0609646307293
+IoTube     :)   0.063726921167
+MARISOL 0.0773923984209
+sweeping the kitchen    0.0837138528161
+If You Give a Girl a Camera...  0.0874223257725
+нн╞он╨н©н╧ нн©о
+он╧н╨н╝о оо
+           н© н╖оон╫н©  0.109439536637
+theindiefriend  0.111459097808
+"DANCING IN CIRCLES"    0.128160527359
+atria:~/wsprograms/a10/q1> python numpredict.py
+For Web Science blog and k=20
+Rod Shone       0.0248283154805
+adrianoblog     0.0601947926141
+INDIEohren.!    0.0609646307293
+IoTube     :)   0.063726921167
+MARISOL 0.0773923984209
+sweeping the kitchen    0.0837138528161
+If You Give a Girl a Camera...  0.0874223257725
+нн╞он╨н©н╧ нн©о
+он╧н╨н╝о оо
+           н© н╖оон╫н©  0.109439536637
+theindiefriend  0.111459097808
+"DANCING IN CIRCLES"    0.128160527359
+How to be an artist and still pass for normal   0.135218576611
+GLI Press       0.14290805507
+Azul Valentina  0.14693001748
+F-Measure       0.149696250775
+нннён нён╓н нн║н╘ннн    0.149696250775
+Boggle Me Thursday      0.150102315139
+Lo importante es que estes tц╨ bien     0.150707640184
+MR. BEAUTIFUL TRASH ART 0.151538277269
+What Am I Doing?        0.154256917386
+Spinitron Blog  0.155694593625

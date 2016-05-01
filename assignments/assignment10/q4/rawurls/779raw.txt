@@ -1,0 +1,886 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=1024" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="description" content="佐賀新聞社が配信する県内の行政・社会、事件・事故、経済・農業、スポーツ、街の話題に関するニュースです。" />
+<meta name="keywords" content="行政・社会,佐賀ニュース,佐賀,ニュース,新聞,報道,速報" />
+<!--facebook-->
+<meta property="fb:app_id" content="1087401864638241" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="東佐賀病院前　看護師２交代制中止へ座り込み｜佐賀新聞LiVE" />
+<meta property="og:url" content="http://www.saga-s.co.jp/news/saga/10101/277873" />
+<meta property="og:image" content="http://www.saga-s.co.jp/images/article/2016/02/11/SAG2016021199000028_id1_20160211090524.jpg" />
+<meta property="og:site_name" content="佐賀新聞電子版" />
+<meta property="og:description" content="三養基郡みやき町の国立病院機構東佐賀病院の看護師らが９日、長時間夜勤の中止などを求めて座り込みを実施した。延べ約１５０人が参加し、「安心安全の医療を確保しよう」「８時間労働守れ」とシュプレヒコールをあ" />
+<meta name="twitter:card" content="summary_large_image">
+<!--end-->
+<title>東佐賀病院前　看護師２交代制中止へ座り込み｜佐賀新聞LiVE</title>
+
+<link rel="canonical" href="http://www.saga-s.co.jp/news/saga/10101/277873">
+<link rel="alternate" media="only screen and (max-width: 768px)" href="http://www.saga-s.co.jp/sp/news/saga/10101/277873">
+
+<link rel="shortcut icon" type="image/x-icon" href="/common/img/favicon.ico" />
+<link href="http://www.saga-s.co.jp/common/css/common.css" rel="stylesheet" type="text/css" media="all" />
+<link href="http://www.saga-s.co.jp/common/css/layout.css" rel="stylesheet" type="text/css" media="all" />
+<link href="http://www.saga-s.co.jp/common/css/default.css" rel="stylesheet" type="text/css" id="jstyle" />
+<link href="http://www.saga-s.co.jp/common/css/style.css" rel="stylesheet" type="text/css" media="all" />
+<!--unique-->
+<link href="http://www.saga-s.co.jp/css/news/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="http://www.saga-s.co.jp/common/js/lib/lightbox/lightbox.css" rel="stylesheet" type="text/css" media="screen" />
+<!--end-->
+<!--<link href="http://www.saga-s.co.jp/common/css/print.css" rel="stylesheet" type="text/css" media="print" />-->
+<script type="text/javascript" src="http://www.saga-s.co.jp/common/js/jquery.js" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.saga-s.co.jp/common/js/jquery-ui.js" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.saga-s.co.jp/common/js/lib/jquery.ui.tabs.js" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.saga-s.co.jp/common/js/jquery.cookie.js" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.saga-s.co.jp/common/js/plugins.js" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.saga-s.co.jp/common/js/common.js" charset="UTF-8"></script>
+<script type="text/javascript" src="http://www.saga-s.co.jp/common/js/smt_redirect.js" charset="UTF-8"></script>
+<!--unique-->
+<script type="text/javascript" src="http://www.saga-s.co.jp/common/js/lib/lightbox/lightbox.js" charset="UTF-8"></script>
+<!--end-->
+</head>
+<body id="top"><div id="fb-root"></div>
+<script>    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.5";
+        fjs.parentNode.insertBefore(js, fjs);
+    } (document, 'script', 'facebook-jssdk'));</script> 
+
+<!-- //////////////////////////////////////////////// header start -->
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        var mydate = new Date();
+
+        var day = mydate.getDate();
+        var month = mydate.getMonth() +1;
+
+        var today = month + "月" + day + "日（月）";
+
+        $("#todayvalue").text(today);
+
+    });
+</script>
+
+<div id="header">
+
+<div id="header-biz">
+<div class="contents-wrap fBox">
+<ul id="header-util" class="fBox">
+<li><a href="https://hibino.saga-s.co.jp/" target="_blank">ひびのコミュニティ<img src="http://www.saga-s.co.jp/common/img/icons/win_blk.png" width="11" height="10" alt="新規ウインドウ" class="icons" style="opacity: 1;"></a>　｜</li>
+<li><a href="http://www.saga-s.co.jp/guide/">ご利用方法</a></li>
+<li><a href="https://bizconne.jp/member/user.html?newspaper_id=2">お客様管理メニュー</a></li>
+<li id="rss"><a href="http://www.saga-s.co.jp/rss/" class="icons-rss">RSS</a></li>
+<li id="mynews">
+<a href="http://www.saga-s.co.jp/mynews/select.html"><img src="http://www.saga-s.co.jp/common/img/btn_mynews_head.gif" width="150" height="35" alt="Myニュース"/></a></li></ul>
+<ul id="font-resize">
+<li id="small" onclick="jstyle('http://www.saga-s.co.jp/common/css/small.css')">小さくする</li>
+<li id="default" onclick="jstyle('http://www.saga-s.co.jp/common/css/default.css')">標準の大きさにする</li>
+<li id="large" onclick="jstyle('http://www.saga-s.co.jp/common/css/large.css')">大きくする</li>
+<!--//#font-resize --></ul>
+<!-- //.contents-wrap --></div>
+<!-- //#header-biz --></div>
+
+<div id="header-ad" class="fBox">
+<div class="fl"><a href="http://www.saga-s.co.jp/column/2016kyushueq/" onclick="ga('send', 'event', 'link', 'click', 'pc_top_left_2016kyushueq_link');"><img src="http://www.saga-s.co.jp/upload/NpMedia/947/media_file/jishin-info.jpg" width="236" height="90" alt="地震情報" /></a></div>
+<div id="div-gpt-ad-1368689037129-10" class="fr"><SCRIPT type=text/javascript>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1368689037129-10'); });</SCRIPT></div>
+<!-- //#header-ad --></div>
+
+<div id="header-in">
+<!-- <h1 id="logo"><a href="http://www.saga-s.co.jp/"><img src="http://www.saga-s.co.jp/common/img/logo.gif" width="176" height="50" alt="佐賀新聞LIVE" /></a></h1> -->
+<h1 id="logo"><a href="http://www.saga-s.co.jp/"><img src="http://www.saga-s.co.jp/upload/NpMedia/197/media_file/live_logo.png" width="176" height="50" alt="佐賀新聞LIVE" /></a></h1>
+<div id="today"></div>
+<div id="weather"><a href="http://www.saga-s.co.jp/weather/">今日の天気予報<img id="weather-icon" src="" title="" /></a></div>
+<ul class="fBox">
+<li><a href="https://bizconne.jp/member/login.html?newspaper_id=2" onclick="ga('send', 'event', 'link', 'click', 'pc_header_login');"><img src="http://www.saga-s.co.jp/common/img/btn_login_head.gif" width="120" height="30" alt="電子版会員" /></a></li>
+<li><a href="http://viewer.saga-s.co.jp/sagaepaper/view?gs=R7r3O%2BF7dHotg2B%2FKCLYZw%3D%3D&amp;cn=%E3%81%8D%E3%82%87%E3%81%86%E3%81%AE%E6%96%B0%E8%81%9E" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'pc_header_viewer_login_link');"><img src="http://www.saga-s.co.jp/common/img/btn_viewer_head.gif" width="120" height="30" alt="紙面を見る" /></a></li>
+<li><a href="http://db.saga-s.co.jp/" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'pc_header_kijidb_login_link');"><img src="http://www.saga-s.co.jp/common/img/btn_database_head.gif" width="120" height="30" alt="記事データベース" /></a></li>
+</ul>
+<form action="http://www.saga-s.co.jp/article/search.html" method="post" id="head-search" class="form-default fBox">
+<input type="hidden" name="article_id" value="277873" /><input type="hidden" name="save_article_id" value="" />
+
+
+<input name="s_keywords" type="text" title="キーワードを入力" placeholder="キーワードを入力" id="search-input" class="fl" value =""/>
+<input name="key_article_submit" type="image" src="http://www.saga-s.co.jp/common/img/btn_search_head.gif" alt="記事検索" id="search-btn" class="fr fadeover" />
+</form>
+<!-- //#header-in --></div>
+
+<!--//#header --></div>
+<!-- //////////////////////// header end --><!-- //////////////////////////////////////////////// header end --> 
+
+<!-- //////////////////////////////////////////////// nav start -->
+<div id="nav">
+<ul id="nav-in" class="fBox">
+<li><a href="http://www.saga-s.co.jp/">トップ</a></li>
+<li><a href="http://www.saga-s.co.jp/news/saga/" class="icons-nav_arrow">佐賀</a>
+<ul>
+<li><a href="http://www.saga-s.co.jp/news/saga/10101/">行政・社会</a></li>
+<li><a href="http://www.saga-s.co.jp/news/saga/10102/">事件・事故</a></li>
+<li><a href="http://www.saga-s.co.jp/news/saga/10104/">スポーツ</a></li>
+<li><a href="http://www.saga-s.co.jp/news/saga/10108/">みんなのスポーツ</a></li>
+<li><a href="http://www.saga-s.co.jp/news/saga/10106/">速報</a></li>
+<li><a href="http://www.saga-s.co.jp/news/saga/10105/">まちの話題</a></li>
+</ul>
+</li>
+<li><a href="http://www.saga-s.co.jp/news/national/" class="icons-nav_arrow">全国・世界</a>
+<ul>
+<li><a href="http://www.saga-s.co.jp/news/national/10201/">主要</a></li>
+<li><a href="http://www.saga-s.co.jp/news/national/10202/">政治</a></li>
+<li><a href="http://www.saga-s.co.jp/news/national/10203/">社会</a></li>
+<li><a href="http://www.saga-s.co.jp/news/national/10204/">経済</a></li>
+<li><a href="http://www.saga-s.co.jp/news/national/10205/">スポーツ</a></li>
+<li><a href="http://www.saga-s.co.jp/news/national/10206/">暮らし・話題</a></li>
+<li><a href="http://www.saga-s.co.jp/news/national/10207/">芸能・文化</a></li>
+<li><a href="http://www.saga-s.co.jp/news/national/10208/">科学技術・医療</a></li>
+<li><a href="http://www.saga-s.co.jp/news/national/10209/">国際</a></li>
+<li><a href="http://www.saga-s.co.jp/news/national/10210/">スポーツ速報</a></li>
+<li><a href="http://www.saga-s.co.jp/news/national/10211/">天気予報</a></li>
+<li><a href="http://www.saga-s.co.jp/news/national/10212/">災害情報、その他</a></li>
+</ul>
+</li>
+<li><a href="http://www.saga-s.co.jp/news/culture_ent/" class="icons-nav_arrow">文化・芸能</a>
+<ul>
+<li><a href="http://www.saga-s.co.jp/news/culture_ent/10305/">県内</a></li>
+<li><a href="http://www.saga-s.co.jp/news/culture_ent/10306/">いまドキッ</a></li>
+<li><a href="http://www.saga-s.co.jp/news/culture_ent/10308/">コラム・連載</a></li>
+<li><a href="http://www.saga-s.co.jp/news/culture_ent/10309/">釣り</a></li>
+<li><a href="http://www.saga-s.co.jp/news/culture_ent/10313/">旅するシネマ</a></li>
+<li><a href="http://www.saga-s.co.jp/news/culture_ent/10310/">プレイバック</a></li>
+<li><a href="http://www.saga-s.co.jp/news/culture_ent/10312/">追想</a></li>
+<li><a href="http://www.saga-s.co.jp/news/culture_ent/10311/">偉人紀行</a></li>
+</ul>
+</li>
+<li><a href="http://www.saga-s.co.jp/column/" class="icons-nav_arrow">特集・連載・オピニオン</a>
+<ul>
+<li><a href="http://www.saga-s.co.jp/column/2016kyushueq/">熊本地震</a></li>
+<li><a href="http://www.saga-s.co.jp/column/genkai_pluthermal/">特集 玄海原発</a></li>
+<li><a href="http://www.saga-s.co.jp/column/isahayakantaku/">諫早湾干拓問題</a></li>
+<li><a href="http://www.saga-s.co.jp/column/osprey/">特集 オスプレイ</a></li>
+<li><a href="http://www.saga-s.co.jp/column/economy/">さが経済・農業</a></li>
+<li><a href="http://www.saga-s.co.jp/column/ictedu/">ＩＣＴ教育</a></li>
+<li><a href="http://www.saga-s.co.jp/column/arita400/">有田焼400年</a></li>
+<li><a href="http://www.saga-s.co.jp/column/18senkyo/">１８歳選挙権さが</a></li>
+<li><a href="http://www.saga-s.co.jp/column/talkmylife/">保利耕輔 わが人生を語る</a></li>
+<li><a href="http://www.saga-s.co.jp/column/kodomo/">子ども佐賀新聞</a></li>
+<li><a href="http://www.saga-s.co.jp/column/sinkansen/">九州新幹線 長崎ルート</a></li>
+<li><a href="http://www.saga-s.co.jp/column/opinion/">オピニオン</a></li>
+<li><a href="http://www.saga-s.co.jp/column/karatsu_tender/">唐津不正入札</a></li>
+<li><a href="http://www.saga-s.co.jp/column/70yearsafterwar/">戦後７０年</a></li>
+<li><a href="http://www.saga-s.co.jp/column/tasogare/">たそがれの時代</a></li>
+<li><a href="http://www.saga-s.co.jp/column/chu-soutai/">中学総体</a></li>
+<li><a href="http://www.saga-s.co.jp/column/koushien-saga/">高校野球 佐賀</a></li>
+<li><a href="http://www.saga-s.co.jp/column/ooasaki/">大麻旗争奪剣道大会</a></li>
+<li><a href="http://www.saga-s.co.jp/column/dousoukai/">同窓会</a></li>
+<li><a href="http://www.saga-s.co.jp/column/mietsu/">三重津海軍所跡</a></li>
+<li><a href="http://www.saga-s.co.jp/column/life/">健康特集</a></li>
+<li><a href="http://www.saga-s.co.jp/column/saga_rensai/">佐賀新聞の連載</a></li>
+<li><a href="http://www.saga-s.co.jp/column/ariakesyou/">有明抄</a></li>
+<li><a href="http://www.saga-s.co.jp/column/ronsetsu/">論説</a></li>
+<li><a href="http://www.saga-s.co.jp/column/ekiden/">県内一周駅伝</a></li>
+<li><a href="http://www.saga-s.co.jp/column/kaigo/">高齢者向け施設情報</a></li>
+<li><a href="http://www.saga-s.co.jp/column/mediateens/">メディアティーンズさが</a></li>
+<li><a href="http://www.saga-s.co.jp/column/haihai-race/">ハイハイレース</a></li>
+<li><a href="http://www.saga-s.co.jp/column/gakudougorin/">学童五輪</a></li>
+<li><a href="http://www.saga-s.co.jp/column/sagantosu_movie/">サガン鳥栖 動画</a></li>
+<li><a href="http://www.saga-s.co.jp/column/hamigakikansha/">はみがきかんしゃ</a></li>
+<li><a href="http://www.saga-s.co.jp/column/hs_gallery/">高校生ギャラリー</a></li>
+<li><a href="http://www.saga-s.co.jp/column/gakudoubb/">学童軟式野球</a></li>
+<li><a href="http://www.saga-s.co.jp/column/hs_creator2015/">高校生クリエーター２０１５</a></li>
+</ul>
+<li><a href="http://www.saga-s.co.jp/sagantosu/">サガン鳥栖</a>
+<ul>
+<li><a href="http://www.saga-s.co.jp/sagantosu/news/">ニュース</a></li>
+<li><a href="http://www.saga-s.co.jp/sagantosu/monthly/">サガン鳥栖特集</a></li>
+<li><a href="http://www.saga-s.co.jp/sagantosu/away/">アウェー戦記</a></li>
+<li><a href="http://www.saga-s.co.jp/sagantosu/shifuku/">ゴール裏の至福</a></li>
+<li><a href="http://www.saga-s.co.jp/sagantosu/bankisya/">番記者日誌</a></li>
+<li><a href="http://www.saga-s.co.jp/sagantosu/schedule.html">試合日程</a></li>
+<li><a href="http://www.saga-s.co.jp/sagantosu/song.html">応援歌</a></li>
+<li><a href="http://www.saga-s.co.jp/sagantosu/radio.html">ラジオ</a></li>
+</ul>
+</li>
+</li>
+<li><a href="http://www1.saga-s.co.jp/photostudio.html" target="_blank">写真館<img src="/common/img/icons/win_wht.png" width="11" height="10" alt="新規ウインドウ" class="icons" /></a>
+</li>
+<li><a href="http://www.saga-s.co.jp/column/fit">fit</a></li>
+<li><a href="http://www.saga-s.co.jp/okuyami/">おくやみ</a></li>
+<li><a href="http://www.saga-s.co.jp/info/">お知らせ</a></li>
+</ul>
+<!--//#nav --></div><!-- //////////////////////////////////////////////// nav end --> 
+
+<!-- //////////////////////// contents start -->
+<div id="contents" class="layout-ltr">
+
+<!-- //////////////////////// topicpath start -->
+<div id="topicpath">
+    <h2>現在位置：</h2>
+    <ul>
+        <li id="home"><a href="http://www.saga-s.co.jp/">トップ</a></li>
+        
+                    <li><a href="http://www.saga-s.co.jp/news/saga/">佐賀ニュース</a></li>
+                    <li><a href="http://www.saga-s.co.jp/news/saga/10101/">行政・社会</a></li>
+                    <li><strong>東佐賀病院前　看護師２交代制中止へ座り込み</strong></li>
+
+
+    </ul>
+</div><!-- //////////////////////// topicpath end --> 
+
+<!-- //////////////////////////////////////////////// main start -->
+<div id="main">
+  
+  <!-- //////////////////////// useful-tool start -->
+  <div class="useful-tool"> 
+    
+    <!-- //////////////////////// sns start -->
+<div class="sns">
+	<ul id="sns-btn">
+		<li id="sns-facebook">
+			<div class="fb-share-button" data-href="http://www.saga-s.co.jp/news/saga/10101/277873" data-layout="button_count"></div>
+		</li>
+		<li id="sns-twitter"><span><a href="https://twitter.com/share" class="twitter-share-button" data-lang="ja" data-url="http://www.saga-s.co.jp/news/saga/10101/277873">ツイート</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></span></li>
+
+		<li id="sns-g-plusone"><div class="g-plusone" data-size="medium" data-href="http://www.saga-s.co.jp/news/saga/10101/277873"></div></li>
+        <script type="text/javascript">
+            window.___gcfg = { lang: 'ja' };
+            (function () {
+                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                po.src = 'https://apis.google.com/js/plusone.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+            })();
+		</script>
+  		<li>
+			<a href="http://b.hatena.ne.jp/entry/http://www.saga-s.co.jp/news/saga/10101/277873" class="hatena-bookmark-button" data-hatena-bookmark-title="東佐賀病院前　看護師２交代制中止へ座り込み｜佐賀新聞LiVE" data-hatena-bookmark-layout="simple" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+		</li>
+	</ul>
+</div>    <!-- //////////////////////// sns end -->
+    
+<ul class="action-btn">
+<li></li><li><a href="#" onclick="window.print();return false;"><img src="http://www.saga-s.co.jp/common/img/btn_print.gif" width="60" height="30" alt="印刷" /></a></li>
+</ul>
+  </div>
+  <!-- //////////////////////// useful-tool end --> 
+  
+  <!-- //////////////////////// title-wrap start -->
+<div id="title-wrap">
+    <h2 class="detail-ttl">東佐賀病院前　看護師２交代制中止へ座り込み</h2>
+    <h3 class="detail-sttl"></h3>
+    <div class="option-article">
+        <p class="detail-date">2016年02月11日 09時01分
+        </p>
+    </div>
+</div>  <!-- //////////////////////// title-wrap end --> 
+  
+  <!-- //////////////////////// detail-article start -->
+  <div class="detail-article">
+<div class="thumb-article">
+    <table class="article-image">
+        <tr>
+            <td><a href="http://www.saga-s.co.jp/images/article/2016/02/11/SAG2016021199000028_id1_20160211090524.jpg" title="長時間夜勤の中止などを求めてシュプレヒコールを上げる看護師や地域住民たち＝三養基郡みやき町原古賀の東佐賀病院前" rel="lightbox[lightboxGroup]"><img src="http://www.saga-s.co.jp/images/article/2016/02/11/SAG2016021199000028_id1_20160211090524.jpg" alt="長時間夜勤の中止などを求めてシュプレヒコールを上げる看護師や地域住民たち＝三養基郡みやき町原古賀の東佐賀病院前" /></a></td>
+        </tr>
+        <tr>
+            <td><span class="caption">長時間夜勤の中止などを求めてシュプレヒコールを上げる看護師や地域住民たち＝三養基郡みやき町原古賀の東佐賀病院前</span></td>
+        </tr>
+    </table>
+    
+
+
+
+
+
+
+
+<!--//.thumb-article--></div><div class="text-article">
+    <p>
+							<p>　三養基郡みやき町の国立病院機構東佐賀病院の看護師らが９日、長時間夜勤の中止などを求めて座り込みを実施した。延べ約１５０人が参加し、「安心安全の医療を確保しよう」「８時間労働守れ」とシュプレヒコールをあげた。</p>
+								<p>　東佐賀病院は、１９９７年に３病棟で看護師の２交代制を導入した。座り込みは導入日の２月９日に合わせ、地域住民でつくる団体や全医労東佐賀支部などが毎年実施し２１回目。</p>
+								<p>　現在は結核・呼吸器病棟のみで採用されているが、午後５時４５分から翌朝９時まで３人での対応を余儀なくされている。夜勤の回数分、日勤でも午前８時半から午後７時半までの長時間労働が発生するという。</p>
+								<p>　この日は看護師や地域住民が正門前のテントに集結した。全医労東佐賀支部の村松秀一郎支部長は「長時間夜勤で体調の悪化も見られる。団結して根気強く是正を訴えていきたい」と語った。院長宛てに長時間勤務の中止や職員の増員を求める要請書を提出した。国立病院機構佐賀病院（佐賀市）でも９回目となる抗議活動を行った。</p>
+							
+    </p>
+<!-- //.text-article --></div>
+
+    <!-- //.detail-article --></div>
+  <!-- //////////////////////// detail-article end --> 
+  
+  <!-- //////////////////////// topics start -->
+  <!-- //////////////////////// topics end --> 
+  
+  <!-- //////////////////////// useful-tool start -->
+  <div class="useful-tool"> 
+    
+    <!-- //////////////////////// sns start -->
+<div class="sns">
+	<ul id="sns-btn">
+		<li id="sns-facebook">
+			<div class="fb-share-button" data-href="http://www.saga-s.co.jp/news/saga/10101/277873" data-layout="button_count"></div>
+		</li>
+		<li id="sns-twitter"><span><a href="https://twitter.com/share" class="twitter-share-button" data-lang="ja" data-url="http://www.saga-s.co.jp/news/saga/10101/277873">ツイート</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></span></li>
+
+		<li id="sns-g-plusone"><div class="g-plusone" data-size="medium" data-href="http://www.saga-s.co.jp/news/saga/10101/277873"></div></li>
+        <script type="text/javascript">
+            window.___gcfg = { lang: 'ja' };
+            (function () {
+                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                po.src = 'https://apis.google.com/js/plusone.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+            })();
+		</script>
+  		<li>
+			<a href="http://b.hatena.ne.jp/entry/http://www.saga-s.co.jp/news/saga/10101/277873" class="hatena-bookmark-button" data-hatena-bookmark-title="東佐賀病院前　看護師２交代制中止へ座り込み｜佐賀新聞LiVE" data-hatena-bookmark-layout="simple" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+		</li>
+	</ul>
+</div>    <!-- //////////////////////// sns end -->
+    
+<ul class="action-btn">
+<li></li><li><a href="#" onclick="window.print();return false;"><img src="http://www.saga-s.co.jp/common/img/btn_print.gif" width="60" height="30" alt="印刷" /></a></li>
+</ul>
+  </div>
+  <!-- //////////////////////// useful-tool end --> 
+  
+  <!-- //////////////////////// ad start -->
+<!-- 独自レクタングル × ２ -->
+<div class="ad"> 
+<SCRIPT type=text/javascript>
+google_ad_client = "ca-pub-0457546116242649";
+/* 県内記事下レクタングル左300&#42;250 */google_ad_slot = "3233067399";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_region = "news";
+</SCRIPT> 
+<SCRIPT type=text/javascript src="//pagead2.googlesyndication.com/pagead/show_ads.js"></SCRIPT> 
+
+<SCRIPT type=text/javascript>
+google_ad_client = "ca-pub-0457546116242649";
+/* 県内記事下レクタングル右300&#42;250 */google_ad_slot = "4570199796";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_region = "news";
+</SCRIPT> 
+<SCRIPT type=text/javascript src="//pagead2.googlesyndication.com/pagead/show_ads.js"></SCRIPT> 
+<!-- //.ad --></div>
+  <!-- //////////////////////// ad end --> 
+  
+  <!-- //////////////////////// line-box start -->
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#ERS_recommend_list").load('http://www.saga-s.co.jp/ajax/recommend_list_detail.html/277873');
+    });
+</script>
+
+<section id="ERS_recommend_list" class="clearfix">
+</section>
+
+  <!-- //////////////////////// line-box end --> 
+  
+  <!-- //////////////////////// line-box start -->
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#ERS_popular_article_list").load('http://www.saga-s.co.jp/ajax/popular_article_list_detail.html/277873');
+    });
+</script>
+
+<section id="ERS_popular_article_list" class="clearfix">
+</section>
+  <!-- //////////////////////// line-box end --> 
+  
+  <!--//#main --></div>
+<!-- //////////////////////////////////////////////// main end --> 
+
+<!-- //////////////////////////////////////////////// side start -->
+<div id='side'>
+<!-- 電子版導線 -->
+<br />
+<style type="text/css">
+/* BANNER AREA */
+.banner_area {
+    margin: 0 0 5px;
+}
+
+/* ----
+Today's Paper
+---- */
+.today_paper {
+	background:#e5f1f9;
+	padding:0 0 5px 0;
+	text-align:center;
+	width:158px;
+	border:#0175c3 solid 1px;
+}
+.today_paper .paper_title {
+	background:#223a70;
+	color:#fff;
+	font-weight:bold;
+	padding:5px;
+	margin: 0 0 5px 0;
+	font-size:14px;
+	line-height:1em;
+}</style>
+<div style="margin-bottom:1px;">
+	<div class="banner_area" style="float:right;width:155px;">
+		<a href="http://www1.saga-s.co.jp/koudoku12.html" onclick="ga('send', 'event', 'link', 'click', 'takuhai_link');" target="_blank"><img src="http://www.saga-s.co.jp/upload/NpMedia/633/media_file/takuhai.jpg" style="margin-bottom:10px;" /></a> <a href="http://www1.saga-s.co.jp/viewer/register.html" onclick="ga('send', 'event', 'link', 'click', 'denshiban_register_link');" target="_blank"><img src="http://www.saga-s.co.jp/upload/NpMedia/634/media_file/denshiban.jpg" style="margin-bottom:10px;" /></a> <a href="http://www.saga-s.co.jp/okuyami/" onclick="ga('send', 'event', 'link', 'click', 'okuyami_link');"><img src="http://www.saga-s.co.jp/upload/NpMedia/635/media_file/okuyami.jpg" /></a></div>
+	<div class="today_paper" style="width:135px;">
+		<div class="paper_title">
+			<script type="text/javascript">
+ 
+  //<![CDATA[
+  <!--
+var nowdate = new Date();
+var year = nowdate.getFullYear();  // 年 
+var mon = nowdate.getMonth() + 1;  // 月 
+var date = nowdate.getDate();  // 日 
+var week = nowdate.getDay();  // 曜日 
+var weekchars = new Array( "（日）", "（月）", "（火）", "（水）", "（木）", "（金）", "（土）" );
+var todayweek = weekchars[ week ];
+document.write(mon + "月" + date + "日" + todayweek);
+  // -->
+    //]]>
+</script></div>
+		<a href="http://viewer.saga-s.co.jp/epaper/" onclick="ga('send', 'event', 'link', 'click', 'side_viewer_link');" target="_blank"><img alt="" height="157" src="http://www.saga-s.co.jp/img/site/shimen.jpg" style="margin-top:5px;" width="115" /></a></div>
+</div>
+<!-- 広告タグ１（レクタングル） -->
+<!-- //////////////////////// side-ad start -->
+<div class="side-ad" id="div-gpt-ad-1368689037129-11">
+	<SCRIPT type=text/javascript>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1368689037129-11'); });</SCRIPT><!-- //#side-ad --></div>
+<!-- //////////////////////// side-ad end --><!-- //////////////////////// side-pr start --><!-- syn-text -->
+<div class="side-pr_1st" id="div-gpt-ad-1395625216651-0" style="width: 236px; height: 27px;">
+	<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1395625216651-0'); });</script></div>
+<!-- syn-text2 -->
+<div class="side-pr" id="div-gpt-ad-1395625216651-1" style="width: 236px; height: 27px;">
+	<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1395625216651-1'); });</script></div>
+<!-- syn-text3 -->
+<div class="side-pr" id="div-gpt-ad-1395625216651-2" style="width: 236px; height: 27px;">
+	<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1395625216651-2'); });</script></div>
+<!-- //////////////////////// side-pr end --><!-- 記事アクセスランキング -->
+<!-- //////////////////////// side-rankin start -->
+<div id="side-ranking">
+<h2 class="side-ttl"><span>記事アクセスランキング</span></h2>
+<div class="box">
+
+<div id="ranking-tab" class="tab-box ui-tabs ui-widget ui-widget-content ui-corner-all">
+<ul class="tabindex fBox">
+<li><a href="#diary">24時間</a></li>
+<li><a href="#weekly">1週間</a></li>
+<li><a href="#monthly">1カ月</a></li>
+</ul>
+
+<div class="tab-slide tab-slide-frame">
+
+<div id="diary">
+<ul>
+    <li class="first" >
+        <span class="gold">1</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10102/306772?area=ranking">酒気帯び運転容疑で男逮捕</a>
+    </li>
+    <li class="second" >
+        <span class="silver">2</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10101/306699?area=ranking">有田陶器市開幕　２０万人にぎわう</a>
+    </li>
+    <li class="third" >
+        <span class="bronze">3</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10102/306811?area=ranking">佐賀署、酒気帯び運転容疑で学校法人役員逮捕</a>
+    </li>
+    <li >
+        <span>4</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10101/306846?area=ranking">ホームレス全国で６２３５人　佐賀は９人</a>
+    </li>
+    <li >
+        <span>5</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10105/306857?area=ranking">「とくダネ！」あまたつ、佐大で講演</a>
+    </li>
+    <li >
+        <span>6</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10105/306864?area=ranking">囲碁大会　佐賀西の高崎さんら全国へ</a>
+    </li>
+    <li >
+        <span>7</span>
+        <a href="http://www.saga-s.co.jp/column/2016kyushueq/25302/306797?area=ranking">ボランティア熊本に続々と　ＧＷ初日、定員超えも</a>
+    </li>
+    <li >
+        <span>8</span>
+        <a href="http://www.saga-s.co.jp/column/ronsetsu/306002?area=ranking">ネットのデマ拡散防止</a>
+    </li>
+    <li >
+        <span>9</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10105/306869?area=ranking">有田陶器市　恒例「朝がゆ」長～い列</a>
+    </li>
+    <li >
+        <span>10</span>
+        <a href="http://www.saga-s.co.jp/column/sagantosu_movie/23402/306697?area=ranking">仙台戦前・サガン鳥栖・フィッカデンティ監督インタビュー</a>
+    </li>
+</ul>
+<!-- //#diary --></div>
+
+<div id="weekly">
+<ul>
+    <li class="first" >
+        <span class="gold">1</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10101/270178?area=ranking">賃貸収入７０００万円の消防士、兼業で懲戒</a>
+    </li>
+    <li class="second" >
+        <span class="silver">2</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10101/304609?area=ranking">佐賀市内の３０代女性　９１７万円詐欺被害</a>
+    </li>
+    <li class="third" >
+        <span class="bronze">3</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10101/304704?area=ranking">サガン、売上最高２４億８９００万円</a>
+    </li>
+    <li >
+        <span>4</span>
+        <a href="http://www.saga-s.co.jp/news/national/10203/286607?area=ranking">５０代女性１億４千万円詐欺被害</a>
+    </li>
+    <li >
+        <span>5</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10101/305059?area=ranking">佐賀県庁で盗撮行為、容疑で職員逮捕</a>
+    </li>
+    <li >
+        <span>6</span>
+        <a href="http://www.saga-s.co.jp/news/national/10203/280313?area=ranking">男性が６８００万詐欺被害、川崎</a>
+    </li>
+    <li >
+        <span>7</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10101/304624?area=ranking">甲子園Ｖ投手佐賀北・久保さん、母校教壇に</a>
+    </li>
+    <li >
+        <span>8</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10101/272099?area=ranking">陸自・目達原駐屯地、盗撮の自衛官を停職４０日</a>
+    </li>
+    <li >
+        <span>9</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10101/306171?area=ranking">県警ＯＢ、９２０人おとりに　ニセ電話詐欺対策大作戦</a>
+    </li>
+    <li >
+        <span>10</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10101/257423?area=ranking">消防夜勤で不在の１等陸曹を停職５日</a>
+    </li>
+</ul>
+<!-- //#weekly --></div>
+
+<div id="monthly">
+<ul>
+    <li class="first" >
+        <span class="gold">1</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10101/301114?area=ranking">最大１２市町　震度７想定</a>
+    </li>
+    <li class="second" >
+        <span class="silver">2</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10101/270178?area=ranking">賃貸収入７０００万円の消防士、兼業で懲戒</a>
+    </li>
+    <li class="third" >
+        <span class="bronze">3</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10105/296195?area=ranking">「サザエさん」オープニングに佐賀登場</a>
+    </li>
+    <li >
+        <span>4</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10101/301176?area=ranking">佐賀県内の地震被害、避難状況（午前９時半現在）</a>
+    </li>
+    <li >
+        <span>5</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10101/304609?area=ranking">佐賀市内の３０代女性　９１７万円詐欺被害</a>
+    </li>
+    <li >
+        <span>6</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10107/301409?area=ranking">地震発生</a>
+    </li>
+    <li >
+        <span>7</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10101/298594?area=ranking">重い難聴越え医師に　佐賀市の吉田翔さん</a>
+    </li>
+    <li >
+        <span>8</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10101/304704?area=ranking">サガン、売上最高２４億８９００万円</a>
+    </li>
+    <li >
+        <span>9</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10101/302719?area=ranking">活断層と原発　広がる震源域、不安増す</a>
+    </li>
+    <li >
+        <span>10</span>
+        <a href="http://www.saga-s.co.jp/news/saga/10101/301660?area=ranking">妻倒れ、帰らぬ人に　佐賀市</a>
+    </li>
+</ul>
+<!-- //#monthly --></div>
+
+<!--//.tab-slide --></div>
+
+<!--//#ranking-tab --></div>
+
+<!-- //.box --></div>
+<!-- //#side-ranking --></div>
+<!-- //////////////////////// side-rankin end -->
+<!-- 広告タグ２（レクタングル） -->
+<!-- //////////////////////// side-ad start -->
+<div class="side-ad" id="ca-pub-0457546116242649">
+	<SCRIPT type=text/javascript>
+google_ad_client = "ca-pub-0457546116242649";
+/* レクタングル300×250右カラム下 */google_ad_slot = "9073425395";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_region = "TopPageA";
+</SCRIPT><SCRIPT type=text/javascript src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></SCRIPT><!-- //#side-ad --></div>
+<!-- //////////////////////// side-ad end --><!-- 投稿はこちら&三重津 -->
+<!--<div style="margin: 10px 0px 0px 0px; text-align:center;">
+	<a href="http://www.saga-s.co.jp/mietsu/"><img src="http://www.saga-s.co.jp/upload/NpMedia/562/media_file/mietsu-SP320x50.png" width="300px;" /></a></div>-->
+<div style="margin-top: 10px; margin-bottom: 0px; text-align:center;">
+	<a href="http://www1.saga-s.co.jp/news/contribute.html" target="_blank"><img src="http://www.saga-s.co.jp/upload/NpMedia/756/media_file/toukou_pc1.png" width="300" /></a></div>
+<!-- 求人案内 -->
+<div style="margin: 10px 0px 5px 0px; text-align:center;">
+	<a href="http://www1.saga-s.co.jp/info/kyujin_planniing.html" target="_blank"><img src="http://www.saga-s.co.jp/upload/NpMedia/765/media_file/kb3.gif" width="300px;" /></a></div>
+<div style="margin: 5px 0px 5px 0px; text-align:center;">
+	<a href="http://www1.saga-s.co.jp/info/kyujin_media.html" target="_blank"><img src="http://www.saga-s.co.jp/upload/NpMedia/744/media_file/kb2.gif" width="300px;" /></a></div>
+<!-- コンテンツリンク集１ -->
+<div id="side-contents">
+	<div class="box">
+		<div class="box-in">
+			<ul>
+				<li>
+					<span class="thumb-article"><img alt="" height="60" src="http://www.saga-s.co.jp/upload/NpMedia/582/media_file/hibikiau01.gif" width="60" /></span><span class="text-article"><a href="http://www.saga-s.co.jp/column/saganooto/" target="_blank">響きあう。佐賀～佐賀の音100選</a>佐賀新聞創刊１３０周年記念のふるさと応援キャンペーン。郷土の宝、地域の力を見つめ直します。</span></li>
+				<li>
+					<span class="thumb-article"><img alt="" height="60" src="/common/img/side_contents2.gif" width="60" /></span><span class="text-article"><a href="http://meikan.saga-s.co.jp/" target="_blank">さがトップ名鑑</a>ウェブ版「商工名鑑」誕生。社長インタビュー動画も</span></li>
+				<li>
+					<span class="thumb-article"><img alt="" src="http://www.saga-s.co.jp/upload/NpMedia/11/media_file/47club.png" width="60" /></span><span class="text-article"><a href="http://47club.saga-s.co.jp/" target="_blank">４７クラブさが</a>４７ＣＬＵＢは地方新聞社47社が協力して地域を応援するインターネットショッピングサイトです</span></li>
+				<li>
+					<span class="text-article"><a href="/movie">映像ニュース</a>一週間分情報を毎週動画で配信中</span></li>
+				<li>
+					<span class="text-article"><a href="/market">マーケット速報</a>動向、株価指数、為替相場などの情報を掲載</span></li>
+				<li>
+					<a href="/gougai">ウェブ号外</a></li>
+				<li>
+					<a href="http://www.saga-s.co.jp/hs_creator.html">高校生クリエーター</a></li>
+				<li>
+					<a href="http://www1.saga-s.co.jp/life/tsuri_times.html">釣りタイムズ</a></li>
+				<li>
+					<a href="http://www1.saga-s.co.jp/news/contribute/magobosyu.html">孫と一緒に</a></li>
+				<li>
+					<a href="http://www1.saga-s.co.jp/news/contribute/_9010.html">すこやか佐賀っ子</a></li>
+				<li>
+					<a href="http://www1.saga-s.co.jp/hapiba-np.html">誕生日おめでとう新聞</a></li>
+				<li>
+					<a href="http://www1.saga-s.co.jp/news/326hibino.html">326&times;ひびのプロジェクト</a></li>
+				<li>
+					<a href="http://www.saga-s.co.jp/feature/satooya/">飼い主探し</a></li>
+				<li>
+					<a href="http://www.saga-s.co.jp/feature/pet_lost/">ペット迷子コーナー</a></li>
+			</ul>
+			<!-- //.box-in --></div>
+		<!-- //.box --></div>
+	<!--//#side-contents --></div>
+<!--<div style="margin-top: 20px; margin-bottom: 0px">
+	<a href="http://www1.saga-s.co.jp/ai-con.html" target="_blank"><img src="http://www.saga-s.co.jp/upload/NpMedia/12/media_file/ai-con.jpg" width="300" /></a></div>-->
+<div style="margin-top: 10px; margin-bottom: 0px">
+	<a href="http://www1.saga-s.co.jp/shodo.html" target="_blank"><img src="http://www.saga-s.co.jp/upload/NpMedia/755/media_file/shodo2.png" width="300" /></a></div>
+<!-- YDNレクタン -->
+<div style="margin-top: 10px;">
+<script type="text/javascript" language="JavaScript">
+yads_ad_ds = '65492_48306';
+</script><script type="text/javascript" language="JavaScript" src="http://yads.c.yimg.jp/js/yads.js"></script></div><!-- お知らせ -->
+ <!-- //////////////////////// side-info start -->
+<div id="side-info">
+<h2 class="side-ttl"><a href="http://www.saga-s.co.jp/info/"><span>お知らせ</span></a></h2>
+<div class="box">
+<div class="box-in">
+<ul>
+<li><a href="http://www1.saga-s.co.jp/info/recruit/briefing.html">就活生向け会社説明会を本社で行います</a></li>
+<li><a href="http://www.saga-s.co.jp/news/saga/10105/292122" target = "_blank">LINEへのニュース配信開始</a></li>
+<li><a href="http://www.saga-s.co.jp/kodomo/">＜子ども新聞＞新企画への応募はこちら</a></li>
+<li><a href="http://sagasakura-marathon.jp/" target = "_blank">さが桜マラソン2016特設サイト</a></li>
+<li><a href="https://form.saga-s.co.jp/webapp/form/17037_hfz_91/index.do" target = "_blank">紙面の１部購入はこちら</a></li>
+<li><a href="http://www.saga-s.co.jp/fureai.html">佐賀新聞ふれあい安心ネットワーク　申し込みはこちら</a></li>
+</ul>
+<!-- //.box-in --></div>
+<!-- //.box --></div>
+<!--//#side-info --></div>
+<!-- //////////////////////// side-info end --><!-- コンテンツリンク集２ -->
+<div id="side-movie">
+	<a href="http://www.saga-s.co.jp/movie/"><img src="http://www.saga-s.co.jp/upload/NpMedia/775/media_file/youtube_link.jpg" width="300px" /></a></div>
+<!--//#side-movie -->
+<div id="side-free">
+	<ul>
+		<li>
+			<a href="http://47club.saga-s.co.jp/" target="_blank">４７さが<img alt="新規ウインドウ" class="icons" height="10" src="/common/img/icons/win_blk.png" style="opacity: 1;" width="11" /></a></li>
+		<li>
+			<a href="http://www.youtube.com/playlist?list=PLnQypz_ujVLsA9xzq1d-UmEQue3pNIE9f" target="_blank">ひびじょん<img alt="新規ウインドウ" class="icons" height="10" src="/common/img/icons/win_blk.png" width="11" /></a></li>
+		<li>
+			<a href="http://bridal.saga-s.co.jp/" target="_blank">結婚情報サイト「ブライダルさが」<img alt="新規ウインドウ" class="icons" height="10" src="/common/img/icons/win_blk.png" width="11" /></a></li>
+		<li>
+			<a href="http://www1.saga-s.co.jp/q-jin.html" target="_blank">県内求人情報 「Ｑ－Ｊｉｎ」<img alt="新規ウインドウ" class="icons" height="10" src="/common/img/icons/win_blk.png" style="opacity: 1;" width="11" /></a></li>
+		<li>
+			<a href="https://shukatsu.saga-s.co.jp/" target="_blank">佐賀で働く人へ「さが就活ナビ」<img alt="新規ウインドウ" class="icons" height="10" src="/common/img/icons/win_blk.png" style="opacity: 1;" width="11" /></a></li>
+		<li>
+			<a href="http://kosodate.saga-s.co.jp/" target="_blank">子育て応援の店事業<img alt="新規ウインドウ" class="icons" height="10" src="/common/img/icons/win_blk.png" style="opacity: 1;" width="11" /></a></li>
+		<li>
+			<a href="http://www1.saga-s.co.jp/info/jigyo/begin2015.html" target="_blank">新しい扉Ｂｅｇｉｎ<img alt="新規ウインドウ" class="icons" height="10" src="/common/img/icons/win_blk.png" style="opacity: 1;" width="11" /></a></li>
+		<li>
+			<a href="http://sagasakura-marathon.jp/" target="_blank">さが桜マラソン<img alt="新規ウインドウ" class="icons" height="10" src="/common/img/icons/win_blk.png" style="opacity: 1;" width="11" /></a></li>
+		<li>
+			<a href="http://www1.saga-s.co.jp/shodo.html" target="_blank">佐賀県書道展<img alt="新規ウインドウ" class="icons" height="10" src="/common/img/icons/win_blk.png" style="opacity: 1;" width="11" /></a></li>
+		<li>
+			<a href="http://www.tfm.co.jp/wood/symposium.php" target="_blank">木材利用ポイントシンポジウム<img alt="新規ウインドウ" class="icons" height="10" src="/common/img/icons/win_blk.png" style="opacity: 1;" width="11" /></a></li>
+		<li>
+			<a href="http://www1.saga-s.co.jp/ecosaga.html" target="_blank">エコライフ・エコライブさが<img alt="新規ウインドウ" class="icons" height="10" src="/common/img/icons/win_blk.png" style="opacity: 1;" width="11" /></a></li>
+		<li>
+			<a href="http://www1.saga-s.co.jp/saa.html" target="_blank">佐賀広告協会<img alt="新規ウインドウ" class="icons" height="10" src="/common/img/icons/win_blk.png" style="opacity: 1;" width="11" /></a></li>
+		<li>
+			<a href="http://www1.saga-s.co.jp/life/kenko.html" target="_blank">健康特集<img alt="新規ウインドウ" class="icons" height="10" src="/common/img/icons/win_blk.png" style="opacity: 1;" width="11" /></a></li>
+		<li>
+			<a href="http://www1.saga-s.co.jp/life/tsuri_times.html" target="_blank">釣りタイムズ<img alt="新規ウインドウ" class="icons" height="10" src="/common/img/icons/win_blk.png" style="opacity: 1;" width="11" /></a></li>
+		<li>
+			<a href="http://www1.saga-s.co.jp/k-danran.html" target="_blank">家族だんらん特集<img alt="新規ウインドウ" class="icons" height="10" src="/common/img/icons/win_blk.png" style="opacity: 1;" width="11" /></a></li>
+	</ul>
+	<!-- //#side-free --></div>
+<br />
+<!--//#side --></div>
+<!-- //////////////////////////////////////////////// side end --> 
+
+<!--//#contents -->
+</div>
+<!-- //////////////////////// contents end --> 
+
+<!-- //////////////////////// フッター start -->
+<div id="footer">
+<p id="pagetop" class="smooth"><a href="#top"><img src="http://www.saga-s.co.jp/common/img/pagetop.gif" width="300" height="35" alt="ページの先頭へ" /></a></p>
+
+<div id="footer-in">
+<div id="footer-sitemap" class="fBox">
+<dl class="column-third">
+<dt>佐賀新聞LiVEメニュー</dt>
+<dd><a href="http://www.saga-s.co.jp/news/saga/">佐賀</a></dd>
+<dd><a href="http://www.saga-s.co.jp/news/national/">全国・世界</a></dd>
+<dd><a href="http://www.saga-s.co.jp/news/culture_ent/">文化・芸能</a></dd>
+<dd><a href="http://www.saga-s.co.jp/column/">連載・特集・オピニオン</a></dd>
+<dd><a href="http://www.saga-s.co.jp/sagantosu/">オーレ! サガン鳥栖</a></dd>
+<dd><a href="http://www.saga-s.co.jp/column/fit">fit</a></dd>
+<dd><a href="http://www.saga-s.co.jp/okuyami/">おくやみ</a></dd>
+<dd><a href="http://www.saga-s.co.jp/info/">お知らせ</a></dd>
+<dd><a href="http://www.saga-s.co.jp/kodomo/">子ども佐賀新聞Web版</a></dd>
+<dd><a href="http://www.saga-s.co.jp/gougai/">ウェブ号外</a></dd>
+<dd><a href="http://www.saga-s.co.jp/movie/">映像ニュース</a></dd>
+<dd><a href="http://www.saga-s.co.jp/weather/">週間天気予報</a></dd>
+<dd><a href="http://www.saga-s.co.jp/market/">マーケット情報</a></dd>
+<dd><a href="http://www.saga-s.co.jp/saigai/">気象・交通・ライフライン情報リンク集</a></dd>
+</dl>
+<dl class="column-third">
+<dt>佐賀新聞電子版について</dt>
+<dd><a href="http://www.saga-s.co.jp/site/terms.html">利用規約</a></dd>
+<dd><a href="http://www.saga-s.co.jp/site/site_policy.html">サイトポリシー</a></dd>
+<dd><a href="http://www.saga-s.co.jp/site/privacy_policy.html">プライバシーポリシー</a></dd>
+<dd><a href="http://www.saga-s.co.jp/site/copyright.html">著作権</a></dd>
+<dd><a href="http://www.saga-s.co.jp/site/link_policy.html">リンクポリシー</a></dd>
+<dd><a href="http://www.saga-s.co.jp/site/law.html">特定商取引法</a></dd>
+<dd><a href="http://www.saga-s.co.jp/rss/">RSS配信について</a></dd>
+<dd><a href="http://www.saga-s.co.jp/site/company.html">運営会社</a></dd>
+<dd><a href="http://www.saga-s.co.jp/faq/">FAQ</a></dd>
+<dd><a href="https://bizconne.jp/contact/">お問い合わせ</a></dd>
+<dd><a href="http://www.saga-s.co.jp/site/sitemap.html">サイトマップ</a></dd>
+<dd><a href="http://www.saga-s.co.jp/guide/">ご利用方法</a></dd>
+<dd><a href="https://bizconne.jp/member/user.html?newspaper_id=2">お客様管理メニュー</a></dd>
+</dl>
+<div class="column-third">
+<dl>
+<dt>佐賀新聞社について</dt>
+<dd><a href="http://www.saga-s.co.jp/info/">お知らせ</a></dd>
+<dd><a href="http://www1.saga-s.co.jp/info/profile.html" target="_blank">会社概要<img src="http://www.saga-s.co.jp/common/img/icons/win_blk.png" width="11" height="10" alt="新規ウインドウ" class="icons" /></a></dd>
+<dd><a href="http://www1.saga-s.co.jp/info/recruit.html" target="_blank">社員採用のご案内<img src="http://www.saga-s.co.jp/common/img/icons/win_blk.png" width="11" height="10" alt="新規ウインドウ" class="icons" /></a></dd>
+<dd><a href="http://www1.saga-s.co.jp/info/sub.html" target="_blank">ご購読のご案内<img src="http://www.saga-s.co.jp/common/img/icons/win_blk.png" width="11" height="10" alt="新規ウインドウ" class="icons" /></a></dd>
+<dd><a href="http://www1.saga-s.co.jp/info/sub/shop-search.html" target="_blank">佐賀新聞販売店検索<img src="http://www.saga-s.co.jp/common/img/icons/win_blk.png" width="11" height="10" alt="新規ウインドウ" class="icons" /></a></dd>
+<dd><a href="http://www1.saga-s.co.jp/info/ad.html" target="_blank">広告掲載に関するご案内<img src="http://www.saga-s.co.jp/common/img/icons/win_blk.png" width="11" height="10" alt="新規ウインドウ" class="icons" /></a></dd>
+<dd><a href="http://www1.saga-s.co.jp/info/jigyo/kouenshinsei.html" target="_blank">事業後援申請書類<img src="/common/img/icons/win_blk.png" width="11" height="10" alt="新規ウインドウ" class="icons" /></a></dd>
+<dd><a href="http://www1.saga-s.co.jp/info/profile/zeniginkou.html" target="_blank">佐賀善意銀行<img src="/common/img/icons/win_blk.png" width="11" height="10" alt="新規ウインドウ" class="icons" /></a></dd>
+</dl>
+<dl>
+<dt class="mt20">自社サービスサイト</dt>
+<dd><a href="http://bridal.saga-s.co.jp/" target="_blank">ブライダル情報サイトブライダルさが<img src="http://www.saga-s.co.jp/common/img/icons/win_blk.png" width="11" height="10" alt="新規ウインドウ" class="icons" /></a></dd>
+<dd><a href="http://kosodate.saga-s.co.jp/" target="_blank">子育て応援の店事業<img src="http://www.saga-s.co.jp/common/img/icons/win_blk.png" width="11" height="10" alt="新規ウインドウ" class="icons" /></a></dd>
+<dd><a href="https://hibino.saga-s.co.jp/" target="_blank">さがの地域SNS「ひびのコミュニティ」<img src="http://www.saga-s.co.jp/common/img/icons/win_blk.png" width="11" height="10" alt="新規ウインドウ" class="icons" /></a></dd>
+</dl>
+</div>
+<!-- //#footer-sitemap --></div>
+
+<dl id="news47" class="fBox">
+<dt><a href="http://www.47news.jp/" target="_blank">47NEWS</a> 参加社一覧</dt>
+<dd><a href="http://www.hokkaido-np.co.jp/" target="_blank">北海道新聞</a></dd>
+<dd><a href="http://www.muromin.mnw.jp/" target="_blank">室蘭民報</a></dd>
+<dd><a href="http://www.kahoku.co.jp/" target="_blank">河北新報</a></dd>
+<dd><a href="http://www.toonippo.co.jp/" target="_blank">東奥日報</a></dd>
+<dd><a href="http://www.daily-tohoku.co.jp/" target="_blank">デーリー東北</a></dd>
+<dd><a href="http://www.sakigake.co.jp/" target="_blank">秋田魁新報</a></dd>
+<dd><a href="http://www.yamagata-np.jp/" target="_blank">山形新聞</a></dd>
+<dd><a href="http://www.iwate-np.co.jp/" target="_blank">岩手日報</a></dd>
+<dd><a href="http://www.minpo.jp/" target="_blank">福島民報</a></dd>
+<dd><a href="http://www.minyu-net.com/" target="_blank">福島民友新聞</a></dd>
+<dd><a href="http://sankei.jp.msn.com/top.htm" target="_blank">産業経済新聞</a></dd>
+<dd><a href="http://www.nikkei.co.jp/" target="_blank">日本経済新聞</a></dd>
+<dd><a href="http://www.japantimes.co.jp/" target="_blank">ジャパンタイムズ</a></dd>
+<dd><a href="http://www.shimotsuke.co.jp/" target="_blank">下野新聞</a></dd>
+<dd><a href="http://www.ibarakinews.jp/" target="_blank">茨城新聞</a></dd>
+<dd><a href="http://www.jomo-news.co.jp/" target="_blank">上毛新聞</a></dd>
+<dd><a href="http://www.chibanippo.co.jp/" target="_blank">千葉日報</a></dd>
+<dd><a href="http://www.kanaloco.jp/" target="_blank">神奈川新聞</a></dd>
+<dd><a href="http://www.saitama-np.co.jp/" target="_blank">埼玉新聞</a></dd>
+<dd><a href="http://www.sannichi.co.jp/" target="_blank">山梨日日新聞</a></dd>
+<dd><a href="http://www.shinmai.co.jp/" target="_blank">信濃毎日新聞</a></dd>
+<dd><a href="http://www.niigata-nippo.co.jp/" target="_blank">新潟日報</a></dd>
+<dd><a href="http://www.chunichi.co.jp/" target="_blank">中日新聞</a></dd>
+<dd><a href="http://www.chukei-news.co.jp/" target="_blank">中部経済新聞</a></dd>
+<dd><a href="http://www.isenp.co.jp/" target="_blank">伊勢新聞</a></dd>
+<dd><a href="http://www.at-s.com/index.html" target="_blank">静岡新聞</a></dd>
+<dd><a href="http://www.gifu-np.co.jp/" target="_blank">岐阜新聞</a></dd>
+<dd><a href="http://webun.jp/news" target="_blank">北日本新聞</a></dd>
+<dd><a href="http://www.hokkoku.co.jp/" target="_blank">北國新聞</a></dd>
+<dd><a href="http://www.fukuishimbun.co.jp/" target="_blank">福井新聞</a></dd>
+<dd><a href="http://www.kyoto-np.co.jp/" target="_blank">京都新聞</a></dd>
+<dd><a href="http://www.kobe-np.co.jp/" target="_blank">神戸新聞</a></dd>
+<dd><a href="http://www.nara-np.co.jp/" target="_blank">奈良新聞</a></dd>
+<dd><a href="http://www.agara.co.jp/" target="_blank">紀伊民報</a></dd>
+<dd><a href="http://www.sanyo.oni.co.jp/" target="_blank">山陽新聞</a></dd>
+<dd><a href="http://www.chugoku-np.co.jp/" target="_blank">中国新聞</a></dd>
+<dd><a href="http://www.nnn.co.jp/" target="_blank">日本海新聞</a></dd>
+<dd><a href="http://www.minato-yamaguchi.co.jp/yama/" target="_blank">山口新聞</a></dd>
+<dd><a href="http://www.sanin-chuo.co.jp/" target="_blank">山陰中央新報</a></dd>
+<dd><a href="http://www.shikoku-np.co.jp/" target="_blank">四国新聞</a></dd>
+<dd><a href="http://www.ehime-np.co.jp/" target="_blank">愛媛新聞</a></dd>
+<dd><a href="http://www.topics.or.jp/" target="_blank">徳島新聞</a></dd>
+<dd><a href="http://www.kochinews.co.jp/" target="_blank">高知新聞</a></dd>
+<dd><a href="http://www.nishinippon.co.jp/" target="_blank">西日本新聞</a></dd>
+<dd><a href="http://www.oita-press.co.jp/" target="_blank">大分合同新聞</a></dd>
+<dd><a href="http://www.the-miyanichi.co.jp/" target="_blank">宮崎日日新聞</a></dd>
+<dd><a href="http://www.nagasaki-np.co.jp/" target="_blank">長崎新聞</a></dd>
+<dd><a href="http://www.saga-s.co.jp/" target="_blank">佐賀新聞</a></dd>
+<dd><a href="http://kumanichi.com/" target="_blank">熊本日日新聞</a></dd>
+<dd><a href="http://www.373news.com/" target="_blank">南日本新聞</a></dd>
+<dd><a href="http://www.okinawatimes.co.jp/" target="_blank">沖縄タイムス</a></dd>
+<dd><a href="http://ryukyushimpo.jp/" target="_blank">琉球新報</a></dd>
+<dd><a href="http://www.kyodo.co.jp/" target="_blank">共同通信</a></dd>
+<!-- //#news47 --></dl>
+
+<div id="footer-banner">
+<ul class="fBox">
+<li><a href="http://www.pandanet.co.jp/alliances/saga/" target="_blank"><img src="http://www.saga-s.co.jp/common/img/bnr_footer_panda.gif" width="180" height="60" alt="葉隠囲碁道場" /></a></li>
+<li><a href="http://www.sni.ne.jp/" target="_blank"><img src="http://www.saga-s.co.jp/common/img/bnr_footer_sni.gif" width="180" height="60" alt="SNI" /></a></li>
+<li><a href="http://www.press9.gr.jp/" target="_blank"><img src="http://www.saga-s.co.jp/common/img/bnr_footer_press9.gif" width="180" height="60" alt="プレス9" /></a></li>
+<li><a href="http://tencam.saga-s.co.jp/camera.asp" target="_blank"><img src="http://www.saga-s.co.jp/common/img/bnr_footer_livecam.gif" width="180" height="60" alt="ライブカメラ" /></a></li>
+<li><a href="http://www.motemote-saga.jp/" target="_blank"><img src="http://www.saga-s.co.jp/common/img/bnr_footer_motemote.gif" width="180" height="60" alt="モテモテさが" /></a></li>
+</ul>
+<!-- //#footer-banner --></div>
+
+<!-- //#footer-in --></div>
+
+<div id="footer-saga">
+<div id="footer-saga-in" class="fBox">
+<address>Copyright(c)Saga Shimbun Co.,Ltd</address>
+</div>
+<!-- //#footer-saga --></div>
+
+<!-- //#footer --></div><div id="CheckIsStudents"></div>
+<!-- //////////////////////// footer end -->
+<!-- //////////////////////// フッター start -->
+
+</body>
+</html>

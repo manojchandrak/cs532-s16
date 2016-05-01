@@ -1,0 +1,719 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<link rel="shortcut icon" href="favicon.ico"/> 
+<link rel="stylesheet" type="text/css" href="style.css" />
+<meta http-equiv="Content-Language" content="en-us"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="security,fresh news, securityphresh, news, security news, security jobs, conference"/>
+<meta name="description" content="SecurityPhresh - Delivering Fresh Security News - Stay Phresh, Stay Ahead !!!"/>
+<meta name="author" content="Nagareshwar Talekar" />
+
+
+<!--
+<meta http-equiv="refresh" content="300"> 
+
+
+<meta name="og:image" content="http://securityphresh.com/images/phresh-news-new.jpg" />
+<meta property="og:image" content="http://securityphresh.com/images/phresh-news-new.jpg" />
+-->
+<!--
+
+<title> SecurityPhresh - Delivering Fresh Security News as it Happens!</title>  -->
+
+<!--
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+
+
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+
+-->
+
+
+
+<body>
+
+
+
+
+<div style="width:100%; background-color:#222;height:40px; border-bottom:1px solid #555;text-align:center; vertical-align:middle;">
+
+<center>
+<div id="topbarmenu" style="width:1200px;">
+
+    <ul>
+    
+     <li> <a class="graytext" href="http://securityphresh.com" >SecurityPhresh</a></li>
+     
+    <li> <a class="graytext" href="http://securityxploded.com" target="_blank">SecurityXploded</a> </li>
+    
+   
+    
+    <li> <a class="graytext" href="http://securitytrainings.net/" target="_blank">SecurityTrainings</a> </li>
+    
+    <li> <a class="graytext" href="http://malwarenet.com/" target="_blank">MalwareNet</a> </li>
+    
+    
+    <li> <a class="graytext" href="http://xenarmor.com" target="_blank">XenArmor</a> </li>
+    
+    </ul>            
+            
+            
+	<!-- Social Follow up Menu -->            
+     <div style="float:right; vertical-align:middle;margin-top:-8px;">
+    
+		<a href="https://groups.google.com/forum/?fromgroups#!forum/securityxploded" target="_blank">
+	<img alt="Mailing List" src="http://securityxploded.com/images/contact-mailing-list.jpg" width="22" height="22"  title="Join our Mailing List" style="border-width:0px;padding-right:6px;  margin-top:8px;"></a>
+
+
+			<a href="https://plus.google.com/+SecurityxplodedPage" target="_blank">
+	<img alt="Join us on Google+" src="images/contact_google_plus.jpg" width="22" height="22"  title="Follow us on Google+" style="border-width:0px;padding-right:6px;  margin-top:8px;"></a>	
+ 
+			<a href="http://twitter.com/securityxploded" target="_blank" style="border-width:0px;">
+	<img alt="Twitter" src="http://securityxploded.com/images/contact_twitter.jpg" width="22" height="22"  title="Follow us on Twitter" style="border-width:0px;padding-right:6px;  margin-top:8px;"></a>
+	
+	
+	
+		<a href="http://www.facebook.com/pages/SecurityXploded/104721292928445" target="_blank" style="border-width:0px;">
+		<img alt="facebook" src="http://securityxploded.com/images/contact_facebook.jpg" width="22" height="22"  title="Follow us on Facebook" style="border-width:0px;padding-right:6px;  margin-top:8px;"></a>
+
+	<!--
+		<a href="http://www.youtube.com/securityxploded" target="_blank" style="border-width:0px;">
+		<img alt="Youtube" src="images/contact_youtube.jpg" width="22" height="22"  title="Follow our YouTube Channel" style="border-width:0px;padding-right:6px;  margin-top:8px;"></a>
+-->
+
+		<a href="http://securityxploded.com/rss-feeds.php" style="border-width:0px;">
+		<img alt="RSS Feeds" src="http://securityxploded.com/images/contact_rss.jpg" width="22" height="22"  title="Follow through our RSS Feeds" style="border-width:0px;padding-right:6px;  margin-top:8px;"></a>
+
+    
+  
+    </div>            
+            
+</div>
+
+
+
+
+</center>
+</div>  <!--- Top menu bar ends here -->
+
+
+
+
+
+
+
+
+
+<table cellspacing="0" cellpadding="0"  width="100%" style="background-color:#020906" class="header_body">
+
+		<tr><td style="text-align:center;"> 
+		<center>
+
+        <table width="1200" height="120" cellspacing="0" cellpadding="0" style="background-color:#020906">
+        
+               <tr style="vertical-align:top; ;color:lime;">
+               <td  style="text-align:left;padding-top:20px">
+				
+               
+                <a href="http://securityphresh.com"> 
+			<img src="images/securityphresh_banner_2014.png" title="SecurityPhresh"></a>
+            
+             
+                </td>
+                    
+                          
+        		
+        
+       <td width=580  style="text-align:right;vertical-align:bottom;color:#999;padding-bottom:15px;">
+       
+           <a href="index.php" class="menutext">Home</a> | <a href="latest-security-news.php"  class="menutext">Latest News</a> | <a href="popular-security-news.php"  class="menutext">Popular News</a> | <a href="group.php"  class="menutext">Our Network</a> | <a href="about.php"  class="menutext">About</a> | <a href="contact.php"  class="menutext">Contact</a>
+           
+           
+				<!--
+                <a href="security-conferences.php"  class="menutext">Our Network</a>
+                
+                	<a href="http://twitter.com/SecurityPhresh" target="_blank"> 
+		<img src="images/contact_twitter_green.jpg" width=24 height=24 title="Follow on Twitter"></a>
+		
+		&nbsp;
+		<a href="https://www.facebook.com/pages/SecurityPhresh/231443076942108" target="_blank"> 
+		<img src="images/contact_facebook_green.jpg" width=24 height=24 title="Follow on Facebook"></a>
+        
+        &nbsp;
+		<a href="http://securityphresh.com/rss-feeds.php"> 
+		<img src="images/contact_rss.jpg" width=24 height=24 title="RSS News Feed"></a>
+                -->
+                
+                </td>
+                    
+                          
+        		</tr>
+               
+                 
+        </table>
+        
+    </td></tr>
+    
+    
+    
+    
+ </table>  
+
+
+
+
+<!--
+
+
+<table cellspacing="0" cellpadding="0"  width="100%" style="background-image:url(images/header_back_sidebar.jpg);background-repeat:repeat-x;">
+
+		<tr><td style="text-align:center;"> 
+		<center>
+
+        <table width="1024" height="120" cellspacing="0" cellpadding="0" style="background-image:url(images/header_back_bar.jpg); background-repeat:no-repeat;">
+        
+        
+        
+        <tr style="text-align:right;vertical-align:top; ;color:lime;"><td height="30" style="padding-top:15px">
+				
+                	<a href="http://twitter.com/SecurityPhresh" target="_blank"> 
+		<img src="images/contact_twitter_green.jpg" width=24 height=24 title="Follow on Twitter"></a>
+		
+		&nbsp;
+		<a href="https://www.facebook.com/pages/SecurityPhresh/231443076942108" target="_blank"> 
+		<img src="images/contact_facebook_green.jpg" width=24 height=24 title="Follow on Facebook"></a>
+        
+        &nbsp;
+		<a href="http://securityphresh.com/rss-feeds.php"> 
+		<img src="images/contact_rss.jpg" width=24 height=24 title="RSS News Feed"></a>
+                
+                
+                </td>
+                    
+                          
+        		</tr>
+                
+                
+        	
+				<tr style="text-align:right;vertical-align:bottom; ;color:white;"><td height="40" style="padding-bottom:10px">
+				
+                <a href="index.php" class="menutext">Home</a> | <a href="latest-security-news.php"  class="menutext">Latest</a> | <a href="popular-security-news.php"  class="menutext">Popular</a> | <a href="security-conferences.php"  class="menutext">Conferences</a> |  <a href="about.php"  class="menutext">About</a> | <a href="contact.php"  class="menutext">Contact</a>
+                
+                
+                </td>
+                    
+               
+        
+        		</tr>
+                    
+                 
+        </table>
+        
+    </td></tr>
+    
+    
+    
+    
+ </table>   
+ 
+ -->
+     
+ <table width="100%" cellspacing="0" cellpadding="0"  style="background-image: url('images/background.png'); background-repeat:repeat;" >
+                 
+      
+        <tr>
+            <td style="vertical-align:top;text-align:center;border:#aaaaaa thin ridge;border-width: 0px 0px 0px 0px;padding-left:0px;">
+            <center>
+            
+            <table width="1200" cellspacing="0" cellpadding="0" class="main_body">
+             <tr><td style="height:25px;"> </td></tr>
+    
+                <tr>
+                
+          
+
+		
+        		
+			  
+
+ 
+
+
+
+<td style="vertical-align:top">
+
+
+<head> <meta http-equiv='Content-Language' content='en-us'> <title> Carly Fiorinas Status Update: Out Of White House Race - CNET | www.SecurityPhresh.com </title><div id='fb-root'></div><script>(function(d, s, id) {   var js, fjs = d.getElementsByTagName(s)[0];   if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;  js.src = '//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0'; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>	 </head><table style='width: 98%; float: left;'  cellpadding='0' cellspacing='0' >  <tr> <td> <div class='feed_title_row' style='text-align:left;padding-top:15px;' onMouseOver="this.style.backgroundColor='#efefef';"  onMouseOut="this.style.backgroundColor='#fafafa';"><span class='feed_title_single' >Carly Fiorinas Status Update: Out Of White House Race - CNET</span><div style='padding-top:8px;'>  <span class='feed_date'>10th Feb 2016 [3 months ago] from</span><span class='feed_source' > <a href='http://securityphresh.com/latest-security-news-source.php?sp_source=70&sp_tag=0' target='_blank' style='font-weight:normal;color:black;'> TechWorld</a> </span> </div><div style='padding-top:15px;text-align:justify;' ><span class='feed_desc'>The Republican candidate bids farewell to her presidential aspirations via Facebook.</span><div style='padding-top:20px;padding-bottom:30px;'> <div style='float:left;'><iframe src='//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fcnet.com.feedsportal.com%2Fc%2F34938%2Ff%2F645093%2Fs%2F4d801bab%2Fsc%2F7%2Fl%2F0L0Scnet0N0Cnews0Ccarly0Efiorinas0Estatus0Eupdate0Eout0Eof0Ewhite0Ehouse0Erace0C0Tftag0FCAD590Aa51e%2Fstory01.htm&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21' scrolling='no' frameborder='0' style='border:none; overflow:hidden; width:90px; height:21px;' allowTransparency='true'></iframe><div class='g-plusone' data-size='medium' data-href='http%3A%2F%2Fcnet.com.feedsportal.com%2Fc%2F34938%2Ff%2F645093%2Fs%2F4d801bab%2Fsc%2F7%2Fl%2F0L0Scnet0N0Cnews0Ccarly0Efiorinas0Estatus0Eupdate0Eout0Eof0Ewhite0Ehouse0Erace0C0Tftag0FCAD590Aa51e%2Fstory01.htm'></div></div><div style='float:right;font-size:15px;'> <a href='http://cnet.com.feedsportal.com/c/34938/f/645093/s/4d801bab/sc/7/l/0L0Scnet0N0Cnews0Ccarly0Efiorinas0Estatus0Eupdate0Eout0Eof0Ewhite0Ehouse0Erace0C0Tftag0FCAD590Aa51e/story01.htm' target='_blank'>Read Full Story&nbsp;&raquo;</a></div> </div><p style='padding-top:5px;'>  <div class='fb-comments' data-href='http://securityphresh.com/security-news-display.php?newsid=59933'  data-width='825' data-numposts='2' data-colorscheme='light'></div></p></div> </div><div style='height:1px;width:100%;border-top:1px #dddddd dotted;'></div></td> </tr></table><br><br><br><center><iframe src='http://securityxploded.com/iframe_ad_728_90.html' scrolling='no' width=800 height=110 frameborder=0>  </iframe> </center> <br><table style='width: 98%; float: left;'  cellpadding='0' cellspacing='0' ><tr><td class='hot_news_title'> Today's Hot Hacking &amp; Security News Stories</td> </tr><tr><td style='height:20px;'></td> </tr>  <tr><td class='hot_news_item'> <a href='http://securityphresh.com/security-news-display.php?newsid=65396' style='font-weight:bold;'> BWL Service Steady Despite Brand New Type Of Cyber Attack, Says Utilitya S GM </a> </td> </tr> <tr><td class='hot_news_item'> <a href='http://securityphresh.com/security-news-display.php?newsid=65268' style='font-weight:bold;'> Anonymous Hackers Leak 1TB Of Documents From Kenyas Ministry Of Foreign Affairs </a> </td> </tr> <tr><td class='hot_news_item'> <a href='http://securityphresh.com/security-news-display.php?newsid=65388' style='font-weight:bold;'> New GTA 5 Online Mode Announced, Next Event And Sale Detailed - CNET </a> </td> </tr> <tr><td class='hot_news_item'> <a href='http://securityphresh.com/security-news-display.php?newsid=65395' style='font-weight:bold;'> Boom! Prince Harry One-ups The Obamas On Twitter - CNET </a> </td> </tr> <tr><td class='hot_news_item'> <a href='http://securityphresh.com/security-news-display.php?newsid=65300' style='font-weight:bold;'> Facebook Says Government Data Queries Up 13 Percent </a> </td> </tr> <tr><td class='hot_news_item'> <a href='http://securityphresh.com/security-news-display.php?newsid=65391' style='font-weight:bold;'> Google AI Given Access To Reams Of Confidential NHS Patient Records </a> </td> </tr> <tr><td style='padding-top:30px;padding-left:20px;font-size:16px;'><a href='http://securityphresh.com/popular-security-news.php'> More Hot News Stories&nbsp;&raquo;</a></td> </tr>   <tr><td style='height:250px;'></td> </tr>  </table>
+
+
+</td>
+
+
+  <td width="320" style="border-right:0px #eee solid; vertical-align:top; text-align:right;" >
+				<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+
+<head>
+<!--<link rel="stylesheet" type="text/css" href="securityxploded.css">-->
+
+
+</head>
+
+
+
+
+<table  style="width: 100%;height: 100%;text-align:right;padding-left:12px;"  cellpadding="0" cellspacing="0">
+
+
+			
+<tr><td style="height: 5px"></td> 	</tr>
+
+
+<!--
+<tr><td style='text-align:center'>
+
+<iframe src='iframe_ad_300_250.html' scrolling='no' width=310 height=260 frameborder=0>  </iframe> 
+
+</td></tr>
+
+
+<tr><td style="height: 20px"></td> 	</tr>
+-->
+
+<!--
+
+<tr><td>
+			<table   width="100%" height="100%" cellspacing="0" cellpadding="0" >
+			<tbody>
+			<tr>
+			<td class="sidebar_header">Follow SecurityPhresh</td>
+			
+
+			</tr>
+			<tr>
+				<td style="height: 15px;"></td>
+			</tr>
+
+				<tr>
+				<td style="text-align:left;" >
+				
+					  	<a href="http://twitter.com/SecurityPhresh" target="_blank"> 
+		<img src="images/contact_twitter_green.jpg" width=32 height=32 title="Follow on Twitter"></a>
+		
+		&nbsp;
+		<a href="http://www.facebook.com/pages/SecurityXploded/104721292928445" target="_blank"> 
+		<img src="images/contact_facebook_green.jpg" width=32 height=32 title="Follow on Facebook"></a>
+        
+        &nbsp;
+		<a href="http://securityphresh.com/rss-feeds.php"> 
+		<img src="images/contact_rss.jpg" width=32 height=32 title="RSS News Feed"></a>
+				
+
+				</td>
+			</tr>									
+					
+						
+
+
+			</tbody>
+			</table>
+</td></tr>
+
+<tr><td style="height: 20px"></td> 	</tr>
+
+-->
+
+
+
+<tr><td>
+			<table   width="100%" height="100%" cellspacing="0" cellpadding="0" >
+			<tr>
+            
+			<td class="sidebar_header"><!--<img alt='' src='images/release1.gif' style='vertical-align:middle;' width='18' height='18'>-->Hacking &amp; Security News</td>
+			</tr>
+			
+			
+				<tr><td>
+			<ul style='line-height:170%;margin-top:10px;margin-left:-10px; list-style-image:url("images/sx_icon_about_bullet.png");'>
+         
+			
+				
+		
+			<li> <a class="sidebar_listtext" href="latest-security-news.php"> Latest Security News</a>            
+			<li><a class="sidebar_listtext" href="popular-security-news.php">Popular Security News</a>            
+			<li><a class="sidebar_listtext" href="popular-security-news-weekly.php">Weekly Hot News</a>            
+			<li><a class="sidebar_listtext" href="popular-security-news-monthly.php">Monthly Hot News</a>       
+            <li><a class="sidebar_listtext" href="security-conferences.php"><b>Security Conferences</b></a>            
+		
+		
+		</ul>
+		</td></tr>
+
+
+
+
+
+			</tbody>
+			</table>
+</td></tr>
+
+<tr><td style="height: 20px"></td> 	</tr>
+
+
+
+
+
+
+<tr><td>
+			<table   width="100%" height="100%" cellspacing="0" cellpadding="0" >
+			<tr>
+            
+			<td class="sidebar_header"><!--<img alt='' src='images/release1.gif' style='vertical-align:middle;' width='18' height='18'>-->Security News Sections</td>
+			</tr>
+			
+			
+				<tr><td>
+			<ul style='line-height:170%;margin-top:10px;margin-left:-10px; list-style-image:url("images/sx_icon_about_bullet.png");'>
+         
+			
+					<li> <a class="sidebar_listtext" href="latest-security-news-research.php">Security Research News</a>
+				
+				
+		    <li>	<a class="sidebar_listtext"  href="latest-security-news-blogs.php">Popular Security Blogs</a>
+        
+            <li> <a class="sidebar_listtext" href="latest-security-news-videos.php">Latest Infosec Videos</a>
+
+				
+		    <li>	<a class="sidebar_listtext"  href="latest-security-news-tools.php">New  Security Tools</a>
+        
+        	<li><a class="sidebar_listtext"  href="latest-security-news-jobs.php">Hot Infosec Jobs</a>
+
+                
+		    <li>	<a class="sidebar_listtext"  href="latest-security-news-exploits.php">Latest Exploits</a>            
+		    <li><a class="sidebar_listtext"  href="latest-security-news-vulns.php">New Vulnerabilities</a>
+		      
+		      <li>    <a class="sidebar_listtext"  href="latest-security-news-threats.php">Malware News</a>
+		<li> <a class="sidebar_listtext" href="latest-security-news-papers.php">Security Papers</a>
+        
+        
+				
+	
+
+		</li>
+		
+		
+		</ul>
+		</td></tr>
+
+
+
+
+
+			</tbody>
+			</table>
+</td></tr>
+
+<tr><td style="height: 20px"></td> 	</tr>
+
+
+
+
+
+
+
+<tr><td>
+			<table   width="100%" height="100%" cellspacing="0" cellpadding="0" >
+			<tbody>
+			<tr>
+			<td class="sidebar_header"><!--<img alt='' src='images/release1.gif' style='vertical-align:middle;' width='18' height='18'>-->Security News Channels</td>
+			</tr>
+					
+			<tr>
+				<td style="height: 2px"></td>
+			</tr>
+
+			<tr>
+					<td style="text-align:left;" >
+				
+				<ul style='line-height:170%;margin-top:10px;margin-left:-10px; list-style-image:url("images/sx_icon_about_bullet.png");'>
+                    
+				<li> <a class='sidebar_listtext' href='latest-security-news-source.php?sp_source=4'>ZDNet</a></li>
+				<li> <a class='sidebar_listtext' href='latest-security-news-source.php?sp_source=3'>Threatpost</a></li>
+                	<li> <a class='sidebar_listtext' href='latest-security-news-source.php?sp_source=5'>Wired.com</a></li>
+	<li> <a class='sidebar_listtext' href='latest-security-news-source.php?sp_source=1'>The Register</a></li>
+            
+				<li> <a class='sidebar_listtext' href='latest-security-news-source.php?sp_source=8'>Guardian</a></li>
+					<li> <a class='sidebar_listtext' href='latest-security-news-source.php?sp_source=6'>Naked Security</a></li>
+
+   				<li> <a class='sidebar_listtext' href='latest-security-news-source.php?sp_source=2'>InfoWorld</a></li>
+			   	<li> <a class='sidebar_listtext' href='latest-security-news-source.php?sp_source=11'>Google News</a></li>
+  			 	<li> <a class='sidebar_listtext' href='latest-security-news-source.php?sp_source=9'>PCWorld</a></li>
+			
+   				<li> <a class='sidebar_listtext' href='latest-security-news-source.php?sp_source=7'>eSecurityPlanet</a></li>
+
+					</ul>				
+		
+				</td>
+			</tr>										
+						
+
+
+			</tbody>
+			</table>
+</td></tr>
+
+<tr><td style="height: 20px"></td> 	</tr>
+
+
+
+
+<tr><td>
+			<table   width="100%" height="100%" cellspacing="0" cellpadding="0" >
+			<tbody>
+			<tr>
+			<td class="sidebar_header">Follow us on Facebook</td>
+			</tr>
+					
+			<tr>
+				<td style="height: 15px"></td>
+			</tr>
+
+			<tr>
+				<td style="text-align:left;" >
+				
+					<iframe src='//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FSecurityXploded%2F104721292928445&amp;width=290&amp;height=300&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false&amp;connections=15' scrolling='no' frameborder='1' style='border:1px; overflow:hidden; width:290px; height:300px;' allowTransparency='true'></iframe>
+                    
+				                             
+                 		
+			
+				</td>
+			</tr>										
+						
+
+
+			</tbody>
+			</table>
+</td></tr>
+
+<tr><td style="height: 30px"></td> 	</tr>
+
+
+
+<!--
+<tr><td>
+			<table   width="100%" height="100%" cellspacing="0" cellpadding="0" >
+			<tbody>
+			<tr>
+			<td class="sidebar_header">Send Feedback
+
+
+			</td>
+			
+
+			</tr>
+			<tr>
+				<td style="height: 10px"></td>
+			</tr>
+
+				<tr>
+				<td style="text-align:left;" >
+				
+					
+				
+					<p>
+						<a href="site-feedback.php">
+						<img class="sidebar_image" alt="" src="images/send-feedback.jpg" height="130" width="190" style="padding:0px;"></a>
+			
+					
+					</p>
+
+
+				</td>
+			</tr>									
+					
+						
+
+
+			</tbody>
+			</table>
+</td></tr>
+
+<tr><td style="height: 30px"></td> 	</tr>
+-->
+
+
+
+
+
+<tr>
+  <td>
+			<table   width="100%" height="100%" cellspacing="0" cellpadding="0" >
+			<tbody>
+			<tr>
+			<td class="sidebar_header">Our Security Network
+
+
+			</td>
+			
+
+			</tr>
+			<tr>
+				<td style="height: 15px"></td>
+			</tr>
+
+				<tr>
+				<td style="text-align:left;" >
+				<a href="http://xenarmor.com" target="_blank"><img alt="XenArmor"  src="http://www.xenarmor.com/images/network-xenarmor.jpg" width="290"  height=100 ></a>
+					
+
+				</td>
+			</tr>		
+            
+            <tr><td style="height: 25px"></td> 	</tr>
+
+<tr>
+				<td style="text-align:left;" >
+                <a href="http://securityxploded.com" target="_blank"><img alt="SecurityXploded"  src="http://www.xenarmor.com/images/network-securityxploded.jpg"  width="290"  height=100></a>
+                </td>
+			</tr>		
+            
+            
+            
+            							
+				<tr><td style="height: 25px"></td> 	</tr>
+
+<tr>
+				<td style="text-align:left;" ><a href="http://SecurityTrainings.net" target="_blank"><img alt="SecurityXploded"  src="http://www.xenarmor.com/images/network-securitytrainings.jpg" width="290"  height=100></a></td>
+			</tr>	
+            
+            
+            <tr><td style="height: 25px"></td> 	</tr>
+
+
+<tr>
+				<td style="text-align:left;" ><a href="http://MalwareNet.com" target="_blank"><img alt="SecurityXploded"  src="http://securityxploded.com/images/malwarenet_banner_300.jpg" width="290"  height=85 ></a></td>
+			</tr>	
+			</tbody>
+			</table>
+</td></tr>
+
+<tr><td style="height: 20px"></td> 	</tr>
+
+
+
+
+
+<tr><td style="height: 200px"></td> 	</tr>
+
+
+
+
+		
+
+</tbody>
+</table>
+
+				
+			</td>
+					
+
+					</tr>
+            </table>
+      </td></tr>
+    
+    
+</table>            
+
+
+
+	
+	
+<!-- Display full foooter here now -->
+
+	
+
+	<table width="100%" cellpadding="0" cellspacing="0">
+    
+    <tr class="copyright_text">
+    <td>
+    
+   <center>
+   
+ <table width="1200"  align="center" cellpadding="0" cellspacing="0">
+						
+						<tr class="copyright_text" style="vertical-align: middle;">
+						<td style="height:40px;vertical-align:middle;text-align:left;">
+							SecurityPhresh &copy; 2016, All rights reserved. Powered by <a href="http://xenarmor.com" style="border-bottom:none;color:green;" target="_blank"> XenArmor</a>
+						</td>
+						<td style="text-align:right;vertical-align:middle;font-size:11px;">
+						
+
+						
+							<a href="about.php" style="border-bottom:none;color:green;">About</a> |
+								<a href="contact.php" style="border-bottom:none;color:green;">Contact</a> |
+								<a href="partners.php"  style="border-bottom:none;color:green;">Partners</a> |
+                                <a href="sitemap.xml" style="border-bottom:none;color:green;">Sitemap</a> |
+                                
+							
+							<a href="license.php" style="border-bottom:none;color:green;">License</a> |
+                            
+                           
+<a href="privacy-policy.php" style="border-bottom:none;color:green;">Privacy Policy</a>                            
+                           
+                        						
+						
+							
+							
+						
+						</td>
+						</tr>
+		</table>
+        
+        </center>
+        
+</td>
+</tr>
+</table>
+        
+				
+
+
+
+
+<!-- Place this tag after the last +1 button tag. -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1140732-11']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+</body>
+</html>

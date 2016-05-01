@@ -1,0 +1,817 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <![endif]-->
+<!--[if IE 7]>    <html class="lt-ie9 lt-ie8" lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <![endif]-->
+<!--[if IE 8]>    <html class="lt-ie9" lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> <!--<![endif]-->
+<head>
+  <title>France: Abuses Under State of Emergency | Human Rights Watch</title>
+  <meta name="MobileOptimized" content="width" />
+<meta http-equiv="x-ua-compatible" content="ie=edge, chrome=1" />
+<meta charset="utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(e,t){return function(){o(e,[(new Date).getTime()].concat(a(arguments)),null,t)}}var o=e("handle"),i=e(2),a=e(3);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var u=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(u,function(e,t){newrelic[t]=r(f+t,"api")}),i(c,function(e,t){newrelic[t]=r(f+t)}),t.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),o("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(0>o?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?u(e,a,i):i()}function n(n,r,o){e&&e(n,r,o);for(var i=t(o),a=l(n),u=a.length,c=0;u>c;c++)a[c].apply(i,r);var s=f[g[n]];return s&&s.push([m,n,r,i]),i}function p(e,t){w[e]=l(e).concat(t)}function l(e){return w[e]||[]}function d(e){return s[e]=s[e]||o(n)}function v(e,t){c(e,function(e,n){t=t||"feature",g[n]=t,t in f||(f[t]=[])})}var w={},g={},m={on:p,emit:n,get:d,listeners:l,context:t,buffer:v};return m}function i(){return new r}var a="nr@context",u=e("gos"),c=e(2),f={},s={},p=t.exports=o();p.backlog=f},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!w++){var e=v.info=NREUM.info,t=s.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&t){c(l,function(t,n){e[t]||(e[t]=n)});var n="https"===p.split(":")[0]||e.sslForHttp;v.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=v.proto+e.agent,t.parentNode.insertBefore(r,t)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=window,s=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},e(1);var p=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),v=t.exports={offset:a(),origin:p,features:{},xhrWrappable:d};s.addEventListener?(s.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(s.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),u("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader"]);</script>
+<link rel="shortcut icon" href="https://www.hrw.org/sites/all/themes/hrw/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+<noscript><link href="https://www.hrw.org/sites/all/themes/hrw/img/grunticon/icons.fallback.css" rel="stylesheet"></noscript><meta http-equiv="cleartype" content="on" />
+<meta name="description" content="[[nid:286499 field_ne_alignment=center]] (Paris) – France has carried out abusive and discriminatory raids and house arrests against Muslims under its sweeping new state of emergency law. The measures have created economic hardship, stigmatized those targeted, and have traumatized children." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.hrw.org/news/2016/02/03/france-abuses-under-state-emergency" />
+<link rel="shortlink" href="https://www.hrw.org/node/286497" />
+<meta property="og:site_name" content="Human Rights Watch" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="France: Abuses Under State of Emergency" />
+<meta property="og:url" content="https://www.hrw.org/news/2016/02/03/france-abuses-under-state-emergency" />
+<meta property="og:description" content="France has carried out abusive and discriminatory raids and house arrests against Muslims under its sweeping new state of emergency law. The measures have created economic hardship, stigmatized those targeted, and have traumatized children.  " />
+<meta property="og:updated_time" content="2016-02-04T12:18:37-05:00" />
+<meta property="og:image" content="https://www.hrw.org/sites/default/files/styles/open_graph/public/multimedia_images_2016/halim_a.jpg?itok=C9Gl3tlg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@hrw" />
+<meta name="twitter:creator:id" content="14700316" />
+<meta name="twitter:url" content="https://www.hrw.org/news/2016/02/03/france-abuses-under-state-emergency" />
+<meta name="twitter:title" content="France: Abuses Under State of Emergency" />
+<meta name="twitter:description" content="France has carried out abusive and discriminatory raids and house arrests against Muslims under its sweeping new state of emergency law. The measures have created economic hardship, stigmatized those targeted, and have traumatized children.  " />
+<meta name="twitter:image" content="https://www.hrw.org/sites/default/files/styles/open_graph/public/multimedia_images_2016/halim_a.jpg?itok=C9Gl3tlg" />
+<meta property="article:publisher" content="https://www.facebook.com/HumanRightsWatch" />
+<meta property="article:published_time" content="2016-02-03T19:01:00-05:00" />
+<meta property="article:modified_time" content="2016-02-04T12:18:37-05:00" />
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.hrw.org/sites/all/themes/hrw/favicon.ico" />
+  <!--[if lt IE 9]><script src="/sites/all/libraries/html5shiv/html5shiv.js"></script><![endif]-->
+  <!--[if lt IE 9]><script src="/sites/all/libraries/html5shiv/html5shiv-printshiv.js"></script><![endif]-->
+  <link type="text/css" rel="stylesheet" href="https://www.hrw.org/sites/default/files/css/css_0UlDdEDp0d-tIvGgodOx649utdRoA_6CbpkzuC1OvOY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hrw.org/sites/default/files/css/css_ERXPFOdisnzr2M1UKfU9yUkQeYCACkO1sHAQyOED2u8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/f6b12f55-6a39-4418-bd32-e1341eb2a92e.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hrw.org/sites/default/files/css/css_KGTSoWTF21GkSAqd_v8BVGJ7yzB3uwqwbXqXmvJGXyg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hrw.org/sites/default/files/css/css_7BsfCvvygxpDwkt25_Q0eYuYnK2CrKjwyVioNsCM_Mg.css" media="print" />
+  <script type="text/javascript" src="https://www.hrw.org/sites/default/files/js/js_wWXEbZ4PwtBARmB0-Pjdh2IDUKi1rEsFsQHfCLKwk0g.js"></script>
+<script type="text/javascript" src="https://www.hrw.org/sites/default/files/js/js_H7q2xORKmR9AN8Qx5spKEIBp7R_wG2apAswJoCUZY7I.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"hrw","theme_token":"1Op-aCpx2vUf9d_bG6k1H7BmQPfGmjm50aCrFI39MZU","js":{"sites\/all\/themes\/hrw\/build\/js\/main.js":1,"0":1,"1":1,"sites\/all\/modules\/contrib\/radioactivity\/js\/radioactivity.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/patched\/footnotes\/footnotes.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/patched\/chartbeat\/chartbeat.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/radioactivity\/css\/radioactivity.css":1,"sites\/all\/modules\/contrib\/print\/print_ui\/css\/print_ui.theme.css":1,"modules\/locale\/locale.css":1,"sites\/all\/modules\/patched\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/themes\/hrw\/build\/css\/screen.css":1,"\/\/fast.fonts.net\/cssapi\/f6b12f55-6a39-4418-bd32-e1341eb2a92e.css":1,"sites\/all\/themes\/center\/css\/override\/kill\/ctools.css":1,"sites\/all\/themes\/center\/css\/override\/kill\/field.css":1,"sites\/all\/themes\/center\/css\/override\/kill\/node.css":1,"sites\/all\/themes\/center\/css\/override\/kill\/system.messages.css":1,"sites\/all\/themes\/center\/css\/override\/kill\/system.menus.css":1,"sites\/all\/themes\/center\/css\/override\/kill\/user.css":1,"sites\/all\/themes\/center\/css\/override\/kill\/views.css":1,"sites\/all\/themes\/center\/css\/override\/kill\/field_collection.theme.css":1,"sites\/all\/themes\/center\/css\/override\/keep\/system.base.css":1,"sites\/all\/themes\/center\/css\/override\/keep\/system.theme.css":1,"sites\/all\/themes\/center\/css\/override\/keep\/search.css":1,"sites\/all\/themes\/center\/css\/override\/keep\/vertical-tabs.css":1,"sites\/all\/themes\/hrw\/build\/css\/jplayer.css":1,"sites\/all\/themes\/hrw\/build\/css\/print.css":1}},"chartbeat":{"uid":8172,"domain":"www.hrw.org","useCanonical":true,"noCookies":false},"better_exposed_filters":{"views":{"most_viewed_content":{"displays":{"panel_pane_1":{"filters":[]}}}}},"radioactivity":{"emitters":{"emitDefault":[{"accuracy":100,"bundle":"news","energy":10,"entity_id":"286497","entity_type":"node","field_name":"field_shared_popularity","language":"und","storage":"Live","type":"none","checksum":"ddcea74bc1d7c871784e6860f26cc4f4"}]},"config":{"emitPath":"\/sites\/all\/modules\/contrib\/radioactivity\/emit.php","fpEnabled":0,"fpTimeout":"15"}},"hrw_navigation":{"region_country":{"term9450":{"path":"\/africa","name":"Africa","id":"9450","weight":0},"term9457":{"path":"\/africa\/angola","name":"Angola","id":"9457","weight":1,"pid":"9450"},"term9461":{"path":"\/africa\/burundi","name":"Burundi","id":"9461","weight":2,"pid":"9450"},"term9462":{"path":"\/africa\/cameroon","name":"Cameroon","id":"9462","weight":3,"pid":"9450"},"term9464":{"path":"\/africa\/central-african-republic","name":"Central African Republic","id":"9464","weight":4,"pid":"9450"},"term9465":{"path":"\/africa\/chad","name":"Chad","id":"9465","weight":5,"pid":"9450"},"term9468":{"path":"\/africa\/cote-divoire","name":"Cote d\u0027Ivoire","id":"9468","weight":6,"pid":"9450"},"term9469":{"path":"\/africa\/democratic-republic-congo","name":"Democratic Republic of Congo","id":"9469","weight":7,"pid":"9450"},"term9471":{"path":"\/africa\/equatorial-guinea","name":"Equatorial Guinea","id":"9471","weight":8,"pid":"9450"},"term9472":{"path":"\/africa\/eritrea","name":"Eritrea","id":"9472","weight":9,"pid":"9450"},"term9473":{"path":"\/africa\/ethiopia","name":"Ethiopia","id":"9473","weight":10,"pid":"9450"},"term9475":{"path":"\/africa\/gambia","name":"Gambia","id":"9475","weight":11,"pid":"9450"},"term9476":{"path":"\/africa\/ghana","name":"Ghana","id":"9476","weight":12,"pid":"9450"},"term9477":{"path":"\/africa\/guinea","name":"Guinea","id":"9477","weight":13,"pid":"9450"},"term9479":{"path":"\/africa\/kenya","name":"Kenya","id":"9479","weight":14,"pid":"9450"},"term9481":{"path":"\/africa\/liberia","name":"Liberia","id":"9481","weight":15,"pid":"9450"},"term9483":{"path":"\/africa\/malawi","name":"Malawi","id":"9483","weight":16,"pid":"9450"},"term9484":{"path":"\/africa\/mali","name":"Mali","id":"9484","weight":17,"pid":"9450"},"term9486":{"path":"\/africa\/mozambique","name":"Mozambique","id":"9486","weight":18,"pid":"9450"},"term9489":{"path":"\/africa\/nigeria","name":"Nigeria","id":"9489","weight":19,"pid":"9450"},"term9490":{"path":"\/africa\/rwanda","name":"Rwanda","id":"9490","weight":20,"pid":"9450"},"term9491":{"path":"\/africa\/senegal","name":"Senegal","id":"9491","weight":21,"pid":"9450"},"term9493":{"path":"\/africa\/sierra-leone","name":"Sierra Leone","id":"9493","weight":22,"pid":"9450"},"term9494":{"path":"\/africa\/somalia","name":"Somalia","id":"9494","weight":23,"pid":"9450"},"term9495":{"path":"\/africa\/south-africa","name":"South Africa","id":"9495","weight":24,"pid":"9450"},"term9496":{"path":"\/africa\/south-sudan","name":"South Sudan","id":"9496","weight":25,"pid":"9450"},"term9497":{"path":"\/africa\/sudan","name":"Sudan","id":"9497","weight":26,"pid":"9450"},"term9499":{"path":"\/africa\/tanzania-and-zanzibar","name":"Tanzania and Zanzibar","id":"9499","weight":27,"pid":"9450"},"term9501":{"path":"\/africa\/uganda","name":"Uganda","id":"9501","weight":28,"pid":"9450"},"term9502":{"path":"\/africa\/zambia","name":"Zambia","id":"9502","weight":29,"pid":"9450"},"term9503":{"path":"\/africa\/zimbabwe","name":"Zimbabwe","id":"9503","weight":30,"pid":"9450"},"term9451":{"path":"\/americas","name":"Americas","id":"9451","weight":31},"term9505":{"path":"\/americas\/argentina","name":"Argentina","id":"9505","weight":32,"pid":"9451"},"term9509":{"path":"\/americas\/bolivia","name":"Bolivia","id":"9509","weight":33,"pid":"9451"},"term9510":{"path":"\/americas\/brazil","name":"Brazil","id":"9510","weight":34,"pid":"9451"},"term9511":{"path":"\/americas\/canada","name":"Canada","id":"9511","weight":35,"pid":"9451"},"term9512":{"path":"\/americas\/chile","name":"Chile","id":"9512","weight":36,"pid":"9451"},"term9513":{"path":"\/americas\/colombia","name":"Colombia","id":"9513","weight":37,"pid":"9451"},"term9514":{"path":"\/americas\/costa-rica","name":"Costa Rica","id":"9514","weight":38,"pid":"9451"},"term9515":{"path":"\/americas\/cuba","name":"Cuba","id":"9515","weight":39,"pid":"9451"},"term9516":{"path":"\/americas\/dominican-republic","name":"Dominican Republic","id":"9516","weight":40,"pid":"9451"},"term9517":{"path":"\/americas\/ecuador","name":"Ecuador","id":"9517","weight":41,"pid":"9451"},"term9518":{"path":"\/americas\/el-salvador","name":"El Salvador","id":"9518","weight":42,"pid":"9451"},"term9521":{"path":"\/americas\/guatemala","name":"Guatemala","id":"9521","weight":43,"pid":"9451"},"term9523":{"path":"\/americas\/haiti","name":"Haiti","id":"9523","weight":44,"pid":"9451"},"term9524":{"path":"\/americas\/honduras","name":"Honduras","id":"9524","weight":45,"pid":"9451"},"term9525":{"path":"\/americas\/jamaica","name":"Jamaica","id":"9525","weight":46,"pid":"9451"},"term9526":{"path":"\/americas\/mexico","name":"Mexico","id":"9526","weight":47,"pid":"9451"},"term9527":{"path":"\/americas\/nicaragua","name":"Nicaragua","id":"9527","weight":48,"pid":"9451"},"term9529":{"path":"\/americas\/paraguay","name":"Paraguay","id":"9529","weight":49,"pid":"9451"},"term9530":{"path":"\/americas\/peru","name":"Peru","id":"9530","weight":50,"pid":"9451"},"term9536":{"path":"\/americas\/uruguay","name":"Uruguay","id":"9536","weight":51,"pid":"9451"},"term9537":{"path":"\/americas\/venezuela","name":"Venezuela","id":"9537","weight":52,"pid":"9451"},"term9452":{"path":"\/asia","name":"Asia","id":"9452","weight":53},"term9538":{"path":"\/asia\/afghanistan","name":"Afghanistan","id":"9538","weight":54,"pid":"9452"},"term9539":{"path":"\/asia\/australia","name":"Australia","id":"9539","weight":55,"pid":"9452"},"term9540":{"path":"\/asia\/bangladesh","name":"Bangladesh","id":"9540","weight":56,"pid":"9452"},"term9543":{"path":"\/asia\/burma","name":"Burma","id":"9543","weight":57,"pid":"9452"},"term9544":{"path":"\/asia\/cambodia","name":"Cambodia","id":"9544","weight":58,"pid":"9452"},"term9545":{"path":"\/asia\/china-and-tibet","name":"China and Tibet","id":"9545","weight":59,"pid":"9452"},"term9547":{"path":"\/asia\/east-timor","name":"East Timor","id":"9547","weight":60,"pid":"9452"},"term9549":{"path":"\/asia\/fiji","name":"Fiji","id":"9549","weight":61,"pid":"9452"},"term9550":{"path":"\/asia\/india","name":"India","id":"9550","weight":62,"pid":"9452"},"term9551":{"path":"\/asia\/indonesia","name":"Indonesia","id":"9551","weight":63,"pid":"9452"},"term9552":{"path":"\/asia\/japan","name":"Japan","id":"9552","weight":64,"pid":"9452"},"term9554":{"path":"\/asia\/laos","name":"Laos","id":"9554","weight":65,"pid":"9452"},"term9555":{"path":"\/asia\/malaysia","name":"Malaysia","id":"9555","weight":66,"pid":"9452"},"term9559":{"path":"\/asia\/nauru","name":"Nauru","id":"9559","weight":67,"pid":"9452"},"term9560":{"path":"\/asia\/nepal","name":"Nepal","id":"9560","weight":68,"pid":"9452"},"term9563":{"path":"\/asia\/north-korea","name":"North Korea","id":"9563","weight":69,"pid":"9452"},"term9564":{"path":"\/asia\/pakistan","name":"Pakistan","id":"9564","weight":70,"pid":"9452"},"term9566":{"path":"\/asia\/papua-new-guinea","name":"Papua New Guinea","id":"9566","weight":71,"pid":"9452"},"term9567":{"path":"\/asia\/philippines","name":"Philippines","id":"9567","weight":72,"pid":"9452"},"term9569":{"path":"\/asia\/singapore","name":"Singapore","id":"9569","weight":73,"pid":"9452"},"term9571":{"path":"\/asia\/south-korea","name":"South Korea","id":"9571","weight":74,"pid":"9452"},"term9572":{"path":"\/asia\/sri-lanka","name":"Sri Lanka","id":"9572","weight":75,"pid":"9452"},"term9573":{"path":"\/asia\/taiwan","name":"Taiwan","id":"9573","weight":76,"pid":"9452"},"term9574":{"path":"\/asia\/thailand","name":"Thailand","id":"9574","weight":77,"pid":"9452"},"term9578":{"path":"\/asia\/vietnam","name":"Vietnam","id":"9578","weight":78,"pid":"9452"},"term9453":{"path":"\/europe\/central-asia","name":"Europe\/Central Asia","id":"9453","weight":79},"term9579":{"path":"\/europe\/central-asia\/albania","name":"Albania","id":"9579","weight":80,"pid":"9453"},"term9581":{"path":"\/europe\/central-asia\/armenia","name":"Armenia","id":"9581","weight":81,"pid":"9453"},"term9583":{"path":"\/europe\/central-asia\/azerbaijan","name":"Azerbaijan","id":"9583","weight":82,"pid":"9453"},"term9584":{"path":"\/europe\/central-asia\/belarus","name":"Belarus","id":"9584","weight":83,"pid":"9453"},"term9585":{"path":"\/europe\/central-asia\/belgium","name":"Belgium","id":"9585","weight":84,"pid":"9453"},"term9586":{"path":"\/europe\/central-asia\/bosnia-and-herzegovina","name":"Bosnia and Herzegovina","id":"9586","weight":85,"pid":"9453"},"term9587":{"path":"\/europe\/central-asia\/bulgaria","name":"Bulgaria","id":"9587","weight":86,"pid":"9453"},"term9588":{"path":"\/europe\/central-asia\/croatia","name":"Croatia","id":"9588","weight":87,"pid":"9453"},"term9590":{"path":"\/europe\/central-asia\/czech-republic","name":"Czech Republic","id":"9590","weight":88,"pid":"9453"},"term9592":{"path":"\/europe\/central-asia\/estonia","name":"Estonia","id":"9592","weight":89,"pid":"9453"},"term9593":{"path":"\/europe\/central-asia\/european-union","name":"European Union","id":"9593","weight":90,"pid":"9453"},"term9595":{"path":"\/europe\/central-asia\/france","name":"France","id":"9595","weight":91,"pid":"9453"},"term9596":{"path":"\/europe\/central-asia\/georgia","name":"Georgia","id":"9596","weight":92,"pid":"9453"},"term9597":{"path":"\/europe\/central-asia\/germany","name":"Germany","id":"9597","weight":93,"pid":"9453"},"term9598":{"path":"\/europe\/central-asia\/greece","name":"Greece","id":"9598","weight":94,"pid":"9453"},"term9599":{"path":"\/europe\/central-asia\/holy-see","name":"Holy See","id":"9599","weight":95,"pid":"9453"},"term9600":{"path":"\/europe\/central-asia\/hungary","name":"Hungary","id":"9600","weight":96,"pid":"9453"},"term9602":{"path":"\/europe\/central-asia\/ireland","name":"Ireland","id":"9602","weight":97,"pid":"9453"},"term9603":{"path":"\/europe\/central-asia\/italy","name":"Italy","id":"9603","weight":98,"pid":"9453"},"term9604":{"path":"\/europe\/central-asia\/kazakhstan","name":"Kazakhstan","id":"9604","weight":99,"pid":"9453"},"term9605":{"path":"\/europe\/central-asia\/kyrgyzstan","name":"Kyrgyzstan","id":"9605","weight":100,"pid":"9453"},"term9606":{"path":"\/europe\/central-asia\/latvia","name":"Latvia","id":"9606","weight":101,"pid":"9453"},"term9608":{"path":"\/europe\/central-asia\/lithuania","name":"Lithuania","id":"9608","weight":102,"pid":"9453"},"term9614":{"path":"\/europe\/central-asia\/netherlands","name":"Netherlands","id":"9614","weight":103,"pid":"9453"},"term9615":{"path":"\/europe\/central-asia\/norway","name":"Norway","id":"9615","weight":104,"pid":"9453"},"term9616":{"path":"\/europe\/central-asia\/poland","name":"Poland","id":"9616","weight":105,"pid":"9453"},"term9617":{"path":"\/europe\/central-asia\/portugal","name":"Portugal","id":"9617","weight":106,"pid":"9453"},"term9618":{"path":"\/europe\/central-asia\/romania","name":"Romania","id":"9618","weight":107,"pid":"9453"},"term9619":{"path":"\/europe\/central-asia\/russia","name":"Russia","id":"9619","weight":108,"pid":"9453"},"term9621":{"path":"\/europe\/central-asia\/serbia\/kosovo","name":"Serbia\/Kosovo","id":"9621","weight":109,"pid":"9453"},"term9624":{"path":"\/europe\/central-asia\/spain","name":"Spain","id":"9624","weight":110,"pid":"9453"},"term9625":{"path":"\/europe\/central-asia\/sweden","name":"Sweden","id":"9625","weight":111,"pid":"9453"},"term9627":{"path":"\/europe\/central-asia\/tajikistan","name":"Tajikistan","id":"9627","weight":112,"pid":"9453"},"term9628":{"path":"\/europe\/central-asia\/turkey","name":"Turkey","id":"9628","weight":113,"pid":"9453"},"term9629":{"path":"\/europe\/central-asia\/turkmenistan","name":"Turkmenistan","id":"9629","weight":114,"pid":"9453"},"term9630":{"path":"\/europe\/central-asia\/ukraine","name":"Ukraine","id":"9630","weight":115,"pid":"9453"},"term9631":{"path":"\/europe\/central-asia\/united-kingdom","name":"United Kingdom","id":"9631","weight":116,"pid":"9453"},"term9632":{"path":"\/europe\/central-asia\/uzbekistan","name":"Uzbekistan","id":"9632","weight":117,"pid":"9453"},"term9455":{"path":"\/middle-east\/n-africa","name":"Middle East\/North Africa","id":"9455","weight":118},"term9633":{"path":"\/middle-east\/n-africa\/algeria","name":"Algeria","id":"9633","weight":119,"pid":"9455"},"term9634":{"path":"\/middle-east\/n-africa\/bahrain","name":"Bahrain","id":"9634","weight":120,"pid":"9455"},"term9635":{"path":"\/middle-east\/n-africa\/egypt","name":"Egypt","id":"9635","weight":121,"pid":"9455"},"term9636":{"path":"\/middle-east\/n-africa\/iran","name":"Iran","id":"9636","weight":122,"pid":"9455"},"term9637":{"path":"\/middle-east\/n-africa\/iraq","name":"Iraq","id":"9637","weight":123,"pid":"9455"},"term9638":{"path":"\/middle-east\/n-africa\/israel\/palestine","name":"Israel\/Palestine","id":"9638","weight":124,"pid":"9455"},"term9639":{"path":"\/middle-east\/n-africa\/jordan","name":"Jordan","id":"9639","weight":125,"pid":"9455"},"term9640":{"path":"\/middle-east\/n-africa\/kuwait","name":"Kuwait","id":"9640","weight":126,"pid":"9455"},"term9641":{"path":"\/middle-east\/n-africa\/lebanon","name":"Lebanon","id":"9641","weight":127,"pid":"9455"},"term9642":{"path":"\/middle-east\/n-africa\/libya","name":"Libya","id":"9642","weight":128,"pid":"9455"},"term9644":{"path":"\/middle-east\/n-africa\/morocco\/western-sahara","name":"Morocco\/Western Sahara","id":"9644","weight":129,"pid":"9455"},"term9645":{"path":"\/middle-east\/n-africa\/oman","name":"Oman","id":"9645","weight":130,"pid":"9455"},"term9646":{"path":"\/middle-east\/n-africa\/qatar","name":"Qatar","id":"9646","weight":131,"pid":"9455"},"term9647":{"path":"\/middle-east\/n-africa\/saudi-arabia","name":"Saudi Arabia","id":"9647","weight":132,"pid":"9455"},"term9648":{"path":"\/middle-east\/n-africa\/syria","name":"Syria","id":"9648","weight":133,"pid":"9455"},"term9649":{"path":"\/middle-east\/n-africa\/tunisia","name":"Tunisia","id":"9649","weight":134,"pid":"9455"},"term9650":{"path":"\/middle-east\/n-africa\/united-arab-emirates","name":"United Arab Emirates","id":"9650","weight":135,"pid":"9455"},"term9651":{"path":"\/middle-east\/n-africa\/yemen","name":"Yemen","id":"9651","weight":136,"pid":"9455"},"term9456":{"path":"\/united-states","name":"United States","id":"9456","weight":137},"term9785":{"path":"\/united-states\/criminal-justice","name":"Criminal Justice","id":"9785","weight":138,"pid":"9456"},"term9659":{"path":"\/united-states\/immigration","name":"Immigration","id":"9659","weight":139,"pid":"9456"},"term9784":{"path":"\/united-states\/national-security","name":"National Security","id":"9784","weight":140,"pid":"9456"},"term9653":{"path":"\/united-states\/us-foreign-policy","name":"US Foreign Policy","id":"9653","weight":141,"pid":"9456"}},"topic":{"term9681":{"path":"\/topic\/arms","name":"Arms","id":"9681","weight":0},"term9703":{"path":"\/topic\/arms\/cluster-munitions","name":"Cluster Munitions","id":"9703","weight":1,"pid":"9681"},"term9704":{"path":"\/topic\/arms\/incendiary-weapons","name":"Incendiary Weapons","id":"9704","weight":2,"pid":"9681"},"term9705":{"path":"\/topic\/arms\/killer-robots","name":"Killer Robots","id":"9705","weight":3,"pid":"9681"},"term9706":{"path":"\/topic\/arms\/landmines","name":"Landmines","id":"9706","weight":4,"pid":"9681"},"term9682":{"path":"\/topic\/business","name":"Business","id":"9682","weight":5},"term9708":{"path":"\/topic\/business\/extractive-industries","name":"Extractive Industries","id":"9708","weight":6,"pid":"9682"},"term9709":{"path":"\/topic\/business\/world-bank-imf","name":"World Bank, IMF","id":"9709","weight":7,"pid":"9682"},"term9683":{"path":"\/topic\/childrens-rights","name":"Children\u0027s Rights","id":"9683","weight":8},"term9711":{"path":"\/topic\/childrens-rights\/child-labor","name":"Child Labor","id":"9711","weight":9,"pid":"9683"},"term9712":{"path":"\/topic\/childrens-rights\/child-soldiers","name":"Child Soldiers","id":"9712","weight":10,"pid":"9683"},"term9713":{"path":"\/topic\/childrens-rights\/education","name":"Education","id":"9713","weight":11,"pid":"9683"},"term9714":{"path":"\/topic\/childrens-rights\/education-and-conflict","name":"Education and Conflict","id":"9714","weight":12,"pid":"9683"},"term9715":{"path":"\/topic\/childrens-rights\/juvenile-justice","name":"Juvenile Justice","id":"9715","weight":13,"pid":"9683"},"term9716":{"path":"\/topic\/childrens-rights\/orphans-and-abandoned-children","name":"Orphans and Abandoned Children","id":"9716","weight":14,"pid":"9683"},"term9717":{"path":"\/topic\/childrens-rights\/refugees-and-migrants","name":"Refugees and Migrants","id":"9717","weight":15,"pid":"9683"},"term9685":{"path":"\/topic\/disability-rights","name":"Disability Rights","id":"9685","weight":16},"term9686":{"path":"\/topic\/environment","name":"Environment","id":"9686","weight":17},"term9688":{"path":"\/topic\/free-speech","name":"Free Speech","id":"9688","weight":18},"term9762":{"path":"\/topic\/free-speech\/internet-freedom","name":"Internet Freedom","id":"9762","weight":19,"pid":"9688"},"term9763":{"path":"\/topic\/free-speech\/press-freedom","name":"Press Freedom","id":"9763","weight":20,"pid":"9688"},"term9764":{"path":"\/topic\/free-speech\/religious-freedom","name":"Religious Freedom","id":"9764","weight":21,"pid":"9688"},"term9689":{"path":"\/topic\/health","name":"Health","id":"9689","weight":22},"term9726":{"path":"\/topic\/health\/detention-centers","name":"Detention Centers","id":"9726","weight":23,"pid":"9689"},"term9727":{"path":"\/topic\/health\/disasters-and-displaced-populations","name":"Disasters and displaced populations","id":"9727","weight":24,"pid":"9689"},"term9728":{"path":"\/topic\/health\/environment-and-health","name":"Environment and Health","id":"9728","weight":25,"pid":"9689"},"term9729":{"path":"\/topic\/health\/health-care-access","name":"Health care access","id":"9729","weight":26,"pid":"9689"},"term9730":{"path":"\/topic\/health\/hiv\/tb","name":"HIV\/TB","id":"9730","weight":27,"pid":"9689"},"term9731":{"path":"\/topic\/health\/palliative-care","name":"Palliative Care","id":"9731","weight":28,"pid":"9689"},"term9732":{"path":"\/topic\/health\/sexual-and-reproductive-health","name":"Sexual and Reproductive Health","id":"9732","weight":29,"pid":"9689"},"term9690":{"path":"\/topic\/international-justice","name":"International Justice","id":"9690","weight":30},"term9733":{"path":"\/topic\/international-justice\/bosco-ntaganda","name":"Bosco Ntaganda","id":"9733","weight":31,"pid":"9690"},"term9734":{"path":"\/topic\/international-justice\/charles-taylor","name":"Charles Taylor","id":"9734","weight":32,"pid":"9690"},"term9735":{"path":"\/topic\/international-justice\/international-criminal-court","name":"International Criminal Court","id":"9735","weight":33,"pid":"9690"},"term9736":{"path":"\/topic\/international-justice\/joseph-kony-lra","name":"Joseph Kony - LRA","id":"9736","weight":34,"pid":"9690"},"term9737":{"path":"\/topic\/international-justice\/peace-and-justice","name":"Peace and Justice","id":"9737","weight":35,"pid":"9690"},"term9691":{"path":"\/topic\/lgbt-rights","name":"LGBT Rights","id":"9691","weight":36},"term9692":{"path":"\/topic\/migrants","name":"Migrants","id":"9692","weight":37},"term9740":{"path":"\/topic\/trudovye-migranty\/exploitation-forced-labor-trafficking","name":"Exploitation, Forced Labor \u0026 Trafficking","id":"9740","weight":38,"pid":"9692"},"term9693":{"path":"\/topic\/refugees","name":"Refugees","id":"9693","weight":39},"term9741":{"path":"\/topic\/refugees\/asylum-seekers","name":"Asylum Seekers","id":"9741","weight":40,"pid":"9693"},"term9742":{"path":"\/topic\/refugees\/internally-displaced-people","name":"Internally Displaced People","id":"9742","weight":41,"pid":"9693"},"term9743":{"path":"\/topic\/refugees\/migrants","name":"Migrants","id":"9743","weight":42,"pid":"9693"},"term9684":{"path":"\/topic\/terrorism-counterterrorism","name":"Terrorism \/ Counterterrorism","id":"9684","weight":43},"term9720":{"path":"\/topic\/terrorism\/counterterrorism\/cia-activities","name":"CIA Activities","id":"9720","weight":44,"pid":"9684"},"term9721":{"path":"\/topic\/terrorism-counterterrorism\/detention-without-trial","name":"Detention without Trial","id":"9721","weight":45,"pid":"9684"},"term9722":{"path":"\/topic\/terrorism-counterterrorism\/edward-snowden","name":"Edward Snowden","id":"9722","weight":46,"pid":"9684"},"term9723":{"path":"\/topic\/terrorism-counterterrorism\/guantanamo","name":"Guantanamo","id":"9723","weight":47,"pid":"9684"},"term9724":{"path":"\/topic\/terrorism-counterterrorism\/guantanamo-military-commissions","name":"Guantanamo - Military Commissions","id":"9724","weight":48,"pid":"9684"},"term9725":{"path":"\/topic\/terrorism-counterterrorism\/targeted-killings-and-drones","name":"Targeted Killings and Drones","id":"9725","weight":49,"pid":"9684"},"term9696":{"path":"\/topic\/torture","name":"Torture","id":"9696","weight":50},"term9697":{"path":"\/topic\/united-nations","name":"United Nations","id":"9697","weight":51},"term9744":{"path":"\/topic\/united-nations\/hrc","name":"HRC","id":"9744","weight":52,"pid":"9697"},"term9698":{"path":"\/topic\/womens-rights","name":"Women\u0027s Rights","id":"9698","weight":53},"term9746":{"path":"\/topic\/womens-rights\/child-marriage","name":"Child Marriage","id":"9746","weight":54,"pid":"9698"},"term9747":{"path":"\/topic\/womens-rights\/domestic-violence","name":"Domestic Violence","id":"9747","weight":55,"pid":"9698"},"term9748":{"path":"\/topic\/womens-rights\/domestic-workers","name":"Domestic Workers","id":"9748","weight":56,"pid":"9698"},"term9757":{"path":"\/topic\/womens-rights\/family-and-legal-status","name":"Family and Legal Status","id":"9757","weight":57,"pid":"9698"},"term9752":{"path":"\/topic\/womens-rights\/reproductive-and-maternal-health","name":"Reproductive and Maternal Health","id":"9752","weight":58,"pid":"9698"},"term9753":{"path":"\/topic\/womens-rights\/sexual-violence","name":"Sexual Violence","id":"9753","weight":59,"pid":"9698"},"term9805":{"path":"\/topic\/womens-rights\/women-and-armed-conflict","name":"Women and Armed Conflict","id":"9805","weight":60,"pid":"9698"}},"main_menu":{"menu2725":{"path":"\/countries","name":"Countries","id":"2725","weight":"-50"},"menu2726":{"path":"\/topics","name":"Topics","id":"2726","weight":"-49"},"menu5350":{"path":"\/publications","name":"Reports","id":"5350","weight":"-48"},"menu5351":{"path":"\/video-photos","name":"Video \u0026 Photos","id":"5351","weight":"-47"},"menu5501":{"path":"\/impact","name":"Impact","id":"5501","weight":"-46"},"menu5511":{"path":"\/about","name":"About","id":"5511","weight":"-45"},"menu5744":{"path":"\/careers","name":"Careers","id":"5744","pid":"5511"},"menu6010":{"path":"\/about","name":"About Us","id":"6010","pid":"5511"},"menu5553":{"path":"\/about\/people","name":"People","id":"5553","pid":"5511"},"menu5552":{"path":"\/history","name":"History","id":"5552","pid":"5511"},"menu5559":{"path":"\/about-our-research","name":"About Our Research","id":"5559","pid":"5511"},"menu7722":{"path":"\/human-rights-101","name":"Human Rights 101","id":"7722","pid":"5511"},"menu5566":{"path":"\/frequently-asked-questions-0","name":"FAQ","id":"5566","pid":"5511"},"menu5560":{"path":"\/about\/partners","name":"Partners","id":"5560","pid":"5511"},"menu5561":{"path":"\/financials","name":"Financials","id":"5561","pid":"5511"},"menu5567":{"path":"\/about\/accessibility","name":"Accessibility","id":"5567","pid":"5511"},"menu5718":{"path":"\/contact","name":"Contact","id":"5718","pid":"5511"},"menu5521":{"path":"\/support-us","name":"Join Us","id":"5521","weight":"-44"},"menu5571":{"path":"\/join-us\/human-rights-watch-council","name":"Our Committees","id":"5571","pid":"5521"},"menu5570":{"path":"\/join-us\/take-action","name":"Take Action","id":"5570","pid":"5521"},"menu5572":{"path":"\/film-festival","name":"Film Festival","id":"5572","pid":"5521"},"menu5573":{"path":"\/follow-us","name":"Follow Us","id":"5573","pid":"5521"},"menu5569":{"path":"http:\/\/myplanwithhrw.org","name":"Planned Giving","id":"5569","pid":"5521"},"menu6291":{"path":"http:\/\/action.hrw.org\/ea-action\/action?ea.client.id=1908\u0026ea.campaign.id=32180\u0026ea.tracking.id=supportus","name":"Newsletter","id":"6291","pid":"5521"},"menu7793":{"path":"\/join-us\/voices-for-justice","name":"Voices for Justice","id":"7793","pid":"5521"},"menu7818":{"path":"https:\/\/donate.hrw.org\/ea-action\/action?ea.client.id=1908\u0026ea.campaign.id=38593\u0026promo_id=1004","name":"Give Now","id":"7818","weight":"0"},"menu7819":{"path":"https:\/\/donate.hrw.org\/ea-action\/action?ea.client.id=1908\u0026ea.campaign.id=36711\u0026promo_id=1003","name":"Make a One-time Gift","id":"7819","pid":"7818"},"menu7820":{"path":"https:\/\/donate.hrw.org\/ea-action\/action?ea.client.id=1908\u0026ea.campaign.id=38593\u0026promo_id=1004","name":"Give Monthly","id":"7820","pid":"7818"},"menu7821":{"path":"https:\/\/donate.hrw.org\/ea-action\/action?ea.client.id=1908\u0026ea.campaign.id=42023\u0026promo_id=1008","name":"Partners for Justice","id":"7821","pid":"7818"}},"hrw_trending_nav":[{"path":"\/tag\/europes-migration-crisis","name":"Europe\u2019s Migration Crisis"},{"path":"\/middle-east\/n-africa\/syria","name":"Syria"},{"path":"\/middle-east\/n-africa\/yemen","name":"Yemen"},{"path":"\/tag\/hissene-habre","name":"Hiss\u00e8ne Habr\u00e9"}]},"urlIsAjaxTrusted":{"\/news\/2016\/02\/03\/france-abuses-under-state-emergency":true},"password":{"strengthTitle":"Password compliance:"},"type":"setting","js_debug":[]});
+//--><!]]>
+</script>
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-286497 node-type-news i18n-en preload" >
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W5D7ZP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;j.type='text/javascript';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W5D7ZP');</script>
+<!-- End Google Tag Manager -->
+  <div id="skip-link">
+    <a href="#main" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <!-- Begin .header -->
+  <div id="block-hrw-donation-blocks-hrw-donation-blocks-header-bar" class="block block-hrw-donation-blocks">
+  
+  
+  <div  class="block-content block-content">
+    <div class="donate--header-bar l--constrained--padded">
+  <a href="https://donate.hrw.org/ea-action/action?ea.client.id=1908&ea.campaign.id=36711&promo_id=1006" class="donate-bar">Help us continue to fight human rights abuses. Please give now to support our work</a>
+</div>  </div>
+  </div>
+<header id="header" class="header cf is-default" role="banner">
+  <div id="header-default">
+    <div class="header-utility">
+      <div class="header-utility-inner clearfix">
+        <div class="l--constrained--wide">
+                      <div class="header-logo"><a href="/" title="Home" rel="home" id="logo"><img src="https://www.hrw.org/sites/all/themes/hrw/logo.png" alt="Human Rights Watch" /></a></div>
+                    <div class="header-languages">
+                          <div id="block-hrw-language-hrw-language-nav" class="block block-hrw-language">
+  
+  
+  <div  class="block-content block-content">
+    <ul class="language-switcher-locale-url"><li class="ar"><a href="/ar/news/2016/02/09/286685" class="language-link" xml:lang="ar" title="فرنسا ـ انتهاكات في ظل حالة الطوارئ">العربية</a></li>
+<li class="zh-hans"><a href="/zh-hans" class="language-link" xml:lang="zh-hans">简体中文</a></li>
+<li class="en active"><a href="/news/2016/02/03/france-abuses-under-state-emergency" class="language-link active" xml:lang="en" title="France: Abuses Under State of Emergency ">English</a></li>
+<li class="fr"><a href="/fr/news/2016/02/03/france-abus-commis-dans-le-cadre-de-letat-durgence" class="language-link" xml:lang="fr" title="France : Abus commis dans le cadre de l’état d’urgence">Français</a></li>
+<li class="de"><a href="/de" class="language-link" xml:lang="de">Deutsch</a></li>
+<li class="ja"><a href="/ja" class="language-link" xml:lang="ja">日本語</a></li>
+<li class="ru"><a href="/ru" class="language-link" xml:lang="ru">Русский</a></li>
+<li class="es"><a href="/es" class="language-link" xml:lang="es">Español</a></li>
+<li class="more last"><a href="/languages" class="more-link">More</a></li>
+</ul>  </div>
+  </div>
+                      </div>
+          <div class="header-utilities">
+                          <form class="search-form" action="/news/2016/02/03/france-abuses-under-state-emergency" method="post" id="apachesolr-panels-search-block" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-apachesolr-panels-search-form">
+  <label class="form-item-label element-invisible" for="edit-apachesolr-panels-search-form">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-apachesolr-panels-search-form" name="apachesolr_panels_search_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<input type="hidden" name="form_build_id" value="form-GAkZdSP9Vjy-uw1QrmF-dEuFyMhb6XWoFACthJagL38" />
+<input type="hidden" name="form_id" value="apachesolr_panels_search_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div></div></form>            
+                          <div id="block-hrw-donation-blocks-hrw-donation-blocks-header" class="block block-hrw-donation-blocks">
+  
+  
+  <div  class="block-content block-content">
+      <a href="https://donate.hrw.org/ea-action/action?ea.client.id=1908&ea.campaign.id=36711&promo_id=1000" class="donate-toggle">Donate Now</a>
+  </div>
+  </div>
+                      </div>
+        </div>
+      </div>
+    </div>
+    <div class="header-nav l--constrained">
+              <nav id="nav" class="nav is-fallback">
+          <ul class="nav nav--primary"><li class="first leaf nav-item"><a href="/countries" title="" class="nav-link">Countries</a></li>
+<li class="leaf nav-item"><a href="/topics" title="" class="nav-link">Topics</a></li>
+<li class="leaf nav-item"><a href="/publications" title="" class="nav-link">Reports</a></li>
+<li class="leaf nav-item"><a href="/video-photos" title="" class="nav-link">Video &amp; Photos</a></li>
+<li class="leaf nav-item"><a href="/impact" class="nav-link">Impact</a></li>
+<li class="collapsed nav-item"><a href="/about" class="nav-link">About</a></li>
+<li class="collapsed nav-item"><a href="/support-us" title="" class="nav-link">Join Us</a></li>
+<li class="last collapsed nav-item"><a href="https://donate.hrw.org/ea-action/action?ea.client.id=1908&amp;ea.campaign.id=38593&amp;promo_id=1004" title="" class="nav-link">Give Now</a></li>
+</ul>        </nav><!--end .nav-->
+                </div>
+  </div>
+</header>
+<!-- End .header -->
+<div id="page" class="page page--news">
+
+  <div id="main">
+
+      
+      <div id="main-content" class="clearfix l--constrained">
+
+        
+        
+        
+            
+  <article id="node-286497" class="node node-news article article--full l--constrained--padded" about="/news/2016/02/03/france-abuses-under-state-emergency" typeof="sioc:Item foaf:Document">
+    <span property="dc:title" content="France: Abuses Under State of Emergency " class="rdf-meta element-hidden"></span>  <header class="article-header">
+    <div class="dateline"><time class="date" datetime="2016-02-03T19:01:00-05:00">February 3, 2016</time> </div>
+          <h1 id="page-title" class="title--huge">France: Abuses Under State of Emergency </h1>
+              <p class="subtitle">Halt Warrantless Search and House Arrest</p>
+    
+        
+        
+    <div class="article-utilities clearfix">
+              <nav class="article-translations">
+          <div id="block-locale-language-content" class="block block-locale">
+  
+      <h2 class="element-invisible">Languages</h2>
+  
+  <div  class="block-content block-content">
+    <h5 class="nav-label toggle">Available In</h5><div class="nav--language-container" id="nav--locale-language"><div class="nav--language-wrapper"><ul class="language-switcher-locale-url nav--language"><li class="ar first"><a href="/ar/news/2016/02/09/286685" class="language-link" xml:lang="ar" title="فرنسا ـ انتهاكات في ظل حالة الطوارئ">العربية</a></li>
+<li class="en is-active"><a href="/news/2016/02/03/france-abuses-under-state-emergency" class="language-link active" xml:lang="en" title="France: Abuses Under State of Emergency ">English</a></li>
+<li class="fr"><a href="/fr/news/2016/02/03/france-abus-commis-dans-le-cadre-de-letat-durgence" class="language-link" xml:lang="fr" title="France : Abus commis dans le cadre de l’état d’urgence">Français</a></li>
+</ul></div></div>  </div>
+  </div>
+        </nav>
+            <div class="article-print">
+         <a href="/print/286497"><button class="button--print">Print</button></a>
+      </div>
+          </div>
+
+      </header>
+
+  
+  
+  
+  <div class="article-content l--text-constrained" >
+    <div class="article-body">
+
+    
+      <div class="embed" data-type="image">
+<figure class="embed node node-image multimedia"  about="/video-photos/photograph/2016/02/03/2016-02-france-eca-emerg1" typeof="sioc:Item foaf:Document">
+    <span property="dc:title" content="2016-02-france-eca-emerg1" class="rdf-meta element-hidden"></span>
+  <div class="embed-media">
+          <a href="/view-mode/modal/286499" class="link--modal link--inline-block">
+        <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/node_embed/public/multimedia_images_2016/halim_a.jpg?itok=-IOL_C3_" width="946" height="631" alt="Halim A. says his reputation and business were ruined after police placed him under house arrest on November 15, 2015 during France’s state of emergency. A judge suspended the house arrest on January 23, 2016, and ordered the authorities to pay Halim €1,5" />      </a>
+      </div>
+
+      <figcaption class="figure-info clearfix">
+      <div class="embed-actions">
+        <a href="/view-mode/modal/286499" class="link--modal">Expand</a>
+      </div>
+
+              <span class="figure-caption"><p>Halim A. says his reputation and business were ruined after police placed him under house arrest on November 15, 2015 during France’s state of emergency. A judge suspended the house arrest on January 23, 2016, and ordered the authorities to pay Halim €1,500 compensation.</p>
+</span>
+                    <span class="figure-credit">
+  <div class="field field--field-image-copyright">
+    © 2016 Le Monde.fr / Antonin Sabot  </div>
+</span>
+          </figcaption>
+  
+</figure>
+</div>
+<p>(Paris) – <a href="https://www.hrw.org/europe/central-asia/france" target="_blank">France</a> has carried out abusive and discriminatory raids and house arrests against Muslims under its sweeping new state of emergency law. The measures have created economic hardship, stigmatized those targeted, and have traumatized children.</p>
+<p>	In January 2016, Human Rights Watch interviewed 18 people who said they had been subjected to abusive searches or placed under house arrest, as well as human rights activists and lawyers working in affected areas. Those targeted said the police burst into homes, restaurants, or mosques; broke people’s belongings; terrified children; and placed restrictions on people’s movements so severe that they lost income or suffered physically.</p>
+<p>	“France has a responsibility to ensure public safety and try to prevent further attacks, but the police have used their new emergency powers in abusive, discriminatory, and unjustified ways,” said <a href="https://www.hrw.org/about/people/izza-leghtas" target="_blank">Izza Leghtas</a>, Western Europe researcher at Human Rights Watch. “This abuse has traumatized families and tarnished reputations, leaving targets feeling like second-class citizens.”</p>
+<p>	In one house raid, police broke four of a disabled man’s teeth before they realized he wasn’t the person they were looking for. In another case, a single mother’s children were transferred to foster care following a raid. Many of those interviewed said they were now scared of the police and have been shunned by their neighbors.</p>
+<p>	French Interior Minister Bernard Cazeneuve has <a href="http://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Declaration-de-M.-Bernard-Cazeneuve-sur-la-mise-en-oeuvre-et-le-controle-de-l-etat-d-urgence" target="_blank">said</a> that the emergency powers, which allow police to search homes and place people under house arrest without prior judicial approval, “do not signify abandonment of the rule of law.” On November 25, 2015, he issued a <a href="http://www.english.rfi.fr/france/20151129-french-interior-minister-warns-police-against-state-emergency-abuses" target="_blank">directive</a> to local authorities warning against any abuses.</p>
+<p>	Today, Amnesty International also published research on abuses under the state of emergency in France.</p>
+<p>	French law enforcement officials have conducted more than 3,200 raids and placed between 350 and 400 people under house arrest, following unprecedented <a href="https://www.hrw.org/news/2015/11/14/france-multiple-attacks-kill-over-100" target="_blank">attacks</a> in Paris and the Paris suburb of St. Denis on November 13, which killed 130 people and injured hundreds. However, the counterterrorism unit of the Paris prosecutor’s office has opened only five terrorism-related investigations.</p>
+<p>	The government has said it will ask parliament to renew the state of emergency for another three months. But it has not provided compelling evidence that would justify the need to continue these sweeping measures.</p>
+<p>	Absent such evidence, parliament should not renew the state of emergency, Human Rights Watch said.</p>
+<p>	Measures such as raids and searches should always require judicial authorization, which for urgent cases could take place under an accelerated procedure. The government also should ensure that people have prompt access to remedies for any damage caused by police action during any renewed state of emergency, and should carry out meaningful outreach about these remedies to targeted communities.</p>
+<p>	The government is also pushing a <a href="http://www.assemblee-nationale.fr/14/projets/pl3381.asp" target="_blank">bill</a> that would embed provisions for declaring a state of emergency in the constitution. This includes a problematic proposal to enable the government to strip French-born dual nationals of their French citizenship if they are convicted of terrorism-related offenses.</p>
+<p>	Stripping French-born citizens of their citizenship could force people into exile from the only country they have ever known. Given the much higher rates of dual nationality among French citizens of migrant background, the measure raises concern that some native-born French citizens are being treated as second-class citizens. Former Minister of Justice Christiane Taubira <a href="http://www.bbc.com/news/world-europe-35417732" target="_blank">resigned</a> over the proposal. Parliament is expected to start debating the bill on February 5, 2016.</p>
+<p>	Jacques Toubon, the French human rights ombudsperson (<em>défenseur des droits</em>), has received about 40 complaints about the emergency measures that relate to abuses, including unjustified searches, insufficient evidence, and raids on the wrong addresses. In an interview with Human Rights Watch, he said that while the measures allowed under the state of emergency are not laid out in a way that targets a particular group, “in reality these measures are aimed at a specific movement and at very observant Muslims. That can give rise to a feeling of injustice and of defiance towards public authorities.”</p>
+<p>	The Collective Against Islamophobia in France (CCIF), an organization that assisted Human Rights Watch in contacting people targeted by the measures, said they had documented 180 cases of abusive house arrests and raids.</p>
+<p>	The vast majority of those placed under house arrest or whose homes were searched are Muslims and persons of North African descent. All the measures that Human Rights Watch documented targeted Muslims, Muslim establishments, or halal restaurants. Many people said they felt they had been targeted because of their religion. The CCIF echoed this sentiment. Nils Muižnieks, Council of Europe commissioner for human rights, also <a href="http://www.franceculture.fr/emission-du-grain-a-moudre-menace-terroriste-la-police-a-t-elle-tous-les-droits-2016-01-12" target="_blank">raised concerns</a> about possible ethnic profiling in an <a href="http://www.franceculture.fr/emission-du-grain-a-moudre-menace-terroriste-la-police-a-t-elle-tous-les-droits-2016-01-12" target="_blank">interview</a> on January 12.</p>
+<p>	Practices that discriminate against Muslims are counterproductive as well as reprehensible and unlawful, alienating French Muslims and undermining cooperation between Muslim communities and law enforcement efforts that could assist in identifying local terrorism threats based on radical Islam, Human Rights Watch said.</p>
+<p>	On January 19, five United Nations special rapporteurs, including those on freedom of opinion and expression, and on the protection and promotion of human rights while countering terrorism, <a href="http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=16966&amp;LangID=E" target="_blank">called</a> on the government not to extend the state of emergency beyond February 26. They said: “While exceptional measures may be required under exceptional circumstances, this does not relieve the authorities from demonstrating that these are applied solely for the purposes for which they were prescribed, and are directly related to the specific objective that inspired them.”</p>
+<p>	Under article 15 of the European Convention on Human Rights (ECHR) and article 4 of the International Covenant on Civil and Political Rights (ICCPR), the government can impose restrictions on certain rights, including freedom of movement, expression, and association, during states of emergency, but only “to the extent strictly required by the exigencies of the situation.” The government must also ensure that any measure taken under the law is strictly proportionate to the aim pursued and that these powers are not applied in a discriminatory manner and do not stigmatize people of a particular ethnicity, religion, or social group.</p>
+<p>	The United Nations General Assembly has <a href="http://www.un.org/en/terrorism/strategy-counter-terrorism.shtml#poa1" target="_blank">repeatedly warned</a> that security measures that violate human rights and rule of law are drivers of terrorism.</p>
+<p>	“In a context of growing Islamophobia, the French government should urgently reach out to Muslims and give them assurances that they are not under suspicion because of their religion or ethnicity,” Leghtas said. “Freedom, equality, and fraternity have been badly damaged in the weeks since the November attacks. France should live by those words and restore their meaning.”</p>
+<p>	<strong>Emergency Powers</strong><br />
+	President François Hollande declared a state of emergency on November 14, activating an emergency law created in 1955 during France’s war in Algeria. On November 20, 2015, parliament <a href="https://www.hrw.org/news/2015/11/24/france-new-emergency-powers-threaten-rights" target="_blank">extended the state of emergency</a> for three months, until February 26, 2016, and expanded the powers under the 1955 law.</p>
+<p>	The current law grants vast powers to the interior minister and local government officials to search homes and premises and restrict people’s movements without a judicial warrant.</p>
+<p>	It authorizes the prefect – the government representative – of each French department to order warrantless searches at any time in any place “when there are serious reasons to believe that the place is frequented by a person whose behavior constitutes a threat to public order and security,” and to access and copy digital data saved on electronic devices on the premises.</p>
+<p>	In an expansion of the 1955 law, the state of emergency empowers the interior minister to place under house arrest anyone “against whom there are serious reasons to believe his or her behavior constitutes a threat to public order and security.”</p>
+<p>	The authorities may confine people to their home for up to 12 hours a day, limit their movement outside their home, and require them to check in at a police station up to three times a day – down from four times in the immediate aftermath of the attacks.</p>
+<p>	An official at the Ministry of the Interior informed Human Rights Watch that as of February 2, 2016, the government had ordered 3,289 searches and between 350 and 400 house arrests. As of February 2, 303 house arrest orders were still in effect. As a result of the 3,289 searches, only five investigations into terrorism-related offenses were being conducted by the Paris prosecutor’s office.</p>
+<p>	“The government has lost the trust of the Muslim community and it is doing nothing to repair the damage,” CCIF spokesman Yasser Louati told Human Rights Watch.</p>
+<p>	<strong>House Arrests</strong><br />
+	“The effects of the house arrests are catastrophic,” Xavier Nogueras, a lawyer representing several Muslims under house arrest, told Human Rights Watch. “People are losing their livelihoods, their reputations, everything.”</p>
+<p>	“Kamel,” who is of North African origin, and who like most others is not identified by his real name for his protection, told Human Rights Watch that police placed him under house arrest in a Paris suburb on November 26, 2015. He said the order accused him of “being heavily involved in a radical Islamist movement” and of facilitating the travel of recruits for violent jihad by terrorist groups. He is confined to his town, forbidden to leave home between 8 p.m. and 6 a.m., and must report to the police three times a day.</p>
+<p>	“If I’m a recruiter, how come I’m not in prison?” rather than under house arrest, he said. “I think it’s my beard. When politicians target radical Islamism, it’s the beard. Even a policeman said to me, ‘Beards are badly perceived.’” The real aim of the mass raids and house arrests, he said, “is to reassure people.”</p>
+<p>	“I can’t work,” he said. “I need to go to the police station three times a day […], I’m patted down in front of everyone like a criminal […] I don’t go to the mosque, I don’t want them to accuse me of something else.”</p>
+<p>	He said he had not filed a complaint about the house arrest because he had no faith in the French justice system: “I didn’t before, and I trust it even less now.”</p>
+<p align="center">***</p>
+<p>“Ayub,” a Muslim who has been in France as a refugee for 10 years and lives with his wife and four children, said police raided his home on November 20, 2015, and placed him under house arrest on grounds of being a “radical” and collecting money to fund jihad in Syria, which he categorically denies.</p>
+<p>	Ayub has a prosthetic leg and said that going to his local police station three times a day requires more physical exertion than his normal routine and results in serious physical pain. The order also forbids him from leaving the small town near Orleans where he lives and from leaving his home between 8 p.m. and 6 a.m.</p>
+<p>	“The police station is seven kilometers from my home,” he said. “The bus stop is 300 meters from my home, and every time [I walk there] it hurts. I can’t walk for more than 100 or 200 meters.”</p>
+<p>	Ayub takes extra medication to relieve the pain, causing abdominal bleeding for which he was admitted to the hospital. He also said that the walking had created chafing, also resulting in pain and discomfort. “I’m tired morally and physically and depressed because of this house arrest.”</p>
+<p align="center">***</p>
+<p>Halim A., a 25-year-old French citizen who runs a motorcycle repair service, was placed under house arrest in a Paris suburb on November 15, 2015. The order accused him of membership in an unnamed “radical Islamist movement.” It also said he had taken photos with his cell phone on May 13 outside the home of an editor of <em>Charlie Hebdo</em>, the satirical magazine whose Paris offices gunmen had attacked in January 2015. The order also said he was implicated in a ring that trafficked stolen vehicles organized by the same unnamed radical Islamist movement.</p>
+<p>	The authorities ordered Halim to report four times a day to the local police precinct, later reducing the reporting to three times daily. They required him to stay inside his home from 8:30 p.m. to 7:30 a.m. and barred him from leaving his hometown, Vitry-sur-Seine. Those restrictions made it impossible for him to go to his office in Paris or to make daily visits to clients, he said.</p>
+<p>	On January 23, 2016, an administrative judge suspended Halim’s house arrest, ruling that Halim did not take photos with his phone in May 2015 but rather had called his mother, who lived nearby. The judge said Halim’s connection with a stolen vehicle trafficking ring was that he was a witness in a vehicle trafficking case. The judge ordered the government to pay Halim €1,500 compensation.</p>
+<p>	By then, however, Halim said, he had lost most of his business. His once vibrant social life had ended. “My credibility, I lost it. My lifestyle, I lost it,” he said. “Since that day I have only God, my family and my lawyer.”<br />
+	 </p>
+<p align="center">***</p>
+<p>On the morning of November 24, 2015, as two helicopters hovered overhead, some 40 vehicles filled with police raided d’Artigat, a hamlet of eight homes in the rural Arriège district in the Midi-Pyrénées region. The police cordoned off the hamlet, searched homes, and placed eight residents under house arrest, including Olivier Corel, a Syrian-born French national known as the “Emir Blanc” (“White Emir”), whom the French authorities <a href="http://www.liberation.fr/france/2015/11/23/a-artigat-le-clan-de-l-emir-blanc_1415588" target="_blank">suspected</a> of terrorism-related activities. Corel was charged with possession of an unlawful firearm and given a suspended sentence.</p>
+<p>	One of the residents placed under house arrest, “Fatima,” told Human Rights Watch that she and her husband were targeted simply because they were Corel’s neighbors. The house arrest order accused the couple of being part of a local Islamist extremist cell.</p>
+<p>	“They said we were loyal to our neighbor Oliver Corel, but we haven’t even exchanged a hello with him in the last 12 years,” Fatima said. “We were in shock. We felt that there was no longer any rule of law or any limits.”</p>
+<p>	The authorities required Fatima and her husband to check in three times a day at the local police station, eight kilometers away. Over two months, the couple drove about 3,000 kilometers round trip for check-ins, Fatima said. “It was humiliating to come and go from our little village,” she said. “People were talking about us behind our backs.”</p>
+<p>	The prefect rejected their petition to change their check-in hours so they could bring their two children, ages 12 and 14, to their sports activities. The check-ins also prevented Fatima’s husband from organizing and refereeing sports competitions in the area, she said. “A big part of my husband’s social life went up in smoke,” she said.</p>
+<p>	On January 25, 2016, an administrative judge suspended the couple’s house arrest. “It appears that…the Ministry of the Interior impaired their freedom of movement in a grave and manifestly illegal manner,” the judge ruled. The judge added that the reasons cited in the house arrest order “lacked any specific factual element.” This suggests that had a judicial authorization been required for the house arrest, it would not have been granted.</p>
+<p>	“I felt like I was a puppet that was being shaken to show that the government was doing something,” Fatima said.</p>
+<p>	<strong>Raids</strong><br />
+	“M. Alami,” a 64-year-old Frenchman of Moroccan origin with a disability, said one of six police officers broke four of his teeth when they burst into the home he shares with his wife and three of his children at 2 a.m. on November 25, 2015:</p>
+<p style="margin-left:.5in;">They didn’t give us a chance to speak. They pushed me, put my hands behind my back, and put me on the floor, face down. One of them put his knee on my back. I felt like I was being broken in half. I said, “You’re hurting me!” He pulled me by the hair and pushed my head down to the floor, breaking four of my teeth. They searched the apartment until 5:45 a.m., then they asked my wife and me for our identity documents. Their chief said, ‘We’ve made a mistake.’ […] They didn’t apologize.</p>
+<p>Alami said that the warrant was for his daughter, who lives elsewhere with her husband and whose home was raided at the same time. He said the police officers only gave him a copy of the search order when he insisted. He said his front door is still broken. He said the policemen told him: “It’s the state of emergency. We have the right to break things. We can do whatever we want.”</p>
+<p>	Alami said that his neighbors have been hostile to him since the raid, and his children are still fearful. “The neighbors don’t say hello anymore – like we’re total criminals,” he said. “Now my 15-year-old son and 12-year-old daughter can only sleep if their mother is with them, with the light on.”</p>
+<p align="center">***</p>
+<p>“Elodie S.,” a mother of 1-year-old twins, said she had been home alone with her daughters on the night of December 3, 2015, when about 10 police officers broke into her apartment:</p>
+<p style="margin-left:.5in;">They knocked, I asked them to wait for two seconds, but they broke open the door. They were wearing balaclavas, wearing bulletproof jackets. They put me down on the floor, my hands behind my back. My daughters were screaming […] They brought in a dog, turned everything upside down […] they told us they didn’t find anything.</p>
+<p>
+	She said the police had been looking for her husband, a convert to Islam. “Police officers who were outside saw my husband and escorted him [to the apartment],” she said. “All the neighbors were there. We’re bringing a claim for damages. The front door is still broken. And we want a recognition that it was a mistake, and to make sure it won’t have repercussions in the future.”<br />
+	 </p>
+<p align="center">***</p>
+<p>Around 8:30 p.m. on November 21, 2015, about 40 police in riot gear burst into the Pepper Grill, a halal restaurant with two prayer rooms in Saint-Ouen l’Aumone, about 30 kilometers north of Paris. Police shouted, “Hands on the table!” and ordered everyone to freeze, then bashed open restaurant doors, even though the owner offered them keys, said Jordan, a restaurant manager who witnessed the raid. He declined to give his last name. About 50 diners were in the restaurant.</p>
+<p>	“We were stunned,” Jordan said. “We had no idea why the police were there.” After a half-hour search in which police found nothing, they handed over a search warrant and left with no apology or further explanation, he said. The Pepper Grill’s owner has filed a complaint about the raid, which was <a href="https://www.youtube.com/watch?v=9fJBUhZCyzU" target="_blank">captured</a> on the restaurant’s security camera.</p>
+<p>	Since the raid, Jordan said, business has surged as diners have been coming to express their outrage over the raid and show solidarity.<br />
+	 </p>
+<p align="center">***</p>
+<p>At 11:30 p.m. on January 7, 2016, about 40 special intervention forces and local police raided the apartment of Myriam Naar, a 25-year-old French woman of Algerian origin, in the town of Millau in the southern Languedoc region. Naar said she was in her short-sleeve housecoat with her head uncovered. “I felt almost as if I were being seen naked as I usually wear the hijab,” she said. As Naar’s two young children looked on and screamed, the police, some masked, twice made her lie on the floor and refused her request to let her cover her hair with a headscarf, which she found humiliating, she said.</p>
+<div class="embed" data-type="image">
+<figure class="embed node node-image align-left multimedia"  about="/video-photos/photograph/2016/02/03/2016-02-france-eca-emerg2" typeof="sioc:Item foaf:Document">
+    <span property="dc:title" content="2016-02-france-eca-emerg2" class="rdf-meta element-hidden"></span>
+  <div class="embed-media">
+          <a href="/view-mode/modal/286500" class="link--modal link--inline-block">
+        <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/node_embed/public/multimedia_images_2016/myriam_naar.jpg?itok=Alf1xCZO" width="946" height="663" alt="The 8-year-old son and 5-year-old daughter of Myriam Naar, a 25-year-old French woman of Algerian origin, were both placed in foster care after a raid of Naar&#039;s home in Languedoc, France, on January 7, 2016 although the raid found no incriminating evidenc" />      </a>
+      </div>
+
+      <figcaption class="figure-info clearfix">
+      <div class="embed-actions">
+        <a href="/view-mode/modal/286500" class="link--modal">Expand</a>
+      </div>
+
+              <span class="figure-caption"><p>The 8-year-old son and 5-year-old daughter of Myriam Naar, a 25-year-old French woman of Algerian origin, were both placed in foster care after a raid of Naar's home in Languedoc, France, on January 7, 2016 although the raid found no incriminating evidence.</p>
+</span>
+                    <span class="figure-credit">
+  <div class="field field--field-image-copyright">
+    © 2016 Private  </div>
+</span>
+          </figcaption>
+  
+</figure>
+</div>
+<p>
+	The police searched the home for weapons or other adults but left empty-handed. Nevertheless, on January 12, authorities placed Naar’s children, a 5-year-old girl and an 8-year-old boy, in foster care, saying her home was unsanitary and that she “lived like she was camping.” Naar, who was separated from her husband, said the apartment was almost empty because she was in the process of moving to Morocco. She said she suspected the authorities took away her children to prevent the move.</p>
+<p>	On January 26, the authorities transferred the children to a second foster home for six months, a move that required the children to change schools. Naar, who unsuccessfully appealed the placement of her children in foster care, said she is allowed to see the children only on weekends and described them as “completely traumatized,” with symptoms that included vomiting:<br />
+	 </p>
+<p style="margin-left:.5in;">I had never before experienced racism, but now I no longer feel safe from the state. Everyone is creating amalgams [conflating Muslims and armed extremists], even our own government. That’s the most dangerous thing, and that’s what the [armed] extremists want, to divide in order to better conquer. What hurts is that the entire state is doing this, not just regular people.</p>
+<p style="margin-left:.5in;"> </p>
+<p align="center">***</p>
+<p>
+	In a pre-dawn raid on November 19, 2015, in Nice, police wounded a sleeping 6-year-old girl when they fired shots to burst open an apartment door, sending wood fragments flying through the room that struck the little girl’s neck and ear. The police found nothing in the apartment, which turned out to be the wrong address.</p>
+<p>	“All of a sudden we were awakened by the sound of pounding, pounding, pounding, then shots as well,” said “Omar,” the father of five children, including the little girl. Before the police entered and forced him to the ground, he ran into his children’s bedroom and saw blood on his daughter’s neck.</p>
+<p>	“It felt like a knife in the heart,” he said. “I thought she was dead.” A bedpost between his daughter’s head and the door protected her from direct impact, he said.</p>
+<p>	The girl’s wounds were superficial, but she remains traumatized, her father said: “My daughter still has bruises. She has panic attacks at night, many nightmares. We put her to bed in one spot, and then we find her in another.”</p>
+<p>	“It was a very hard blow to our family,” he said of the erroneous raid. Six of the seven family members who were in the apartment during the search are receiving psychological counseling, and a doctor placed Omar on medical leave for anxiety and insomnia, he said.</p>
+<p>	The local authorities apologized for the erroneous raid and paid to replace the door. While Omar said he understood that they were just trying to do their job, “they should be more careful.”<br />
+	 </p>
+<p align="center">***</p>
+<p>
+	On November 16, 2015, police carried out an overnight raid in Aubervilliers, a town in the northern Seine-Saint-Denis suburb of Paris, searching homes and a mosque that also serves as the office of the Association of Muslims of Aubervilliers (AMA). The prefect’s search order, leaked to the media, described the AMA as a place where “radical Islamists” converged and used the premises of the association for their “conspiratorial activities,” and that “there are serious reasons to believe that there are, in the mosque and the home of its president, people, weapons or objects linked to terrorist activities.”</p>
+<p>
+	
+<figure class="embed node node-image align-right multimedia"  about="/video-photos/photograph/2016/02/03/2016-02-france-eca-emerg3" typeof="sioc:Item foaf:Document">
+    <span property="dc:title" content="2016-02-france-eca-emerg3" class="rdf-meta element-hidden"></span>
+  <div class="embed-media">
+          <a href="/view-mode/modal/286501" class="link--modal link--inline-block">
+        <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/node_embed/public/multimedia_images_2016/damage_mosque_1.jpg?itok=CEs02Y-g" width="585" height="780" alt="Damage to the mosque of Aubervilliers, a suburb north of Paris, during a police raid on November 17, 2015, carried out under emergency powers." />      </a>
+      </div>
+
+      <figcaption class="figure-info clearfix">
+      <div class="embed-actions">
+        <a href="/view-mode/modal/286501" class="link--modal">Expand</a>
+      </div>
+
+              <span class="figure-caption"><p>Damage to the mosque of Aubervilliers, a suburb north of Paris, during a police raid on November 17, 2015, carried out under emergency powers.</p>
+</span>
+                    <span class="figure-credit">
+  <div class="field field--field-image-copyright">
+    © 2015 Association of Muslims of Aubervilliers  </div>
+</span>
+          </figcaption>
+  
+</figure>
+</p>
+<p>
+	The home of the AMA president, Chiheb Harar, was also raided. He said:</p>
+<p style="margin-left:35.45pt;">They broke the door of my house. I came downstairs and found myself facing the police and gendarmes, there were about 60 of them [including outside the house]. I was put face down on the floor, handcuffed in my back with a policeman on my back, one on my shoulder. My wife shouted, ‘There’s nothing here,’ but an officer told her, ‘Shut up.’ They searched the house and found nothing related to terrorism.</p>
+<p>
+	Harar said that around midnight the police took him in a convoy to the mosque. Though he had the keys and offered to open the mosque for them, the officers broke down the doors. He later learned that two AMA members, one of whom is the Aubervilliers deputy mayor, had also offered to open the mosque for the police.</p>
+<div class="embed" data-type="image">
+<figure class="embed node node-image align-left multimedia"  about="/video-photos/photograph/2016/02/03/2016-02-france-eca-emerg4" typeof="sioc:Item foaf:Document">
+    <span property="dc:title" content="2016-02-france-eca-emerg4" class="rdf-meta element-hidden"></span>
+  <div class="embed-media">
+          <a href="/view-mode/modal/286502" class="link--modal link--inline-block">
+        <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/node_embed/public/multimedia_images_2016/damage_mosque_2.jpg?itok=xnb3009h" width="585" height="780" alt="Damage to the mosque of Aubervilliers, a suburb north of Paris, during a police raid on November 17, 2015, carried out under emergency powers.  " />      </a>
+      </div>
+
+      <figcaption class="figure-info clearfix">
+      <div class="embed-actions">
+        <a href="/view-mode/modal/286502" class="link--modal">Expand</a>
+      </div>
+
+              <span class="figure-caption"><p>Damage to the mosque of Aubervilliers, a suburb north of Paris, during a police raid on November 17, 2015, carried out under emergency powers.  </p>
+</span>
+                    <span class="figure-credit">
+  <div class="field field--field-image-copyright">
+    © 2015 Association of Muslims of Aubervilliers  </div>
+</span>
+          </figcaption>
+  
+</figure>
+</div>
+<p><a href="http://observers.france24.com/en/20151118-police-raid-paris-suburb-mosque-aubervilliers" target="_blank">The police broke through ceilings and bookcases</a>, causing considerable damage, but did not find anything, according to Harar. Nevertheless, around 3 a.m., they took Harar into custody in Paris because they had found five or six boxes of new clothes and shoes in his home with no receipts and accused him of concealing stolen goods. Harar told the police that the goods belonged to his brother. The police released Harar at 6 p.m. after his brother confirmed the goods were his, not Harar’s.</p>
+<p>
+	Harar said the mosque and AMA deplored the November 13 attacks as well as all terrorist acts. He said he later read <a href="http://www.telegraph.co.uk/news/worldnews/europe/france/12061994/Paris-attacks-ringleader-hid-out-for-four-days-in-makeshift-camp-before-police-raid.html" target="_blank">media reports</a> that the suspected ringleader of the November attacks, a Belgian national named Abdelhamid Abaaoud, had been hiding under a highway overpass in Aubervilliers before moving to an apartment in nearby St. Denis, where he was killed in a police raid on November 19.</p>
+<div class="embed" data-type="image">
+<figure class="embed node node-image align-right multimedia"  about="/video-photos/photograph/2016/02/03/2016-02-france-eca-emerg5" typeof="sioc:Item foaf:Document">
+    <span property="dc:title" content="2016-02-france-eca-emerg5" class="rdf-meta element-hidden"></span>
+  <div class="embed-media">
+          <a href="/view-mode/modal/286503" class="link--modal link--inline-block">
+        <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/node_embed/public/multimedia_images_2016/damage_mosque_3.jpg?itok=GRaA6c81" width="586" height="780" alt="Damage to the mosque of Aubervilliers, a suburb north of Paris, during a police raid on November 17, 2015, carried out under emergency powers." />      </a>
+      </div>
+
+      <figcaption class="figure-info clearfix">
+      <div class="embed-actions">
+        <a href="/view-mode/modal/286503" class="link--modal">Expand</a>
+      </div>
+
+              <span class="figure-caption"><p>Damage to the mosque of Aubervilliers, a suburb north of Paris, during a police raid on November 17, 2015, carried out under emergency powers.</p>
+</span>
+                    <span class="figure-credit">
+  <div class="field field--field-image-copyright">
+    © 2015 Association of Muslims of Aubervilliers  </div>
+</span>
+          </figcaption>
+  
+</figure>
+</div>
+<p>
+	Harar said he then understood that police may have had good cause to search Aubervilliers – but still did not understand why police searched his house, detained him overnight, and broke the doors of the mosque when he had offered to open it, and caused extensive damage inside:</p>
+<p style="margin-left:35.45pt;">We feel persecuted. Now when acts of terrorism are committed in the name of Islam, we [French Muslims] feel obliged to justify ourselves. It’s collective punishment. At first, when we were young, we considered ourselves to be French. Then with discrimination in employment, in housing and in other aspects of life, with people sending you this image that you’re either a French person of immigrant descent or ‘by origin,’ we end up feeling like second-class citizens.</p>
+<p>
+	Referring to the proposed law to strip citizenship from dual nationals, Harar said he feared it would be used predominantly against Muslims and send French Muslims’ feelings of marginalization “up a notch.” The message the bill sends, he said, is that, “There are two categories of French people: those who can lose their citizenship and those who cannot.”<br />
+	 </p>
+    </div>
+    
+    
+          <div class="article-tags">
+                  <div class="tags"><h4 class="tags-label">Region / Country</h4> <ul class="tags-list"><li class="field-item odd"><a href="/europe/central-asia">Europe/Central Asia</a></li> <li class="field-item even"><a href="/europe/central-asia/france">France</a></li> </ul></div>                          <div class="tags"><h4 class="tags-label">Topic</h4> <ul class="tags-list"><li class="field-item odd"><a href="/topic/free-speech">Free Speech</a></li> <li class="field-item even"><a href="/topic/terrorism-counterterrorism">Terrorism / Counterterrorism</a></li> </ul></div>                      </div>
+    
+    
+          <section class="article-related article-related--content">
+                <h2 class="heading--ruled">More Reading</h2>
+        <ul class="list--ruled">
+                      <li>
+<article class="node node-news node-teaser article--teaser clearfix"  about="/news/2016/04/28/dispatches-ditching-european-human-rights-convention-terrible-idea" typeof="sioc:Item foaf:Document">
+      <figure class="article-image">
+      <a href="/news/2016/04/28/dispatches-ditching-european-human-rights-convention-terrible-idea"><img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square/public/multimedia_images_2016/2016-04-uk-eca-may.jpg?itok=fyY7jTMb" width="374" height="374" alt="Dispatches: Ditching the European Human Rights Convention is a Terrible Idea" /></a>
+    </figure>
+    <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2016-04-28T11:12:17-04:00">April 28, 2016</time> <span class="type">Dispatches</span></div>
+          <h3 class="title"><a href="/news/2016/04/28/dispatches-ditching-european-human-rights-convention-terrible-idea">Dispatches: Ditching the European Human Rights Convention is a Terrible Idea</a></h3>
+    <span property="dc:title" content="Dispatches: Ditching the European Human Rights Convention is a Terrible Idea" class="rdf-meta element-hidden"></span>
+    
+          <footer class="article-footer">
+                  <address class="article-authors--byline">
+            
+  <div class="field field--field-shared-author">
+    <article class="node node-profile byline--simple clearfix"  about="/about/people/izza-leghtas" typeof="sioc:Item foaf:Document">
+      <h4 class="name">
+              <a href="/about/people/izza-leghtas">
+              Izza Leghtas              </a>
+          </h4>
+  <span property="dc:title" content="Izza Leghtas" class="rdf-meta element-hidden"></span>      <span class="position">Researcher, Western Europe</span>
+  </article>
+  </div>
+  <div class="field field--field-shared-author">
+      </div>
+          </address>
+                      </footer>
+      </div>
+</article>
+</li>
+                      <li>
+<article class="node node-news node-teaser article--teaser clearfix"  about="/news/2016/04/28/dispatches-russias-growing-intolerance-dissent" typeof="sioc:Item foaf:Document">
+      <figure class="article-image">
+      <a href="/news/2016/04/28/dispatches-russias-growing-intolerance-dissent"><img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square/public/multimedia_images_2016/2016-04-russia-eca-protesters.jpg?itok=akPWJS8K" width="374" height="374" alt="Dispatches: Russia’s Growing Intolerance for Dissent" /></a>
+    </figure>
+    <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2016-04-28T14:04:39-04:00">April 28, 2016</time> <span class="type">Dispatches</span></div>
+          <h3 class="title"><a href="/news/2016/04/28/dispatches-russias-growing-intolerance-dissent">Dispatches: Russia’s Growing Intolerance for Dissent</a></h3>
+    <span property="dc:title" content="Dispatches: Russia’s Growing Intolerance for Dissent" class="rdf-meta element-hidden"></span>
+    
+          <footer class="article-footer">
+                  <address class="article-authors--byline">
+            
+  <div class="field field--field-shared-author">
+    <article class="node node-profile byline--simple clearfix"  about="/about/people/tanya-lokshina" typeof="sioc:Item foaf:Document">
+      <h4 class="name">
+              <a href="/about/people/tanya-lokshina">
+              Tanya Lokshina              </a>
+          </h4>
+  <span property="dc:title" content="Tanya Lokshina" class="rdf-meta element-hidden"></span>      <span class="position">Russia Program Director</span>
+  </article>
+  </div>
+          </address>
+                      </footer>
+      </div>
+</article>
+</li>
+                  </ul>
+      </section>
+    
+          <section class="article-related article-related--reports">
+                <h2 class="heading--ruled">Reports</h2>
+        <ul class="list--2up">
+                      <li>
+<article class="node node-news report--teaser report--longform-teaser clearfix"  about="/news/2016/04/19/eu/greece-first-turkey-deportations-riddled-abuse" typeof="sioc:Item foaf:Document">
+    <span property="dc:title" content="EU/Greece: First Turkey Deportations Riddled With Abuse " class="rdf-meta element-hidden"></span>      <figure class="report-image">
+              <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square/public/multimedia_images_2016/gettyimages-519035624.jpg?itok=2UpC75Mu" width="374" height="374" alt="EU/Greece: First Turkey Deportations Riddled With Abuse " />          </figure>
+    <div class="report-content">
+    <div class="date--small"><time datetime="2016-04-19T00:00:01-04:00">April 19, 2016</time></div>
+      <h3 class="title"><a href="/news/2016/04/19/eu/greece-first-turkey-deportations-riddled-abuse">EU/Greece: First Turkey Deportations Riddled With Abuse </a></h3>
+          <p class="subtitle--tiny">Text Messages Show Fear, Then Silence</p>
+      </div>
+</article>
+</li>
+                      <li>
+<article class="node node-news report--teaser report--longform-teaser clearfix"  about="/news/2016/04/14/greece-asylum-seekers-locked" typeof="sioc:Item foaf:Document">
+    <span property="dc:title" content="Greece: Asylum Seekers Locked Up" class="rdf-meta element-hidden"></span>      <figure class="report-image">
+              <img typeof="foaf:Image" src="https://www.hrw.org/sites/default/files/styles/square/public/multimedia_images_2016/vial_april_8_02_resized.jpg?itok=4n9SIb0F" width="374" height="374" alt="Greece: Asylum Seekers Locked Up" />          </figure>
+    <div class="report-content">
+    <div class="date--small"><time datetime="2016-04-14T00:00:01-04:00">April 14, 2016</time></div>
+      <h3 class="title"><a href="/news/2016/04/14/greece-asylum-seekers-locked">Greece: Asylum Seekers Locked Up</a></h3>
+          <p class="subtitle--tiny">Wretched Conditions for People in Need</p>
+      </div>
+</article>
+</li>
+                  </ul>
+      </section>
+    
+  </div>
+</article>
+<div  class="pane panel-tabs" id="">
+<h2 class="heading--small panel-tabs-title">Most Popular</h2>
+
+
+  <div  class="pane">
+<h3 class="tab-title">Viewed</h3>
+
+<div class="tab-panel"><div class="view view-most-viewed-content view-id-most_viewed_content view-display-id-panel_pane_1 view-dom-id-74d1553eaf3e8b80906c5c91afc686b7">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ol class="list--numbered">          <li class="list-item"><article class="node node-news article--simple clearfix"  about="/news/2016/04/28/colombia-constitutional-court-upholds-same-sex-marriage" typeof="sioc:Item foaf:Document">
+  <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2016-04-28T18:27:49-04:00">April 28, 2016</time> <span class="type">News Release</span></div>
+          <h3 class="title--tiny" data-eq-pts="medium: 374"><a href="/news/2016/04/28/colombia-constitutional-court-upholds-same-sex-marriage">Colombia: Constitutional Court Upholds Same-Sex Marriage</a></h3>
+    <span property="dc:title" content="Colombia: Constitutional Court Upholds Same-Sex Marriage" class="rdf-meta element-hidden"></span>    
+      </div>
+</article>
+</li>
+          <li class="list-item"><article class="node node-news article--simple clearfix"  about="/news/2016/04/28/dispatches-how-archaic-us-laws-punish-rape-victims" typeof="sioc:Item foaf:Document">
+  <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2016-04-28T18:51:01-04:00">April 28, 2016</time> <span class="type">Dispatches</span></div>
+          <h3 class="title--tiny" data-eq-pts="medium: 374"><a href="/news/2016/04/28/dispatches-how-archaic-us-laws-punish-rape-victims">Dispatches: How Archaic US Laws Punish Rape Victims</a></h3>
+    <span property="dc:title" content="Dispatches: How Archaic US Laws Punish Rape Victims" class="rdf-meta element-hidden"></span>    
+      </div>
+</article>
+</li>
+          <li class="list-item"><article class="node node-news article--simple clearfix"  about="/most-popular-on-twitter/2016/04/29" typeof="sioc:Item foaf:Document">
+  <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2016-04-29T11:58:50-04:00">April 29, 2016</time> <span class="type">Commentary</span></div>
+          <h3 class="title--tiny" data-eq-pts="medium: 374"><a href="/most-popular-on-twitter/2016/04/29">Top Human Rights Tweets of the Week</a></h3>
+    <span property="dc:title" content="Top Human Rights Tweets of the Week" class="rdf-meta element-hidden"></span>    
+      </div>
+</article>
+</li>
+          <li class="list-item"><article class="node node-news article--simple clearfix"  about="/news/2016/04/29/time-ban-child-marriage-malaysia" typeof="sioc:Item foaf:Document">
+  <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2016-04-29T07:39:10-04:00">April 29, 2016</time> <span class="type">Commentary</span></div>
+          <h3 class="title--tiny" data-eq-pts="medium: 374"><a href="/news/2016/04/29/time-ban-child-marriage-malaysia">Time to Ban Child Marriage in Malaysia</a></h3>
+    <span property="dc:title" content="Time to Ban Child Marriage in Malaysia" class="rdf-meta element-hidden"></span>    
+          <div class="article-published">
+        <span class="field-label">Published in</span>
+        <a href="https://www.malaysiakini.com/news/339618">Malaysiakini</a>      </div>
+      </div>
+</article>
+</li>
+          <li class="list-item"><article class="node node-daily-brief article--simple clearfix"  about="/the-day-in-human-rights" typeof="sioc:Item foaf:Document">
+  <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2016-04-29T07:50:14-04:00">April 29, 2016</time> <span class="type">Daily Brief</span></div>
+          <h3 class="title--tiny" data-eq-pts="medium: 374"><a href="/the-day-in-human-rights">Human Rights Watch Daily Brief, 29 April 2016</a></h3>
+    <span property="dc:title" content="Human Rights Watch Daily Brief, 29 April 2016" class="rdf-meta element-hidden"></span>    
+      </div>
+</article>
+</li>
+      </ol></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+</div><div  class="pane">
+<h3 class="tab-title">Shared</h3>
+
+<div class="tab-panel"><div class="item-list"><ol class="list--numbered"><li class="list-item first"><article class="node node-daily-brief article--simple clearfix"  about="/the-day-in-human-rights" typeof="sioc:Item foaf:Document">
+  <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2016-04-29T07:50:14-04:00">April 29, 2016</time> <span class="type">Daily Brief</span></div>
+          <h3 class="title--tiny" data-eq-pts="medium: 374"><a href="/the-day-in-human-rights">Human Rights Watch Daily Brief, 29 April 2016</a></h3>
+    <span property="dc:title" content="Human Rights Watch Daily Brief, 29 April 2016" class="rdf-meta element-hidden"></span>    
+      </div>
+</article>
+</li>
+<li class="list-item"><article class="node node-news article--simple clearfix"  about="/news/2016/04/19/eu/greece-first-turkey-deportations-riddled-abuse" typeof="sioc:Item foaf:Document">
+  <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2016-04-19T00:00:01-04:00">April 19, 2016</time> <span class="type">Report</span></div>
+          <h3 class="title--tiny" data-eq-pts="medium: 374"><a href="/news/2016/04/19/eu/greece-first-turkey-deportations-riddled-abuse">EU/Greece: First Turkey Deportations Riddled With Abuse </a></h3>
+    <span property="dc:title" content="EU/Greece: First Turkey Deportations Riddled With Abuse " class="rdf-meta element-hidden"></span>    
+      </div>
+</article>
+</li>
+<li class="list-item"><article class="node node-news article--simple clearfix"  about="/news/2016/04/21/israel-quarry-shutdown-harms-palestinians" typeof="sioc:Item foaf:Document">
+  <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2016-04-21T00:00:00-04:00">April 21, 2016</time> <span class="type">News Release</span></div>
+          <h3 class="title--tiny" data-eq-pts="medium: 374"><a href="/news/2016/04/21/israel-quarry-shutdown-harms-palestinians">Israel: Quarry Shutdown Harms Palestinians</a></h3>
+    <span property="dc:title" content="Israel: Quarry Shutdown Harms Palestinians" class="rdf-meta element-hidden"></span>    
+      </div>
+</article>
+</li>
+<li class="list-item"><article class="node node-news article--simple clearfix"  about="/news/2016/04/20/dispatches-indonesias-step-toward-accountability-1965-massacres" typeof="sioc:Item foaf:Document">
+  <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2016-04-20T20:55:06-04:00">April 20, 2016</time> <span class="type">Dispatches</span></div>
+          <h3 class="title--tiny" data-eq-pts="medium: 374"><a href="/news/2016/04/20/dispatches-indonesias-step-toward-accountability-1965-massacres">Dispatches: Indonesia’s Step Toward Accountability for 1965 Massacres</a></h3>
+    <span property="dc:title" content="Dispatches: Indonesia’s Step Toward Accountability for 1965 Massacres" class="rdf-meta element-hidden"></span>    
+      </div>
+</article>
+</li>
+<li class="list-item last"><article class="node node-news article--simple clearfix"  about="/news/2016/04/14/greece-asylum-seekers-locked" typeof="sioc:Item foaf:Document">
+  <div class="article-content">
+    <div class="dateline--small"><time class="date" datetime="2016-04-14T00:00:01-04:00">April 14, 2016</time> <span class="type">Report</span></div>
+          <h3 class="title--tiny" data-eq-pts="medium: 374"><a href="/news/2016/04/14/greece-asylum-seekers-locked">Greece: Asylum Seekers Locked Up</a></h3>
+    <span property="dc:title" content="Greece: Asylum Seekers Locked Up" class="rdf-meta element-hidden"></span>    
+      </div>
+</article>
+</li>
+</ol></div></div>
+</div>
+
+
+</div>
+
+      </div>
+    </div>
+
+  <!-- Begin Footer -->
+<footer class="footer" role="contentinfo">
+      <div class="donations">
+      <div id="block-hrw-donation-blocks-hrw-donation-blocks-footer" class="block block-hrw-donation-blocks">
+  
+  
+  <div  class="block-content block-content">
+    <div class="donate donate--toggle-form donate--footer l--sidebar-after-centered l--sidebar-after-centered--even l--constrained--padded">
+  <div class="donation--main l-primary">
+  <h4 class="donation-heading">Protecting Rights, Saving Lives</h4>
+  <p class="donation-description">Human Rights Watch defends the rights of people in 90 countries worldwide, spotlighting abuses and bringing perpetrators to justice</p>
+  </div>
+  <div class="donation--side l-secondary">
+      <a href="https://donate.hrw.org/ea-action/action?ea.client.id=1908&ea.campaign.id=36711&promo_id=1005" class="donate-button donate--url-primary">Donate Now</a>
+    </div>
+</div>
+  </div>
+  </div>
+    </div>
+  
+  <div class="footer-inner l--constrained--padded">
+    <div class="footer-logo"><a href="/" title="Home" rel="home"><img src="https://www.hrw.org/sites/all/themes/hrw/logo.png" alt="Human Rights Watch" /></a></div>
+    <div class="l--footer-split clearfix">
+      <div class="l-primary">
+                  <div id="block-hrw-signup-form-hrw-signup-form" class="block block-hrw-signup-form footer-signup">
+  
+      <h2 class="footer-heading">Sign Up for Our Weekly Newsletter</h2>
+  
+  <div  class="block-content block-content">
+    
+<form method="POST" name="Sign Up for Our Newsletter_1" id="ea7596id" class="eaform ea7596class" action="https://action.hrw.org/ea-action/action" >
+  <input type="hidden" name="ea_requested_action" value="ea_submit_user_form" />
+  <input type="hidden" name="ea_javascript_enabled" id="ea_javascript_enabled" value="false" />
+  <input type="hidden" name="ea.AJAX.submit" value="false" />
+  <input type="hidden" name="ea.client.id" value="1908" />
+  <input type="hidden" name="ea.campaign.id" value="32256" />
+  <input type="hidden" name="ea.form.id" value="7596" />
+  <input type="hidden" name="ea.submitted.page" value="1" />
+  <input type="hidden" name="sessionId" value="d063cbc8-79bb-486b-9896-962350fb6a97" />
+  <input type="hidden" name="Week In Rights" value="Y" />
+  <input id="ea7596id_email_address" class="form-text form-email" type="email" name="Email Address" value="" placeholder="Enter an email address" />
+  <input type="submit" value="Sign Up" name="SubmitButton" id="SubmitButton" class="form-submit" />
+</form>
+  </div>
+  </div>
+              </div>
+      <div class="l-secondary">
+                  <div class="footer-connect">
+            <div id="block-social-links-social-links" class="block block-social-links footer-signup">
+  
+      <h2 class="footer-heading">Connect With Us</h2>
+  
+  <div  class="block-content block-content">
+    <div class="item-list"><ul class="nav nav--social nav--icons"><li class="nav-item first"><a href="https://twitter.com/hrw" class="nav-link nav-link--social nav-link--twitter" title="Twitter" target="_blank">Twitter</a></li>
+<li class="nav-item"><a href="https://www.facebook.com/HumanRightsWatch" class="nav-link nav-link--social nav-link--facebook" title="Facebook" target="_blank">Facebook</a></li>
+<li class="nav-item last"><a href="https://www.youtube.com/user/HumanRightsWatch" class="nav-link nav-link--social nav-link--youtube" title="YouTube" target="_blank">YouTube</a></li>
+</ul></div>  </div>
+  </div>
+          </div>
+              </div>
+    </div>
+
+    <div class="l--footer-split clearfix">
+      <div class="l-primary">
+                  <ul class="nav--footer"><li class="first leaf nav-item"><a href="/contact" title="" class="nav-link">Contact Us</a></li>
+<li class="leaf nav-item"><a href="/corrections" title="" class="nav-link">Corrections</a></li>
+<li class="leaf nav-item"><a href="/privacy-policy" title="Privacy Policy" class="nav-link">Privacy Policy</a></li>
+<li class="last leaf nav-item"><a href="/sitemap" title="" class="nav-link">Site Map</a></li>
+</ul>              </div>
+      <div class="l-secondary">
+        <p class="copyright">
+                      &copy; 2016 Human Rights Watch                  </p>
+      </div>
+    </div>
+    <div class="footer-address vcard">
+              <strong class="fn">Human Rights Watch</strong>  |
+    <span class="adr"><span class="street-address">350 Fifth Avenue, 34th Floor</span>  |
+    <span class="locality">New York</span>, <abbr class="region" title="New York">NY</abbr> <span class="postal-code">10118-3299</span> <abbr class="country-name" title="United States of America">USA</abbr></span>  |
+    <strong title="Telephone">t</strong> <span class="tel">1.212.290.4700</span>          </div>
+  </div>
+</footer>
+
+  <div id="block-hrw-donation-blocks-hrw-donation-blocks-footer-bar" class="block block-hrw-donation-blocks">
+  
+  
+  <div  class="block-content block-content">
+    <div id="footer--sticky" class="donate--footer-bar footer--sticky">
+  <div class="l--constrained--padded footer--sticky-inner">
+  <a href="https://donate.hrw.org/ea-action/action?ea.client.id=1908&ea.campaign.id=36711&promo_id=1009" class="donate-bar">Help us continue to fight human rights abuses. Please give now to support our work</a>
+  </div>
+</div>  </div>
+  </div>
+<!-- End Footer -->
+  <!-- Begin .header -->
+<header id="header--sticky" class="header header--slim header--sticky is-default" role="banner">
+  <div class="header-utility">
+    <div class="header-utility-inner clearfix">
+      <div id="header-logo" class="header-logo"><a href="/" title="Home" rel="home" id="logo"><img src="https://www.hrw.org/sites/all/themes/hrw/logo.png" alt="Human Rights Watch" /></a></div>
+      <div class="header-title">France: Abuses Under State of Emergency </div>
+      <div class="header-utilities">
+        <div class="article-print">
+           <a href="/print/286497"><button class="button--print">Print</button></a>
+        </div>
+                  <form class="search-form" action="/news/2016/02/03/france-abuses-under-state-emergency" method="post" id="apachesolr-panels-search-block" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-apachesolr-panels-search-form">
+  <label class="form-item-label element-invisible" for="edit-apachesolr-panels-search-form">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-apachesolr-panels-search-form" name="apachesolr_panels_search_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<input type="hidden" name="form_build_id" value="form-GAkZdSP9Vjy-uw1QrmF-dEuFyMhb6XWoFACthJagL38" />
+<input type="hidden" name="form_id" value="apachesolr_panels_search_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div></div></form>        
+                  <div id="block-hrw-donation-blocks-hrw-donation-blocks-header" class="block block-hrw-donation-blocks">
+  
+  
+  <div  class="block-content block-content">
+      <a href="https://donate.hrw.org/ea-action/action?ea.client.id=1908&ea.campaign.id=36711&promo_id=1000" class="donate-toggle">Donate Now</a>
+  </div>
+  </div>
+              </div>
+    </div>
+  </div>
+</header>
+<!-- End .header -->
+
+</div>
+    <script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script><script type="text/javascript" src="https://www.hrw.org/sites/default/files/js/js_zYBEe4pKt-RYy3rRODHLxLaS-Qm7eohjEvLInBnKYxk.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.grunticon=function(e){if(e&&3===e.length){var t=window,n=!(!t.document.createElementNS||!t.document.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect||!document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image","1.1")||window.opera&&-1===navigator.userAgent.indexOf("Chrome")),o=function(o){var r=t.document.createElement("link"),a=t.document.getElementsByTagName("script")[0];r.rel="stylesheet",r.href=e[o&&n?0:o?1:2],a.parentNode.insertBefore(r,a)},r=new t.Image;r.onerror=function(){o(!1)},r.onload=function(){o(1===r.width&&1===r.height)},r.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="}};grunticon(["https://www.hrw.org/sites/all/themes/hrw/img/grunticon/icons.data.svg.css", "https://www.hrw.org/sites/all/themes/hrw/img/grunticon/icons.data.png.css", "https://www.hrw.org/sites/all/themes/hrw/img/grunticon/icons.fallback.css"]);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/sites/all/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.hrw.org/sites/default/files/js/js_gIFFkVUtrGhUImcuOdbbFI6thcuMFxSPgW4lXkTjjMc.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0f4764254c","applicationID":"8959313","transactionName":"bwBUYkMDXkpVVURbW1ZKd1VFC19XG0ZRVVFnCFdYUAVVS2tYX1ZRZxNfU0Y9QFhTUw==","queueTime":0,"applicationTime":2494,"ttGuid":"","agentToken":"","atts":"Q0dXFAsZTUQ=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

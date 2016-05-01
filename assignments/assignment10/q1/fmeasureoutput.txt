@@ -1,0 +1,55 @@
+atria:~/wsprograms/a10/q1> python numpredict.py
+k=1
+INDIEohren.!    0.0284258547722
+atria:~/wsprograms/a10/q1> clear
+atria:~/wsprograms/a10/q1> python numpredict.py
+For F-Measure blog and k=1
+INDIEohren.!    0.0284258547722
+atria:~/wsprograms/a10/q1> python numpredict.py
+For F-Measure blog and k=2
+INDIEohren.!    0.0284258547722
+MR. BEAUTIFUL TRASH ART 0.035023925836
+atria:~/wsprograms/a10/q1> python numpredict.py
+For F-Measure blog and k=5
+INDIEohren.!    0.0284258547722
+MR. BEAUTIFUL TRASH ART 0.035023925836
+MARISOL 0.0421254990846
+How to be an artist and still pass for normal   0.0615408984138
+ORGANMYTH       0.063728972963
+atria:~/wsprograms/a10/q1> clear
+atria:~/wsprograms/a10/q1> python numpredict.py
+For F-Measure blog and k=10
+INDIEohren.!    0.0284258547722
+MR. BEAUTIFUL TRASH ART 0.035023925836
+MARISOL 0.0421254990846
+How to be an artist and still pass for normal   0.0615408984138
+ORGANMYTH       0.063728972963
+IoTube     :)   0.076906363689
+theindiefriend  0.0798683749435
+A H T A P O T   0.118655531931
+adrianoblog     0.123239578098
+Rod Shone       0.133212524679
+atria:~/wsprograms/a10/q1> python numpredict.py
+For F-Measure blog and k=20
+INDIEohren.!    0.0284258547722
+MR. BEAUTIFUL TRASH ART 0.035023925836
+MARISOL 0.0421254990846
+How to be an artist and still pass for normal   0.0615408984138
+ORGANMYTH       0.063728972963
+IoTube     :)   0.076906363689
+theindiefriend  0.0798683749435
+A H T A P O T   0.118655531931
+adrianoblog     0.123239578098
+Rod Shone       0.133212524679
+What Am I Doing?        0.137021765128
+Stonehill Sketchbook    0.137508143489
+"DANCING IN CIRCLES"    0.146334368545
+sweeping the kitchen    0.14683876125
+F-Measure       0.151098106517
+нннён нён╓н нн║н╘ннн    0.151098106517
+FlowRadio Playlists (and Blog)  0.154577490878
+Spinitron Blog  0.15802910721
+нн╞он╨н©н╧ нн©о
+он╧н╨н╝о оо
+           н© н╖оон╫н©  0.161885545609
+Boggle Me Thursday      0.174330461107

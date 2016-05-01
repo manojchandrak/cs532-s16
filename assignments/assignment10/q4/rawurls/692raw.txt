@@ -1,0 +1,975 @@
+<!DOCTYPE html> <!--[if lt IE 7]> <html  class="ruralweekly rnn-au no-js non-staff-user non-authenticated-user non-subscribed-user no-facebook-api ie6 oldie" lang="en"> <![endif]--> <!--[if IE 7]> <html  class="ruralweekly rnn-au no-js non-staff-user non-authenticated-user non-subscribed-user no-facebook-api ie7 oldie" lang="en"> <![endif]--> <!--[if IE 8]> <html  class="ruralweekly rnn-au no-js non-staff-user non-authenticated-user non-subscribed-user no-facebook-api ie8 oldie" lang="en"> <![endif]--> <!--[if IE 9 ]> <html  class="ruralweekly rnn-au no-js non-staff-user non-authenticated-user non-subscribed-user no-facebook-api ie9" lang="en"> <![endif]--> <!--[if (gt IE 9)|!(IE)]><!--> <html class="ruralweekly rnn-au no-js non-staff-user non-authenticated-user non-subscribed-user no-facebook-api" lang="en"> <!--<![endif]--> <head> <title>Reeling in cash, more $10k fish caught | Rural Weekly</title> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> <meta charset="utf-8"> <meta name="description" content="WITH fishing experts predicting that the coming weeks could produce some of the best barra fishing in the Top End in years, the race to hook a $1million catch will be on in earnest." /> <meta name="author" content=""> <meta property="fb:app_id" content="350954121620352"/> <meta property="og:site_name" content="Rural Weekly"/> <meta property="og:title" content="Reeling in cash, more $10k fish caught" /> <meta property="og:description" content="WITH fishing experts predicting that the coming weeks could produce some of the best barra fishing in the Top End in years, the race to hook a $1million catch will be on in earnest." /> <meta property="og:type" content="article" /> <meta property="og:image" content="https://media.apnarm.net.au/img/media/images/2016/02/11/9-3142836-srt12022016barra1_ct300x300.jpg" /> <meta property="og:image:width" content="300" /> <meta property="og:image:height" content="300" /> <link rel="image_src" href="https://media.apnarm.net.au/img/media/images/2016/02/11/9-3142836-srt12022016barra1_ct300x300.jpg" /> <meta property="og:url" content="http://www.ruralweekly.com.au/news/reeling-in-cash/2924278/" /> <meta name="cXenseParse:recs:articleid" content="2924278"/> <meta name="cXenseParse:recs:publishtime" content="2016-02-11T10:08:14+1000"/> <meta name="cXenseParse:pageclass" content="article"/> <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xml-rpc/rsd/" /> <meta http-equiv="imagetoolbar" content="no"> <meta http-equiv="imagetoolbar" content="false"> <meta name="viewport" content="width=1020"> <link href="https://media.apnarm.net.au/141.7/tc/base/css/thirdparty.min.css" rel="stylesheet"> <link href="https://media.apnarm.net.au/141.7/tc/base/css/bootstrap.min.css" rel="stylesheet"> <link href="https://media.apnarm.net.au/141.7/tc/base/css/tc1.min.css" rel="stylesheet"> <link href="https://media.apnarm.net.au/141.7/tc/base/css/tc2.min.css" rel="stylesheet"> <link href="https://media.apnarm.net.au/141.7/bower_components/lightbox/lightbox2/css/lightbox.min.css" rel="stylesheet"> <style>
+.adSearchResults a.ad-img-item{
+    max-width: 100%;
+}
+</style> <link href="http://fonts.googleapis.com/css?family=Open+Sans%7COpen+Sans+Condensed:700" rel="stylesheet"/> <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,800,700,300' rel='stylesheet' type='text/css'> <script src="https://media.apnarm.net.au/141.7/tc/base/js/modernizr-custom.min.js"></script> <script type="text/javascript" src="https://media.apnarm.net.au/img/cache/141.7/js/eb088b7363fa.js" charset="utf-8"></script> <script type='text/javascript'>
+var googletag = googletag || {}; googletag.cmd = googletag.cmd || []; (function() { var gads = document.createElement('script'); gads.async = true; gads.type = 'text/javascript'; var useSSL = 'https:' == document.location.protocol; gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js'; var node = document.getElementsByTagName('script')[0]; node.parentNode.insertBefore(gads, node); })();
+</script> <script>
+(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)
+</script> <script>
+    
+
+    var pageData = {
+        cleanDirtyArray: function(dirtyArray){
+            var cleanArray = new Array();
+
+            for (var i = 0, len = dirtyArray.length; i < len; i++) {
+                if (dirtyArray[i] != '') {
+                    cleanArray.push(dirtyArray[i]);
+                }
+            }
+            
+            return cleanArray;
+        },
+
+        genQueryURL: function(path){
+            var url,
+                query = path.indexOf("?url");
+
+            if(query != -1){
+                url =  path.slice(6, path.length);
+                url =  url.replace(/\//g, ' ');
+            }else{
+                url = "";
+            }
+
+            return url;
+        },
+
+        genBasicURL: function(path){
+            var urlString = path.replace(/\//g, ' ');
+            return urlString;
+        },
+
+        queryEmail: function(keywords){
+            keywords = keywords.replace(/[a-z0-9!#$%&'*+=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/g, '');
+
+            return keywords;
+        },
+
+        categories: "",
+        authors: "",
+        title: document.title
+    };
+</script> <script>
+        pageData.region = "australia";
+        pageData.url = pageData.genBasicURL("/news/reeling-in-cash/2924278/");
+        pageData.site = "rwy";
+        pageData.site_mode = "desktop";
+    </script> <script>
+        pageData.categories = "News"
+        pageData.title = "Reeling in cash, more $10k fish caught";
+        pageData.authors = "";
+        pageData.sector = "news";
+        pageData.subsector = "";
+        pageData.source = "srt"
+        pageData.tags = "barra, fishing, top end";
+        pageData.pageType = "article";
+    </script> <script id="rnn_nielsen" type='text/javascript'>
+var crtg_nid="1301";
+var crtg_cookiename="apn_crta";
+var crtg_varname="crtg_content";
+function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);}}return'';}
+var crtg_content = crtg_getCookie(crtg_cookiename);var crtg_rnd=Math.floor(Math.random()*99999999999);
+var crtg_url=location.protocol+'//rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);crtg_url+='&cookieName='+escape(crtg_cookiename);crtg_url+='&rnd='+crtg_rnd;crtg_url+='&varName=' + escape(crtg_varname);
+var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;
+if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);</script> </head> <body class="newsEntryBody"> <ul id="accessibilityLinks" class="offscreen"> <li><a href="#ft_2" accesskey="0">Skip to site map</a></li> </ul> <script>
+(function(){
+    function setCookie(c_name, value, exdays){
+        var exdate=new Date();
+        exdate.setDate(exdate.getDate() + exdays);
+        var c_value = escape(value) + ((exdays==null) ? "" : "; expires=" + exdate.toUTCString()) + "; path=/";
+        document.cookie = c_name + "=" + c_value;
+    }
+
+    function getCookie(c_name) {
+        var i, x, y, theCookies = document.cookie.split(";");
+
+        for (i = 0; i < theCookies.length; i++) {
+            x = theCookies[i].substr(0, theCookies[i].indexOf("="));
+            y = theCookies[i].substr(theCookies[i].indexOf("=") + 1);
+
+            x = x.replace(/^\s+|\s+$/g,"");
+
+            if (x == c_name) {
+                return unescape(y);
+            }
+        }
+    }
+
+    window._currLotameID = "5340";
+    var currNetworkID = "5308";
+    
+    var head = document.getElementsByTagName('head')[0];
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onload = function(){
+        if (currNetworkID) {
+            var ccaudsString = JSON.stringify(ccauds),
+                cookieName = 'ccaudsString_' + currNetworkID,
+                currCookie = getCookie(cookieName) || '';
+
+            // check if cookie exists.
+            if(currCookie.length === 0){
+                // cookie does not exist
+                // check to see if there is an audience. is there is, set cookie.
+                if(ccauds.Profile.Audiences.Audience.length !== 0){
+                    setCookie(cookieName, ccaudsString, 365);
+                }else{
+                    // object is bad. we don't want to store this
+                }
+                
+            }else{
+                // cookie does exist. do nothing
+            }
+        }
+    };
+    script.src = 'http://ad.crwdcntrl.net/5/c=' + currNetworkID + '/pe=y/var=ccauds';
+    if(currNetworkID){
+        head.appendChild(script);
+    }
+})();
+</script> <div  data-overlay-marker='{"edit_url": "/admin/fragments/fragment/3447/", "content_type": "fragment", "label": "ros_tags_header"}'> <script type='text/javascript'>
+    if(pageData.pageType === "article"){
+        var _sf_startpt=(new Date()).getTime()
+    }
+</script> </div> <div class="hat"> <div class="navbar"> <div class="navbar-inner"> <div class="container"> <ul class="nav"> <li class="dropdown only-authenticated-user margin-right-10" id="hat_user"> <a class="dropdown-toggle" data-toggle="dropdown" href="#hat_user">
+                            Hello <span data-user-property="display_name"></span> <b class="caret"></b> </a> <ul class="dropdown-menu"> <div class="user-info"> <a class="pull-right" href="/my-account/logout/?next=/news/reeling-in-cash/2924278/">Sign Out</a> <hr /> </div> <div class="adjust-list" data-max-items="6" data-extend="true"> <ul class="unstyled columns"> <li> <a href="/my-account/">My Activity</a> </li> <li> <a href="/my-account/list-events/">My Events</a> </li> <li> <a href="/my-account/edit/">Edit Profile</a> </li> <li class="only-staff-user"><a href="/admin/">Admin Site</a></li> </ul> </div> </ul> </li> <li class="only-non-authenticated-user hide"> <a href="/my-account/login/?next=/news/reeling-in-cash/2924278/"> <i class="icon-user icon-grey"></i>
+                            Login
+                        </a> </li> <li class="only-non-authenticated-user hide btn-blue margin-left-10 margin-right-10"><a href="/my-account/register/?next=/news/reeling-in-cash/2924278/">Sign Up</a></li> </ul> <form action="/search/" method="get" class="hat-search pull-right generalSearchForm disable-clean-url" autocomplete="off" data-typeahead-urls='{"tags": "/search/tags.json"}' target="_top"> <ul class="nav"> <li class="divider-vertical"></li> </ul> <input type="text" name="keywords" class="input-medium" placeholder="Search" maxlength="50"/> </form> <div class="weatherModuleHat pull-right" data-weather='{"cookieName":"weather_locality_australia"}' data-locality='Brisbane'> <div class="left-col"> <a href="http://www.ruralweekly.com.au/weather/australia/brisbane2/"> <span class="large-temp">26&deg;</span> </a> </div> <div class="right-col weatherModuleRight"> <div class="details"> <div class="dropdown-container"> <li class="dropdown" id="weather_localities"> <a class="dropdown-toggle" data-toggle="dropdown" href="#weather_localities"> <span class="region-name">
+                                        Australia
+                                    </span> </a> <ul class="dropdown-menu"> <div class="adjust-list" data-max-items="9" data-extend="true"> <ul class="unstyled columns"> <li data-forecast='{ "locality": "Canberra", "weatherName": "windy_with_showers", "weatherDesc": "Windy with showers", "tempMin": 12, "tempMax": 20, "weatherUrl": "http://www.ruralweekly.com.au/weather/australia/canberra-2601/", "fileName": "https://media.apnarm.net.au/141.7/tc/base/img/weather/60x60/windy_with_showers"}'>
+            Canberra
+        </li> <li data-forecast='{ "locality": "Brisbane", "weatherName": "showers_easing", "weatherDesc": "Showers easing", "tempMin": 20, "tempMax": 26, "weatherUrl": "http://www.ruralweekly.com.au/weather/australia/brisbane2/", "fileName": "https://media.apnarm.net.au/141.7/tc/base/img/weather/60x60/showers_easing"}'>
+            Brisbane
+        </li> <li data-forecast='{ "locality": "Sydney", "weatherName": "clearing_shower", "weatherDesc": "Clearing shower", "tempMin": 18, "tempMax": 27, "weatherUrl": "http://www.ruralweekly.com.au/weather/australia/sydney/", "fileName": "https://media.apnarm.net.au/141.7/tc/base/img/weather/60x60/clearing_shower"}'>
+            Sydney
+        </li> <li data-forecast='{ "locality": "Adelaide", "weatherName": "clearing_shower", "weatherDesc": "Clearing shower", "tempMin": 12, "tempMax": 20, "weatherUrl": "http://www.ruralweekly.com.au/weather/australia/adelaide-5000/", "fileName": "https://media.apnarm.net.au/141.7/tc/base/img/weather/60x60/clearing_shower"}'>
+            Adelaide
+        </li> <li data-forecast='{ "locality": "Perth", "weatherName": "mostly_sunny", "weatherDesc": "Mostly sunny", "tempMin": 10, "tempMax": 20, "weatherUrl": "http://www.ruralweekly.com.au/weather/australia/perth-6000/", "fileName": "https://media.apnarm.net.au/141.7/tc/base/img/weather/60x60/mostly_sunny"}'>
+            Perth
+        </li> <li data-forecast='{ "locality": "Hobart", "weatherName": "possible_thunderstorm", "weatherDesc": "Possible thunderstorm", "tempMin": 12, "tempMax": 19, "weatherUrl": "http://www.ruralweekly.com.au/weather/australia/hobart-7000/", "fileName": "https://media.apnarm.net.au/141.7/tc/base/img/weather/60x60/possible_thunderstorm"}'>
+            Hobart
+        </li> <li data-forecast='{ "locality": "Rockhampton", "weatherName": "possible_shower", "weatherDesc": "Possible shower", "tempMin": 22, "tempMax": 30, "weatherUrl": "http://www.ruralweekly.com.au/weather/australia/rockhampton/", "fileName": "https://media.apnarm.net.au/141.7/tc/base/img/weather/60x60/possible_shower"}'>
+            Rockhampton
+        </li> <li data-forecast='{ "locality": "Toowoomba", "weatherName": "clearing_shower", "weatherDesc": "Clearing shower", "tempMin": 18, "tempMax": 24, "weatherUrl": "http://www.ruralweekly.com.au/weather/australia/toowoomba/", "fileName": "https://media.apnarm.net.au/141.7/tc/base/img/weather/60x60/clearing_shower"}'>
+            Toowoomba
+        </li> <li data-forecast='{ "locality": "Mackay", "weatherName": "mostly_sunny", "weatherDesc": "Mostly sunny", "tempMin": 21, "tempMax": 29, "weatherUrl": "http://www.ruralweekly.com.au/weather/australia/mackay/", "fileName": "https://media.apnarm.net.au/141.7/tc/base/img/weather/60x60/mostly_sunny"}'>
+            Mackay
+        </li> <li data-forecast='{ "locality": "Casino", "weatherName": "late_shower", "weatherDesc": "Late shower", "tempMin": 16, "tempMax": 30, "weatherUrl": "http://www.ruralweekly.com.au/weather/australia/casino/", "fileName": "https://media.apnarm.net.au/141.7/tc/base/img/weather/60x60/late_shower"}'>
+            Casino
+        </li> <li data-forecast='{ "locality": "Bundaberg", "weatherName": "possible_shower", "weatherDesc": "Possible shower", "tempMin": 20, "tempMax": 28, "weatherUrl": "http://www.ruralweekly.com.au/weather/australia/bundaberg/", "fileName": "https://media.apnarm.net.au/141.7/tc/base/img/weather/60x60/possible_shower"}'>
+            Bundaberg
+        </li> <li data-forecast='{ "locality": "Lismore", "weatherName": "sunny", "weatherDesc": "Sunny", "tempMin": 17, "tempMax": 27, "weatherUrl": "http://www.ruralweekly.com.au/weather/australia/lismore/", "fileName": "https://media.apnarm.net.au/141.7/tc/base/img/weather/60x60/sunny"}'>
+            Lismore
+        </li> <li data-forecast='{ "locality": "Emerald", "weatherName": "mostly_sunny", "weatherDesc": "Mostly sunny", "tempMin": 20, "tempMax": 32, "weatherUrl": "http://www.ruralweekly.com.au/weather/australia/emerald/", "fileName": "https://media.apnarm.net.au/141.7/tc/base/img/weather/60x60/mostly_sunny"}'>
+            Emerald
+        </li> <li data-forecast='{ "locality": "Gympie", "weatherName": "possible_shower", "weatherDesc": "Possible shower", "tempMin": 18, "tempMax": 28, "weatherUrl": "http://www.ruralweekly.com.au/weather/australia/gympie/", "fileName": "https://media.apnarm.net.au/141.7/tc/base/img/weather/60x60/possible_shower"}'>
+            Gympie
+        </li> <li data-forecast='{ "locality": "Mount Isa", "weatherName": "mostly_sunny", "weatherDesc": "Mostly sunny", "tempMin": 21, "tempMax": 36, "weatherUrl": "http://www.ruralweekly.com.au/weather/australia/mount-isa/", "fileName": "https://media.apnarm.net.au/141.7/tc/base/img/weather/60x60/mostly_sunny"}'>
+            Mount Isa
+        </li> </ul> </div> </ul> </li> </div> </div> </div> </div> <div class="divider"> </div> </div> </div> </div> </div> <div class="wrapper"> <div id="hd" class="clearfix"> <div class="sitebanner"> <div id="leaderboardAd" class="leaderboard"> <div id="adSpace0" class="adSpace"></div> </div> </div> <header class="siteheader"> <div class="sitelogo"> <a href="/"> <img id="logo" src="https://media.apnarm.net.au/img/site/logo/Rural-Weekly.png" alt="Rural Weekly" /> </a> </div> </header> </div> <nav class="sitenav"> <div class="primaryNav"> <ul class="nav nav-pills topNav"> <li class="hasChildren"> <a href="/" > <span class="home-link"></span>News
+</a> <div class="secondaryNav"> <ul class="nav nav-pills"> <li class="hasChildren"> <a href="/news/" >
+    Latest
+</a> <div class="pageBanner pageBannerWithTertiaryNav rnn_page_banner_latest"> <div class="container"> <div class="row"> <div class="span8"> <h2>Latest</h2> </div> <div class="span4"> </div> </div> <ul class="nav nav-tabs"> <li > <a href="/news/national/" >
+    National
+</a> </li> <li > <a href="/news/qld/" >
+    Queensland
+</a> </li> <li > <a href="/news/nsw/" >
+    New South Wales
+</a> </li> <li > <a href="/news/mackay/" >
+    Mackay
+</a> </li> <li > <a href="/news/rockhampton/" >
+    Rockhampton
+</a> </li> <li > <a href="/news/bundaberg/" >
+    Bundaberg
+</a> </li> <li > <a href="/news/toowoomba/" >
+    Toowoomba
+</a> </li> </ul> </div> </div> </li> <li class="hasChildren"> <a href="/business/" >
+    Business
+</a> <div class="pageBanner rnn_page_banner_business"> <div class="container"> <div class="row"> <div class="span8"> <h2>Business</h2> </div> <div class="span4"> </div> </div> </div> </div> </li> <li > <a href="/commodities/" >
+    Commodities
+</a> </li> <li > <a href="/farm-products/" >
+    Farm Products
+</a> </li> <li > <a href="/livestock/" >
+    Livestock
+</a> </li> <li > <a href="/horticulture/" >
+    Horticulture
+</a> </li> <li > <a href="/weather/" >
+    Weather
+</a> </li> <li class="hasChildren"> <a href="/markets/" >
+    Markets
+</a> <div class="pageBanner pageBannerWithTertiaryNav rnn_page_banner_markets"> <div class="container"> <div class="row"> <div class="span8"> <h2>Markets</h2> </div> <div class="span4"> </div> </div> <ul class="nav nav-tabs"> <li > <a href="/markets/prices/" >
+    Prices
+</a> </li> </ul> </div> </div> </li> </ul> </div> </li> <li class="hasChildren"> <a href="/find-your-local/browse" >
+    Find your local
+</a> <div class="secondaryNav"> <ul class="nav nav-pills"> <li > <a href="/find-your-local/browse" >
+    Search by keyword
+</a> </li> <li > <a href="/businesses/locations/" >
+    Search by location
+</a> </li> <li > <a href="/find-your-local/categories/" >
+    Search by category
+</a> </li> <li > <a href="/find-your-local/check/" >
+    Add Your Business
+</a> </li> </ul> </div> </li> <li class="hasChildren"> <a href="/whats-on/" >
+    What&#39;s On
+</a> <div class="secondaryNav"> <ul class="nav nav-pills"> <li > <a href="/whats-on/local/" >
+    Events
+</a> </li> <li > <a href="/whats-on/add/" >
+    Place an Event
+</a> </li> <li > <a href="/competitions/" >
+    Competitions
+</a> </li> <li > <a href="/liveseries/" >
+    Professional Bull Riding
+</a> </li> </ul> </div> </li> <li > <a href="/rural-life/" >
+    Rural Life
+</a> </li> <li class="hasChildren"> <a href="/jobs/" >
+    Jobs
+</a> <div class="secondaryNav"> <ul class="nav nav-pills"> <li > <a href="/employment/" >
+    Jobs News
+</a> </li> <li > <a href="/classifieds/jobs/" >
+    Find a Job
+</a> </li> <li > <a href="/jobs/special-reports/" >
+    Special Reports
+</a> </li> <li > <a href="/classifieds/placead/" >
+    Post a job
+</a> </li> </ul> </div> </li> <li class="hasChildren"> <a href="/motoring/" >
+    Motoring
+</a> <div class="secondaryNav"> <ul class="nav nav-pills"> <li > <a href="http://www.bigrigs.com.au/classifieds/all-locations/motoring/commercial-vehiclestrucks/" >
+    Big Rigs
+</a> </li> </ul> </div> </li> <li class="hasChildren"> <a href="/real-estate/" >
+    Real Estate
+</a> <div class="secondaryNav"> <ul class="nav nav-pills"> <li > <a href="/classifieds/real-estate/buy/" >
+    Search Buy
+</a> </li> <li > <a href="/classifieds/real-estate/rent/" >
+    Search Rent
+</a> </li> <li > <a href="/business/tools/" >
+    Tools &amp; Calculators
+</a> </li> </ul> </div> </li> <li class="hasChildren"> <a href="/classifieds/" >
+    Classifieds
+</a> <div class="secondaryNav"> <ul class="nav nav-pills"> <li > <a href="/classifieds/real-estate/" >
+    Real Estate
+</a> </li> <li > <a href="/classifieds/jobs/" >
+    Jobs
+</a> </li> <li > <a href="/classifieds/motoring/" >
+    Motoring
+</a> </li> <li > <a href="/classifieds/buy-sell" >
+    Buy &amp; Sell
+</a> </li> <li > <a href="/classifieds/notices/" >
+    Notices
+</a> </li> <li > <a href="/classifieds/trades-services/" >
+    Trades &amp; Services
+</a> </li> <li > <a href="/classifieds/personals/" >
+    Personals
+</a> </li> <li > <a href="/classifieds/" >
+    All Classifieds
+</a> </li> <li > <a href="/classifieds/placead/" >
+    Post an ad
+</a> </li> </ul> </div> </li> <li class="hasChildren"> <a href="/digital-edition/brw/" >
+    Digital Edition
+</a> <div class="secondaryNav"> <ul class="nav nav-pills"> <li > <a href="/digital-edition/brw/" >
+    Widebay
+</a> </li> <li > <a href="/digital-edition/trw/" >
+    South West QLD
+</a> </li> <li > <a href="/digital-edition/lrw/" >
+    Northern NSW
+</a> </li> <li > <a href="/digital-edition/rrw/" >
+    Central &amp; North
+</a> </li> <li > <a href="/digital-edition/srt/" >
+    Northern Territory
+</a> </li> </ul> </div> </li> </ul> </div> <div class="desktopNav"> <div class="navWrapper"> <button type="button" class="navbar-toggle hamburger-toggle pull-left"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="navbar-toggle-text">Menu</span> </button> <ul class="nav nav-pills topNav"> <li> <a href="/" > <span class="home-link"></span>Home
+</a> </li> <li> <a href="/news/" >
+    News
+</a> </li> <li> <a href="/lifestyle/" >
+    Lifestyle
+</a> </li> <li> <a href="/digital-edition/" >
+    Digital Edition
+</a> </li> <li> <a href="/whats-on/" >
+    What&#39;s On
+</a> </li> <li> <a href="/rural-life/" >
+    Rural Life
+</a> </li> <li> <a href="/jobs/" >
+    Jobs
+</a> </li> <li> <a href="/cars/" >
+    Motoring
+</a> </li> <li> <a href="/real-estate/" >
+    Real Estate
+</a> </li> <li> <a href="/classifieds/notices/funeral-notices/" >
+    Obituaries
+</a> </li> <li> <a href="/classifieds/" >
+    Classifieds
+</a> </li> </ul> <ul class="nav nav-pills nav-all"> <li> <button type="button" class="hamburger-toggle">All</button> </li> </ul> </div> </div> <div id="storyLineAd0" class="adSpace" style="display:none;"></div> <div class="navBasedPageBanner"></div> <div class="contribute"></div> <div class="alertWrapper"></div> </nav> <div class="container"> <div id="newsflash"></div> <div class="row"> <div class="span12"> <header> <div class="primary-category">News</div> <h1 class="storyHeadline">Reeling in cash, more $10k fish caught</h1> <div class="by-line-wrap"> <span class="byline minimalArticle "> <div class="auth-details">
+                        
+                            Mark Wilton |
+                        
+
+                        11th Feb 2016 10:08 AM
+
+                        
+                    </div> </span> </div> <div class="follow-outter-wrapper"> </div> </header> <aside class="span12 pull-right ugcContainer"> <div class="sideBar"> <div class="shareTools"> <div class="socialMedia" data-overlay-marker='{"edit_url": "/admin/fragments/fragment/1016/", "content_type": "fragment", "label": "social_media_icons"}'> <ul class="tools"> <!--[if IE 6]><noscript><![endif]--> <a class="facebook-share share-tools-item"><span class="icon20x20-facebook"></span><span class="facebook-counter">0</span></a> <a class="twitter-share share-tools-item"><span class="icon20x20-twitter"></span></a> <script>
+(function(w, d, s) {
+    function go(){
+    var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
+      if (d.getElementById(id)) {return;}
+      js = d.createElement(s); js.src = url; js.id = id;
+      fjs.parentNode.insertBefore(js, fjs);
+    };
+    load('//connect.facebook.net/en_US/sdk.js#version=v2.0&appId=350954121620352&xfbml=1', 'fbjssdk');
+    load('https://apis.google.com/js/plusone.js', 'gplus1js');
+    load('//platform.twitter.com/widgets.js', 'tweetjs');
+    }
+    if (w.addEventListener) { w.addEventListener("load", go, false); }
+    else if (w.attachEvent) { w.attachEvent("onload",go); }
+}(window, document, 'script'));
+</script> </ul> </div> <div data-activity-action='{"key": "liked:/news/reeling-in-cash/2924278/", "options": {"url": "/record/liked/28/2924278/49bf888243f184e9cf357fed6d4d00aa0ed76521002093f42f9c1195078b977e/"}}'></div> <div data-activity-action='{"key": "shared:/news/reeling-in-cash/2924278/", "options": {"url": "/record/shared/28/2924278/f1d87a5c09512a73353475f0a85ab0474478aeb4f2f86edab15eca0f4288c531/"}}'></div> <div class="share-tools"  data-overlay-marker='{"edit_url": "/admin/fragments/fragment/3352/", "content_type": "fragment", "label": "share_tools"}'> <a class="share-tools-item" href="#print" title="Print"><span class="icon20x20-printer-invert"></span> PRINT</a> </div> <a href="#comments" class="share-tools-item comment-link"> <span class="icon20x20-comment"></span>
+        
+            Have your say
+        
+    </a> </div> </div> </aside> </div> <div class="span8"> <section> <article class="newsEntry min" data-tags="barra,fishing,top-end"  data-source="srt" data-displayLead="true"  data-overlay-marker='{"is_primary": true, "edit_url": "/admin/news/newsentry/2924278/", "content_type": "newsentry", "label": "Reeling in cash, more $10k fish caught"}' data-record-hit="/record/hit/28/2924278/" data-content-context='{"contentTypeId": 28, "objectId": 2924278}'> <!-- cxenseparse_start --> <div class="articleLeadImage"> <div  data-overlay-marker='{"edit_url": "/admin/media/image/1787914/", "content_type": "image", "label": "Lindsay Grundon"}' class="articleImage  large"> <figure> <img src="https://media.apnarm.net.au/img/media/images/2016/02/11/9-3142836-srt12022016barra1_fct769x576x3.0_ct620x465.jpg"  alt="Darwin fisho Lindsay Grundon with his prize-tagged $10,000 barramundi caught on the Daly River." title="Darwin fisho Lindsay Grundon with his prize-tagged $10,000 barramundi caught on the Daly River."  /> <figcaption> <span>Darwin fisho Lindsay Grundon with his prize-tagged $10,000 barramundi caught on the Daly River.</span> <small class="photoDetails">Contributed</small> </figcaption> </figure> </div> </div> <div class="span8 leadingParagraph"> <!-- Opening paragraph goes here. --> </div> <div class="left-sidebar span2"> <div class="relatedcontent-outside sideBar "> <h3>Popular Stories</h3> <ul class="arrowList"> <a href="/news/telling-a-country-tale-with-humorous-flair/3006895/" class="track" data-track='{ "category": "Related Content", "label": "article", "action": "click" }'> <img src="https://media.apnarm.net.au/img/media/images/2016/04/28/b8896603z1_20160428145110_000g5j4vled2-0-6omknypnap47fne84m2_ct140x105.jpg" width="140" height="105" alt="Telling a country tale with humorous flair" title="Telling a country tale with humorous flair" /> </a> <li> <a href="/news/telling-a-country-tale-with-humorous-flair/3006895/" class="track" data-track='{ "category": "Related Content", "label": "article", "action": "click" }'>
+                            Telling a country tale with humorous flair
+                        </a> </li> <li> <a href="/news/property-in-strong-hands/3006949/" class="track" data-track='{ "category": "Related Content", "label": "article", "action": "click" }'>
+                            She&#39;s in her early 30s and owns a 250,000 ha station
+                        </a> </li> <li> <a href="/news/familys-tragedy-shows-importance-of-safety/3010198/" class="track" data-track='{ "category": "Related Content", "label": "article", "action": "click" }'>
+                            &#39;He can&#39;t die, he hasn&#39;t met his child yet&#39;: Wife pleads
+                        </a> </li> </ul> </div> </div> <div class="story-body span6"> <p>
+	WITH fishing experts predicting that the coming weeks could produce some of the best barra fishing in the Top End in years, the race to hook a $1 million catch will be on in earnest.
+</p> <p>
+	But at least two Top End fishos are already laughing all the way to the bank, becoming the seventh and eighth people to reel in one of the 76 $10,000 fish in the Northern Territory Government's Million Dollar Fish competition recently.
+</p> <p>
+	Fifty-year-old self-employed concreter Lindsay Grundon was fishing with his long-time friend and business partner Peter Dakis at their secret spot on the Daly River when he hooked the 64cm prize-tagged barra that was the seventh caught in the competition. And Shaymus Frewen bagged a 68cm tagged barra in Bynoe Harbour on Sunday to claim the eighth $10,000 fish.
+</p> <p>
+	"I'm rapt. I still don't believe it," Mr Grundon said after his catch was verified.
+</p> <p>
+	In a day to remember, Mr Grundon's winning barramundi was one of 20 barra caught by the pair, who said they were just in the "right place at the right time" at the popular spot.
+</p> <p>
+	"We didn't really notice the Million Dollar Fish tag at first. It wasn't until we put our glasses on that we could read what it said," Mr Grundon said.
+</p> <p>
+	A regular fisherman, Mr Grundon registered for the competition at www.milliondollarfish.com.au last year and said he planned to pay off a few bills with his $10,000 prize.
+</p> <p>
+	"I'll probably celebrate by fuelling up and going fishing again," he said.
+</p> <p>
+	As for the winning fish, it's been filleted, although it won't be eaten by Mr Grundon. He doesn't like fish - just fishing with his best mate, Peter, who couldn't have been happier for "Grundo".
+</p> <p>
+	"He's a good mate, we fish together, we work together. I'm just happy it was caught on our boat," Mr Dakis said.
+</p> <p>
+	Honouring a fisherman's pact, Mr Frewen said he would be splitting the cash prize 50-50 with his friend Pete Turner, whose boat the pair was on at the time. But, he's not the only friend set to benefit from the winning catch.
+</p> <p>
+	"We said from day one the rules of the boat were whoever is on the boat we'll split the prize between them," Mr Frewen said.
+</p> <p>
+	"The fishing rod that I used to catch the fish belongs to a mate so he'll be getting 10% too. So he's getting $1000 just for having a rod on a boat so he's pretty stoked about it too."
+</p> <p>
+	The winning catches come after record-breaking rainfall in areas of the Top End just before Christmas that led to the evacuation of the Daly River Community.
+</p> <p>
+	The monsoonal weather was predicted by fishing experts to see the early arrival of a strong "run-off", the time of year local anglers refer to as the best for barramundi fishing.
+</p> <p>
+	"Now the flood waters have receded, conditions are ripe for catching barramundi on the Daly River, which is good news for the more than 41,000 people registered in the Million Dollar Fish competition," NT CEO Tony Mayell said.
+</p> <p>
+	"More than half of the registrations for the competition are from interstate (25,503) so we strongly encourage these people to get on a plane, get up here and wet a line."
+</p> <p>
+	To date, seven of the eight $10,000 prize-tagged fish captured have been caught by locals.
+</p> <p>
+	With less than a month to go in the competition, Mr Mayell said the challenge was on for interstate anglers to get a bite of the action.
+</p> <p>
+	"Fishing experts have predicted the coming weeks could be the best barramundi fishing the Top End has seen in years so now is the perfect time to book a fishing holiday to the Northern Territory - it could leave you a million dollars richer."
+</p> <p>
+	The Million Dollar Fish competition ends at midnight on Monday, February 29.
+</p> </div> <!-- cxenseparse_end --> <div class="headlineFragment product-roadblock span10 no-margin-left margin-bottom-10"  data-overlay-marker='{"edit_url": "/admin/fragments/fragment/3355/", "content_type": "fragment", "label": "product_roadblock"}'> <!--
+<div data-roadblock-position="7"> <h3></h3> </div>
+--> </div> <aside class="outside"> </aside> <div class="clearfix margin-top margin-bottom span6 pull-right no-margin-left"> <div class="pull-right"> <div class="sourceWrapper"><img  src="https://media.apnarm.net.au/img/source/rural-weekly_4-kr2i2b5qnkfodbzhxj2.png" /> </div> </div> <div class="margin-top no-margin-left"> <div class="follow-tags"> <div class="follow-wrapper hidden hidden-tag-1"> <span class="profile-name">barra</span> <div class="profile-buttons"> <a href="/topic/barra/#biography" class="profile-link">
+                        Read More
+                    </a> <button
+    name="follow"
+    value="Follow"
+    class="btn btn-primary btn-large follow-lookup"
+    data-follow-key="ZQnFSzWMf-kemm7QOtLUVRYTvJkEdVFbGZfcXCeZnb8Pp-QuTJHrFYbRIgcIW0XGBkog7ANdhp5ngJEUzFN4tI1iCB3Nifh8qp1PaUcGhWO6hMyQzU90sI6Q7X6Cp9Cx1Ro8QzhHlFwLFiMD5Tte0mEQPQHxrkLZh7sHKYVLCqFk5C5OLJYL0AAR3HHvH5AgyMvL809NaljxwWRgdyNdasRP7CrkoxmIMZmVZGmJ3mMj2lb0N2l0rw7cegUH6Uy-"
+    data-follow-text="Follow topic"
+    data-unfollow-text="Unfollow topic"
+    data-loading-text="Loading...">
+    Login to follow
+</button> </div> </div> <div class="follow-wrapper hidden hidden-tag-2"> <span class="profile-name">fishing</span> <div class="profile-buttons"> <a href="/topic/fishing/#biography" class="profile-link">
+                        Read More
+                    </a> <button
+    name="follow"
+    value="Follow"
+    class="btn btn-primary btn-large follow-lookup"
+    data-follow-key="ZQnFSzWMf-kemm7QOtLUVQKeKSLHqyMwRV8kgLwaCSYL2sbuxgdQKFGBWrhRmgg8dRMP5ej75PUV1w69LiU7GSRCZTXHGVuh-QDxqcp9kMg_XBeoOceBX9A9AntoLkbdGYoAc988tEASmcXhWDcs3dDa9hwgMLY8V5hE4RHr1ibFUEyVIyAqM7YAlCzKNctnummvfdFM_l0GiYmQ9tyJ-H6KCIPClDglhSb89L7DpNgkhEIKFTfjogbRrTyzE8As"
+    data-follow-text="Follow topic"
+    data-unfollow-text="Unfollow topic"
+    data-loading-text="Loading...">
+    Login to follow
+</button> </div> </div> <div class="follow-wrapper hidden hidden-tag-3"> <span class="profile-name">top end</span> <div class="profile-buttons"> <a href="/topic/top-end/#biography" class="profile-link">
+                        Read More
+                    </a> <button
+    name="follow"
+    value="Follow"
+    class="btn btn-primary btn-large follow-lookup"
+    data-follow-key="ZQnFSzWMf-kemm7QOtLUVVt4olD8OfDudZWHL9wzYHFkaWoJQX1f020oDjV63g1TXsuVWHkp7k_jHw0VvB6zYk25xh9NlVDFHJaGHEW18D6cbFAq2i4usOs4gA3DL7V0Hm4G5bEGWRC9CV2I8I81Ig_80Ul076vU3DLsgB0Al8ms5m-Qhbz3ecxRGEVafQ4tA2Mwue72sTnm-CMgTQkeCCeML_r-VrkFas3KKOApE4EIFKtTKh7X4VK190x-8GWV"
+    data-follow-text="Follow topic"
+    data-unfollow-text="Unfollow topic"
+    data-loading-text="Loading...">
+    Login to follow
+</button> </div> </div> </div> <p class="tags"> <span class="label label-success">Topics:&nbsp;</span> <a class="tag-1" href="/topic/barra/">barra</a>,
+    
+        <a class="tag-2" href="/topic/fishing/">fishing</a>,
+    
+        <a class="tag-3" href="/topic/top-end/">top end</a> </p> </div> </div> <div class="inStoryPanes clearfix"> </div> <div class="sideBar"> <div class="shareTools"> <div class="socialMedia" data-overlay-marker='{"edit_url": "/admin/fragments/fragment/1016/", "content_type": "fragment", "label": "social_media_icons"}'> <ul class="tools"> <!--[if IE 6]><noscript><![endif]--> <a class="facebook-share share-tools-item"><span class="icon20x20-facebook"></span><span class="facebook-counter">0</span></a> <a class="twitter-share share-tools-item"><span class="icon20x20-twitter"></span></a> <script>
+(function(w, d, s) {
+    function go(){
+    var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
+      if (d.getElementById(id)) {return;}
+      js = d.createElement(s); js.src = url; js.id = id;
+      fjs.parentNode.insertBefore(js, fjs);
+    };
+    load('//connect.facebook.net/en_US/sdk.js#version=v2.0&appId=350954121620352&xfbml=1', 'fbjssdk');
+    load('https://apis.google.com/js/plusone.js', 'gplus1js');
+    load('//platform.twitter.com/widgets.js', 'tweetjs');
+    }
+    if (w.addEventListener) { w.addEventListener("load", go, false); }
+    else if (w.attachEvent) { w.attachEvent("onload",go); }
+}(window, document, 'script'));
+</script> </ul> </div> <div data-activity-action='{"key": "liked:/news/reeling-in-cash/2924278/", "options": {"url": "/record/liked/28/2924278/49bf888243f184e9cf357fed6d4d00aa0ed76521002093f42f9c1195078b977e/"}}'></div> <div data-activity-action='{"key": "shared:/news/reeling-in-cash/2924278/", "options": {"url": "/record/shared/28/2924278/f1d87a5c09512a73353475f0a85ab0474478aeb4f2f86edab15eca0f4288c531/"}}'></div> <div class="share-tools"  data-overlay-marker='{"edit_url": "/admin/fragments/fragment/3352/", "content_type": "fragment", "label": "share_tools"}'> <a class="share-tools-item" href="#print" title="Print"><span class="icon20x20-printer-invert"></span> PRINT</a> </div> <a href="#comments" class="share-tools-item comment-link"> <span class="icon20x20-comment"></span>
+        
+            Have your say
+        
+    </a> </div> </div> <div class="margin-top-15 noPrint after-story"  data-overlay-marker='{"edit_url": "/admin/fragments/fragment/2929/", "content_type": "fragment", "label": "default_after_story"}'> <script type="text/javascript"><!--
+google_ad_client = "ca-pub-1224512341046174";
+/* Google-Adsense-Contextual */
+google_ad_slot = "8677810589";
+google_override_format = true;
+google_ad_width = 620;
+google_ad_height = 115;
+//--> </script> <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script> <hr style="border-top: 1px solid #eee;"> </div> <div  data-overlay-marker='{"edit_url": "/admin/fragments/fragment/3353/", "content_type": "fragment", "label": "tc_join_community_loggedout"}'> <div class="join-community only-non-authenticated-user"> <span class="icon60x60-user-group"></span> <div class="join-info"> <h3>Join the Community.</h3> <p>Get your local news, your way.</p> </div> <div class="button-container"> <a href="/my-account/register/?next=/news/reeling-in-cash/2924278/" class="btn">Sign Up</a> </div> </div> </div> <div  data-overlay-marker='{"edit_url": "/admin/fragments/fragment/3354/", "content_type": "fragment", "label": "tc_join_community_loggedin"}'> <div class="join-community only-authenticated-user"> <span class="icon60x60-user-group"></span> <div class="join-info"> <h3>Stay Connected</h3> <p>Update your news preferences and get the latest news delivered to your inbox.</p> </div> <div class="button-container"> <a href="/my-account/edit/" class="btn">Update Now</a> </div> </div> </div> <div id="comments" class="comments" data-comments-url="/comments/json/news/newsentry/2924278/"></div> <style type="text/css">
+
+    /* IMPORTANT TO KEEP */
+
+    .comments-frozen .btn.reply {
+        display: none;
+    }
+    
+</style> </article> </section> </div> <div class="span4"> <div class="sidebar-item sidebar-1"> <div  data-overlay-marker='{"edit_url": "/admin/containers/pane/2230/", "content_type": "pane", "label": "Sidebar_2_1 Pane"}'> <div  data-overlay-marker='{"edit_url": "/admin/containers/container/3059/", "content_type": "container", "label": "Local Partners"}' data-tab-name="Local Partners" class="rnn_ri_container_town-partners"> <div class="recurring-inline-normal"  data-overlay-marker='{"edit_url": "/admin/inlines/recurringinline/2538/", "content_type": "recurringinline", "label": "Sales Carousel"}'> <div class="aside adGroup local-partners"> <h2 class="asideHeader">Local Partners</h2> <div class="horizontal-promotions"> <div class="adCarousel"> <button type="button" class="carouselControls next"><span class="icon14x14-circled-arrow-right"></span></button> </div> </div> <div class="adSpace" id="carouselAd0" style="height:130px;"> </div> </div> </div> </div> <div class="mrec-with-list"  data-overlay-marker='{"edit_url": "/admin/containers/container/11235/", "content_type": "container", "label": "Just In: JustIn with MREC"}' data-tab-name="Just In"> <div class="adGroup adGroupLabel"> <div id="adSpace1" class="adSpace"></div> </div> <div class="margin-top-20 styled-list"> <h2 class="asideHeader">Just In</h2> <ul> <li> <a href="/news/bring-it-yankees-our-butts-are-better-yours/3011094/" class="track">
+                    VIDEO: Bring it on Yankees, our butts are better than yours!
+                    
+                </a> </li> <li> <a href="/news/telling-a-country-tale-with-humorous-flair/3006895/" class="track">
+                    Telling a country tale with humorous flair
+                    
+                </a> </li> <li> <a href="/news/petition-started-stop-sale-iconic-aussie-cattle-pr/3010353/" class="track">
+                    Petition started to stop sale iconic Aussie cattle property
+                    
+                </a> </li> <li> <a href="/news/oh-mandy-grower-explains-mandarin-myths-and-what-b/3009185/" class="track">
+                    Oh, Mandy: Grower explains mandarin myths and what to buy
+                    
+                </a> </li> <li> <a href="/news/tips-on-how-to-reduce-energy-costs/3006948/" class="track">
+                    Tips on how to reduce energy costs
+                    
+                </a> </li> <li> <a href="/news/port-arthur-massacre-we-now-have-1-million-new-gun/3010317/" class="track">
+                    Port Arthur massacre: We now have 1 million new guns
+                    
+                </a> </li> <li> <a href="/news/shed-fire-kills-30000-chickens-a-blaze-that-tore-t/2991330/" class="track">
+                    Shed fire kills 30,000 chickens
+                    
+                </a> </li> <li> <a href="/news/academic-calls-for-study-into-lockyer-valley-water/2982000/" class="track">
+                    Academic calls for study on Lockyer Valley water allocations
+                    
+                </a> </li> <li> <a href="/news/mental-preparation-is-half-the-battle/2971131/" class="track">
+                    Mental preparation is half the battle
+                    
+                </a> </li> <li> <a href="/news/time-to-respect-dairy-farmers/2950810/" class="track">
+                    Time to respect dairy farmers
+                    
+                </a> </li> <li> <a href="/news/mazda-cx-3-declared-winner-australias-best-cars/2942395/" class="track">
+                    Which car has secured Australia's Best Cars award for 2015?
+                    
+                </a> </li> <li> <a href="/news/rosevale-farmer-celebrates-milestone-after-opening/2937296/" class="track">
+                    Farmer celebrates milestone after opening own butcher store
+                    
+                </a> </li> </ul> </div> </div> </div> </div> <div class="sidebar-item sidebar-2 hide"> <div  data-overlay-marker='{"edit_url": "/admin/containers/pane/2231/", "content_type": "pane", "label": "Sidebar_2_2 Pane"}'> </div> </div> </div> </div> <div class="row"> <div class="span12"> <div class="after_story_full_width_fragment"  data-overlay-marker='{"edit_url": "/admin/fragments/fragment/3914/", "content_type": "fragment", "label": "after_story_full_width"}'> </div> </div> </div> </div> <div id="trailerboardAd" class="leaderboard"> <div id="adSpace6" class="adSpace"></div> </div> <footer class="sitefooter"> <div class="container"> <div class="row"> <aside class="span2"> <div id="ft_1_0" class="footerRow"  data-overlay-marker='{"edit_url": "/admin/fragments/fragment/2272/", "content_type": "fragment", "label": "tc_footer_1_0"}'> <img src="https://media.apnarm.net.au/141.7/img/media/images/2014/11/07/arm-3bmn7htl5n3ap2tg4j2.jpg" alt="APN Australia Regional Media" width="145" height="39" /> <p>&copy; Central Queensland News Publishing Company Pty Ltd 2016. Unauthorised reproduction is prohibited under the laws of Australia and by international treaty. </p><ul class="piped"> <li><a href="http://www.apn.com.au" target="_blank">APN</a></li> <li><a href="/group_sites/">APN Group Websites</a></li> </ul> </div> <div id="ft_1_1" class="footerRow"  data-overlay-marker='{"edit_url": "/admin/fragments/fragment/2325/", "content_type": "fragment", "label": "tc_footer_1_1"}'> <h5>Need Help?</h5> <p>Refer to our helpful <a href="/contact/" class="track" data-category="Footer">FAQ section</a> for any problems you might be experiencing.</p> </div> </aside> <div id="ft_2" class="span10"> <div id="ft_2_1"  data-overlay-marker='{"edit_url": "/admin/fragments/fragment/2335/", "content_type": "fragment", "label": "tc_footer_2_1"}'> <div id="ft_2_1_1" class="footerRow"> <h5>Rural Weekly</h5> <ul class="piped"> <li><a href="/news/" title="Rural Weekly News" class="blue-link track" data-category="Footer">Rural Weekly News</a></li> <li><a href="/news/national/" title="Australian News"  class="blue-link track" data-category="Footer">National News</a></li> <li><a href="/business/" title="Business News"  class="blue-link track" data-category="Footer">Business</a></li> <li><a href="/horoscopes/" title="Your Daily Horoscope"  class="blue-link track" data-category="Footer">Horoscopes</a></li> <li><a href="/NiE/" title="Newspapers in Education" class="blue-link track" data-category="Footer">Newspapers in Education</a></li> </ul> </div> <hr> <div class="extraWrapper"> <div id="ft_2_1_2" class="footerRow"> <h5>What's On</h5> <ul class="piped"> <li><a href="/whats-on/local/" title="Events"  class="blue-link track" data-category="Footer">Events</a></li> <li><a href="/whats-on/add/" title="Place an Event"  class="blue-link track" data-category="Footer">Place an event</a></li> <li><a href="/competitions/">Competitions</a></li> </ul> </div> <hr> <div id="ft_2_1_3" class="footerRow"> <h5>Australia Trades and Services</h5> <ul class="piped"> <li class="first"><a href="http://services.ruralweekly.com.au/lockyer/air-conditioning/" title="Air Conditioning"  class="blue-link track" data-category="Footer">Air Conditioning</a></li> <li class="first"><a href="http://services.ruralweekly.com.au/lockyer/building/" title="Builders"  class="blue-link track" data-category="Footer">Builders</a></li> <li class="first"><a href="http://services.ruralweekly.com.au/lockyer/carpet-cleaning/" title="Carpet Cleaners"  class="blue-link track" data-category="Footer">Carpet Cleaners</a></li> <li class="first"><a href="http://services.ruralweekly.com.au/lockyer/concreting/" title="Concreters"  class="blue-link track" data-category="Footer">Concreters</a></li> <li class="first"><a href="http://services.ruralweekly.com.au/lockyer/electricians/" title="Electricians"  class="blue-link track" data-category="Footer">Electricians</a></li> <li class="first"><a href="http://services.ruralweekly.com.au/lockyer/gardening-and-lawn-mowing/" title="Gardeners"  class="blue-link track" data-category="Footer">Gardeners</a></li> <li class="first"><a href="http://services.ruralweekly.com.au/lockyer/handymen/" title="Handyman"  class="blue-link track" data-category="Footer">Handyman</a></li> <li class="first"><a href="http://services.ruralweekly.com.au/lockyer/painting/" title="Painters"  class="blue-link track" data-category="Footer">Painters</a></li> <li class="first"><a href="http://services.ruralweekly.com.au/lockyer/plumbing/" title="Plumbers"  class="blue-link track" data-category="Footer">Plumbers</a></li> <li class="first"><a href="http://services.ruralweekly.com.au/" title="All Services"  class="blue-link track" data-category="Footer">All Services</a></li> </ul></div> <hr> <div id="ft_2_1_4" class="footerRow"> <h5>About Rural Weekly</h5> <ul class="piped"> <li><a href="/panel/" title="Audience Panel"  class="blue-link track" data-category="Footer">Audience Panel</a></li> <li><a href="/aboutus/" title="About Rural Weekly" class="blue-link track" data-category="Footer">About Us</a></li> <li><a href="/contactus/" title="Contact Rural Weekly" class="blue-link track" data-category="Footer">Contact Us</a></li> <li><a href="/buy-photos/" class="blue-link track" data-category="Footer" title="Buy Photos from the Rural Weeklye">Photo Sales</a></li> <li><a href="/contact/feedback/" class="blue-link track" data-category="Footer" title="Write to the Rural Weekly">Letters to the Editor</a></li> </ul> </div> </div> <hr> <div id="ft_2_2" class="footerRow"  data-overlay-marker='{"edit_url": "/admin/fragments/fragment/2296/", "content_type": "fragment", "label": "tc_footer_2_2"}'> <h5>APN News &amp; Media</h5> <ul class="piped"> <li><a href="http://www.apndigital.com.au/" target="_blank" class="blue-link track" data-category="Footer">Digital Advertising</a></li> <li><a href="/contact/arm-dms/" class="blue-link track" data-category="Footer">ARM Digital Marketing Solutions</a></li> <li><a href="/group_sites/" class="blue-link track" data-category="Footer">Group Sites</a></li> <li><a href="/privacy/" class="blue-link track" data-category="Footer">Privacy Policy</a></li> <li><a href="/terms/" class="blue-link track" data-category="Footer">Terms of Use</a></li> </ul> </div> </div> </div> </div> </footer> <div id="adSpace2" class="adSpace"></div> <div id="adSpace4" class="adSpace"></div> </div> <div class="loginModal modal hide fade" tabindex="-1" role="dialog" aria-labelledby="loginModalLabel" aria-hidden="true"> <div class="modal-header"> <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button> <h3 id="loginModalLabel">Login to follow.</h3> </div> <div class="modal-body"></div> </div> <!--Copyright 1996-2011 Adobe, Inc. All Rights Reserved --> <!--More info available at http://www.omniture.com --> <script language="JavaScript" type="text/javascript">
+(function (isBeta) {
+    window.s_linkInternalFilters="javascript:,apndigital.com.au,ballinaadvocate.com.au,balonnebeacon.com.au,baysidestarnews.com.au,bigrigs.com.au,blackwaterherald.com.au,byronnews.com.au,caboolturenews.com.au,centralnorthburnetttimes.com.au,centraltelegraph.com.au,chinchillanews.com.au,coffscoastadvocate.com.au,coolum-news.com.au,cqnews.com.au,creative.apndigital.com.au,dailyexaminer.com.au,dailymercury.com.au,dalbyherald.com.au,echonews.com.au,frasercoastchronicle.com.au,gattonstar.com.au,gladstoneobserver.com.au,goldcoastmail.com.au,gympietimes.com.au,ipswichadvertiser.com.au,isistcnews.com.au,news-mail.com.au,noosanews.com.au,northernstar.com.au,qt.com.au,rangenews.com.au,ripleytoday.com.au,ruralweekly.com.au,seniorsnews.com.au,southburnetttimes.com.au,stanthorpeborderpost.com.au,sunshinecoastdaily.com.au,suratbasin.com.au,thechronicle.com.au,themorningbulletin.com.au,thereporter.com.au,thesatellite.com.au,tweeddailynews.com.au,warwickdailynews.com.au,westernstarnews.com.au,westerntimes.com.au,whitsundaycoastguardian.com.au,whitsundaytimes.com.au";
+})(window.location.hostname.indexOf('beta.') > -1);
+</script> <script language="JavaScript" type="text/javascript" src="https://media.apnarm.net.au/141.7/apncore/js/s_code.js"></script> <script language="JavaScript" type="text/javascript"> <!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+switch(window.location.pathname) {
+    case '/':
+        s.channel = 'home'; break;
+    case '/competitions/':
+        s.channel = 'competitions'; break;
+    case '/subscriptions/packages/':
+        s.channel = 'subscriptions'; break;
+    case '/subscriptions/thanks/':
+        s.channel = 'subscriptions'; break;
+    default:
+        s.channel = 'news';
+}
+s.pageName = "rwy:" + (window.location.pathname === "/" ? "home" : "article:reelingincashmore10kfishcaught:2924278");
+s.hier1 = "rwy:" + (window.location.pathname === "/" ? "home:default" : "news");
+if (s.hier1.split(":").length < 3) { s.hier1 += ":default"; };
+s.prop1 = window.location.pathname === "/" ? "home" : "article";
+s.prop2 = "barra|fishing|top-end";
+s.prop3 = "rwy";
+s.prop4 = "sunday";
+s.prop5 = "10:00";
+s.prop6 = "2924278";
+s.prop7 = "markwilton";
+s.prop8 = "";
+s.prop9 = "";
+s.prop10 = "srt";
+s.prop11 = "11feb2016";
+s.prop12 = (Cookies.get("apn_account_id") || "");
+s.prop13 = window.location.pathname === "/" ? document.referrer == window.location ? "y" : "n" : "";
+s.prop14 = "";
+s.prop15 = "";
+s.prop16 = "";
+s.prop17 = "";
+s.prop18 = "";
+s.prop20 = "";
+s.prop21 = "";
+s.prop22 = "";
+s.prop23 = "";
+s.prop24 = "local";
+// s.prop25 = "";
+s.prop26 = "";
+s.prop27 = "yes";
+s.prop28 = "yes";
+s.prop29 = "";
+s.prop30 = "";
+s.prop31 = "";
+
+
+uDetails = (Cookies.get("apn_user_data") || "");
+if (uDetails) {
+    try {
+        uDetails = JSON.parse(decodeURIComponent($.base64Decode(uDetails)));
+    } catch (e) {
+        uDetails = "";
+    }
+}
+
+s.prop33 = uDetails.gender || '';
+s.prop34 = uDetails.year_of_birth || '';
+s.prop35 = uDetails.postcode || '';
+
+if (uDetails) {
+    if (uDetails.is_staff === true) {
+        s.prop37 = 'staff';
+    } else if (uDetails.subscribed === true) {
+        s.prop37 = 'subscribed';
+    } else {
+        s.prop37 = 'account';
+    }
+} else {
+    s.prop37 = 'anonymous';
+}
+
+delete uDetails;
+s.prop36 = pageData.site_mode || "";
+
+/* Conversion Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();
+if(s_code)document.write(s_code)//--> </script> <script language="JavaScript" type="text/javascript"> <!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script> <noscript> <img src="http://apnonline.112.2o7.net/b/ss/apnarmtotal/1/H.22.1--NS/0?[AQB]&cdp=3&[AQE]"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/--> <!-- End SiteCatalyst code version: H.22.1. --> <script src="http://maps.google.com/maps/api/js?sensor=true"></script> <!--[if lt IE 9]> <script src="http://code.jquery.com/jquery-1.10.0.min.js"></script> <![endif]--> <!--[if gte IE 9]> <script src="https://media.apnarm.net.au/141.7/bower_components/jquery/jquery.js"></script> <![endif]--> <!--[if !IE]> <!--> <script src="https://media.apnarm.net.au/141.7/bower_components/jquery/jquery.js"></script> <!--<![endif]--> <script src="https://media.apnarm.net.au/141.7/bower_components/jReject/js/jquery.reject.js"></script> <script type="text/javascript" src="https://media.apnarm.net.au/img/cache/141.7/js/9a736b0852a7.js" charset="utf-8"></script> <script>
+(function($,d){$.each(readyQ,function(i,f){$(f)});$.each(bindReadyQ,function(i,f){$(d).bind("ready",f)})})(jQuery,document)
+</script> <script src="https://media.apnarm.net.au/141.7/tc/base/js/modules/reject.js"></script> <script type="text/javascript" src="https://media.apnarm.net.au/img/cache/141.7/js/19ef69980168.js" charset="utf-8"></script> <script type="text/javascript" src="https://media.apnarm.net.au/img/cache/141.7/js/cb9cc2812411.js" charset="utf-8"></script> <script id="rnn_init">
+
+
+
+
+
+
+
+
+
+
+
+
+
+;(function (rnn) {
+
+    var userAccountURL = '/my-account/',
+        currentAbsoluteUrl = window.location.pathname + window.location.search,
+        siteConfig = {
+            id: '67',
+            name: 'Rural Weekly',
+            domain: 'www.ruralweekly.com.au',
+            shortdomain: 'ruralweekly',
+            network: {
+                name: 'RNN'
+            },
+            showSubscriptionModal: false,
+            siteNewsletterPreferences: [
+                
+                    {id: "486", name: "Rural Weekly Newsletter"}
+                
+            ],
+            isDesktop: true,
+            primaryRegion:{
+                id: '4',
+                name: 'Australia'
+            },
+            mediaURL: 'https://media.apnarm.net.au/141.7/',
+            tagsURL: '/tags/typeahead.json',
+            getSubmissionTagsUrlPrefix: '/contentupload/submissions/tags/', 
+            termsUrl: '/submissions/terms-and-conditions/',
+            notice:{
+                postURL: '/noticeboard/add/ajax/',
+                noticeboardURL: '/noticeboard/',
+                types: { "44": "Club Updates","48": "Pothole Alerts","50": "Road Closures","8": "General Hazard","45": "Damaged Footpaths","47": "Overgrown Paths/Park","49": "Power Outage","51": "Roadwork Alerts","46": "Magpie Zones","7": "Event Updates","9": "Traffic Updates","10": "Other alerts","6": "Damaged Roads","54": "Traffic Hazards","53": "School Event Updates","52": "Club Training Update" }
+            },
+            defaultContributeForms: ['story','image','notice','event'],
+            userAccountURL: userAccountURL,
+            userDataURL: userAccountURL + 'userstatus/',
+            loginURL: userAccountURL + 'login/',
+            logoutURL: userAccountURL + 'logout/',
+            resetPasswordURL: userAccountURL + 'password-reset/',
+            accountEditURL: userAccountURL + 'edit/',
+            accountConfirmURL: userAccountURL + 'confirm/',
+            profileURL: '/profile/',
+            registerURL: userAccountURL + 'register/?next=' + currentAbsoluteUrl,
+            modalRegisterURL: '/my-account/-register/',
+            commentFlagURL: '/flag/55/',
+            ugcURL: '/contentupload/upload_form/',
+            serverCode: 'ip-172-30-1-83',
+            isDebug: false,
+            facebook: {
+                appID: '350954121620352',
+                loginURL: '/facebook/login/'
+            },
+            typeaheadURL: '/location/typeahead.json',
+            follow: {
+                statusURL: '/follow/status/',
+                createURL: '/follow/create/',
+                removeURL: '/follow/remove/',
+                followSearchURL: '/follow/follow-search/',
+                unfollowSearchURL: '/follow/unfollow-search/'
+            },
+            defaultLocation: {
+                "latitude": -35.237455,
+                "longitude": 149.067252
+            },
+            addEventURL: '/whats-on/add/',
+            notificationWrapperClass: 'nav.sitenav .alertWrapper',
+            newsFlashURL: '/newsflash/newsflash/',
+            plCode: 'RWY',
+            title: document.title,
+
+            //dfp ads
+            dfpAds: true,
+
+            // Subscription sites
+            enabled_subscription_sites: ['thechronicle', 'news-mail', 'gladstoneobserver', 'sunshinecoastdaily','themorningbulletin', 'warwickdailynews', 'dailyexaminer', 'dailymercury', 'frasercoastchronicle', 'gladstoneobserver', 'gympietimes', 'northernstar', 'qt'],
+
+            // Classifieds
+            shortlistUrl: '/classifieds/shortlist/',
+            gaFindaCode: 'UA-42684117-1',
+            gaSiteCode: 'UA-2800415-24',
+            currentTimeURL: '/json/datetime/',
+            timeZoneOffset: +10,
+            restrictionsEnabled: false,
+            restrictions: {}
+        },
+
+        options = {};
+
+    rnn != null && rnn.init(siteConfig, options);
+
+})(window.rnn);
+</script> <script id="dfp_advertising">
+    
+
+// DFP Advertising
+
+
+
+
+    var dfpAdSpaces = {
+    "adSpaces": {
+        "mrec": [
+            {
+                "divID": "adSpace1",
+                "pos": "1",
+                "sizes": [["300, 600"], ["300, 250"], ["600, 350"]]
+            },
+            {
+                "divID": "adSpace5",
+                "pos": "2",
+                "sizes": [["300, 600"], ["300, 250"], ["600, 350"]]
+            },
+            {
+                "divID": "adSpace8",
+                "pos": "3",
+                "sizes": [["300, 600"], ["300, 250"], ["600, 350"]]
+            }
+        ],
+        "portrait": [
+            {
+                "divID": "portraitAd0",
+                "pos": "1",
+                "sizes": [["300, 758"], ["300, 1050"]]
+            }
+        ],
+        "lrbd": [
+            {
+                "divID": "adSpace0",
+                "pos": "1",
+                "sizes": [["728, 90"], ["980, 415"], ["980, 145"], ["980, 90"]]
+            },
+            {
+                "divID": "adSpace6",
+                "pos": "2",
+                "sizes": ["728, 90"]
+            }
+        ],
+        "storyline": [
+            {
+                "divID": "storyLineAd0",
+                "pos": "1",
+                "sizes": ["980, 130"]
+            }
+        ],
+        "skin": [
+            {
+                "divID": "adSpace2",
+                "pos": "1",
+                "sizes": ["1, 1"],
+                "outOfPage":"true"
+            }
+        ],
+        "billboard": [
+            {
+                "divID": "billboardAd0",
+                "pos": "1",
+                "sizes": ["970, 250"]
+            }
+        ],
+        "ticker": [
+            {
+                "divID": "tickerAd0",
+                "pos": "1",
+                "sizes": ["620, 40"]
+            }
+        ],
+        "banner": [
+            {
+                "divID": "",
+                "pos": "1",
+                "sizes": ["468, 60"]
+            }
+        ],
+        "strip": [
+            {
+                "divID": "adSpace7",
+                "pos": "1",
+                "sizes": ["620, 40"]
+            }
+        ],
+        "carousel": [
+            {
+                "divID": "carouselAd0",
+                "pos": "1",
+                "sizes": ["276, 130"],
+                "rotate": "true"
+            }
+        ],
+        "carousel_seasonal": [
+            {
+                "divID": "carouselSeasonalAd0",
+                "pos": "1",
+                "sizes": ["300, 200"]
+            }
+        ],
+        "coupon": [
+            {
+                "divID": "couponAd0",
+                "pos": "1",
+                "sizes": ["278, 98"]
+            },
+            {
+                "divID": "couponAd1",
+                "pos": "2",
+                "sizes": ["278, 98"]
+            },
+            {
+                "divID": "couponAd2",
+                "pos": "3",
+                "sizes": ["278, 98"]
+            },
+            {
+                "divID": "couponAd3",
+                "pos": "4",
+                "sizes": ["278, 98"]
+            },
+            {
+                "divID": "couponAd4",
+                "pos": "5",
+                "sizes": ["278, 98"]
+            }
+        ],
+        "featured_tile": [
+            {
+                "divID": "featBusAd0",
+                "pos": "1",
+                "sizes": ["140, 168"]
+            },
+            {
+                "divID": "featBusAd1",
+                "pos": "2",
+                "sizes": ["140, 168"]
+            },
+            {
+                "divID": "featBusAd2",
+                "pos": "3",
+                "sizes": ["140, 168"]
+            },
+            {
+                "divID": "featBusAd3",
+                "pos": "4",
+                "sizes": ["140, 168"]
+            }
+        ],
+        "preroll": [
+            {
+                "divID": "",
+                "pos": "1",
+                "sizes": ["661, 372"]
+            }
+        ],
+        "Pixel": [
+            {
+                "divID": "",
+                "pos": "1",
+                "sizes": ["1, 1"]
+            }
+        ],
+        "native": [
+            {
+                "divID": "hpNativeAd0",
+                "pos": "1",
+                "sizes": ["460, 135"]
+            }
+        ]
+    }
+};
+    
+
+
+
+
+;(function (dfp_advertising) {
+    dfp_advertising.dfp_ad.define(dfpAdSpaces);
+})(window.rnn.modules.dfp_advertising);
+
+
+    </script> <script id="rnn_nielsen" type="text/javascript">
+//<![CDATA[
+    var _rsCI="apn-au";
+    var _rsCG="0";
+    var _rsIP=1;
+    var _rsDN="//secure-au.imrworldwide.com/";
+    
+        var _rsUT="1";
+    
+    
+
+
+var _rsC0="category,news";
+var _rsC1="subcategory,0";
+var _rsC2="subsubcategory,local";
+
+
+
+//]]> </script> <script type="text/javascript" src="https://media.apnarm.net.au/141.7/apncore/js/neilson.js"></script> <noscript> <div><img src="http://secure-au.imrworldwide.com/cgi-bin/m?ci=apn-au&amp;cg=0&amp;cc=1" alt=""/></div> </noscript> <!-- Google Code for Remarketing Tag --> <!--
+    Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--> <script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 945590851;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script> <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"> </script> <noscript> <div style="display:inline;"> <img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/945590851/?value=0&amp;guid=ON&amp;script=0"/> </div> </noscript> <script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "18171066" });
+    (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script> <noscript> <img src="http://b.scorecardresearch.com/p?c1=2&c2=18171066&cv=2.0&cj=1" /> </noscript> <script type='text/javascript'>
+    if(pageData.sector !== 'classifieds'){
+        var _sf_async_config={};
+        /** CONFIGURATION START **/
+        _sf_async_config.uid = 56549;
+        _sf_async_config.domain = "ruralweekly.com.au";
+        _sf_async_config.type = pageData.pageType;
+        _sf_async_config.sections = pageData.categories;
+        _sf_async_config.authors = pageData.authors;
+        _sf_async_config.title = pageData.title;
+
+        if(pageData.site_mode === "mobile"){
+            _sf_async_config.path = "http://" + rnn.site.domain + "/news/reeling-in-cash/2924278/";
+        }else{
+            _sf_async_config.path = "/news/reeling-in-cash/2924278/";
+        }
+
+        /** CONFIGURATION END **/
+        (function(){
+          function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+          }
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+             loadChartbeat : function() { oldonload(); loadChartbeat(); };
+        })();
+    }
+</script> <script>
+$(document).ready(function() {
+    // hides ad titles that are displaying as 'None'
+    $('.result-content-container .ad-text-title').filter(function() {
+        return $(this).text() == 'None';}
+    ).hide();
+});
+
+
+$(document).ready(function() {
+    function initVideo() {
+        if (window.location.pathname.substring(0, 7) == "/videos" && !rnn.site.isDebug) {
+            $("div[data-position='1']").remove();
+        }
+    }
+    initVideo();
+});
+
+
+$(document).ready(function(){
+        $('div.search-result.listing span[itemprop="streetAddress"]:contains(XXXXXXXXXXXXXXX)').parent().parent().hide();
+});
+
+
+$(document).ready(function(){
+  $('article.newsEntry span[style*=12px]').removeAttr('style');
+});
+
+
+$(document).ready(function(){
+  $(".goToContactForm span").html("Enquire about this ad");
+});
+</script> <!-- SERVER:ip-172-30-1-83 ID:67--> </body> </html>

@@ -1,0 +1,26 @@
+\contentsline {section}{\numberline {1}Question 1: }{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Approach}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Code Listing}{3}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}makelist.py}{3}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}numpredict.py}{3}{subsubsection.1.2.2}
+\contentsline {subsection}{\numberline {1.3}Output}{5}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}F-Measure blog output}{5}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.2}Web science blog output}{6}{subsubsection.1.3.2}
+\contentsline {section}{\numberline {2}Question 2: }{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}Approach}{7}{subsection.2.1}
+\contentsline {section}{\numberline {3}Question 3: }{8}{section.3}
+\contentsline {subsection}{\numberline {3.1}Approach}{9}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Code Listing}{9}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}memcount.py}{9}{subsubsection.3.2.1}
+\contentsline {subsection}{\numberline {3.3}Generating graph}{10}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Rcommands.R}{10}{subsubsection.3.3.1}
+\contentsline {subsection}{\numberline {3.4}Output Files}{10}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}Output graph}{10}{subsubsection.3.4.1}
+\contentsline {section}{\numberline {4}Question 4: }{11}{section.4}
+\contentsline {subsection}{\numberline {4.1}Approach}{11}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Code Listing}{11}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}For extracting raw and processed URIs (extract.py)}{11}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}To find the size of the size of either raw or processed files(size.py)}{12}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}To find the number of URIs exiting with status 200 (statuscode.py)}{12}{subsubsection.4.2.3}
+\contentsline {subsubsection}{\numberline {4.2.4}Generating graph}{13}{subsubsection.4.2.4}
+\contentsline {subsection}{\numberline {4.3}Output}{13}{subsection.4.3}

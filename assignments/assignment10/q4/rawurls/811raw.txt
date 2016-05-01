@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja" dir="ltr">
+<head profile="http://purl.org/net/ns/metaprof">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="robots" content="noarchive" />
+<meta name="author" content="Fuji News Network." />
+<meta name="copyright" content="(c) FNN All Rights Reserved." />
+<script Language="JavaScript">
+<!--
+function goTop(){
+window.parent.location="http://www.fnn-news.com/";
+}
+// -->
+</script>
+</head>
+<body bgcolor="#ffffff" onLoad="javascript:setTimeout('goTop()',3000);">
+<br><br><br><br><br>
+<center>ご指定のページは存在しないか、現在ご覧になれません。<br><br>
+<a href="/index.html" target="_top">トップページへご案内します。</a></center>
+</body>
+</html>

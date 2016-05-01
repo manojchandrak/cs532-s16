@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="description" content="SGplayer (http://www.streamguys.com)" />
+    <meta property="og:title" content="SGPlayer" />
+<meta property="og:url" content="http://player.streamguys.com/apnews/sgplayer/index.php" />
+<meta property="og:image" content="http://player.streamguys.com/apnews/sgplayer/include/assets/img/fallback.jpg" />
+<meta property="og:description" content="I listened to this on the AP News Radio Player!" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>AP Radio News</title>
+    <link rel="icon" type="image/png" href="include/assets/img/favicon.png" />
+    <link rel="stylesheet" href="include/css/normalize.css?v=2.3.0" />
+    <link rel="stylesheet" href="include/css/video-js.min.css?v=2.3.0" />
+    <link rel="stylesheet" href="include/css/black-tie/jquery-ui-1.10.4.custom.min.css?v=2.3.0" />
+    <link rel="stylesheet" href="include/css/sgplayer.css?v=2.3.0" />
+    <script type="text/javascript" src="//cdn.adswizz.com/adswizz/js/SynchroClient2.js"></script>
+<script type="text/javascript" src="//synchrobox.adswizz.com/register2.php"></script>
+<script type="text/javascript" src="include/js/sgplayer.min.js?v=2.3.0"></script>
+    <script type="text/javascript">
+        window._sgplayer = new SGPlayer({
+            activeStreamIndex: 0,
+            playerIsMobile: false,
+            nowPlayingPath: "include/php/nowPlaying.php",
+            metadataProxyPath: "include/php/metadata.php",
+            rssProxyPath: "include/php/rss.php",
+            amazonSearchPath: "include/php/getCover.php",
+            swfFallbackPath: "include/SGPlayerFallback.swf",
+            vjsSwfPath: "include/video-js.swf",
+            cPath: null,
+            config: "config.json"
+        });
+    </script>
+</head>
+
+<body class="sg-gray">
+<div id="playerWrapper" class="absolute-center layout-banner-ad">
+    <div id="player">
+        <div id="controlDisplayArea">
+            <div id="loader" class="ui-loader"></div>
+            <div id="videoContainingBlock">
+                <div class="videoWrapper">
+                    <div id="videoArea"></div>
+                </div>
+            </div>
+            <img id="art" src="include/assets/img/fallback.jpg" />
+            <div id="playerControls">
+                <div id="playPauseButton" class="player-button ui-state-default ui-corner-bottom-left"><span class="ui-icon ui-icon-play"></span></div>
+                <div id="time">00:00:00</div>
+                <div id="vol">
+                    <div id="minVol" class="player-button ui-state-default"><span class="ui-icon ui-icon-volume-off"></span></div>
+                    <div id="volumeSlider"></div>
+                    <div id="maxVol" class="player-button ui-state-default"><span class="ui-icon ui-icon-volume-on"></span></div>
+                </div>
+            </div>
+        </div>
+        <div id="playerInfoArea">
+            <noscript>
+                <div id="js-disabled-message">
+                    <h3>JavaScript Disabled</h3>
+                    <p>JavaScript must be enabled and unblocked for this page to function properly. If you are seeing this message, please enable JavaScript and refresh the page.</p>
+                </div>
+            </noscript>
+            <!-- iframe class="news-wigit" scrolling="no" name="rssmikle_frame" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" src="http://feed.mikle.com/widget/?rssmikle_url=http%3A%2F%2Fhosted2.ap.org%2Fatom%2FAPDEFAULT%2Faa9398e6757a46fa93ed5dea7bd3729e&rssmikle_frame_width=300&rssmikle_frame_height=250&frame_height_by_article=0&rssmikle_target=_blank&rssmikle_font=Arial%2C%20Helvetica%2C%20sans-serif&rssmikle_font_size=12&rssmikle_border=off&responsive=off&text_align=left&text_align2=left&corner=off&scrollbar=on&autoscroll=on&scrolldirection=up&scrollstep=3&mcspeed=20&sort=Off&rssmikle_title=on&rssmikle_title_sentence=Offbeat%20Headlines%20from%20Associated%20Press&rssmikle_title_bgcolor=%23FF0000&rssmikle_title_color=%23FFFFFF&rssmikle_item_bgcolor=%23FFFFFF&rssmikle_item_title_length=100&rssmikle_item_title_color=%2300060F&rssmikle_item_border_bottom=on&rssmikle_item_description=title_only&item_link=off&rssmikle_item_description_length=150&rssmikle_item_description_color=%23666666&rssmikle_item_date=gl1&rssmikle_timezone=Etc%2FGMT&datetime_format=%25b%20%25e%2C%20%25Y%20%25l%3A%25M%20%25p&item_description_style=text&item_thumbnail=full&item_thumbnail_selection=auto&article_num=15&rssmikle_item_podcast=off&"></iframe> -->
+            <div id="nowPlaying">
+                <div id="songInfo"></div>
+                <div id="streamSelector"></div>
+                <div id="infoButton"></div>
+                <div id="amazonButton"></div>
+                <div id="socialButtons"></div>
+            </div>
+            <div id="prevPlayed">
+                <div class="title">Previously Played:</div>
+                <div id="recent"></div>
+            </div>
+        </div>
+        <div id="bannerAd"></div>
+    </div>
+</div>
+<script type="text/javascript">
+(function(w, d) { var a = function() { var a = d.createElement('script'); a.type = 'text/javascript';
+    a.async = 'async'; a.src = '//' + ((w.location.protocol === 'https:') ? 's3.amazonaws.com/cdx-radar/' :
+    'radar.cedexis.com/') + '01-11255-radar10.min.js'; d.body.appendChild(a); };
+    if (w.addEventListener) { w.addEventListener('load', a, false); }
+    else if (w.attachEvent) { w.attachEvent('onload', a); }
+}(window, document));
+</script>
+</body>
+</html>

@@ -1,0 +1,528 @@
+	<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bicycle Queensland</title>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
+    <link href="http://bq.org.au/wp-content/themes/bq/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://bq.org.au/wp-content/themes/bq/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://bq.org.au/wp-content/themes/bq/style.css?1461826389" type="text/css" media="screen" />
+    <link rel="shortcut icon" href="http://bq.org.au/wp-content/themes/bq/favicon.ico" />
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!--[if (gte IE 6)&(lte IE 8)]>
+      <script type="text/javascript" src="http://bq.org.au/wp-content/themes/bq/js/selectivizr.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+    
+<!-- This site is optimized with the Yoast SEO plugin v3.2.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://bq.org.au/news/2016/02/bicycle-queensland-calling-for-urgent-action-on-cycling-safety-with-release/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Bicycle Queensland calling for urgent action on cycling safety with release of new bikeway plans | Bicycle Queensland" />
+<meta property="og:description" content="Bicycle Queensland is calling on all parties contesting the upcoming council elections to commit to saving lives by funding the construction of a major separated bikeway along one of Brisbane&rsquo;s busiest and most dangerous roads. Plans were today unveiled for the Stanley Street bikeway that would stretch 1.2 kilometres from the Gabba to the Goodwill..." />
+<meta property="og:url" content="http://bq.org.au/news/2016/02/bicycle-queensland-calling-for-urgent-action-on-cycling-safety-with-release/" />
+<meta property="og:site_name" content="Bicycle Queensland" />
+<meta property="article:section" content="Uncategorized" />
+<meta property="article:published_time" content="2016-02-10T11:32:19+00:00" />
+<meta property="og:image" content="http://bq.org.au/images/uploads/images/news/poster-for-web.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Bicycle Queensland is calling on all parties contesting the upcoming council elections to commit to saving lives by funding the construction of a major separated bikeway along one of Brisbane&rsquo;s busiest and most dangerous roads. Plans were today unveiled for the Stanley Street bikeway that would stretch 1.2 kilometres from the Gabba to the Goodwill..." />
+<meta name="twitter:title" content="Bicycle Queensland calling for urgent action on cycling safety with release of new bikeway plans | Bicycle Queensland" />
+<meta name="twitter:image" content="/images/uploads/images/news/poster-for-web.jpg" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Bicycle Queensland &raquo; Bicycle Queensland calling for urgent action on cycling safety with release of new bikeway plans Comments Feed" href="http://bq.org.au/news/2016/02/bicycle-queensland-calling-for-urgent-action-on-cycling-safety-with-release/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/bq.org.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=9108b41d3568db39614b658482f084d0"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js?ver=9108b41d3568db39614b658482f084d0'></script>
+<link rel='https://api.w.org/' href='http://bq.org.au/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://bq.org.au/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://bq.org.au/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='http://bq.org.au/?p=830' />
+<link rel="alternate" type="application/json+oembed" href="http://bq.org.au/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbq.org.au%2Fnews%2F2016%2F02%2Fbicycle-queensland-calling-for-urgent-action-on-cycling-safety-with-release%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://bq.org.au/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbq.org.au%2Fnews%2F2016%2F02%2Fbicycle-queensland-calling-for-urgent-action-on-cycling-safety-with-release%2F&#038;format=xml" />
+  </head>
+  <body>
+  <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-18590254-1', 'auto');
+      ga('send', 'pageview');
+  </script>
+    <div class="container">
+        <!-- Top Header -->
+        <div class="row no-gutter hidden-xs hidden-sm" id="header">
+            <div class="col-sm-4">
+              <div id="logo"><a href="http://bq.org.au"><img src="http://bq.org.au/wp-content/themes/bq/images/logo-web-grn.png" alt="Bicycle Queensland" class="img-responsive"></a></div>
+            </div>
+            <div class="col-sm-5">
+              <div class="pull-right socialMedia">
+                    <div id="ph"> 07 3844 1144 </div>
+                    <a href="https://www.strava.com/clubs/bicycle-queensland-110674"><img src="http://bq.org.au/wp-content/themes/bq/images/icon-social-strava.png" alt="Strava"></a>
+                    <a href="https://www.youtube.com/user/BicycleQueensland"><img src="http://bq.org.au/wp-content/themes/bq/images/icon-social-youtube.png" alt="Youtube"></a>
+                    <a href="https://twitter.com/bicycleqld"><img src="http://bq.org.au/wp-content/themes/bq/images/icon-social-twitter.png" alt="Twitter"></a>
+                    <a href="https://instagram.com/bicycle_qld"><img src="http://bq.org.au/wp-content/themes/bq/images/icon-social-insta.png" alt="insta"></a>
+                    <a href="https://www.facebook.com/bicycle.qld"><img src="http://bq.org.au/wp-content/themes/bq/images/icon-social-fb.png" alt="Facebook"></a>
+                </div>
+            </div>
+            <div class="col-sm-3 right">
+                <div id="search" class="form-group has-feedback">
+                  <form method="get" id="searchform" action="http://bq.org.au/">
+                    <input type="text" class="form-control" name="s" id="s" value="Search" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"/>
+                    <span class="fa fa-search form-control-feedback"></span>
+                    </form>
+                </div>
+            </div>
+        </div> <!-- End Header-->
+
+
+        
+        <!-- Menu -->
+        <div class="row" id="mainMenu">
+          <div class="col-sm-12">
+            <nav class="navbar navbar-default" role="navigation">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                  <button type="button" class="navbar-toggle toggle-menu menu-left push-body" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                  </button>
+                  <a id="logoMobile" href="#"><img src="http://bq.org.au/wp-content/themes/bq/images/logo-web-wht.png" alt="Bicycle Queensland" class="img-responsive"></a>
+                  <div class="navIcons visible-xs visible-sm">
+                    <a href="#" class="toggleSearch"><span class="fa fa-search"></span></a>
+                    <a href="tel:+61 7 3844 1144"><span class="fa fa-phone"></span></a>
+                  </div>
+                </div>
+                <!-- Collect the nav links, for toggling -->
+                <!-- Push Menu Left -->
+                <div class="collapse navbar-collapse cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" id="bs-example-navbar-collapse-1">
+                  <h2 class="visible-sm visible-xs">Menu</h2>
+                  <div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav navbar-nav"><li id="menu-item-107" class="m1 ppr-rewrite menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a href="http://bq.org.au/about/what-is-bicycle-queensland">About BQ</a></li>
+<li id="menu-item-69" class="m2 ppr-rewrite menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="http://bq.org.au/join-us/member-benefits">Join Us</a></li>
+<li id="menu-item-113" class="m3 ppr-rewrite menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="http://bq.org.au/events-calendar">Events</a></li>
+<li id="menu-item-114" class="m4 menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="http://bq.org.au/programs/">Programs</a></li>
+<li id="menu-item-438" class="m5 menu-item menu-item-type-post_type menu-item-object-page menu-item-438"><a href="http://bq.org.au/resources/">Resources</a></li>
+<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="http://bq.org.au/join-us/volunteer/">Volunteer</a></li>
+<li id="menu-item-842" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-842"><a href="http://bq.org.au/news/">News</a></li>
+<li id="menu-item-117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117"><a href="https://www.eventsinteractive.com/bqld/memberportal/memberhome.bqm"><span class="fa fa-user"></span> Members</a></li>
+</ul></div>                </div>
+            </nav>
+          </div>
+        </div> <!-- End mainMenu-->
+        
+        <!-- Dropdown - shown on 992px and above -->
+        <div class="row hidden-xs hidden-sm" id="dropDown">
+          <div class="col-sm-12">
+            <div class="menuDrop m1">
+              <div class="row no-gutter">
+                <div class="col-md-4">
+                  <div class="menu-about-bq-container"><ul id="menu-about-bq" class="menu"><li id="menu-item-121" class="title menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="http://bq.org.au/about/what-is-bicycle-queensland/">Bicycle Queensland<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="http://bq.org.au/about/what-is-bicycle-queensland/our-history/">Our History<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-843" class="menu-item menu-item-type-taxonomy menu-item-object-campaign-status menu-item-843"><a href="http://bq.org.au/campaigns/current/">Current Campaigns<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-844" class="menu-item menu-item-type-taxonomy menu-item-object-campaign-status menu-item-844"><a href="http://bq.org.au/campaigns/past/">Past Campaigns<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-377"><a href="http://bq.org.au/about/what-is-bicycle-queensland/staff/">Staff<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-378"><a href="http://bq.org.au/about/what-is-bicycle-queensland/available-positions/">Available Positions<span class="icon fa fa-chevron-right"></span></a></li>
+</ul></div>                </div>
+                <div class="col-md-4">
+                  <div class="menu-governance-container"><ul id="menu-governance" class="menu"><li id="menu-item-125" class="title ppr-rewrite menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="http://bq.org.au/about/governance/management-committee">Governance<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="http://bq.org.au/about/governance/management-committee/">Management Committee<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="http://bq.org.au/about/governance/agms-and-other-meetings/">AGMs &#038; other meetings<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="http://bq.org.au/about/governance/annual-reports/">Annual Reports<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="http://bq.org.au/about/governance/strategy-statement/">Strategy Statement<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="http://bq.org.au/about/governance/constitution-legalities/">Constitution &#038; Legalities<span class="icon fa fa-chevron-right"></span></a></li>
+</ul></div>                </div>
+                <div class="col-md-4">
+                  <div class="menu-contact-us-container"><ul id="menu-contact-us" class="menu"><li id="menu-item-134" class="title menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="http://bq.org.au/about/contact/">Contact Us<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137"><a href="http://bq.org.au/about/contact/media-enquiries/">Media Enquiries<span class="icon fa fa-chevron-right"></span></a></li>
+</ul></div>                  <ul class="address">
+                    <li>20 Horan Street,<br/>West End QLD 4101</li>
+                    <li></li>
+                    <li>Ph: 07 3844 1144<br/>9am - 4.30pm Monday to Friday</li>
+                  </ul>
+                </div>
+                <div class="clearfix"></div>
+              </div>
+            </div>
+            
+            <div class="menuDrop m2">
+              <div class="row no-gutter">
+                <div class="col-md-4">
+                  <div class="menu-join-us-container"><ul id="menu-join-us" class="menu"><li id="menu-item-139" class="title ppr-rewrite menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="http://bq.org.au/join-us/member-benefits">Join Us<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140"><a href="http://bq.org.au/join-us/member-benefits/">Membership benefits<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141"><a href="http://bq.org.au/join-us/member-insurance/">Member insurance<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="http://bq.org.au/join-us/member-legal-assistance/">Member legal assistance<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="http://bq.org.au/join-us/become-a-member/">Become a member<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="http://bq.org.au/join-us/volunteer/">Volunteer<span class="icon fa fa-chevron-right"></span></a></li>
+</ul></div>                </div>
+                <div class="col-md-4">
+                                  </div>
+                <div class="col-md-4">
+                                  </div>
+              </div>
+            </div><!-- End m2 -->
+            
+            <div class="menuDrop m3">
+              <div class="row no-gutter">
+                <div class="col-sm-1">
+                </div>
+                <div class="col-sm-2">
+                  <ul>
+                    <li><a class="menuLogo" href="http://www.bikeweekqld.com.au"><img src="http://bq.org.au/wp-content/themes/bq/images/logo-bikeweek16.png" alt="Bike Week" class="img-responsive"></a></li>
+                  </ul>
+                </div>
+                <div class="col-sm-2">
+                  <ul>
+                    <li><a class="menuLogo" href="http://www.gbbr.com.au"><img src="http://bq.org.au/wp-content/themes/bq/images/logo-gbbr16.png" alt="Great Brisbane Bike Ride" class="img-responsive"></a></li>
+                  </ul>
+                </div>
+                <div class="col-sm-2">
+                  <ul>
+                     <li><a class="menuLogo" href="http://www.peakschallenge.com.au"><img src="http://bq.org.au/wp-content/themes/bq/images/logo-peakschallenge.png" alt="Peaks Challenge Gold Coast" class="img-responsive"></a></li> 
+                  </ul>
+                </div>
+                <div class="col-sm-2">
+                  <ul>
+                     <li><a class="menuLogo" href="http://www.cycleqld.com.au"><img src="http://bq.org.au/wp-content/themes/bq/images/logo-cq16.png" alt="Cycle Queensland Adventure Tour" class="img-responsive"></a></li> 
+                  </ul>
+                </div>
+                <div class="col-sm-2">
+                  <ul>
+                     <li><a class="menuLogo" href="http://www.b2gc.com.au"><img src="http://bq.org.au/wp-content/themes/bq/images/logo-b2gc16.png" alt="Brisbane to Gold Coast Cycle Challenge" class="img-responsive"></a></li> 
+                  </ul>
+                </div>
+                <div class="col-sm-1">
+                </div>
+                <div class="col-xs-12">
+                 <ul>
+                    <li ><a href="http://bq.org.au/events-calendar" class="eCalendar"><i class="fa fa-calendar"></i> &nbsp;&nbsp;Or view the events calendar for other great events around Queensland</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div><!-- End m3 -->
+            
+            <div class="menuDrop m4">
+              <div class="row no-gutter">
+                <div class="col-md-4">
+                 <div class="menu-ride-2-work-container"><ul id="menu-ride-2-work" class="menu"><li id="menu-item-365" class="title menu-item menu-item-type-post_type menu-item-object-page menu-item-365"><a href="http://bq.org.au/programs/ride-2-work/">Ride 2 Work<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-370"><a href="http://bq.org.au/programs/ride-2-work/national-ride2work-day/">National Ride2Work Day<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-369"><a href="http://bq.org.au/programs/ride-2-work/resources-for-commuter-cyclists/">Resources for commuter cyclists<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-366"><a href="http://bq.org.au/programs/ride-2-work/tips-for-riding-to-work/">Tips for riding to work<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-367"><a href="http://bq.org.au/programs/ride-2-work/workplace-visits-team-talks/">Workplace visits &#038; team talks<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-368"><a href="http://bq.org.au/programs/ride-2-work/bike-buddies/">Bike buddies<span class="icon fa fa-chevron-right"></span></a></li>
+</ul></div>                </div>
+                <div class="col-md-4">
+                 <div class="menu-ride-2-school-container"><ul id="menu-ride-2-school" class="menu"><li id="menu-item-371" class="title menu-item menu-item-type-post_type menu-item-object-page menu-item-371"><a href="http://bq.org.au/programs/ride-2-school/">Ride 2 School<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-374" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-374"><a href="http://bq.org.au/programs/ride-2-school/national-ride2school-day/">National Ride2School Day<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-376"><a href="http://bq.org.au/programs/ride-2-school/why-ride-to-school/">Why ride to school?<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-375"><a href="http://bq.org.au/programs/ride-2-school/handsup/">HandsUp!<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-373"><a href="http://bq.org.au/programs/ride-2-school/programs-resources-for-parents-teachers/">Resources for parents &#038; teachers<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-372"><a href="http://bq.org.au/programs/ride-2-school/give-your-children-a-great-start-to-life/">A great start to life<span class="icon fa fa-chevron-right"></span></a></li>
+</ul></div>                </div>
+                <div class="col-md-4">
+                 <div class="menu-other-programs-container"><ul id="menu-other-programs" class="menu"><li id="menu-item-428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-428"><a href="http://bq.org.au/programs/bicygals/">BicyGals<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-431"><a href="http://bq.org.au/programs/maintenance-workshops/">Maintenance workshops<span class="icon fa fa-chevron-right"></span></a></li>
+</ul></div>                </div>
+              </div>
+            </div><!-- End m4 -->
+        
+        <div class="menuDrop m5">
+              <div class="row no-gutter">
+                <div class="col-md-4">
+                 <div class="menu-where-to-ride-container"><ul id="menu-where-to-ride" class="menu"><li id="menu-item-448" class="title ppr-rewrite menu-item menu-item-type-post_type menu-item-object-page menu-item-448"><a href="http://bq.org.au/resources/where-to-ride/ride-listings">Where to Ride<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-451"><a href="http://bq.org.au/resources/where-to-ride/ride-listings/">Ride listings<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-450"><a href="http://bq.org.au/resources/where-to-ride/resources-for-recreational-cyclists/">Resources for recreational cyclists<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="http://bq.org.au/resources/where-to-ride/hazards-detours/">Hazards &#038; detours<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-904"><a href="http://bq.org.au/resources/where-to-ride/bugs/">Bicycle User Groups<span class="icon fa fa-chevron-right"></span></a></li>
+</ul></div>                </div>
+                <div class="col-md-4">
+                 <div class="menu-buying-a-bike-container"><ul id="menu-buying-a-bike" class="menu"><li id="menu-item-474" class="title ppr-rewrite menu-item menu-item-type-post_type menu-item-object-page menu-item-474"><a href="http://bq.org.au/resources/buying-a-bike/how-to-buy-the-right-bike">Buying a Bike<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-475"><a href="http://bq.org.au/resources/buying-a-bike/find-a-bike-shop/">Find a bike shop<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-476"><a href="http://bq.org.au/resources/buying-a-bike/how-to-buy-the-right-bike/">3 steps to buying the right bike<span class="icon fa fa-chevron-right"></span></a></li>
+</ul></div>                </div>
+                <div class="col-md-4">
+                 <div class="menu-tips-guides-container"><ul id="menu-tips-guides" class="menu"><li id="menu-item-477" class="title ppr-rewrite menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="http://bq.org.au/resources/tips-guides/qld-road-rules">Tips &#038; Guides<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-479"><a href="http://bq.org.au/resources/tips-guides/qld-road-rules/">QLD road rules<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-483"><a href="http://bq.org.au/resources/tips-guides/bike-security/">Bike security<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="http://bq.org.au/resources/tips-guides/safe-riding-in-groups/">Safe riding in groups<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-481"><a href="http://bq.org.au/resources/tips-guides/correct-bike-size/">Correct bike size<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-480"><a href="http://bq.org.au/resources/tips-guides/riding-position-setup/">Riding position setup<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-478"><a href="http://bq.org.au/resources/tips-guides/shopping-by-bike/">Shopping by bike<span class="icon fa fa-chevron-right"></span></a></li>
+<li id="menu-item-952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-952"><a href="http://bq.org.au/resources/tips-guides/tips-advice-on-lights/">Tips and advice on lights<span class="icon fa fa-chevron-right"></span></a></li>
+</ul></div>                </div>
+              </div>
+            </div><!-- End m4 -->
+            
+          </div>
+        </div><!-- End dropDown -->
+        
+        <!-- Mobile search - shows on 991px and less -->
+        <div id="searchMobile" class="row no-gutter hidden-md hidden-lg">
+          <form class="form-inline">
+            <div class="form-group">
+              <form method="get" id="searchform" action="http://bq.org.au/">
+                <input type="text" class="form-control" name="s" id="s" value="Search" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"/>
+                <button type="submit" class="btn btn-default" name="submit"><span class='fa fa-search'></span></button>
+          </form>
+            </div>
+          </form>
+        </div>
+        
+                
+      </div> <!-- End container -->
+
+		<!-- Header image / Breadcrumbs-->
+		<div id="title" class="hidden-xs hidden-sm">
+          <div class="container">
+            <div class="row">
+              <div class="col-xs-12">
+                <div id="breadcrumbs">
+                  <span class="fa fa-home"></span> <a href="http://bq.org.au" title="Bicycle Queensland Home">Bicycle Queensland Home</a><span class="icon fa fa-chevron-right"></span>				<a href="http://bq.org.au/news/" title="News">News</a>
+				<span class="icon fa fa-chevron-right"></span>				<a href="http://bq.org.au/news//2016/" title="2016">2016</a>
+				<span class="icon fa fa-chevron-right"></span>				<a href="http://bq.org.au/news//2016/02/" title="February">February</a>
+				<span class="icon fa fa-chevron-right"></span><strong title="Bicycle Queensland calling for urgent action on cycling safety with release of new bikeway plans">Bicycle Queensland calling for…</strong>                  <div class="share">
+                    <span>Share </span>
+                    <a href="https://www.facebook.com/sharer/sharer.php?u=http://bq.org.au/news/2016/02/bicycle-queensland-calling-for-urgent-action-on-cycling-safety-with-release/"><span class="fa fa-facebook"></span></a><a href="https://twitter.com/home?status=http://bq.org.au/news/2016/02/bicycle-queensland-calling-for-urgent-action-on-cycling-safety-with-release/"><span class="fa fa-twitter"></span></a><a href="https://www.linkedin.com/shareArticle?mini=true&url=http://bq.org.au/news/2016/02/bicycle-queensland-calling-for-urgent-action-on-cycling-safety-with-release/&title=Bicycle Queensland calling for urgent action on cycling safety with release of new bikeway plans"><span class="fa fa-linkedin"></span></a><a href="#"><span class="fa fa-share-alt"></span></a>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+		</div>
+        
+        <div class="container">
+              
+              
+        <!-- Content -->
+        <div class="row no-gutter" id="content">
+          <div class="col-md-9">
+            <div class="content">
+
+			  		
+	<h1 class="entry-title">Bicycle Queensland calling for urgent action on cycling safety with release of new bikeway plans</h1>			<p class="meta"><span class="fa fa-clock-o"></span> February 10th, 2016</p>
+              
+			<p><img src="/images/uploads/images/news/poster-for-web.jpg" alt="Stanley St Bikeway" width="700" height="500" class="no-float no-shadow" /></p>
+<p><span style="line-height: 1.5">Bicycle Queensland is calling on all parties contesting the upcoming council elections to commit to saving lives by funding the construction of a major separated bikeway along one of Brisbane&rsquo;s busiest and most dangerous roads.</span></p>
+<p><span style="line-height: 1.5">Plans were today unveiled for the Stanley Street bikeway that would stretch 1.2 kilometres from the Gabba to the Goodwill Bridge at South Bank.</span></p>
+<p><span style="line-height: 1.5">The proposed bikeway would create a critical infrastructure link that would allow thousands of people to cycle safely in a part of inner-Brisbane that is used by 45,000 vehicles per day.</span></p>
+<p><span style="line-height: 1.5">Commencing at the corner of Ipswich Road and Stanley St, the two-way route would provide bike riders with separation from vehicles all the way along the busy traffic corridor, linking with South Bank, the Kangaroo Point Bikeway and the Goodwill Bridge to the CBD.</span></p>
+<p><span style="line-height: 1.5">The plan also includes expanded pedestrian zones, newly paved areas, sculpture opportunities, a public plaza, and trees and shelters for shade to enhance Brisbane&rsquo;s reputation as a new world city.</span></p>
+<p><span style="line-height: 1.5">Bicycle Queensland CEO Ben Wilson urged Brisbane&rsquo;s Lord Mayoral candidates to throw their support behind the proposal and commit to the construction of the bikeway in their election promises.</span></p>
+<p><span style="line-height: 1.5">&ldquo;This commitment is relatively low in cost and in traffic implications, and is a golden opportunity to make a part of Brisbane rideable for the thousands of people in the rapidly growing Woolloongabba area and inner-eastern suburbs,&rdquo; said Mr Wilson.</span></p>
+<p><span style="line-height: 1.5">&ldquo;Separated bikeways make riding so much safer and have a proven record of getting people taking up cycling for transport, which relieves congestion.&rdquo;</span></p>
+<p><span style="line-height: 1.5">&ldquo;This bikeway&rsquo;s value-for-money is sensational and critically important to the city.&rdquo;</span></p>
+<p><span style="line-height: 1.5">&ldquo;The project will lift this busy Stanley Street corridor from an ugly, hostile and dangerous road into a pleasant place to live, dine, commute by bike and walk along by creating a new buffer- boulevard.&rdquo;</span></p>
+<p><span style="line-height: 1.5">The plan will also address some of the key recommendations made by the coroner in December following an inquest into the death of bike rider Rebekka Meyer at the Stanley Street/Annerley Road intersection in 2014.</span></p>
+<p><span style="line-height: 1.5">Coroner Christine Clements recommended that more dedicated, exclusive bikeways be planned and developed across Brisbane to prevent a similar tragedy occurring, particularly at this location.</span></p>
+<p><span style="line-height: 1.5">Mr Wilson said that not only will this bikeway address that recommendation, it will also incorporate the recommendation to widen the pedestrian crossing across Stanley Street, giving riders a safe, alternative route into Annerley Road</span></p>
+<p><span style="line-height: 1.5">&ldquo;It&rsquo;s definitely a hotspot area with people riding from the city to the University of Queensland, a key bike route that accommodates up to 1,000 bicycle riders every day,&rdquo; said Mr Wilson.</span></p>
+<p><span style="line-height: 1.5">&ldquo;This plan improves the safety of bike riders at the intersection by providing segregation and a dedicated space with minimal disruption to general traffic or commerce.&rdquo;</span></p>
+<p><span style="line-height: 1.5">The project is the central plank of Bicycle Queensland&rsquo;s plan to make Brisbane a city where bike riding is a normal and safe activity for all.</span></p>
+<p><span style="line-height: 1.5">Other key requests ahead of the upcoming election include:</span></p>
+<ul>
+<li>An increase in council&rsquo;s future bikeway commitments from the current $30m p.a. to $40m p.a. (ie&nbsp; 25 cent raise per Brisbane resident per week to walking and cycling infrastructure)</li>
+<li>A CBD planning process to allow north-south and east-west segregated bikeways through the inner city by 2018</li>
+<li>Engage with innovative trials of new and world class designs to get more space for cycling on important roads</li>
+<li>Update the Brisbane Bicycle Network Plan and set a firm target of near-completion of the Brisbane network by 2024</li>
+</ul>
+<p>To view or download the full concept designs of the Stanley St &#8216;Gabba to Goodwill&#8217; Bikeway, <a href="https://www.dropbox.com/sh/j3dgwn06wj607s0/AAD0buYQtINvos1w_RmKsRNZa?dl=0" rel="external">click here.</a></p>
+<p>To read more about Bicycle Queensland&#8217;s election priorities, <a rel="external" href="http://www.bq.org.au/news/bicycle-queenslands-brisbane-city-council-election-priorities/">click here.</a></p>
+			
+			<div class="share">
+			  <span>Share </span>
+			  <a href="https://www.facebook.com/sharer/sharer.php?u=http://bq.org.au/news/2016/02/bicycle-queensland-calling-for-urgent-action-on-cycling-safety-with-release/"><span class="fa fa-facebook"></span></a><a href="https://twitter.com/home?status=http://bq.org.au/news/2016/02/bicycle-queensland-calling-for-urgent-action-on-cycling-safety-with-release/"><span class="fa fa-twitter"></span></a><a href="https://www.linkedin.com/shareArticle?mini=true&url=http://bq.org.au/news/2016/02/bicycle-queensland-calling-for-urgent-action-on-cycling-safety-with-release/&title=Bicycle Queensland calling for urgent action on cycling safety with release of new bikeway plans"><span class="fa fa-linkedin"></span></a><a href="#"><span class="fa fa-share-alt"></span></a>			</div>
+	  
+			</div>
+          </div>
+          <div class=" hidden-xs hidden-sm col-md-3">
+			<div class="menu menu-archives">
+			  <h2>Archives</h2>
+			  <ul><span class='title'>2016</span><li><a href='http://bq.org.au/news/2016/04'><span class='icon fa fa-chevron-right'></span>April</a></li><li><a href='http://bq.org.au/news/2016/03'><span class='icon fa fa-chevron-right'></span>March</a></li><li><a href='http://bq.org.au/news/2016/02'><span class='icon fa fa-chevron-right'></span>February</a></li><li><a href='http://bq.org.au/news/2016/01'><span class='icon fa fa-chevron-right'></span>January</a></li></ul><ul><span class='title'>2015</span><li><a href='http://bq.org.au/news/2015/12'><span class='icon fa fa-chevron-right'></span>December</a></li><li><a href='http://bq.org.au/news/2015/11'><span class='icon fa fa-chevron-right'></span>November</a></li><li><a href='http://bq.org.au/news/2015/10'><span class='icon fa fa-chevron-right'></span>October</a></li><li><a href='http://bq.org.au/news/2015/09'><span class='icon fa fa-chevron-right'></span>September</a></li><li><a href='http://bq.org.au/news/2015/08'><span class='icon fa fa-chevron-right'></span>August</a></li><li><a href='http://bq.org.au/news/2015/07'><span class='icon fa fa-chevron-right'></span>July</a></li><li><a href='http://bq.org.au/news/2015/06'><span class='icon fa fa-chevron-right'></span>June</a></li><li><a href='http://bq.org.au/news/2015/05'><span class='icon fa fa-chevron-right'></span>May</a></li><li><a href='http://bq.org.au/news/2015/04'><span class='icon fa fa-chevron-right'></span>April</a></li><li><a href='http://bq.org.au/news/2015/03'><span class='icon fa fa-chevron-right'></span>March</a></li><li><a href='http://bq.org.au/news/2015/02'><span class='icon fa fa-chevron-right'></span>February</a></li><li><a href='http://bq.org.au/news/2015/01'><span class='icon fa fa-chevron-right'></span>January</a></li></ul><ul><span class='title'>2014</span><li><a href='http://bq.org.au/news/2014/12'><span class='icon fa fa-chevron-right'></span>December</a></li><li><a href='http://bq.org.au/news/2014/11'><span class='icon fa fa-chevron-right'></span>November</a></li><li><a href='http://bq.org.au/news/2014/10'><span class='icon fa fa-chevron-right'></span>October</a></li><li><a href='http://bq.org.au/news/2014/09'><span class='icon fa fa-chevron-right'></span>September</a></li><li><a href='http://bq.org.au/news/2014/07'><span class='icon fa fa-chevron-right'></span>July</a></li><li><a href='http://bq.org.au/news/2014/06'><span class='icon fa fa-chevron-right'></span>June</a></li><li><a href='http://bq.org.au/news/2014/05'><span class='icon fa fa-chevron-right'></span>May</a></li><li><a href='http://bq.org.au/news/2014/04'><span class='icon fa fa-chevron-right'></span>April</a></li>			</div>
+		  </div>
+		</div>
+
+<!-- Events -->
+  <div id="events" class="row hidden-xs custom-grid">
+    	
+				<div class="col-sm-1-5th">
+				 <a href="http://www.gbbr.com.au">
+					<img width="660" height="378" src="http://bq.org.au/wp-content/uploads/2015/12/gbbr16-tile.jpg" class="img-responsive wp-post-image" alt="gbbr16-tile" srcset="http://bq.org.au/wp-content/uploads/2015/12/gbbr16-tile.jpg 660w, http://bq.org.au/wp-content/uploads/2015/12/gbbr16-tile-300x172.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" />				</a>
+			</div>
+			<div class="col-sm-1-5th">
+				 <a href="http://www.bikeweekqld.com.au">
+					<img width="660" height="378" src="http://bq.org.au/wp-content/uploads/2016/02/tile-bikeweek-2016.jpg" class="img-responsive wp-post-image" alt="tile-bikeweek-2016" srcset="http://bq.org.au/wp-content/uploads/2016/02/tile-bikeweek-2016.jpg 660w, http://bq.org.au/wp-content/uploads/2016/02/tile-bikeweek-2016-300x172.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" />				</a>
+			</div>
+			<div class="col-sm-1-5th">
+				 <a href="https://www.bicyclenetwork.com.au/peaks-challenge-gold-coast/">
+					<img width="660" height="378" src="http://bq.org.au/wp-content/uploads/2016/02/tile-peakschallenge16.png" class="img-responsive wp-post-image" alt="tile-peakschallenge16" srcset="http://bq.org.au/wp-content/uploads/2016/02/tile-peakschallenge16.png 660w, http://bq.org.au/wp-content/uploads/2016/02/tile-peakschallenge16-300x172.png 300w" sizes="(max-width: 660px) 100vw, 660px" />				</a>
+			</div>
+			<div class="col-sm-1-5th">
+				 <a href="http://www.cycleqld.com.au">
+					<img width="660" height="378" src="http://bq.org.au/wp-content/uploads/2016/02/tile-cq16.jpg" class="img-responsive wp-post-image" alt="tile-cq16" srcset="http://bq.org.au/wp-content/uploads/2016/02/tile-cq16.jpg 660w, http://bq.org.au/wp-content/uploads/2016/02/tile-cq16-300x172.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" />				</a>
+			</div>
+			<div class="col-sm-1-5th">
+				 <a href="http://www.b2gc.com.au">
+					<img width="660" height="378" src="http://bq.org.au/wp-content/uploads/2015/11/tile-b2gc16.jpg" class="img-responsive wp-post-image" alt="tile-b2gc16" srcset="http://bq.org.au/wp-content/uploads/2015/11/tile-b2gc16.jpg 660w, http://bq.org.au/wp-content/uploads/2015/11/tile-b2gc16-300x172.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" />				</a>
+			</div>
+  </div><!-- End Events -->
+
+</div><!-- End container -->
+<div class="container">
+      <div id="share" class="row no-gutter">
+          <div class="feedback col-xs-12 col-sm-6"><a href="#">Feedback</a></div>
+          <div class="social col-xs-12 col-sm-6">
+            Share:
+            <a href="https://www.facebook.com/sharer/sharer.php?u=http://bq.org.au/news/2016/02/bicycle-queensland-calling-for-urgent-action-on-cycling-safety-with-release/"><span class="fa fa-facebook"></span></a><a href="https://twitter.com/home?status=http://bq.org.au/news/2016/02/bicycle-queensland-calling-for-urgent-action-on-cycling-safety-with-release/"><span class="fa fa-twitter"></span></a><a href="https://www.linkedin.com/shareArticle?mini=true&url=http://bq.org.au/news/2016/02/bicycle-queensland-calling-for-urgent-action-on-cycling-safety-with-release/&title=Bicycle Queensland calling for urgent action on cycling safety with release of new bikeway plans"><span class="fa fa-linkedin"></span></a><a href="#"><span class="fa fa-share-alt"></span></a>          </div>
+      </div>
+      <div id="footer" class="row hidden-xs">
+        <div class="col-xs-12 col-sm-3 col-md-2">
+          <h5>About BQ</h5>
+          <div class="menu-about-bq-footer-container"><ul id="menu-about-bq-footer" class="menu"><li id="menu-item-520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-520"><a href="http://bq.org.au/about/what-is-bicycle-queensland/">What is BQ?</a></li>
+<li id="menu-item-521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-521"><a href="http://bq.org.au/about/contact/">Contact Us</a></li>
+<li id="menu-item-522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522"><a href="http://bq.org.au/about/contact/media-enquiries/">Media Enquiries</a></li>
+<li id="menu-item-523" class="ppr-rewrite menu-item menu-item-type-post_type menu-item-object-page menu-item-523"><a href="http://bq.org.au/about/governance/management-committee">Governance</a></li>
+<li id="menu-item-524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524"><a href="http://bq.org.au/about/governance/management-committee/">Management Committee</a></li>
+<li id="menu-item-525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525"><a href="http://bq.org.au/about/governance/agms-and-other-meetings/">AGMs &#038; other meetings</a></li>
+<li id="menu-item-526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526"><a href="http://bq.org.au/about/governance/annual-reports/">Annual Reports</a></li>
+<li id="menu-item-527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527"><a href="http://bq.org.au/about/governance/strategy-statement/">Strategy Statement</a></li>
+<li id="menu-item-528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-528"><a href="http://bq.org.au/about/governance/constitution-legalities/">Constitution &#038; Legalities</a></li>
+<li id="menu-item-529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-529"><a href="http://bq.org.au/about/what-is-bicycle-queensland/staff/">Staff</a></li>
+<li id="menu-item-530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-530"><a href="http://bq.org.au/about/what-is-bicycle-queensland/available-positions/">Available Positions</a></li>
+</ul></div>        </div>
+        <div class="col-xs-12 col-sm-3 col-md-2">
+          <h5>Join Us</h5>
+            <div class="menu-join-us-footer-container"><ul id="menu-join-us-footer" class="menu"><li id="menu-item-531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-531"><a href="http://bq.org.au/join-us/member-benefits/">Membership benefits</a></li>
+<li id="menu-item-532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-532"><a href="http://bq.org.au/join-us/member-insurance/">Member insurance</a></li>
+<li id="menu-item-533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-533"><a href="http://bq.org.au/join-us/member-legal-assistance/">Member legal assistance</a></li>
+<li id="menu-item-534" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-534"><a href="http://bq.org.au/join-us/become-a-member/">Become a member</a></li>
+<li id="menu-item-535" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-535"><a href="http://bq.org.au/join-us/volunteer/">Volunteer</a></li>
+</ul></div>        </div>
+        <div class="col-xs-12 col-sm-6 col-md-3">
+          <h5>Events & Progams</h5>
+            <div class="menu-events-programs-footer-container"><ul id="menu-events-programs-footer" class="menu"><li id="menu-item-539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-539"><a href="http://bikeweekqld.com.au">Bike Week</a></li>
+<li id="menu-item-538" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-538"><a href="http://gbbr.com.au">Great Brisbane Bike Ride</a></li>
+<li id="menu-item-575" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-575"><a href="http://peakschallenge.com.au">Peaks Challenge Gold Coast</a></li>
+<li id="menu-item-536" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-536"><a href="http://b2gc.com.au">Brisbane to Gold Coast Cycle Challenge</a></li>
+<li id="menu-item-537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-537"><a href="http://cycleqld.com.au">Cycle Queensland Adventure Tour</a></li>
+<li id="menu-item-542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542"><a href="http://bq.org.au/programs/ride-2-work/">Ride 2 Work</a></li>
+<li id="menu-item-541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541"><a href="http://bq.org.au/programs/ride-2-school/">Ride 2 School</a></li>
+<li id="menu-item-540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540"><a href="http://bq.org.au/programs/bicygals/">BicyGals</a></li>
+</ul></div>        </div>
+        <div class="col-xs-12 col-sm-4 col-md-2 hidden-sm">
+          <h5>Advice</h5>
+          <div class="menu-advice-footer-container"><ul id="menu-advice-footer" class="menu"><li id="menu-item-543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-543"><a href="http://bq.org.au/resources/tips-guides/qld-road-rules/">QLD Road Rules</a></li>
+<li id="menu-item-544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-544"><a href="http://bq.org.au/resources/where-to-ride/hazards-detours/">Hazards &#038; detours</a></li>
+<li id="menu-item-546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-546"><a href="http://bq.org.au/resources/buying-a-bike/how-to-buy-the-right-bike/">Buying the right bike</a></li>
+<li id="menu-item-545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-545"><a href="http://bq.org.au/resources/tips-guides/bike-security/">Bike security</a></li>
+<li id="menu-item-547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-547"><a href="http://bq.org.au/resources/tips-guides/correct-bike-size/">Correct bike size</a></li>
+<li id="menu-item-548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-548"><a href="http://bq.org.au/resources/tips-guides/riding-position-setup/">Riding position setup</a></li>
+<li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-549"><a href="http://bq.org.au/resources/tips-guides/shopping-by-bike/">Shopping by bike</a></li>
+</ul></div>  
+        </div>
+        <div class="col-xs-12 col-md-3">
+          <h5 class="titleNewsletter">Join our newsletter</h5>
+          <p class="hidden-sm">Hear about what we're doing</p>
+          
+          <form class="form-horizontal" role="form" method="post" id="newsForm" action="">
+            <div class="row gutter form-group" id="news-name-group">
+              <div class="col-xs-12"><input type="input" name="name" placeholder="First Name *"/></div>
+            </div>
+            <div class="row gutter form-group" id="news-email-group">
+              <div class="col-xs-12"><input type="email"name="email" placeholder="Email address *"/></div>
+            </div>
+            <div class="row gutter form-group" id="news-submit-group">
+              <div class="col-xs-12">
+                <input type="hidden" name="action" value="bq_submit_news_signup"/>
+                <button>Subscribe</button>
+              </div>
+            </div>
+            <img src="http://bq.org.au/wp-content/themes/bq/images/ajax-loader.gif" class="news-loader" style="display: none; margin-top: 15px; margin-left: 15px;"/>
+          </form>
+            
+          <div class="row gutter form-group">
+            <div class="col-xs-12" id="news-feedback"></div>
+          </div>
+          
+        </div>
+      </div> <!-- End Row -->
+      <div id="subFooter" class="row">
+        <div class="col-xs-12">
+          <!--<span>Privacy Policy | Shipping Policy | Terms & Conditions</span>-->
+          <span>© 2000-2016 Bicycle Queensland Inc.</span>
+          <span><a href="http://bq.org.au"><img src="http://bq.org.au/wp-content/themes/bq/images/logo-icon-grn.png" alt="Bicycle Queensland" width="50"></a></span>
+        </div>
+      </div>
+    </div> <!-- End Container -->
+    <script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/news\/2016\/02\/bicycle-queensland-calling-for-urgent-action-on-cycling-safety-with-release\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/bq.org.au\/shop\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//bq.org.au/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.5.5'></script>
+<script type='text/javascript' src='//bq.org.au/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/news\/2016\/02\/bicycle-queensland-calling-for-urgent-action-on-cycling-safety-with-release\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//bq.org.au/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.5.5'></script>
+<script type='text/javascript' src='http://bq.org.au/wp-content/themes/bq/js/jquery_cookie.min.js?ver=1.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/news\/2016\/02\/bicycle-queensland-calling-for-urgent-action-on-cycling-safety-with-release\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//bq.org.au/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.5.5'></script>
+<script type='text/javascript' src='http://bq.org.au/wp-content/themes/bq/js/prettyembed.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://bq.org.au/wp-content/themes/bq/js/waitforimages.js?ver=1.0'></script>
+<script type='text/javascript' src='http://bq.org.au/wp-content/themes/bq/js/bootstrap.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://bq.org.au/wp-content/themes/bq/js/fitvids.js?ver=1.0'></script>
+<script type='text/javascript' src='http://bq.org.au/wp-content/themes/bq/js/jPushMenu.js?ver=1.0'></script>
+<script type='text/javascript' src='http://bq.org.au/wp-content/themes/bq/js/site.js?ver=1.0'></script>
+<script type='text/javascript' src='http://bq.org.au/wp-includes/js/wp-embed.min.js?ver=9108b41d3568db39614b658482f084d0'></script>
+    <!-- Google Code for Remarketing Tag -->
+    <!--------------------------------------------------
+    Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+    --------------------------------------------------->
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1008705080;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1008705080/?value=0&amp;guid=ON&amp;script=0"/>
+    </div>
+    </noscript>
+  </body>
+</html>

@@ -1,0 +1,3145 @@
+<!doctype html>
+<!--[if lt IE 8]>      <html class="lt-ie10 lt-ie9 lt-ie8" id="no-js" lang="ru"> <![endif]-->
+<!--[if IE 8]>         <html class="lt-ie10 lt-ie9"        id="no-js" lang="ru"> <![endif]-->
+<!--[if IE 9]>         <html class="lt-ie10"               id="no-js" lang="ru"> <![endif]-->
+<!--[if gt IE 9]><!--> <html                               id="no-js" lang="ru"> <!--<![endif]-->
+<head>
+<script>
+        function deviceType() {
+            var ua = navigator.userAgent.toLowerCase();
+            var isAndroid = /(android)/g.test(ua);
+            var isApple = /(ipad|iphone|ipod)/g.test(ua);
+            var isWp = /(phone)/g.test(ua);
+            var isMobile = isAndroid || isApple || isWp;
+            var screenSize = window.screen.width; //(window.screen.height > window.screen.width)?window.screen.height:window.screen.width;
+            var androidTablet =  isAndroid && (!/(mobile)/g.test(ua) || screenSize > 1000);
+            var iPad = /(ipad)/g.test(ua);
+            if (androidTablet || iPad) return 'tablet';
+            else if (isApple && !iPad || isAndroid && !androidTablet || isWp) return 'mobile';
+            else return 'desktop';
+        }
+        var device = deviceType();
+        var matches = document.cookie.match(new RegExp("(?:^|; )" + 'nomobile'.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"));
+        if (device == 'mobile' && !/\/\/m\./.test(document.location.href) && (!matches || matches[1] != '1')) {
+           var d=document.location.href.replace(/www./, '');
+           document.location.href=d.replace(/\/\//, '//m.');
+        }
+    </script>
+<script>document.documentElement.id = 'js';</script>
+
+        
+
+
+
+
+
+                                        
+	<link rel="canonical" href=http://news.bigmir.net/ukraine/795624-Rasstrel-protestujucshih--s-emka-so-spiny-snajpera/>
+
+    <link rel="alternate" media="only screen and (max-width: 1000px)" href=http://m.news.bigmir.net/ukraine/795624-Rasstrel-protestujucshih--s-emka-so-spiny-snajpera >
+
+                            <title>Расстрел протестующих: съемка со спины снайпера - Новости дня</title>
+    
+<meta name="google-site-verification" content="4fwLM9je1HGcMNAxWkTsO9NIcbvFlDrTNbSQFMpVxzc" />
+<meta name='yandex-verification' content='6287a24b370ced51' />
+<meta name='wmail-verification' content='' />
+<meta name='msvalidate.01' content='' />
+
+    
+<meta name="description" content="«У вас боевое оружие?», - спрашивает журналист. «Нет, игрушечное!», - раздраженно отвечает снайпер. Потом уточняет «Мы в людей не стреляем»" />
+
+<meta name="keywords" content="Евромайдан, события 20 февраля, бои на Институтской, бои в Киеве, видео, снайперы"/>
+ 
+<meta name="news_keywords" content="Евромайдан, события 20 февраля, бои на Институтской, бои в Киеве, видео, снайперы" />
+        <meta name="Author" content="bigmir)net" />
+<meta property="fb:app_id" content="194342087279729"/>
+<meta property="fb:admins" content="100000254195287"/>
+<meta property="og:title" content="Расстрел протестующих: съемка со спины снайпера"/>
+<meta property="og:type" content="video"/>
+<meta property="og:url" content="http://news.bigmir.net/ukraine/795624-Rasstrel-protestujucshih--s-emka-so-spiny-snajpera"/>
+
+
+
+	<meta property="og:image" content="http://bm.img.com.ua/berlin/storage/news/orig/4/33/175d70104131dce73b03382e14678334.jpg"/>
+    <link rel="image_src" href="http://bm.img.com.ua/berlin/storage/news/orig/4/33/175d70104131dce73b03382e14678334.jpg" />
+
+<meta property="og:site_name" content="Новости"/>
+							    <meta property="og:video" content="https://bm.img.com.ua/nxs1/a/video/swf/VideoPlayer3.swf?movie_url=http%3A%2F%2Fvideo.bm.img.com.ua%2Fberlin%2Fstorage%2Fnews%2Fvideo%2F44520682ff432ca26696e75c35a6012d&img_url=http%3A%2F%2Fvideo.bm.img.com.ua%2Fberlin%2Fstorage%2Fnews%2Fvideo%2F44520682ff432ca26696e75c35a6012d.jpg"/>
+    <meta property="og:video:height" content="342" />
+    <meta property="og:video:width" content="608" />
+    <meta property="og:video:type" content="application/x-shockwave-flash" />
+    <meta property="og:video:duration" content="787" />
+
+
+<meta charset="windows-1251" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+<link href="//bm.img.com.ua/a/berlin/project/news/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+
+
+
+    
+    
+    
+    
+    
+
+
+
+    
+
+
+
+
+<script>
+	var BM_MAIN_DOMAIN = '.bigmir.net';
+	var HOST = 'news.bigmir.net';
+	var USER_ID = 0;
+	var SITE_ID = 63;
+	var PAGE_ID = 795624;
+	var BM_IMG_SERVER = '//bm.img.com.ua/';
+	var BM_IMG_STORAGE = '//bm.img.com.ua/berlin/storage/news/';
+	if (parent && parent != window && !parent.bm_forever) parent.location.href = window.location.href;
+		    var HEADER_V2 =true;
+	
+</script>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1436448313/a/common/js/holder.js"></script>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1460641419/a/berlin/common/plugins/voter/voter.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1447082316/a/berlin/common/plugins/gallery2/gallery_lightbox.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1367247423/a/berlin/common/plugins/comment/comment.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1415362394/a/berlin/common/css/plugins/comment.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1335346295/a/berlin_lux/common/plugins/fancybox2/jquery.fancybox.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1328712099/a/berlin/common/plugins/jqmodal/jqmodal.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1396429505/a/cdn/css/normalize.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1435154778/a/berlin/common/css/fw_tmp.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1272007644/a/berlin/common/css/plugins/b-popup_beta.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1403604647/a/berlin/project/news/main_tmp.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1460023501/a/berlin/common/css/v4_tmp.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1460641419/a/berlin/common/plugins/article/article_tmp.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1457701522/a/berlin/project/news/project_tmp.css"/>
+
+
+                        <script type="text/javascript">$().ready(function(){ $.get('?_ctr=ratepage&id=795624&r'+Math.random()); });</script>
+            
+
+
+
+
+<script>
+    $(document).ready(function(){
+        function deviceType() {
+            var ua = navigator.userAgent.toLowerCase();
+            var isAndroid = /(android)/g.test(ua);
+            var isApple = /(ipad|iphone|ipod)/g.test(ua);
+            var isWp = /(phone)/g.test(ua);
+            var isMobile = isAndroid || isApple || isWp;
+            var screenSize = window.screen.width;//(window.screen.height > window.screen.width)?window.screen.height:window.screen.width;
+            var androidTablet =  isAndroid && (!/(mobile)/g.test(ua) || screenSize > 1000);
+            var iPad = /(ipad)/g.test(ua);
+            if (androidTablet || iPad) return 'tablet';
+            else if (isApple && !iPad || isAndroid && !androidTablet || isWp) return 'mobile';
+            else return 'desktop';
+        }
+        var device = deviceType();
+        if (device == 'mobile') {
+            $('[data-b="mobVersionLink"]').show();
+        }
+    });
+</script>
+
+<script>
+
+            var holderKeyword = (typeof(holderKeyword) != "undefined" ? holderKeyword+',' : "") + "nofamily";
+    
+</script>
+
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<meta name="google-translate-customization" content="65807ca731073584-fd04a3c280dcb9dd-ga4266b77f745c687-f"></meta>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-555STV"
+                           height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-555STV');</script>
+<!-- End Google Tag Manager -->
+
+
+
+</head>
+
+<body data-bmm-project="news">
+<div id="fb-root"></div>
+    
+<script>
+    /**
+    *   FB sdk init
+    */
+    window.fbAsyncInit = function() {
+        FB.init({
+        appId      : '194342087279729',
+        xfbml      : true,
+        version    : 'v2.1'
+        });
+    };
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) { return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <script type="text/javascript">
+        <!--//--><![CDATA[//><!--
+        var pp_gemius_identifier = '.KhAUfAEzw0wR80Xewicibes78awCFrtxUZ9.tHuzxf.G7';
+        function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+        gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+        (function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+        gt.setAttribute('defer','defer'); gt.src=l+'://kpmediagaua.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+        //--><!]]>
+    </script>
+
+<!--[if lt IE 8]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload', function() { CFInstall.check({ mode:'overlay'})})</script>
+<![endif]-->
+
+<div id="fb-root"></div>
+<div id="vk_api_transport"></div>
+
+
+
+
+
+    <section class="l-container l-container_upper" data-bmm="upper-header">
+        <div class="b-upper">
+                            
+                    <div id="upper-panel-global" data-el="upper_panel_cnt" data-target="">
+            <div class="b-upper-userpanel b-upper-userpanel_new g-clearfix" data-el="upper_panel" data-bms="" data-bmps="">
+
+                <div class="b-upper-userpanel-direct" data-bmm="selfbrand"><a class="b-upper-userpanel-direct__link" href="//ivona.bigmir.net/" data-bmm="ivona">Ivona</a><a class="b-upper-userpanel-direct__link" href="//mport.ua/" data-bmm="mport">MPort</a><a class="b-upper-userpanel-direct__link" href="//afisha.bigmir.net/" data-bmm="afisha">Афиша</a></div>
+                <div id="upper-panel-global-auth" class="b-upper-userpanel__user b-upper-userpanel__user_logged" style="display: none;">
+                    <a  href="//talk.bigmir.net/" class="b-upper-userpanel__user-action">
+                        <span class="b-upper-userpanel__user-action__icon b-upper-userpanel__user-action__icon_message"></span>
+                                            </a>
+                    <span class="b-upper-userpanel__user-action" data-bmm="user">
+                        <a  href="//profile.bigmir.net" class="b-upper-userpanel__user-avatar">
+                            <img id="up-avatart" src="" class="b-upper-userpanel__user-avatar-image" />
+                        </a>
+                        <a  href="//profile.bigmir.net" class="b-upper-userpanel__user-name" id="up-nick">
+                        </a>
+                    </span>
+                    <a href="//passport.bigmir.net/logout/" class="b-upper-userpanel__user-action" data-bmm="user"></a>
+                    <a class="b-upper-userpanel__user-action b-upper-userpanel__user-action_logout"  href="//passport.bigmir.net/logout/" data-bmm="user">Выйти</a>
+                </div>
+
+                <div id="upper-panel-global-notauth" class="b-upper-userpanel__user b-upper-userpanel__user_new" data-bmm="user">
+                    <a  href="//passport.bigmir.net/registration" class="b-upper-userpanel__user-action">Зарегистрироваться</a>
+                    <a  href="//id.bigmir.net" class="b-upper-userpanel__user-action" data-el="login-trigger" id="bm_login">Войти</a>
+                </div>
+                <ul class="b-upper-userpanel__misc"></ul>
+
+            </div>
+        </div>
+        
+        <script>
+            $('[data-el="login-trigger"]').on('click', function() {
+                login_show();
+                return false;
+            });
+
+            var globalupperPanelVersion='new';
+        </script>
+
+    
+                    </div>
+    </section>
+
+
+<div class="l-container l-container_main" id="container_main">
+
+    <div class="b-mobversion" data-b="mobVersionLink">
+        <a class="b-mobversion__link" href="javascript:goNoDesktop()">Переключиться на мобильную версию</a>
+    </div>
+
+    
+        
+    
+
+    
+        <div class="b-banner-container">
+            
+
+
+    
+    
+            <div class="b-banner_top" id="banner_top">
+                <center>
+                    <div id="banner_top_ph" class="top_banner" style="min-height: 90px; height: auto !important; height: 90px">
+                        <script>
+                                new holder("banner_top_ph", {"block":1734,"keyword":typeof(holderKeyword) != "undefined" ? holderKeyword : ""} );
+                        </script>
+                    </div>
+                </center>
+        </div>
+    
+        </div>
+    
+
+    
+
+        <div class="l-wrapper g-clearfix" id="g-page_outline">
+
+            
+                
+
+
+    <div class="l-header" id="global-header-container">
+
+        <div class="b-header-container" data-bmm="header">
+    <div class="b-header">
+        <a class="b-header__logo" href="//www.bigmir.net" data-bmm="logo"></a>
+        <div class="b-header-inner g-clearfix">
+            <ul class="b-header-menu" data-el="header-menu" data-bmm="menu"><li class="b-header-menu-item b-header-menu-item_news b-header-menu-item_active" data-bmm="news"><a class="b-header-menu-item__title" href="//news.bigmir.net">Новости</a></li><li class="b-header-menu-item b-header-menu-item_sport" data-bmm="sport"><a class="b-header-menu-item__title" href="//sport.bigmir.net">Спорт</a></li><li class="b-header-menu-item b-header-menu-item_finance" data-bmm="finance"><a class="b-header-menu-item__title" href="//finance.bigmir.net">Финансы</a></li><li class="b-header-menu-item b-header-menu-item_video" data-bmm="video"><a class="b-header-menu-item__title" href="//video.bigmir.net">Видео</a></li><li class="b-header-menu-item b-header-menu-item_prikol" data-bmm="prikol"><a class="b-header-menu-item__title" href="//prikol.bigmir.net">Приколы</a></li><li class="b-header-menu-item b-header-menu-item_auto" data-bmm="auto"><a class="b-header-menu-item__title" href="//auto.bigmir.net">Авто</a></li><li class="b-header-menu-item b-header-menu-item_techno" data-bmm="techno"><a class="b-header-menu-item__title" href="//techno.bigmir.net">Техно</a></li><li class="b-header-menu-item b-header-menu-item_showbiz" data-bmm="showbiz"><a class="b-header-menu-item__title" href="//ivona.bigmir.net/showbiz">Шоу-biz</a></li></ul><div class="b-header-trigger-container" data-el="header-trigger-container" data-bmm="icons"><span class="b-header-trigger b-header-trigger_menu" data-el="menu-trigger" data-bmm="all_services"><span class="b-header-trigger__icon"></span></span><a href="//mail.bigmir.net/signin" class="b-header-trigger b-header-trigger_mail" data-parent="newMail" data-bmm="mail"><span class="b-header-trigger__icon"></span></a><span class="b-header-trigger b-header-trigger_search" data-el="search-trigger" data-bmm="search"><span class="b-header-trigger__icon"></span></span></div>
+            <div class="b-header-search-container" data-b="search" data-bmm="search">
+                <div class="b-header-search">
+                    <form id="searchForm" action="/search" method="get">
+                        <div class="b-header-search-form">
+                            <input type="hidden" name="t" value="b" id="searchHiddenFormId" />
+                            <input class="b-header-search__input" type="text" name="s" autocomplete="off" id="searchFormId" placeholder="Поиск" data-el="textfield" />
+                            <div class="b-header-search-region">
+                                <div class="b-header-search-region__result" data-el="result">в разделе Новости</div>
+                                <div class="b-header-search-region-popup" data-el="popup">
+                                    <ul class="b-header-search-region-variant-list" data-el="list">
+                                        <li class="b-header-search-region-variant-list-item is-selected" data-region="r">в разделе Новости</li>
+                                        <li class="b-header-search-region-variant-list-item" data-region="b">по bigmir)net</li>
+                                        <li class="b-header-search-region-variant-list-item" data-region="u">по Украине</li>
+                                        <li class="b-header-search-region-variant-list-item" data-region="w">по миру</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <button type="submit" class="b-header-search__button" data-bmm="submit">Искать</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="b-header-services-container" data-el="menu" data-bmm="services_popup">
+            <ul class="b-header-services"><li class="b-header-services-part"><ul class="b-header-services-list"><li class="b-header-services-item b-header-services-item_auto"><a class="b-header-services-item__title" href="//auto.bigmir.net" data-bmm="auto">Авто</a></li><li class="b-header-services-item b-header-services-item_autosale"><a class="b-header-services-item__title" href="//autosale.bigmir.net" data-bmm="autosale">Автопродажа</a></li><li class="b-header-services-item b-header-services-item_afisha"><a class="b-header-services-item__title" href="//afisha.bigmir.net" data-bmm="afisha">Афиша</a></li><li class="b-header-services-item b-header-services-item_video"><a class="b-header-services-item__title" href="//video.bigmir.net" data-bmm="video">Видео</a></li><li class="b-header-services-item b-header-services-item_howto"><a class="b-header-services-item__title" href="//otvet.bigmir.net" data-bmm="howto">Вопрос-ответ</a></li></ul></li><li class="b-header-services-part"><ul class="b-header-services-list"><li class="b-header-services-item b-header-services-item_goroskop"><a class="b-header-services-item__title" href="//goroskop.bigmir.net" data-bmm="goroskop">Гороскопы</a></li><li class="b-header-services-item b-header-services-item_dnevnik"><a class="b-header-services-item__title" href="//dnevnik.bigmir.net" data-bmm="dnevnik">Дневники</a></li><li class="b-header-services-item b-header-services-item_love"><a class="b-header-services-item__title" href="//love.bigmir.net" data-bmm="love">Знакомства</a></li><li class="b-header-services-item b-header-services-item_ivona"><a class="b-header-services-item__title" href="//ivona.bigmir.net" data-bmm="ivona">Ivona</a></li><li class="b-header-services-item b-header-services-item_games"><a class="b-header-services-item__title" href="//games.bigmir.net" data-bmm="games">Игры</a></li></ul></li><li class="b-header-services-part"><ul class="b-header-services-list"><li class="b-header-services-item b-header-services-item_maps"><a class="b-header-services-item__title" href="//map.bigmir.net" data-bmm="maps">Карты</a></li><li class="b-header-services-item b-header-services-item_mport"><a class="b-header-services-item__title" href="//mport.ua" data-bmm="mport">MPort</a></li><li class="b-header-services-item b-header-services-item_realty"><a class="b-header-services-item__title" href="//finance.bigmir.net/realty/lun" data-bmm="realty">Недвижимость</a></li><li class="b-header-services-item b-header-services-item_news"><a class="b-header-services-item__title" href="//news.bigmir.net" data-bmm="news">Новости</a></li><li class="b-header-services-item b-header-services-item_cards"><a class="b-header-services-item__title" href="//cards.bigmir.net" data-bmm="cards">Открытки</a></li></ul></li><li class="b-header-services-part"><ul class="b-header-services-list"><li class="b-header-services-item b-header-services-item_market"><a class="b-header-services-item__title" href="//market.bigmir.net/" data-bmm="market">Онлайн-магазин</a></li><li class="b-header-services-item b-header-services-item_weather"><a class="b-header-services-item__title" href="//weather.bigmir.net" data-bmm="weather">Погода</a></li><li class="b-header-services-item b-header-services-item_mail"><a class="b-header-services-item__title" href="//mail.bigmir.net" data-bmm="mail">Почта</a></li><li class="b-header-services-item b-header-services-item_prikol"><a class="b-header-services-item__title" href="//prikol.bigmir.net" data-bmm="prikol">Приколы</a></li><li class="b-header-services-item b-header-services-item_rabota"><a class="b-header-services-item__title" href="//finance.bigmir.net/jooble" data-bmm="jooble">Работа</a></li></ul></li><li class="b-header-services-part"><ul class="b-header-services-list"><li class="b-header-services-item b-header-services-item_top"><a class="b-header-services-item__title" href="//top.bigmir.net" data-bmm="rating">Рейтинг</a></li><li class="b-header-services-item b-header-services-item_sun"><a class="b-header-services-item__title" href="//sun.bigmir.net" data-bmm="sun">Sun</a></li><li class="b-header-services-item b-header-services-item_sport"><a class="b-header-services-item__title" href="//sport.bigmir.net" data-bmm="sport">Спорт</a></li><li class="b-header-services-item b-header-services-item_techno"><a class="b-header-services-item__title" href="//techno.bigmir.net" data-bmm="techno">Техно</a></li><li class="b-header-services-item b-header-services-item_tour"><a class="b-header-services-item__title" href="//tour.bigmir.net" data-bmm="tour">Туризм</a></li></ul></li><li class="b-header-services-part b-header-services-part_small"><ul class="b-header-services-list"><li class="b-header-services-item b-header-services-item_finance"><a class="b-header-services-item__title" href="//finance.bigmir.net" data-bmm="finance">Финансы</a></li><li class="b-header-services-item b-header-services-item_photo"><a class="b-header-services-item__title" href="//photo.bigmir.net" data-bmm="photo">Фото</a></li><li class="b-header-services-item b-header-services-item_showbiz"><a class="b-header-services-item__title" href="//ivona.bigmir.net/showbiz" data-bmm="showbiz">Шоу-Biz</a></li></ul></li></ul>
+        </div>
+    </div>
+</div>
+
+<script>
+
+
+</script>
+        
+        <nav class="b-metro2-menu">
+                                                                                            
+            <ul class="b-metro2-menu-list">
+                                                                                                                                                                                                                                    
+                        <li class="b-metro2-menu-list-item
+                                b-metro2-menu-list-item_active                                                                                                mid_2">
+
+                            
+                                                        <a class="b-metro2-menu-list-item__title" href="http://news.bigmir.net/ukraine">Украина</a>
+                                                    </li>
+
+                                                                                                
+                        <li class="b-metro2-menu-list-item
+                                                                                                                                mid_3">
+
+                            
+                                                        <a class="b-metro2-menu-list-item__title" href="http://news.bigmir.net/world">Мир</a>
+                                                    </li>
+
+                                                                                                
+                        <li class="b-metro2-menu-list-item
+                                                                                                                                mid_5">
+
+                            
+                                                        <a class="b-metro2-menu-list-item__title" href="http://news.bigmir.net/capital">Столица</a>
+                                                    </li>
+
+                                                                                                
+                        <li class="b-metro2-menu-list-item
+                                                                                                                                mid_11">
+
+                            
+                                                        <a class="b-metro2-menu-list-item__title" href="http://news.bigmir.net/life">Жизнь</a>
+                                                    </li>
+
+                                                                                                
+                        <li class="b-metro2-menu-list-item
+                                                                                                                                mid_834163">
+
+                            
+                                                        <a class="b-metro2-menu-list-item__title" href="http://news.bigmir.net/good">Хорошие новости</a>
+                                                    </li>
+
+                                                                                                
+                        <li class="b-metro2-menu-list-item
+                                                                                                                                mid_705206">
+
+                            
+                                                        <a class="b-metro2-menu-list-item__title" href="http://news.bigmir.net/photogallery">Фото</a>
+                                                    </li>
+
+                                                                                                                
+                            </ul>
+
+                    </nav>
+    </div>
+
+
+
+
+            
+
+            
+                                    
+                            
+
+            
+                                    
+    
+            
+                    <div class="b-metro-trendings" data-bmm="trending"><div class="b-metro-trendings__header">Горячие темы:</div><ul class="b-metro-trendings__list"><li class="b-metro-trendings__list-item"><a class="b-metro-trendings__list-item__title" href="http://news.bigmir.net/Bezvizovyj-rezhim-Ukrainy-s-ES?trending_id=1207" title="Безвизовый режим Украины с ЕС" onclick="GATracker.track('news', 'Безвизовый режим Украины с ЕС', 'цНПЪВХЕ РЕЛШ');" data-trending="1207">Безвизовый режим Украины с ЕС</a></li><li class="b-metro-trendings__list-item"><a class="b-metro-trendings__list-item__title" href="http://news.bigmir.net/ukrayncy_v_myre?trending_id=1134" title="Украинцы в мире" onclick="GATracker.track('news', 'Украинцы в мире', 'цНПЪВХЕ РЕЛШ');" data-trending="1134">Украинцы в мире</a></li></ul></div>
+            
+                            
+
+            
+                                    <div class="" data-bmm="ph_under_trendings"><span data-bmm="widget_785" data-bmm-title="INT net_review обзор сети над статьями"><link rel="stylesheet" title="screen style" type="text/css" href="http://bm.img.com.ua/vrsn1379600400/a/berlin/common/plugins/net_review/net_review.css"/>
+<script type="text/javascript" src="http://bm.img.com.ua/vrsn1379080878/a/berlin/common/plugins/net_review/net_review.js"></script>
+
+
+<div class="b-review" data-b="netReview">
+    <div class="b-review__list-outer">
+        <div class="b-review__control-container">
+            <button class="b-review__control b-review__control_prev" data-el="prev">
+                <span class="b-review__control-inner"></span>
+            </button>
+            <button class="b-review__control b-review__control_next" data-el="next">
+                <span class="b-review__control-inner"></span>
+            </button>
+        </div>
+        <ul class="b-review__list" data-el="ul" data-step="3"><li class="b-review__list-item"><a class="b-review__list-item__link" href="http://ivona.bigmir.net/showbiz/431583-Holostjak-6-sezon-Snezhana-ustroit-Irakli-pikantnuju-trenirovku" data-itemid="" ><img class="b-review__list-item__image" src="//bm.img.com.ua/img/informer/39/2024139.jpg" alt=""/></a><h5 class="b-review__list-item__title-outer"><a class="b-review__list-item__title" href="http://ivona.bigmir.net/showbiz/431583-Holostjak-6-sezon-Snezhana-ustroit-Irakli-pikantnuju-trenirovku" data-itemid="" >Холостяк 6 сезон: Снежана устроит Иракли пикантную тренировку</a></h5><a class="b-review__list-item__source" href="http://ivona.bigmir.net/" data-itemid="" >Ivona</a></li><li class="b-review__list-item"><a class="b-review__list-item__link" href="http://www.segodnya.ua/life/health/simptomy-i-posledstviya-artrita-712011.html?utm_source=bigmir.net&utm_medium=informer&utm_campaign=segodnya_on_bigmir" data-itemid="" ><img class="b-review__list-item__image" src="//bm.img.com.ua/img/informer/66/2025566.jpg" alt=""/></a><h5 class="b-review__list-item__title-outer"><a class="b-review__list-item__title" href="http://www.segodnya.ua/life/health/simptomy-i-posledstviya-artrita-712011.html?utm_source=bigmir.net&utm_medium=informer&utm_campaign=segodnya_on_bigmir" data-itemid="" >Симптомы и последствия артрита</a></h5><a class="b-review__list-item__source" href="http://segodnya.ua?utm_source=bigmir.net&utm_medium=informer&utm_campaign=segodnya_on_bigmir" data-itemid="" >segodnya.ua</a></li><li class="b-review__list-item"><a class="b-review__list-item__link" href="http://sport.bigmir.net/boks/profi/1761405-F-juri--Nadejus---Klichko-otpravit-menja-v-nokaut" data-itemid="" ><img class="b-review__list-item__image" src="//bm.img.com.ua/img/informer/36/2025036.jpg" alt=""/></a><h5 class="b-review__list-item__title-outer"><a class="b-review__list-item__title" href="http://sport.bigmir.net/boks/profi/1761405-F-juri--Nadejus---Klichko-otpravit-menja-v-nokaut" data-itemid="" >Фьюри: Надеюсь, Кличко отправит меня в нокаут</a></h5><a class="b-review__list-item__source" href="http://sport.bigmir.net/" data-itemid="" >Спорт</a></li><li class="b-review__list-item"><a class="b-review__list-item__link" href="http://news.liga.net/news/politics/10423386-terroristy_obstrelyali_iz_minometov_marinku_i_shirokino.htm?utm_source=bigmir.net&utm_medium=informer&utm_campaign=liga_on_bigmir" data-itemid="" ><img class="b-review__list-item__image" src="//bm.img.com.ua/img/informer/22/2025222.jpg" alt=""/></a><h5 class="b-review__list-item__title-outer"><a class="b-review__list-item__title" href="http://news.liga.net/news/politics/10423386-terroristy_obstrelyali_iz_minometov_marinku_i_shirokino.htm?utm_source=bigmir.net&utm_medium=informer&utm_campaign=liga_on_bigmir" data-itemid="" >Террористы обстреляли из минометов Марьинку и Широкино</a></h5><a class="b-review__list-item__source" href="http://liga.net?utm_source=bigmir.net&utm_medium=informer&utm_campaign=liga_on_bigmir" data-itemid="" >liga.net</a></li><li class="b-review__list-item"><a class="b-review__list-item__link" href="http://news.liga.net/news/politics/10434535-nachalnik_vnutrenney_bezopasnosti_natspolitsii_ushel_s_dolzhnosti.htm?utm_source=bigmir.net&utm_medium=informer&utm_campaign=liga_on_bigmir" data-itemid="" ><img class="b-review__list-item__image" src="//bm.img.com.ua/img/informer/42/2025342.jpg" alt=""/></a><h5 class="b-review__list-item__title-outer"><a class="b-review__list-item__title" href="http://news.liga.net/news/politics/10434535-nachalnik_vnutrenney_bezopasnosti_natspolitsii_ushel_s_dolzhnosti.htm?utm_source=bigmir.net&utm_medium=informer&utm_campaign=liga_on_bigmir" data-itemid="" >Начальник внутренней безопасности Нацполиции ушел с должности</a></h5><a class="b-review__list-item__source" href="http://liga.net?utm_source=bigmir.net&utm_medium=informer&utm_campaign=liga_on_bigmir" data-itemid="" >liga.net</a></li><li class="b-review__list-item"><a class="b-review__list-item__link" href="http://ivona.bigmir.net/showbiz/news/431588-Anastasija-Prihod-ko--Ja-oficial-no-otkazyvajus--ot-pesni-Mamo" data-itemid="" ><img class="b-review__list-item__image" src="//bm.img.com.ua/img/informer/38/2024138.jpg" alt=""/></a><h5 class="b-review__list-item__title-outer"><a class="b-review__list-item__title" href="http://ivona.bigmir.net/showbiz/news/431588-Anastasija-Prihod-ko--Ja-oficial-no-otkazyvajus--ot-pesni-Mamo" data-itemid="" >Анастасия Приходько: Я официально отказываюсь от песни Мамо</a></h5><a class="b-review__list-item__source" href="http://ivona.bigmir.net/" data-itemid="" >Ivona</a></li></ul>
+    </div>
+</div></span><div class="g-cl_m"></div></div>
+                            
+
+            
+ 	<div class="l-page g-clearfix" id="page_main_block">
+		         <div class="l-col_all g-clearfix">
+            
+
+                            
+
+            
+            
+            
+                    
+                
+ 
+
+    <script>
+        $().ready(function(){
+            $('blockquote[data-img]').each(function (index, el) {
+                $e = $(el);
+                $e.wrap('<div></div>').parent().load('?_tpl=quotation',
+                        {
+                            _tpl:'quotation',
+                            img:$e.attr('data-img'),
+                            name:$e.attr('data-name'),
+                            position:$e.attr('data-position'),
+                            text:$e.html()
+                        }
+                );
+            });
+        });
+    </script>
+
+
+    
+ 
+
+	<script>
+		$().ready(function(){
+			$('img[data-b="beforeAfterSlidebar"]').each(function (index, el) {
+				$e = $(el);
+				var id = 'beforeafter' + Math.floor(Math.random()*99999);
+				var img1 = $e.data('img1');
+				var img2 = $e.data('img2');
+				var caption = $e.data('caption');
+				var size = $e.data('size');
+				var html = '<div class="b-before-after" data-b="beforeAfterSlidebar">' +
+						'<div class="b-before-after-section">' +
+						'<div class="b-before-after-slide1" data-el="topImage">' +
+						'<img class="b-before-after__image" style="width: 620px;" src="' + img1.replace('80x60',
+								size) + '" ' +
+						'alt=""/></div>' +
+						'<div class="b-before-after-slide2">' +
+						'<img class="b-before-after__image" style="width: 620px;" src="' + img2.replace('80x60',
+								size) + '" alt=""/></div>' +
+						'<div class="b-before-after-slider" data-el="sliderButton"></div>' +
+						'</div>' +
+						'<div class="b-before-after-caption">' +
+						'<span class="b-before-after-caption__info">'+caption+'</span></div></div>';
+
+				$e.wrap('<div id="'+id+'"></div>').parent().html(html);
+				$('body').on('mousemove', '#'+id+'>div', function(e) {
+					var offset = $(this).offset();
+					var iTopWidth = (e.pageX - offset.left);
+					$(this).find('[data-el="topImage"]').width(iTopWidth);
+					$(this).find('[data-el="sliderButton"]').css('left', iTopWidth);
+				});
+			});
+
+		});
+	</script>
+
+
+
+    
+
+
+
+
+
+
+
+            <div class="l-bigcol" data-bmm="lcol">
+
+                
+
+	
+	
+
+    
+    
+        <div class="b-article b-article_oldstyle _page_with_content">
+
+		
+
+<script type="text/javascript">
+	$().ready(function(){
+		
+		$('.b-voter ._byes, .b-voter ._bno').on('click', function(e) {
+			if ($(this).hasClass('voted'))
+				return false;
+			var n = '';
+			var ryn = $(this).find('span:last');
+			var voter = $(this).parents('.b-voter');
+			if (voter.data('name') != '' && typeof voter.data('name') != 'undefined') {
+				n = voter.data('name') + '';
+				n = n.replace(/nxs(\d+)\//, '');
+			}
+			$.ajax({
+				url: '',
+				type: 'GET',
+				dataType: 'json',
+				timeOut: 1000,
+				data: {
+					'_ctr': 'voteNew',
+					'action': 'vote',
+					'ajax': 1,
+					'variant': $(this).attr('variant'),
+					'id': 795624,
+					'name': n,
+									},
+				success: function (xml) {
+					voter.find('._voted').show();
+//                        voter.find('._ryes, ._rno').show();
+					ryn.text(ryn.text()*1+1);
+					voter.find('._byes').addClass('voted');
+					voter.find('._bno').addClass('voted');
+				}
+			});
+			return false;
+		});
+		
+		$('.b-voter').on('reload', function(e) {
+			var n = '';
+			var voter = $(this);
+			if (voter.data('name') != '' && typeof voter.data('name') != 'undefined') {
+				n = voter.data('name') + '';
+				n = n.replace(/nxs(\d+)\//, '');
+			}
+			$('._voted').hide();
+			$.ajax({
+				url: '',
+				type: 'GET',
+				dataType: 'json',
+				timeOut: 1000,
+				data: {
+					'_ctr': 'voteNew',
+					'action': 'getVoteData',
+					'ajax': 1,
+					'id': 795624,
+					'name': n,
+														},
+				success: function (xml) {
+					if (xml.canVote != undefined && xml.canVote == 0) {
+						voter.find('._byes').addClass('voted');
+						voter.find('._bno').addClass('voted');
+						voter.find('._ryes, ._rno').show();
+					}
+					else {
+						voter.find('._byes, ._bno').removeClass('voted');
+//                        	voter.find('._ryes, ._rno').hide();
+					}
+//                        $('#kpid').text($('._bigImage').attr('kpid'));
+					voter.find('._ryes').text(xml.rate_plus);
+					voter.find('._rno').text(xml.rate_minus);
+					voter.show();
+				}
+			});
+		});
+		$('.b-voter').trigger('reload');
+	});
+</script>
+
+
+		
+
+
+
+
+        <article class="b-article__body" data-bmm="articlebody">
+                                                    
+            
+                <h1 class="b-article__title">Расстрел протестующих: съемка со спины снайпера</h1>
+
+                
+
+<script>
+    $(function(){
+        // themes events
+                    
+                        });
+</script>
+
+    
+
+    
+
+
+                
+			
+
+            
+                
+
+<div class="b-social-share g-media__medium_visible" data-el="socialLeft">
+	<div class="b-social-share__list">
+		<a class="b-social-share__list-item b-social-share__list-item_vk" href="http://s.bigmir.net/share/?s=vkontakte&text=%D0%E0%F1%F1%F2%F0%E5%EB+%EF%F0%EE%F2%E5%F1%F2%F3%FE%F9%E8%F5%3A+%F1%FA%E5%EC%EA%E0+%F1%EE+%F1%EF%E8%ED%FB+%F1%ED%E0%E9%EF%E5%F0%E0" target="_blank" rel="nofollow" title="Разместить ссылку в Vkontakte"></a>
+		<a class="b-social-share__list-item b-social-share__list-item_fb" href="http://s.bigmir.net/share/?s=facebook&text=%D0%E0%F1%F1%F2%F0%E5%EB+%EF%F0%EE%F2%E5%F1%F2%F3%FE%F9%E8%F5%3A+%F1%FA%E5%EC%EA%E0+%F1%EE+%F1%EF%E8%ED%FB+%F1%ED%E0%E9%EF%E5%F0%E0" target="_blank" rel="nofollow" title="Разместить ссылку в Facebook"></a>
+		<a class="b-social-share__list-item b-social-share__list-item_tw" href="http://s.bigmir.net/share/?s=twitter&text=%D0%E0%F1%F1%F2%F0%E5%EB+%EF%F0%EE%F2%E5%F1%F2%F3%FE%F9%E8%F5%3A+%F1%FA%E5%EC%EA%E0+%F1%EE+%F1%EF%E8%ED%FB+%F1%ED%E0%E9%EF%E5%F0%E0" target="_blank" rel="nofollow" title="Разместить ссылку в Twitter"></a>
+		<a class="b-social-share__list-item b-social-share__list-item_gplus" href="http://s.bigmir.net/share/?s=googleplus&text=%D0%E0%F1%F1%F2%F0%E5%EB+%EF%F0%EE%F2%E5%F1%F2%F3%FE%F9%E8%F5%3A+%F1%FA%E5%EC%EA%E0+%F1%EE+%F1%EF%E8%ED%FB+%F1%ED%E0%E9%EF%E5%F0%E0" target="_blank" rel="nofollow" title="Разместить ссылку в Google Plus"></a>
+	</div>
+</div>
+
+<script>
+	$().ready(function(){
+		// init floating left social plugin
+		$(function() {
+			var $el = $('[data-el="socialLeft"]');
+			var offset = $el.offset();
+			var topPadding = 30; // equal to height of upper panel block
+			$(window).scroll(function() {
+//				var parentH = $el.parent().height();
+
+				if ($(window).scrollTop() > offset.top - topPadding) {
+					$el.addClass('is-fixed').css({
+						'left': offset.left
+					});
+
+					/*                if (parentH > $(window).scrollTop() - offset.top + topPadding) {
+					 $el.stop().animate({ marginTop: $(window).scrollTop() - offset.top + topPadding });
+					 } else {
+					 $el.stop().animate({ marginTop: parentH + topPadding });
+					 }*/
+				}
+				else {
+					$el.removeClass('is-fixed').css({
+						'left': 'auto'
+					});
+
+//                $el.stop().animate({ marginTop: 0 });
+				};
+			});
+		});
+	});
+</script>
+            
+
+			
+                                    <div class="b-article-metadata">
+                        <time class="b-article-metadata__element b-article-metadata__element_datetime">24&nbsp;февраля&nbsp'14&nbsp;10:07</time><a href="#comments" class="b-article-metadata__element b-article-metadata__element_comments">Комментариев: 52</a>
+
+
+                    </div>
+                
+			
+
+			
+                                                                                        <div class="b-article__description">«У вас боевое оружие?», - спрашивает журналист. «Нет, игрушечное!», - раздраженно отвечает снайпер. Потом уточняет «Мы в людей не стреляем».</div>
+                
+                
+                                                
+
+                <div class="b-article__text _articleContent">
+                    <p>В интернете появилось видео бойцов спецподразделения, которые <a href="http://news.bigmir.net/ukraine/795479-Pojavilos--polnoe-VIDEO-rasstrela-protestujucshih-na-Institutskoj">вели огонь по протестующим 20 февраля</a> на пересечение улиц Институтской и Банковой, сообщает <noindex><a target="_blank" href="http://lb.ua/news/2014/02/24/256849_poyavilos_novoe_video_rasstrela.html" rel="nofollow">LB.ua</a></noindex></p><p><div class="b-article-figure-container" data-wrap="original">
+							<figure class="b-article-figure b-article-figure_large">
+								<div class="b-article-figure__image-outer">
+									<img class="b-article-figure__image" src="//bm.img.com.ua/berlin/storage/news/600x500/4/33/175d70104131dce73b03382e14678334.jpg" alt="Снайпер стрелял по людям на углу Институтской и Банковой" data-el="image" />
+								</div>
+								<div class="b-article-figure__data" data-el="data">
+									<figcaption class="b-article-figure__caption" data-el="caption">Снайпер стрелял по людям на углу Институтской и Банковой</figcaption>
+									<span class="b-article-figure__source" data-el="source">youtube.com</span>
+								</div>
+							</figure>
+						</div></p><p><strong>ЧИТАЙ ТАКЖЕ:&nbsp;<a href="http://news.bigmir.net/ukraine/795576-Snaiperskoe-oryjie-obnaryjili-v-NBY---Mahnickii">Снайперское оружие обнаружили в НБУ - Махницкий</a></strong></p><p>Журналист канала Украина пытался пообщаться с бойцами, но те были немногословны. Когда же силовики приступили к активным действиям, очевидно, их командир произнес в адрес оператора: &quot;Слышишь, друг, ты же мне обещал, что не будешь снимать, правильно?&quot;.</p><p><div class="b-article-figure-container b-article-figure-container_alignleft" data-b="figure">
+							<figure class="b-article-figure b-article-figure_medium">
+								<div class="b-article-figure__image-outer">
+									<img class="b-article-figure__image" src="//bm.img.com.ua/berlin/storage/news/300x200/e/bd/de64c5ded2989886fbafd710a6048bde.jpg" alt="Спецназ привезли на БТРах" data-el="image" />
+								</div>
+								<div class="b-article-figure__data" data-el="data">
+									<figcaption class="b-article-figure__caption" data-el="caption">Спецназ привезли на БТРах</figcaption>
+									<span class="b-article-figure__source" data-el="source">youtube.com</span>
+								</div>
+							</figure>
+						</div><div class="b-article-figure-container b-article-figure-container_alignleft" data-b="figure">
+							<figure class="b-article-figure b-article-figure_medium">
+								<div class="b-article-figure__image-outer">
+									<img class="b-article-figure__image" src="//bm.img.com.ua/berlin/storage/news/300x200/6/45/86867e1d758b4ab02ff549d552962456.jpg" alt="Снайпер ведет прицельный огонь" data-el="image" />
+								</div>
+								<div class="b-article-figure__data" data-el="data">
+									<figcaption class="b-article-figure__caption" data-el="caption">Снайпер ведет прицельный огонь</figcaption>
+									<span class="b-article-figure__source" data-el="source">youtube.com</span>
+								</div>
+							</figure>
+						</div></p><p><div class="b-article-figure-container" data-wrap="original">
+							<figure class="b-article-figure b-article-figure_large">
+								<div class="b-article-figure__image-outer">
+									<img class="b-article-figure__image" src="//bm.img.com.ua/berlin/storage/news/600x500/1/c4/a2a6b04a08f904ac2a3bf0453b8b0c41.jpg" alt="Надпись на стене рядом с позицией Беркута" data-el="image" />
+								</div>
+								<div class="b-article-figure__data" data-el="data">
+									<figcaption class="b-article-figure__caption" data-el="caption">Надпись на стене рядом с позицией Беркута</figcaption>
+									<span class="b-article-figure__source" data-el="source">youtube.com</span>
+								</div>
+							</figure>
+						</div></p><p>Один из снайперов в это время сказал: &quot;Вижу окно открытое. За деревьями, за деревьями - стрелять не могу&quot;. Возможно, это касалось окна в гостинице &quot;Украина&quot;.</p><p><strong>ВИДЕО -&nbsp;Расстрел протестующих: съемка со спины снайпера</strong></p><p><span contenteditable="false"><iframe data-b='uppod-player' allowfullscreen width='620' height='350' frameborder='0' scrolling='No' border='0' src='http://news.bigmir.net/ukraine/795624-Rasstrel-protestujucshih--s-emka-so-spiny-snajpera?_tpl=video&video_num=0'></iframe></span></p><p>Источник видео:&nbsp;<noindex><a target="_blank" data-name="watch" data-sessionlink="feature=watch&amp;ei=0vgKU4qXF4qiwQO2ooCIDg" data-ytid="UCetdDFVb76a-RLup8xeBRgA" dir="ltr" href="http://www.youtube.com/channel/UCetdDFVb76a-RLup8xeBRgA?feature=watch" rel="nofollow">Pasta Karapuz</a></noindex></p><p>Ранее сообщалось, что по подсчетам медслужбы Майдана в Киеве 20 февраля <a href="http://news.bigmir.net/ukraine/794797-V-centre-Kieva-20-fevralya-ybito-ot-70-do-100-protestyushih---medslyjba-Maidana">были убиты до 100 человек</a>. По официальным <a href="http://news.bigmir.net/ukraine/795425-Minzdrav-v-rezyltate-stichek-v-Kieve-pogibli-82-cheloveka">данным Минздрава - 82 человека</a>.</p><p>СМОТРИ ТАКЖЕ на bigmir)net</p><p><img data-img-end="" data-img-start="" data-plugin="gallery2" data-purl="http://news.bigmir.net/xgallery/2014/794757-Glavnye-VIDEO-Evromajdana-18-20-fevralja-2014-goda" src="http://bm.img.com.ua/nxs236/berlin/storage/news/600x500/f/fc/3eb223eed6b16990b18c18b682fedfcf.jpg" title="Главные ВИДЕО Евромайдана 18-20 февраля 2014 года" /></p><p><strong>СМОТРИ ТАКЖЕ:&nbsp;<a href="http://news.bigmir.net/ukraine/795067-Snajper-v-Kieve-zastrelil-bezoruzhnogo-cheloveka">Снайпер в Киеве застрелил безоружного человека</a></strong></p>
+                    
+
+	                </div>
+                
+
+                
+                			
+
+            			
+            
+
+            <div class="b-article__footer g-clearfix">
+
+                <!-- share:4 -->
+
+
+
+
+
+    <div id="sharing-bottom" class="b-share">
+        <div class="b-share-column"><span class="b-share__text">Поделись:</span><a class="b-share__icon b-share__icon_vk"data-soc-type="vkontakte"data-soc-title="%D0%E0%F1%F1%F2%F0%E5%EB+%EF%F0%EE%F2%E5%F1%F2%F3%FE%F9%E8%F5%3A+%F1%FA%E5%EC%EA%E0+%F1%EE+%F1%EF%E8%ED%FB+%F1%ED%E0%E9%EF%E5%F0%E0"href="javascript:;" target="_blank" rel="nofollow" title="Разместить ссылку в Vkontakte"></a><a class="b-share__icon b-share__icon_fb"data-soc-type="facebook"data-soc-title="Расстрел протестующих: съемка со спины снайпера"href="javascript:;" target="_blank" rel="nofollow" title="Разместить ссылку в Facebook" ></a><a class="b-share__icon b-share__icon_tw"data-soc-type="twitter"data-soc-title="%D0%E0%F1%F1%F2%F0%E5%EB+%EF%F0%EE%F2%E5%F1%F2%F3%FE%F9%E8%F5%3A+%F1%FA%E5%EC%EA%E0+%F1%EE+%F1%EF%E8%ED%FB+%F1%ED%E0%E9%EF%E5%F0%E0"href="javascript:;" target="_blank" rel="nofollow" title="Разместить ссылку в Twitter"></a><a class="b-share__icon b-share__icon_gplus"data-soc-type="googleplus"href="javascript:;" target="_blank" rel="nofollow" title="Разместить ссылку в GooglePlus"></a><a class="b-share__icon b-share__icon_print" href="?_tplmode=print" target="_blank" rel="nofollow" title="Печать"></a><a class="b-share__icon b-share__icon_mail" hashonly="1" href="mailto:?subject=Rasstrel%20protestyushih%3A%20semka%20so%20spini%20snaipera&body=http://news.bigmir.net/ukraine/795624-Rasstrel-protestujucshih--s-emka-so-spiny-snajpera" rel="nofollow" title="Отправить другу"></a></div>    </div>
+                
+    <script>
+        $('#sharing-bottom a[data-soc-type]').click(function(){
+            if ($(this).attr('data-soc-type') == 'facebook'){
+                GShare.handle(this);
+            } else {
+                var elem = this;
+                var params = [];
+                var host = 'http://s.bigmir.net/share/';
+                for (var i = 0; i < elem.attributes.length; i++) {
+                    switch (elem.attributes[i].name) {
+                        case 'data-soc-title':
+                            params.push('text=' + elem.attributes[i].value);
+                            break;
+                        case 'data-soc-desc':
+                            params.push('desc=' + elem.attributes[i].value);
+                            break;
+                        case 'data-soc-img':
+                            // get img from css selector stored in 'data-soc-img'
+                            var $el_img = $(elem.attributes[i].value + ':visible');
+                            if ($el_img.length) {
+                                params.push('media=' + $el_img.attr('src'));
+                            }
+                            break;
+                        case 'data-soc-img-src':
+                            // get img from src stored in 'data-soc-img-src'
+                            if ($(elem).data('socImgSrc')) {
+                                if ($(elem).data('socImgSrc').substr(0, 4) != 'http') {
+                                    $(elem).data('socImgSrc', 'http:' + $(elem).data('socImgSrc'));
+                                }
+                                params.push('media=' + $(elem).data('socImgSrc'));
+                            }
+                            break;
+                        case 'data-soc-type':
+                            params.push('s=' + elem.attributes[i].value);
+                            break;
+                    }
+                }
+                params.push('url=' + document.location.href);
+                var query = host + '?' + params.join('&');
+                window.open(query, '_blank');
+            }
+            return false;
+        });
+        function GlobalShare()
+        {
+
+        }
+
+        // works only for facebook:
+        // dispatches needed method call, extracts params of 'data-soc'
+        // method to call is got from 'data-soc-type' value
+        // params extracted from 'data-soc-[some_param]' values
+        // url param is got from current document.location.href
+        GlobalShare.prototype.handle = function(elem)
+        {
+            var params = new Object();
+            for (var i = 0; i < elem.attributes.length; i++) {
+                if (elem.attributes[i].name == 'data-soc-type') {
+                    var method = elem.attributes[i].value;
+                }
+                if (elem.attributes[i].name.indexOf('data-soc') > -1) {
+                    var key = elem.attributes[i].name.substring(9);
+                    var value = elem.attributes[i].value;
+                    // data-soc-img content is jquery selector
+                    if (elem.attributes[i].name == 'data-soc-img') {
+                        value = '';
+                        var $el_img = $(elem.attributes[i].value + ':visible');
+                        if ($el_img.length){
+                            value = $el_img.attr('src');
+
+                            if ( value.substr(0,4) != 'http' ) {
+                                value = 'http:' + value;
+                            }
+                        }
+                    }
+                    // 'data-soc-img-src' content is src string
+                    if (elem.attributes[i].name == 'data-soc-img-src') {
+                        value = $(elem).data('socImgSrc');
+                        if (value) {
+                            if (value.substr(0,4) !='http') {
+                                value = 'http:' + value;
+                            }
+                            params['img'] = value;
+                        }
+                        value = false;
+                    }
+                    if (value)
+                        params[key] = value;
+                }
+            }
+            params['url'] = encodeURIComponent(document.location.href);
+            this[method](params);
+        };
+        GlobalShare.prototype.facebook = function(params)
+        {
+            var descSymbolLimit = 170;
+            var desc = params.desc || ($('meta[name="description"]').attr('content'));
+            var img = params.img || $('meta[property="og:image"]').attr('content');
+
+            if ( desc.length > descSymbolLimit ) {
+                desc = (desc.substring(0, descSymbolLimit)) + '...';
+            }
+            if ( img.substr(0,4) != 'http' ) {
+                img = 'http:' + img;
+            }
+
+            FB.ui({
+                method: 'feed',
+                display: 'popup',
+                name: params.title,
+                link: decodeURIComponent(params.url),
+                picture: img,
+                description: desc
+            });
+
+            return false;
+        };
+        var GShare = new GlobalShare();
+        window.fbAsyncInit = function() {
+            FB.init({
+                appId: 194342087279729,
+                status: true, cookie: true, xfbml: true,
+                channelUrl  : 'http://news.bigmir.net/fb_cu.html'  // custom channel
+            });
+        };
+
+        
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/ru_RU/all.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+        
+    </script>
+<!--end b-share -->
+
+                                                                            <div class="b-article__tags">
+                        <span class="b-article__tags-title">Теги:</span> <a class="b-article__tags-item" href="/tag/Евромайдан">Евромайдан</a>, <a class="b-article__tags-item" href="/tag/события+20+февраля">события 20 февраля</a>, <a class="b-article__tags-item" href="/tag/бои+на+Институтской">бои на Институтской</a>, <a class="b-article__tags-item" href="/tag/бои+в+Киеве">бои в Киеве</a>, <a class="b-article__tags-item" href="/tag/видео">видео</a>, <a class="b-article__tags-item" href="/tag/снайперы">снайперы</a>                    </div>
+                
+	                                <div class="b-follow g-clearfix">
+
+                
+                                    
+    
+    <div class="b-follow__header-outer">
+        <div class="b-follow__header">Не пропусти другие интересные статьи, подпишись:</div>
+    </div>
+
+    <ul class="b-follow__list">
+        <li class="b-follow__list-item"><div class="b-follow__list-item__title-outer"><a href="https://www.facebook.com/bigmir.net" class="b-follow__list-item__title" target="_blank">bigmir)net в facebook</a></div><script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.0";fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-like" data-href="https://www.facebook.com/bigmir.net" data-layout="standard" data-action="like" data-show-faces="true" data-share="false" data-width="310"></div></li><li class="b-follow__list-item"><div class="b-follow__list-item__title-outer"><a href="https://vk.com/bigmir" class="b-follow__list-item__title" target="_blank">bigmir)net ВКонтакте</a></div><style>#vk_subscribe iframe {height: 55px;}</style><script type="text/javascript" src="//vk.com/js/api/openapi.js?116"></script><!-- VK Widget --><div id="vk_subscribe"></div><script type="text/javascript">VK.Widgets.Subscribe("vk_subscribe", {height: 55}, -11577793);</script></li>
+    </ul>
+</div>
+	            
+                <div class="b-article__column">
+                                            
+
+
+
+                                        <div class="b-article__footer-part b-article__footer-part_error">Если вы заметили ошибку, выделите текст и нажмите Ctrl+Enter, чтобы сообщить об этом редакции</div>
+                </div>
+
+                <div class="b-article__column">
+                                    </div>
+            </div>
+            
+        </article>
+
+    </div>
+
+    
+                    
+
+                
+    
+    
+                                                                                                    
+                                                                                                                                                                
+	<div class="" data-bmm="ph_above_connected"><div class="g-cl_m"></div><span data-bmm="widget_431" data-bmm-title="in-page video banner"><script type="text/javascript">
+<!--
+
+// ASDFGH
+// http://news.bigmir.net/uk
+// 0
+// 1985
+
+var vhblockID=1985, date=new Date();
+document.write('<scr'+'ipt type="text/javascript" src="http://i.holder.com.ua/t/content.y'+
+(date.getFullYear()%100)+date.getMonth()+date.getDate()+'.js"></scr'+'ipt>');
+//-->
+</script></span><div class="g-cl_m"></div><div class="g-cl_m"></div><span data-bmm="widget_1417" data-bmm-title="Advark аналог контент-ролла НЕ для UA"><!-- should be visible only for non-ua -->
+<div id='advark_cr'></div>
+<script type='text/javascript'>
+    <!--
+        (function(){
+        if (!window.advark) window.advark = { id:'4579-3-1' };
+        if (!window.advark.s) window.advark.s = {};
+        window.advark.s.crElement = 'advark_cr'; // ID вашего элемента на странице (или DOM-элемент), где будет отображаться реклама
+        window.advark.s.crWidth = 640; // Ширина элемента при расхлопе
+        window.advark.s.crHeight = 360; // Высота элемента при расхлопе
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = 'http://s3.advarkads.com/modules/cr.js?v=' + Math.random();
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+    //-->
+</script></span><div class="g-cl_m"></div></div>
+
+    
+        <div class="g-cl"></div>
+        <div class="b-block" data-bmm="connectedarticles">
+
+            <header class="b-block__header-outer">
+                <h3 class="b-block__header">Статьи по теме</h3>
+            </header>
+
+            <div class="b-articles-connected">
+                <ul class="b-articles-connected__list"><li class="b-articles-connected__list-item"><div class="b-articles-connected__list-item-inner g-clearfix"><a onmouseup="GATracker.track('news', 'Украина ','ukraine/795353-Snaiper-strelyavshii-po-mitingyushim-ne-iz-specpodrazdeleniya-Alfa--nachalnik');" class="b-articles-connected__list-item__link" href="/ukraine/795353-Snaiper-strelyavshii-po-mitingyushim-ne-iz-specpodrazdeleniya-Alfa--nachalnik"><img class="b-articles-connected__list-item__image" src="http://bm.img.com.ua/nxs240/berlin/storage/news/120x90/0/68/1443babb614121ee0b6058b26048f680.jpg" alt="" /></a><div class="b-articles-connected__list-item__main"><a onmouseup="GATracker.track('news', 'Украина ','ukraine/795353-Snaiper-strelyavshii-po-mitingyushim-ne-iz-specpodrazdeleniya-Alfa--nachalnik');" class="b-articles-connected__list-item__title" href="/ukraine/795353-Snaiper-strelyavshii-po-mitingyushim-ne-iz-specpodrazdeleniya-Alfa--nachalnik">Снайпер, стрелявший по митингующим, не из спецподразделения...</a><a onmouseup="GATracker.track('news', 'Украина ','ukraine');" class="b-articles-connected__list-item__section" href="/ukraine"> Украина</a></div></div></li><li class="b-articles-connected__list-item"><div class="b-articles-connected__list-item-inner g-clearfix"><a onmouseup="GATracker.track('news', 'Украина ','ukraine/795234-Krovavii-Maidan-Kto-rasstrelival-mitingyushih-iz-snaiperskih-vintovok');" class="b-articles-connected__list-item__link" href="/ukraine/795234-Krovavii-Maidan-Kto-rasstrelival-mitingyushih-iz-snaiperskih-vintovok"><img class="b-articles-connected__list-item__image" src="http://bm.img.com.ua/nxs248/berlin/storage/news/120x90/c/29/c3fc006f1ff3162c48c9cd4eb42f529c.jpg" alt="" /></a><div class="b-articles-connected__list-item__main"><a onmouseup="GATracker.track('news', 'Украина ','ukraine/795234-Krovavii-Maidan-Kto-rasstrelival-mitingyushih-iz-snaiperskih-vintovok');" class="b-articles-connected__list-item__title" href="/ukraine/795234-Krovavii-Maidan-Kto-rasstrelival-mitingyushih-iz-snaiperskih-vintovok">Кровавый Майдан. Кто расстреливал митингующих из снайперских...</a><a onmouseup="GATracker.track('news', 'Украина ','ukraine');" class="b-articles-connected__list-item__section" href="/ukraine"> Украина</a></div></div></li><li class="b-articles-connected__list-item"><div class="b-articles-connected__list-item-inner g-clearfix"><a onmouseup="GATracker.track('news', 'Украина ','ukraine/795021-VIDEO-boev-v-Kieve-20-21-fevralja--Gotovy-li-vy-zhit--s-Janukovichem-do-dekabrja-');" class="b-articles-connected__list-item__link" href="/ukraine/795021-VIDEO-boev-v-Kieve-20-21-fevralja--Gotovy-li-vy-zhit--s-Janukovichem-do-dekabrja-"><img class="b-articles-connected__list-item__image" src="http://bm.img.com.ua/nxs91/berlin/storage/news/120x90/f/a3/8879359b279d05f971d9719b6a447a3f.jpg" alt="" /></a><div class="b-articles-connected__list-item__main"><a onmouseup="GATracker.track('news', 'Украина ','ukraine/795021-VIDEO-boev-v-Kieve-20-21-fevralja--Gotovy-li-vy-zhit--s-Janukovichem-do-dekabrja-');" class="b-articles-connected__list-item__title" href="/ukraine/795021-VIDEO-boev-v-Kieve-20-21-fevralja--Gotovy-li-vy-zhit--s-Janukovichem-do-dekabrja-">ВИДЕО боев в Киеве 20-21 февраля: Готовы ли вы жить с...</a><a onmouseup="GATracker.track('news', 'Украина ','ukraine');" class="b-articles-connected__list-item__section" href="/ukraine"> Украина</a></div></div></li><li class="b-articles-connected__list-item"><div class="b-articles-connected__list-item-inner g-clearfix"><a onmouseup="GATracker.track('news', 'Украина ','ukraine/795166-Naiden-snaiper-strelyavshii-na-Maidane-v-miliciu-i-mitingyushih-');" class="b-articles-connected__list-item__link" href="/ukraine/795166-Naiden-snaiper-strelyavshii-na-Maidane-v-miliciu-i-mitingyushih-"><img class="b-articles-connected__list-item__image" src="http://bm.img.com.ua/nxs282/berlin/storage/news/120x90/e/b5/af6edd1ae9ef947e52b0f30b66f40b5e.jpg" alt="" /></a><div class="b-articles-connected__list-item__main"><a onmouseup="GATracker.track('news', 'Украина ','ukraine/795166-Naiden-snaiper-strelyavshii-na-Maidane-v-miliciu-i-mitingyushih-');" class="b-articles-connected__list-item__title" href="/ukraine/795166-Naiden-snaiper-strelyavshii-na-Maidane-v-miliciu-i-mitingyushih-">Найден снайпер, стрелявший на Майдане в милицию и митингующих</a><a onmouseup="GATracker.track('news', 'Украина ','ukraine');" class="b-articles-connected__list-item__section" href="/ukraine"> Украина</a></div></div></li></ul>
+            </div>
+        </div>
+
+        <div class="g-cl"></div>
+    
+	<div class="" data-bmm="ph_below_connected"><div class="g-cl_m"></div><span data-bmm="widget_1645" data-bmm-title="Информер под статьями для dengi.ua"><div class="b-informer-partner"><a href="http://dengi.ua?utm_source=bigmir.net&utm_medium=informer&utm_campaign=dengi_on_bigmir_under_articles" target="_blank" class="b-informer-partner-logo"><img class="b-informer-partner-logo__img"src="http://v.img.com.ua/b/orig/c/a7/d3eb3f20276a3a8221f7aa743a960a7c.png" alt="img"></a><ul class="b-informer-partner-list"><li class="b-informer-partner-list-item b-informer-partner-list-item_details"><a class="b-informer-partner-link" target="_blank" href="http://dengi.ua/business/284961-Jertva-gigantov-pochemy-internet-veshei-mojet-poglotit-telekom-v-Ykraine?utm_source=bigmir.net&utm_medium=informer&utm_campaign=dengi_on_bigmir_under_articles"><div class="b-informer-partner-figure"><img class="b-informer-partner-figure__image" src="http://dengi.bm.img.com.ua/dengi/orig/3/2b/a74ff99e06f3b09a08350bc8032a52b3.jpg" alt="img"></div><span class="b-informer-partner-link__title">Жертва гигантов: почему интернет вещей может поглотить телеком в Украине</span></a></li><li class="b-informer-partner-list-item "><a class="b-informer-partner-link" target="_blank" href="http://dengi.ua/business/284910-TOP-24-samyh-bezzhalostnyh-pravitelja-v-istorii?utm_source=bigmir.net&utm_medium=informer&utm_campaign=dengi_on_bigmir_under_articles"><span class="b-informer-partner-link__title">ТОП-24 самых безжалостных правителя в истории</span></a></li><li class="b-informer-partner-list-item "><a class="b-informer-partner-link" target="_blank" href="http://dengi.ua/budget/284928-Skol-ko-dnej-otdyhajut-v-stranah-mira?utm_source=bigmir.net&utm_medium=informer&utm_campaign=dengi_on_bigmir_under_articles"><span class="b-informer-partner-link__title">Сколько дней отдыхают в странах мира</span></a></li></ul></div></span><div class="g-cl_m"></div><span data-bmm="widget_680" data-bmm-title="Карусель_630*125_Новости"><!-- System.Holder code
+site: 342 bigmir.net block: 2906 News (630x270) -->
+<script type="text/javascript" src="http://h.holder.com.ua/s?b2906&tj&hwww.bigmir.net/&r87796"></script></span></div>
+
+    
+            
+
+    
+                    <div class="" data-bmm="ph_above_comments_630"><div class="g-cl_m"></div><span data-bmm="widget_1313" data-bmm-title="Товарный информер marketgid #28465"><div id="1313_6246"></div><script>jQuery(document).on("geoloaded", function() {var gYes="", gNo="UA", g=jQuery(document).data("GEOIP_COUNTRY_CODE"); if ((gYes=="" || gYes.match(g)) && (gNo=="" || !gNo.match(g))) jQuery("#1313_6246").html("<!-- MarketGidComposite Start --> <div id=\"MarketGidScriptRootC580512\"> <div id=\"MarketGidPreloadC580512\"><\/div> <script> (function(){ var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById'; var i=d[ce]('iframe');i[st][ds]=n;d[gi](\"MarketGidScriptRootC580512\")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln(\"<ht\"+\"ml><bo\"+\"dy><\/bo\"+\"dy><\/ht\"+\"ml>\");iw.close();var c=iw[b];} catch(e){var iw=d;var c=d[gi](\"MarketGidScriptRootC580512\");}var dv=iw[ce]('div');dv.id=\"MG_ID\";dv[st][ds]=n;dv.innerHTML=580512;c[ac](dv); var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src=\"\/\/jsc.marketgid.com\/b\/i\/bigmir.net.580512.js?t=\"+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})(); <\/script> <\/div> <!-- MarketGidComposite End -->");});jQuery().ready(function(){jQuery.getJSON("//sg.bigmir.net/geoip/?get=simple", function(data) {jQuery(document).data("GEOIP_COUNTRY_CODE", data.GEOIP_COUNTRY_CODE); jQuery(document).trigger("geoloaded");});});</script></span></div>
+        
+        <a name="comments"></a>
+                               <div class="g-cl_m"></div>
+
+
+
+
+	<div class="g-cl"></div>
+	<!-- Global comment layer -->
+	<div id="comment_header_layer" class="b-comment">
+	<a id="CMNT_ANCHOR_0" name="CMNT_ANCHOR_0"></a>
+
+<div class="b-comment_form">
+	        <script type="text/javascript">
+            var global_comment_settings_text2='Добавить комментарий';
+            ;
+        </script>
+
+	<b style="font-size:16px;">Комментариев</b>&nbsp;<span class="g-small c-gray" id="CMNT_ID_TOTAL_QTY">(52)</span>
+
+
+	
+
+</div>
+
+
+
+
+	<!-- Блок добавить коммент
+	<div class="plashka pl_tech">
+		<div class="pl_out"></div>
+		<div class="pl_in"></div>
+		<div class="box_pad">
+			<div class="clear_small"></div>
+            
+			<b>Комментариев</b>&nbsp;<span class="gray small" id="CMNT_ID_TOTAL_QTY">(52)</span>
+
+            <div class="clear_small2"></div>
+            <div class="clear"></div>
+        </div>
+		<div class="boxing" style="padding-left:9px;margin-left:0px;margin:-1px 0 0 0 !ie;background:#fff9eb;width:614px !ie">
+
+	
+        </div>
+        <div class="clear2"></div>
+        <div id="brd456g" class="bord_b1" style="background:#FFECC5;margin-left:1px;"></div>
+        <div class="bord_b2"  style="margin-left:2px;"></div>
+
+	</div>
+ -->
+
+<div class="g-cl_m"></div>
+	
+	<!-- coment -->
+
+	<div class="coment1">
+
+	
+		<div class="g-fl">
+			<span class="g-small c-gray">Отсортировать по</span> <a href="?p=0&sort=ASC#CMNT_ANCHOR_0" class="g-small" title="Отсортировать по дате" onclick="return commHttpLoad([{name:'p', value:'0'}, {name:'sort', value:'ASC'}]);">дате&nbsp;<img src="//bm.img.com.ua/hp/img/down_strelka.gif" width="9" height="8" alt="Вниз" title="Вниз" /></a>
+		</div>
+
+		<div class="popup g-fr" id="imgLoaderStatus_1" style="position:relative;">
+
+			<img src="//bm.img.com.ua/hp/img/progress_bar.gif" />
+
+		</div>
+		<div class="g-cl_m"></div>
+
+			<div id="comment_threads">
+<script type="text/javascript" language="javascript">
+
+	function rateComment(inId) {
+
+		var vElem		= __$('rev_'+inId);
+		var vElemDiv	= __$('com_'+inId);
+		var vElemLine	= __$('com_line_'+inId);
+
+		if (vElem.rev=='show') {
+			vElem.rev = 'hide';
+			vElemDiv.style.display = 'none';
+			vElem.innerHTML = 'Показать';
+
+			if(vElemLine!=null)
+				vElemLine.style.display = 'block';
+		} else if (vElem.rev=='hide') {
+			vElem.rev = 'show';
+			vElemDiv.style.display = 'block';
+			vElem.innerHTML = 'Скрыть';
+
+			if(vElemLine!=null)
+				vElemLine.style.display = 'none';
+		}
+
+	}
+
+	function rateAJAX(inUserComId, inComId, inVal) {
+
+		var vars = [{'name':'comRateHttpReq', 'value':'1'}, {'name':'userComId', 'value':inUserComId}, {'name':'comId', 'value':inComId}, {'name':'valSwitch', 'value':inVal}];
+
+		var vSpan	= __$('rate_' + inComId);
+		var vBuffer	= vSpan.innerHTML;
+
+		var prikol2LoadObj = new UserHttpRequest(vars, 'http://news.bigmir.net/ukraine/795624-Rasstrel-protestujucshih--s-emka-so-spiny-snajpera');
+
+		prikol2LoadObj.onSate_Complete = function() {
+			var vBody=prikol2LoadObj.httpRequest.responseJS.body;
+			if (vBody=='not_allow') {
+				vBody = '';
+				vSpan.innerHTML = 'Вы уже проголосовали за этот комментарий!';
+			} else if (vBody=='error'||vBody=='') {
+				vBody = '';
+				vSpan.innerHTML = 'Ошибка';
+			}
+			vBody = vBody.replace(/[^-+\d]/g,'');
+			if(vBody) {
+				vSpan.innerHTML = vBuffer;
+				var oRateVal = __$('rate_val_' + inComId);
+				oRateVal.className = vBody == 0 ? "c-gray" : (vBody > 0 ? "comment_green" : "comment_red");
+				var vRateVal = oRateVal.innerHTML = "<b>" + vBody + "</b>";
+				var vRateJs = __$('rate_js_' + inComId);
+
+				if (vRateJs!=null) vRateJs.innerHTML = '';
+			}
+		}
+
+		prikol2LoadObj.Do_BeforSend = function() {
+			vSpan.innerHTML = '<img src="//bm.img.com.ua/hp/img/progress_bar.gif" />';
+		}
+
+		prikol2LoadObj.Do_After_ExceedTimeout = function() {
+			vSpan.innerHTML = vBuffer;
+		}
+
+		prikol2LoadObj.Load(true);
+	}
+</script>
+
+
+<a id="CMNT_ANCHOR_2682266" name="CMNT_ANCHOR_2682266"></a>
+
+<div style="margin-left:0px ; ">
+
+	<div class="g-fl"><span class="blu"><b>Andriy_Lyah</b></span>&nbsp;&nbsp;<span class="g-small c-gray">&nbsp;&nbsp;01.02.2015,&nbsp;11:47</span></div>
+
+		<div class="g-fr c-gray">
+
+		<span id="rate_2682266">Оценка:&nbsp;&nbsp;<span id="rate_val_2682266" class="comment_red"><b>-2</b></span>
+
+		
+		
+		</span>
+
+	</div>
+	
+	<div class="g-cl_s"></div>
+
+
+
+    <div id="com_2682266" style="display:block;">
+
+        <div style="margin-left:px">
+
+            <div id="com_line_2682266" class="b-comment_line" style="display:none;"><img src="//bm.img.com.ua/spacer.gif" width="1" height="1" alt="" /></div>
+
+            
+            <img src="//bm.img.com.ua/img/dnevnik/user_avatars/3131037.jpg?1" width="50" alt="Andriy_Lyah" title="Andriy_Lyah" class="g-fl imgborder_tech mar0px" />
+
+            
+            <div class="b-comment_line b-comment_p_s" style="margin-left:65px; ">
+
+                Слава Богу що ми цю сволоту здолали. А оці що на кадрах як їм зараз живеться після стількох їми вбитих!?
+                <div class="b-comment_mt"></div>
+
+                <div>
+
+                    
+                    
+                    
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+<div class="b-comment_answ">
+        
+    <div class="b-comment_form_answ insideform b-comment_mt" id="answ_CMNT_ID_2682266" style="display:none;">
+        <div id="CMNT_ID_2682266"></div>
+    </div>
+
+</div>
+
+<div class="g-cl_m"></div>
+<a id="CMNT_ANCHOR_2731921" name="CMNT_ANCHOR_2731921"></a>
+
+<div style="margin-left:59px ; ">
+
+	<div class="g-fl"><img src="http://i.bigmir.net/spacer.gif" alt="" title="" class="ic_comment_str" /><span class="blu"><b>Citsym</b></span>&nbsp;&nbsp;<span class="g-small c-gray">&nbsp;&nbsp;27.02.2015,&nbsp;09:20</span></div>
+
+		<div class="g-fr c-gray">
+
+		<span id="rate_2731921">Оценка:&nbsp;&nbsp;<span id="rate_val_2731921" class="comment_green"><b>+3</b></span>
+
+		
+		
+		</span>
+
+	</div>
+	
+	<div class="g-cl_s"></div>
+
+
+
+    <div id="com_2731921" style="display:block;">
+
+        <div style="margin-left:px">
+
+            <div id="com_line_2731921" class="b-comment_line" style="display:none;"><img src="//bm.img.com.ua/spacer.gif" width="1" height="1" alt="" /></div>
+
+            
+            <img src="//bm.img.com.ua/img/dnevnik/user_avatars/1403498.jpg?1" width="50" alt="Citsym" title="Citsym" class="g-fl imgborder_tech mar0px" />
+
+            
+            <div class="b-comment_line b-comment_p_s" style="margin-left:65px; ">
+
+                там улица вниз идет, снайперу, чтобы по людям стрелять надо было бы вниз целится, а он целится в окно гостинницы Украина, где и сидели вооруженные люди со снайперками , которые убийцы. КАк вы наивны и глупы, вам что не напишут во все верите.
+                <div class="b-comment_mt"></div>
+
+                <div>
+
+                    
+                    
+                    
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+<div class="b-comment_answ">
+        
+    <div class="b-comment_form_answ insideform b-comment_mt" id="answ_CMNT_ID_2731921" style="display:none;">
+        <div id="CMNT_ID_2731921"></div>
+    </div>
+
+</div>
+
+<div class="g-cl_m"></div>
+<a id="CMNT_ANCHOR_2682267" name="CMNT_ANCHOR_2682267"></a>
+
+<div style="margin-left:0px ; ">
+
+	<div class="g-fl"><span class="blu"><b>Andriy_Lyah</b></span>&nbsp;&nbsp;<span class="g-small c-gray">&nbsp;&nbsp;01.02.2015,&nbsp;11:47</span></div>
+
+		<div class="g-fr c-gray">
+
+		<span id="rate_2682267">Оценка:&nbsp;&nbsp;<span id="rate_val_2682267" class="comment_red"><b>-4</b></span>
+
+		
+		
+		</span>
+
+	</div>
+	
+	<div class="g-cl_s"></div>
+
+
+
+    <div id="com_2682267" style="display:block;">
+
+        <div style="margin-left:px">
+
+            <div id="com_line_2682267" class="b-comment_line" style="display:none;"><img src="//bm.img.com.ua/spacer.gif" width="1" height="1" alt="" /></div>
+
+            
+            <img src="//bm.img.com.ua/img/dnevnik/user_avatars/3131037.jpg?1" width="50" alt="Andriy_Lyah" title="Andriy_Lyah" class="g-fl imgborder_tech mar0px" />
+
+            
+            <div class="b-comment_line b-comment_p_s" style="margin-left:65px; ">
+
+                Маю надію що зараз не одна ця тварюка не жива, що їх всіх перебили в Донецьку наші бійці. Бо тільки там вони знайшли прихисток! Слава Україні Смерть ворогам!
+                <div class="b-comment_mt"></div>
+
+                <div>
+
+                    
+                    
+                    
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+<div class="b-comment_answ">
+        
+    <div class="b-comment_form_answ insideform b-comment_mt" id="answ_CMNT_ID_2682267" style="display:none;">
+        <div id="CMNT_ID_2682267"></div>
+    </div>
+
+</div>
+
+<div class="g-cl_m"></div>
+<a id="CMNT_ANCHOR_1987111" name="CMNT_ANCHOR_1987111"></a>
+
+<div style="margin-left:0px ; ">
+
+	<div class="g-fl"><span class="roz"><b>La_belle</b></span>&nbsp;&nbsp;<span class="g-small c-gray">&nbsp;&nbsp;24.02.2014,&nbsp;20:28</span></div>
+
+		<div class="g-fr c-gray">
+
+		<span id="rate_1987111">Оценка:&nbsp;&nbsp;<span id="rate_val_1987111" class="comment_green"><b>+8</b></span>
+
+		
+		
+		</span>
+
+	</div>
+	
+	<div class="g-cl_s"></div>
+
+
+
+    <div id="com_1987111" style="display:block;">
+
+        <div style="margin-left:px">
+
+            <div id="com_line_1987111" class="b-comment_line" style="display:none;"><img src="//bm.img.com.ua/spacer.gif" width="1" height="1" alt="" /></div>
+
+            
+            <img src="//bm.img.com.ua/img/dnevnik/user_avatars/2425803.jpg?1" width="50" alt="La_belle" title="La_belle" class="g-fl imgborder_tech mar0px" />
+
+            
+            <div class="b-comment_line b-comment_p_s" style="margin-left:65px; ">
+
+                эти сами прячутся от пуль, и кого-то выслеживают. чтоб прям народ расстреливали в этом видео не видно никак
+                <div class="b-comment_mt"></div>
+
+                <div>
+
+                    
+                    
+                    
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+<div class="b-comment_answ">
+        
+    <div class="b-comment_form_answ insideform b-comment_mt" id="answ_CMNT_ID_1987111" style="display:none;">
+        <div id="CMNT_ID_1987111"></div>
+    </div>
+
+</div>
+
+<div class="g-cl_m"></div>
+<a id="CMNT_ANCHOR_1991137" name="CMNT_ANCHOR_1991137"></a>
+
+<div style="margin-left:59px ; ">
+
+	<div class="g-fl"><img src="http://i.bigmir.net/spacer.gif" alt="" title="" class="ic_comment_str" /><span class="blu"><b>Xoxoл_UA</b></span>&nbsp;&nbsp;<span class="g-small c-gray">&nbsp;&nbsp;25.02.2014,&nbsp;17:02</span></div>
+
+		<div class="g-fr c-gray">
+
+		<span id="rate_1991137">Оценка:&nbsp;&nbsp;<span id="rate_val_1991137" class="comment_red"><b>-5</b></span>
+
+		
+		
+		</span>
+
+	</div>
+	
+	<div class="g-cl_s"></div>
+
+
+
+    <div id="com_1991137" style="display:block;">
+
+        <div style="margin-left:px">
+
+            <div id="com_line_1991137" class="b-comment_line" style="display:none;"><img src="//bm.img.com.ua/spacer.gif" width="1" height="1" alt="" /></div>
+
+            
+            <img src="//bm.img.com.ua/img/dnevnik/user_avatars/2105473.jpg?1" width="50" alt="Xoxoл_UA" title="Xoxoл_UA" class="g-fl imgborder_tech mar0px" />
+
+            
+            <div class="b-comment_line b-comment_p_s" style="margin-left:65px; ">
+
+                Глаза раззуй
+                <div class="b-comment_mt"></div>
+
+                <div>
+
+                    
+                    
+                    
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+<div class="b-comment_answ">
+        
+    <div class="b-comment_form_answ insideform b-comment_mt" id="answ_CMNT_ID_1991137" style="display:none;">
+        <div id="CMNT_ID_1991137"></div>
+    </div>
+
+</div>
+
+<div class="g-cl_m"></div>
+<a id="CMNT_ANCHOR_1995928" name="CMNT_ANCHOR_1995928"></a>
+
+<div style="margin-left:59px ; ">
+
+	<div class="g-fl"><img src="http://i.bigmir.net/spacer.gif" alt="" title="" class="ic_comment_str" /><span class="blu"><b>Gaib</b></span>&nbsp;&nbsp;<span class="g-small c-gray">&nbsp;&nbsp;26.02.2014,&nbsp;23:48</span></div>
+
+		<div class="g-fr c-gray">
+
+		<span id="rate_1995928">Оценка:&nbsp;&nbsp;<span id="rate_val_1995928" class="comment_green"><b>+9</b></span>
+
+		
+		
+		</span>
+
+	</div>
+	
+	<div class="g-cl_s"></div>
+
+
+
+    <div id="com_1995928" style="display:block;">
+
+        <div style="margin-left:px">
+
+            <div id="com_line_1995928" class="b-comment_line" style="display:none;"><img src="//bm.img.com.ua/spacer.gif" width="1" height="1" alt="" /></div>
+
+            
+            <img src="//bm.img.com.ua/img/dnevnik/user_avatars/2457459.jpg?1" width="50" alt="Gaib" title="Gaib" class="g-fl imgborder_tech mar0px" />
+
+            
+            <div class="b-comment_line b-comment_p_s" style="margin-left:65px; ">
+
+                согласен в наших СМИ сейчас все так. То фото где &quot;написанно снайпер ведет прицельный огонь&quot;, на видео человек ни разу не стрелял
+                <div class="b-comment_mt"></div>
+
+                <div>
+
+                    
+                    
+                    
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+<div class="b-comment_answ">
+        
+    <div class="b-comment_form_answ insideform b-comment_mt" id="answ_CMNT_ID_1995928" style="display:none;">
+        <div id="CMNT_ID_1995928"></div>
+    </div>
+
+</div>
+
+<div class="g-cl_m"></div>
+<a id="CMNT_ANCHOR_1986882" name="CMNT_ANCHOR_1986882"></a>
+
+<div style="margin-left:0px ; ">
+
+	<div class="g-fl"><span class="blu"><b>Lyon2</b></span>&nbsp;&nbsp;<span class="g-small c-gray">&nbsp;&nbsp;24.02.2014,&nbsp;17:13</span></div>
+
+		<div class="g-fr c-gray">
+
+		<span id="rate_1986882">Оценка:&nbsp;&nbsp;<span id="rate_val_1986882" class="comment_green"><b>+1</b></span>
+
+		
+		
+		</span>
+
+	</div>
+	
+	<div class="g-cl_s"></div>
+
+
+
+    <div id="com_1986882" style="display:block;">
+
+        <div style="margin-left:px">
+
+            <div id="com_line_1986882" class="b-comment_line" style="display:none;"><img src="//bm.img.com.ua/spacer.gif" width="1" height="1" alt="" /></div>
+
+            
+            <img src="//bm.img.com.ua/img/dnevnik/user_avatars/5796074.gif?2" width="50" alt="Lyon2" title="Lyon2" class="g-fl imgborder_tech mar0px" />
+
+            
+            <div class="b-comment_line b-comment_p_s" style="margin-left:65px; ">
+
+                нет ни чести, ни совести.кому такие защитники нужны.на народные деньги содержали карателей
+                <div class="b-comment_mt"></div>
+
+                <div>
+
+                    
+                    
+                    
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+<div class="b-comment_answ">
+        
+    <div class="b-comment_form_answ insideform b-comment_mt" id="answ_CMNT_ID_1986882" style="display:none;">
+        <div id="CMNT_ID_1986882"></div>
+    </div>
+
+</div>
+
+<div class="g-cl_m"></div>
+<a id="CMNT_ANCHOR_1986340" name="CMNT_ANCHOR_1986340"></a>
+
+<div style="margin-left:0px ; ">
+
+	<div class="g-fl"><span class="blu"><b>Shoostov</b></span>&nbsp;&nbsp;<span class="g-small c-gray">&nbsp;&nbsp;24.02.2014,&nbsp;15:30</span></div>
+
+		<div class="g-fr c-gray">
+
+		<span id="rate_1986340">Оценка:&nbsp;&nbsp;<span id="rate_val_1986340" class="comment_green"><b>+5</b></span>
+
+		
+		
+		</span>
+
+	</div>
+	
+	<div class="g-cl_s"></div>
+
+
+
+    <div id="com_1986340" style="display:block;">
+
+        <div style="margin-left:px">
+
+            <div id="com_line_1986340" class="b-comment_line" style="display:none;"><img src="//bm.img.com.ua/spacer.gif" width="1" height="1" alt="" /></div>
+
+            
+            <img src="//bm.img.com.ua/img/dnevnik/standart_avatars/mask_avatar.gif" width="50" alt="Shoostov" title="Shoostov" class="g-fl imgborder_tech mar0px" />
+
+            
+            <div class="b-comment_line b-comment_p_s" style="margin-left:65px; ">
+
+                И ни одного доказательства, что стреляли Беркута...
+                <div class="b-comment_mt"></div>
+
+                <div>
+
+                    
+                    
+                    
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+<div class="b-comment_answ">
+        
+    <div class="b-comment_form_answ insideform b-comment_mt" id="answ_CMNT_ID_1986340" style="display:none;">
+        <div id="CMNT_ID_1986340"></div>
+    </div>
+
+</div>
+
+<div class="g-cl_m"></div>
+<a id="CMNT_ANCHOR_1991151" name="CMNT_ANCHOR_1991151"></a>
+
+<div style="margin-left:59px ; ">
+
+	<div class="g-fl"><img src="http://i.bigmir.net/spacer.gif" alt="" title="" class="ic_comment_str" /><span class="blu"><b>Xoxoл_UA</b></span>&nbsp;&nbsp;<span class="g-small c-gray">&nbsp;&nbsp;25.02.2014,&nbsp;17:02</span></div>
+
+		<div class="g-fr c-gray">
+
+		<span id="rate_1991151">Оценка:&nbsp;&nbsp;<span id="rate_val_1991151" class="gray"><b>0</b></span>
+
+		
+		
+		</span>
+
+	</div>
+	
+	<div class="g-cl_s"></div>
+
+
+
+    <div id="com_1991151" style="display:block;">
+
+        <div style="margin-left:px">
+
+            <div id="com_line_1991151" class="b-comment_line" style="display:none;"><img src="//bm.img.com.ua/spacer.gif" width="1" height="1" alt="" /></div>
+
+            
+            <img src="//bm.img.com.ua/img/dnevnik/user_avatars/2105473.jpg?1" width="50" alt="Xoxoл_UA" title="Xoxoл_UA" class="g-fl imgborder_tech mar0px" />
+
+            
+            <div class="b-comment_line b-comment_p_s" style="margin-left:65px; ">
+
+                А кто тогда????   Ах да, я совсем забыл, это Российский спецназ. Путин отправил Яныка спасать. Какая нах разница, беркут или альфа, а может менты!? Стрельба велась со стороны контролируемой подразделениями МВД. Что Вам еще не понятно? А может на видео видно как самообороновцы лезли с автоматами,СВД?
+                <div class="b-comment_mt"></div>
+
+                <div>
+
+                    
+                    
+                    
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+<div class="b-comment_answ">
+        
+    <div class="b-comment_form_answ insideform b-comment_mt" id="answ_CMNT_ID_1991151" style="display:none;">
+        <div id="CMNT_ID_1991151"></div>
+    </div>
+
+</div>
+
+<div class="g-cl_m"></div>
+<a id="CMNT_ANCHOR_1991162" name="CMNT_ANCHOR_1991162"></a>
+
+<div style="margin-left:114px ; ">
+
+	<div class="g-fl"><img src="http://i.bigmir.net/spacer.gif" alt="" title="" class="ic_comment_str" /><span class="blu"><b>Xoxoл_UA</b></span>&nbsp;&nbsp;<span class="g-small c-gray">&nbsp;&nbsp;25.02.2014,&nbsp;17:02</span></div>
+
+		<div class="g-fr c-gray">
+
+		<span id="rate_1991162">Оценка:&nbsp;&nbsp;<span id="rate_val_1991162" class="comment_red"><b>-2</b></span>
+
+		
+		
+		</span>
+
+	</div>
+	
+	<div class="g-cl_s"></div>
+
+
+
+    <div id="com_1991162" style="display:block;">
+
+        <div style="margin-left:px">
+
+            <div id="com_line_1991162" class="b-comment_line" style="display:none;"><img src="//bm.img.com.ua/spacer.gif" width="1" height="1" alt="" /></div>
+
+            
+            <img src="//bm.img.com.ua/img/dnevnik/user_avatars/2105473.jpg?1" width="50" alt="Xoxoл_UA" title="Xoxoл_UA" class="g-fl imgborder_tech mar0px" />
+
+            
+            <div class="b-comment_line b-comment_p_s" style="margin-left:65px; ">
+
+                Или может погибшие пацаны сами подползали и стрелялись? что бы все подумали что в них беркут стрелял. Люди, откройте глаза.
+                <div class="b-comment_mt"></div>
+
+                <div>
+
+                    
+                    
+                    
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+<div class="b-comment_answ">
+        
+    <div class="b-comment_form_answ insideform b-comment_mt" id="answ_CMNT_ID_1991162" style="display:none;">
+        <div id="CMNT_ID_1991162"></div>
+    </div>
+
+</div>
+
+<div class="g-cl_m"></div>
+<a id="CMNT_ANCHOR_1986019" name="CMNT_ANCHOR_1986019"></a>
+
+<div style="margin-left:0px ; ">
+
+	<div class="g-fl"><span class="blu"><b>politota</b></span>&nbsp;&nbsp;<span class="g-small c-gray">&nbsp;&nbsp;24.02.2014,&nbsp;15:24</span></div>
+
+		<div class="g-fr c-gray">
+
+		<span id="rate_1986019">Оценка:&nbsp;&nbsp;<span id="rate_val_1986019" class="comment_green"><b>+3</b></span>
+
+		
+		
+		</span>
+
+	</div>
+	
+	<div class="g-cl_s"></div>
+
+
+
+    <div id="com_1986019" style="display:block;">
+
+        <div style="margin-left:px">
+
+            <div id="com_line_1986019" class="b-comment_line" style="display:none;"><img src="//bm.img.com.ua/spacer.gif" width="1" height="1" alt="" /></div>
+
+            
+            <img src="//bm.img.com.ua/img/dnevnik/user_avatars/5832206.jpg?1" width="50" alt="politota" title="politota" class="g-fl imgborder_tech mar0px" />
+
+            
+            <div class="b-comment_line b-comment_p_s" style="margin-left:65px; ">
+
+                Это не милиция. Экипировка отличная. Оружие модернизированное. Повязки какие-то. Ерунда.
+                <div class="b-comment_mt"></div>
+
+                <div>
+
+                    
+                    
+                    
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+<div class="b-comment_answ">
+        
+    <div class="b-comment_form_answ insideform b-comment_mt" id="answ_CMNT_ID_1986019" style="display:none;">
+        <div id="CMNT_ID_1986019"></div>
+    </div>
+
+</div>
+
+<div class="g-cl_m"></div>
+<a id="CMNT_ANCHOR_1986145" name="CMNT_ANCHOR_1986145"></a>
+
+<div style="margin-left:0px ; ">
+
+	<div class="g-fl"><span class="blu"><b>Омелян_Косопісь</b></span>&nbsp;&nbsp;<span class="g-small c-gray">&nbsp;&nbsp;24.02.2014,&nbsp;15:24</span></div>
+
+		<div class="g-fr c-gray">
+
+		<span id="rate_1986145">Оценка:&nbsp;&nbsp;<span id="rate_val_1986145" class="comment_green"><b>+6</b></span>
+
+		
+		
+		</span>
+
+	</div>
+	
+	<div class="g-cl_s"></div>
+
+
+
+    <div id="com_1986145" style="display:block;">
+
+        <div style="margin-left:px">
+
+            <div id="com_line_1986145" class="b-comment_line" style="display:none;"><img src="//bm.img.com.ua/spacer.gif" width="1" height="1" alt="" /></div>
+
+            
+            <img src="//bm.img.com.ua/img/dnevnik/user_avatars/2093791.jpg?1" width="50" alt="Омелян_Косопісь" title="Омелян_Косопісь" class="g-fl imgborder_tech mar0px" />
+
+            
+            <div class="b-comment_line b-comment_p_s" style="margin-left:65px; ">
+
+                Ну, і де вони стріляли, автор???? У цих &quot;спеців&quot; автомати АК74, а у тих беркутів (які до речі в різній формі і шоломах, це як розуміти??) автомати АКМС47, які вже давно не використовуються. Нині кругом використовується калібр 5.45, а у того &quot;беркута&quot; 7.62
+                <div class="b-comment_mt"></div>
+
+                <div>
+
+                    
+                    
+                    
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+<div class="b-comment_answ">
+        
+    <div class="b-comment_form_answ insideform b-comment_mt" id="answ_CMNT_ID_1986145" style="display:none;">
+        <div id="CMNT_ID_1986145"></div>
+    </div>
+
+</div>
+
+<div class="g-cl_m"></div>
+<a id="CMNT_ANCHOR_1986152" name="CMNT_ANCHOR_1986152"></a>
+
+<div style="margin-left:59px ; ">
+
+	<div class="g-fl"><img src="http://i.bigmir.net/spacer.gif" alt="" title="" class="ic_comment_str" /><span class="blu"><b>Омелян_Косопісь</b></span>&nbsp;&nbsp;<span class="g-small c-gray">&nbsp;&nbsp;24.02.2014,&nbsp;15:24</span></div>
+
+		<div class="g-fr c-gray">
+
+		<span id="rate_1986152">Оценка:&nbsp;&nbsp;<span id="rate_val_1986152" class="comment_red"><b>-4</b></span>
+
+		
+		
+		</span>
+
+	</div>
+	
+	<div class="g-cl_s"></div>
+
+
+
+    <div id="com_1986152" style="display:block;">
+
+        <div style="margin-left:px">
+
+            <div id="com_line_1986152" class="b-comment_line" style="display:none;"><img src="//bm.img.com.ua/spacer.gif" width="1" height="1" alt="" /></div>
+
+            
+            <img src="//bm.img.com.ua/img/dnevnik/user_avatars/2093791.jpg?1" width="50" alt="Омелян_Косопісь" title="Омелян_Косопісь" class="g-fl imgborder_tech mar0px" />
+
+            
+            <div class="b-comment_line b-comment_p_s" style="margin-left:65px; ">
+
+                а 7.62 заборонений для використання в автоматичній зброї уже багато років.
+                <div class="b-comment_mt"></div>
+
+                <div>
+
+                    
+                    
+                    
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+<div class="b-comment_answ">
+        
+    <div class="b-comment_form_answ insideform b-comment_mt" id="answ_CMNT_ID_1986152" style="display:none;">
+        <div id="CMNT_ID_1986152"></div>
+    </div>
+
+</div>
+
+<div class="g-cl_m"></div>
+<a id="CMNT_ANCHOR_1991183" name="CMNT_ANCHOR_1991183"></a>
+
+<div style="margin-left:114px ; ">
+
+	<div class="g-fl"><img src="http://i.bigmir.net/spacer.gif" alt="" title="" class="ic_comment_str" /><span class="blu"><b>Xoxoл_UA</b></span>&nbsp;&nbsp;<span class="g-small c-gray">&nbsp;&nbsp;25.02.2014,&nbsp;17:02</span></div>
+
+		<div class="g-fr c-gray">
+
+		<span id="rate_1991183">Оценка:&nbsp;&nbsp;<span id="rate_val_1991183" class="comment_red"><b>-4</b></span>
+
+		
+		
+		</span>
+
+	</div>
+	
+	<div class="g-cl_s"></div>
+
+
+
+    <div id="com_1991183" style="display:block;">
+
+        <div style="margin-left:px">
+
+            <div id="com_line_1991183" class="b-comment_line" style="display:none;"><img src="//bm.img.com.ua/spacer.gif" width="1" height="1" alt="" /></div>
+
+            
+            <img src="//bm.img.com.ua/img/dnevnik/user_avatars/2105473.jpg?1" width="50" alt="Xoxoл_UA" title="Xoxoл_UA" class="g-fl imgborder_tech mar0px" />
+
+            
+            <div class="b-comment_line b-comment_p_s" style="margin-left:65px; ">
+
+                Вот ты и ответил на свой вопрос, (7.62 заборонений для використання в автоматичній зброї уже багато років), так что спишем все на Титушек? Один фиг их не найти теперь. А форма на складах есть такая какой ты еще и в кино не видел.
+                <div class="b-comment_mt"></div>
+
+                <div>
+
+                    
+                    
+                    
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+<div class="b-comment_answ">
+        
+    <div class="b-comment_form_answ insideform b-comment_mt" id="answ_CMNT_ID_1991183" style="display:none;">
+        <div id="CMNT_ID_1991183"></div>
+    </div>
+
+</div>
+
+<div class="g-cl_m"></div>
+<a id="CMNT_ANCHOR_1985746" name="CMNT_ANCHOR_1985746"></a>
+
+<div style="margin-left:0px ; ">
+
+	<div class="g-fl"><span class="blu"><b>romanenkoyg</b></span>&nbsp;&nbsp;<span class="g-small c-gray">&nbsp;&nbsp;24.02.2014,&nbsp;14:57</span></div>
+
+		<div class="g-fr c-gray">
+
+		<span id="rate_1985746">Оценка:&nbsp;&nbsp;<span id="rate_val_1985746" class="comment_red"><b>-3</b></span>
+
+		
+		
+		</span>
+
+	</div>
+	
+	<div class="g-cl_s"></div>
+
+
+
+    <div id="com_1985746" style="display:block;">
+
+        <div style="margin-left:px">
+
+            <div id="com_line_1985746" class="b-comment_line" style="display:none;"><img src="//bm.img.com.ua/spacer.gif" width="1" height="1" alt="" /></div>
+
+            
+            <img src="//bm.img.com.ua/img/dnevnik/user_avatars/4994157.jpg?1" width="50" alt="romanenkoyg" title="romanenkoyg" class="g-fl imgborder_tech mar0px" />
+
+            
+            <div class="b-comment_line b-comment_p_s" style="margin-left:65px; ">
+
+                не милиция не причём, это всё экстремисты!!!
+                <div class="b-comment_mt"></div>
+
+                <div>
+
+                    
+                    
+                    
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+<div class="b-comment_answ">
+        
+    <div class="b-comment_form_answ insideform b-comment_mt" id="answ_CMNT_ID_1985746" style="display:none;">
+        <div id="CMNT_ID_1985746"></div>
+    </div>
+
+</div>
+
+<div class="g-cl_m"></div>
+<a id="CMNT_ANCHOR_1985492" name="CMNT_ANCHOR_1985492"></a>
+
+<div style="margin-left:0px ; ">
+
+	<div class="g-fl"><span class="blu"><b>Бунофортуна</b></span>&nbsp;&nbsp;<span class="g-small c-gray">&nbsp;&nbsp;24.02.2014,&nbsp;12:54</span></div>
+
+		<div class="g-fr c-gray">
+
+		<span id="rate_1985492">Оценка:&nbsp;&nbsp;<span id="rate_val_1985492" class="gray"><b>0</b></span>
+
+		
+		
+		</span>
+
+	</div>
+	
+	<div class="g-cl_s"></div>
+
+
+
+    <div id="com_1985492" style="display:block;">
+
+        <div style="margin-left:px">
+
+            <div id="com_line_1985492" class="b-comment_line" style="display:none;"><img src="//bm.img.com.ua/spacer.gif" width="1" height="1" alt="" /></div>
+
+            
+            <img src="//bm.img.com.ua/img/dnevnik/standart_avatars/mask_avatar.gif" width="50" alt="Бунофортуна" title="Бунофортуна" class="g-fl imgborder_tech mar0px" />
+
+            
+            <div class="b-comment_line b-comment_p_s" style="margin-left:65px; ">
+
+                В самом начале ролика четко виден крест на шевроне бойца, это крест МВД Донецкой области. И в середине ролика бойцы с шевронами подразделения барс, хотя не уверен, далековато.
+                <div class="b-comment_mt"></div>
+
+                <div>
+
+                    
+                    
+                    
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+<div class="b-comment_answ">
+        
+    <div class="b-comment_form_answ insideform b-comment_mt" id="answ_CMNT_ID_1985492" style="display:none;">
+        <div id="CMNT_ID_1985492"></div>
+    </div>
+
+</div>
+
+<div class="g-cl_m"></div>
+<a id="CMNT_ANCHOR_1985306" name="CMNT_ANCHOR_1985306"></a>
+
+<div style="margin-left:0px ; ">
+
+	<div class="g-fl"><span class="blu"><b>i-big1000</b></span>&nbsp;&nbsp;<span class="g-small c-gray">&nbsp;&nbsp;24.02.2014,&nbsp;12:03</span></div>
+
+		<div class="g-fr c-gray">
+
+		<span id="rate_1985306">Оценка:&nbsp;&nbsp;<span id="rate_val_1985306" class="gray"><b>0</b></span>
+
+		
+		
+		</span>
+
+	</div>
+	
+	<div class="g-cl_s"></div>
+
+
+
+    <div id="com_1985306" style="display:block;">
+
+        <div style="margin-left:px">
+
+            <div id="com_line_1985306" class="b-comment_line" style="display:none;"><img src="//bm.img.com.ua/spacer.gif" width="1" height="1" alt="" /></div>
+
+            
+            <img src="//bm.img.com.ua/img/dnevnik/standart_avatars/mask_avatar.gif" width="50" alt="i-big1000" title="i-big1000" class="g-fl imgborder_tech mar0px" />
+
+            
+            <div class="b-comment_line b-comment_p_s" style="margin-left:65px; ">
+
+                оружие походу без номеров
+                <div class="b-comment_mt"></div>
+
+                <div>
+
+                    
+                    
+                    
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+<div class="b-comment_answ">
+        
+    <div class="b-comment_form_answ insideform b-comment_mt" id="answ_CMNT_ID_1985306" style="display:none;">
+        <div id="CMNT_ID_1985306"></div>
+    </div>
+
+</div>
+
+<div class="g-cl_m"></div>	</div><!-- // end comment_threads -->		<!-- page navigator -->				<div class="fr popup" id="imgLoaderStatus_2" style="position:relative;"><img src="//bm.img.com.ua/hp/img/progress_bar.gif" /></div>		<div class="fl"><b>1</b>&nbsp;&nbsp;<a href="http://news.bigmir.net/ukraine/795624-Rasstrel-protestujucshih--s-emka-so-spiny-snajpera/?p=1&sort=DESC" onClick="return commHttpLoad([{name:'p', value:1}, {name:'sort', value:'DESC'}]);">2</a>&nbsp;&nbsp;<a href="http://news.bigmir.net/ukraine/795624-Rasstrel-protestujucshih--s-emka-so-spiny-snajpera/?p=2&sort=DESC" onClick="return commHttpLoad([{name:'p', value:2}, {name:'sort', value:'DESC'}]);">3</a>&nbsp;&nbsp;<a href="http://news.bigmir.net/ukraine/795624-Rasstrel-protestujucshih--s-emka-so-spiny-snajpera/?p=1&sort=DESC" title="следующая страница" onClick="return commHttpLoad([{name:'p', value:1}, {name:'sort', value:'DESC'}]);">следующая &rarr;</a></div>		<div class="clear"></div>		<!-- end page navigator -->	</div><!-- end coment -->	</div><!-- // End Global comment layer -->	<script type="text/javascript" language="JavaScript"><!--		// --- global comment variables container --- //		/*		window.commJsGlVar = {			bmImgServer : "//bm.img.com.ua/",			commCaptchaWebPath : "http://main.bigmir.net/include/c_captcha.inc.php",			commScriptFullUrl : "http://news.bigmir.net/ukraine/795624-Rasstrel-protestujucshih--s-emka-so-spiny-snajpera",			commTplIdPrefix : "CMNT_ID_",			commTplAnchorPrefix : "CMNT_ANCHOR_",			commNullId : "0",			commID : "0",			commErrorMsg : Boolean()		};		*/		// --- end comment global variables container --- //		$().ready(function(){			initComments(false);		});			var commSortOrder = "DESC";			//-->	</script>
+
+                    
+            
+
+    
+
+
+<script type="text/javascript">
+
+    $(function() {
+        $("._fancybox2").fancybox({
+            openEffect	: 'elastic',
+            closeEffect	: 'elastic',
+            helpers : {
+                title : {
+                    type : 'inside'
+                }
+            }
+        });
+    });
+
+</script>
+
+	
+
+
+                                    
+            
+    
+                                                                                                                        
+
+
+
+    <!-- |||||||||| -->
+
+    <div class="b-block b-tagcloud">
+        <header class="b-block__header-outer">
+            <h5 class="b-block__header">
+                
+                                Популярные теги
+            </h5>
+        </header>
+        <ul class="b-tagcloud__list">
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%D0%D4" >РФ</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%EA%F0%FB%EC" >крым</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%CF%EE%F0%EE%F8%E5%ED%EA%EE" >Порошенко</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%D1%E0%E0%EA%E0%F8%E2%E8%EB%E8" >Саакашвили</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%D1%E0%E2%E8%EA+%D8%F3%F1%F2%E5%F0" >Савик Шустер</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%D1%C1%D3" >СБУ</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%D7%E5%F0%ED%EE%E1%FB%EB%FC" >Чернобыль</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%F2%E5%F0%F0%EE%F0%E8%F1%F2%FB" >террористы</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%D3%EA%F0%E0%E8%ED%E0" >Украина</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%D7%C0%DD%D1" >ЧАЭС</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%DF%F6%E5%ED%FE%EA" >Яценюк</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%F1%F3%E4" >суд</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%CE%E4%E5%F1%F1%E0" >Одесса</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%C4%CD%D0" >ДНР</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%D0%EE%F1%F1%E8%FF" >Россия</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%EF%F3%F2%E8%ED" >путин</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%CA%E0%E1%EC%E8%ED" >Кабмин</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%F0%E0%E7%E2%E5%E4%EA%E0" >разведка</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%E2%EE%E9%ED%E0+%ED%E0+%C4%EE%ED%E1%E0%F1%F1%E5" >война на Донбассе</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%E2%E8%E4%E5%EE" >видео</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%F4%EE%F2%EE" >фото</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%E7%E0%EF%F0%E5%F2" >запрет</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%E8%F2%EE%E3%E8+%E4%ED%FF" >итоги дня</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%C4%EE%ED%E1%E0%F1%F1" >Донбасс</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%E1%EE%E5%E2%E8%EA%E8" >боевики</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%C0%D2%CE" >АТО</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%E6%F3%F0%ED%E0%EB%E8%F1%F2" >журналист</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%C3%D0%D3%F8%ED%E8%EA%E8" >ГРУшники</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%D1%E0%E2%F7%E5%ED%EA%EE" >Савченко</a>
+                                    </li>
+                    </ul>
+    </div>
+
+
+
+
+
+
+                                            
+                                    
+                <div class="g-cl"></div>
+            </div>
+        
+            <div class="l-smallcol _page_height_content" data-bmm="rcol" data-role="col-right">
+
+                
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+        
+            			
+                                            <div class="b-banner_sm"><span>Реклама</span><div class="g-cl"></div>
+                    <div id="banner_right_ph" class="right_banner">
+                        <script>
+                                new holder("banner_right_ph", {"delay":100,"block":1939,"keyword":typeof(holderKeyword) != "undefined" ? holderKeyword : ""} );
+                        </script>
+                    </div>
+                </div>
+                    
+    
+
+                                                    
+                    <div class="b-widgets g-clearfix" data-bmm="ph_320_below_rbanner"><span data-bmm="widget_1258" data-bmm-title="Товарный информер marketgid #28399"><div id="1258_4126"></div><script>jQuery(document).on("geoloaded", function() {var gYes="", gNo="UA", g=jQuery(document).data("GEOIP_COUNTRY_CODE"); if ((gYes=="" || gYes.match(g)) && (gNo=="" || !gNo.match(g))) jQuery("#1258_4126").html("<!-- MarketGidComposite Start --> <div id=\"MarketGidScriptRootC579344\"> <div id=\"MarketGidPreloadC579344\"><\/div> <script> (function(){ var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById'; var i=d[ce]('iframe');i[st][ds]=n;d[gi](\"MarketGidScriptRootC579344\")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln(\"<ht\"+\"ml><bo\"+\"dy><\/bo\"+\"dy><\/ht\"+\"ml>\");iw.close();var c=iw[b];} catch(e){var iw=d;var c=d[gi](\"MarketGidScriptRootC579344\");}var dv=iw[ce]('div');dv.id=\"MG_ID\";dv[st][ds]=n;dv.innerHTML=579344;c[ac](dv); var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src=\"\/\/jsc.marketgid.com\/b\/i\/bigmir.net.579344.js?t=\"+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})(); <\/script> <\/div> <!-- MarketGidComposite End -->");});</script></span><span data-bmm="widget_1184" data-bmm-title="Информер Liga.net"><iframe scrolling="no" frameborder="0" 
+src="http://www.liga.net/export/inf_bigmir_iframe.htm" width="320" 
+height="330" marginheight="0" marginwidth="0" 
+allowtransparency="true"></iframe></span><span data-bmm="widget_1173" data-bmm-title="Опрос Новости"><div id="1173_3442"></div><script>jQuery(document).on("geoloaded", function() {var gYes="UA", gNo="", g=jQuery(document).data("GEOIP_COUNTRY_CODE"); if ((gYes=="" || gYes.match(g)) && (gNo=="" || !gNo.match(g))) jQuery("#1173_3442").html("<!-- \u0441 \u0441\u0435\u0439\u0447\u0430\u0441 \u0434\u043e 2016-04-21 23:59 -->\r\n\r\n<div data-ajax=\"1\" data-container=\"poll\" data-purl=\"http:\/\/news.bigmir.net\/opros\/996016\" data-trigger_event=\"\" data-css_class=\"b-poll_small\">&nbsp;<\/div>\r\n<script>$('body').trigger('poll_init');<\/script>");});</script></span><span data-bmm="widget_1253" data-bmm-title="Курс теневого рынка валют 320"><div id="1253_6484"></div><script>jQuery(document).on("geoloaded", function() {var gYes="UA", gNo="", g=jQuery(document).data("GEOIP_COUNTRY_CODE"); if ((gYes=="" || gYes.match(g)) && (gNo=="" || !gNo.match(g))) jQuery("#1253_6484").html("<iframe src=\"http:\/\/sc.bigmir.net\/tmp\/currency\/?feature=rates\" width=\"100%\" height=\"202\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>");});</script></span><span data-bmm="widget_1257" data-bmm-title="Калькулятор валют финансы"><div id="1257_1580"></div><script>jQuery(document).on("geoloaded", function() {var gYes="UA", gNo="", g=jQuery(document).data("GEOIP_COUNTRY_CODE"); if ((gYes=="" || gYes.match(g)) && (gNo=="" || !gNo.match(g))) jQuery("#1257_1580").html("<iframe src=\"http:\/\/sc.bigmir.net\/tmp\/currency\/?feature=calc\" width=\"100%\" height=\"156\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>");});</script></span><span data-bmm="widget_1610" data-bmm-title="Dengi on Bigmir 320"><iframe scrolling="no" frameborder="0" src="http://dengi.ua/?_module=informers_dengi" style="width:320px; height:326px" marginheight="0" marginwidth="0" allowtransparency="true"></iframe></span><span data-bmm="widget_1452" data-bmm-title="Информер online.ua 320"><iframe frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0" style="width:320px; height:350px" src="http://news.online.ua/informer_bigmir_net.php" scrolling="no"></iframe></span><span data-bmm="widget_1119" data-bmm-title="JOIN для ГБМ не-Украина"><!-- System.Holder code
+site: 342 bigmir.net block: 4196 join_300x333 segment: 9317 join_300x333 (320x100) -->
+<script type="text/javascript" src="http://h.holder.com.ua/s?b4196&s9317&tj&hwww.bigmir.net/&r17664"></script></span></div>
+                    
+
+        
+
+
+                    
+
+
+
+
+
+            
+
+
+    
+    
+        
+        
+    <!-- holder banner + -->
+    <div class="b-banner_sm"><span>Реклама</span>
+		<div id="holder300"></div>
+	<script type="text/javascript">
+		var holder300 = null;
+        holder300 = new holder("holder300",{ block:1452});
+	</script>
+    </div>
+    <!-- holder banner - -->
+
+
+
+<div class="b-widgets g-clearfix" data-bmm="ph_320_below_rbanner2"><span data-bmm="widget_1460" data-bmm-title="SMI2 Информер на Новостях"><div id="unit_84706"><a href="http://smi2.net/">Новости СМИ2</a></div>
+<script type="text/javascript" charset="utf-8">
+  (function() {
+    var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+    sc.src = '//news.smi2.ru/data/js/84706.js'; sc.charset = 'utf-8';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+  }());
+</script></span><span data-bmm="widget_338" data-bmm-title="Гармошка Ивоны"><div id="338_3992"></div><script>jQuery(document).on("geoloaded", function() {var gYes="UA", gNo="", g=jQuery(document).data("GEOIP_COUNTRY_CODE"); if ((gYes=="" || gYes.match(g)) && (gNo=="" || !gNo.match(g))) jQuery("#338_3992").html("<style>\n        @font-face {\n            font-family: 'PT Sans';\n            src: url('\/\/www.bigmir.net\/fonts\/PTSans.eot');\n            src: local('PT Sans'), url('\/\/www.bigmir.net\/fonts\/PTSans.eot?#iefix') format('embedded-opentype'), url('\/\/www.bigmir.net\/fonts\/PTSans.woff') format('woff'), url('\/\/www.bigmir.net\/fonts\/PTSans.ttf') format('truetype'), url('\/\/www.bigmir.net\/fonts\/PTSans.svg#PT Sans') format('svg');\n            font-weight: normal;\n            font-style: normal\n            }\n        @font-face {\n            font-family: 'PT Sans Bold';\n            src: url('\/\/www.bigmir.net\/fonts\/PTSansBold.eot');\n            src: local('PT Sans Bold'), url('\/\/www.bigmir.net\/fonts\/PTSansBold.eot?#iefix') format('embedded-opentype'), url('\/\/www.bigmir.net\/fonts\/PTSansBold.woff') format('woff'), url('\/\/www.bigmir.net\/fonts\/PTSansBold.ttf') format('truetype'), url('\/\/www.bigmir.net\/fonts\/PTSansBold.svg#PT Sans Bold') format('svg');\n            font-weight: bold;\n            font-style: normal\n            }\n        .g-clearfix:before,\n        .g-clearfix:after {\n            content:\"\";\n            display:table\n            }\n        .g-clearfix:after {\n            clear:both\n            }\n            .lt-ie8 .g-clearfix {\n                zoom:1\n                }\n        .b-include {\n            margin-bottom: 20px;\n            padding-bottom: 5px;\n            border-bottom: 5px solid #333\n            }\n        .b-include__header {\n            display: inline-block;\n            margin: 0 0 -13px;\n            padding: 0 7px;\n            background: #fff;\n            vertical-align: middle\n            }\n        .lt-ie8 .b-include__header {\n            display: inline;\n            zoom: 1\n            }\n        .b-include__header-outer {\n            margin-bottom: 20px;\n            border-bottom: 2px solid #333;\n            text-align: center\n            }\n        .b-include__header-link {\n            font-size: 18px;\n\t\t\ttext-decoration: none;\n\t\t\tfont-weight: bold;\n            text-transform: uppercase;\n            }\n        .b-include_finance .b-include__header-link {\n            color: #3d76cc\n            }\n        .b-include_sport .b-include__header-link {\n            color: #1c8000\n            }\n        .b-include_techno .b-include__header-link {\n            color: #93a72a\n            }\n        .b-include_mport .b-include__header-link {\n            display: block;\n            width: 80px;\n            height: 26px;\n            background: #fff url(http:\/\/bm.img.com.ua\/a\/common\/img\/projects-logo-sprite.png) 0 0 no-repeat;\n            text-indent: -9999px\n            }\n        .b-include_ivona .b-include__header {\n            margin-bottom: -17px\n            }\n        .b-include_ivona .b-include__header-outer {\n            margin-bottom: 25px\n            }\n        .b-include_ivona .b-include__header-link {\n            display: block;\n            width: 84px;\n            height: 46px;\n            background: #fff url(http:\/\/bm.img.com.ua\/a\/common\/img\/projects-logo-sprite.png) 0 -27px no-repeat;\n            text-indent: -9999px\n            }\n        .b-include__list {\n            margin: 0;\n            padding: 0;\n            list-style: none;\n            margin-bottom: 15px\n            }\n        .b-include__list-item {\n            padding: 0;\n            background: none;\n            margin-top: 10px\n            }\n        .b-include__list-item:first-child {\n            margin-top: 0\n            }\n        .b-include__list-item__image {\n            -webkit-box-sizing: border-box;\n            -moz-box-sizing: border-box;\n            box-sizing: border-box;\n            display: block;\n            width: 120px;\n            height: 90px;\n            border: 1px solid #bfbfc0\n            }\n        .b-include__list-item__image-outer {\n            display: block;\n            float: left;\n            width: 120px;\n            height: 90px;\n            margin-right: 8px\n            }\n        .b-include__list-item__title {\n            font-family: 'PT Sans', Arial, sans-serif;\n            font-size: 16px;\n            line-height: 20px;\n            color: #333;\n            text-decoration: none;\n            }\n        .b-include__list-item__title:hover {\n            color: #333;\n            text-decoration: none\n            }\n        .b-include__list-item__title-outer {\n            margin: 0;\n            overflow: hidden;\n            font-weight: normal;\n            line-height: 20px;\n            }\n        .b-include__readmore {\n            margin-top: 15px\n            }\n        .b-include__readmore-link {\n            display: inline-block;\n            position: relative;\n            padding-right: 18px;\n            vertical-align: middle;\n            font-family: 'PT Sans', Arial, sans-serif;\n            font-size: 18px;\n            color: #3d76cc;\n            text-decoration: none;\n            }\n        .lt-ie8 .b-include__readmore-link {\n            display: inline;\n            zoom: 1\n            }\n        .lt-ie10 .b-include__readmore-link {\n            display: inline;\n            padding-right: 0\n            }\n        .b-include__readmore-link:before {\n            -webkit-transform: rotate(-45deg);\n            -moz-transform: rotate(-45deg);\n            -o-transform: rotate(-45deg);\n            transform: rotate(-45deg);\n            -webkit-backface-visibility: hidden;\n            -moz-backface-visibility: hidden;\n            -o-backface-visibility: hidden;\n            backface-visibility: hidden;\n            content: \"\";\n            position: absolute;\n            right: 0;\n            top: 50%;\n            width: 6px;\n            height: 6px;\n            margin-top: -3px;\n            border-right: 1px solid #3d76cc;\n            border-bottom: 1px solid #3d76cc\n            }\n        .lt-ie10 .b-include__readmore-link:before {\n            display: none\n            }\n        .b-include__readmore-link:after {\n            content: \"\";\n            position: absolute;\n            right: 0;\n            top: 50%;\n            width: 10px;\n            height: 0;\n            border-top: 1px solid #3d76cc\n            }\n        .lt-ie10 .b-include__readmore-link:after {\n            display: none\n            }\n    <\/style>\n\n    \n                \n                                             \n            <div class=\"b-include b-include_ivona\">\n                <header class=\"b-include__header-outer\">\n                    <h3 class=\"b-include__header\"><a href=\"http:\/\/ivona.bigmir.net?garmon_from_news=1\" class=\"b-include__header-link\" >\u0418\u0432\u043e\u043d\u0430<\/a><\/h3>\n                <\/header>\n\n                <ul class=\"b-include__list\"><li class=\"b-include__list-item g-clearfix\"><a class=\"b-include__list-item__image-outer\" href=\"http:\/\/ivona.bigmir.net\/showbiz\/431687-Evrovidenie-2016-Oleg-Skripka-prokommentiroval-pesnju-Dzhamaly?garmon_from_news=1\" ><img class=\"b-include__list-item__image\" src=\"http:\/\/v.img.com.ua\/nxs34\/b\/120x90\/2\/ab\/909e074670b9f8fff8a5211cddbd6ab2.jpg\" alt=\"\u0415\u0432\u0440\u043e\u0432\u0438\u0434\u0435\u043d\u0438\u0435 2016: \u041e\u043b\u0435\u0433 \u0421\u043a\u0440\u0438\u043f\u043a\u0430 \u043f\u0440\u043e\u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043b \u043f\u0435\u0441\u043d\u044e \u0414\u0436\u0430\u043c\u0430\u043b\u044b\" \/><\/a><h4 class=\"b-include__list-item__title-outer\"><a class=\"b-include__list-item__title\" href=\"http:\/\/ivona.bigmir.net\/showbiz\/431687-Evrovidenie-2016-Oleg-Skripka-prokommentiroval-pesnju-Dzhamaly?garmon_from_news=1\" >\u0415\u0432\u0440\u043e\u0432\u0438\u0434\u0435\u043d\u0438\u0435 2016: \u041e\u043b\u0435\u0433 \u0421\u043a\u0440\u0438\u043f\u043a\u0430 \u043f\u0440\u043e\u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043b \u043f\u0435\u0441\u043d\u044e \u0414\u0436\u0430\u043c\u0430\u043b\u044b<\/a><\/h4><\/li><li class=\"b-include__list-item g-clearfix\"><a class=\"b-include__list-item__image-outer\" href=\"http:\/\/ivona.bigmir.net\/showbiz\/431688-Stalo-izvestno-kto-stanet-novoj-Laroj-Kroft?garmon_from_news=1\" ><img class=\"b-include__list-item__image\" src=\"http:\/\/v.img.com.ua\/nxs110\/b\/120x90\/f\/3c\/e7ac9a309446e8671191992c1bf8b3cf.jpg\" alt=\"\u0421\u0442\u0430\u043b\u043e \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e, \u043a\u0442\u043e \u0441\u0442\u0430\u043d\u0435\u0442 \u043d\u043e\u0432\u043e\u0439 \u041b\u0430\u0440\u043e\u0439 \u041a\u0440\u043e\u0444\u0442\" \/><\/a><h4 class=\"b-include__list-item__title-outer\"><a class=\"b-include__list-item__title\" href=\"http:\/\/ivona.bigmir.net\/showbiz\/431688-Stalo-izvestno-kto-stanet-novoj-Laroj-Kroft?garmon_from_news=1\" >\u0421\u0442\u0430\u043b\u043e \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e, \u043a\u0442\u043e \u0441\u0442\u0430\u043d\u0435\u0442 \u043d\u043e\u0432\u043e\u0439 \u041b\u0430\u0440\u043e\u0439 \u041a\u0440\u043e\u0444\u0442<\/a><\/h4><\/li><li class=\"b-include__list-item g-clearfix\"><a class=\"b-include__list-item__image-outer\" href=\"http:\/\/ivona.bigmir.net\/showbiz\/news\/431689-Julija-Savicheva-zhdet-pervenca---SMI?garmon_from_news=1\" ><img class=\"b-include__list-item__image\" src=\"http:\/\/v.img.com.ua\/nxs220\/b\/120x90\/c\/69\/3c6c9c1cbc6ba7f256bbd986c9f1069c.jpg\" alt=\"\u042e\u043b\u0438\u044f \u0421\u0430\u0432\u0438\u0447\u0435\u0432\u0430 \u0436\u0434\u0435\u0442 \u043f\u0435\u0440\u0432\u0435\u043d\u0446\u0430 \u2013 \u0421\u041c\u0418\" \/><\/a><h4 class=\"b-include__list-item__title-outer\"><a class=\"b-include__list-item__title\" href=\"http:\/\/ivona.bigmir.net\/showbiz\/news\/431689-Julija-Savicheva-zhdet-pervenca---SMI?garmon_from_news=1\" >\u042e\u043b\u0438\u044f \u0421\u0430\u0432\u0438\u0447\u0435\u0432\u0430 \u0436\u0434\u0435\u0442 \u043f\u0435\u0440\u0432\u0435\u043d\u0446\u0430 \u2013 \u0421\u041c\u0418<\/a><\/h4><\/li><\/ul>\n                <div class=\"b-include__readmore\"><a class=\"b-include__readmore-link\" href=\"http:\/\/ivona.bigmir.net&garmon_from_news=1\" >\u0411\u043e\u043b\u044c\u0448\u0435 \u0441\u0442\u0430\u0442\u0435\u0439<\/a><\/div>\n            <\/div>");});</script></span></div> 
+                
+        
+        
+        
+
+            
+            
+
+
+
+<!--площадка 3294 3rd-->
+
+<div class="b-banner_sm g-clearfix">
+    <span>Реклама</span>    
+        <script>
+            if (typeof DISABLE_HOLDER == 'undefined' || !DISABLE_HOLDER) {
+                var hldr = "&r" + Math.round((Math.random() * 10000000));
+                document.cookie = "holder=1; path=/";
+                if (document.cookie)hldr += "&c1";
+                hldr += "&" + escape((self != top) ? "f" + document.referrer : "h" + window.location.href);
+                document.write('<iframe width="300" height="250" scrolling="no" src="http://h.holder.com.ua/s?b3294&tf' + hldr + '" frameborder="0" vspace="0" hspace="0" marginwidth="0" marginheight="0"></iframe>');
+            }
+        </script>
+    
+</div>
+
+
+    
+
+
+
+    <div class="g-cl_m"></div>
+    
+
+	
+
+    
+
+<div class="b-block b-block_nested">
+            <header class="b-block__header-outer">
+            <h3 class="b-block__header">Популярное видео</h3>
+        </header>
+        <div class="b-articles-popular">
+        <ul class="b-articles-popular__list">
+                    </ul>
+    </div>
+</div>
+	<div class="g-cl_m"></div>
+    
+    
+    		    	<div class="g-cl_m"></div>
+
+            
+                <!-- |||||||||||||||||||||||| -->
+
+        <div class="b-block">
+            <header class="b-block__header-outer">
+                <h3 class="b-block__header">
+                                            Мультимедиа
+                                    </h3>
+                <div class="b-block__control-outer"><button class="b-block__control b-block__control_prev _multLeft"></button><button class="b-block__control b-block__control_next _multRight"></button></div>
+            </header>
+            <div class="b-multimedia b-multimedia_small g-clearfix">
+                <ul class="b-multimedia__list">
+                                                                        <li class="b-multimedia__list-item b-multimedia__list-item_video  _multsubblock" >
+                                <ul class="b-multimedia__list-item__inner-list b-multimedia__list-item__inner-list_video">
+                                                                                                                    <li class="b-multimedia__list-item__inner-list-item">
+                                            <a class="b-multimedia__list-item__image-outer" href="/ukraine/996875-V-pol-zovanie-GSChS-peredali-medicinskij-samolet">
+                                                <img class="b-multimedia__list-item__image" src="http://bm.img.com.ua/nxs53/berlin/storage/news/114x60/2/be/47b41365933bc867c3ad46543461bbe2.jpg" alt="В пользование ГСЧС передали медицинский самолет"/>
+                                                                                            </a>
+                                            <div class="b-multimedia__list-item__title-outer">
+                                                <a  class="b-multimedia__list-item__title" href="/ukraine/996875-V-pol-zovanie-GSChS-peredali-medicinskij-samolet">В пользование ГСЧС передали медицинский самолет</a>
+                                                <time class="b-multimedia__list-item__pubdate">29&nbsp;апреля,&nbsp;14:33</time>
+                                                <a class="b-multimedia__list-item__section" href="/ukraine">Украина</a>
+                                            </div>
+                                        </li>
+                                                                                                                    <li class="b-multimedia__list-item__inner-list-item">
+                                            <a class="b-multimedia__list-item__image-outer" href="/ukraine/996810-Juzovskaja-vesna--zhurnalisty-snjali-fil-m-o-bor-be-za-ukrainskij-Doneck">
+                                                <img class="b-multimedia__list-item__image" src="http://bm.img.com.ua/nxs250/berlin/storage/news/114x60/b/dc/026dcf2f3fb0943b6cc5c7a52e241dcb.jpg" alt="Юзовская весна: журналисты сняли фильм о борьбе за украинский Донецк"/>
+                                                                                            </a>
+                                            <div class="b-multimedia__list-item__title-outer">
+                                                <a  class="b-multimedia__list-item__title" href="/ukraine/996810-Juzovskaja-vesna--zhurnalisty-snjali-fil-m-o-bor-be-za-ukrainskij-Doneck">Юзовская весна: журналисты сняли фильм о борьбе за украинский Донецк</a>
+                                                <time class="b-multimedia__list-item__pubdate">29&nbsp;апреля,&nbsp;12:18</time>
+                                                <a class="b-multimedia__list-item__section" href="/ukraine">Украина</a>
+                                            </div>
+                                        </li>
+                                                                                                                    <li class="b-multimedia__list-item__inner-list-item">
+                                            <a class="b-multimedia__list-item__image-outer" href="/ukraine/996668-Na-povyshennyh-tonah--kak-Marushevskaja-s-Nasirovym-govorila-">
+                                                <img class="b-multimedia__list-item__image" src="http://bm.img.com.ua/nxs40/berlin/storage/news/114x60/a/af/4f87c739d38965a635d4a6cf8375dafa.png" alt="На повышенных тонах: как Марушевская с Насировым говорила"/>
+                                                                                            </a>
+                                            <div class="b-multimedia__list-item__title-outer">
+                                                <a  class="b-multimedia__list-item__title" href="/ukraine/996668-Na-povyshennyh-tonah--kak-Marushevskaja-s-Nasirovym-govorila-">На повышенных тонах: как Марушевская с Насировым говорила</a>
+                                                <time class="b-multimedia__list-item__pubdate">28&nbsp;апреля,&nbsp;18:38</time>
+                                                <a class="b-multimedia__list-item__section" href="/ukraine">Украина</a>
+                                            </div>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                                                                                                <li class="b-multimedia__list-item b-multimedia__list-item_video  _multsubblock" style="display:none;">
+                                <ul class="b-multimedia__list-item__inner-list b-multimedia__list-item__inner-list_video">
+                                                                                                                    <li class="b-multimedia__list-item__inner-list-item">
+                                            <a class="b-multimedia__list-item__image-outer" href="/ukraine/996147-Itogi-26-aprelja--godovcshina-Chernobylja--skandal-s-Shusterom-i-besporjadki-v-Odesse">
+                                                <img class="b-multimedia__list-item__image" src="http://bm.img.com.ua/nxs248/berlin/storage/news/114x60/1/a2/486acf6d3f6917850bdc4c2ca154aa21.jpg" alt="Итоги 26 апреля: годовщина Чернобыля, скандал с Шустером и беспорядки в Одессе"/>
+                                                                                            </a>
+                                            <div class="b-multimedia__list-item__title-outer">
+                                                <a  class="b-multimedia__list-item__title" href="/ukraine/996147-Itogi-26-aprelja--godovcshina-Chernobylja--skandal-s-Shusterom-i-besporjadki-v-Odesse">Итоги 26 апреля: годовщина Чернобыля, скандал с Шустером и беспорядки в Одессе</a>
+                                                <time class="b-multimedia__list-item__pubdate">27&nbsp;апреля,&nbsp;9:00</time>
+                                                <a class="b-multimedia__list-item__section" href="/ukraine">Украина</a>
+                                            </div>
+                                        </li>
+                                                                                                                    <li class="b-multimedia__list-item__inner-list-item">
+                                            <a class="b-multimedia__list-item__image-outer" href="/ukraine/996002-Zhurnalisty-pokazali-nedostroennuju-AES-v-Krymu-30-let-spustja">
+                                                <img class="b-multimedia__list-item__image" src="http://bm.img.com.ua/nxs75/berlin/storage/news/114x60/6/37/dce6a585827e9580b8da7929c26ba376.jpg" alt="Журналисты показали недостроенную АЭС в Крыму 30 лет спустя"/>
+                                                                                            </a>
+                                            <div class="b-multimedia__list-item__title-outer">
+                                                <a  class="b-multimedia__list-item__title" href="/ukraine/996002-Zhurnalisty-pokazali-nedostroennuju-AES-v-Krymu-30-let-spustja">Журналисты показали недостроенную АЭС в Крыму 30 лет спустя</a>
+                                                <time class="b-multimedia__list-item__pubdate">26&nbsp;апреля,&nbsp;15:14</time>
+                                                <a class="b-multimedia__list-item__section" href="/ukraine">Украина</a>
+                                            </div>
+                                        </li>
+                                                                                                                    <li class="b-multimedia__list-item__inner-list-item">
+                                            <a class="b-multimedia__list-item__image-outer" href="/ukraine/995919-Chybarov-Iz-za-zapreta-Medjlisa-nyjno-ysilit-sankcii-protiv-RF">
+                                                <img class="b-multimedia__list-item__image" src="http://bm.img.com.ua/nxs226/berlin/storage/news/114x60/a/35/49060714a89d872c70ab9d13860cd35a.jpg" alt="Чубаров: Из-за запрета Меджлиса нужно усилить санкции против РФ"/>
+                                                                                            </a>
+                                            <div class="b-multimedia__list-item__title-outer">
+                                                <a  class="b-multimedia__list-item__title" href="/ukraine/995919-Chybarov-Iz-za-zapreta-Medjlisa-nyjno-ysilit-sankcii-protiv-RF">Чубаров: Из-за запрета Меджлиса нужно усилить санкции против РФ</a>
+                                                <time class="b-multimedia__list-item__pubdate">26&nbsp;апреля,&nbsp;12:00</time>
+                                                <a class="b-multimedia__list-item__section" href="/ukraine">Украина</a>
+                                            </div>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                                                                                                <li class="b-multimedia__list-item b-multimedia__list-item_video  _multsubblock" style="display:none;">
+                                <ul class="b-multimedia__list-item__inner-list b-multimedia__list-item__inner-list_video">
+                                                                                                                    <li class="b-multimedia__list-item__inner-list-item">
+                                            <a class="b-multimedia__list-item__image-outer" href="/ukraine/995899-Pri-popytke-dat--vzjatku-sotrudniku-SBU-zaderzhan-deputat">
+                                                <img class="b-multimedia__list-item__image" src="http://bm.img.com.ua/nxs102/berlin/storage/news/114x60/6/ce/beca4096cda2b6a4109c878ad1f3ece6.jpg" alt="При попытке дать взятку сотруднику СБУ задержан депутат"/>
+                                                                                            </a>
+                                            <div class="b-multimedia__list-item__title-outer">
+                                                <a  class="b-multimedia__list-item__title" href="/ukraine/995899-Pri-popytke-dat--vzjatku-sotrudniku-SBU-zaderzhan-deputat">При попытке дать взятку сотруднику СБУ задержан депутат</a>
+                                                <time class="b-multimedia__list-item__pubdate">26&nbsp;апреля,&nbsp;11:06</time>
+                                                <a class="b-multimedia__list-item__section" href="/ukraine">Украина</a>
+                                            </div>
+                                        </li>
+                                                                                                                    <li class="b-multimedia__list-item__inner-list-item">
+                                            <a class="b-multimedia__list-item__image-outer" href="/ukraine/995819-Opyblikovano-ekskluzivnoe-video-trenirovok-desantnikov-VSY">
+                                                <img class="b-multimedia__list-item__image" src="http://bm.img.com.ua/nxs282/berlin/storage/news/114x60/b/e2/d8904e29b6fceab3abc95e96d2a4fe2b.jpg" alt="Опубликовано эксклюзивное видео тренировок десантников ВСУ"/>
+                                                                                            </a>
+                                            <div class="b-multimedia__list-item__title-outer">
+                                                <a  class="b-multimedia__list-item__title" href="/ukraine/995819-Opyblikovano-ekskluzivnoe-video-trenirovok-desantnikov-VSY">Опубликовано эксклюзивное видео тренировок десантников ВСУ</a>
+                                                <time class="b-multimedia__list-item__pubdate">25&nbsp;апреля,&nbsp;20:20</time>
+                                                <a class="b-multimedia__list-item__section" href="/ukraine">Украина</a>
+                                            </div>
+                                        </li>
+                                                                                                                    <li class="b-multimedia__list-item__inner-list-item">
+                                            <a class="b-multimedia__list-item__image-outer" href="/ukraine/995778-MVD-pokazalo-fil-m--priurochennyj-k-godovcshine-Chernobyl-skoj-avarii">
+                                                <img class="b-multimedia__list-item__image" src="http://bm.img.com.ua/nxs132/berlin/storage/news/114x60/e/dc/ea2628e926df9ea2f9efaa3ed41b8dce.jpg" alt="МВД показало фильм, приуроченный к годовщине Чернобыльской аварии"/>
+                                                                                            </a>
+                                            <div class="b-multimedia__list-item__title-outer">
+                                                <a  class="b-multimedia__list-item__title" href="/ukraine/995778-MVD-pokazalo-fil-m--priurochennyj-k-godovcshine-Chernobyl-skoj-avarii">МВД показало фильм, приуроченный к годовщине Чернобыльской аварии</a>
+                                                <time class="b-multimedia__list-item__pubdate">25&nbsp;апреля,&nbsp;17:55</time>
+                                                <a class="b-multimedia__list-item__section" href="/ukraine">Украина</a>
+                                            </div>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                                                                                                <li class="b-multimedia__list-item b-multimedia__list-item_video  _multsubblock" style="display:none;">
+                                <ul class="b-multimedia__list-item__inner-list b-multimedia__list-item__inner-list_video">
+                                                                                                                    <li class="b-multimedia__list-item__inner-list-item">
+                                            <a class="b-multimedia__list-item__image-outer" href="/life/995751-Dvojniki-Pushkina-i-Lenina-ustroili-potasovku-vozle-Kremlja">
+                                                <img class="b-multimedia__list-item__image" src="http://bm.img.com.ua/nxs210/berlin/storage/news/114x60/7/dc/e3129b0341017de33a02a3a6d3340dc7.jpg" alt="Двойники Пушкина и Ленина устроили потасовку возле Кремля"/>
+                                                                                            </a>
+                                            <div class="b-multimedia__list-item__title-outer">
+                                                <a  class="b-multimedia__list-item__title" href="/life/995751-Dvojniki-Pushkina-i-Lenina-ustroili-potasovku-vozle-Kremlja">Двойники Пушкина и Ленина устроили потасовку возле Кремля</a>
+                                                <time class="b-multimedia__list-item__pubdate">25&nbsp;апреля,&nbsp;16:23</time>
+                                                <a class="b-multimedia__list-item__section" href="/life">Жизнь</a>
+                                            </div>
+                                        </li>
+                                                                                                                    <li class="b-multimedia__list-item__inner-list-item">
+                                            <a class="b-multimedia__list-item__image-outer" href="/ukraine/995704-V-Rossii-ynichtojili-20-tonn-poltavskoi-govyadini">
+                                                <img class="b-multimedia__list-item__image" src="http://bm.img.com.ua/nxs291/berlin/storage/news/114x60/a/85/eb832ef2da236131a5e987aef933d85a.jpg" alt="В России уничтожили 20 тонн полтавской говядины"/>
+                                                                                            </a>
+                                            <div class="b-multimedia__list-item__title-outer">
+                                                <a  class="b-multimedia__list-item__title" href="/ukraine/995704-V-Rossii-ynichtojili-20-tonn-poltavskoi-govyadini">В России уничтожили 20 тонн полтавской говядины</a>
+                                                <time class="b-multimedia__list-item__pubdate">25&nbsp;апреля,&nbsp;14:39</time>
+                                                <a class="b-multimedia__list-item__section" href="/ukraine">Украина</a>
+                                            </div>
+                                        </li>
+                                                                                                                    <li class="b-multimedia__list-item__inner-list-item">
+                                            <a class="b-multimedia__list-item__image-outer" href="/ukraine/995623-Grojsman-rasskazal-o-pervyh-dostizhenijah-Kabmina">
+                                                <img class="b-multimedia__list-item__image" src="http://bm.img.com.ua/nxs52/berlin/storage/news/114x60/5/11/e8debb37ad87adb05026a653223a4115.jpg" alt="Гройсман рассказал о первых достижениях Кабмина"/>
+                                                                                            </a>
+                                            <div class="b-multimedia__list-item__title-outer">
+                                                <a  class="b-multimedia__list-item__title" href="/ukraine/995623-Grojsman-rasskazal-o-pervyh-dostizhenijah-Kabmina">Гройсман рассказал о первых достижениях Кабмина</a>
+                                                <time class="b-multimedia__list-item__pubdate">25&nbsp;апреля,&nbsp;12:29</time>
+                                                <a class="b-multimedia__list-item__section" href="/ukraine">Украина</a>
+                                            </div>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                                                            </ul>
+            </div>
+        </div>
+
+    
+	
+    
+
+	
+	    	    
+	
+
+
+
+
+
+
+
+
+                
+                                            
+                            <div class="b-widgets g-clearfix" data-bmm="ph_r_bottom_320"><span data-bmm="widget_1095" data-bmm-title="Информер News Join"><!--  News Join -->
+
+<style>
+.join_informer_3171 * { border: none; padding: 0; margin: 0; }
+.join_informer_3171 { text-align:left; clear: both; padding: 0; }
+.join_container_3171 { border: 1px solid #cdcdcd; }
+.join_container_3171 .join_header { border-bottom: 1px solid #cdcdcd;
+color: black; font-size: 18px; text-align: center;}
+.join_informer_3171 a.join_link, a.join_text {font-size: 13px;
+font-family: Arial; margin-bottom:10px;
+color:#000000;text-decoration:none; font-weight:normal;}
+.join_informer_3171 a.join_link:hover, a.join_text:hover {
+color:#000000;text-decoration:underline;}
+.join_informer_3171 .join_img {width: 75px; height: 75px;  margin-right:
+2px; }
+</style>
+
+<div class="join_container_3171">
+<div class="join_header">Новости партнеров</div>
+<div class="join_informer_3171" id="join_informer_3171"></div>
+</div>
+
+<!-- Асинхронный код, 21.08.2014 -->
+<script type="text/javascript">  (function() {
+var i = document.createElement("script"); i.type = "text/javascript";
+i.async = true; i.charset = "UTF-8";
+i.src = "http://partner.join.com.ua/async/3171/";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(i, s);
+})();</script>
+<!--  News Join --></span><span data-bmm="widget_1085" data-bmm-title="Redtram"><div id="n4p_31438">Loading...</div>
+<script type="text/javascript" charset="utf-8">
+  (function(d,s){
+    var o=d.createElement(s);
+    o.async=true;
+    o.type="text/javascript";
+    o.charset="utf-8";
+    if (location.protocol == "https:") {
+      o.src="https://js-ru.redtram.com/n4p/0/31/ticker_31438.js";
+    }
+    else {
+      o.src="http://js.ru.redtram.com/n4p/0/31/ticker_31438.js";
+    }
+    var x=d.getElementsByTagName(s)[0];
+    x.parentNode.insertBefore(o,x);
+  })(document,"script");
+</script></span><span data-bmm="widget_56" data-bmm-title="news MarketGidNews"><div style="padding:9px; border-radius: 5px; -moz-border-radius:5px; -webkit-border-radius: 5px; border:1px #D6D6D6 solid;">
+
+<!-- MarketGidNews Start -->
+<div id="MarketGid10609"><center>
+<a href="http://marketgid.com/" target="_blank">Загрузка...</a>
+</center></div>
+<!-- MarketGidNews End -->
+<!-- pered </body> -->
+<script type="text/javascript">
+   var MarketGidDate = new Date();
+   document.write('<scr'+'ipt type="text/javascript" '
+   +'src="http://jsn.dt00.net/n/e/news.bigmir.net.10609.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()
+   + '" charset="windows-1251" ></scr'+'ipt>');
+   </script>
+
+</div></span><span data-bmm="widget_1311" data-bmm-title="Новости мира_320"><!-- System.Holder code bigmir.net bigmir_novostimira segment: bigmir_novostimira 320x220-->
+<script type="text/javascript">
+<!--
+(function(){var d=document,wl=window.location,p='http'+(wl.protocol=='https:'?'s:':':'),
+l="&r"+Math.round((Math.random()*10000000)),n=navigator.userAgent;
+d.cookie="b=1; path=/";if(d.cookie.indexOf('b=')!=-1&&!(n.indexOf('Safari')!=-1&&n.indexOf('Chrome')==-1))l+="&c1";
+l+="&"+escape((self!=top)?"f"+d.referrer:"h"+wl.href);
+d.write('<scr'+'ipt type="text/javascript" src="'+p+'//h.holder.com.ua/s?tj&b5174&s11186'+l+'"></scr'+'ipt>');})();
+//--></script></span></div>
+
+                           
+                                                            
+
+            </div>
+        </div>
+
+        <div class="g-cl_m"></div>
+        <div class="g-cl_sb"></div>
+        
+
+                            
+
+
+            
+        
+
+            
+<!-- for data-bmm on carousel "inside Ivona" when it's 3 or 4 items in it-->
+                <!--end data-bmm -->
+    <div class="b-block" data-bmm="carousel">
+                <header class="b-block__header-outer">
+            <h3 class="b-block__header">
+                                    Самое читаемое
+                            </h3>
+        </header>
+                <div class="b-carousel-inside b-carousel-inside_twocol  _carousel" qty="4">
+            <div class="b-carousel-inside__control-container">
+                <button class="b-carousel-inside__control b-carousel-inside__control_prev _carousel_prev">
+                    <span class="b-carousel-inside__control-inner"></span>
+                </button>
+                <button class="b-carousel-inside__control b-carousel-inside__control_next _carousel_next">
+                    <span class="b-carousel-inside__control-inner"></span>
+                </button>
+            </div>
+            <div class="b-carousel-inside__list-outer">
+                <ul class="b-carousel-inside__list _slider"><li class="b-carousel-inside__list-item _item" style="" title="РФ ответила США: самолет-разведчик &quot;подкрался&quot; к границе России"><h5 class="b-carousel-inside__list-item__category-outer"><a class="b-carousel-inside__list-item__category" href="/world">Мир</a></h5><a class="b-carousel-inside__list-item__link" href="/world/997050-RF-otvetila-SShA-samolet-razvedchik-podkralsya-k-granice-Rossii"><img class="b-carousel-inside__list-item__image" src="http://bm.img.com.ua/nxs159/berlin/storage/news/200x150/e/26/5f02d0cfd08e882f663005a76940d26e.jpg" alt=""/></a><a class="b-carousel-inside__list-item__main _title" href="/world/997050-RF-otvetila-SShA-samolet-razvedchik-podkralsya-k-granice-Rossii"><h4 class="b-carousel-inside__list-item__title">РФ ответила США: самолет-разведчик "подкрался"...</h4></a></li><li class="b-carousel-inside__list-item _item" style="" title="Глава УГКЦ призвал Кабмин отменить скидку на газ для церквей"><h5 class="b-carousel-inside__list-item__category-outer"><a class="b-carousel-inside__list-item__category" href="/ukraine">Украина</a></h5><a class="b-carousel-inside__list-item__link" href="/ukraine/997065-Glava-YGKC-prizval-Kabmin-otmenit-skidky-na-gaz-dlya-cerkvei"><img class="b-carousel-inside__list-item__image" src="http://bm.img.com.ua/nxs151/berlin/storage/news/200x150/0/2c/9c9926e8011aceb7c86de6d7f3e802c0.jpg" alt=""/></a><a class="b-carousel-inside__list-item__main _title" href="/ukraine/997065-Glava-YGKC-prizval-Kabmin-otmenit-skidky-na-gaz-dlya-cerkvei"><h4 class="b-carousel-inside__list-item__title">Глава УГКЦ призвал Кабмин отменить скидку на г...</h4></a></li><li class="b-carousel-inside__list-item _item" style="" title="Стрельба на Бесарабке: 20-летний парень получил ранение в голову"><h5 class="b-carousel-inside__list-item__category-outer"><a class="b-carousel-inside__list-item__category" href="/capital">Столица</a></h5><a class="b-carousel-inside__list-item__link" href="/capital/997058-Strel-ba-na-Besarabke--20-letnij-paren--poluchil-ranenie-v-golovu"><img class="b-carousel-inside__list-item__image" src="http://bm.img.com.ua/nxs290/berlin/storage/news/200x150/7/ab/5f1d6012d04f7e32d513e8c7aed7bab7.jpg" alt=""/></a><a class="b-carousel-inside__list-item__main _title" href="/capital/997058-Strel-ba-na-Besarabke--20-letnij-paren--poluchil-ranenie-v-golovu"><h4 class="b-carousel-inside__list-item__title">Стрельба на Бесарабке: 20-летний парень получи...</h4></a></li><li class="b-carousel-inside__list-item _item" style="" title="В Одессе усиливают охрану морских рубежей"><h5 class="b-carousel-inside__list-item__category-outer"><a class="b-carousel-inside__list-item__category" href="/ukraine">Украина</a></h5><a class="b-carousel-inside__list-item__link" href="/ukraine/997052-V-Odesse-ysilivaut-ohrany-morskih-rybejei"><img class="b-carousel-inside__list-item__image" src="http://bm.img.com.ua/nxs263/berlin/storage/news/200x150/e/e6/9674f9496334dc4336552e6f694b6e6e.jpg" alt=""/></a><a class="b-carousel-inside__list-item__main _title" href="/ukraine/997052-V-Odesse-ysilivaut-ohrany-morskih-rybejei"><h4 class="b-carousel-inside__list-item__title">В Одессе усиливают охрану морских рубежей</h4></a></li><li class="b-carousel-inside__list-item _item" style="display:none;" title="Разведка установила личность еще одного российского офицера на Донбассе"><h5 class="b-carousel-inside__list-item__category-outer"><a class="b-carousel-inside__list-item__category" href="/ukraine">Украина</a></h5><a class="b-carousel-inside__list-item__link" href="/ukraine/997053-Razvedka-ustanovila-lichnost--ecshe-odnogo-rossijskogo-oficera-na-Donbasse"><img class="b-carousel-inside__list-item__image" src="http://bm.img.com.ua/nxs187/berlin/storage/news/200x150/d/e9/a3f6c8b1df52828a147405d7cb809e9d.jpg" alt=""/></a><a class="b-carousel-inside__list-item__main _title" href="/ukraine/997053-Razvedka-ustanovila-lichnost--ecshe-odnogo-rossijskogo-oficera-na-Donbasse"><h4 class="b-carousel-inside__list-item__title">Разведка установила личность еще одного россий...</h4></a></li><li class="b-carousel-inside__list-item _item" style="display:none;" title="Начальник внутренней безопасности Нацполиции ушел с должности"><h5 class="b-carousel-inside__list-item__category-outer"><a class="b-carousel-inside__list-item__category" href="/ukraine">Украина</a></h5><a class="b-carousel-inside__list-item__link" href="/ukraine/997081-Nachalnik-vnytrennei-bezopasnosti-Nacpolicii-yshel-s-doljnosti"><img class="b-carousel-inside__list-item__image" src="http://bm.img.com.ua/nxs294/berlin/storage/news/200x150/0/d1/04255cbf3818d4790c036a525a23dd10.jpg" alt=""/></a><a class="b-carousel-inside__list-item__main _title" href="/ukraine/997081-Nachalnik-vnytrennei-bezopasnosti-Nacpolicii-yshel-s-doljnosti"><h4 class="b-carousel-inside__list-item__title">Начальник внутренней безопасности Нацполиции у...</h4></a></li><li class="b-carousel-inside__list-item _item" style="display:none;" title="Животные недели: удивленная панда и очаровательный кинг-конг"><h5 class="b-carousel-inside__list-item__category-outer"><a class="b-carousel-inside__list-item__category" href="/life">Жизнь</a></h5><a class="b-carousel-inside__list-item__link" href="/life/996945-Zhivotnye-nedeli--udivlennaja-panda-i-ocharovatel-nyj-king-kong"><img class="b-carousel-inside__list-item__image" src="http://bm.img.com.ua/nxs68/berlin/storage/news/200x150/5/24/47e2a000f002e165eb96d8c4d87a5245.jpg" alt=""/></a><a class="b-carousel-inside__list-item__main _title" href="/life/996945-Zhivotnye-nedeli--udivlennaja-panda-i-ocharovatel-nyj-king-kong"><h4 class="b-carousel-inside__list-item__title">Животные недели: удивленная панда и очаровател...</h4></a></li><li class="b-carousel-inside__list-item _item" style="display:none;" title="Кучма - РФ и боевикам: Выполните обязательства и прекратите огонь"><h5 class="b-carousel-inside__list-item__category-outer"><a class="b-carousel-inside__list-item__category" href="/ukraine">Украина</a></h5><a class="b-carousel-inside__list-item__link" href="/ukraine/997048-Kychma---RF-i-boevikam-Vipolnite-obyazatelstva-i-prekratite-ogon"><img class="b-carousel-inside__list-item__image" src="http://bm.img.com.ua/nxs185/berlin/storage/news/200x150/5/61/a5afa5a8e49d3b2d8304541a08e87615.jpg" alt=""/></a><a class="b-carousel-inside__list-item__main _title" href="/ukraine/997048-Kychma---RF-i-boevikam-Vipolnite-obyazatelstva-i-prekratite-ogon"><h4 class="b-carousel-inside__list-item__title">Кучма - РФ и боевикам: Выполните обязательства...</h4></a></li><li class="b-carousel-inside__list-item _item" style="display:none;" title="В Иерусалиме сошел Благодатный огонь"><h5 class="b-carousel-inside__list-item__category-outer"><a class="b-carousel-inside__list-item__category" href="/world">Мир</a></h5><a class="b-carousel-inside__list-item__link" href="/world/997062-V-Ierusalime-soshel-Blagodatnyj-ogon-"><img class="b-carousel-inside__list-item__image" src="http://bm.img.com.ua/nxs79/berlin/storage/news/200x150/4/fc/b0811702ef48f353e3ade7e8d9e73fc4.jpg" alt=""/></a><a class="b-carousel-inside__list-item__main _title" href="/world/997062-V-Ierusalime-soshel-Blagodatnyj-ogon-"><h4 class="b-carousel-inside__list-item__title">В Иерусалиме сошел Благодатный огонь</h4></a></li></ul>
+            </div>
+        </div>
+    </div>
+
+
+            
+        
+
+        <div class="g-cl"></div>
+	</div>
+
+
+        </div>
+
+    
+
+    
+        
+<footer class="l-footer" data-bmm="footer">
+            <div class="b-net-preview g-clearfix">
+                
+        <div class="obzor_seti_obolon"><div class="b-network g-small">
+                <div id="holder_980x90_0"></div>
+                <script type="text/javascript">
+                    new holder("holder_980x90_0",{block:4600,segment:10091});
+                </script>
+
+                <!-- PRICE.UA ADDITIONAL CODE -->
+
+                <style>
+                    .b-network {
+                        text-align: center;
+                        }
+
+                    #holder_bottom {
+                        display: inline-block;
+                        float: none !important;
+                        }
+
+                    .mtbottom_priceua.mtr3{display:inline-block}
+                    .mtbottom_priceua.mtr3{height:240px;}
+                    .mtbottom_priceua.mtr3:hover{background-color:#FFFFFF}
+                    .mtbottom_priceua.mtr3 table{border-spacing:1px 0px}
+                    .mtbottom_priceua.mtr3 tr{height:240px;}
+                    .mtbottom_priceua.mtr3 td{padding:0px;text-align:center!important;width:140px;}
+                    .mtbottom_priceua.mtr3 td:hover{background-color:#FFF}
+                    .mtbottom_priceua.mtr3 .img{width:130px;height:130px;border-width:1px;border-color:#333366;border-style:solid;;background-color: #ffffff}
+                    .mtbottom_priceua.mtr3.img-top .img{margin-bottom:1px}
+                    .mtbottom_priceua.mtr3.img-left .img{margin-right:1px}
+                    .mtbottom_priceua.mtr3.img-right .img{margin-left:1px}
+                    .mtbottom_priceua.mtr3.img-top .btn,
+                    .mtbottom_priceua.mtr3.img-left .btn,
+                    .mtbottom_priceua.mtr3.img-right .btn{margin-top:1px}
+                    .mtbottom_priceua.mtr3 .img:hover{width:130px;}
+                    .mtbottom_priceua.mtr3 .hdr a{font-family:Trebuchet MS, Helvetica, sans-serif;font-size:14px;color:#000080;font-weight:bold;text-decoration:none;font-style:none;}
+                    .mtbottom_priceua.mtr3 .hdr a:hover{font-size:14px;color:#e00;font-weight:normal;font-weight:bold;text-decoration:underline;font-style:none;}
+                    .mtbottom_priceua.mtr3 .txt a{font-family:Trebuchet MS, Helvetica, sans-serif;font-size:13px;color:#000000;font-weight:none;text-decoration:none;font-style:none;}
+                    .mtbottom_priceua.mtr3 .txt a:hover{font-size:13px;color:#e00;font-weight:none;text-decoration:underline;font-style:none;}
+                    .mtbottom_priceua.mtr3 .btn{background-color:#008000;padding:4px 8px;font-size:14px;left:50%;-moz-transform:translateX(-50%);-ms-transform:translateX(-50%);-webkit-transform:translateX(-50%);-o-transform:translateX(-50%);transform:r translateX(-50%);}
+                    .mtbottom_priceua.mtr3 .btn:hover{background-color:#999;font-size:13px}
+                    .mtbottom_priceua.mtr3 .btn a{color:#FFF;font-family:Trebuchet MS, Helvetica, sans-serif;font-weight:none;text-decoration:none;font-style:none;}
+                    .mtbottom_priceua.mtr3 .btn a:hover{color:#333;font-weight:none;text-decoration:none;font-style:none;}
+
+                </style>
+                <div class="mtr3 inner img-top mtbottom_priceua">
+                    <table id="PRICEUA">
+                        <td>
+                            <div class="img">
+                                <a href="http://price.ua/" class="_no_bm_clicks" target="_blank" onclick="(new Image()).src='http://h.holder.com.ua/s?b1585&amp;s3908&amp;tz&amp;a103902&amp;r='+Math.random();">
+                                    <img src="http://h.holder.com.ua/s?ti&b5540&c1"></a></div>
+                            <div class="hdr">
+                                <a href="http://price.ua/" class="_no_bm_clicks" target="_blank" onclick="(new Image()).src='http://h.holder.com.ua/s?b1585&amp;s3908&amp;tz&amp;a103902&amp;r='+Math.random();">	Поисковая <br>система цен</a></div>
+                            <div class="txt">
+                                <a href="http://price.ua/" class="_no_bm_clicks" target="_blank" onclick="(new Image()).src='http://h.holder.com.ua/s?b1585&amp;s3908&amp;tz&amp;a103902&amp;r='+Math.random();"></a></div>
+                            <div class="btn">
+                                <a href="http://price.ua/" class="_no_bm_clicks" target="_blank" onclick="(new Image()).src='http://h.holder.com.ua/s?b1585&amp;s3908&amp;tz&amp;a103902&amp;r='+Math.random();">Подробнее</a></div></td>
+                    </table>
+                </div>
+                <!-- PRICE.UA ADDITIONAL END -->
+                <div class="g-cl_m"></div>
+            </div>
+        </div>
+    
+
+        </div>
+    
+    <div class="b-footer">
+	    	        <div class="b-services__logo-outer">
+	            <a class="b-services__logo"  href="//bigmir.net"></a>
+	        </div>
+	    	    	        <div id="all_services">
+	            <ul class="b-services" data-el="services">
+	                <li class="b-services__part"><ul class="b-services__part__list"><li class="b-services__list-item"><a href="//auto.bigmir.net" class="b-services__list-item__title b-services__list-item__title_important">Авто</a></li><li class="b-services__list-item"><a href="//autosale.bigmir.net" class="b-services__list-item__title">Автопродажа</a></li><li class="b-services__list-item"><a href="//afisha.bigmir.net" class="b-services__list-item__title">Афиша</a></li><li class="b-services__list-item"><a href="//video.bigmir.net" class="b-services__list-item__title">Видео</a></li><li class="b-services__list-item"><a href="//otvet.bigmir.net" class="b-services__list-item__title">Вопрос-ответ</a></li></ul></li><li class="b-services__part"><ul class="b-services__part__list"><li class="b-services__list-item"><a href="//goroskop.bigmir.net" class="b-services__list-item__title">Гороскопы</a></li><li class="b-services__list-item"><a href="//dnevnik.bigmir.net" class="b-services__list-item__title">Дневники</a></li><li class="b-services__list-item"><a href="//love.bigmir.net" class="b-services__list-item__title">Знакомства</a></li><li class="b-services__list-item"><a href="//ivona.bigmir.net" class="b-services__list-item__title">Ivona</a></li><li class="b-services__list-item"><a href="//games.bigmir.net" class="b-services__list-item__title">Игры</a></li></ul></li><li class="b-services__part"><ul class="b-services__part__list"><li class="b-services__list-item"><a href="//map.bigmir.net" class="b-services__list-item__title">Карты</a></li><li class="b-services__list-item"><a href="//mport.ua?utm_source=news&utm_medium=link&utm_campaign=mport_on_bm_footer" class="b-services__list-item__title">MPort</a></li><li class="b-services__list-item"><a href="//finance.bigmir.net/realty/lun" class="b-services__list-item__title">Недвижимость</a></li><li class="b-services__list-item"><a href="//news.bigmir.net" class="b-services__list-item__title">Новости</a></li><li class="b-services__list-item"><a href="//market.bigmir.net/" class="b-services__list-item__title">Онлайн-магазин</a></li></ul></li><li class="b-services__part"><ul class="b-services__part__list"><li class="b-services__list-item"><a href="//cards.bigmir.net" class="b-services__list-item__title">Открытки</a></li><li class="b-services__list-item"><a href="//weather.bigmir.net" class="b-services__list-item__title">Погода</a></li><li class="b-services__list-item"><a href="//mail.bigmir.net" class="b-services__list-item__title">Почта</a></li><li class="b-services__list-item"><a href="//prikol.bigmir.net" class="b-services__list-item__title">Приколы</a></li><li class="b-services__list-item"><a href="//finance.bigmir.net/jooble" class="b-services__list-item__title">Работа</a></li><!-- temp fix column length --></ul></li><li class="b-services__part"><ul class="b-services__part__list"><li class="b-services__list-item"><a href="//top.bigmir.net" class="b-services__list-item__title">Рейтинг</a></li><li class="b-services__list-item"><a href="//sun.bigmir.net" class="b-services__list-item__title">Sun</a></li><li class="b-services__list-item"><a href="//sport.bigmir.net" class="b-services__list-item__title">Спорт</a></li><li class="b-services__list-item"><a href="//techno.bigmir.net" class="b-services__list-item__title">Техно</a></li><li class="b-services__list-item"><a href="//tour.bigmir.net" class="b-services__list-item__title">Туризм</a></li></ul></li><li class="b-services__part b-services__part_short"><ul class="b-services__part__list"><li class="b-services__list-item"><a href="//finance.bigmir.net" class="b-services__list-item__title">Финансы</a></li><li class="b-services__list-item"><a href="//photo.bigmir.net" class="b-services__list-item__title">Фото</a></li><li class="b-services__list-item"><a href="//ivona.bigmir.net/showbiz" class="b-services__list-item__title">Шоу-Biz</a></li></ul></li>
+	            </ul>
+	        </div>
+	            <div class="b-copyright">
+            <div class="b-copyright__promo">Материалы, отмеченные знаками "Реклама", "PR", "Спецпроект", "Новости компаний", "Актуально", "Промо", публикуются на правах рекламы.</div>
+                            <div class="b-copyright__text">&copy; 2000-2016, ООО "ДИДЖИТАЛ ВЕНЧЕЗ". Все права защищены.</div>
+                        <ul class="b-copyright__list">
+                <li class="b-copyright__list-item"><a class="b-copyright__list-item__title" href="//info.bigmir.net/">Помощь</a></li>
+                <li class="b-copyright__list-item">
+                                            <a class="b-copyright__list-item__title" href="//info.bigmir.net/rules_bigmir">Правила</a>
+                                    </li>
+                <li class="b-copyright__list-item"><a class="b-copyright__list-item__title" href="mailto:info@bigmir.net">Связаться&nbsp;с&nbsp;нами</a></li>
+                <li class="b-copyright__list-item"><a class="b-copyright__list-item__title" href="mailto:info@bigmir.net">Разместить&nbsp;свои&nbsp;видеоматериалы</a></li>
+                <li class="b-copyright__list-item"><a class="b-copyright__list-item__title" href="//info.bigmir.net/materials">Использование&nbsp;материалов</a></li><br>
+                <li class="b-copyright__list-item"><a class="b-copyright__list-item__title" href="//info.bigmir.net/contract">Пользовательское&nbsp;Соглашение</a></li>
+                <li class="b-copyright__list-item"><a class="b-copyright__list-item__title" href="//info.bigmir.net/privacy_policy">Политика&nbsp;в&nbsp;сфере&nbsp;конфиденциальности&nbsp;и&nbsp;персональных&nbsp;данных</a></li>
+                <li class="b-copyright__list-item"><a class="b-copyright__list-item__title" href="//job.i.ua/info/vacancy/692624/" target="_blank" rel="nofollow">Вакансии</a></li>
+            </ul>
+            <ul class="b-copyright__list">
+                <li class="b-copyright__list-item">Реклама&nbsp;на&nbsp;сайте:</li>
+                <li class="b-copyright__list-item"><a class="b-copyright__list-item__title" href="//digimedia.com.ua/" target="_blank">Cейлз-хаус "Диджимедиа"</a></li>
+                <li class="b-copyright__list-item"><a class="b-copyright__list-item__title" href="//mi6.ua/feedback" target="_blank">Интернет-агентство "МІ6"</a></li>
+                <li class="b-copyright__list-item"><a class="b-copyright__list-item__title" href="//special.bigmir.net/" target="_blank">Наши спецпроекты</a></li>
+            </ul>
+        </div>
+    </div>
+</footer>
+<script>
+    
+    $(window).load(function (){
+        var showFooter = false;
+        $(window).on('scroll', function() {
+            var pageScroll = window.pageYOffset || document.documentElement.scrollTop,
+                bottomScroll = pageScroll + $(window).height(),
+                footerTop = $('[data-bmm="footer"]').offset().top;
+            if(bottomScroll > footerTop){
+                if (!showFooter){
+                    (new Image()).src='http://h.holder.com.ua/s?b1585&s3908&tz&a93677&r'+Math.random();
+                    showFooter = true;
+                }
+            }else {
+                showFooter = false;
+            }
+        });
+    });
+    
+</script>
+    
+
+</div>
+
+<div class="b-disclaimer" data-b="cookie">
+    <div class="b-disclaimer__content">
+        <div>Для удобства пользования сайтом используются Cookies.  Подробнее <a href="http://info.bigmir.net/privacy_policy" class="b-disclaimer__link">здесь</a></div>
+        <span class="b-disclaimer__button" data-el="close" title="Закрыть"></span>
+    </div>
+</div>
+
+<script>
+
+function setCookie(name, value, expires, path, domain, secure) {
+    if (expires == undefined) expires = 30;
+    if (path == undefined) path = '/';
+    if (domain == undefined) domain = '';
+    var today = new Date();
+    today.setTime(today.getTime());
+    if (expires) expires = expires * 1000 * 60 * 60 * 24;
+    var expires_date = new Date(today.getTime() + (expires));
+    document.cookie = name + "=" + escape(value) +
+            ( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +
+            ( ( path ) ? ";path=" + path : "" ) +
+            ( ( domain ) ? ";domain=" + domain : "" ) +
+            ( ( secure ) ? ";secure" : "" );
+}
+
+function getCookie(c_name) {
+    if (document.cookie.length>0) {
+        c_start=document.cookie.indexOf(c_name + "=");
+        if (c_start!=-1) {
+            c_start=c_start + c_name.length+1;
+            c_end=document.cookie.indexOf(";",c_start);
+            if (c_end==-1) c_end=document.cookie.length;
+            return unescape(document.cookie.substring(c_start,c_end));
+        }
+    }
+    return "";
+}
+
+$().ready(function() {
+    var showCookieDisclaimer = getCookie('bm_cookie_disclaimer');
+    if (showCookieDisclaimer == '') {
+        $('[data-b="cookie"]').show();
+        $('[data-b="cookie"]').find('[data-el="close"]').on('click', function() {
+            $('[data-b="cookie"]').slideUp();
+            setCookie('bm_cookie_disclaimer', 1, 30);
+        });
+    } else {
+        $('[data-b="cookie"]').hide();
+    }
+});
+</script>
+
+<div class="b-upwards" data-b="up">
+    <span class="b-upwards__arrow"></span>
+</div>
+
+<div id="bm_login_window" class="b-modal b-modal_slideintop" data-b="login-popup">
+    <div class="b-login__close" data-el="close" id="bm_login_close"></div>
+    <div class="b-modal__inner" data-el="inner"></div>
+</div>
+<div id="bm_login_overlay" class="b-modal__overlay"></div>
+
+<div class="b-px">
+        <!--bigmir)net TOP 100 Part 1-->
+    <script type="text/javascript" language="javascript"><!--
+    bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={ o:1,v:16841685,s:16841685,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+    for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+    try{ if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+    else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){ ;}
+    try{ bm.y=bmN.javaEnabled()?1:0}catch(e){ ;}
+    try{ bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){ ;}
+    r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){ bm.f=escape(r).slice(0,400);bm.v^=r.length}
+    bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+    bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="http://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>');
+    //-->
+    </script>
+    <noscript><img src="http://c.bigmir.net/?v16841685&s16841685&t6" width="0" height="0" alt="" title="" border="0" /></noscript>
+    <!--bigmir)net TOP 100 Part 1-->
+
+<!--bigmir)net TOP 100 Part 1-->
+<script type="text/javascript" language="javascript"><!--
+bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={ o:1,v:23,s:23,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+try{ if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){ ;}
+try{ bm.y=bmN.javaEnabled()?1:0}catch(e){ ;}
+try{ bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){ ;}
+r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){ bm.f=escape(r).slice(0,400);bm.v^=r.length}
+bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="http://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>');
+//-->
+</script>
+<noscript><img src="http://c.bigmir.net/?v23&s23&t6" width="0" height="0" alt="" title="" border="0" /></noscript>
+<!--bigmir)net TOP 100 Part 1-->
+
+<!-- google analytics -->
+
+<script type="text/javascript">
+
+</script>
+<!-- end of google analytics -->
+
+    
+    <!-- I.UA GIF 1x1 -->
+    <script type="text/javascript" language="javascript"><!--
+    iS='<img src="http://r.i.ua/s?u11&p0&n'+Math.random();
+    iD=document;if(!iD.cookie)iD.cookie="b=b; path=/";if(iD.cookie)iS+='&c1';
+    iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
+    +"&w"+screen.width+'&h'+screen.height;
+    iT=iR=iD.referrer.replace(iP=/^[a-z]*:\/\//,'');iH=window.location.href.replace(iP,'');
+    ((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+    if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+    iS+='&r'+escape(iH);
+    iD.write(iS+'" border="0" width="1" height="1" style="position:absolute;"/>');
+    //-->
+    </script>
+    <!-- End of I.UA GIF 1x1 -->
+
+
+
+
+
+
+</div>
+
+<script src="//bm.img.com.ua/a/common/js/fb_utils.js"></script>
+
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1335346295/a/berlin_lux/common/plugins/fancybox2/jquery.fancybox.pack.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1430145165/a/berlin/common/plugins/comment/comment.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1461745563/a/berlin/common/plugins/gallery2/gallery.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1388068350/a/berlin/common/plugins/carousel/carousel_tmp.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1411458694/a/berlin/common/plugins/gaStat/gaStat.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1270643623/a/berlin/common/plugins/jqmodal/jqmodal.min.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1285054715/a/berlin/common/plugins/cookie/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1297865153/a/berlin/common/js/plugins/jquery.scrollTo.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1447073788/a/berlin/common/plugins/article/article.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1431613978/a/berlin/common/js/upper_panel.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1451319400/a/berlin/common/js/menu.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1457964429/a/berlin/common/mobile/js/main.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1455183891/a/berlin/common/js/fw_tmp.js"></script>
+
+
+
+
+
+    <noscript>
+        <img src="//juke.mmi.bemobile.ua/bug/pic.gif?siteid=bigmir.net" alt="" />
+    </noscript>
+    <script>
+        var tns_already, tnscm_adn = tnscm_adn || [];
+        (function(c,m){if(c.indexOf&&c.indexOf(m)<0){c.unshift(m);}}(tnscm_adn,"inline_cm"));
+        if ("undefined"==typeof(tns_already) || null==tns_already || 0==tns_already)
+        {
+            tns_already=1;
+            var i=new Image();
+            i.src="//juke.mmi.bemobile.ua/bug/pic.gif?siteid=bigmir.net&j=1&nocache="+Math.random();
+
+            (function(){
+                var p=document.getElementsByTagName('head')[0];
+                var s=document.createElement("script");
+                s.type="text/javascript";
+                s.src="//source.mmi.bemobile.ua/cm/cm.js";
+                s.async = true;
+                p.appendChild(s);
+            })();
+        };
+    </script>
+
+
+
+
+	
+
+
+	
+	<script>
+		$(document).ready(function(){
+
+                function getCookie(name) {
+                    var cookie = " " + document.cookie;
+                    var search = " " + name + "=";
+                    var setStr = null;
+                    var offset = 0;
+                    var end = 0;
+                    if (cookie.length > 0) {
+                        offset = cookie.indexOf(search);
+                        if (offset != -1) {
+                            offset += search.length;
+                            end = cookie.indexOf(";", offset);
+                            if (end == -1) {
+                                end = cookie.length;
+                            }
+                            setStr = unescape(cookie.substring(offset, end));
+                        }
+                    }
+                    return(setStr);
+                }
+
+                function init(){
+					var containers = $('[data-container="poll"]').filter('[data-ajax="1"]').filter(':not([data-inited="1"])');
+
+					containers.each(function(index, element){
+						var container = $(element);
+
+						if(typeof container.data('poll') != 'undefined' || typeof container.data('purl') != 'undefined')
+						{
+							var urlComponent = [];
+							var elData = container.data();
+							var purl = typeof container.data('purl') != 'undefined' ? container.data('purl') : '/';
+
+							delete elData.container;
+
+							for (key in elData)
+								urlComponent.push(key + '=' + encodeURIComponent(elData[key]));
+							urlComponent = urlComponent.join('&');
+
+							// GET query to obtain poll body
+							var result = $.get(purl+'?_tpl=poll&'+urlComponent+'&BMS='+getCookie('BMS')+'&r'+Math.random());
+
+							result.then(function (data) {
+								// defer replaceWith till request returns
+								if (data) {
+									container.replaceWith(data);
+								}
+							});
+						}
+
+					})
+				}
+				init();
+				$('body').on('poll_init', init); // for ajax insertion
+
+		});
+	</script>
+	
+
+
+
+</body>
+</html>

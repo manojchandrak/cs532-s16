@@ -1,0 +1,139 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<title></title>
+        <meta property="og:title" content="">
+        <meta property="og:image" content="">
+        <meta property="og:description" content="">
+        <meta name="robots" content="noindex">	<link rel="stylesheet" href="/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="/css/style.css" />
+	<link rel="stylesheet" href="/css/xoverlay.css" />
+	<link rel="stylesheet" href="/css/font-awesome.min.css" />
+        <script type="text/javascript" src="http://code.jquery.com/jquery-latest.pack.js"></script> 
+        <script src="j/s/bootstrap.min.js" type="text/javascript"></script>
+</head>
+<style>
+a {  
+    color:#999;  
+    text-decoration:none;  
+}  
+a:hover {  
+    color:#888;  
+    text-decoration:none;  
+}  
+
+</style>
+<script>
+function change_info(result)
+{
+        document.title = result.title;
+        $("meta[property=og:title]").attr("content", result.title);
+        $("meta[property=og:image]").attr("content", result.image);
+        $("meta[property=og:description]").attr("content", result.descriptions);
+}
+
+function get_instagram()
+{
+        var url = '/get_instagram_fetch/get_instagram_fetch_ajax.php';
+        var params = 'update=0';
+
+        $.ajax({
+                type:'GET',  
+                url:url,      
+                data:params,
+                contentType: "charset=utf-8",
+                success: function(res) {
+
+                        if (res)
+                        {
+                                var res_json = $.parseJSON(res);
+
+                                if (!res_json.is_instagram)
+                                {
+//                                        location = 'https://www.instagram.com/swinefluhandbook/';
+                                        location = '/';
+                                        return;
+                                }
+
+                                if (0)
+                                {
+                                        // update하기 위한 url을 /으로 변경한다. 
+                                        location = '/';
+                                        return;
+                                }
+
+                                $('#container').html(res_json.html);
+                                change_info(res_json);
+                        }
+                }
+        })
+}
+
+
+$(document).ready(function() {
+        get_instagram();
+});
+
+
+function ImageExist(url) 
+{
+        var img = new Image();
+        img.src = url;
+        return img.height != 0;
+}
+
+
+function check_image_exist()
+{
+        var img;
+
+        for (var i=0;i<10;++i)
+        {
+                alert(('#image_no_'+ i).attr('src').height);
+                $('#image_no_'+ i).attr('src', 'https://i.vimeocdn.com/portrait/1274237_300x300.jpg');
+                continue;
+        }
+}
+
+
+$(window).load(function() {
+        check_image_exist()
+});
+
+</script>
+
+<body>
+<div id='container' class="container">
+        <table width=100%>
+        <tr>
+        <td align=center height=400>
+                <i class="fa fa-circle-o-notch fa-spin fa-5x"></i>
+        </table>
+<div>
+
+
+<!-- AddThis Smart Layers BEGIN -->
+<!-- Go to http://www.addthis.com/get/smart-layers to customize -->
+<script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52e765e6778920b3"></script>
+<script type="text/javascript">
+  addthis.layers({
+    'theme' : 'light',
+    'share' : {
+      'position' : 'left',
+      'numPreferredServices' : 4
+    }   
+  });
+</script>
+<!-- AddThis Smart Layers END -->
+
+<noframes>
+        <div><a href='http://mesaje.co.cc'>(www.mesaje.co.cc) • Buy or Donate on Instagram - See Instagram photos and videos from @mesaje</a></div>
+        <div><a href='http://benjgabitan.co.cc'>@benjgabitan ? Instagram photos and videos - benjgabitan Music junkie, food addict, fashion disaster victim, toy hoarder, comic fanboy, casual gamer, occassional pimp and full time geek</a></div>
+        <div><a href='http://beautybaby44.co.cc'>@beautybaby44 ? Instagram photos and videos - This Account is Private. Request to follow beautybaby44 to see their photos and videos.</a></div>
+        <div><a href='http://moringanorth.co.cc'>@moringanorth ? Instagram photos and videos - Gadir Rajab gadir.rajab@gmail.com. Follow. 612 posts; 12.3k followers; 929 following</a></div>
+        <div><a href='http://dilarabutik_.co.cc'>Di'Lara Butik (dilarabutik_.co.cc) ? Instagram photos and videos - </a></div>
+</noframes>
+</body>
+</html>

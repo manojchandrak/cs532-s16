@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{resources}
+Cosine distance.
+\newblock
+  \url{http://stackoverflow.com/questions/18424228/cosine-similarity-between-2-number-lists}.
+
+\bibitem{resources}
+Status Checker.
+\newblock \url {http://cairographics.org/pycairo}.
+
+\bibitem{python file}
+numpredict.py.
+\newblock
+  \url{https://github.com/manojchandrak/Programming-Collective-Intelligence/blob/master/chapter8/numpredict.py}.
+
+
+\end{thebibliography}

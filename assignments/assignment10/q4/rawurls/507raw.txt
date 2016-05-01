@@ -1,0 +1,581 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta charset="utf-8">
+<title>【茨城新聞】懸命にたすきつなぐ　常陸大宮駅伝</title>
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<!--[if lt IE 9]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+<![endif]-->
+
+
+<link rel="stylesheet" href="../css/default.css">
+<link rel="stylesheet" href="../css/style-pc.css">
+<link rel="stylesheet" href="../css/single.css">
+<link rel="stylesheet" href="../css/single-sp.css" media="only screen and (max-width:639px)">
+
+<!--// Web Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Maven+Pro:900,400' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9088838-17']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<!--[if lt IE 9]>
+<script src="http://ibarakinews.jp/js/html5shiv-printshiv.min.js"></script>
+<script src="http://ibarakinews.jp/js/pie.js"></script>
+<![endif]-->
+
+<!-- Dot metrix -->
+<script type='text/javascript'>
+    (function(doc, dm) {
+      if (!dm.VERSION) {
+	window.dotmetrix = dm;
+
+	dm._queue = [];
+	dm.init = function(api_token, b, c) {
+	  dm.API_TOKEN = api_token;
+	  function f(dm, fname) { dm[fname] = function() { dm._queue.push([fname].concat([].slice.call(arguments, 0))); } }
+	  var functions = 'track identify set'.split(' ');
+	  for (var i = 0; i < functions.length; i++) f(dm, functions[i]);
+	};
+
+	s = doc.createElement("script"); s.type = "text/javascript"; s.async = !0; s.src = "https://api.dot-metrix.com/dot-metrix.p.js"; e = doc.getElementsByTagName("script")[0]; e.parentNode.insertBefore(s, e);
+      }
+    })(document, window.dotmetrix || {});
+dotmetrix.init('W63fS4ofDAYQe8dvfZ9Z');
+</script>
+<!-- /Dot metrix -->
+
+</head>
+
+<body>
+
+<!--// HEADER -->
+<div id="header">
+	<h1><a href="http://ibarakinews.jp/index.php"><img src="../images/common/logo.png" alt="茨城新聞"></a></h1>
+
+	<div>
+		<p><a href="https://twitter.com/ibarakishimbun" target="_blank"><img src="../images/common/tw.png" alt="茨城新聞Twitter"></a><a href="https://www.facebook.com/ibarakishimbun" target="_blank"><img src="../images/common/fb.png" alt="茨城新聞Facebook"></a><a href="http://ibarakinews.jp/news/hphead.rss"><img src="../images/common/rss.png" alt="茨城新聞RSS"></a></p>
+		
+		<p><a href="http://ibashin.com/koudoku/top.html"><img src="../images/common/kodoku.png" alt="新聞購読申込み"></a></p>
+		
+		<form action="http://www.google.co.jp/cse" id="cse-search-box">
+		<input type="hidden" name="cx" value="013926637533826797814:ezkxk6n7cr4" />
+		<input type="hidden" name="ie" value="UTF-8" />
+		<input type="text" name="q" size="20" />
+		<input type="submit" name="sa" value="検索" />
+		</form>
+		<script type="text/javascript" src="http://www.google.co.jp/coop/cse/brand?form=cse-search-box&amp;lang=ja"></script>
+		
+		<!--//ロゴ脇メニュー-->
+		<p>｜<a href="http://ibarakinews.jp/hp/list.php?elem=corp">企業情報</a>｜<a href="http://ibarakinews.jp/hp/employ.php">採用情報</a>｜<a href="http://www.ibarakinews.jp/hp/hpdetail.php?f_jun=30">個人情報保護方針</a>｜<a href="http://www.ibarakinews.jp/hp/hpdetail.php?f_jun=40">著作権・リンク</a>｜<a href="http://www.ibarakinews.jp/hp/hpdetail.php?f_jun=20">お問合せ</a>｜</p>
+		<!--//ロゴ脇メニュー-->
+	</div>
+
+	<ul>
+		<li><A href="http://ibarakinews.jp/top.php" data-ajax='false'>トップ</A></li>
+					<li><A  href="http://ibarakinews.jp/hp/list.php?elem=service" data-ajax='false'>サービス</A></li>
+					<li><A  href="http://ibarakinews.jp/news/newstop.html" data-ajax='false'>ニュース</A></li>
+					<li><A  href="http://ibarakinews.jp/hp/list.php?elem=info_ibaraki" data-ajax='false'>お知らせ</A></li>
+		<!--li><A href="http://ibarakinews.jp/hp/list.php?elem=columns" data-ajax='false'>読み物</A></li-->
+					<li><A  href="http://ibarakinews.jp/hp/list.php?elem=corp" data-ajax='false'>企業情報</A></li>
+					<li><A  href="http://ibarakinews.jp/hp/list.php?elem=shimbun" data-ajax='false'>新聞購読</A></li>	</ul>
+</div>
+<!--// HEADER -->
+
+<!--// CONTAINER -->
+<div id="container">
+	
+	
+	<!--// CONTENT -->
+	<div id="content">
+		<!--// BANNER 730 -->
+		<ul id="bnrs w730">
+			<li>
+				<script type="text/javascript">
+					if((navigator.userAgent.indexOf('iPhone')>0 || navigator.userAgent.indexOf('Android')>0)&&window.innerWidth<728){
+						document.write("<script type='text\/javascript'>\r\n<!--\/\/<![CDATA[\r\n   document.MAX_ct0 ='';\r\n   var m3_u = (location.protocol=='https:'?'https:\/\/cas.criteo.com\/delivery\/ajs.php?':'http:\/\/cas.criteo.com\/delivery\/ajs.php?');\r\n   var m3_r = Math.floor(Math.random()*99999999999);\r\n   document.write (\"<scr\"+\"ipt type='text\/javascript' src='\"+m3_u);\r\n   document.write (\"zoneid=137162\");document.write(\"&amp;nodis=1\");\r\n   document.write ('&amp;cb=' + m3_r);\r\n   if (document.MAX_used != ',') document.write (\"&amp;exclude=\" + document.MAX_used);\r\n   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));\r\n   document.write (\"&amp;loc=\" + escape(window.location));\r\n   if (document.referrer) document.write (\"&amp;referer=\" + escape(document.referrer));\r\n   if (document.context) document.write (\"&context=\" + escape(document.context));\r\n   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {\r\n       document.write (\"&amp;ct0=\" + escape(document.MAX_ct0));\r\n   }\r\n   if (document.mmm_fo) document.write (\"&amp;mmm_fo=1\");\r\n   document.write (\"'><\/scr\"+\"ipt>\");\r\n\/\/]]>--><\/script>");
+					}else{
+						document.write("<!--criteo 728x90-->\r\n<script type='text\/javascript'>\r\n<!--\/\/<![CDATA[\r\n   document.MAX_ct0 ='';\r\n   var m3_u = (location.protocol=='https:'?'https:\/\/cas.criteo.com\/delivery\/ajs.php?':'http:\/\/cas.criteo.com\/delivery\/ajs.php?');\r\n   var m3_r = Math.floor(Math.random()*99999999999);\r\n   document.write (\"<scr\"+\"ipt type='text\/javascript' src='\"+m3_u);\r\n   document.write (\"zoneid=123642\");document.write(\"&amp;nodis=1\");\r\n   document.write ('&amp;cb=' + m3_r);\r\n   if (document.MAX_used != ',') document.write (\"&amp;exclude=\" + document.MAX_used);\r\n   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));\r\n   document.write (\"&amp;loc=\" + escape(window.location));\r\n   if (document.referrer) document.write (\"&amp;referer=\" + escape(document.referrer));\r\n   if (document.context) document.write (\"&context=\" + escape(document.context));\r\n   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {\r\n       document.write (\"&amp;ct0=\" + escape(document.MAX_ct0));\r\n   }\r\n   if (document.mmm_fo) document.write (\"&amp;mmm_fo=1\");\r\n   document.write (\"'><\/scr\"+\"ipt>\");\r\n\/\/]]>--><\/script>");
+					}
+					</script>
+			</li>
+		</ul>
+		<!--// BANNER 730 -->
+		<!--// キャンペーン -->
+		<ul class="bnrs w340">
+			<li>
+				<script type="text/javascript">
+					if((navigator.userAgent.indexOf('iPhone')>0 || navigator.userAgent.indexOf('Android')>0)&&window.innerWidth<728){
+						document.write("");
+					}else{
+						document.write("<!--\u3010\u8ca9\u58f2\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u5e83\u544a 468\u00d760\u3011-->\r\n<!--A HREF='http:\/\/ibashin.com\/shidoku\/step1F.html'><IMG SRC='..\/images\/secret_button.jpg' BORDER='0'><\/A-->\r\n\r\n");
+					}
+					</script>
+			</li>
+			<li><div id="newsmart" style="width:210px;height:60px;background-color:pink;padding-top:0px;text-align:center"><a href="http://nm.ibarakinews.jp"><font size="3"><b><div style="float:left"><img src="http://ibaraki-np.co.jp/hp/QR_Code.gif" style="width:60px;height:60px;" ></div><div style="float:right;padding-top:15px;padding-right:10px">有料携帯サイト<br>（Newsmart）</b></font></div></a><div></li>
+<li>
+                <script type="text/javascript">
+    if((navigator.userAgent.indexOf('iPhone')>0 || navigator.userAgent.indexOf('Android')>0)&&window.innerWidth<728){
+      document.write("");
+    }else{
+      document.write("");
+    }
+                        </script>
+</li>
+<li>
+                <script type="text/javascript">
+    if((navigator.userAgent.indexOf('iPhone')>0 || navigator.userAgent.indexOf('Android')>0)&&window.innerWidth<728){
+      document.write("<a href=\"http:\/\/www.hokurikushinkansen-navi.jp\/pc\/feature\/2015sengoku\/\" onClick=\"javascript:_gaq.push(['_trackEvent','mononofu_fdk','kitakan-navi','20160302',1]);\"><img src=\"http:\/\/ibarakinews.jp\/images\/banner_sp.jpg\" style=\"width:300px\"><\/a>\r\n");
+    }else{
+      document.write("<a href=\"http:\/\/www.hokurikushinkansen-navi.jp\/pc\/feature\/2015sengoku\/\" onClick=\"javascript:_gaq.push(['_trackEvent','mononofu_fdk','kitakan-navi','20160302',1]);\"><img src=\"http:\/\/ibarakinews.jp\/images\/banner_sp.jpg\" style=\"width:300px\"><\/a>\r\n");
+    }
+                        </script>
+</li>
+
+		</ul>
+		<!--// キャンペーン -->
+		
+		
+		<!--// news single -->
+		<div id="single" class="bg02">
+			<p>2016年2月11日(木)</p>
+			<h3>懸命にたすきつなぐ　常陸大宮駅伝</h3>
+			<h4></h4>
+                        
+                        <div style="width:100%;float:right;margin:10px;">
+			<!-- この render 呼び出しを適切な位置に挿入してください -->
+<script type="text/javascript">
+  window.___gcfg = {lang: 'ja'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<style><!-- .social{float:right;margin-left:10px;} #sns li{display:inline;margin-left:0px;list-style-type: none;} --></style>
+	<ul id='sns'>
+
+	<!-- facebook button -->
+	<li><div class='social'><a name='fb_share' type='button_count' share_url='http://ibarakinews.jp/news/newsdetail.php?f_jun=14551034690080' href='http://www.facebook.com/sharer.php'></a>
+	<script src='http://static.ak.fbcdn.net/connect.php/js/FB.Share' type='text/javascript'></script></div></li>
+
+	<!-- mixi button -->
+	<li><div class='social'><a href='http://mixi.jp/share.pl' class='mixi-check-button' data-url='http://ibarakinews.jp/news/newsdetail.php?f_jun=14551034690080' data-key='90f57fad917d1439d7c27b3fb70922bd2379e0cb' data-button='button-1'>Check</a>
+	<script type='text/javascript' src='http://static.mixi.jp/js/share.js'></script></div></li>
+
+	<!-- hatena button -->
+	<li><div class='social'><a href="javascript:location.href='http://b.hatena.ne.jp/entry/http://ibarakinews.jp/news/newsdetail.php?f_jun=14551034690080'+encodeURI(window.location.href)" class='hatena-bookmark-button' data-hatena-bookmark-layout='standard' title='このエントリーをはてなブックマークに追加'><img src='http://b.st-hatena.com/images/entry-button/button-only.gif' alt='このエントリーをはてなブックマークに追加' width='20' height='20' style='border: none;' /></a><script type='text/javascript' src='http://b.st-hatena.com/js/bookmark_button.js' charset='utf-8' async='async'></script></div></li>
+
+
+	  <!-- google plus button -->
+	<!-- このタグを +1 ボタンを表示する場所に挿入してください -->
+	<li><div class='social'><g:plusone size="medium" href="http://ibarakinews.jp/news/newsdetail.php?f_jun=14551034690080"></g:plusone></div></li>
+	
+
+	<!-- tweet button -->
+	<li><div class='social'><a href='https://twitter.com/share' class='twitter-share-button' data-url='http://ibarakinews.jp/news/newsdetail.php?f_jun=14551034690080' data-count='horizontal' data-via='ibarakishimbun' data-lang='ja'>tweet</a><script type='text/javascript' src='http://platform.twitter.com/widgets.js'></script></div></li>
+
+	</ul>
+                        </div>
+
+                        <dl id="photo" style="width:300px;float:right;padding:5px 0px 5px 10px;">
+			<dt style="float:left"><ul class="bnrs w340"><li><script type='text/javascript'>
+<!--//<![CDATA[
+   document.MAX_ct0 ='';
+   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("zoneid=137162");document.write("&amp;nodis=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+//]]>--></script></li></ul></dt>
+			<dd style="background-color:rgba(255,255,255,0.7);float:left;width:280px">【AD】</dd>
+			</dl>
+                        
+
+			<p><p>常陸大宮駅伝大会が7日、同市鷹巣の大宮運動公園を主会場に開かれ、小・中学生から大人まで多くのランナーが10部門で順位を競った。<br />
+<br />
+小学生は公園の周回コースだけだが、中学生以上は市内の道路に出て力走。各チームは懸命にたすきを渡してゴール…</p><br><br><div id='textframe' style='float:left;'><ul data-role="listview" class='newsul'><li data-role="list-divider" style='width:300px;'>有料サイトで御覧になれます</li><li style='width:300px;'><A href='http://nm.ibarakinews.jp/sp/2016/02/post-32097.php' data-ajax='false'>携帯課金版(Newsmart)</A></li><li style='width:300px;'><A  href='http://www.ibaraki-np.mobi/sp/vt2.php?f_jun=14551034690080&elem=kennai' data-ajax='false'>振込課金版</A></li></ul></div></p>
+
+			<dl id="photo" style="width:300px;float:left;padding:5px 0px 5px 10px;">
+			<dt></dt>
+			</dl>
+
+			<dl id="photo" style="width:300px;float:right;padding:5px 0px 5px 10px;">
+			<dt style="float:left"></dt>
+			<dd style="background-color:rgba(255,255,255,0.7);float:left;width:280px"></dd>
+
+			</dl>
+
+			<p><a href=""></a></p>
+			<p><a href=""></a></p>
+
+						
+		</div>
+		<!--// news single -->
+		
+		
+		<!--// BANNER 730 -->
+		<ul id="bnrs w730">
+			<li>
+				<script type="text/javascript">
+					if((navigator.userAgent.indexOf('iPhone')>0 || navigator.userAgent.indexOf('Android')>0)&&window.innerWidth<728){
+						document.write("<script type='text\/javascript'>\r\n<!--\/\/<![CDATA[\r\n   document.MAX_ct0 ='';\r\n   var m3_u = (location.protocol=='https:'?'https:\/\/cas.criteo.com\/delivery\/ajs.php?':'http:\/\/cas.criteo.com\/delivery\/ajs.php?');\r\n   var m3_r = Math.floor(Math.random()*99999999999);\r\n   document.write (\"<scr\"+\"ipt type='text\/javascript' src='\"+m3_u);\r\n   document.write (\"zoneid=153047\");document.write(\"&amp;nodis=1\");\r\n   document.write ('&amp;cb=' + m3_r);\r\n   if (document.MAX_used != ',') document.write (\"&amp;exclude=\" + document.MAX_used);\r\n   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));\r\n   document.write (\"&amp;loc=\" + escape(window.location));\r\n   if (document.referrer) document.write (\"&amp;referer=\" + escape(document.referrer));\r\n   if (document.context) document.write (\"&context=\" + escape(document.context));\r\n   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {\r\n       document.write (\"&amp;ct0=\" + escape(document.MAX_ct0));\r\n   }\r\n   if (document.mmm_fo) document.write (\"&amp;mmm_fo=1\");\r\n   document.write (\"'><\/scr\"+\"ipt>\");\r\n\/\/]]>--><\/script>");
+					}else{
+						document.write("<!--criteo 728x90-->\r\n<script type='text\/javascript'>\r\n<!--\/\/<![CDATA[\r\n   document.MAX_ct0 ='';\r\n   var m3_u = (location.protocol=='https:'?'https:\/\/cas.criteo.com\/delivery\/ajs.php?':'http:\/\/cas.criteo.com\/delivery\/ajs.php?');\r\n   var m3_r = Math.floor(Math.random()*99999999999);\r\n   document.write (\"<scr\"+\"ipt type='text\/javascript' src='\"+m3_u);\r\n   document.write (\"zoneid=123642\");document.write(\"&amp;nodis=1\");\r\n   document.write ('&amp;cb=' + m3_r);\r\n   if (document.MAX_used != ',') document.write (\"&amp;exclude=\" + document.MAX_used);\r\n   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));\r\n   document.write (\"&amp;loc=\" + escape(window.location));\r\n   if (document.referrer) document.write (\"&amp;referer=\" + escape(document.referrer));\r\n   if (document.context) document.write (\"&context=\" + escape(document.context));\r\n   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {\r\n       document.write (\"&amp;ct0=\" + escape(document.MAX_ct0));\r\n   }\r\n   if (document.mmm_fo) document.write (\"&amp;mmm_fo=1\");\r\n   document.write (\"'><\/scr\"+\"ipt>\");\r\n\/\/]]>--><\/script>");
+					}
+					</script>
+			</li>
+		</ul>
+		<!--// BANNER 730 -->
+
+		<!--// relblock -->
+		<div id="relblock">
+			<h4>最近の記事</h4>
+			<ul class="relul">
+			<li style='background-image:url(http://ibarakinews.jp/photo/14620309945503_1.jpg);background-repeat:no-repeat;background-position:center left;background-size: 90px 60px;'><a href='http://ibarakinews.jp/news/newsdetail.php?f_jun=14620309945503' data-ajax='false'><font color='darkgray'>[有料]市民寄贈の五月人形　行方　家老屋敷の歴史も紹介　1日から</font></a></li>
+<li style='background-image:url(http://ibarakinews.jp/photo/14620309945502_1.jpg);background-repeat:no-repeat;background-position:center left;background-size: 90px 60px;'><a href='http://ibarakinews.jp/news/newsdetail.php?f_jun=14620309945502' data-ajax='false'><font color='darkgray'>[有料]一面緑の世界　大子・八溝山　</font></a></li>
+<li style='background-image:url(http://ibarakinews.jp/photo/);background-repeat:no-repeat;background-position:center left;background-size: 90px 60px;'><a href='http://ibarakinews.jp/news/newsdetail.php?f_jun=14620309945501' data-ajax='false'><font color='darkgray'>[有料]上司が指導後も少女に連絡接触　起訴の県警元警部補　</font></a></li>
+<li style='background-image:url(http://ibarakinews.jp/photo/14620318559482_1.jpg);background-repeat:no-repeat;background-position:center left;background-size: 90px 60px;'><a href='http://ibarakinews.jp/news/newsdetail.php?f_jun=14620318559482' data-ajax='false'><font color='black'>鹿島、大宮とドロー　鹿島　0-0　大宮</font></a></li>
+<li style='background-image:url(http://ibarakinews.jp/photo/);background-repeat:no-repeat;background-position:center left;background-size: 90px 60px;'><a href='http://ibarakinews.jp/news/newsdetail.php?f_jun=14620319988491' data-ajax='false'><font color='darkgray'>[有料]両者決め手欠く</font></a></li>
+<li style='background-image:url(http://ibarakinews.jp/photo/14620318906107_1.jpg);background-repeat:no-repeat;background-position:center left;background-size: 90px 60px;'><a href='http://ibarakinews.jp/news/newsdetail.php?f_jun=14620318906107' data-ajax='false'><font color='darkgray'>[有料]ゴール前の精度欠く　鹿島　遠い1点</font></a></li>
+			</ul>
+		</div>
+		<!--// relblock -->
+		
+		<!--【ＰＲ特集】-->
+<DIV class='pr_list_box'><DIV class='pr_list_title'>
+<center>ＰＲ特集</center>
+</DIV><!--【PRループ】-->
+<DIV class='pr_list_contentsbox0'>
+<DIV class='pr_list_left_thumb'>
+<a href='http://www.kenmoshi.jp' onClick="javascript:_gaq.push(['_trackEvent','kenmoshi','pr_box_mobile','20130402',1]);"><IMG SRC='http://ibarakinews.jp/pr/images/kenmoshi.gif' border='0'></DIV><DIV class='pr_list_right_head'>
+茨城 県模試　解説授業映像公開中<br>
+</DIV>
+<DIV class='pr_list_right_description'>
+茨城県立高校を受験するなら、まずは「県模試」《中３生対象》後援・茨城新聞社
+</a>
+</DIV>
+<DIV class='pr_list_underline'>
+</DIV>
+</DIV>	<!--【PRループEND】-->
+<!--【PRループ】-->
+<DIV class='pr_list_contentsbox1'>
+<DIV class='pr_list_left_thumb'>
+<a href='http://kango.ibarakinews.jp/main.php?sy=2017' onClick="javascript:_gaq.push(['_trackEvent','kangoguidance','kangoguidance','20151201',1]);"><IMG SRC='http://ibarakinews.jp/pr/images/kangoguidance.gif' border='0'></DIV><DIV class='pr_list_right_head'>
+茨城県看護職就職ガイダンス<br>
+</DIV>
+<DIV class='pr_list_right_description'>
+県内医療機関の採用情報（2017年春採用）掲載中！
+</a>
+</DIV>
+<DIV class='pr_list_underline'>
+</DIV>
+</DIV>	<!--【PRループEND】-->
+<!--【PRループ】-->
+<DIV class='pr_list_contentsbox0'>
+<DIV class='pr_list_left_thumb'>
+<a href='http://ibarakinews.jp/pr/images/sumai2016spring.pdf' onClick="javascript:_gaq.push(['_trackEvent','sumai_pdf','pr_box','20160428',1]);"><IMG SRC='http://ibarakinews.jp/pr/images/sumai2016.jpg' border='0'></DIV><DIV class='pr_list_right_head'>
+２０１６春　住まいの特集<br>
+</DIV>
+<DIV class='pr_list_right_description'>
+今特集では「平屋住宅」の魅力をお伝えします。資金計画など家造りに役立つ情報も満載！
+</a>
+</DIV>
+<DIV class='pr_list_underline'>
+</DIV>
+</DIV>	<!--【PRループEND】-->
+<!--【PRループ】-->
+<DIV class='pr_list_contentsbox1'>
+<DIV class='pr_list_left_thumb'>
+<a href='http://ibarakinews.jp/hp/pdfusb.php' onClick="javascript:_gaq.push(['_trackEvent','pdfusb','pr_box','20150201',1]);"><IMG SRC='http://ibarakinews.jp/pr/images/PDFusb2014_PRbox.jpg' border='0'></DIV><DIV class='pr_list_right_head'>
+紙面データPDF(USBメモリ版)販売中<br>
+</DIV>
+<DIV class='pr_list_right_description'>
+2015年１年分の茨城新聞紙面をUSBメモリ1個に。鬼怒川決壊や夏の高校野球も全部収録
+</a>
+</DIV>
+<DIV class='pr_list_underline'>
+</DIV>
+</DIV>	<!--【PRループEND】-->
+<!--【PRループ】-->
+<DIV class='pr_list_contentsbox0'>
+<DIV class='pr_list_left_thumb'>
+<a href='http://ibarakinews.jp/hp/hpdetail.php?f_jun=80' onClick="javascript:_gaq.push(['_trackEvent','NEWSmart','pr_box','20140212',1]);"><IMG SRC='http://ibarakinews.jp/pr/images/garasmart03.jpg' border='0'></DIV><DIV class='pr_list_right_head'>
+2016県教職員人事 公開中<br>
+</DIV>
+<DIV class='pr_list_right_description'>
+茨城新聞の有料携帯サイトでは、旧赴任先や姓名から一発検索。恩師の動向チェック！
+</a>
+</DIV>
+<DIV class='pr_list_underline'>
+</DIV>
+</DIV>	<!--【PRループEND】-->
+<!--【PRループ】-->
+<DIV class='pr_list_contentsbox1'>
+<DIV class='pr_list_left_thumb'>
+<a href='http://ibarakinews.jp/hp/hpdetail.php?f_jun=134' onClick="javascript:_gaq.push(['_trackEvent','個人広告『Ｍｙ（マイ）ねっと』','mynet','20140626',1]);"><IMG SRC='http://ibarakinews.jp/images/mynet.jpg' border='0'></DIV><DIV class='pr_list_right_head'>
+個人広告『Ｍｙ（マイ）ねっと』<br>
+</DIV>
+<DIV class='pr_list_right_description'>
+個人メッセージからビジネスまで、あなたの「伝えたい」を茨城新聞紙面に掲載!
+</a>
+</DIV>
+<DIV class='pr_list_underline'>
+</DIV>
+</DIV>	<!--【PRループEND】-->
+<DIV style='clear:both;'></DIV></DIV>
+ 
+		
+	</div>
+	<!--// CONTENT -->
+	
+	
+	<!--// SIDE -->
+	<div id="side">
+	
+	<!--//試読紙キャンペーン-->
+	<!--// BANNERS 300 -->
+<ul class="bnrs w300">
+<li><div id="koudoku" style="width:280px;height:85px;border-style:outset;border-width:10px;background-color:orangered;text-align:center;padding-top:15px"><a href="http://ibashin.com/koudoku/top.html"><font size='5' color="white"><b>茨城新聞なら<br>月々<font color='black'>税込み</font>2,990円<br>新規ご購読キャンペーン</b></font></a></div></li>
+</ul>
+<!--// BANNERS 300 -->
+	<!--//試読紙キャンペーン-->
+	
+	<!--// BANNERS 300 -->
+	<ul class="bnrs w300">
+	<li>
+	<script type='text/javascript'>
+<!--//<![CDATA[
+   document.MAX_ct0 ='';
+   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("zoneid=137162");document.write("&amp;nodis=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+//]]>--></script>	</li>
+	</ul>
+	<!--// BANNERS 300 -->
+	
+	<!--// TODAY -->
+	<h2 id="today"><span>2016<span>&nbsp;年</span></span><br>&nbsp;5<span>&nbsp;月&nbsp;</span>1<span>&nbsp;日&nbsp;（日）</span></h2>	<!--// TODAY -->
+
+	<!--// BANNERS 300 -->
+	<ul class="bnrs w300">
+	<li>
+		</li>
+	</ul>
+	<!--// BANNERS 300 -->
+	
+	<div id="TWbox">
+	<a class="twitter-timeline" href="https://twitter.com/ibarakishimbun" data-widget-id="344799502877724672" width="300" height="300" data-theme="dark">@ibarakishimbun からのツイート</a>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	</div>
+	
+	
+	<dl>
+	<dt class="news">メニュー</dt>
+	<dd><ul class="sidemenu">
+	<li><A href="http://ibarakinews.jp/hp/list.php?elem=info_ibaraki" data-ajax='false'>お知らせ</a></li>
+<li><A href="http://ibarakinews.jp/hp/list.php?elem=info_mitomachi" data-ajax='false'>「みと・まち・情報館」お知らせ</a></li>
+<li><A href="http://weather.yahoo.co.jp/weather/jp/8/index.html" data-ajax='false'>茨城県の天気(Yahoo!)</a></li>
+					<li data-role='list-divider'><b>サービス</b></li>
+					<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=80" data-ajax='false'><font color='blue'>有料サイト</font></a></li>
+					<li><A href="http://mmdb.ibarakinews.jp/Information.htm" data-ajax='false'>データベース</a></li>
+
+					<li><A href="http://ibarakinews.jp/hp/list.php?elem=books" data-ajax='false'><font color='blue'>茨城新聞の本</font></a></li>	
+					<li data-role='list-divider'><b>ニュース・紙面</b></li>
+					<li><A href="http://ibarakinews.jp/hp/sailist.php?elem=kinu_outburst&chx=57" data-ajax='false'>鬼怒川決壊水害情報</a></li>
+					<li><A href="http://ibarakinews.jp/hp/list.php?elem=kennai" data-ajax='false'>県内ニュース</a></li>
+					<li><A href="http://ibarakinews.jp/hp/list.php?elem=sports" data-ajax='false'>県内スポーツ</a></li>
+<li><a href="http://ibarakinews.jp/hp/list.php?elem=bbtm">高校野球</a></li>
+<li><a href="http://ibarakinews.jp/hp/list.php?elem=senkyo">県内選挙</a></li>
+
+					<li><A href="http://ibarakinews.jp/hp/hpdetail.php?elem=kyounosports" data-ajax='false'>きょうのスポーツ</a></li>
+					<li><A href="http://ibarakinews.jp/hp/list.php?elem=rensai" data-ajax='false'>連載一覧</a></li>
+					<li><A href="http://ibarakinews.jp/hp/taste.php" data-ajax='false'><font color='red'>Taste</font></a></li>
+					<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=150" data-ajax='false'><font color='forestgreen'>出前授業</font></a></li>
+					<li data-role='list-divider'><b>グルメ</b></li>
+					<li><A href="http://ibarakinews.jp/hp/list.php?elem=selection" data-ajax='false'><font color='olive'>グルメセレクション</font></a></li>
+					<li><A href="http://ibarakinews.jp/hp/list.php?elem=gurume" data-ajax='false'><font color='deeppink'>四季彩クッキング</font></a></li>
+					<li data-role='list-divider'><b>主催・後援・福祉</b></li>
+					<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=140" data-ajax='false'><font color='blue'>後援申請について</font></a></li>
+					<li><A href="http://ibarakinews.jp/fukushi/raising.htm" data-ajax='false'><font color='blue'>募金について（茨城新聞文化福祉事業団）</font></a></li>
+					<li><A href="http://ibarakinews.jp/hp/golf.php" data-ajax='false'><font color='blue'>主催ゴルフ情報</font></a></li>
+					<!--<li><A href="http://www.ibaraki-np.co.jp/event/schedule.htm" data-ajax='false'><font color='blue'>今月の主催・後援事業</font></a></li>-->
+					<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=220" data-ajax='false'><font color='brown'>全国こども陶芸展inかさま</font></a></li>
+					<!--<li><A href="http://ibarakinews.jp/hp/list.php?elem=kasama_tougei" data-ajax='false'><font color='brown'>全国こども陶芸展inかさま</font></a></li>-->
+					<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=201" data-ajax='false'><font color='blue'>小学生読書感想文コンクール</font></a></li>
+					<li><A href="http://ibarakinews.jp/gohan/" data-ajax='false'><font color='green'>第40回「ごはん・お米とわたし」コンクール</font></a></li>
+					<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=251" data-ajax='false'><font color='green'>茨城県ちびっ子野球選手権大会</font></a></li>
+					<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=261" data-ajax='false'><font color='blue'>茨城県選抜中学校野球大会</font></a></li>
+					<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=230" data-ajax='false'><font color='blue'>小平奨励賞</font></a></li>
+					<li data-role='list-divider'><b>会員・参加者向け</b></li>
+					<li><A href="http://ibarakinews.jp/MiniBasket/entry/login.php" data-ajax='false'>ミニバスケットボール</a></li>
+					<li><A href="http://ibarakikai.com/login.php" data-ajax='false'>茨城会（茨城新聞販売店会）</a></li>
+					<li data-role='list-divider'><b>新聞関連リンク</b></li>
+					<li><A href="http://www.pressnet.or.jp/" data-ajax='false'>日本新聞協会</a></li>
+					<li><A href="http://www.jabc.or.jp/" data-ajax='false'>日本ABC協会</a></li>
+					<li><A href="http://newspark.jp/newspark/" data-ajax='false'>日本新聞博物館</a></li>
+	</ul>
+	</dd>
+	</dl>
+	
+	<dl>
+	<dt class="join">投稿・読者参加</dt>
+	<dd><ul class="sidemenu">
+							<!--li data-role='list-divider'>読者参加</li-->
+  						<li><A href="http://ibarakinews.jp/hp/photocon.php" data-ajax='false'>紙上フォトコンテスト</a></li>
+  						<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=109" data-ajax='false'>えんじょいスポーツ</a></li>
+  						<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=104" data-ajax='false'>県民の声</a></li>
+  						<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=105" data-ajax='false'>茨城川柳</a></li>
+  						<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=106" data-ajax='false'>同窓の友</a></li>
+  						<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=107" data-ajax='false'>マイスナップ</a></li>
+  						<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=108" data-ajax='false'>私の作品</a></li>
+  						<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=101" data-ajax='false'>アトリエ</a></li>
+  						<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=102" data-ajax='false'>ティータイム</a></li>
+  						<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=103" data-ajax='false'>茨城文芸</a></li>	</ul>
+	</dd>
+	</dl>
+	
+	<dl>
+	<dt class="data">サービス</dt>
+	<dd><ul class="sidemenu">
+							<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=80" data-ajax='false'>有料携帯サイト</a></li>
+						<li><A href="http://ibarakinews.jp/hp/list.php?elem=books" data-ajax='false'>茨城新聞の本</a></li>
+						<li><A href="http://mmdb.ibarakinews.jp/Information.htm" data-ajax='false'>茨城新聞データベース総合案内</a></li>
+						<li><A href="http://mmdb.ibarakinews.jp/start.htm" data-ajax='false'>茨城新聞データベース無料体験版</a></li>
+						<li><A href="http://mmdb.ibarakinews.jp/UserLogin.php" data-ajax='false'>茨城新聞データベース有料会員専用入口</a></li>
+						<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=140" data-ajax='false'>後援申請について</a></li>
+						<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=130" data-ajax='false'>新聞広告</a></li>
+						<li><A href="http://www.ibarakinews.jp/hp/hpdetail.php?f_jun=120" data-ajax='false'>折込チラシ</a></li>
+						<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=160" data-ajax='false'>写真販売</a></li>
+						<li><A href="http://ibarakinews.jp/hp/hpdetail.php?f_jun=170" data-ajax='false'>記念日新聞印刷サービス</a></li>
+						<li><A href="http://www.ibarakinews.jp/hp/hpdetail.php?f_jun=150" data-ajax='false'>出前授業</a></li>
+						<li><A href="http://www.ibarakinews.jp/hp/hpdetail.php?f_jun=20" data-ajax='false'><font color='green'>お問い合わせ</font></a></li>
+							<li><A href="http://www.ibarakinews.jp/hp/hpdetail.php?f_jun=30" data-ajax='false'><font color='green'>個人情報保護方針</font></a></li>
+						<li><A href="http://www.ibarakinews.jp/hp/hpdetail.php?f_jun=40" data-ajax='false'><font color='green'>著作・リンク</font></a></li>	</ul>
+	</dd>
+	</dl>
+	</div>
+	<!--// SIDE -->
+	
+	
+	<!--// FOR SP BANNER 300 -->
+	<ul class="bnrs w730">
+	</ul>
+	<!--// FOR SP BANNER 300 -->
+	
+	<!--// BANNERS 340 -->
+	<ul class="bnrs w340">
+		<li>
+			<script type="text/javascript">
+				if((navigator.userAgent.indexOf('iPhone')>0 || navigator.userAgent.indexOf('Android')>0)&&window.innerWidth<728){
+	//				document.write("<!--criteo 728x90-->\r\n<script type='text\/javascript'>\r\n<!--\/\/<![CDATA[\r\n   document.MAX_ct0 ='';\r\n   var m3_u = (location.protocol=='https:'?'https:\/\/cas.criteo.com\/delivery\/ajs.php?':'http:\/\/cas.criteo.com\/delivery\/ajs.php?');\r\n   var m3_r = Math.floor(Math.random()*99999999999);\r\n   document.write (\"<scr\"+\"ipt type='text\/javascript' src='\"+m3_u);\r\n   document.write (\"zoneid=123642\");document.write(\"&amp;nodis=1\");\r\n   document.write ('&amp;cb=' + m3_r);\r\n   if (document.MAX_used != ',') document.write (\"&amp;exclude=\" + document.MAX_used);\r\n   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));\r\n   document.write (\"&amp;loc=\" + escape(window.location));\r\n   if (document.referrer) document.write (\"&amp;referer=\" + escape(document.referrer));\r\n   if (document.context) document.write (\"&context=\" + escape(document.context));\r\n   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {\r\n       document.write (\"&amp;ct0=\" + escape(document.MAX_ct0));\r\n   }\r\n   if (document.mmm_fo) document.write (\"&amp;mmm_fo=1\");\r\n   document.write (\"'><\/scr\"+\"ipt>\");\r\n\/\/]]>--><\/script>");
+				}else{
+					document.write("<script type='text\/javascript'>\r\n<!--\/\/<![CDATA[\r\n   document.MAX_ct0 ='';\r\n   var m3_u = (location.protocol=='https:'?'https:\/\/cas.criteo.com\/delivery\/ajs.php?':'http:\/\/cas.criteo.com\/delivery\/ajs.php?');\r\n   var m3_r = Math.floor(Math.random()*99999999999);\r\n   document.write (\"<scr\"+\"ipt type='text\/javascript' src='\"+m3_u);\r\n   document.write (\"zoneid=137162\");document.write(\"&amp;nodis=1\");\r\n   document.write ('&amp;cb=' + m3_r);\r\n   if (document.MAX_used != ',') document.write (\"&amp;exclude=\" + document.MAX_used);\r\n   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));\r\n   document.write (\"&amp;loc=\" + escape(window.location));\r\n   if (document.referrer) document.write (\"&amp;referer=\" + escape(document.referrer));\r\n   if (document.context) document.write (\"&context=\" + escape(document.context));\r\n   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {\r\n       document.write (\"&amp;ct0=\" + escape(document.MAX_ct0));\r\n   }\r\n   if (document.mmm_fo) document.write (\"&amp;mmm_fo=1\");\r\n   document.write (\"'><\/scr\"+\"ipt>\");\r\n\/\/]]>--><\/script>");
+				}
+				</script>
+		</li>
+		<li></li>
+		<li>
+			<script type="text/javascript">
+				if((navigator.userAgent.indexOf('iPhone')>0 || navigator.userAgent.indexOf('Android')>0)&&window.innerWidth<728){
+	//				document.write("<!--criteo 728x90-->\r\n<script type='text\/javascript'>\r\n<!--\/\/<![CDATA[\r\n   document.MAX_ct0 ='';\r\n   var m3_u = (location.protocol=='https:'?'https:\/\/cas.criteo.com\/delivery\/ajs.php?':'http:\/\/cas.criteo.com\/delivery\/ajs.php?');\r\n   var m3_r = Math.floor(Math.random()*99999999999);\r\n   document.write (\"<scr\"+\"ipt type='text\/javascript' src='\"+m3_u);\r\n   document.write (\"zoneid=123642\");document.write(\"&amp;nodis=1\");\r\n   document.write ('&amp;cb=' + m3_r);\r\n   if (document.MAX_used != ',') document.write (\"&amp;exclude=\" + document.MAX_used);\r\n   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));\r\n   document.write (\"&amp;loc=\" + escape(window.location));\r\n   if (document.referrer) document.write (\"&amp;referer=\" + escape(document.referrer));\r\n   if (document.context) document.write (\"&context=\" + escape(document.context));\r\n   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {\r\n       document.write (\"&amp;ct0=\" + escape(document.MAX_ct0));\r\n   }\r\n   if (document.mmm_fo) document.write (\"&amp;mmm_fo=1\");\r\n   document.write (\"'><\/scr\"+\"ipt>\");\r\n\/\/]]>--><\/script>");
+				}else{
+					document.write("<script type='text\/javascript'>\r\n<!--\/\/<![CDATA[\r\n   document.MAX_ct0 ='';\r\n   var m3_u = (location.protocol=='https:'?'https:\/\/cas.criteo.com\/delivery\/ajs.php?':'http:\/\/cas.criteo.com\/delivery\/ajs.php?');\r\n   var m3_r = Math.floor(Math.random()*99999999999);\r\n   document.write (\"<scr\"+\"ipt type='text\/javascript' src='\"+m3_u);\r\n   document.write (\"zoneid=137162\");document.write(\"&amp;nodis=1\");\r\n   document.write ('&amp;cb=' + m3_r);\r\n   if (document.MAX_used != ',') document.write (\"&amp;exclude=\" + document.MAX_used);\r\n   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));\r\n   document.write (\"&amp;loc=\" + escape(window.location));\r\n   if (document.referrer) document.write (\"&amp;referer=\" + escape(document.referrer));\r\n   if (document.context) document.write (\"&context=\" + escape(document.context));\r\n   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {\r\n       document.write (\"&amp;ct0=\" + escape(document.MAX_ct0));\r\n   }\r\n   if (document.mmm_fo) document.write (\"&amp;mmm_fo=1\");\r\n   document.write (\"'><\/scr\"+\"ipt>\");\r\n\/\/]]>--><\/script>");
+				}
+				</script>
+		</li>
+		<li>
+			<script type="text/javascript">
+				if((navigator.userAgent.indexOf('iPhone')>0 || navigator.userAgent.indexOf('Android')>0)&&window.innerWidth<728){
+	//				document.write("<!--criteo 728x90-->\r\n<script type='text\/javascript'>\r\n<!--\/\/<![CDATA[\r\n   document.MAX_ct0 ='';\r\n   var m3_u = (location.protocol=='https:'?'https:\/\/cas.criteo.com\/delivery\/ajs.php?':'http:\/\/cas.criteo.com\/delivery\/ajs.php?');\r\n   var m3_r = Math.floor(Math.random()*99999999999);\r\n   document.write (\"<scr\"+\"ipt type='text\/javascript' src='\"+m3_u);\r\n   document.write (\"zoneid=123642\");document.write(\"&amp;nodis=1\");\r\n   document.write ('&amp;cb=' + m3_r);\r\n   if (document.MAX_used != ',') document.write (\"&amp;exclude=\" + document.MAX_used);\r\n   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));\r\n   document.write (\"&amp;loc=\" + escape(window.location));\r\n   if (document.referrer) document.write (\"&amp;referer=\" + escape(document.referrer));\r\n   if (document.context) document.write (\"&context=\" + escape(document.context));\r\n   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {\r\n       document.write (\"&amp;ct0=\" + escape(document.MAX_ct0));\r\n   }\r\n   if (document.mmm_fo) document.write (\"&amp;mmm_fo=1\");\r\n   document.write (\"'><\/scr\"+\"ipt>\");\r\n\/\/]]>--><\/script>");
+				}else{
+					document.write("<!--\u3010ADJUST \u5e83\u544a 468\u00d760\u3011-->\r\n<script type=\"text\/javascript\">\r\n    var amp_med = '32';\r\n    var amp_site = '38';\r\n    var amp_frame = '11132';\r\n    var amp_iframe = '0';\r\n    var amp_height = '60';\r\n    var amp_width = '468';\r\n    var amp_type = '0';\r\n    var amp_rurl = document.referrer;\r\n    var amp_send = location.protocol + '\/\/ads.adjust-net.jp\/adserver\/ad\/ads.js';\r\n    document.write(\"<scr\" + \"ipt language='javascript' src='\" + amp_send + \"'><\/scr\" + \"ipt>\");\r\n<\/script>\r\n<noscript>\r\n    <iframe src=\"https:\/\/ads.adjust-net.jp\/adserver\/ads?med=32&site=38&frame=11132&height=60&width=468&type=0&js=0\" scrolling=\"no\" height=\"60\" width=\"468\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" title=\"ads\">\r\n    <\/iframe>\r\n<\/noscript>");
+				}
+				</script>
+		</li>
+		<li><div id="newsmart" style="width:210px;height:60px;background-color:pink;padding-top:0px;text-align:center"><a href="http://nm.ibarakinews.jp"><font size="3"><b><div style="float:left"><img src="http://ibaraki-np.co.jp/hp/QR_Code.gif" style="width:60px;height:60px;" ></div><div style="float:right;padding-top:15px;padding-right:10px">有料携帯サイト<br>（Newsmart）</b></font></div></a><div></li>
+	</ul>
+	<!--// BANNERS 340 -->
+	
+	<!-- Overlay -->
+	<div id="fixed_footer">
+			<script type="text/javascript">
+				if((navigator.userAgent.indexOf('iPhone')>0 || navigator.userAgent.indexOf('Android')>0)&&window.innerWidth<728){
+					document.write("<script type='text\/javascript'>\r\n<!--\/\/<![CDATA[\r\n   document.MAX_ct0 ='';\r\n   var m3_u = (location.protocol=='https:'?'https:\/\/cas.criteo.com\/delivery\/ajs.php?':'http:\/\/cas.criteo.com\/delivery\/ajs.php?');\r\n   var m3_r = Math.floor(Math.random()*99999999999);\r\n   document.write (\"<scr\"+\"ipt type='text\/javascript' src='\"+m3_u);\r\n   document.write (\"zoneid=153047\");document.write(\"&amp;nodis=1\");\r\n   document.write ('&amp;cb=' + m3_r);\r\n   if (document.MAX_used != ',') document.write (\"&amp;exclude=\" + document.MAX_used);\r\n   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));\r\n   document.write (\"&amp;loc=\" + escape(window.location));\r\n   if (document.referrer) document.write (\"&amp;referer=\" + escape(document.referrer));\r\n   if (document.context) document.write (\"&context=\" + escape(document.context));\r\n   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {\r\n       document.write (\"&amp;ct0=\" + escape(document.MAX_ct0));\r\n   }\r\n   if (document.mmm_fo) document.write (\"&amp;mmm_fo=1\");\r\n   document.write (\"'><\/scr\"+\"ipt>\");\r\n\/\/]]>--><\/script>");
+				}else{
+	//				document.write("<!--\u301047CLUB\u3011-->\r\n<iframe frameborder='0' allowtransparency='true' height='60' width='468' marginheight='0' scrolling='no' src='http:\/\/ad.jp.ap.valuecommerce.com\/servlet\/htmlbanner?sid=2756406&pid=879888689' marginwidth='0'><script language='javascript' src='http:\/\/ad.jp.ap.valuecommerce.com\/servlet\/jsbanner?sid=2756406&pid=879888689'><\/script><noscript><a href='http:\/\/ck.jp.ap.valuecommerce.com\/servlet\/referral?sid=2756406&pid=879888689' target='_blank' ><img src='http:\/\/ad.jp.ap.valuecommerce.com\/servlet\/gifbanner?sid=2756406&pid=879888689' height='60' width='468' border='0'><\/a><\/noscript><\/iframe>\r\n<!--\u301047CLUB\u3011-->\r\n<table>\r\n<tr height='18'><td>\uff3bPR\uff3d<\/td><td>\r\n<!-- Begin: Adlantis, Zone: [47CLUB\u4ea4\u63db\u30c6\u30ad\u30b9\u30c8\u5e83\u544a]T -->\r\n<div class='adlantiss_frame zid_9j0AYS6ZNoUglqadZJPUwg%3D%3D color_#0000FF container_div autosize'><\/div>\r\n<!-- End: Adlantis -->\r\n<\/td><\/tr>\r\n<\/table>");
+				}
+				</script>
+	</div>
+	<!-- Overlay -->
+	
+</div>
+<!--// CONTAINER -->
+
+<!--// FOOTER -->
+<div id="footer">
+<ul>
+<li><A href="http://ibarakinews.jp/top.php" data-ajax='false'>トップ</A></li>
+					<li><A  href="http://ibarakinews.jp/hp/list.php?elem=service" data-ajax='false'>サービス</A></li>
+					<li><A  href="http://ibarakinews.jp/news/newstop.html" data-ajax='false'>ニュース</A></li>
+					<li><A  href="http://ibarakinews.jp/hp/list.php?elem=info_ibaraki" data-ajax='false'>お知らせ</A></li>
+<!--li><A href="http://ibarakinews.jp/hp/list.php?elem=columns" data-ajax='false'>読み物</A></li-->
+					<li><A  href="http://ibarakinews.jp/hp/list.php?elem=corp" data-ajax='false'>企業情報</A></li>
+					<li><A  href="http://ibarakinews.jp/hp/list.php?elem=shimbun" data-ajax='false'>新聞購読</A></li></ul>
+<h6>茨城新聞社</h6>
+<address>〒310-8686<br>茨城県水戸市笠原町978-25 茨城県開発公社ビル<br>電話 029-239-3001&#12857;</address>
+<p>&copy; 2014 THE IBARAKI SHIMBUN Co.,Ltd. All Rights Reserved.</p>
+</div>
+<!--// FOOTER -->
+
+<!--// jQuery -->
+<script type="text/javascript" src="../js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="../js/jquery.custom.js"></script>
+<script type="text/javascript">
+	jQuery('#topnews').biggerlink();
+	jQuery('#koudoku').biggerlink();
+	jQuery('#fukushi').biggerlink();
+	jQuery('#shodo').biggerlink();
+	jQuery('#newsmart').biggerlink();
+</script>
+<!--// jQuery -->
+</body>
+</html>

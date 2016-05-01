@@ -1,0 +1,3280 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/VideoObject" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"  >
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+<script type="text/javascript">
+var videoPageUrl = "http://edmonton.ctvnews.ca/video";
+</script>
+<meta name="viewport" content="width=1024" />
+<style>
+  @font-face {font-family: 'Flama-Medium';src: url('http://static.ctvnews.ca/bellmedia/ctvnews/css/webfonts/Flama-Medium.eot?s=2_622');src: url('http://static.ctvnews.ca/bellmedia/ctvnews/css/webfonts/Flama-Medium.eot?#iefix&s=2_622') format('embedded-opentype'),url('http://static.ctvnews.ca/bellmedia/ctvnews/css/webfonts/Flama-Medium.woff?s=2_622') format('woff'),url('http://static.ctvnews.ca/bellmedia/ctvnews/css/webfonts/Flama-Medium.svg#font&s=2_622') format('svg');font-weight: normal;font-style:normal;}
+</style>
+<link rel="stylesheet" type="text/css" href="http://static.ctvnews.ca/bellmedia/common/css/common.css" />
+<script type="text/javascript" src="http://static.ctvnews.ca/bellmedia/common/js/jquery-1.7.js"></script>
+<script type="text/javascript" src="http://static.ctvnews.ca/bellmedia/common/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://static.ctvnews.ca/bellmedia/common/js/requireDependency.js"></script>
+<script type="text/javascript" src="http://static.ctvnews.ca/bellmedia/common/js/jquery.polopoly.js"></script>
+  <script type="text/javascript" src="http://cdn.gigya.com/js/gigya.js?apiKey=3_-FVQzpdFRai9eK0LUE2bQibsUcv-mtWRgrAUaCyDvREHAAVSgJS25CWP-fZq-7hZ"></script>
+  <script type="text/javascript">
+    var loginWeb = "CTVnews-login-web";
+    var loginMobile = "CTVnews-login-mobile";
+    var profWeb = "CTVnews-profile-web";
+    var profMobile = "CTVNews-profile-mobile";
+		var shareProviders = "facebook,twitter,google,linkedin";
+  </script>
+  <script type="text/javascript" src="http://static.ctvnews.ca/bellmedia/common/js/gigya.js"></script>
+
+<script type="text/javascript">
+  var kruxID = "ImoeZsch";
+</script>
+<!-- END Krux Controltag -->
+
+    <script type="text/javascript">
+    requiresDependency('http://auth.9c9media.ca/auth/main.js', function() {
+        $(function(){
+            initAuth();
+        });
+        function initAuth(){
+            var brand = 'ctvnews';
+            var platform = 'web';
+            var environment = 'prod';
+            
+            BmAuth.init(brand, platform, environment)
+            .then(function(){})
+            .catch(function(errorPackage){console.log('[BmAuth] init failed', errorPackage);});
+            };
+            });
+    </script>
+
+                        <link rel="stylesheet" type="text/css" href="http://static.ctvnews.ca/bellmedia/common/css/elections.css" media="screen" />
+                <script type="text/javascript">
+requiresDependency('http://static.ctvnews.ca/bellmedia/common/js/elections.js', function() {
+getGainsAndLosses = function(url){  
+  $.getJSON(url, function(data) {
+      var parties = data.parties;
+    if(parties != null && parties.length > 0){
+      gainsAndLosses.length = 0;
+      for(var i=0; i<parties.length; i++){
+        var party = parties[i];
+        party.colour = getPartyColour(party.name);
+        gainsAndLosses.push(party);
+      }
+    }
+
+    // Descending sort
+    gainsAndLosses.sort(function(obj1, obj2){  
+                return obj2.seatsTotal - obj1.seatsTotal;
+              });
+    
+    jQuery("#dynamicGainsAndLosses").html('');
+    
+    for ( var i = 0; i < gainsAndLosses.length; i ++ ){
+      var party = gainsAndLosses[i];
+      
+      jQuery("#dynamicGainsAndLosses").append('<article class="partyResult">' 
+                      +  '<dl class="party' + party.colour + ' clearfix">'                      
+                      +     '<dt class="partyName">' + getPartyDisplayName(party.name) +  '</dt>'
+                      +     '<span class="seatTotal"><span class="totalR">Total</span><br>'
+                      +     '<dd class="currentResult">' + party.seatsTotal + '</dd></span>'
+                      +     '<span class="eAndl">'
+                      +     '<dt>Elected:</dt><dd>' + party.seatsGained + '</dd><br/>'
+                      +     '<dt>Leading:</dt><dd>' + party.seatsLost + '</dd>'
+                      +     '</span>'
+                      +   '</dl>'
+                      + '</article>');
+    }
+  });
+};
+  
+});
+</script>                    <link rel="stylesheet" type="text/css" href="http://static.ctvnews.ca/bellmedia/common/css/jquery.lightbox-0.4.css" media="screen" />
+                    <script type="text/javascript" src="http://static.ctvnews.ca/bellmedia/common/js/swfobject-2.2.js" ></script>
+                    <script type="text/javascript" src="http://static.ctvnews.ca/bellmedia/common/js/lightbox/jquery.lightbox-0.4.min.js" ></script>
+                    <script type="text/javascript" src="http://static.ctvnews.ca/bellmedia/common/js/jquery.validate-1.12.0.min.js" ></script>
+                    <script type="text/javascript" src="http://static.ctvnews.ca/bellmedia/common/js/membership.js" ></script>
+                      <link rel="stylesheet" type="text/css" href="http://static.ctvnews.ca/bellmedia/ctvnews/css/imageGallery.css" media="screen" />
+                <!--[if IE 7]>
+<style>
+.content-secondary .videoPromoList .teaser .teaserTitle {margin-top: 0}
+.content-secondary .videoPromoList .teaser .teaserTitle, .content-secondary .videoPromoList .teaser .teaserTitle a {line-height: 1}
+.onlineExtras .right {float: left; margin-left: 0; width: auto}
+.onlineExtras .button {padding-right: 0.9em}
+.onlineExtras .arrow {position: absolute; margin-top: 5px; }
+.topAd .boxAd p {position: static!important}
+.fbpluginrecommendationsbarright {display: none!important}
+
+.element.time {display: none!important}
+</style>
+ <![endif]-->
+
+<!--[IF IE]>
+<style>
+.toronto2014 svg {overflow: hidden}
+}
+</style>
+ <![endif]-->
+
+                  <script type="text/javascript" src="http://static.ctvnews.ca/bellmedia/common/js/detectMobile.js" ></script>
+                <script type="text/javascript">
+if(!(window.console && console.log)) {
+  console = {
+    log: function(){},
+    debug: function(){},
+    info: function(){},
+    warn: function(){},
+    error: function(){}
+  };
+}  
+function outputLog(source, str) {
+  try {
+        if (isDebug) {
+            if (console && console.log) {
+                console.log("[ " + source + " ]=" + str);
+            }
+        }
+  } catch (e) {
+  }
+}
+</script>  
+                 <script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+
+    
+    googletag.cmd.push(function() {
+      googletag.pubads().collapseEmptyDivs(true);
+                                            
+    googletag.enableServices();
+    });
+    
+ 
+</script>              <link rel="apple-touch-icon" href="http://ctvnews.cookieless.ca/bellmedia/ctvnews/img/affiliate-touch-icon.png">
+<link rel="apple-touch-icon" href="http://ctvnews.cookieless.ca/bellmedia/ctvnews/img/affiliate-touch-icon-72x72.png" sizes="72x72">
+<link rel="apple-touch-icon" href="http://ctvnews.cookieless.ca/bellmedia/ctvnews/img/affiliate-touch-icon-114x114.png" sizes="114x114">
+
+                    <link rel="stylesheet" type="text/css" href="http://static.ctvnews.ca/bellmedia/common/css/ctvnews_layout.css" media="screen" />
+                      <link rel="stylesheet" type="text/css" href="http://static.ctvnews.ca/bellmedia/edmonton/css/edmonton_layout.css" media="screen" />
+                  <link rel="icon" type="image/ico" href="http://static.ctvnews.ca/bellmedia/common/img/favicon.ico" sizes="16x16"/> 
+                <link rel="icon" type="image/ico" href="http://static.ctvnews.ca/bellmedia/common/img/32_ctvnewsfav.ico" sizes="32x32"/> 
+                <link rel="shortcut icon" type="image/x-icon" href="http://static.ctvnews.ca/bellmedia/common/img/64_ctvnewsfav.ico" sizes="64x64"/>
+                    <!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="http://static.ctvnews.ca/bellmedia/common/css/ie_ctvnews.css" media="screen" />
+      <![endif]-->
+                      <!--[if IE 8]>
+      <link rel="stylesheet" type="text/css" href="http://static.ctvnews.ca/bellmedia/common/css/ie8_common.css" media="screen" />
+      <![endif]-->
+                <meta name="p:domain_verify" content="3ba6a6784bb2ab415ffef9a2fb92f89a" >              <meta name="google-site-verification" content="BVIH8PHvX6dLxqFGRrD_T3oVQZfXshe-lIxUeEJ30eM" />     <script type="text/javascript" src="http://static.ctvnews.ca/bellmedia/common/js/mdetect.js"></script>
+   <link rel="stylesheet" type="text/css" href="/cmlink/ctv-styles-7.132" />
+  <link rel="stylesheet" type="text/css" href="/cmlink/ontario2014-7.523345" />
+  <link rel="stylesheet" type="text/css" href="/cmlink/video-bin-column-css-7.489853" />
+  <link rel="stylesheet" type="text/css" href="/cmlink/banner-temp-7.298239" />
+  <link rel="stylesheet" type="text/css" href="/cmlink/player-style-7.363763" />
+  <link rel="stylesheet" type="text/css" href="/cmlink/mynews-7.555290" />
+  <link rel="stylesheet" type="text/css" href="/cmlink/brightcove-responsive-7.666233" />
+  <link rel="stylesheet" type="text/css" href="/cmlink/styles-7.484009" />
+  <link rel="stylesheet" type="text/css" href="/cmlink/story-related-7.343939" />
+
+<link href="http://static.ctvnews.ca/bellmedia/common/css/responsive_layout.css" rel="stylesheet" type="text/css" media="screen, handheld, print, projection" />
+<link href="http://static.ctvnews.ca/bellmedia/common/css/print.css" rel="stylesheet" type="text/css" media="print" />
+<!--[if IE]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<!--[if lt IE 9]>
+        <script>
+        document.createElement('header');
+        document.createElement('nav');
+        document.createElement('section');
+        document.createElement('article');
+        document.createElement('aside');
+        document.createElement('footer');
+        document.createElement('hgroup');
+        </script>
+        <![endif]-->
+<script type="text/javascript">
+if(!(window.console && console.log)) {
+  console = {
+    log: function(){},
+    debug: function(){},
+    info: function(){},
+    warn: function(){},
+    error: function(){}
+  };
+}
+</script>
+	
+
+
+
+
+
+
+
+<script>
+window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+(function(){
+	function retrieve(n){
+		var m, k='kx'+n;
+		if (window.localStorage) {
+			return window.localStorage[k] || "";
+		} else if (navigator.cookieEnabled) {
+			m = document.cookie.match(k+'=([^;]*)');
+			return (m && unescape(m[1])) || "";
+		} else {
+			return '';
+		}
+	} 
+	Krux.user = retrieve('user'); 
+	Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+})();
+</script>
+
+<script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+    var gads = document.createElement('script'); gads.async = true; gads.type = 'text/javascript'; var useSSL = 'https:' == document.location.protocol; gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node); })();
+    
+    googletag.cmd.push(function() {
+                                      
+                		    googletag.defineOutOfPageSlot('/5479/ctv.ctvnewsedmonton/video/index','div-gpt-ad-outofpage-1-oop').addService(googletag.pubads()).addService(googletag.companionAds());
+          
+                                                                                                                                                                      
+                                                                                                                                                          
+                googletag.pubads().setTargeting("keyvalues",["envr=prod"]);
+                                            googletag.pubads().collapseEmptyDivs(true);
+			googletag.pubads().setTargeting("ksgmnt", Krux.segments);
+			googletag.pubads().setTargeting("u", Krux.user);
+		    googletag.pubads().enableVideoAds();
+    googletag.enableServices();
+    });
+    
+	    jQuery(document).ready(function(){
+      
+        for(var i=1; i < 3; i++){
+          var idArray = [];
+        var gptDivs = jQuery("div[id^='div-gpt-ad']");
+      
+        gptDivs.each( function(index, value){
+          id = jQuery(this).attr("id");
+          idArray.push(id);
+        });
+      
+        var actionedItems = [];
+        gptDivs.each( function(index, value){
+          var id = jQuery(this).attr("id");
+          
+          //if not found in actionedItems
+        if(jQuery.inArray(id, actionedItems) == -1){
+          var indices = [];
+          var idx = jQuery.inArray(id, idArray);
+          while (idx != -1) {
+            indices.push(idx);
+            idx = jQuery.inArray(id, idArray, idx + 1);
+          }
+          
+          if(indices.length > 1){
+            //assign unique id for each div.
+            
+            var repeatingDivs = jQuery("div[id="+id+"]");
+            var count = 0;
+            repeatingDivs.each( function(index, value){
+              if(count>0){
+                var divId = jQuery(this).attr("id");
+                var uniqueCount = parseInt(divId.charAt(divId.length-1));
+                divId = divId.slice(0, divId.lastIndexOf("-")+1).concat(uniqueCount+1);
+                jQuery(this).attr("id", divId);
+              }         
+              count++;
+            });
+            
+            actionedItems.push(id);
+          }
+        }
+        });   
+        }
+        
+      });
+</script>  <title>Love Pizza | CTV Edmonton News </title>
+      <meta name="description" content="There's a unique story behind Edmonton's Newest Pizza Joint." />
+    <meta name="robots" content="noarchive,noodp" />
+<meta name="robots" content="index,follow,noodp" />
+<meta name="robots" content="ACAP allow-index" />
+  
+                              <meta itemprop="description" content="There's a unique story behind Edmonton's Newest Pizza Joint." />
+                        <meta itemprop="name" content="Love Pizza" />
+                                  <meta itemprop="url" content="http://edmonton.ctvnews.ca/video?clipId=805647" />
+                    <meta itemprop="image" content="http://edmonton.ctvnews.ca/polopoly_fs/1.2772401.1455124807!/image/image.JPG_gen/derivatives/landscape_300/image.JPG" />
+                    <meta property="og:type" content="video" />
+          <meta property="video:duration" content="6:43m" />
+          <meta property="og:title" content="Love Pizza" />
+          <meta property="og:description" content="There's a unique story behind Edmonton's Newest Pizza Joint." />
+          <meta property="og:url" content="http://edmonton.ctvnews.ca/video?clipId=805647" />
+              <meta property="og:image" content="http://edmonton.ctvnews.ca/polopoly_fs/1.2772401.1455124807!/image/image.JPG_gen/derivatives/landscape_620/image.JPG" />
+        <meta property="og:site_name" content="Edmonton" />
+                    <meta name="twitter:title" content="Love Pizza" />
+          <meta name="twitter:url" content="http://edmonton.ctvnews.ca/video?clipId=805647" />
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:description" content="There's a unique story behind Edmonton's Newest Pizza Joint." />
+              <meta name="twitter:site" content="@ctvedmonton" />
+      <meta name="twitter:creator" content="@ctvedmonton" />
+              <meta name="twitter:image:src" content="http://edmonton.ctvnews.ca/polopoly_fs/1.2772401.1455124807!/image/image.JPG_gen/derivatives/landscape_620/image.JPG" />
+        <script type="text/javascript">
+  jQuery.ajaxSetup({
+    cache: 'true'
+  });
+</script> 
+  <link rel="alternate" type="application/rss+xml" title="CTV News - Edmonton " href="http://edmonton.ctvnews.ca/rss/ctv-news-edmonton-1.822347" />
+</head>
+
+<body id="top">
+  <div id="insertForm"></div>
+<script type="text/javascript">
+detectMobile();
+</script> 
+<script type="text/javascript"><!--jQuery(document).ready(function() {window.pageLoaded=true});//--></script>
+  <div class="topAd">
+        
+
+
+
+  
+  
+    <a name="pagetop"></a>
+<div id='div-gpt-ad-outofpage-1-oop' style='height: 0; width: 0'>
+   <script type='text/javascript'>
+     googletag.cmd.push(function() {
+       googletag.display('div-gpt-ad-outofpage-1-oop');
+     });
+    </script>
+</div>
+  
+  </div>
+
+<!-- BEGIN BANNERS -->
+<header class="banner clearfix">
+  <div class="skip-links hidden">
+    <ul>
+      <li><a href="#responsive_main" title="skip to content">Skip to Main Content</a></li>
+          </ul>
+  </div><!-- END .skip-links -->
+  
+        <div class="content-wrapper">
+        
+
+
+
+  
+  
+    <a class="logo logo_ctvnews" href="http://edmonton.ctvnews.ca" title="CTV Edmonton"></a>
+  
+  
+  
+    
+
+<div style='micronav' class='micronav'>
+  
+  
+
+
+
+  
+  
+    <div class="element list none ">
+                  <ul class="linklist horizontal">
+                                  
+            
+                    <li>
+                                    
+           
+                              <a  href="http://www.ctvnews.ca"   >CTV News</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://edmonton.ctvnews.ca/mobile/"  title="CTV Edmonton Mobile" >Mobile</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://www.ctv.ca"  title="CTV" >CTV</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+
+  </div>
+  
+  
+  
+    
+<div class="micronav">
+	<div class="liveSched"><div class="vidLock"></div> <p>Live Now:
+					<a href="http://edmonton.ctvnews.ca/video?clipId=89578">W5</a>
+		</p>
+	</div>
+</div>
+	
+ 
+  
+  
+  
+    
+    
+
+<div class="search element" id="search_7.110">
+      <a href="" class="sb">Search</a>
+  <form action="/search-results/ctv-edmonton-search-7.110" method="get" class="frm frmSearch">
+    <input class="bt submit" type="submit" value="" />
+    <div class="form">
+      <label class="hidden" for="search_bar_7_110">CTV Edmonton Search</label>
+      <input id="search_bar_7_110" placeholder="CTV Edmonton Search" type="text" name="q" value="" />
+      <a class="close">X</a>
+    </div>
+  </form></div>
+  
+  
+  
+    <div class="clearfix"></div>
+  
+  
+  
+                  	                                                  
+<div class="mainnavigation_wrapper ">
+<div class="mainnavigation_subnavigation_wrapper">
+<nav class="mainnavigation container" >
+        <ul class="menu menuSite menuTwo section-links">
+            
+                      
+                                    
+                        						            
+            <li class="mainnavigation_item item_7599116 bm- ">
+            <span class="mainnavigation_item_text">
+                          <span class="navlink">
+                                    <a  href="/"  title="Edmonton" >Home</a>
+                  </span>
+            
+                        </span>
+            </li>
+                
+                      
+                                    
+                        									            
+            <li class="mainnavigation_item item_7291978 bm- activePage">
+            <span class="mainnavigation_item_text">
+                            <span class="navlink active">
+                                  Video
+                                </span>
+            
+                          <span class="arrow"></span>
+                        </span>
+            </li>
+                
+                      
+                                    
+                        						            
+            <li class="mainnavigation_item item_7291980 bm- ">
+            <span class="mainnavigation_item_text">
+                          <span class="navlink">
+                                    <a  href="/edmonton-area-weather"  title="More Edmonton and Area Weather" >Weather</a>
+                  </span>
+            
+                        </span>
+            </li>
+                
+                      
+                                    
+                        						            
+            <li class="mainnavigation_item item_7291982 bm- ">
+            <span class="mainnavigation_item_text">
+                            <span class="navlink">
+                                  Morning Live
+                                </span>
+            
+                          <span class="arrow"></span>
+                        </span>
+            </li>
+                
+                      
+                                    
+                        						            
+            <li class="mainnavigation_item item_7291983 bm- ">
+            <span class="mainnavigation_item_text">
+                            <span class="navlink">
+                                  More
+                                </span>
+            
+                          <span class="arrow"></span>
+                        </span>
+            </li>
+                
+                      
+                                    
+                        						            
+            <li class="mainnavigation_item item_7599189 bm- ">
+            <span class="mainnavigation_item_text">
+                          <span class="navlink">
+                                    <a  href="/ctv-edmonton-contests"  title="CTV Edmonton Contests" >Contests</a>
+                  </span>
+            
+                        </span>
+            </li>
+                
+                      
+                                    
+                        						            
+            <li class="mainnavigation_item item_7291985 bm- ">
+            <span class="mainnavigation_item_text">
+                            <span class="navlink">
+                                  About
+                                </span>
+            
+                          <span class="arrow"></span>
+                        </span>
+            </li>
+                
+                      
+                                    
+                        						            
+            <li class="mainnavigation_item item_7290514 bm- ">
+            <span class="mainnavigation_item_text">
+                            <span class="navlink">
+                                  Local
+                                </span>
+            
+                          <span class="arrow"></span>
+                        </span>
+            </li>
+                    </ul>
+</nav>
+                             <div class="drop_down link_id_7599116" style="display:none;">
+                          <script type="text/javascript">
+          jQuery(document).ready(function() {
+            jQuery(".item_7599116").click(click_7599116);
+            jQuery(".link_id_7599116 .close").click(click_7599116);
+          });
+          </script>
+        </div>
+            <script type="text/javascript">
+          function click_7599116() {
+            var itemSelector = ".item_7599116";
+            var selector = ".link_id_7599116";
+            var shouldOpen = ((jQuery(selector + ":visible").size() <= 0) && (jQuery(selector + " div").size() > 0));
+            if (jQuery(".drop_down:visible").size() > 0) {
+              jQuery(".drop_down:visible").hide();
+              jQuery(".mainnavigation_item").removeClass("active");
+            }
+            if(shouldOpen) {
+              jQuery(selector).slideDown();
+              jQuery(itemSelector).toggleClass("active");
+            }
+          }
+      </script>
+                                       <div class="drop_down link_id_7291978" style="display:none;">
+                    <div class="drop_down_element_container bm-">
+      <a href="#" class="close" title="Close menu"><span></span></a>
+                
+
+<div>
+  
+  
+
+
+
+  
+  
+    <div class="element list none ">
+              <h3>Full Newscasts </h3>
+                      <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                                <a  href="http://edmonton.ctvnews.ca/video?binId=1.1203466"  title="CTV News at Noon Edmonton" >CTV News at Noon</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://edmonton.ctvnews.ca/video?binId=1.2122246"  title="CTV News at Five Edmonton" >CTV News at Five</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://edmonton.ctvnews.ca/video?binId=1.1203553"  title="CTV News at Six Edmonton" >CTV News at Six</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://edmonton.ctvnews.ca/video?binId=1.2118565"  title="CTV News at 11:30 Edmonton" >CTV News at 11:30</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://edmonton.ctvnews.ca/video?binId=1.1203435"  title="CTV News Red Deer" >CTV News Red Deer</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>Highlights </h3>
+                      <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                                <a  href="/video?binId=1.1203428"  title="Latest News from CTV Edmonton" >Latest Videos</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://edmonton.ctvnews.ca/video?binId=1.2122241"  title="CTV Morning Live Edmonton" >CTV Morning Live</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://edmonton.ctvnews.ca/video?binId=1.1717076"  title="On Your Street" >On Your Street</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="/video?binId=1.1203453"  title="Consumer Watch Videos with Laura Lowe" >Consumer Watch</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="/video?binId=1.1203457"  title="Your Health with Carmen Leibel" >Your Health</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>Interviews </h3>
+                      <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                                <a  href="/video?binId=1.1203468"  title="CTV Morning Live" >CTV Morning Live</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="/video?binId=1.1203436"  title="News at Noon Interviews" >CTV News at Noon</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>More </h3>
+                      <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                                <a  href="/video?binId=1.1203434"  title="Local Sports" >Local Sports</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="/video?binId=1.1203433"  title="Entertainment" >Entertainment</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="/video?binId=1.1203432"  title="Weather Watchers" >Weather Watchers</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>LIVE </h3>
+                      <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                                <a  href="http://www.ctvnews.ca/live"  title="CTV News LIVE" >CTV News LIVE</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                              <a  href="http://www.ctvnews.ca/go"   >CTV News GO</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                              <a  href="http://www.ctvnews.ca/faq"   >Video Help</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+
+  </div>          </div>
+            <script type="text/javascript">
+          jQuery(document).ready(function() {
+            jQuery(".item_7291978").click(click_7291978);
+            jQuery(".link_id_7291978 .close").click(click_7291978);
+          });
+          </script>
+        </div>
+            <script type="text/javascript">
+          function click_7291978() {
+            var itemSelector = ".item_7291978";
+            var selector = ".link_id_7291978";
+            var shouldOpen = ((jQuery(selector + ":visible").size() <= 0) && (jQuery(selector + " div").size() > 0));
+            if (jQuery(".drop_down:visible").size() > 0) {
+              jQuery(".drop_down:visible").hide();
+              jQuery(".mainnavigation_item").removeClass("active");
+            }
+            if(shouldOpen) {
+              jQuery(selector).slideDown();
+              jQuery(itemSelector).toggleClass("active");
+            }
+          }
+      </script>
+                                       <div class="drop_down link_id_7291980" style="display:none;">
+                          <script type="text/javascript">
+          jQuery(document).ready(function() {
+            jQuery(".item_7291980").click(click_7291980);
+            jQuery(".link_id_7291980 .close").click(click_7291980);
+          });
+          </script>
+        </div>
+            <script type="text/javascript">
+          function click_7291980() {
+            var itemSelector = ".item_7291980";
+            var selector = ".link_id_7291980";
+            var shouldOpen = ((jQuery(selector + ":visible").size() <= 0) && (jQuery(selector + " div").size() > 0));
+            if (jQuery(".drop_down:visible").size() > 0) {
+              jQuery(".drop_down:visible").hide();
+              jQuery(".mainnavigation_item").removeClass("active");
+            }
+            if(shouldOpen) {
+              jQuery(selector).slideDown();
+              jQuery(itemSelector).toggleClass("active");
+            }
+          }
+      </script>
+                                       <div class="drop_down link_id_7291982" style="display:none;">
+                    <div class="drop_down_element_container bm-">
+      <a href="#" class="close" title="Close menu"><span></span></a>
+                
+
+<div>
+  
+  
+
+
+
+  
+  
+    <div class="element list none ">
+              <h3>Home </h3>
+                      <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                                <a  href="/ctv-edmonton-morning-live"  title="CTV Morning Live Home" >CTV Morning Live Home</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://edmonton.ctvnews.ca/video?binId=1.2727898"  title="Milestones - Birthdays, Anniversaries, Celebration" >Milestones</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>Video </h3>
+                      <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                                <a  href="http://edmonton.ctvnews.ca/video?binId=1.2122241"  title="CTV Morning Live Full Show" >Morning Live Full Show</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://edmonton.ctvnews.ca/video?binId=1.1203468"  title="CTV Morning Live Interviews" >Morning Live Interviews</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>Features </h3>
+                      <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                                <a  href="http://edmonton.ctvnews.ca/ctv-edmonton-morning-live/smart-money-with-nathan-giesbrecht"  title="Smart Money with Nathan Giesbrecht" >Smart Money</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://edmonton.ctvnews.ca/video?binId=1.2727898"  title="Pet Life with Petland" >Pet Life</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://edmonton.ctvnews.ca/video?binId=1.2727895"  title="Real Estate Monthly with REALTORS Association of Edmonton" >Real Estate Monthly</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://edmonton.ctvnews.ca/video?binId=1.2727884"  title="Tech Talk with London Drugs" >Tech Talk</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+
+  </div>          </div>
+            <script type="text/javascript">
+          jQuery(document).ready(function() {
+            jQuery(".item_7291982").click(click_7291982);
+            jQuery(".link_id_7291982 .close").click(click_7291982);
+          });
+          </script>
+        </div>
+            <script type="text/javascript">
+          function click_7291982() {
+            var itemSelector = ".item_7291982";
+            var selector = ".link_id_7291982";
+            var shouldOpen = ((jQuery(selector + ":visible").size() <= 0) && (jQuery(selector + " div").size() > 0));
+            if (jQuery(".drop_down:visible").size() > 0) {
+              jQuery(".drop_down:visible").hide();
+              jQuery(".mainnavigation_item").removeClass("active");
+            }
+            if(shouldOpen) {
+              jQuery(selector).slideDown();
+              jQuery(itemSelector).toggleClass("active");
+            }
+          }
+      </script>
+                                       <div class="drop_down link_id_7291983" style="display:none;">
+                    <div class="drop_down_element_container bm-">
+      <a href="#" class="close" title="Close menu"><span></span></a>
+                
+
+<div>
+  
+  
+
+
+
+  
+  
+    <div class="element list none ">
+              <h3>On-Air Features </h3>
+                      <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                                <a  href="http://edmonton.ctvnews.ca/video?binId=1.1717076"  title="On Your Street" >On Your Street</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="/video?binId=1.1203457"  title="Your Health with Carmen Leibel" >Your Health</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="/video?binId=1.1203453"  title="Consumer Watch Videos with Laura Lowe" >Consumer Watch</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>Online Resources </h3>
+                      <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                                <a  href="/newslinks"  title="NEWSLINKS" >NEWSLINKS</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="/photo-galleries"  title="Photo Galleries" >Photo Galleries</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>Events </h3>
+                      <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                                <a  href="/community-calendar"  title="Community Calendar" >Community Calendar</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>Other </h3>
+                      <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                                <a  href="/recipes"  title="Recipes" >Recipes</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="/more/ctv-edmonton-poll"  title="CTV Edmonton Poll" >CTV Edmonton Poll</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+
+  </div>          </div>
+            <script type="text/javascript">
+          jQuery(document).ready(function() {
+            jQuery(".item_7291983").click(click_7291983);
+            jQuery(".link_id_7291983 .close").click(click_7291983);
+          });
+          </script>
+        </div>
+            <script type="text/javascript">
+          function click_7291983() {
+            var itemSelector = ".item_7291983";
+            var selector = ".link_id_7291983";
+            var shouldOpen = ((jQuery(selector + ":visible").size() <= 0) && (jQuery(selector + " div").size() > 0));
+            if (jQuery(".drop_down:visible").size() > 0) {
+              jQuery(".drop_down:visible").hide();
+              jQuery(".mainnavigation_item").removeClass("active");
+            }
+            if(shouldOpen) {
+              jQuery(selector).slideDown();
+              jQuery(itemSelector).toggleClass("active");
+            }
+          }
+      </script>
+                                       <div class="drop_down link_id_7599189" style="display:none;">
+                          <script type="text/javascript">
+          jQuery(document).ready(function() {
+            jQuery(".item_7599189").click(click_7599189);
+            jQuery(".link_id_7599189 .close").click(click_7599189);
+          });
+          </script>
+        </div>
+            <script type="text/javascript">
+          function click_7599189() {
+            var itemSelector = ".item_7599189";
+            var selector = ".link_id_7599189";
+            var shouldOpen = ((jQuery(selector + ":visible").size() <= 0) && (jQuery(selector + " div").size() > 0));
+            if (jQuery(".drop_down:visible").size() > 0) {
+              jQuery(".drop_down:visible").hide();
+              jQuery(".mainnavigation_item").removeClass("active");
+            }
+            if(shouldOpen) {
+              jQuery(selector).slideDown();
+              jQuery(itemSelector).toggleClass("active");
+            }
+          }
+      </script>
+                                       <div class="drop_down link_id_7291985" style="display:none;">
+                    <div class="drop_down_element_container bm-">
+      <a href="#" class="close" title="Close menu"><span></span></a>
+                
+
+<div>
+  
+  
+
+
+
+  
+  
+    <div class="element list none ">
+              <h3>Sections </h3>
+                      <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                                <a  href="/about-ctv-edmonton-1.264707"  title="About CTV Edmonton" >About CTV Edmonton</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="/more/contact-us"  title="Contact Us" >Contact Us</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>Follow CTV News </h3>
+                      <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                              <a  href="http://www.facebook.com/CTVEdmonton"   >Facebook</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                              <a  href="http://twitter.com/ctvedmonton"   >Twitter</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>More </h3>
+                      <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                              <a  target="_blank"  class="newWindow"  href="http://www.bellmedia.ca/"   >About Bell Media</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                              <a  target="_blank"  class="newWindow"  href="http://shows.ctv.ca/Schedule.aspx?mode=week&amp;localstation=5"   >CTV Schedule</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                              <a  target="_blank"  class="newWindow"  href="http://shows.ctv.ca/Schedule.aspx?mode=week&amp;localstation=29"   >CTV Two Alberta Schedule</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>All Local Sites </h3>
+                      <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                              <a  href="http://www.ctvnews.ca/local-news"   >Local Sites</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>LIVE </h3>
+                      <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                                <a  href="http://www.ctvnews.ca/live"  title="CTV News LIVE" >CTV News LIVE</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                              <a  href="http://www.ctvnews.ca/go"   >CTV News GO</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                              <a  href="http://www.ctvnews.ca/faq"   >Video Help</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+
+  </div>          </div>
+            <script type="text/javascript">
+          jQuery(document).ready(function() {
+            jQuery(".item_7291985").click(click_7291985);
+            jQuery(".link_id_7291985 .close").click(click_7291985);
+          });
+          </script>
+        </div>
+            <script type="text/javascript">
+          function click_7291985() {
+            var itemSelector = ".item_7291985";
+            var selector = ".link_id_7291985";
+            var shouldOpen = ((jQuery(selector + ":visible").size() <= 0) && (jQuery(selector + " div").size() > 0));
+            if (jQuery(".drop_down:visible").size() > 0) {
+              jQuery(".drop_down:visible").hide();
+              jQuery(".mainnavigation_item").removeClass("active");
+            }
+            if(shouldOpen) {
+              jQuery(selector).slideDown();
+              jQuery(itemSelector).toggleClass("active");
+            }
+          }
+      </script>
+                                       <div class="drop_down link_id_7290514" style="display:none;">
+                    <div class="drop_down_element_container bm-">
+      <a href="#" class="close" title="Close menu"><span></span></a>
+                
+
+<div>
+  
+  
+
+
+
+  
+  
+    <div class="element list none ">
+              <h3>CTV </h3>
+                      <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                                <a  href="http://atlantic.ctvnews.ca/"  title="Atlantic" >Atlantic</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://calgary.ctvnews.ca/"  title="Calgary" >Calgary</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="/"  title="Edmonton" >Edmonton</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://kitchener.ctvnews.ca/"  title="Kitchener" >Kitchener</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list continued ">
+                  <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                                <a  href="http://montreal.ctvnews.ca/"  title="Montreal" >Montreal</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://northernontario.ctvnews.ca/"  title="Northern Ontario" >Northern Ontario</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://ottawa.ctvnews.ca/"  title="Ottawa" >Ottawa</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://regina.ctvnews.ca/"  title="Regina" >Regina</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list continued ">
+                  <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                                <a  href="http://saskatoon.ctvnews.ca/"  title="Saskatoon" >Saskatoon</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                              <a  href="http://toronto.ctvnews.ca/"   >Toronto</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                              <a  href="http://bc.ctvnews.ca/"   >Vancouver</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://winnipeg.ctvnews.ca/"  title="Winnipeg" >Winnipeg</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>CTV Two </h3>
+                      <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                              <a  href="http://www.ctvalberta.ca"   >Alberta</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://atlantic.ctvnews.ca/"  title="Atlantic" >Atlantic</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                              <a  href="http://barrie.ctvnews.ca/"   >Barrie</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                              <a  href="http://london.ctvnews.ca"   >London</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list continued ">
+                  <ul class="linklist vertical">
+                                  
+            
+                    <li>
+                                    
+           
+                                <a  href="http://ottawa.ctvnews.ca/"  title="Ottawa" >Ottawa</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                                <a  href="http://vancouverisland.ctvnews.ca/"  title="Vancouver Island" >Vancouver Island</a>
+                                                    </li>
+        
+            
+                    <li>
+                                    
+           
+                              <a  href="http://windsor.ctvnews.ca"   >Windsor</a>
+                                                    </li>
+              
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+
+  </div>          </div>
+            <script type="text/javascript">
+          jQuery(document).ready(function() {
+            jQuery(".item_7290514").click(click_7290514);
+            jQuery(".link_id_7290514 .close").click(click_7290514);
+          });
+          </script>
+        </div>
+            <script type="text/javascript">
+          function click_7290514() {
+            var itemSelector = ".item_7290514";
+            var selector = ".link_id_7290514";
+            var shouldOpen = ((jQuery(selector + ":visible").size() <= 0) && (jQuery(selector + " div").size() > 0));
+            if (jQuery(".drop_down:visible").size() > 0) {
+              jQuery(".drop_down:visible").hide();
+              jQuery(".mainnavigation_item").removeClass("active");
+            }
+            if(shouldOpen) {
+              jQuery(selector).slideDown();
+              jQuery(itemSelector).toggleClass("active");
+            }
+          }
+      </script>
+           </div>
+</div>
+  
+  
+  
+    
+
+  
+  
+  
+    
+
+  
+  
+  
+    
+
+  
+  </div>
+  </header><!-- END .banner -->
+<!-- END BANNERS -->
+
+
+
+<div class="content">
+      <div class="video-header vid-page">
+      <div class="content-wrapper">
+          <div class="col-wrapper left clearfix" >
+                                        
+
+
+
+  
+  
+    <div id="fb-root"></div>
+  
+  
+  
+    
+
+
+
+
+
+
+<script type="text/javascript">
+function isVideoPlayerSupported(){
+	var videoPlayerSupported = !MobileEsp.DetectBlackBerry();
+	return videoPlayerSupported;
+}
+</script>
+
+    
+    
+  
+
+
+
+
+
+  <h1 class="topname">CTV Edmonton... a part of the CTV News Video Network</h1>
+
+
+
+<script type="text/javascript">
+jQuery().ready(
+  function(){
+          var globalDestination = "ctvnews_web";
+      var globalPlatform = "desktop";
+      var clipResourceName = "CTVNEWS";
+      var videoPlayerBrandId = "ctvnews";
+      var videoPlayerDisplayName = "CTV News";
+      var videoPlayerAkamaiResource = "CTVNC";
+      var videoPlayerTrackingName = "CTV News Video Player";
+      var videoPlayerDestinationCode = "ctvnews_web";
+      requiresDependency('http://static.ctvnews.ca/bellmedia/common/js/videoPlayer.axis.js', function() {
+        
+        initializeVideoApi(globalDestination, globalPlatform, clipResourceName, videoPlayerBrandId, videoPlayerDisplayName, videoPlayerAkamaiResource, videoPlayerTrackingName, videoPlayerDestinationCode);
+  
+        requiresDependency('http://auth.9c9media.ca/auth/main.js', function() {
+    
+      setIsDebug(false);
+
+      // Initialize player -- START
+      jQuery(document).bind('onready.etsapi', function () {
+        outputLog("ETS", "Received onready.etsapi trigger.");
+        outputLog("ETS", "Set up player init vars - START");
+        setPlayerWidth(960);
+        setPlayerHeight(540);
+        setPlayerVidFolder('960x540/');
+        setPlayerLogo('http://edmonton.ctvnews.ca/polopoly_fs/1.844206.1340305311!/httpImage/image.png_gen/derivatives/box_135/image.png');
+        setPlayerAdRule("generic");
+        setPlayerAdZone("default");
+        setPlayerAdSite("ctv.ctvnewsedmonton");
+        setComScoreBranch("ctvnews");
+        setComScoreC6("edmonton");
+        setVideoPlayerName("CTV Edmonton Video Player");
+        outputLog("ETS", "Set up player init vars - END");
+
+        jQuery(document).trigger('isDone.initPlayerVidNav');
+      });
+      // Initialize player -- END
+
+                $(document).ready(function () {
+              // etsapi.js should be placed at the bottom of the page, just before the closing body tag.  Loaded last.
+              requiresDependency('http://player.9c9media.com/channels/ctvnews_web/apiInterfaceOne.js', function() {});
+              //requiresDependency('http://player.stage.9c9media.com/channels/ctvnews_web/apiInterface.js', function() {});
+          });
+        }); // close requiresDependency axisAuthApi.
+          });
+  });
+</script>
+<!--Div container for player.-->
+<div class="mediaplayerwrapper">
+    <div id="mediaplayerdiv"></div>
+</div>
+
+  
+                      </div><!-- END .col-wrapper -->
+        </div>
+    </div>
+    
+  
+  <div class="content-wrapper">
+        
+            <div class="col-wrapper left clearfix">
+                    
+
+
+
+  
+  
+    
+
+<script type="text/javascript">
+  // Social media share path variables
+  var binIdShare = null;
+  var playlistIdShare = null;
+  
+  // Playlist auto-page-turning logic vars.
+  var playlistPageNum = 1; // The requested page num of the selected playlist.  
+  var currPlayingClipPageNum = 1; // The page number the current playing clip is on.  This could be difference than the page number the user is browsing. 
+  var totalPagesOfClips = 1; // Total number of pages of clips in the selected playlist.
+  
+  // initially selected bin when this page loads.
+  var initialBinId = "";
+  
+  // default playlist passed to the player.  This is the first bin's first playlist
+  //var defaultPlaylist = new Array();
+  
+  // Was a playlistId specified in the URL parameter
+  var isSpecifiedPlaylistId = false;
+  
+  // For highlighted the current playing clip
+  var nowPlayingClipId = "";
+  
+  // Navigation logic
+  var nav_contentIdArray = new Array();
+
+  // check TVE login status for play/lock icon
+  var loginCheck=false;
+
+  // clipId check whether the clip in the first playlist
+  var checkClipIdInList = false;
+      requiresDependency('http://auth.9c9media.ca/auth/main.js', function() {
+      BmAuth.isAuthenticated().then(function(authenticated){
+        changeLoginStatus(authenticated);
+      });
+      BmAuth.addListener('onAuthenticationStateChange', function(authenticated){
+        console.log('[tester] event-tracking: listened to onAuthenticationStateChange', authenticated);
+        changeLoginStatus(authenticated);        
+      });
+      function changeLoginStatus(status) {
+        if(status){
+          loginCheck=true;
+        }else {
+          loginCheck=false;
+        }
+      }
+    });
+  
+</script>
+
+     
+
+    <script type="text/javascript">
+    requiresDependency('http://static.ctvnews.ca/bellmedia/common/js/videoNavigation.js', function() {
+      //updateBreadcrumb(2, "Morning Live Videos ", "$breadcrumbPath");
+      // Set binId for social media share URL
+      setBinIdForSharing('1.1203468');
+      
+      // highlight initially selected bin when this page loads
+      initialBinId = '1.1203468';
+      toggleLeftNavBin(initialBinId);
+    });
+  </script>
+
+
+
+  
+<!--  LEFT COL -->
+
+<div class="col-wrapper videonav clearfix">
+  <div class="videoPortalUtilities clearfix">
+    <nav class="videoPortalBreadcrumbs">
+    <ul>
+        <li><h3 id="currPlaylistTitle"></h3></li>
+        <!-- <li><h4 id="currPlaylistDesc"></h4></li> -->
+    </ul>
+    </nav>
+    <div class="videoPortalShareToolsPlaceHolder" style="display:none;">
+      <div class="videoPortalCurrentClip" >
+        <h2>Clip link:</h2>
+        <input type="text" class="videoPortalCurrentClipId" id="pathShare" value="http://edmonton.ctvnews.ca/video" readonly="readonly" onclick="javascript:this.select();"></input>
+				<input type="text" class="videoPortalCurrentClipId mobile" id="pathShare2" value="http://edmonton.ctvnews.ca/video" onclick="javascript:this.select();" style="width: 400px"></input>
+      </div>
+      				        <div class="videoGigya">
+         <span id="componentBottomDiv"></span>
+        </div>
+								
+          </div>
+    <h3 class="vhBrowse">Browse Video</h3>
+  </div><!-- END .videoUtilities -->
+  <!-- Share link: <div id="pathShare"></div> -->
+  <div class="videoPortalLeft">
+     <dl>
+          
+                        <script type="text/javascript">
+            nav_contentIdArray.push("1.1203428");
+          </script>
+          
+                                        
+                    
+          <dt class="videoPlaylistCategories odd" id="1.1203428"><a id="1.1203428ahref" href="#1.1203428" >Latest Videos</a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.1203468");
+          </script>
+          
+                              
+                    
+          <dt class="videoPlaylistCategories even" id="1.1203468"><a id="1.1203468ahref" href="#1.1203468" >Morning Live Videos </a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.1203436");
+          </script>
+          
+                                        
+                    
+          <dt class="videoPlaylistCategories odd" id="1.1203436"><a id="1.1203436ahref" href="#1.1203436" >Noon News Interviews</a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.1203457");
+          </script>
+          
+                              
+                    
+          <dt class="videoPlaylistCategories even" id="1.1203457"><a id="1.1203457ahref" href="#1.1203457" >Your Health</a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.1717076");
+          </script>
+          
+                                        
+                    
+          <dt class="videoPlaylistCategories odd" id="1.1717076"><a id="1.1717076ahref" href="#1.1717076" >On Your Street</a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.1203453");
+          </script>
+          
+                              
+                    
+          <dt class="videoPlaylistCategories even" id="1.1203453"><a id="1.1203453ahref" href="#1.1203453" >Consumer Watch</a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.1203473");
+          </script>
+          
+                                        
+                    
+          <dt class="videoPlaylistCategories odd" id="1.1203473"><a id="1.1203473ahref" href="#1.1203473" >Viral Videos</a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.1203434");
+          </script>
+          
+                              
+                    
+          <dt class="videoPlaylistCategories even" id="1.1203434"><a id="1.1203434ahref" href="#1.1203434" >Sports</a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.1203433");
+          </script>
+          
+                                        
+                    
+          <dt class="videoPlaylistCategories odd" id="1.1203433"><a id="1.1203433ahref" href="#1.1203433" >Entertainment</a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.1203432");
+          </script>
+          
+                              
+                    
+          <dt class="videoPlaylistCategories even" id="1.1203432"><a id="1.1203432ahref" href="#1.1203432" >Weather Watchers</a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.2122241");
+          </script>
+          
+                                        
+                    
+          <dt class="videoPlaylistCategories odd" id="1.2122241"><a id="1.2122241ahref" href="#1.2122241" >CTV Morning Live</a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.1203466");
+          </script>
+          
+                              
+                    
+          <dt class="videoPlaylistCategories even" id="1.1203466"><a id="1.1203466ahref" href="#1.1203466" >CTV News at Noon</a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.2122246");
+          </script>
+          
+                                        
+                    
+          <dt class="videoPlaylistCategories odd" id="1.2122246"><a id="1.2122246ahref" href="#1.2122246" >CTV News at Five</a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.1203553");
+          </script>
+          
+                              
+                    
+          <dt class="videoPlaylistCategories even" id="1.1203553"><a id="1.1203553ahref" href="#1.1203553" >CTV News at Six</a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.2118565");
+          </script>
+          
+                                        
+                    
+          <dt class="videoPlaylistCategories odd" id="1.2118565"><a id="1.2118565ahref" href="#1.2118565" >CTV News at 11:30</a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.1203435");
+          </script>
+          
+                              
+                    
+          <dt class="videoPlaylistCategories even" id="1.1203435"><a id="1.1203435ahref" href="#1.1203435" >CTV News Red Deer</a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.2727843");
+          </script>
+          
+                                        
+                    
+          <dt class="videoPlaylistCategories odd" id="1.2727843"><a id="1.2727843ahref" href="#1.2727843" >Smart Money</a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.2727884");
+          </script>
+          
+                              
+                    
+          <dt class="videoPlaylistCategories even" id="1.2727884"><a id="1.2727884ahref" href="#1.2727884" >Tech Talk</a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.2727893");
+          </script>
+          
+                                        
+                    
+          <dt class="videoPlaylistCategories odd" id="1.2727893"><a id="1.2727893ahref" href="#1.2727893" >Pet Life</a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.2727895");
+          </script>
+          
+                              
+                    
+          <dt class="videoPlaylistCategories even" id="1.2727895"><a id="1.2727895ahref" href="#1.2727895" >Real Estate Monthly</a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.2727898");
+          </script>
+          
+                                        
+                    
+          <dt class="videoPlaylistCategories odd" id="1.2727898"><a id="1.2727898ahref" href="#1.2727898" >Milestones</a></dt> 
+                  <script type="text/javascript">
+            nav_contentIdArray.push("1.2013528");
+          </script>
+          
+                              
+                    
+          <dt class="videoPlaylistCategories even" id="1.2013528"><a id="1.2013528ahref" href="#1.2013528" >Celebrating 60 Years</a></dt> 
+                  </dl>
+		                        <div class="local" id="7.555239">
+  <a id="7.555239ahref" href="#7.555239">Local Editions</a>
+</div>
+<script type="text/javascript">nav_contentIdArray.push("7.555239");</script>
+<div class="vhLive">
+  <a href="http://edmonton.ctvnews.ca/video?clipId=89578&autoPlay=true" target="_blank">CTV News Live</a>
+</div>                  <p class="vhWatch"><b>Watch More Video</b></p>                  
+
+<div class='vhSites'>
+  
+  
+
+
+
+  
+  
+    
+
+<div class='vhThree'>
+  
+  
+
+
+
+  
+  
+                                      
+                <div class="clearfix">
+            
+                                            <a href="http://www.ctvnews.ca/video?binId=1.810401" target="_blank">
+                  
+
+
+<img title='' height='41' alt='ctv news' width='84' src='http://edmonton.ctvnews.ca/polopoly_fs/1.1996568.1410187282!/httpImage/image.jpg_gen/derivatives/landscape_800/image.jpg' />                </a>
+                                    </div>
+          
+  
+  
+  
+  
+                                      
+                <div class="clearfix">
+            
+                                            <a href="http://www.bnn.ca/Video/video-hub.aspx" target="_blank">
+                  
+
+
+<img title='' height='39' alt='BNN VH Logo' width='84' src='http://edmonton.ctvnews.ca/polopoly_fs/1.1992712.1409926870!/httpImage/image.jpg_gen/derivatives/landscape_800/image.jpg' />                </a>
+                                    </div>
+          
+  
+  
+  
+  
+                                      
+                <div class="clearfix">
+            
+                                            <a href="http://www.tsn.ca/video" target="_blank">
+                  
+
+
+<img title='' height='20' alt='TSN' width='82' src='http://edmonton.ctvnews.ca/polopoly_fs/1.1996977.1410198637!/httpImage/image.jpg_gen/derivatives/landscape_800/image.jpg' />                </a>
+                                    </div>
+          
+  
+  
+
+  </div>
+  
+  
+  
+    <div class="switcher-list">
+  <div data-value="http://www.tsn.ca/videohub/" class="switcher-box">TSN</div>
+  <ul class="switcher-select">
+    <li data-value="http://www.tsn.ca/videohub/">TSN</li>
+    <li data-value="http://www.ctv.ca/video">CTV</li>
+    <li data-value="http://www.ctvnews.ca/ctv-national-news/video">CTV National News</li>
+    <li data-value="http://www.cp24.com/video">CP24</li>
+    <li data-value="http://www.bnn.ca/Video/video-hub.aspx">BNN</li>
+    <li data-value="http://www.rds.ca/vid%C3%A9os/">RDS</li>  
+    <li data-value="http://www.bravo.ca/video">Bravo</li>
+    <li data-value="http://www.discovery.ca/Video">Discovery</li>
+    <li data-value="http://ca.eonline.com/videos">E!</li>
+    <li data-value="http://www.mtv.ca/shows/">MTV</li>
+    <li data-value="http://www.muchmusic.com/tv/allshows.aspx">MuchMusic</li>
+    <li data-value="http://themovienetwork.ca/video">TMN</li>
+  </ul>
+</div>
+<div class="switcher-button">Go to Site </div>
+  
+
+  </div>                    </div><!-- END videoPortalLeft -->
+      
+  <!--  BEGIN GRID -->
+  <div class="videoContainer clearfix" id="videoPlayListContainer">
+      <!-- video thumbnails area -->
+  </div><!-- END .container -->
+  <!-- END GRID -->
+</div><!-- END .col-wrapper -->
+<!-- RIGHT COL -->
+
+<script type="text/javascript">
+
+  // Triggered by VideoPlayer.vm
+  jQuery(document).bind('isDone.initPlayerVidNav', function() { outputLog("ETS", "About to call initPlayer()"); initPlayer(859526); });
+  
+  requiresDependency('http://static.ctvnews.ca/bellmedia/common/js/videoNavigation.js', function() {
+    /* ----------------- Event binding ---------------------- */
+    // If clipId is not null, send clip to player when player is ready.
+    jQuery(document).bind('isDone.onPlayerReady', function() {
+        setPFUserIP("128.82.4.244");
+        setPFClientSite("edmonton.ctvnews.ca");
+        setPFCanonicalUrl("%2Fcm%2F2.628%2F2.629%2F2.622%2Fvideo%3FclipId%3D805647%26binId%3D1.1203468%26playlistPageNum%3D1");
+        
+        updatePlayerAdSettings("", "");
+        //setPlayerAdSite("");
+        getClips("1.1203468", "1", "25", "true", "805647", '#videoContainer');
+    });
+    
+    // Whenever a video starts, update the breadcrumb and share path.
+    jQuery(document).unbind('isDone.onVideoStartForNav').bind('isDone.onVideoStartForNav', function(event, clipId, clipTitle) {
+        if ( clipId != -1 ) {
+          // clipId -1 means it is a commercial.
+          updateSharePath(clipId, playlistIdShare, binIdShare, clipTitle, 'http://edmonton.ctvnews.ca/video', currPlayingClipPageNum);
+          updatePlaylistTitleMobile(clipTitle);
+          var sharePath = updateSharePath(clipId, playlistIdShare, binIdShare, clipTitle, 'http://edmonton.ctvnews.ca/video', currPlayingClipPageNum);
+          						            renderGigyaShares(clipTitle, sharePath, "whenRequired", "http://static.ctvnews.ca", "right");
+						                  }
+    });
+                                            
+    /* ----------------- Event binding: Playlist logic ---------------------- */   
+    // This event is triggered when a user selects a clip or it moved on to the next page of clips.                                            
+    jQuery(document).bind('isDone.onPlaylistUpdate', function() {
+      
+      setCurrPlayingClipPageNum( getPlaylistPageNum() );
+    });
+    
+    // This event is triggered when the player has finished playing the playlist of clips one a single page of clips.
+    jQuery(document).bind('isDone.onPlaylistComplete', function() {
+        var nextPageNum = getCurrPlayingClipPageNum() + 1;
+        
+        if ( nextPageNum <= getTotalPagesOfClips() && checkClipIdInList == true) {
+          getClips(binIdShare, nextPageNum, '25', 'true', null, '#videoContainer');
+        }
+    });
+    
+  });
+  
+  /* -- Navigation logic -- */
+  jQuery(document).ready(function() {
+    for ( var i = 0; i < nav_contentIdArray.length; i ++ ){
+      var contentId = nav_contentIdArray[i];
+      var contentIdFormated = contentId.replace(".", "\\.");
+      jQuery("#"+contentIdFormated).bind( "click", {id: contentId}, function(event) {
+        var data = event.data;
+        //getPlaylists(data.id, '1', '25');
+        getClips(data.id, '1', '25', 'true');
+        setBinIdForSharing(data.id);
+        return false;
+      });
+    }
+  });
+</script>
+
+  
+        </div><!-- END .col-wrapper -->
+        
+      
+            
+    
+    <!-- if(content.righttop || content.boxads) -->
+        <footer class="content-footer">
+              
+
+
+
+  
+  
+    
+
+<div>
+      <aside>
+  
+  
+
+
+
+  
+  
+    
+
+<div>
+  
+  
+
+
+
+  
+  
+    <div class="element list none ">
+              <h3>                  <a  href="http://www.ctvnews.ca/canada"   >CANADA<span class="da"></span></a>
+    </h3>
+                  <ul class="linklist ">
+                                  
+          <li class="dc teaserLink">
+                                                                
+
+
+
+
+
+<div style="display: inline-table; width:620px; " class="element teaser">
+                  <div class="teaser-image-wrapper teaser-image-inlineLeft">
+    <div class="teaserImage">
+                                        <a  href="http://www.ctvnews.ca/canada/man-arrested-victim-identified-after-human-remains-found-in-toronto-1.2882062"   ><img title='victim' height='169' alt='Toronto Police released this photograph of Melissa Cooper, 30, who was identified as the victim in connection with human remains found in the city&#39;s east end. (Toronto Police)' width='300' src='http://edmonton.ctvnews.ca/polopoly_fs/1.2882063.1462049319!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' /></a>
+                  </div>
+    </div>
+<div class="teaserText smallVersion">
+<div class="bn-headline">
+                <h2 class="teaserTitle">
+                          <a  href="http://www.ctvnews.ca/canada/man-arrested-victim-identified-after-human-remains-found-in-toronto-1.2882062"   >Man arrested, victim identified after human remains found in Toronto</a>
+        </h2>
+  </div>
+  <div class="videoCommentCount">
+    </div>
+	</div>
+   
+</div>
+                                              </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/canada/trudeau-feds-excited-by-ambitious-5-5b-montreal-electric-train-proposal-1.2881937"  title="Trudeau: Feds 'excited' by ambitious $5.5B Montreal electric train proposal" >Trudeau: Feds 'excited' by ambitious $5.5B Montreal electric train proposal</a>
+                                                          </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/canada/mink-mania-ont-police-investigate-after-500-critters-set-loose-from-fur-farm-1.2882072"  title="Mink mania: Ont. police investigate after 500 critters set loose from fur farm" >Mink mania: Ont. police investigate after 500 critters set loose from fur farm</a>
+                                                          </li>
+                  
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>                  <a  href="http://www.ctvnews.ca/world"   >WORLD<span class="da"></span></a>
+    </h3>
+                  <ul class="linklist ">
+                                  
+          <li class="dc teaserLink">
+                                                                
+
+
+
+
+
+<div style="display: inline-table; width:620px; " class="element teaser">
+                  <div class="teaser-image-wrapper teaser-image-inlineLeft">
+    <div class="teaserImage">
+                                        <a  href="http://www.ctvnews.ca/world/jesuit-priest-vietnam-war-activist-daniel-berrigan-dead-at-94-1.2882334"   ><img title='Daniel Berrigan' height='169' alt='This April 9, 1982, file photo shows Daniel Berrigan marching with about 40 others outside of the Riverside Research Center in New York. (AP / Marty Lederhandler)' width='300' src='http://edmonton.ctvnews.ca/polopoly_fs/1.2882336.1462065559!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' /></a>
+                  </div>
+    </div>
+<div class="teaserText smallVersion">
+<div class="bn-headline">
+                <h2 class="teaserTitle">
+                          <a  href="http://www.ctvnews.ca/world/jesuit-priest-vietnam-war-activist-daniel-berrigan-dead-at-94-1.2882334"   >Jesuit priest, Vietnam War activist Daniel Berrigan dead at 94</a>
+        </h2>
+  </div>
+  <div class="videoCommentCount">
+    </div>
+	</div>
+   
+</div>
+                                              </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/world/collapsed-kenyan-building-that-killed-12-had-no-occupancy-permit-officials-1.2881778"  title="Collapsed Kenyan building that killed 12 had no occupancy permit: officials" >Collapsed Kenyan building that killed 12 had no occupancy permit: officials</a>
+                                                          </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/world/teen-girl-killed-after-being-ejected-from-texas-carnival-ride-1.2882078"  title="Teen girl killed after being ejected from Texas carnival ride" >Teen girl killed after being ejected from Texas carnival ride</a>
+                                                          </li>
+                  
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>                  <a  href="http://www.ctvnews.ca/entertainment"   >ENTERTAINMENT<span class="da"></span></a>
+    </h3>
+                  <ul class="linklist ">
+                                  
+          <li class="dc teaserLink">
+                                                                
+
+
+
+
+
+<div style="display: inline-table; width:620px; " class="element teaser">
+                  <div class="teaser-image-wrapper teaser-image-inlineLeft">
+    <div class="teaserImage">
+                                        <a  href="http://www.ctvnews.ca/entertainment/from-star-jones-to-conan-kelly-ripa-s-walk-out-isn-t-tv-s-first-botched-transition-1.2881974"   ><img title='star jones' height='169' alt='This June 5, 2003 file photo shows co-hosts, from left, Meredith Vieira, Star Jones, Joy Behar and Barbara Walters on the set of "The View" in New York.  (AP Photo / Ed Bailey, File)' width='300' src='http://edmonton.ctvnews.ca/polopoly_fs/1.2881977.1462041925!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' /></a>
+                  </div>
+    </div>
+<div class="teaserText smallVersion">
+<div class="bn-headline">
+                <h2 class="teaserTitle">
+                          <a  href="http://www.ctvnews.ca/entertainment/from-star-jones-to-conan-kelly-ripa-s-walk-out-isn-t-tv-s-first-botched-transition-1.2881974"   >From Star Jones to Conan: Kelly Ripa's walk-out isn't TV's first botched transition</a>
+        </h2>
+  </div>
+  <div class="videoCommentCount">
+    </div>
+	</div>
+   
+</div>
+                                              </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/entertainment/step-aside-dora-ninja-turtles-named-official-nyc-ambassadors-1.2881870"  title="Step aside, Dora: Ninja Turtles named official NYC ambassadors" >Step aside, Dora: Ninja Turtles named official NYC ambassadors</a>
+                                                          </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/entertainment/john-paul-ii-superstar-poland-plans-papal-musical-1.2881896"  title="John Paul II Superstar: Poland plans papal musical" >John Paul II Superstar: Poland plans papal musical</a>
+                                                          </li>
+                  
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+
+  </div>
+  
+  
+  
+    
+
+<div>
+  
+  
+
+
+
+  
+  
+    <div class="element list none ">
+              <h3>                  <a  href="http://www.ctvnews.ca/health"   >HEALTH<span class="da"></span></a>
+    </h3>
+                  <ul class="linklist ">
+                                  
+          <li class="dc teaserLink">
+                                                                
+
+
+
+
+
+<div style="display: inline-table; width:620px; " class="element teaser">
+                  <div class="teaser-image-wrapper teaser-image-inlineLeft">
+    <div class="teaserImage">
+                                        <a  href="http://www.ctvnews.ca/health/first-finger-foods-for-babies-may-be-choking-hazards-study-1.2881792"   ><img title='Baby food' height='169' alt='A child is shown with food on her face. (Patrick Breig / shutterstock.com)' width='300' src='http://edmonton.ctvnews.ca/polopoly_fs/1.2042791.1461942872!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' /></a>
+                  </div>
+    </div>
+<div class="teaserText smallVersion">
+<div class="bn-headline">
+                <h2 class="teaserTitle">
+                          <a  href="http://www.ctvnews.ca/health/first-finger-foods-for-babies-may-be-choking-hazards-study-1.2881792"   >'First finger foods' for babies may be choking hazards: study</a>
+        </h2>
+  </div>
+  <div class="videoCommentCount">
+    </div>
+	</div>
+   
+</div>
+                                              </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/health/looking-out-over-the-ocean-can-improve-mental-health-study-1.2881875"  title="Looking out over the ocean can improve mental health: study" >Looking out over the ocean can improve mental health: study</a>
+                                                          </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/health/sweet-treats-for-a-healthier-diet-1.2881887"  title="Sweet treats for a healthier diet" >Sweet treats for a healthier diet</a>
+                                                          </li>
+                  
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>                  <a  href="http://www.ctvnews.ca/politics"   >POLITICS<span class="da"></span></a>
+    </h3>
+                  <ul class="linklist ">
+                                  
+          <li class="dc teaserLink">
+                                                                
+
+
+
+
+
+<div style="display: inline-table; width:620px; " class="element teaser">
+                  <div class="teaser-image-wrapper teaser-image-inlineLeft">
+    <div class="teaserImage">
+                                        <a  href="http://www.ctvnews.ca/politics/conservatives-doomed-to-lose-elections-unless-old-political-hacks-reinvent-party-o-leary-1.2881368"   ><img title='Kevin O&#39;Leary' height='169' alt='Kevin O&#39;Leary appears on CTV News, Friday, Feb. 26, 2016.' width='300' src='http://edmonton.ctvnews.ca/polopoly_fs/1.2794494.1456512659!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' /></a>
+                  </div>
+    </div>
+<div class="teaserText smallVersion">
+<div class="bn-headline">
+                <h2 class="teaserTitle">
+                          <a  href="http://www.ctvnews.ca/politics/conservatives-doomed-to-lose-elections-unless-old-political-hacks-reinvent-party-o-leary-1.2881368"   >Conservatives doomed to lose elections unless 'old political hacks' reinvent party: O'Leary</a>
+        </h2>
+  </div>
+  <div class="videoCommentCount">
+    </div>
+	</div>
+   
+</div>
+                                              </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/politics/when-does-ottawa-have-your-back-three-ways-politics-touched-canadians-this-week-1.2881203"  title="When does Ottawa have your back? Three ways politics touched Canadians this week" >When does Ottawa have your back? Three ways politics touched Canadians this week</a>
+                                                          </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/politics/tories-divided-over-same-sex-marriage-face-showdown-1.2881138"  title="Tories divided over same-sex marriage face showdown" >Tories divided over same-sex marriage face showdown</a>
+                                                          </li>
+                  
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>                  <a  href="http://www.ctvnews.ca/sci-tech"   >SCI-TECH<span class="da"></span></a>
+    </h3>
+                  <ul class="linklist ">
+                                  
+          <li class="dc teaserLink">
+                                                                
+
+
+
+
+
+<div style="display: inline-table; width:620px; " class="element teaser">
+                  <div class="teaser-image-wrapper teaser-image-inlineLeft">
+    <div class="teaserImage">
+                                        <a  href="http://www.ctvnews.ca/sci-tech/33-ex-circus-lions-arrive-in-south-africa-in-airlift-1.2882086"   ><img title='Circus lions rescued ' height='169' alt='A former circus lion peers from inside a cage during their arrival at OR Tambo International airport in Johannesburg, South Africa, Saturday, April 30, 2016. (AP / Themba Hadebe)' width='300' src='http://edmonton.ctvnews.ca/polopoly_fs/1.2882306.1462063661!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' /></a>
+                  </div>
+    </div>
+<div class="teaserText smallVersion">
+<div class="bn-headline">
+                <h2 class="teaserTitle">
+                          <a  href="http://www.ctvnews.ca/sci-tech/33-ex-circus-lions-arrive-in-south-africa-in-airlift-1.2882086"   >33 ex-circus lions arrive in South Africa in airlift</a>
+        </h2>
+  </div>
+  <div class="videoCommentCount">
+    </div>
+	</div>
+   
+</div>
+                                              </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/world/kenya-burns-huge-piles-of-ivory-tusks-to-protest-poaching-1.2881816"  title="Kenya burns huge piles of ivory tusks to protest poaching" >Kenya burns huge piles of ivory tusks to protest poaching</a>
+                                                          </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/sci-tech/space-oddity-unique-kitty-comet-named-after-tailless-cat-species-1.2881712"  title="Space oddity: Unique kitty-comet named after tailless cat species" >Space oddity: Unique kitty-comet named after tailless cat species</a>
+                                                          </li>
+                  
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+
+  </div>
+  
+  
+  
+    
+
+<div>
+  
+  
+
+
+
+  
+  
+    <div class="element list none ">
+              <h3>                  <a  href="http://www.ctvnews.ca/business"   >BUSINESS<span class="da"></span></a>
+    </h3>
+                  <ul class="linklist ">
+                                  
+          <li class="dc teaserLink">
+                                                                
+
+
+
+
+
+<div style="display: inline-table; width:620px; " class="element teaser">
+                  <div class="teaser-image-wrapper teaser-image-inlineLeft">
+    <div class="teaserImage">
+                                        <a  href="http://www.ctvnews.ca/business/trudeau-says-ottawa-continues-to-negotiate-with-bombardier-1.2881981"   ><img title='Trudeau' height='169' alt='Prime Minister Justin Trudeau speaks to reporters during the 2016 Biennial Convention of the Quebec wing of the Liberal Party of Canada in Montreal, Saturday, April 30, 2016. (THE CANADIAN PRESS / Graham Hughes)' width='300' src='http://edmonton.ctvnews.ca/polopoly_fs/1.2881986.1462043123!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' /></a>
+                  </div>
+    </div>
+<div class="teaserText smallVersion">
+<div class="bn-headline">
+                <h2 class="teaserTitle">
+                          <a  href="http://www.ctvnews.ca/business/trudeau-says-ottawa-continues-to-negotiate-with-bombardier-1.2881981"   >Trudeau says Ottawa continues to negotiate with Bombardier</a>
+        </h2>
+  </div>
+  <div class="videoCommentCount">
+    </div>
+	</div>
+   
+</div>
+                                              </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/business/cost-of-domestic-flights-remains-at-a-six-year-low-statistics-canada-1.2881825"  title="Cost of domestic flights remains at a six-year low: Statistics Canada" >Cost of domestic flights remains at a six-year low: Statistics Canada</a>
+                                                          </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/business/berkshire-hathaway-event-celebrates-what-makes-firm-special-1.2881880"  title="Berkshire Hathaway event celebrates what makes firm special" >Berkshire Hathaway event celebrates what makes firm special</a>
+                                                          </li>
+                  
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>                  <a  href="http://www.ctvnews.ca/sports"   >SPORTS<span class="da"></span></a>
+    </h3>
+                  <ul class="linklist ">
+                                  
+          <li class="dc teaserLink">
+                                                                
+
+
+
+
+
+<div style="display: inline-table; width:620px; " class="element teaser">
+                  <div class="teaser-image-wrapper teaser-image-inlineLeft">
+    <div class="teaserImage">
+                                        <a  href="http://www.ctvnews.ca/sports/new-orleans-saints-choose-canadian-david-onyemata-in-nfl-draft-1.2882214"   ><img title='David Onyemata' height='168' alt='Defensive tackle David Onyemata was selected on Saturday. (Photo courtesy University of Manitoba Bison Sports)' width='300' src='http://edmonton.ctvnews.ca/polopoly_fs/1.2881975.1462041829!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' /></a>
+                  </div>
+    </div>
+<div class="teaserText smallVersion">
+<div class="bn-headline">
+                <h2 class="teaserTitle">
+                          <a  href="http://www.ctvnews.ca/sports/new-orleans-saints-choose-canadian-david-onyemata-in-nfl-draft-1.2882214"   >New Orleans Saints choose Canadian David Onyemata in NFL draft</a>
+        </h2>
+  </div>
+  <div class="videoCommentCount">
+    </div>
+	</div>
+   
+</div>
+                                              </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/sports/nba-scores-trail-blazers-beat-clippers-to-advance-to-semifinals-1.2881842"  title="NBA scores: Trail Blazers beat Clippers to advance to semifinals " >NBA scores: Trail Blazers beat Clippers to advance to semifinals </a>
+                                                          </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/sports/jays-lose-to-rays-on-casali-s-walkoff-hit-1.2882341"  title="Jays lose to Rays on Casali's walkoff hit" >Jays lose to Rays on Casali's walkoff hit</a>
+                                                          </li>
+                  
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>                  <a  href="http://www.ctvnews.ca/autos"   >AUTOS<span class="da"></span></a>
+    </h3>
+                  <ul class="linklist ">
+                                  
+          <li class="dc teaserLink">
+                                                                
+
+
+
+
+
+<div style="display: inline-table; width:620px; " class="element teaser">
+                  <div class="teaser-image-wrapper teaser-image-inlineLeft">
+    <div class="teaserImage">
+                                        <a  href="http://www.ctvnews.ca/autos/dangers-of-semi-autonomous-cars-include-amorous-antics-behind-the-wheel-1.2881800"   ><img title='Brain distracted driving research' height='169' alt='A man looks at his phone as he drives through traffic in Dallas, on Tuesday, Feb. 26, 2013. (AP / LM Otero)' width='300' src='http://edmonton.ctvnews.ca/polopoly_fs/1.1175412.1462039615!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' /></a>
+                  </div>
+    </div>
+<div class="teaserText smallVersion">
+<div class="bn-headline">
+                <h2 class="teaserTitle">
+                          <a  href="http://www.ctvnews.ca/autos/dangers-of-semi-autonomous-cars-include-amorous-antics-behind-the-wheel-1.2881800"   >Dangers of semi-autonomous cars include amorous antics behind the wheel</a>
+        </h2>
+  </div>
+  <div class="videoCommentCount">
+    </div>
+	</div>
+   
+</div>
+                                              </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/autos/nissan-recalls-nearly-4-million-cars-with-air-bag-problems-1.2881867"  title="Nissan recalls nearly 4 million cars with air bag problems" >Nissan recalls nearly 4 million cars with air bag problems</a>
+                                                          </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/autos/mitsubishi-says-that-cheating-was-confined-to-japan-1.2880769"  title="Mitsubishi says that cheating was confined to Japan" >Mitsubishi says that cheating was confined to Japan</a>
+                                                          </li>
+                  
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+
+  </div>
+  
+  
+  
+    
+
+<div>
+  
+  
+
+
+
+  
+  
+    <div class="element list none ">
+              <h3>                    <a  href="http://www.ctvnews.ca/lifestyle"  title="Lifestyle" >Lifestyle<span class="da"></span></a>
+    </h3>
+                  <ul class="linklist ">
+                                  
+          <li class="dc teaserLink">
+                                                                
+
+
+
+
+
+<div style="display: inline-table; width:620px; " class="element teaser">
+                  <div class="teaser-image-wrapper teaser-image-inlineLeft">
+    <div class="teaserImage">
+                                        <a  href="http://www.ctvnews.ca/lifestyle/dogs-getting-airport-bathrooms-of-their-own-1.2881893"   ><img title='New York&#39;s JFK airport bathroom' height='169' alt='John John visits the new pet relief area at New York&#39;s JFK airport before he and his owner Taylor Robbins head home on a flight to Atlanta on April 26, 2016.  (AP /William Mathis)' width='300' src='http://edmonton.ctvnews.ca/polopoly_fs/1.2881894.1462031961!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' /></a>
+                  </div>
+    </div>
+<div class="teaserText smallVersion">
+<div class="bn-headline">
+                <h2 class="teaserTitle">
+                          <a  href="http://www.ctvnews.ca/lifestyle/dogs-getting-airport-bathrooms-of-their-own-1.2881893"   >Dogs getting airport bathrooms of their own</a>
+        </h2>
+  </div>
+  <div class="videoCommentCount">
+    </div>
+	</div>
+   
+</div>
+                                              </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/lifestyle/are-you-ready-to-replace-your-moisturizer-with-a-pill-1.2880827"  title="Are you ready to replace your moisturizer with a pill?" >Are you ready to replace your moisturizer with a pill?</a>
+                                                          </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/health/fastest-rising-google-food-search-best-foods-for-acid-reflux-1.2880778"  title="Fastest rising Google food search? 'Best foods for acid reflux'" >Fastest rising Google food search? 'Best foods for acid reflux'</a>
+                                                          </li>
+                  
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>                  <a  href="http://canadaam.ctvnews.ca/"   >Canada AM<span class="da"></span></a>
+    </h3>
+                  <ul class="linklist ">
+                                  
+          <li class="dc teaserLink">
+                                                                
+
+
+
+
+
+<div style="display: inline-table; width:620px; " class="element teaser">
+                  <div class="teaser-image-wrapper teaser-image-inlineLeft">
+    <div class="teaserImage">
+                                        <a  href="http://canadaam.ctvnews.ca/desperate-mom-won-t-stop-until-abducted-kids-returned-from-iran-1.2880329"   ><img title='Alison Azer with her four children' height='169' alt='Mom Alison Azer, holds Meitan as her other children Sharvahn, left to right, Dersim and Rojevahn pose in this family handout image. (THE CANADIAN PRESS)' width='300' src='http://edmonton.ctvnews.ca/polopoly_fs/1.2537788.1440781529!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' /></a>
+                  </div>
+    </div>
+<div class="teaserText smallVersion">
+<div class="bn-headline">
+                <h2 class="teaserTitle">
+                          <a  href="http://canadaam.ctvnews.ca/desperate-mom-won-t-stop-until-abducted-kids-returned-from-iran-1.2880329"   >Desperate mom 'won't stop' until abducted kids returned from Iran</a>
+        </h2>
+  </div>
+  <div class="videoCommentCount">
+    </div>
+	</div>
+   
+</div>
+                                              </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://canadaam.ctvnews.ca/ugandan-lgbt-activist-shares-story-of-being-publically-outed-1.2880371"  title="Ugandan LGBT activist shares story of being publically outed  " >Ugandan LGBT activist shares story of being publically outed  </a>
+                                                          </li>
+                    
+                   <li>       
+                                                                                    <a  href="http://www.ctvnews.ca/canada/newfoundland-and-labrador-closing-more-than-half-its-public-libraries-1.2880414"  title="Newfoundland and Labrador closing more than half its public libraries" >Newfoundland and Labrador closing more than half its public libraries</a>
+                                                          </li>
+                  
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+  
+  
+    <div class="element list none ">
+              <h3>                  <a  href="http://www.ctvnews.ca/photo-galleries"   >In Pictures<span class="da"></span></a>
+    </h3>
+                  <ul class="linklist ">
+                                  
+          <li class="dc teaserLink">
+                                                                
+
+
+
+
+
+<div style="display: inline-table; width:620px; " class="element teaser">
+                  <div class="teaser-image-wrapper teaser-image-inlineLeft">
+    <div class="teaserImage">
+                                        <a  href="http://www.ctvnews.ca/photo-galleries/kenyan-government-burns-over-100-tons-of-confiscated-ivory-1.2882316"   ><div class='gal'>&nbsp;</div><img title='Ivory/1.jpg' height='169' alt='A wildlife ranger stands guard as pyres of ivory burn into the night in Nairobi National Park, Kenya Saturday, April 30, 2016 (AP / Ben Curtis)' width='300' src='http://edmonton.ctvnews.ca/polopoly_fs/1.2882318.1462065025!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' /></a>
+                  </div>
+    </div>
+<div class="teaserText smallVersion">
+<div class="bn-headline">
+                <h2 class="teaserTitle">
+                          <a  href="http://www.ctvnews.ca/photo-galleries/kenyan-government-burns-over-100-tons-of-confiscated-ivory-1.2882316"   > Kenyan government burns over 100 tons of confiscated ivory</a>
+        </h2>
+  </div>
+  <div class="videoCommentCount">
+    </div>
+	</div>
+   
+</div>
+                                              </li>
+                    
+                         <li class="gallery"
+>       
+                                                                                    <a  href="http://www.ctvnews.ca/photo-galleries/trump-protesters-clash-with-riot-police-in-california-1.2881544"  title="Trump protesters clash with riot police in California" >Trump protesters clash with riot police in California</a>
+                                                          </li>
+                    
+                         <li class="gallery"
+>       
+                                                                                    <a  href="http://www.ctvnews.ca/photo-galleries/inside-a-refugee-camp-on-the-edge-of-isis-territory-1.2878159"  title="Inside a refugee camp on the edge of ISIS territory" >Inside a refugee camp on the edge of ISIS territory</a>
+                                                          </li>
+                  
+            
+    </ul>
+            <div class="bottom-links">
+          </div>
+    <div class="clearfix"></div>
+</div>
+
+  
+
+  </div>
+  
+
+      
+</aside>
+  </div>
+  
+           
+      
+
+
+
+  
+  
+    
+
+<div class='footernav'>
+      <nav>
+  
+  
+
+
+
+  
+  
+    <div>
+                    <a  href="http://www.ctv.ca/About/Corporate-Info/About.aspx"  title="About CTV" >About CTV</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://jobs.bce.ca/go/jobs-with-bell-media/357957/"  title="Careers" >Careers</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://stox.ctvnews.ca"  title="CTV News Stox" >CTV News Stox</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://adsales.bellmedia.ca/"  title="Advertise on CTV" >Advertise on CTV</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://www.bellmediapr.ca/"  title="Bell Media Press Room" >Bell Media Press Room</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://www.bellmedia.ca/en/privacy.html"  title="Privacy Policy" >Privacy Policy</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://www.bellmedia.ca/en/toc.html"  title="Terms and Conditions" >Terms and Conditions</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://www.bellmedia.ca/en/producer_guidelines.html"  title="Producer Guidelines" >Producer Guidelines</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://www.ctvnews.ca/more/contact-ctv-news"  title="Contact Us" >Contact Us</a>
+    </div>
+
+  
+
+      </nav>
+  </div>
+  
+  
+  
+    <div class="footer-logos">
+  <a class="footer-logo-link" href="http://www.ctv.ca"><img src="http://static.ctvnews.ca/bellmedia/common/img/logos/footer-logo_ctv.jpg" height="16" width="50" alt="CTV.ca" /></a>
+  <a class="footer-logo-link" href="http://www.ctv.ca"><img src="http://static.ctvnews.ca/bellmedia/common/img/logos/footer-logo_ctv-two.jpg" height="29" width="52" alt="CTV Two" /></a>
+  <a class="footer-logo-link" href="http://www.ctvnews.ca"><img src="http://www.ctvnews.ca/polopoly_fs/7.439307!/httpImage/image.jpg" height="29" width="60" alt="CTVNews"/></a>
+  <a class="footer-logo-link" href="http://www.ctvnews.ca/ctv-news-channel"><img src="http://static.ctvnews.ca/bellmedia/common/img/logos/footer-logo_ctv-news-channel.jpg" height="35" width="56" alt="CTV News Channel" /></a>
+  <a class="footer-logo-link" href="http://www.bnn.ca"><img src="http://static.ctvnews.ca/bellmedia/common/img/logos/footer-logo_bnn.jpg" height="22" width="50" alt="BNN - Business News Network" /></a>
+  <a class="footer-logo-link" href="http://www.cp24.com"><img src="http://static.ctvnews.ca/bellmedia/common/img/logos/footer-logo_cp24.jpg" height="30" width="53" alt="CP24" /></a>
+</div>
+<br/>
+  
+  
+  
+    
+
+<div class='footernav'>
+      <nav>
+
+  
+  
+
+
+
+  
+  
+    <h2>Local News</h2>
+
+  
+  
+  
+    <div>
+                    <a  href="http://atlantic.ctvnews.ca/"  title="Atlantic" >CTV Atlantic News</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://calgary.ctvnews.ca/"  title="CTV Calgary News" >CTV Calgary News</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="/"  title="CTV Edmonton News" >CTV Edmonton News</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://kitchener.ctvnews.ca/"  title="CTV Kitchener News" >CTV Kitchener News</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://montreal.ctvnews.ca/"  title="CTV Montreal News" >CTV Montreal News</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://northernontario.ctvnews.ca/"  title="CTV Northern Ontario News" >CTV Northern Ontario News</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://ottawa.ctvnews.ca/"  title="CTV Ottawa NewsOttawa" >CTV Ottawa News</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://regina.ctvnews.ca/"  title="CTV Regina News" >CTV Regina News</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://saskatoon.ctvnews.ca/"  title="CTV Saskatoon News" >CTV Saskatoon News</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://toronto.ctvnews.ca/"  title="CTV Toronto News" >CTV Toronto News</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://bc.ctvnews.ca/"  title="CTV Vancouver News" >CTV Vancouver News</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://winnipeg.ctvnews.ca/"  title="CTV Winnipeg News" >CTV Winnipeg News</a>
+    </div>
+
+  
+
+      </nav>
+  </div>
+  
+  
+  
+    
+
+<div class='footernav'>
+      <nav>
+  
+  
+
+
+
+  
+  
+    <h2>CTV Two</h2>
+
+  
+  
+  
+    <div>
+                    <a  href="http://atlantic.ctvnews.ca/"  title="Atlantic" >Atlantic</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://www.ctvalberta.ca/"  title="Alberta" >Alberta</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://ctvbarrie.ca/"  title="Barrie" >Barrie</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://london.ctvnews.ca/"  title="London" >London</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://ottawa.ctvnews.ca/"  title="Ottawa" >Ottawa</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://windsor.ctvnews.ca"  title="Windsor" >Windsor</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://vancouverisland.ctvnews.ca/"  title="Vancouver Island" >Vancouver Island</a>
+    </div>
+
+  
+
+      </nav> 
+  </div>
+  
+  
+  
+    
+
+<div class='footernav'>
+      <nav>
+  
+  
+
+
+
+  
+  
+    <h2>CTV News Programs</h2>
+  
+  
+  
+    <div>
+                    <a  href="http://www.ctvnews.ca/ctv-national-news"  title="CTV National News" >CTV National News</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://canadaam.ctvnews.ca/"  title="Canada AM" >Canada AM</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://www.ctvnews.ca/ctv-news-channel/power-play-with-don-martin"  title="Power Play" >Power Play</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://www.ctvnews.ca/w5/"  title="W5" >W5</a>
+    </div>
+
+  
+  
+  
+    <div>
+                    <a  href="http://www.ctvnews.ca/qp/"  title="CTV Question Period" >CTV Question Period</a>
+    </div>
+
+  
+
+      </nav>
+  </div>
+  
+  
+  
+    
+
+<div class='footernav'>
+      <nav>
+  
+  
+
+
+
+  
+  
+    
+	<div id="divLogin" class="element tveLoginButtonelement">
+  		<div id="divLogIn-7_489985_1423585512_2082306613" class="tve-button-login"><a href="#" style="position:relative;" onclick="BmAuth.handleSignIn();jump('top'); return false;">Video Sign In</a></div>
+  		<div id="divLogOut-7_489985_1423585512_2082306613" style="display:none;" class="tve-button-logout"><a href="#" onclick="BmAuth.handleSignOut(); Tracking.trackLogout(); return false;">Video Sign Out</a></div>
+  	</div>
+		<script type="text/javascript">
+		requiresDependency('http://auth.9c9media.ca/auth/main.js', function() {
+			BmAuth.isAuthenticated().then(function(authenticated){
+				changeLoginStatus(authenticated);
+			});
+			BmAuth.addListener('onAuthenticationStateChange', function(authenticated){
+				console.log('[tester] event-tracking: listened to onAuthenticationStateChange', authenticated);
+				changeLoginStatus(authenticated);
+			});
+			function changeLoginStatus(status) {
+				if(status){
+					$('#divLogIn-7_489985_1423585512_2082306613').hide();
+					$('#divLogOut-7_489985_1423585512_2082306613').show();
+				}else {
+					$('#divLogIn-7_489985_1423585512_2082306613').show();
+					$('#divLogOut-7_489985_1423585512_2082306613').hide();
+				}
+			}
+		});
+			function jump(h){
+    var top = document.getElementById(h).offsetTop;
+    window.scrollTo(0, top);
+}
+		</script>
+		<div class="clearfix tvefooter"></div>
+
+  
+  
+  
+    <div>
+                  <a  href="http://www.ctvnews.ca/go"   >CTV News GO</a>
+    </div>
+
+  
+  
+  
+    <div>
+                  <a  href="http://www.ctvnews.ca/faq"   >Video Help</a>
+    </div>
+
+  
+  
+  
+    <div>
+                  <a  href="http://www.ctvnews.ca/more/ctv-news-mobile"   >CTV News on Mobile</a>
+    </div>
+
+  
+
+      </nav>
+  </div>
+  
+  
+  
+    
+
+<div class='footernav gig-footer'>
+      <nav>
+  
+  
+
+
+
+  
+  
+    
+  <h2 id="gigya_title">Site login</h2>
+  <span id="gigya_login"></span>
+
+  
+
+      </nav>
+  </div>
+  
+  
+  
+    
+
+<div class='footernav'>
+      <nav>
+  
+  
+
+
+
+  
+  
+    <a href="javascript:void(0);" onclick="setCookieAndLoadSiteByMode('mobile');">View Mobile Site</a>
+  
+
+      </nav>
+  </div>
+  
+  
+  
+    <p class="terms">Use of this Website assumes acceptance of <a href="http://www.bellmedia.ca/en/toc.html" title="Terms &amp; Conditions">Terms &amp; Conditions</a> and <a href="http://www.bellmedia.ca/en/privacy.html" title="Privacy Policy">Privacy Policy</a></p><p class="copyright">&#169; 2016 <a href="http://www.bellmedia.ca/"><img class="copyright" src="http://static.ctvnews.ca/bellmedia/common/img/logos/bellmedia_logo.gif" alt="Bell Media" /></a> All rights reserved.</p><p class="credits">Bell Media Television</p>
+  
+          
+    <p><a class="back-top hidden" href="#top" title="skip to top of page">Back to top</a></p>
+
+</footer><!-- END #content-footer -->  </div><!-- END div.content-wrapper -->
+</div><!-- END .content -->
+                          <script type="text/javascript" src="http://static.ctvnews.ca/bellmedia/common/js/jquery.form.js" ></script>
+                        <script type="text/javascript" src="http://static.ctvnews.ca/bellmedia/common/js/common.js" ></script>
+                        <script type="text/javascript" src="http://metrics.ctvdigital.net/comscore/beacon.js" ></script>
+                    <script type="text/javascript">
+                var _sf_async_config={uid:2895,domain:'ctv.ca'};
+    var loadPublishflow = function() {
+      jQuery(window).load(function() {
+        window._sf_endpt=(new Date()).getTime();
+      });
+    };
+    var pf_src = ('https:'   == document.location.protocol ? 'https://s3.amazonaws.com/'   : 'http://s3.amazonaws.com/') + 'publishflow/javascript/data.js';
+    requiresDependency(pf_src,loadPublishflow);
+</script>                    <script type="text/javascript">
+        var _gaq = _gaq || []; 
+                        _gaq.push(['_setAccount', 'UA-30994051-1']);
+    _gaq.push(['_setDomainName', 'ctvnews.ca']);
+          _gaq.push(['_trackPageview']);
+    
+    jQuery(document).ready(function() {
+        var insertGATriggers = function() {
+                    jQuery("a[data-gaTrackingEvent]").bind('click', function() {
+            var gaTrackingEvent = jQuery(this).attr('data-gaTrackingEvent');
+            var gaTrackingCategory = jQuery(this).attr('data-gaTrackingCategory');
+            var gaTrackingAction = jQuery(this).attr('data-gaTrackingAction');
+            var gaTrackingLabel = jQuery(this).attr('data-gaTrackingLabel');
+            if (typeof gaTrackingLabel == 'undefined') {
+                gaTrackingLabel = "";
+            }
+            _gaq.push([gaTrackingEvent, gaTrackingCategory, gaTrackingAction, gaTrackingLabel]);
+          });
+        };
+        var ga_src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        requiresDependency(ga_src,insertGATriggers);
+    });
+</script>              <img src='/logger/p.gif?d=/2.628/2.629/2.622/2.722' alt='' />    <script type="text/javascript">
+    jQuery('body').bind('logger', function(event) {
+      if (event.a) {
+        if (!event.d) {
+          event.d = '/2.628/2.629/2.622/2.722';
+        }
+        jQuery.ajax({url:'/logger/p.gif', data:{a:event.a, d:event.d}});
+      }
+    });
+  </script>
+                
+      
+  <script type="text/javascript"> _AUTO_TRACK = false; </script>
+            <script type="text/javascript" src="http://components.bellmedia.ca/tracking/IncludeAuth2"></script>
+  <script type="text/javascript" src="http://static.ctvnews.ca/bellmedia/common/js/omnitureTVE.js"></script>
+    <script type="text/javascript">s.trackExternalLinks = false;</script>
+  <script type="text/javascript">
+                
+  setupOmnitureTracking("ctvgmnews", "CTV News", "News", "Edmonton","home", "www", "Edmonton", "false", false, false);
+  
+  </script>
+
+         <script type="text/javascript">
+      jQuery(document).ready(
+      function(){
+                              trackPage(false);
+                        });
+      </script>
+     </body>
+</html>

@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<title>お探しのページは削除されました - 信濃毎日新聞［信毎web］</title>
+<meta name="description" content="お探しのページは削除されました。信毎webは信濃毎日新聞社が運営するニュースサイトです。信濃毎日新聞掲載の政治・経済・社会・スポーツ分野の主要な信州・長野県内のニュースを提供しています。" />
+<meta name="keywords" content="信毎web,信濃毎日新聞,ニュース,長野,信州,信濃,ながの,ナガノ,しなの,nagano" />
+<meta name="viewport" content="width=1200px">
+<meta name="robots" content="noindex">
+<meta property="og:url" content="http://www.shinmai.co.jp/" />
+<meta property="og:title" content="お探しのページは削除されました。信毎webは信濃毎日新聞社が運営するニュースサイトです。信濃毎日新聞掲載の政治・経済・社会・スポーツ分野の主要な信州・長野県内のニュースを提供しています。" />
+<meta property="og:description" content="信濃毎日新聞がお届けする信州・長野県のニュース" />
+<meta property="og:image" content="http://www.shinmai.co.jp/images/logo.png" />
+<meta property="og:site_name" content="信毎web" />
+<link type="text/css" rel="stylesheet" href="/css/reset.css" />
+<link type="text/css" rel="stylesheet" href="/css/style.css" />
+<link type="text/css" rel="stylesheet" href="/css/accordion.css" />
+<link type="text/css" rel="stylesheet" href="/css/shinmai-icon.css" />
+<link type="text/css" rel="stylesheet" href="/css/Weather-font.css" />
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/js/jquery-1.11.2.min.js"></script>
+<![endif]-->
+<!--[if gte IE 9]><!-->
+<script type="text/javascript" src="/js/jquery-2.1.4.min.js"></script>
+<!--<![endif]-->
+<script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/js/sh_init.js"></script>
+<script type="text/javascript" src="/js/sh_calendar.min.js"></script>
+<script type="text/javascript" src="/js/sh_googleanalytics.js"></script>
+
+<!-- CheckM8 SMARTtag start-->
+<script type="text/javascript">
+  var CM8Server = "web-jp.ad-v.jp";
+  var CM8Cat = "shinmai.top";
+</script>
+<script type="text/javascript" src="http://web-jp.ad-v.jp/adam/cm8adam_1_call.js"></script>
+<!-- CheckM8 SMARTtag end-->
+
+<link rel="stylesheet" href="/css/colorbox.css">
+<script type="text/javascript" src="/js/jquery.colorbox-min.js"></script>
+
+
+<link type="text/css" rel="stylesheet" href="/css/404.css">
+<!--[if lt IE 9]>
+<script src="/js/html5shiv.js"></script>
+<![endif]-->
+
+<!--[if lt IE 8]><script src="/js/selectivizr.js"></script><![endif]-->
+</head>
+
+<body>
+<!-- コンテナー -->
+<div class="container">
+
+<!-- ヘッダー -->
+
+<header id="header">
+<h1 class="title"><a href="/"><img src="/images/logo.png" alt="信毎web"></a></h1>
+
+<!-- 日付 -->
+<div class="day">
+<p>2016年<span>5月1日</span></p>
+<p class="day-week">日曜日</p>
+</div>
+
+
+<!-- 天気 -->
+<div class="weather">
+<h3><a href="/weather/">天気情報（1日8時更新）</a></h3>
+<ul>
+<li>
+<a class="climacon icon-110" href="/weather/#200010"><p>北部</p><p><span class="temperature high">23℃</span></p></a>
+</li>
+<li>
+<a class="climacon icon-110" href="/weather/#200020"><p>中部</p><p><span class="temperature high">24℃</span></p></a>
+<a href="/weather/keihou.php" class="mark note">注意報</a>
+</li>
+<li>
+<a class="climacon icon-110" href="/weather/#200030"><p>南部</p><p><span class="temperature high">23℃</span></p></a>
+<a href="/weather/keihou.php" class="mark note">注意報</a>
+</li>
+</ul>
+</div>
+
+
+<!-- 購読・試読 -->
+<div>
+  <p><a href="/corporate/subscription" class="btn material">購読案内</a></p>
+</div>
+<div>
+  <p><a href="https://info.shinmai.co.jp/koudoku/shidoku/" class="btn material">試し読み</a></p>
+</div>
+
+<!-- 文字サイズ -->
+<div class="size_controller">
+<h3>文字サイズ</h3>
+<ul id="textsize">
+<li><a href="javascript:void(0)" class="f1"><span>小</span></a></li>
+<li><a href="javascript:void(0)" class="f2"><span>中</span></a></li>
+<li><a href="javascript:void(0)" class="f3"><span>大</span></a></li>
+</ul>
+</div>
+</header>
+
+<!-- グローバルメニュー -->
+<nav id="nav">
+<ul class="mainmenu">
+	<li class="tab top active"><a href="/"><i class="icon-home sizeL"></i>トップ</a></li>
+	<li class="tab"><i class="icon-local sizeL"></i>長野県のニュース</li>
+	<li class="tab"><i class="icon-global sizeL"></i>国内外のニュース</li>
+	<li class="tab"><i class="icon-news sizeL"></i>ニュース特集</li>
+	<li class="tab"><i class="icon-sports sizeL"></i>信州スポーツ</li>
+	<li class="tab"><i class="icon-odekake sizeL"></i>観光・エンタメ</li>
+	<li class="tab"><i class="icon-shinmai sizeL"></i>会社案内</li>
+	<li class="tab"><i class="icon-nano sizeL"></i>なーのちゃんクラブ</li>
+</ul>
+
+<div class="submenu_wrapper">
+<div class="submenu">
+<ul>
+	<li><a href="/news/nagano/news_list.html">トップ</a></li>
+	<li><a href="/news/nagano/web_seiji_list.html">政治</a></li>
+	<li><a href="/news/nagano/web_keizai_list.html">経済</a></li>
+	<li><a href="/news/nagano/web_shakai_list.html">社会</a></li>
+	<li><a href="/news/nagano/web_sports_list.html">スポーツ</a></li>
+	<li><a href="/news/nagano/web_shasetsu_list.html">社説</a></li>
+	<li><a href="/news/nagano/web_shamen_list.html">コラム斜面</a></li>
+</ul>
+</div>
+<div class="submenu">
+<ul>
+	<li><a href="/news/world/">トップ</a></li>
+	<li><a href="/news/world/list.php?genre=flash">フラッシュ</a></li>
+	<li><a href="/news/world/list.php?genre=seiji">政治</a></li>
+	<li><a href="/news/world/list.php?genre=keizai">経済</a></li>
+	<li><a href="/news/world/list.php?genre=shakai">社会</a></li>
+	<li><a href="/news/world/list.php?genre=bunka">文化・芸能</a></li>
+	<li><a href="/news/world/list.php?genre=sports">スポーツ</a></li>
+</ul>
+</div>
+<div class="submenu">
+<ul>
+	<li><a href="http://info.shinmai.co.jp/pdfgogai/">PDF号外</a></li>
+	<li><a href="/ontakesan/">御嶽山噴火</a></li>
+	<li><a href="/hokubu/">県北部地震</a></li>
+	<li><a href="/eastjapan_quake/">東日本大震災</a></li>
+	<li><a href="/onbasira/">御柱</a></li>
+	<li><a href="/photo/index.htm">写真グラフ</a></li>
+	<li><a href="/zukutan2/">ズクたん</a></li>
+	<li><a href="/feature/index.html">過去の特集</a></li>
+</ul>
+</div>
+<div class="submenu">
+<ul>
+	<li><a href="/baseball/">高校野球</a></li>
+	<li><a href="http://www8.shinmai.co.jp/grandserows/">信濃グランセローズ</a></li>
+	<li><a href="/soccer/">信州サッカー</a></li>
+	<li><a href="/basketball/">信州ブレイブウォリアーズ</a></li>
+</ul>
+</div>
+<div class="submenu">
+<ul>
+	<li><a href="http://www8.shinmai.co.jp/flower/">花・紅葉だより</a></li>
+	<li><a href="http://www8.shinmai.co.jp/yama/">山小屋</a></li>
+	<li><a href="http://www8.shinmai.co.jp/soba/">そば</a></li>
+	<li><a href="http://www8.shinmai.co.jp/onsen/">温泉</a></li>
+	<li><a href="http://www8.shinmai.co.jp/odekake/">おでかけ</a></li>
+	<li><a href="http://www.hokurikushinkansen-navi.jp/">北陸・信越観光ナビ</a></li>
+	<li><a href="https://nano.shinmai.co.jp/enjoy/event/">イベント情報</a></li>
+	<li><a href="https://nano.shinmai.co.jp/enjoy/movie/">映画</a></li>
+</ul>
+</div>
+<div class="submenu">
+<ul>
+	<li><a href="/corporate/">会社案内</a></li>
+	<li><a href="/corporate/subscription/">購読</a></li>
+	<li><a href="https://info.shinmai.co.jp/koudoku/shidoku/">試読</a></li>
+	<li><a href="/corporate/recruit/">採用案内</a></li>
+	<li><a href="https://nano.shinmai.co.jp/info/toukou/">各種投稿</a></li>
+	<li><a href="https://nano.shinmai.co.jp/shinmai/">お知らせ</a></li>
+	<li><a href="https://nano.shinmai.co.jp/info/chiiki/">読者センター便り</a></li>
+	<li><a href="http://www8.shinmai.co.jp/nie/">NIE特集</a></li>
+	<li><a href="/corporate/kengaku/">信毎の見学について</a></li>
+</ul>
+</div>
+<div class="submenu">
+<ul>
+	<li><a href="https://nano.shinmai.co.jp/">トップ</a></li>
+	<li><a href="https://nano.shinmai.co.jp/live/">暮らす</a></li>
+	<li><a href="https://nano.shinmai.co.jp/enjoy/">楽しむ</a></li>
+	<li><a href="https://nano.shinmai.co.jp/recommend/">おススメ</a></li>
+	<li><a href="https://nano.shinmai.co.jp/recommend/event/">イベント＆チケット</a></li>
+	<li><a href="https://member.shinmai.co.jp/sm/info/nanoguide/process.html">ご利用方法</a></li>
+	<li><a href="https://member.shinmai.co.jp">信毎デジタルパスポート</a></li>
+</ul>
+</div>
+</div><!-- /submenu_wrapper-->
+</nav>
+
+
+<!-- コンテンツ -->
+<article>
+<div class="inner">
+
+<!-- 左カラム -->
+<div class="main_area">
+  <section class="text-area">
+    <div class="title">
+      <h3>お探しのページは削除されました。</h3>
+    </div>
+  </section>
+
+  <div class="text-box">
+    お探しの記事は保存期限を過ぎたり、サービスの提供が終了したため削除されました。
+  </div>
+
+
+  <section>
+    <h2>サイト案内</h2>
+    <p>
+      当ホームページのさらに詳細なサイトマップは下部のメニュータブをクリックすると表示されます。
+    </p>
+    <div class="column">
+      <ul class="usual">
+      	<li class="top_cat"><a href="/"><i class="icon-home sizeL"></i>トップ</a></li>
+      	<li class="top_cat"><i class="icon-local sizeL"></i>長野県のニュース
+          <ul>
+            <li><a href="/news/nagano/news_list.html">トップ</a></li>
+            <li><a href="/news/nagano/web_seiji_list.html">政治</a></li>
+            <li><a href="/news/nagano/web_keizai_list.html">経済</a></li>
+            <li><a href="/news/nagano/web_shakai_list.html">社会</a></li>
+            <li><a href="/news/nagano/web_sports_list.html">スポーツ</a></li>
+            <li><a href="/news/nagano/web_shasetsu_list.html">社説</a></li>
+            <li><a href="/news/nagano/web_shamen_list.html">コラム斜面</a></li>
+          </ul>
+        </li>
+      	<li class="top_cat"><i class="icon-global sizeL"></i>国内外のニュース
+          <ul>
+            <li><a href="/news/world/">トップ</a></li>
+            <li><a href="/news/world/list.php?genre=flash">フラッシュ</a></li>
+            <li><a href="/news/world/list.php?genre=seiji">政治</a></li>
+            <li><a href="/news/world/list.php?genre=keizai">経済</a></li>
+            <li><a href="/news/world/list.php?genre=shakai">社会</a></li>
+            <li><a href="/news/world/list.php?genre=bunka">文化・芸能</a></li>
+            <li><a href="/news/world/list.php?genre=sports">スポーツ</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+    <div class="column cln-middle">
+      <ul class="usual">
+      	<li class="top_cat"><i class="icon-news sizeL"></i>ニュース特集
+          <ul>
+            <li><a href="http://info.shinmai.co.jp/pdfgogai/">PDF号外</a></li>
+            <li><a href="/ontakesan/">御嶽山噴火</a></li>
+            <li><a href="/hokubu/">県北部地震</a></li>
+            <li><a href="/eastjapan_quake/">東日本大震災</a></li>
+            <li><a href="/onbasira/">御柱</a></li>
+            <li><a href="/photo/index.htm">写真グラフ</a></li>
+            <li><a href="/zukutan2/">ズクたん</a></li>
+            <li><a href="/feature/index.html">過去の特集</a></li>
+          </ul>
+        </li>
+      	<li class="top_cat"><i class="icon-sports sizeL"></i>信州スポーツ
+          <ul>
+            <li><a href="/baseball/">高校野球</a></li>
+            <li><a href="http://www8.shinmai.co.jp/grandserows/">信濃グランセローズ</a></li>
+            <li><a href="/soccer/">信州サッカー</a></li>
+            <li><a href="/basketball/">信州ブレイブウォリアーズ</a></li>
+          </ul>
+        </li>
+      	<li class="top_cat"><i class="icon-odekake sizeL"></i>観光・エンタメ
+          <ul>
+            <li><a href="http://www8.shinmai.co.jp/flower/">花・紅葉だより</a></li>
+            <li><a href="http://www8.shinmai.co.jp/yama/">山小屋</a></li>
+            <li><a href="http://www8.shinmai.co.jp/soba/">そば</a></li>
+            <li><a href="http://www8.shinmai.co.jp/onsen/">温泉</a></li>
+            <li><a href="http://www8.shinmai.co.jp/odekake/">おでかけ</a></li>
+            <li><a href="http://www.hokurikushinkansen-navi.jp/">北陸・信越観光ナビ</a></li>
+            <li><a href="https://nano.shinmai.co.jp/enjoy/event/">イベント情報</a></li>
+            <li><a href="https://nano.shinmai.co.jp/enjoy/movie/">映画</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+    <div class="column">
+      <ul class="usual">
+        <li class="top_cat"><i class="icon-shinmai sizeL"></i>会社案内
+          <ul>
+            <li><a href="/corporate/">会社案内</a></li>
+            <li><a href="/corporate/subscription/">購読</a></li>
+            <li><a href="https://info.shinmai.co.jp/koudoku/shidoku/">試読</a></li>
+            <li><a href="/corporate/recruit/">採用案内</a></li>
+            <li><a href="https://nano.shinmai.co.jp/info/toukou/">各種投稿</a></li>
+            <li><a href="https://nano.shinmai.co.jp/shinmai/">お知らせ</a></li>
+            <li><a href="https://nano.shinmai.co.jp/info/chiiki/">読者センター便り</a></li>
+            <li><a href="http://www8.shinmai.co.jp/nie/">NIE特集</a></li>
+          </ul>
+        </li>
+        <li class="top_cat"><i class="icon-nano sizeL"></i>なーのちゃんクラブ
+          <ul>
+            <li><a href="https://nano.shinmai.co.jp/">トップ</a></li>
+            <li><a href="https://nano.shinmai.co.jp/live/">暮らす</a></li>
+            <li><a href="https://nano.shinmai.co.jp/enjoy/">楽しむ</a></li>
+            <li><a href="https://nano.shinmai.co.jp/recommend/">おススメ</a></li>
+            <li><a href="https://nano.shinmai.co.jp/recommend/event/">イベント＆チケット</a></li>
+            <li><a href="https://member.shinmai.co.jp/sm/info/nanoguide/process.html">ご利用方法</a></li>
+            <li><a href="https://member.shinmai.co.jp">信毎デジタルパスポート</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </section>
+</div><!-- / mainarea -->
+
+<!-- 右カラム -->
+<div class="sub_area">
+<section>
+
+  <!-- 検索ウインド -->
+  <section class="search">
+<form action="http://www.google.com/search">
+<input type="hidden" name="hl" value="ja">
+<input type="hidden" name="hq" value="inurl:www.shinmai.co.jp/">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="hidden" name="filter" value="0">
+<p>
+<input type="text" name="q" placeholder="サイト内検索" size="40">
+</p>
+<p>
+<input type="submit" value="検索">
+</p>
+</form>
+</section>
+
+  <section>
+<h2>日付で探す</h2>
+<div id="calendar" class="calendar-container"></div>
+</section>
+
+<!-- ランキング -->
+<section class="ranking">
+
+<h2><a href="http://www.shinmai.co.jp/ranking/"><i class="icon-ranking"></i>ニュースランキング</a><span><br />本日のTop10（5/1 10:15更新）</span></h2>
+
+<ol>
+<li class="rank1"><a href="http://www.shinmai.co.jp/news/nagano/20160501/KT160430FTI090022000.php">大型連休の北アルプスで遭難相次ぐ</a></li>
+<li class="rank2"><a href="http://www.shinmai.co.jp/news/nagano/20160430/KT160430FSI090001000.php">空気ひんやり…羽織って松本城観光 …</a></li>
+<li class="rank3"><a href="http://www.shinmai.co.jp/news/nagano/20160430/mm20160430021125.php">【速報】なでしこＡＣ長野ホーム４連…</a></li>
+<li class="rank4"><a href="http://www.shinmai.co.jp/news/nagano/20160430/KT160429ATI090005000.php">大型連休初日、信州に人続々</a></li>
+<li class="rank5"><a href="http://www.shinmai.co.jp/news/nagano/20160430/KT160429FTI090015000.php">志賀高原、４月の雪化粧 県内に寒気</a></li>
+<li class="rank6"><a href="http://www.shinmai.co.jp/news/nagano/20160501/KT160430SJI090008000.php">山小屋の雄犬ハッチ、主人亡き後「犬…</a></li>
+<li class="rank7"><a href="http://www.shinmai.co.jp/news/nagano/20160430/KT160429IWI090008000.php">市町村対抗駅伝は長野市が４年連続優…</a></li>
+<li class="rank8"><a href="http://www.shinmai.co.jp/news/nagano/20160501/KT160430IWI090013000.php">なでしこＡＣ長野、岡山湯郷破り３位…</a></li>
+<li class="rank9"><a href="http://www.shinmai.co.jp/news/nagano/20160430/KT160429IWI090031000.php">Ｊ２松本山雅は愛媛と０―０ ６試合…</a></li>
+<li class="rank10"><a href="http://www.shinmai.co.jp/news/nagano/20160430/KT160428ETI090008000.php">社説 志賀原発断層 北陸電力の見識…</a></li>
+</ol>
+
+</section>
+<!-- SNSリンク -->
+<div class="mgn_t20">
+<!-- SNSリンク -->
+  <h2>公式SNS</h2>
+  <ul>
+    <li class="sns-list"><a href="https://twitter.com/shinmaiweb"><img class="snslink" src="/include/right_column/images/TwitterLogo44.5.png"><span class="snslink">@shinmaiweb  公式Twitter</span></a></li>
+    <li class="sns-list"><a href="https://www.facebook.com/shinmaiweb/"><img  class="snslink" src="/include/right_column/images/facebook_logo44.5.png"><span class="snslink">信毎web 公式Facebookページ</span></a></li>
+  </ul>
+</div>
+
+
+</section>
+</div><!-- subarea -->
+
+</div><!-- /inner -->
+</article>
+
+</div><!-- container -->
+
+<!-- フッター -->
+<section class="archive">
+<div id="st-accordion" class="st-accordion">
+<ul>
+<li>
+<a href="#" class="archiveBtn"><span class="archiveTtl">メニュー</span><span class="st-arrow"></span></a>
+<div class="st-content">
+<div class="fmenu cf">
+<ul>
+	<li class="title">信毎web</li>
+	<li><a href="/news/nagano/news_list.html">県内ニュース一覧</a></li>
+	<li><a href="/news/nagano/web_seiji_list.html">政治</a></li>
+	<li><a href="/news/nagano/web_keizai_list.html">経済</a></li>
+	<li><a href="/news/nagano/web_shakai_list.html">社会</a></li>
+	<li><a href="/news/nagano/web_sports_list.html">スポーツ</a></li>
+	<li><a href="/news/nagano/web_shasetsu_list.html">社説</a></li>
+	<li><a href="/news/nagano/web_shamen_list.html">コラム斜面</a></li>
+	<li><a href="/news/world/">国内外ニュース一覧</a></li>
+	<li><a href="/news/world/list.php?genre=seiji">政治</a></li>
+	<li><a href="/news/world/list.php?genre=keizai">経済</a></li>
+	<li><a href="/news/world/list.php?genre=shakai">社会</a></li>
+	<li><a href="/news/world/list.php?genre=bunka">文化・芸能</a></li>
+	<li><a href="/news/world/list.php?genre=sports">スポーツ</a></li>
+	<li><a href="/weather/">天気予報</a></li>
+</ul>
+<ul>
+	<li class="title">特集サイト</li>
+	<li><a href="/baseball/">高校野球</a></li>
+	<li><a href="http://www8.shinmai.co.jp/grandserows/">信濃グランセローズ</a></li>
+	<li><a href="/soccer/">信州サッカー</a></li>
+	<li><a href="/basketball/">ブレイブウォリアーズ</a></li>
+	<li><a href="http://www8.shinmai.co.jp/flower/">花・紅葉だより</a></li>
+	<li><a href="http://www8.shinmai.co.jp/yama/">山小屋ネット</a></li>
+	<li><a href="http://www8.shinmai.co.jp/soba/">そば漫遊</a></li>
+	<li><a href="http://www8.shinmai.co.jp/onsen/">日帰り温泉</a></li>
+	<li><a href="http://www8.shinmai.co.jp/odekake/">おでかけ</a></li>
+	<li><a href="/ontakesan/">御岳噴火</a></li>
+	<li><a href="/eastjapan_quake/">東日本大震災</a></li>
+	<li><a href="/hokubu/">県北部地震</a></li>
+	<li><a href="/onbasira/">御柱</a></li>
+	<li><a href="/photo/index.htm">写真グラフ</a></li>
+	<li><a href="/zukutan2/">ズクたん</a></li>
+	<li><a href="/feature/index.html">過去の特集</a></li>
+	<li><a href="http://info.shinmai.co.jp/pdfgogai/">過去のPDF号外</a></li>
+	<li><a href="http://www.hokurikushinkansen-navi.jp/">北陸・信越観光ナビ</a></li>
+	<li><a href="/photohaiku/">フォト×俳句</a></li>
+	<li><a href="/photo-haiku/">フォト×俳句選手権</a></li>
+	<li><a href="http://www8.shinmai.co.jp/nie/">NIE特集</a></li>
+</ul>
+<ul>
+	<li class="title">会社案内</li>
+	<li><a href="/corporate/">会社案内</a></li>
+	<li><a href="https://nano.shinmai.co.jp/info/">信毎への窓口</a></li>
+	<li><a href="https://nano.shinmai.co.jp/info/download/">用紙等のダウンロード</a></li>
+	<li><a href="https://info.shinmai.co.jp/kirameki/">信毎きらめき倶楽部</a></li>
+	<li><a href="https://nano.shinmai.co.jp/info/#p02">お問い合わせ</a></li>
+	<li><a href="https://nano.shinmai.co.jp/info/schedule/">なーのちゃんスケジュール</a></li>
+	<li><a href="/corporate/kengaku/">信毎の見学について</a></li>
+	<li><a href="https://nano.shinmai.co.jp/info/download/kouen.pdf">後援申請PDFダウンロード</a></li>
+	<li><a href="/corporate/guide/copyright.html">記事利用案内</a></li>
+	<li><a href="http://ad.shinmai.co.jp/">広告出稿案内</a></li>
+</ul>
+<ul>
+	<li class="title">関連会社などのサービス</li>
+	<li><a href="http://ad.shinmai.co.jp/s-photo/">信毎フォトサービス</a></li>
+	<li><a href="http://job.shinmai.co.jp/cgi-bin/job-list.cgi">就職情報</a></li>
+	<li><a href="/housing/">不動産情報</a></li>
+	<li><a href="http://wwwa.pandanet.co.jp/a/shinshu/">信州囲碁ネット</a></li>
+	<li><a href="http://ad.shinmai.co.jp/ad-campaign/nanochan.html">なーのちゃんネル</a></li>
+	<li><a href="http://guidance.shinmai.co.jp/">企業ガイダンスナビ</a></li>
+	<li><a href="http://www.shinshu-dc.net/">信州四季旅キャンペーン</a></li>
+	<li><a href="http://ad.shinmai.co.jp/s-photo/#calendar">わたしのカレンダー</a></li>
+	<li><a href="https://ad.shinmai.co.jp/cresson/">Cresson</a></li>
+</ul>
+<ul>
+	<li class="title">関連団体</li>
+	<li><a href="http://www.naganomarathon.gr.jp/">長野マラソン</a></li>
+	<li><a href="http://karuizawa-marathon.com/">軽井沢ハーフマラソン</a></li>
+	<li><a href="http://www.news-nagano.com/">長野市民新聞</a></li>
+	<li><a href="http://townjoho.co.jp/">松本平タウン情報</a></li>
+	<li><a href="http://w2.avis.ne.jp/~naga-shi/">県カルチャーセンター</a></li>
+	<li><a href="http://www2.shinanoji.net/nie/">県NIE推進協議会</a></li>
+	<li><a href="http://www.nagano-inc.co.jp/">長野ケーブルテレビ</a></li>
+	<li><a href="/corporate/zaidan/">信毎文化事業財団</a></li>
+	<li><a href="http://www.shinmai-kenpo.jp/">信濃毎日新聞健保組合</a></li>
+</ul>
+<ul>
+	<li class="title">SNS</li>
+	<li><a href="https://twitter.com/shinmaiweb">信毎web 公式Twitter</a></li>
+	<li><a href="https://www.facebook.com/shinmaiweb">信毎web 公式Facebookページ</a></li>
+	<li><a href="https://twitter.com/kankounavi">北陸・信越観光ナビ 公式Twitter</a></li>
+	<li><a href="https://www.facebook.com/hokurikushinkansennavi">北陸・信越観光ナビ 公式Facebookページ</a></li>
+</ul>
+<ul>
+	<li class="title">信毎デジタルパスポート</li>
+	<li><a href="https://member.shinmai.co.jp/">トップページ</a></li>
+	<li><a href="https://member.shinmai.co.jp/sm/info/nanoguide/process.html">登録方法</a></li>
+	<li><a href="https://member.shinmai.co.jp/sm/info/nanoguide/question.html">Q＆A</a></li>
+	<li><a href="https://member.shinmai.co.jp/sm/pc/inquiry/input">お問い合わせ</a></li>
+</ul>
+<ul>
+	<li class="title">なーのちゃんクラブ</li>
+	<li><a href="https://nano.shinmai.co.jp/">トップページ</a></li>
+	<li><a href="https://member.shinmai.co.jp/sm/info/nanoguide/process.html">登録方法</a></li>
+	<li><a href="https://nano.shinmai.co.jp/live/">暮らす</a></li>
+	<li><a href="https://nano.shinmai.co.jp/live/hospital/">休日夜間当番医</a></li>
+	<li><a href="https://nano.shinmai.co.jp/live/pharmacy/">当番薬局</a></li>
+	<li><a href="https://nano.shinmai.co.jp/live/traffic/">鉄道運行情報</a></li>
+	<li><a href="https://nano.shinmai.co.jp/live/weather/">天気予報</a></li>
+	<li><a href="https://nano.shinmai.co.jp/live/shop/">お店情報</a></li>
+	<li><a href="https://nano.shinmai.co.jp/live/recipe/">今日のレシピ</a></li>
+	<li><a href="https://nano.shinmai.co.jp/enjoy/">楽しむ</a></li>
+	<li><a href="https://nano.shinmai.co.jp/enjoy/column/">エンタメコラム</a></li>
+	<li><a href="https://nano.shinmai.co.jp/enjoy/contents/">特選お役立ちコラム</a></li>
+	<li><a href="https://nano.shinmai.co.jp/enjoy/food/">信州FOOD記</a></li>
+	<li><a href="https://nano.shinmai.co.jp/enjoy/wine/">それはさておき、ひとまずワイン</a></li>
+	<li><a href="https://nano.shinmai.co.jp/enjoy/spice/">暮らしの調味料</a></li>
+	<li><a href="https://nano.shinmai.co.jp/enjoy/art/">東京アート日和</a></li>
+	<li><a href="https://nano.shinmai.co.jp/enjoy/sports/">信州スポーツスタジアム</a></li>
+	<li><a href="https://nano.shinmai.co.jp/enjoy/techou/">信州お天気手帖</a></li>
+	<li><a href="https://nano.shinmai.co.jp/enjoy/fortune/">今日の運勢</a></li>
+	<li><a href="https://nano.shinmai.co.jp/enjoy/event/">イベント情報</a></li>
+	<li><a href="https://info.shinmai.co.jp/nano/event/">イベント情報投稿</a></li>
+	<li><a href="https://nano.shinmai.co.jp/enjoy/movie/">映画館情報</a></li>
+	<li><a href="https://nano.shinmai.co.jp/enjoy/bookcd-ranking/">書籍・CDランキング</a></li>
+	<li><a href="https://nano.shinmai.co.jp/enjoy/puzzle/">パズル</a></li>
+	<li><a href="https://nano.shinmai.co.jp/news/">ニュース</a></li>
+	<li><a href="https://nano.shinmai.co.jp/news/nanochantv/">なーのちゃんTV</a></li>
+	<li><a href="https://nano.shinmai.co.jp/news/whats_today_detail/">今日は何の日</a></li>
+	<li><a href="https://nano.shinmai.co.jp/recommend/">おススメ</a></li>
+	<li><a href="https://nano.shinmai.co.jp/recommend/event/">信毎イベント＆チケット</a></li>
+	<li><a href="https://nano.shinmai.co.jp/recommend/book/">信毎の本オンラインショップ</a></li>
+	<li><a href="https://shop.shinmai.co.jp/goods/">信毎オリジナルグッズ</a></li>
+	<li><a href="https://shop.shinmai.co.jp/marathon/">長野マラソン公式グッズ</a></li>
+	<li><a href="https://nano.shinmai.co.jp/recommend/present/">プレゼント</a></li>
+</ul>
+<ul>
+	<li class="title">信毎プレミアム</li>
+	<li><a href="/corporate/keitai2/">従来型携帯電話向け</a></li>
+	<li><a href="/corporate/sp/pc_pr/">スマートフォン向け</a></li>
+	<li><a href="#">登録方法</a></li>
+	<li class="title"><a href="http://www.shinmai.co.jp/cgi-bin/db/db_location.pl">信毎データベース</a></li>
+	<li class="title"><a href="/corporate/ar/">写真が動くよAR</a></li>
+	<li class="title"><a href="http://www.pressnet.or.jp/">日本新聞協会</a></li>
+	<li><a href="http://www.pressnet.or.jp/statement/copyright/971106_86.html">ネット著作権</a></li>
+	<li><a href="http://www.pressnet.or.jp/adarc/">広告アーカイブ</a></li>
+	<li><a href="http://www.yondoku.com/happynews/requirements/">HappyNews</a></li>
+	<li><a href="http://www.pressnet.or.jp/keigen/">新聞と税のはなし</a></li>
+	<li class="title"><a href="http://www.todays.jp/">地域新聞MMN</a></li>
+	<li class="title"><a href="http://www.47news.jp/">47News</a></li>
+	<li class="title"><a href="http://www.47club.jp/?cid=19aa">47Club</a></li>
+</ul>
+</div><!-- fmenu cf -->
+</div><!-- st-content -->
+</li>
+</ul>
+</div><!-- st-accordion -->
+</section>
+
+<footer id="footer">
+<div class="footer-inner">
+	<p class="copyright">掲載中の記事・写真・イラストの無断転用を禁じます。<br />　Copyright©信濃毎日新聞 The Shinano Mainichi Shimbun</p>
+	<a href="/corporate/guide/sitemap.html">サイトマップ</a>｜
+	<a href="/corporate/guide/">著作権</a>｜
+	<a href="/corporate/guide/index.html#link">リンク</a>｜
+	<a href="/corporate/guide/copyright.html">記事・写真のご利用について</a>｜
+	<a href="/corporate/guide/guide.html#browser">利用推奨環境</a>｜
+	<a href="/corporate/guide/privacy.html">個人情報保護</a>｜
+	<a href="https://nano.shinmai.co.jp/info/">お問い合わせ</a>
+</div><!-- /footer-inner -->
+
+<div id="footer47news">
+	<a target="_blank" href="http://www.47news.jp/">47NEWS</a> 参加社一覧<br />
+	<a target="_blank" href="http://dd.hokkaido-np.co.jp/index.html">北海道新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.muromin.mnw.jp/">室蘭民報</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.kahoku.co.jp/">河北新報</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.toonippo.co.jp/">東奥日報</a>&nbsp;|&nbsp;
+
+	<a target="_blank" href="http://www.daily-tohoku.co.jp/">デーリー東北</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.sakigake.jp/">秋田魁新報</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://yamagata-np.jp/">山形新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.iwate-np.co.jp/">岩手日報</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.minpo.jp/">福島民報</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.minyu-net.com/">福島民友新聞</a>&nbsp;|&nbsp;
+
+	<a target="_blank" href="http://www.sankei.com/">産業経済新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.nikkei.co.jp/">日本経済新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.japantimes.co.jp/">ジャパンタイムズ</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.shimotsuke.co.jp/">下野新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.ibaraki-np.co.jp/">茨城新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.jomo-news.co.jp/">上毛新聞</a>&nbsp;|&nbsp;
+
+	<a target="_blank" href="http://www.chibanippo.co.jp/">千葉日報</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.kanaloco.jp/">神奈川新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.saitama-np.co.jp/">埼玉新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.sannichi.co.jp/">山梨日日新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.shinmai.co.jp/">信濃毎日新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.niigata-nippo.co.jp/">新潟日報</a>&nbsp;|&nbsp;
+
+	<a target="_blank" href="http://www.chunichi.co.jp/">中日新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.chukei-news.co.jp/">中部経済新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.isenp.co.jp/">伊勢新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.at-s.com/">静岡新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.gifu-np.co.jp/">岐阜新聞</a>&nbsp;|&nbsp;
+
+	<a target="_blank" href="http://www.kitanippon.co.jp/">北日本新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.hokkoku.co.jp/">北國新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.fukuishimbun.co.jp/">福井新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.kyoto-np.co.jp/">京都新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.kobe-np.co.jp/">神戸新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.nara-np.co.jp/">奈良新聞</a>&nbsp;|&nbsp;
+
+	<a target="_blank" href="http://www.agara.co.jp/">紀伊民報</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.sanyonews.jp/">山陽新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.chugoku-np.co.jp/">中国新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.nnn.co.jp/">日本海新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.minato-yamaguchi.co.jp/yama/">山口新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.sanin-chuo.co.jp/">山陰中央新報</a>&nbsp;|&nbsp;
+
+	<a target="_blank" href="http://www.shikoku-np.co.jp/">四国新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.ehime-np.co.jp/">愛媛新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.topics.or.jp/">徳島新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.kochinews.co.jp/">高知新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.nishinippon.co.jp/">西日本新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.oita-press.co.jp/">大分合同新聞</a>&nbsp;|&nbsp;
+
+	<a target="_blank" href="http://www.the-miyanichi.co.jp/">宮崎日日新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.nagasaki-np.co.jp/">長崎新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.saga-s.co.jp/">佐賀新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://kumanichi.com/">熊本日日新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://373news.com/">南日本新聞</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.okinawatimes.co.jp/">沖縄タイムス</a>&nbsp;|&nbsp;
+
+	<a target="_blank" href="http://ryukyushimpo.jp/">琉球新報</a>&nbsp;|&nbsp;
+	<a target="_blank" href="http://www.kyodonews.jp/">共同通信</a>
+</div><!-- /footer47news -->
+</footer>
+
+<script type="text/javascript" src="/js/jquery.accordion.js"></script>
+<script type="text/javascript" src="/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/js/jquery.textresizer.min.js"></script>
+
+<script>
+$(document).ready(function(){
+$('a[href$=".jpg"],a[href$=".gif"],a[href$=".png"]').colorbox();
+$(".youtube").colorbox({iframe:true, innerWidth:640, innerHeight:390});
+$('#colorbox').colorbox({transition:"fade"});
+
+});
+</script>
+
+
+</body>
+</html>

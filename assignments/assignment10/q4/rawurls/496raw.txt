@@ -1,0 +1,111 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-jp" />
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="expires" content="0">
+<title>WordPress管理画面へのアクセスが拒否されました</title>
+
+<style type="text/css">
+
+* {
+	margin : 0 ;
+	padding : 0 ;
+	font-size : 100% ;
+}
+
+body {
+	font-family:"ＭＳ Ｐゴシック", Osaka, "ヒラギノ角ゴ Pro W3" ;
+	font-size : 75% ;
+	text-align : center ;
+	line-height : 1.4 ;
+	color : #333 ;
+}
+
+a img {
+	border : none ;
+}
+
+#contents_wrapper {
+	width : 600px ;
+	margin : 20px auto 30px ;
+}
+
+h1 {
+	margin-bottom : 14px ;
+}
+
+h3 {
+	font-size : 145% ;
+	padding : 5px 10px ;
+	background : #444 ;
+	color : #fff ;
+}
+
+.inner {
+	text-align : left ;
+	padding : 15px 24px ;
+	border : 1px solid #b3b3b3 ;
+}
+
+.inner p {
+	margin-bottom : 1em ;
+}
+
+.inner ul, .inner ol {
+	margin-left : 20px ;
+}
+
+.inner ul li {
+	list-style-type : disc ;
+	padding : 3px 0 ;
+}
+
+.inner ul.link_list {
+	margin-bottom : 1em ;
+}
+
+</style>
+
+</head>
+
+<body>
+    	
+    <div id="contents_wrapper">
+    
+        <h1><img src="/server_security_exception/logo.png" /></h1>
+    
+        <h3>WordPress管理画面へのアクセスが拒否されました</h3>
+        <div class="inner">
+        	<p>ただいまエックスサーバーのセキュリティ対策により、<br />
+            一部のご利用環境からWordPress管理画面へのアクセスが制限されています。</p>
+            
+            <p>お客様のご利用環境において本画面が表示されてしまう場合は、<br />
+            サーバーパネル内[WordPressセキュリティ設定]より、制限の解除を行うことが可能です。</p>
+            
+            <p>解除方法についてご不明な場合は、<br />
+            本ページのURLまたは、アクセスされたWordPressのURLをお書き添えのうえ、<br />
+            下記リンクより、エックスサーバーカスタマーサポートまでご連絡をお願いいたします。</p>
+            
+                        
+            <ul class="link_list">
+                <li><a href="https://www.xserver.ne.jp/support/" target="_blank">エックスサーバーお問い合わせ窓口</a></li>
+                <li><a href="http://www.xserver.ne.jp/manual/man_server_wpsecurity.php" target="_blank">サポートマニュアル - WordPressセキュリティ設定</a></li>
+            </ul>
+            
+            <p>【ご確認ください】<br />
+            　CloudFlare(クラウドフレア)等、外部サーバーを経由してアクセスされるサービス利用をされている場合、<br />
+            　お客様(閲覧者)のご利用環境ではなく、経由する外部サーバーが制限に該当している可能性があります。<br />
+            　この場合も、サーバーパネル内の[WordPressセキュリティ設定]より解除を行ってください。</p>
+        </div>
+        <!-- /inner -->
+    </div>
+    <!-- /contents_wrapper -->
+        
+
+</body>
+</html>
+
+

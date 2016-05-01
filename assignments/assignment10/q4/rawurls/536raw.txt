@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja-JP" dir="ltr">
+
+<head>
+ <meta http-equiv="refresh" content="1; url=http://a.msn.com/ja-jp?refurl=%2f01%2fja-jp%2fBBpkyNS%3focid%3dst">
+ <!-- data-info:v:2.0.5959.35335;a:f2159806-f126-4827-9540-7adcc3c394d7;cn:36;az:{did:bdfd0444d7d244e78e9cc65c34938ce8, rid: 36, sn: eastus-entertainment, dt: 2016-04-30T01:01:57.1627579Z, bt: 2016-04-26T03:38:38.0106323Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:start;PageName:errorPage;m:ja-jp;cb:;l:ja-jp;mu:ja-jp;ud:{cid:,vk:,n:,l:ja-jp,ck:};xd:;ovc:f;al:;f:muidflt27cf,muidflt48cf,muidflt57cf -->
+ 
+ 
+ <link rel="alternate" hreflang="ja-jp" href="http://a.msn.com/01/ja-jp/BBpkyNS?ocid=st" />
+
+ <title>
+ 指定されたページが見つかりません - MSN
+</title>
+ 
+ 
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+ <link rel="stylesheet" href="//static-entertainment-eus-s-msn-com.akamaized.net/ja-jp/homepage/_sc/css/6670b51d-/direction=ltr.locales=ja-jp.themes=start.dpi=resolution1x/bc-31f301-4e3b0a9b/58-337e27-c7ba7ae0/ba-8306bd-a648eab2?ver=2.0.5959.35335&amp;fdhead=muidflt27cf,muidflt48cf,muidflt57cf&amp;ocid=st&amp;csopdb=20160430134118" media="all" />
+ <script type="text/javascript">//<![CDATA[
+(function(n,t){function o(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n=="c.dom"&&(l=!0);s(n,i,r)}function s(n,t,i,r){var e,o,s,h;n&&u[n]||(e=k(n,t),e?(s=typeof i=="function",h=l&&s&&n!="dap"&&n!="adLoad"&&t&&(t.length!=1||t[0]!="dap"&&t[0]!="c.dom"),h?setTimeout(function(){o=i.apply(null,e);a(n,o)},1):(o=s?i.apply(null,e):i,a(n,o))):f.push(r||{i:n,d:t,f:i}))}function a(t,i){t&&(i?(u[t]=i,v()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function v(){var r,u,n,t;if(f.length&&!i){do for(r=f,u=r.length,f=[],i=1,t=0;t<u;t++)n=r[t],s(n.i,n.d,n.f,n);while(i>1);i=0}else i&&(i=2)}function k(i,r){for(var s,v,h,f=[],c=r?r.length:0,o=0;o<c;o++){var l=r[o],a=u[l],y=typeof a!="undefined";if(!y){if(s=b.exec(l),s)if(v=s[1],h=n[v],h!==t){f.push(h);continue}else e||(e=setTimeout(d,w));break}f.push(a)}return c==f.length?f:0}function d(){e=0;v()}function g(n,i,r){(typeof n!="object"||n&&n.splice)&&(r=i,i=n,n={});i&&i.splice||(r=i,i=[]);nt(n.js);r&&s(t,i,r)}function nt(n){if(typeof n=="string")y(n);else if(n)for(var t=0;t<n.length;t++)y(n[t])}function y(n){if(!c[n]){c[n]=1;var i=document.getElementsByTagName("script")[0],t=document.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function tt(n){return p?n?r.now():Math.round(r.now()):new Date-h}var r=n.performance,h=((r||{}).timing||{}).navigationStart||(n._timing||{}).start||+new Date,p=r&&typeof r.now=="function",u={date:Date,document:document,image:Image,localStorage:n.localStorage,location:document.location,navigator:navigator,pageStart:h,pageTime:tt,screen:screen,window:n},f=[],i,w=50,e,c={},l=!1,b=/^window\.(.+)$/;o.amd={jQuery:1};o.is=function(n){return typeof u[n]!="undefined"};n.define=o;n.require=g})(window);define("navigation",["escape","location"],function(n,t){function r(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function u(n){var t=f.exec(n);return t?t[2]:!1}var f=/[a-z][a-z0-9+\-.]*:\/\/([a-z0-9\-._~%!$&'()*+,;=]+@)?([a-z0-9\-._~%]+|\[[a-z0-9\-._~%!$&'()*+,;=:]+\])/i,i={getUrl:function(n){return i.filter?i.filter(n):n},navigate:function(n,r){i.filter&&(n=i.filter(n));r?t.replace(n):t.href=n},getHostName:u,isLocal:function(n){var i=u(n);return!i||t.hostname==i},getParams:r,getParamsFromUrl:function(n,t,i){var u=n.split("?")[1];return r(u,t,i)},mergeQueryStringParams:function(t,i){var e,f,o,u;if(i){if(e=t.split("?"),e[1]){f=r(e[1],!1,!0);for(u in i)f[u]=i[u]}else f=i;t=e[0];o="?";for(u in f)t+=f[u]?o+n.urlPart(u)+"="+n.urlPart(f[u]):o+n.urlPart(u),o="&"}return t},filter:null};return i})//]]></script><script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery/jquery-1.9.1.min.js"></script>
+ 
+  <script type="text/javascript"  src="//ads1.msads.net/library/8.4/dapmsn.js"></script>
+
+ 
+</head>
+
+<body class="e404 ep center-content darkslate">
+ 
+
+
+<div class="head">
+<div>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="">
+ 
+
+<img alt="" height="20" width="20" src="//static-entertainment-eus-s-msn-com.akamaized.net/sc/82/c22c7d.gif" />
+</a>
+
+
+
+</div>
+<div id="header-links">
+
+<a class="navigation" href="#nav">
+<img  alt="ナビゲーションへ戻る" width="27" height="20" src="//static-entertainment-eus-s-msn-com.akamaized.net/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+ 
+<div id="header-search">
+<form action="http://www.bing.com/search?scope=web" method="get" id="srchfrm">
+<div class="searchbox">
+<input type="text" id="q" name="q" value="" />
+<input type="hidden" name="form" value="PRWKWB" />
+ <input type="hidden" name="mkt" value="ja-jp" />
+  <input type="hidden" name="refig" value="f2159806f126482795407adcc3c394d7">
+<input type="submit" class="text" value="ウェブ検索" title="ウェブ検索"/>
+ </div>
+</form>
+</div>
+
+</div>
+ 
+
+
+</div>
+<div id="maincontent">
+ 
+<div id="main"  data-region="main">
+ 
+<div>
+<div class="article">
+<div class="articlehead">
+<h1  class="articletitle fg start">エラーが発生しました</h1>
+<p class="articledesc">お探しのページは、一時的に利用できないか、名称が変更されたか、削除された可能性があります。</p>
+<p class="articledesc">お探しのページの URL が正しいかどうかを確認してください。</p>
+<br />
+</div>
+ <p>2016-05-01T00:43:13.3331763+00:00</p>
+<p>f2159806-f126-4827-9540-7adcc3c394d7</p>
+</div>
+</div>
+  <div>
+<img src="//otf.msn.com/c.gif?evt=impr&amp;su=http%3A%2F%2Fa.msn.com%2F01%2Fja-jp%2FBBpkyNS%3Focid%3Dst&amp;mkt=ja-jp&amp;pn=error404page&amp;rid=f2159806-f126-4827-9540-7adcc3c394d7&amp;mv=15&amp;rf=&amp;st.dpt=&amp;st.sdpt=&amp;cvs=browser&amp;subcvs=" width="1" height="1" />
+</div>
+
+
+ 
+</div>
+<div id="aside"  data-region="aside">
+ 
+</div>
+ </div>
+<div id="foot">
+<div> <a href="https://www.microsoft.com/ja-jp/">&#169; 2016 Microsoft</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=248688">プライバシー</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=246338">利用規約</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=286759">広告について</a>
+ <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">フィードバック</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=512703">ヘルプ</a>
+ <a href="/ja-jp/msn-worldwide">世界のMSN</a>
+ <a href="https://www.bing.com/explore/newsletter?mkt=ja-jp&amp;FORM=MF12BH&amp;OCID=MF12BH&amp;wt.mc_id=MF12BH">ニュースレター</a>
+</div>
+</div>
+ 
+ 
+ 
+ 
+</body>
+</html>

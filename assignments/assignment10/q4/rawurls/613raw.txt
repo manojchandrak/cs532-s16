@@ -1,0 +1,2564 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<!--==================================================
+====================START: HEADER===================-->
+	<head profile="http://www.w3.org/2005/10/profile" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+		
+		<!--
+macro: name of macro
+current date: 20160430164416
+currentrequest: /apps/pbcs.dll/article?avis=DA&date=20160318&category=NEWS&lopenr=160319056&Ref=AR
+currentrequestunmodified: /news/20160318/history-tv-local-wwii-veteran-to-appear-on-military-show
+-->
+<!--[if lte IE 9 ]>
+  <meta http-equiv="X-UA-Compatible" content="IE=8" />
+<![endif]-->
+<meta property="og:site_name" content="Panama City News Herald" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="msvalidate.01" content="7E15F9269E2CE66F2A488ABB04B5015E" />
+
+		<!-- Meta Tags - Global Article6 -->
+<meta name="description" content="Mechelle Grady, a paraprofessional at Springfield Elementary School, was named Bay District School's Support Employee of the Year at a ceremony Tuesday night at Florida State University Panama City's Holley Academic Center.
+" />
+<meta property="vf:unique_id" content="art-CCEDD277-59FE-4430-89B3-89E219974840-pub2879">
+<!--Viafoura-->
+<script>
+  (function (v, s) {
+    v.type = 'text/javascript';
+    v.async = !0;
+    v.src = location.protocol !== 'https:' ? '//cdn.viafoura.net/vf.js' : '//api.viafoura.com/app/js/vf.js';
+    s.parentNode.insertBefore(v, s)
+  }(document.createElement('script'), document.getElementsByTagName('script')[0]));
+</script>
+<meta property="fb:app_id" content="123475561085555"/>
+<meta property="tout:article:id" content="art-CCEDD277-59FE-4430-89B3-89E219974840-pub2879">
+<meta property="bt:pubDate" content="20160210T14:09:20Z">
+<meta property="bt:modDate" content="20160210T16:48:00Z">
+<meta property="bt:author" content="ERYN DION">
+	<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image:src" content="http://www.newsherald.com/storyimage/DA/20160210/NEWS/160219997/AR/0/2016-Bay-District-Schools-Support-Employee-of-Year-Panama-City-Florida.jpg&MaxW=1200&MaxH=630">
+<meta property="og:image" content="http://www.newsherald.com/storyimage/DA/20160210/NEWS/160219997/AR/0/2016-Bay-District-Schools-Support-Employee-of-Year-Panama-City-Florida.jpg">
+<meta property="og:image:width" content="977">
+<meta property="og:image:height" content="768">
+<meta name="twitter:site" content="@The_News_Herald">
+<meta name="twitter:title" content="Springfield's Grady named Support Employee of the Year">
+<meta name="twitter:description" content="Mechelle Grady, a paraprofessional at Springfield Elementary School, was named Bay District School's Support Employee of the Year at a ceremony Tuesday night at Florida State University Panama City's Holley Academic Center.
+">
+<meta property="og:title" content="Springfield's Grady named Support Employee of the Year"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="Mechelle Grady, a paraprofessional at Springfield Elementary School, was named Bay District School's Support Employee of the Year at a ceremony Tuesday" />
+	<meta name="author" content="ERYN DION">
+<link rel="canonical" href="http://www.newsherald.com/article/20160210/NEWS/160219997"/>
+<script type="text/javascript">var dfp_url = "CCEDD277-59FE-4430-89B3-89E219974840";</script>
+<!--Parse.ly in Global Article6-->
+<script>
+    PARSELY = {
+        // after PARSELY tracking code loads asynchronously
+        onload: function() {
+            // bind pageview tracking for all clicks on these elements
+            jQuery("img.indrelimages_sm,a.pagn8next,li#pgctrln,span.smallimgnavbtn,div.parselytracked,button.parselytracked,a.parselytracked").bind("click", function() {
+                var url = this.href,
+                    urlref = location.href;
+                PARSELY.beacon.trackPageView({
+                    url: url,
+                    urlref: urlref,
+                    js: 1,
+                    action_name: "Next"
+                });
+                return true;
+            });
+        }
+    };
+</script>
+<!-- article ld+json in global article16.pbo -->
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Springfields Grady named Support Employee of the Year",
+    "image": {
+       "@type": "ImageObject",
+       "url": "http://www.newsherald.com/storyimage/DA/20160210/NEWS/160219997/AR/0/2016-Bay-District-Schools-Support-Employee-of-Year-Panama-City-Florida.jpg",
+       "height": 768,
+       "width": 977
+    },
+    "url": "http://www.newsherald.com/article/20160210/news/160219997",
+    "thumbnailUrl": "http://www.newsherald.com/apps/pbcsi.dll/bilde?Site=DA&Date=20160210&Category=NEWS&ArtNo=160219997&Ref=AR",
+    "dateCreated": "20160210T14:09:20Z",
+    "datePublished": "20160210T14:09:20Z",
+    "dateModified": "20160210T16:48:00Z",
+    "author": {
+       "@type": "Person",
+       "name": "ERYN DION"
+    },
+    "creator": "ERYN DION",
+    "publisher": {
+       "@type": "Organization",
+       "name": "Panama City News Herald",
+       "logo": {
+         "@type": "ImageObject",
+         "url": "http://www.newsherald.com/Global/images/head/nameplate/newsherald_logo.png"
+       }
+    },
+    "articleSection": "News",
+    "keywords": [""]
+  }
+</script>
+<!-- Taboola Script needs to be in the article head -->
+<!-- Rest of Taboola widget is in /macros/includes/article/taboola.pbo -->
+<script type="text/javascript">
+		window._taboola = window._taboola || [];
+		_taboola.push({article:'auto'}); 
+		!function (e, f, u) {
+		e.async = 1;
+		e.src = u;
+		f.parentNode.insertBefore(e, f);
+		}(document.createElement('script'), document.getElementsByTagName('script')[0], 'http://cdn.taboola.com/libtrc/nytrng-network/loader.js');
+</script>
+
+		<title> Springfield&#39;s Grady named Support Employee of the Year - News - Panama City News Herald - Panama City, FL</title>
+
+		<script type="text/javascript">
+var base_url = 'http://www.newsherald.com';
+var saxo_domain = 'newsherald.com';
+var saxo_pubtaxo = 2879;
+var saxo_city = 'Panama City';
+var saxo_state = 'FL';
+var saxo_sitetitle = 'Panama City News Herald';
+var saxo_zipcode = '32401';
+var saxo_sitecode = "DA";
+var saxo_newsbank = "";
+var saxo_google_analytics_ut = true;
+var saxo_legacysiteid = "newsherald";
+var siteua = "UA-62551993-8"; // Site
+var gaAccounts = ["rollup1:UA-51861146-1","rollup2:UA-62551993-1","rollup3:UA-62598409-14"];
+var rollup1ua = "UA-51861146-1"; // NMI
+var rollup2ua = "UA-6842750-1"; // LMG/XXX or GATEHOUSE
+var rollup3ua = ""; // Media Group or XXX
+var ga_delivery = ""; // GA Custom Vars
+var vidplayed = false;
+var vidplayerid = "4352194094001";
+var vidadpara = 'video';
+var calendarVendor = 'eviesays';
+var ghVideoVendorObj = {vendor:"brightcove",tout:{brandUID:"78135b"}};
+	var viddomain = "newsherald.com";
+	var bc_adServerURL = "http://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/5434/pc.newsherald/videoplayer&cust_params=pgtype%3Dvideo&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&correlator=01194914&url=/apps/pbcs.dll/article?AID=/20160210/NEWS/160219997";
+var bc_playerID_single = "4352194095001";
+var bc_playerID_chromeless = "4352194094001";
+var bc_playerID_mobile = "4352194093001";
+var bc_playerID_mobile_rwd = "4352194092001";
+var bc_playerKey_single = "AQ~~,AAAAADp0iCo~,tJlegMqMtelPLaG8hSofYYjzRXVi9uLU";
+var bc_playerKey_chromeless = "AQ~~,AAAAADp0iCo~,tJlegMqMtekd51prLSPbS32B6R-jtFWH";
+var bc_playerKey_mobile = "AQ~~,AAAAADp0iCo~,tJlegMqMtemclkDFezCO_bbpwRZOIZqf";
+var bc_playerKey_mobile_rwd = "AQ~~,AAAAADp0iCo~,tJlegMqMtekAr-ErTXeURSBz9U5uvRUO";
+var bc_publisherID = "980715562";
+var bc_api_token = "EELLMZecJPUDD88FeYZsXPi_GBlbxtlS_pytp2sFFsQ.";
+var ch = "NEWSEMCE";
+var defaultlocation = "Panama City,FL";
+var defaultradius;
+var rootDomain = ".monster.com";
+var hname = "local-jobs";
+var twitterWidgetTS = false;
+var ndnObj = {"version":"2","clientId":"91278","client":"gatehousetop20","categoryWidgetIds":{"national":"11831","latestnews":"11831","sports":"11883","entertainment":"11866","politics":"31606","health":"11861","food":"11858","homegarden":"11869","pets":"31607","autos":"31608","lifestyles":"11851","superbowl":"30561","bostonmarathon":"21909","fashion":"31609","business":"29836","celebrity":"31610"}};
+var gh_parsely_bylines = ["Brad Milner","Ben Kleine","Zack McDonald","Mike Cazalas","Will Glover","Tony Simmons","Jan Waddy","Amanda Banks","Collin Breaux","Pat McCann","Dustin Kent","Valerie Garman","John Henderson"];
+var siteCluster="HMG";	
+</script>
+
+		<!-- 
+macro: name of macro 
+current date: 20160430194914 
+currentrequest: /apps/pbcs.dll/article?AID=/20160210/NEWS/160219997 
+currentrequestunmodified: /article/20160210/NEWS/160219997 
+--> 
+<script type="text/javascript" src="http://www.newsherald.com/Global/js/global/ads/data.js?20150720"></script>
+		<script type="text/javascript">ad_data_feed.defslot_a_data = "/11564835/newsherald.com";</script>
+<script type="text/javascript">
+ ad_data_feed.defslot_a_data = "/5434/pc.newsherald"; 
+	 ad_data_feed.defslot_b_data ="/news";
+</script>
+<script type="text/javascript">
+ var dfpccc_pgtype ="article"; 
+ var abd_pagetype="article"; 
+	ad_data_feed[abd_pagetype].dfp_300x250_2 = true;
+	ad_data_feed[abd_pagetype].dfp_300x250_deals = true;
+</script>
+
+		<!-- 
+macro: name of macro 
+current date: 20160430183044 
+currentrequest: /apps/pbcs.dll/article?avis=DA&date=20160429&category=ENTERTAINMENTLIFE&lopenr=160428784&Ref=AR 
+currentrequestunmodified: /entertainmentlife/20160429/panama-city-beach-80th-small-beginnings-big-dreams-fulfilled 
+--> 
+<!-- BEGIN Krux Control Tag -->
+	<script class="kxct" data-id="J2WMQTTm" data-timing="async" data-version="1.9" type="text/javascript">
+	  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+	  (function(){
+	    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+	    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+	    k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+	      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=J2WMQTTm"
+	  ;
+	    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+	  }());
+	</script>
+	<!-- END Krux Controltag -->
+	<script class="kxint" type="text/javascript">
+		window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+		(function(){
+		  function retrieve(n){
+		    var m, k='kxgatehouse_'+n;
+		    if (window.localStorage) {
+		        return window.localStorage[k] || "";
+		    } else if (navigator.cookieEnabled) {
+		        m = document.cookie.match(k+'=([^;]*)');
+		        return (m && unescape(m[1])) || "";
+		    } else {
+		        return '';
+		    }
+		  }
+		  Krux.user = retrieve('user');
+		  Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+		})();
+	</script>
+	<script>var ki=true;</script>
+
+<script type='text/javascript'>
+var googletag=googletag||{};googletag.cmd=googletag.cmd||[],function(){var t=document.createElement("script");t.async=!0,t.type="text/javascript";var e="https:"==document.location.protocol;t.src=(e?"https:":"http:")+"//www.googletagservices.com/tag/js/gpt.js";var o=document.getElementsByTagName("script")[0];o.parentNode.insertBefore(t,o)}();
+</script>
+<style>
+#cwell #dfp-sliding-billboard{text-align:left !important;}
+</style>
+<script type="text/javascript" src="http://www.newsherald.com/Global/js/global/ads/ad-board.js?20150930"></script>
+<script id="ad_sbill" type="x-handlebars-template">
+<div id="sb_wrapper">
+	<div id="pencil"><img id="sb_toggle" src="/Global/ads/rmedia/sbillboard/imgs/place-holder.gif" width="72" height="30" /><a id="spURL" href="{{link}}" target="_blank"><img id="pimg" style="border:0;" src="{{pen_img_src}}" width="950" height="30" /></a></div>
+	<div id="billboard"><a id="sbURL" href="{{link}}" target="_blank"><img id="bimg" style="display:none;" src="{{bill_img_src}}" /></a></div>        
+</div>
+</script>
+<script id="ad_interstitial" type="x-handlebars-template">
+	<div id="popupImage">
+		<a id="popupImageClose"><img src="/Global/ads/rmedia/img/btn-close.png" alt="Close Window" /></a>
+		<div id="adInterstitial">
+	        <a href="{{link}}" target="_blank"><img src="{{img_src}}" /></a>
+		</div>
+	</div>
+	<div id="backgroundPopup"></div>
+</script>
+<script id="ad_bbar" type="x-handlebars-template">
+	<div id="bottomPremiumBanner">
+	    <div class="adblock">
+	      <a target="_blank" href="{{link}}">
+		      <img height="80" width="950" src="{{img_src}}" />
+		  </a>
+	      <div class="close_ad">Close Ad</div>    
+	    </div>
+	</div>
+</script>
+
+		<link rel="stylesheet" href="http://www.newsherald.com/Global/css/global/style.min.css?14" />
+<!--[if IE 7]>
+<link rel="stylesheet" href="http://www.newsherald.com/Global/css/ie-7.css" />
+<![endif]-->
+
+		<link rel="stylesheet" href="http://www.newsherald.com/Global/css/global/overrides.min.css?1" /><!--CUSTOM TEMPLATES CSS HERE-->
+		<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.2/handlebars.min.js"></script>
+<script src="http://www.newsherald.com/Global/js/global/templates/handlebars/templates.js?9"></script>
+<script type="text/javascript" async src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+<script type="text/javascript" async src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">
+stLight.options({publisher: "189e1d3a-779f-46df-bc7b-1a8c14b78f30",doNotHash:true,doNotCopy:true,hashAddressBar:false,exclusive_services:true,services:"facebook,twitter,linkedin,googleplus,adfty,voxopolis,stumbleupon,allvoices,digg,adfty,allvoices,amazon_wishlist,arto,baidu,bebo,blinklist,blip,blogmarks,blogger,brainify,buddymarks,buffer,bus_exchange,care2,chiq,citeulike,connotea,corank,corkboard,current,dealsplus,delicious,digg,diigo,dotnetshoutout,dzone,edmodo,evernote,facebook,fark,fashiolista,folkd,formspring,fresqui,friendfeed,funp,fwisp,google,googleplus,google_bmarks,google_reader,google_translate,hatena,identi,instapaper,jumptags,kaboodle,linkagogo,linkedin,livejournal,meneame,messenger,mister_wong,mixx,moshare,myspace,n4g,netlog,netvouz,newsvine,nujij,odnoklassniki,oknotizie,orkut,pinterest,raise_your_voice,reddit,segnalo,sina,slashdot,sonico,speedtile,startaid,startlap,stumbleupon,stumpedia,technorati,typepad,tumblr,twitter,viadeo,virb,vkontakte,voxopolis,wordpress,xanga,xerpi,xing,yammer,yigg"});
+</script>
+<script>window.twttr = (function (d, s, id) {
+  var t, js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src= "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+  return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });
+}(document, "script", "twitter-wjs"));</script>
+<script async src="http://adg.bzgint.com/pub/adg/data.js"></script>
+<script src="http://js.indexww.com/ht/gatehouse.js"></script>
+<script type="text/javascript" src="http://www.newsherald.com/Global/js/global/global.min.js?20151030"></script>
+<script type="text/javascript" src="http://www.newsherald.com/Global/js/mobileDesktop.min.js?20150827"></script>
+<script type="text/javascript" src="http://www.newsherald.com/Global/js/global/sitesearch/customSite.js"></script>
+<script type="text/javascript">
+	// NEW GA FILE BEING USEDsss
+var gaAccounts = ["rollup1:UA-51861146-1","rollup2:UA-62551993-1","rollup3:UA-62598409-14"];
+var blockingValue = (typeof(defslot_a) === "undefined") ? "true" : "false";
+	// GOOGLE UNIVERSAL ANALYTICS
+	var utCrossDomains = ['adpay.com','ap.org','bestride.com','bleacherreport.com','eviesays.com','financialcontent.com','findnsave.com','gadzoo.com','ppjol.com','legacy.com','marketplaceadsonline.com','monster.com','mycapture.com','newsbank.com','newsmemory.com','remembering-when.com','travidia.com','upickem.net','zap2it.com','newsherald.com'];
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-62551993-8', 'auto', {'allowLinker': true});
+	ga('require', 'linker');
+	ga('require', 'displayfeatures');
+	ga('linker:autoLink', utCrossDomains);
+	ga('send', 'pageview');
+	//UA-6842750-1 GH-Rollupaccount ID
+	for (var i=0; i < gaAccounts.length; i++) 
+	{
+	    var gaAccount = gaAccounts[i].split(':');
+	    ga('create', ''+gaAccount[1]+'', 'auto', {'name': ''+gaAccount[0]+'','allowLinker': true});
+		ga(''+gaAccount[0]+'.require', 'linker');
+		ga(''+gaAccount[0]+'.require', 'displayfeatures');
+		ga(''+gaAccount[0]+'.linker:autoLink', utCrossDomains);
+		if(gaAccount[1] == 'UA-6842750-1'||gaAccount[1] == 'UA-51861146-1') ga(''+gaAccount[0]+'.set', 'dimension1', blockingValue);
+		ga(''+gaAccount[0]+'.send', 'pageview');
+	}
+</script>
+<!-- event tracking -->
+<script type="text/javascript">
+$(document).ready(function(){
+	$('div#vert-menu ul.mmenu li a, div.toprail-vert a, div.hpcarousel_inditemcont a, div#main-menu ul#parentmenu li, div.mega-col-subnav ul li').addClass('track-event');
+	$('div#vert-menu ul.mmenu li a, div.toprail-vert a').each(function() {
+		var sectUrl = window.location.href;
+		$(this).attr('data-event-path','/verticals/' + sectUrl)
+	});
+	$('div.hpcarousel_inditemcont a').each(function() {
+		var sectUrl = window.location.href;
+		$(this).attr('data-event-path','/carousel/' + sectUrl)
+	});
+	$('div#main-menu ul#parentmenu li, div#main-menu ul#parentmenu li.small-menu, div.mega-col-subnav ul li').each(function() {
+		var sectUrl = window.location.href;
+		$(this).attr('data-event-path','/navigation/' + sectUrl)
+	});
+	$('').each(function() {	
+	    ga('send', 'event', 'Tout_Videos', 'Player Initialized', properties.tout_uid);
+	});
+});
+</script>
+<script>
+// Initialize Google Analytics tracker
+// Define tracking functions
+TOUT_TRACKING = {
+  tout_played: function(event_name, properties) {
+    ga('send', 'event', 'Tout_Videos', 'Play', properties.tout_uid);
+    //When a Tout video content started to play
+  },
+  tout_played_first_quartile: function(event_name, properties) {
+    ga('send', 'event', 'Tout_Videos', 'Play 25%', properties.tout_uid);
+    //When a Tout video content progressed into 25% of it's total duration,
+    //either user fast forward or naturally play through
+  },
+  tout_played_mid_point: function(event_name, properties) {
+    ga('send', 'event', 'Tout_Videos', 'Play 50%', properties.tout_uid);
+    //When a Tout video content progressed into 50% of it's total duration,
+    //either user fast forward or naturally play through
+  },
+  tout_played_third_quartile: function(event_name, properties) {
+    ga('send', 'event', 'Tout_Videos', 'Play 75%', properties.tout_uid);
+    //When a Tout video content progressed into 75% of it's total duration,
+    //either user fast forward or naturally play through
+  },
+  tout_played_complete: function(event_name, properties) {
+    ga('send', 'event', 'Tout_Videos', 'Play 100%', properties.tout_uid);
+    //either user fast forward or naturally play through
+    //Your code goes here;
+  },
+  ad_requested: function(event_name, properties) {
+    ga('send', 'event', 'Tout_Videos', 'Ad Requested', properties.tout_uid);
+    //When Tout player made an outbond request to the ads network in attempt to get an ad.
+    //This does NOT imply the the server will response with a ad or not.
+  },
+  ad_loaded: function(event_name, properties) {
+    ga('send', 'event', 'Tout_Videos', 'Ad Network Responded', properties.tout_uid);
+    //When the ads network responsed succesfully with anything, may be with/without any ads.
+    //Sometimes ads network response with empty ads documents, this event stillfired. 
+  },
+  ad_ready: function(event_name, properties) {
+    ga('send', 'event', 'Tout_Videos', 'Ad Ready', properties.tout_uid);
+    //When the ads network resolved an ad and suggest the player to serve that ad.
+    //This does NOT guarantee the ad will be played.
+    //Since the actual ad creative may or may not be playable.
+  },
+  ad_started: function(event_name, properties) {
+    ga('send', 'event', 'Tout_Videos', 'Ad Start', properties.tout_uid);
+    //When Tout player started to play the ad, because the ad is playable
+  },
+  ad_completed: function(event_name, properties) {
+    ga('send', 'event', 'Tout_Videos', 'Ad Completed', properties.tout_uid);
+    //When an ad is finished playing
+  },
+  ad_error: function(event_name, properties) {
+    ga('send', 'event', 'Tout_Videos', 'Ad Error', properties.tout_uid);
+    //When anything prevent an ad from playing, can be but not limited to any of these:
+    //* failed to communicate to the ads network for any reason
+    //* ads network responsed with an empty response, no ads
+    //* ads network responsed with invalid/corrupted data
+    //* the ad content responsed from the ads network is not playable
+    //* the player crashed for any reason
+  },
+  product_initialized: function(event_name, properties) {
+    ga('send', 'event', 'Tout_Videos', 'Player Initialized', properties.tout_uid);
+    //When the player initialization is completed and it's ready to go
+  }
+}
+</script>
+
+	<script type="text/javascript" src="/apps/js/sc.js"></script><script type="text/javascript">  var sc = new StatsCollector('DA');  sc.type      = 'story';  sc.date      = '20160210';  sc.id        = '160219997';  sc.category  = 'NEWS';</script>
+</head>
+
+	<body id="top">
+		
+
+		<!-- 
+macro: name of macro 
+current date: 20160430164412 
+currentrequest: /apps/pbcs.dll/article?AID=/20151004/NEWS/151009665 
+currentrequestunmodified: /article/20151004/NEWS/151009665 
+--> 
+<div id="fb-root"></div>
+
+		<div class="toprail">
+	<div class="centerwidth" class="clearfix">
+		<div class="float_l verts" >
+		     <div class="float_l"><a href="http://www.facebook.com/PanamaCityNewsHerald" target="_blank"><img class="m5t" src="/Global/images/head/Facebook.png"  /></a></div>
+<div class="float_l"><a href="http://www.twitter.com/The_News_Herald" target="_blank"><img class="m5t" src="/Global/images/head/Twitter.png"  /></a></div>
+<div class="float_l"><a href="http://www.newsherald.com/section/feed" target="_blank"><img class="m5t rss_headicon" src="/Global/images/head/Rss.png" /></a></div>
+<div class="float_l"><a href="http://instagram.com/thenewsherald" target="_blank"><img class="m5t instagram_headicon" src="/Global/images/head/Instagram.png" /></a></div>
+<div class="float_l"><a href="http://www.pinterest.com/thenewsherald" target="_blank"><img class="m5t pinterest_headicon" src="/Global/images/head/Pinterest.png" /></a></div>
+<script type="text/javascript">
+	function searchArchive(archval){
+		if(archval == 'archive'){
+			document.location.href = 'http://nl.newsbank.com/nl-search/we/Archives?p_product=&p_theme=gatehouse&p_action=keyword';
+		}else{
+			return false;
+		}
+	}
+</script>
+	<script type="text/javascript">
+		function SubmitHeaderSearchForm2(){var e=document.forms["HeaderSearchForm"];var t="";var n="";var r="%26TaxonomyId%23"+saxo_pubtaxo;if(trim(e.search.value)=="Keyword"){t="";n="/apps/pbcs.dll/search"}else if(trim(e.search.value)=="Search"){t="";n="/apps/pbcs.dll/search"}else{t=e.search.value;n="/apps/pbcs.dll/search?q="+t+r+"&Start=0"}e.crit.value=t+e.pubtaxonomy.value;document.location.href=n;return false}
+</script>
+		<div id="hdsearch" onclick="hdsearch()" class="float_l">
+			<form name="HeaderSearchForm" method="POST" onsubmit="return SubmitHeaderSearchForm2();">
+		        <input type="hidden" name="crit" value="" />
+		        <input type="hidden" name="pubtaxonomy" value="&taxonomyid#2879" />
+			    <div class="float_l">
+			    	<input class="rounded" style="border:0px; margin: 10px 0px 0px 0px; width: 48px; padding: 2px 5px 3px 10px;" type="text" name="search" id="search" value="Search" onclick="searchbox(this.value,'Search','search');" onblur="this.value=!this.value?'Search':this.value;">
+				</div>
+			    <div class="float_l search_headicon">
+			    	<input type="submit" value="" name="search_submit" style="cursor:pointer; background:url('/Global/images/head/search.png') no-repeat 0px 0px; border:0px; height: 20px; width: 20px;margin: 8px 0px 0px 6px;">
+			    </div>	     	
+		    </form>	
+	    </div>
+	</div>
+		<div class="float_r clearfix">
+				<div id="weather_dir" val="http://www.newsherald.com/section/?template=ajaxWeather" class="float_l toprail-weather"></div>
+				<script type="text/javascript">
+					ghmweather = new ghm.init();
+			        var gvar = {obj:'weather_dir', request:'dir', location:'weather_dir'}
+		            ghmweather.bootstrap(gvar,false,false,false,false);
+				</script>
+			<div class="float_l toprail-vert white"><a target="_blank" href="http://dd.newsherald.com">e-Edition</a></div>
+			<div class="float_l toprail-vert-division white">|</div>
+	<div class="float_l toprail-vert white"><a target="_blank" href="http://newsletter.newsherald.com">Newsletter</a></div>
+			<div class="float_l toprail-vert-division white">|</div>
+	<div class="float_l toprail-vert white"><a target="_blank" href="http://subscribe.newsherald.com">Subscribe/Manage Account</a></div>
+			<div class="float_l toprail-vert-division white">|</div>
+	<div class="float_l toprail-vert white"><a target="_blank" href="http://hmgadrequest.com/media/panamaCity/index.html">Advertising</a></div>
+		</div>
+	</div>
+</div>
+<div style="background-color:#fff">
+	<div class="centerwidth clearfix" style="height:115px; background-color:#fff">
+	    <div class="float_l" style="padding-top:11px; width:292px">
+	    	<a href="/"><img class="mainheadnameplate" src="/Global/images/head/nameplate/newsherald_logo.png"  alt="Panama City News Herald" /></a>
+	    </div>
+			<div class="float_l" style="padding:12px 0px 0px 4px; height:90px; width:728px" >
+						<div id='dfp-728x90-1' ><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('dfp-728x90-1'); });</script></div>
+			</div>
+	</div>
+</div>
+
+		<style type="text/css">
+	/* reset */
+	#parentmenu > li {
+		position:static; /* remove .mmenu li {position:relative;} */
+	}
+	#main-menu .mega-menu > div ul > li {
+		display: block;
+		font-size: normal;
+		font-weight: normal;
+		text-transform: none;
+	}
+	.clear {
+		clear:both;
+	}
+	#main-menu-wrap {
+		background:#F2F2F2 url('http://www.newsherald.com/Global/images/head/menu-border.png') repeat-x bottom;
+	}
+	#main-menu-wrap .centerwidth {
+		height:40px;
+	}
+	#main-menu {
+		margin:10px 0px 0px 0px;
+		position:relative;
+	}
+	#parentmenu > li {
+		display:inline-block;
+	}
+	#parentmenu > li:first-child {
+		padding-left:0px;
+	}
+	#parentmenu > li:hover {
+		cursor: pointer;
+	}
+	#parentmenu > li:hover > .mega-menu {
+	    opacity: 1;
+	    visibility: visible;
+	    overflow: visible;
+	}
+	#parentmenu > li:hover > a.arrow {
+		background: url('http://www.newsherald.com/Global/images/head/submenu-arrow-up.png') no-repeat center 18px;
+		background-position: center 19px\9; /* ie8 fix */
+	}
+	#vert-menu {
+		padding:11px 0px 0px 15px;
+		text-align:right;
+	}
+	#vert-menu .mmenu-a {
+		color:#000;
+		text-transform:uppercase;
+	}
+	#main-menu .mega-menu {
+		width:1060px;
+		background-color:#fff;
+		position:absolute;
+		left:-18px;
+		top:30px;
+		top:31px\9; /* ie8 fix */
+		z-index:10000;
+		opacity: 0;
+	    visibility: hidden;
+	    border-radius: 0 0 8px 8px;
+	    -moz-box-shadow: 0 2px 1px #a3a3a3;
+		-webkit-box-shadow: 0 2px 4px #a3a3a3;
+		box-shadow: 0 2px 4px #a3a3a3;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#a3a3a3')";
+		filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#a3a3a3');
+	}
+	#main-menu .mega-menu .mega-col-wrap {
+		overflow: hidden;
+	}
+	#main-menu .mega-menu .mega-col-wrap > div {
+		padding:6px 17px;
+		float:left;
+		margin-bottom: -99999px;
+		padding-bottom: 99999px;
+	}
+	#main-menu .mega-menu > div ul {
+		width: 100%;
+	}
+	#main-menu .mega-menu > div ul > li {
+		padding: 9px 0;
+		border-top: 1px solid #e7e7e7;
+	}
+	#main-menu .mega-menu > div ul > li:first-child {
+		border-top: 0;
+	}
+	#main-menu .mega-menu > div ul > li:last-child {
+		margin-bottom:5px;
+	}
+	#main-menu .mega-menu .mega-col-subnav {
+	     width:178px;
+	     border-radius: 0 0 0 8px;
+	}
+	#main-menu .mega-menu .mega-col-subnav ul li {
+		padding-left: 30px;
+	}
+	#main-menu .mega-menu .mega-col-subnav a {
+		font-size: 13px;
+		display:block;
+	}
+	#main-menu .mega-menu .mega-col-subnav ul li:hover {
+		background: url('http://www.newsherald.com/Global/images/head/nav/mega-menu-subnav-right-arrow.png') no-repeat 2px 10px;
+	}
+	#main-menu .mega-menu .mega-col-featured {
+	     width:378px;
+	     background: url('http://www.newsherald.com/Global/images/head/nav/mega-menu-dots.png') repeat-y 0 0;
+	     padding-left:17px;
+	}
+	#main-menu .mega-menu .mega-col-featured > ul {
+		height: 100%;
+	}
+	#main-menu .mega-menu .mega-col-featured li a {
+		color:#1a7abf;
+		font-weight:bold;
+		display: block;
+		margin-bottom: 3px;
+	}
+	#main-menu .mega-menu .mega-col-featured li img {
+		float:left;
+		margin-right: 9px;
+	}
+	#main-menu .mega-menu .mega-col-top-stories {
+	     width:402px;
+	     background: #f2f2f2 url('http://www.newsherald.com/Global/images/head/nav/mega-menu-dots.png') repeat-y 0 0;
+	     padding-left:17px;
+	     border-radius: 0 0 8px 0;
+	}
+	#main-menu .mega-menu .mega-col-top-stories p {
+		display: none;
+	}
+	#main-menu .mega-menu .mega-col-top-stories .line {
+	    border-bottom: 3px solid #1a7abf;
+	    overflow:visible;
+	    height:6px;
+	}
+	#main-menu .mega-menu .mega-col-top-stories .line h3 {
+	    background-color: #f2f2f2;
+	    padding-right: 9px;
+	    color:#1a7abf;
+		float: left;
+		margin-right: 9px;
+		font-size:12px;
+	}​
+	#main-menu .mega-menu .mega-col-top-stories .keyIcon,
+	#main-menu .mega-menu .mega-col-featured .keyIcon
+	 {
+		border:0px;
+		margin:0px;
+		padding:0px;
+		float:none;
+	}
+	/* Small Mega Menu */
+	#parentmenu > li.small-menu {
+		position:relative !important;
+	}
+	#parentmenu > li.small-menu:hover > .mega-menu {
+	    opacity: 1;
+	    visibility: visible;
+	    overflow: visible;
+	}
+	#main-menu .small-menu .mega-menu {
+		width:auto;
+		padding: 6px 17px;
+		background-color:#fff;
+		position:absolute;
+		left:50%;
+		margin: 0 0 0 -118px;
+		top:29px;
+		top:31px\9; /* ie8 fix */
+		z-index:10000;
+		opacity: 0;
+	    visibility: hidden;
+	    border-radius: 0 0 8px 8px;
+	    -moz-box-shadow: 0 2px 1px #a3a3a3;
+		-webkit-box-shadow: 0 2px 4px #a3a3a3;
+		box-shadow: 0 2px 4px #a3a3a3;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#a3a3a3')";
+		filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#a3a3a3');
+	}
+	#main-menu .small-menu .mega-menu .mega-col-wrap {
+		overflow: hidden;
+	}
+	#main-menu .small-menu .mega-menu .mega-col-wrap > div {
+		float:left;
+		margin-bottom: -99999px;
+		padding-bottom: 99999px;
+	}
+	#main-menu .small-menu .mega-menu > div ul {
+		width: 100%;
+	}
+	#main-menu .small-menu .mega-menu > div ul > li {
+		padding: 9px 0;
+		border-top: 1px solid #e7e7e7;
+		display: block;
+	}
+	#main-menu .small-menu .mega-menu > div ul > li:first-child {
+		border-top: 0;
+	}
+	#main-menu .small-menu .mega-menu .mega-col-subnav {
+		width:auto;
+	    min-width:178px;
+	    border-radius: 0 0 0 8px;
+	}
+	#main-menu .small-menu .mega-menu .mega-col-subnav a {
+		font-size: 13px;
+		padding-left: 30px;
+		font-weight: normal;
+		text-transform: none;
+	}
+	#main-menu .small-menu .mega-menu .subnav-col-subnav a:hover {
+		background: url('http://www.newsherald.com/Global/images/head/nav/mega-menu-subnav-right-arrow.png') no-repeat 13px 2px;
+	}
+	@-moz-document url-prefix() {
+	    #main-menu .mega-menu {
+	        top:31px;
+			box-shadow: 0 2px 1px #a3a3a3;
+	    }
+	    #main-menu .small-menu .mega-menu {
+		    top:30px !important;
+		    box-shadow: 0 2px 1px #a3a3a3;
+	    }
+		#parentmenu > li:hover > a.arrow {
+			background-position: center 20px;
+		}
+	}
+</style>
+<div id="main-menu-wrap" class="clearfix">
+	<div class="centerwidth">
+        <div id="vert-menu" class="float_r">
+	        <ul class="mmenu float_r">
+		         <li><a target="_blank" class="mmenu-a" style="color:#000;text-transform:uppercase;" href="http://marketplace.newsherald.com/classifieds/">Classifieds</a></li>
+<li><a target="_blank" class="mmenu-a" style="color:#000;text-transform:uppercase;" href="http://newsherald.com/section/cars">Cars</a></li>
+<li><a target="_blank" class="mmenu-a" style="color:#000;text-transform:uppercase;" href="http://www.newsherald.com/jobs">Jobs</a></li>
+<li><a target="_blank" class="mmenu-a" style="color:#000;text-transform:uppercase;" href="http://www.newsherald.com/homes">Real Estate</a></li>
+	        </ul>
+        </div>
+    </div>
+</div>
+	<script async type="text/javascript">
+		/**
+		 * Returns an object (from an array of objects) based on a property value
+		 */
+		function getObjWhenPropertyEquals(prop, val, myArray)
+		{
+		    for (var i = 0; i < myArray.length; i++)
+		    {
+		        // check the obj has the property before comparing it
+		        if (typeof myArray[i][prop] === 'undefined') {continue;}
+		        // if the obj property equals our test value, return the obj
+		        if (myArray[i][prop] === val)
+		        {
+		        	// add array key to the object
+		        	myArray[i].arrayKey = i;
+		        	return myArray[i];
+		        }
+		    }
+		    // didn't find an object with the property
+		    return false;
+		}
+		/**
+		 * Comparison for sorting by story date.  Most recent stories first.
+		 */
+		function compareStoryDates(a,b) {
+		  if (a.date < b.date)
+		     return 1;
+		  if (a.date > b.date)
+		    return -1;
+		  return 0;
+		}
+		/**
+		 * Prepare all data for Handlebars template
+		 */
+		function preprocessAllMainMenuItemData(d)
+		{
+			// MAIN MENU DATA
+			var menuItems = d.main;
+			for (var i = 0; i <= menuItems.length-1; i++) {
+				// remove "More" from Main Menu
+				if (menuItems[i].title=='More')
+				{
+					menuItems.splice(i,1);
+					continue;
+				}
+				menuItems[i] = preprocessMainMenuItemData(menuItems[i])
+			};
+			d.main = menuItems;
+			return d;
+		}
+		/**
+		 * Prepare single menu item data for Handlebars template
+		 * Used when updating a menu item on hover
+		 */
+		function preprocessMainMenuItemData(menuItem)
+		{
+			if(menuItem)
+			{
+				// SUB NAV ITEMS
+				var menuItemData = preprocessMainMenuSubNavItems(menuItem);
+				// STORIES
+				menuItemData = preprocessMainMenuStories(menuItem);
+				// add additional functions to preprocess any other data here.
+			}
+			return menuItemData;
+		}
+		/**
+		 * Preprocess Sub Nav Items
+		 */
+		 function preprocessMainMenuSubNavItems (menuItem)
+		 {
+			var maxSubNavItems = 6;
+			if (menuItem.subitems)
+			{
+				var subnavItems = menuItem.subitems;
+				for (var j = 0; j <= menuItem.subitems.length-1; j++) {
+					// REMOVE TOP STORIES
+					if(subnavItems[j].title=="Top Stories")
+					{
+						menuItem.subitems.splice(j,1);
+					}
+				};
+				// LIMIT TO MAX ITEMS
+				if (menuItem.subitems.length > maxSubNavItems)
+				{
+					menuItem.subitems.splice(maxSubNavItems,menuItem.subitems.length);
+				}
+				// INJECT Nation & World INTO News
+				if(menuItem.title.toString() == "News") {
+					var temp = {};
+					temp.id = 'newsNation';
+					temp.target = '';
+					temp.link = '/news/nation-world';
+					temp.title = 'Nation & World';
+					menuItem.subitems.push(temp);
+				}
+				// INJECT shareable INTO News
+				if(menuItem.title.toString() == "News") {
+					var temp = {};
+					temp.id = 'newsShareable';
+					temp.target = '';
+					temp.link = '/news/shareable';
+					temp.title = 'Shareable';
+					menuItem.subitems.push(temp);
+				}
+				// INJECT Databases INTO News
+				if(menuItem.title.toString() == "News") {
+					var temp = {};
+					temp.id = 'newsDatabases';
+					temp.target = '';
+					temp.link = '/news/databases';
+					temp.title = 'Databases';
+					menuItem.subitems.push(temp);
+				}
+				// INJECT Databases INTO News
+				if(menuItem.title.toString() == "News") {
+					var temp = {};
+					temp.id = 'newsElection2016';
+					temp.target = '';
+					temp.link = 'http://elections.gatehousemedia.com/newsherald/todaystopics/';
+					temp.title = 'Election 2016';
+					menuItem.subitems.push(temp);
+				}
+				// INJECT Auto Racing INTO Sports
+				if(menuItem.title.toString() == "Sports") {
+					var temp = {};
+					temp.id = 'sportsAutoRacing';
+					temp.target = '';
+					temp.link = '/sports/motor-racing-network';
+					temp.title = 'Auto Racing';
+					menuItem.subitems.push(temp);
+				}
+				// INJECT CALENDAR INTO ENTERTAINMENT
+				if(menuItem.title.toString() == "Entertainment") {
+					var temp = {};
+					temp.id = 'eventsCalendar';
+					temp.target = (calendarVendor=='eviesays') ? '_blank' : '';
+					temp.link = (calendarVendor=='eviesays') ? 'http://newsherald.eviesays.com' : '/section/calendar';
+					temp.title = 'Calendar';
+					menuItem.subitems.push(temp);
+				}
+				// INJECT New England Pro Sports INTO Sports
+							}
+			return menuItem;
+		 }
+		/**
+		 * Preprocess Stories
+		 */
+		function preprocessMainMenuStories (menuItem) {
+			var maxStories = 4;
+			if (menuItem.stories && menuItem.stories.length > 0)
+			{
+				menuItem.featured = [];
+				var featImageCount = 0;
+				var stories = menuItem.stories;
+				for (var j = 0; j <= stories.length-1; j++) {
+					// BUILD FEATURED STORIES
+					// copy stories to "featured" property, grab stories with images if they exist.
+					if(stories[j].image && featImageCount<2)
+					{
+						featImageCount++;
+						menuItem.featured.push(menuItem.stories[j]);
+						menuItem.stories.splice(j,1);
+					}
+				};
+				// BUILD FEATURED STORIES (cont.)
+				// Didn't find images for all items
+				if (featImageCount == 1)
+				{
+					// Only 1 image, add the first story available
+					menuItem.featured.push(menuItem.stories[0]);
+					menuItem.featured.sort(compareStoryDates);
+					menuItem.stories.splice(0,1);
+				}
+				else if (!featImageCount)
+				{
+					// No images, add the first 2 stories from "stories"
+					menuItem.featured = [menuItem.stories[0],menuItem.stories[1]];
+					menuItem.stories.splice(0,2);
+				}
+				// LIMIT TO MAX ITEMS
+				if (menuItem.stories.length > maxStories)
+				{
+					menuItem.stories.splice(maxStories,menuItem.stories.length);
+				}
+			}
+				return menuItem;
+		}
+		/**
+		 * Build Mega Menu for all nav items
+		 */
+		function buildAllMegaMenus(d)
+		{
+			// BUILD ALL MEGA MENU ITEMS
+			var menuItems = d.main;
+			for (var i = 0; i <= menuItems.length-1; i++) {
+				buildMegaMenu(menuItems[i]);
+			}
+		}
+		/**
+		 * Build single mega menu
+		 */
+		function buildMegaMenu(menuItemData)
+		{
+			console.log(menuItemData);
+			var megaMenuTemplate = getNavView('mega-menu',menuItemData);
+			$('#main-menu #'+menuItemData.id+' .mega-menu').html(megaMenuTemplate);
+		}
+		/**
+		 * Build Main Menu
+		 */
+		function buildMainMenu(mainMenuTemplate)
+		{
+			$('#main-menu-wrap .centerwidth').prepend(mainMenuTemplate);
+		}
+		/**
+		 * Build Default Menu
+		 */
+		 function buildDefaultMenu()
+		 {
+			var defaultMenuData = {"site_url":"http://www.newsherald.com","obits":""}
+			var mainMenuTemplate = getNavView('default-menu',defaultMenuData);
+			buildMainMenu(mainMenuTemplate);
+		 }
+		/**
+		 * Update Mega Menus
+		 */
+		 function updateMegaMenu(mainMenuItemId)
+		 {
+		 	$.getJSON( "http://www.newsherald.com/section/nav-model&mime=application%2Fjson", function( data ) {
+				var menuItem = getObjWhenPropertyEquals('id', mainMenuItemId, data.main);
+				if (menuItem)
+				{
+					data.main[menuItem.arrayKey] = preprocessMainMenuItemData(menuItem);
+					buildMegaMenu(data.main[menuItem.arrayKey]);
+				}
+			});
+		 }
+		/**
+		 * Gets the Handlebars Template
+		 */
+		function getNavView(templateName,data)
+		{
+			if (templateName in Handlebars.templates)
+			{
+				var template = Handlebars.templates[templateName](data);
+				return template;
+			}
+			else
+			{
+				console.log("Handlebars template: '"+templateName+"' doesn't exist.");
+				return false;
+			}
+		}
+		// DRAW MAIN NAV
+		$.getJSON( "http://www.newsherald.com/section/nav-model&mime=application%2Fjson", function( data ) {
+			var mainMenuData = preprocessAllMainMenuItemData(data);
+			var mainMenuTemplate = getNavView('main-menu',mainMenuData);
+			if (mainMenuTemplate)
+			{
+				buildMainMenu(mainMenuTemplate);
+				buildAllMegaMenus(mainMenuData);
+			}
+			else
+			{
+				buildDefaultMenu();
+			}
+		})
+		.fail(function() {
+			buildDefaultMenu();
+		});
+	</script>
+	<script type="text/javascript">
+	/*
+	// Update Nav Menu on Hover
+	$( document ).ready(function() {
+		$( "#parentmenu > li a.arrow" ).mouseover(function() {
+			var mainMenuItemId = $(this).parent().attr("id");
+			mainMenuItemId = mainMenuItemId.toString();
+		 	updateMegaMenu(mainMenuItemId);
+		});
+	});*/
+	</script>
+
+		<!--[if IE]><style type="text/css">.featbar-cont{background:#000;}</style><![endif]-->
+<style type='text/css'>
+	.featbar-cont .mmenu-a { padding: 0 6px 13px; }
+	.secmenu li { padding: 0 2px 0 0; }
+	.featbar-cont .secmenu ul { width: 1024px; overflow: hidden; }
+	#explorer-child ul li { clear: both !important; position: relative; display: block; }
+	#explorer-child { width: 225px; position: absolute; z-index: 10000000000000000; border-radius: 0px 0px 8px 8px; color: rgb(255, 255, 255); display: none; background-color: rgb(0, 0, 0); max-height: 225px; overflow-y:auto; overflow-x: hidden; }
+	#explorer-nav { position: static; display: inline-block; }
+	#explorer-nav a:hover { cursor: pointer;color: #fff; }
+	#explorer-child ul { width: 225px; padding-top: 15px; }
+	#explorer-child ul li a { text-align: left; }
+</style>
+<script type='text/javascript'>
+	var eMenu = [];
+	var menu = [];
+	var cCount = 0;
+	 var maxL = 117; 
+	 var spingo = 0; 
+	var innerHTML = '';
+	var subHTML = '';
+	function featNav(menu, eMenu, spingo) {
+		$.each(menu, function(index, value){
+			var fURL  = menu[index].url;
+			var fName = menu[index].name;
+			$.each(eMenu, function(i, value){
+				if (fURL == eMenu[i].url) {
+					if (fName == eMenu[i].name) {
+						eMenu.splice(i,1);
+						return false;
+					}
+				} else if (eMenu[i].name == 'Blogs') {
+					eMenu.splice(i,1);
+					return false;
+				}    
+				else if (eMenu[i].name == 'Calendar') {
+					if(spingo == 1) {
+						eMenu[i].url = '/section/calendar';
+					}
+					if (fName == eMenu[i].name) {
+					    menu[index].name = 'Local ' + fName;
+					}
+				} else if (fName == eMenu[i].name) {
+					menu[index].name = 'Local ' + fName;
+				}
+			});
+		});
+		return $.merge(menu, eMenu);
+	}
+</script>
+<script type='text/javascript'>
+ var fURL = 'http://www.newsherald.com/traffic-cams';
+ var fName = "Traffic";
+ menu.push({url: fURL, name: fName});
+</script>
+<script type='text/javascript'>
+ var fURL = 'http://www.newsherald.com/public-service/socialbay';
+ var fName = "Social Bay";
+ menu.push({url: fURL, name: fName});
+</script>
+<script type='text/javascript'>
+ var fURL = 'http://mugshots.newsherald.com';
+ var fName = "Mugshots";
+ menu.push({url: fURL, name: fName});
+</script>
+<script type='text/javascript'>
+ var fURL = 'http://www.newsherald.com/squall-line';
+ var fName = "Squall Live";
+ menu.push({url: fURL, name: fName});
+</script>
+<script type='text/javascript'>
+ var fURL = 'http://newsherald.eviesays.com/';
+ var fName = "Events";
+ menu.push({url: fURL, name: fName});
+</script>
+<script type='text/javascript'>
+ var fURL = '/lifestyle';
+ var fName = "Lifestyle";
+ menu.push({url: fURL, name: fName});
+</script>
+<script type='text/javascript'>
+ var fURL = 'http://www.newsherald.com/outdoors';
+ var fName = "Outdoors";
+ menu.push({url: fURL, name: fName});
+</script>
+<script type='text/javascript'>
+ var fURL = 'http://www.newsherald.com/military';
+ var fName = "Military";
+ menu.push({url: fURL, name: fName});
+</script>
+<script type='text/javascript'>
+ var fURL = 'http://pcnhhalifax.com/archives/search.php';
+ var fName = "Archives";
+ menu.push({url: fURL, name: fName});
+</script>
+<script type='text/javascript'>
+ var fURL = 'http://marketplace.newsherald.com/publicnotices/';
+ var fName = "Legal Notices";
+ menu.push({url: fURL, name: fName});
+</script>
+<script type='text/javascript'>
+ var fURL = 'http://www.newsherald.com/pcnhcontact-us';
+ var fName = "Contact Us";
+ menu.push({url: fURL, name: fName});
+</script>
+		<script type='text/javascript'>
+		   var fURL = 'http://www.newsherald.com/photos';
+		   var fName = "Photos";
+		  eMenu.push({url: fURL, name: fName});
+		</script>
+		<script type='text/javascript'>
+		   var fURL = 'http://www.newsherald.com/videos';
+		   var fName = "Videos";
+		  eMenu.push({url: fURL, name: fName});
+		</script>
+		<script type='text/javascript'>
+		   var fURL = 'http://www.newsherald.com/entertainment/tv-guide';
+		   var fName = "TV Guide";
+		  eMenu.push({url: fURL, name: fName});
+		</script>
+		<script type='text/javascript'>
+		   var fURL = '/section/business';
+		   var fName = "Business";
+		  eMenu.push({url: fURL, name: fName});
+		</script>
+		<script type='text/javascript'>
+		   var fURL = 'http://newsherald.eviesays.com/events';
+		   var fName = "Calendar";
+		  eMenu.push({url: fURL, name: fName});
+		</script>
+		<script type='text/javascript'>
+		   var fURL = 'http://www.newsherald.com/section/?template=ara';
+		   var fName = "Branded Content";
+		  eMenu.push({url: fURL, name: fName});
+		</script>
+		<script type='text/javascript'>
+		   var fURL = 'http://www.newsherald.com/submit';
+		   var fName = "Submit your news";
+		  eMenu.push({url: fURL, name: fName});
+		</script>
+		<script type='text/javascript'>
+		   var fURL = 'http://www.newsherald.com/section/blogs';
+		   var fName = "Blogs";
+		  eMenu.push({url: fURL, name: fName});
+		</script>
+		<script type='text/javascript'>
+		   var fURL = 'http://www.newsherald.com/news/shareable';
+		   var fName = "Shareable";
+		  eMenu.push({url: fURL, name: fName});
+		</script>
+<div class="featbar-cont" style="background:rgba(0,0,0,0.90); height: 20px;">
+    <div class="secmenu centerwidth" style="height:20px">
+	<ul>
+	  <li style="margin-right:10px;font-weight:bold;">FEATURED&nbsp;&nbsp;&nbsp;&raquo;</li>
+	</ul>
+    </div>
+</div>
+<script type="text/javascript">
+var featNav = featNav(menu, eMenu, spingo);
+var navSize = featNav.length;
+var x = 1;
+$.each(featNav, function(index, value){
+	cCount += featNav[index].name.length;
+	if ((cCount < maxL) && (cCount + 13 > maxL)) {
+		cCount += 13;
+		if(x == navSize) {
+			innerHTML += '<li><a class="mmenu-a" style="color:#fff" href="' + featNav[index].url + '">' + featNav[index].name + '</a></li>';
+		} else {
+			subHTML += '<li><a class="mmenu-a" style="color:#fff" href="' + featNav[index].url + '">' + featNav[index].name + '</a></li>';
+		}
+	} else if (cCount < maxL) {
+		innerHTML += '<li><a class="mmenu-a" style="color:#fff" href="' + featNav[index].url + '">' + featNav[index].name + '</a></li>';
+	} else {
+		subHTML += '<li><a class="mmenu-a" style="color:#fff" href="' + featNav[index].url + '">' + featNav[index].name + '</a></li>';
+	}
+	x++;
+});
+ if(subHTML != '') {
+	innerHTML += '<li id="explorer-nav">&nbsp;|&nbsp;&nbsp;<a>EXPLORE&nbsp;&raquo;</a>';
+		 innerHTML += '<div id="explorer-child"><ul>';
+			innerHTML += subHTML;
+		innerHTML += '</ul></div>';
+	innerHTML += '</li>';
+ }
+	var origUL = $('.featbar-cont .secmenu ul').html();
+	$('.featbar-cont .secmenu ul').html(origUL + innerHTML);
+$('#explorer-nav').mouseover(function(){ $('#explorer-child').show();});
+$('#explorer-child').mouseover(function(){ $('#explorer-child').show();});
+$('#explorer-nav').mouseout(function(){ $('#explorer-child').delay(1000).hide(); });
+$('#explorer-child').mouseout(function(){ $('#explorer-child').hide(); });
+$("div#explorer-child ul li a:contains('Your Photos')").parent('li').hide();
+</script>
+
+
+		<div id="cwell" class="globalwrapper">
+			<script type="text/javascript">
+var mainnavarray = new Array();
+$('#main-menu li').each(function(){
+    mainnavarray.push($(this).find('.get'));
+    $(this).mouseover(function(){
+       var gotget = $(this).find('.get');
+       if(gotget.attr("class")){gotget.show();$(this).find('.mmenu-a').addClass("mmenu-a-over");}
+    });
+    $(this).mouseout(function(){
+        for(i=0;mainnavarray.length>=i;i++){$(mainnavarray[i]).hide();$(this).find('.mmenu-a').removeClass("mmenu-a-over");}
+    });
+});
+</script>
+
+<!--================================================
+====================END: HEADER===================-->
+
+
+
+
+<!--==================================================
+====================START: CONTENT===================-->
+			<div id="art_cont" class="ftlt">
+					<link rel="stylesheet" type="text/css" href="http://www.newsherald.com/Global/css/jquery.lightbox2.css" media="screen" />
+	<script type="text/javascript" src="http://www.newsherald.com/Global/js/jquery.lightbox2.js"></script>
+    <script type="text/javascript">var artcurrent=1;</script>
+	<script src="http://www.newsherald.com/Global/js/hpd/jquery.history.js"></script>
+	<script>
+         History.Adapter.bind(window,'statechange',function(){ // Note: We are using statechange instead of popstate
+			var State = History.getState(); // Note: We are using History.getState() instead of event.state
+		 });
+		 $(document.body).on('click','#zoom-handle',function(){
+			 console.log('zoomed');
+		 });
+	</script>
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+	<script type="text/javascript" src="http://www.newsherald.com/Global/js/global/article/global-functions.min.js"></script>
+
+						<div id='dfp-sliding-billboard' class='ad-banner'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('dfp-sliding-billboard'); });</script></div>
+<script>
+var $document = $(document);
+var old_scroll_top = 0;
+var totalcurrentscrolldistanceDown = 0;
+var totalcurrentscrolldistanceUp = 0;
+var scrlpage = 1;
+var fullartlink = "/article/20160210/NEWS/160219997";
+var authtext = "/author: ERYN DION News Herald Reporter Follow @@PCNHErynDion/Springfield\'s Grady named Support Employee of the Year/20160210/160219997";
+function track_art_page_facts(){track_elem(fullartlink+'/factbox');track_art_auth(authtext);}
+function track_art_page_relimages(){track_elem(fullartlink+'/relatedimage');track_art_auth(authtext);}
+function track_art_page(currBtn){track_elem(fullartlink+'/pagination/'+currBtn);track_art_auth(authtext);}
+function track_art_auth(t){track_event(t);}
+function prev_art_pg(topg){changepg(topg);track_art_page(topg);track_art_auth(authtext);}
+function next_art_pg(topg){changepg(topg);track_art_page(topg);track_art_auth(authtext);}
+var relManualPlacement = false;
+ghEnhancedArticleObj.videos.placement 	= "1";
+ghEnhancedArticleObj.images.placement 	= "3";
+ghEnhancedArticleObj.twitter.placement 	= "5";
+ghEnhancedArticleObj.related.placement 	= "4";
+ghEnhancedArticleObj.facts.placement 	= "6";
+	ghEnhancedArticleObj.bcvideos.items = [];
+ghEnhancedArticleObj.images.items = [
+					{
+					    "num":"1",
+					    "title":"2016 Bay District Schools Support Employee of Year",
+					    "imagelink":"http://www.newsherald.com/storyimage/DA/20160210/NEWS/160219997/AR/0/2016-Bay-District-Schools-Support-Employee-of-Year-Panama-City-Florida.jpg",
+					    "summary":"Bay District Schools Superintendent Bill Husfelt congralates the 2016 Bay District School Support Employee of the Year, Spring Elementary's School's Mechelle Grady, on Tuesday, Feb. 9, 2016, in Panama City.",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://newsherald.emeraldcoastphotoseast.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fstoryimage%2FDA%2F20160210%2FNEWS%2F160219997%2FAR%2F0%2F2016-Bay-District-Schools-Support-Employee-of-Year-Panama-City-Florida.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fstoryimage%2FDA%2F20160210%2FNEWS%2F160219997%2FAR%2F0%2F2016-Bay-District-Schools-Support-Employee-of-Year-Panama-City-Florida.jpg&credit=News Herald",
+					    "width":"977",
+					    "height":"768"
+					}
+];
+ghEnhancedArticleObj.twitter.items = [
+];
+    ghEnhancedArticleObj.gallery.title = "Support Employee of the Year Awards";
+	ghEnhancedArticleObj.gallery.sum = "The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9.";
+	ghEnhancedArticleObj.gallery.items = [
+					{
+					    "num":"1",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/1/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F1%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F1%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"4074",
+					    "height":"2799"
+					},
+					{
+					    "num":"2",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/2/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F2%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F2%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2997",
+					    "height":"2300"
+					},
+					{
+					    "num":"3",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/3/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F3%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F3%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2847",
+					    "height":"2985"
+					},
+					{
+					    "num":"4",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/4/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F4%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F4%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"1627",
+					    "height":"2116"
+					},
+					{
+					    "num":"5",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/5/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F5%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F5%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"4470",
+					    "height":"3012"
+					},
+					{
+					    "num":"6",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/6/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F6%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F6%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"4312",
+					    "height":"2714"
+					},
+					{
+					    "num":"7",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/7/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F7%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F7%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"1526",
+					    "height":"2101"
+					},
+					{
+					    "num":"8",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/8/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F8%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F8%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"3944",
+					    "height":"2467"
+					},
+					{
+					    "num":"9",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/9/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F9%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F9%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"3168",
+					    "height":"3246"
+					},
+					{
+					    "num":"10",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/10/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F10%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F10%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2927",
+					    "height":"3053"
+					},
+					{
+					    "num":"11",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/11/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F11%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F11%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"3568",
+					    "height":"2967"
+					},
+					{
+					    "num":"12",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/12/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F12%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F12%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"3352",
+					    "height":"3041"
+					},
+					{
+					    "num":"13",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/13/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F13%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F13%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"3752",
+					    "height":"2999"
+					},
+					{
+					    "num":"14",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/14/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F14%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F14%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2317",
+					    "height":"3020"
+					},
+					{
+					    "num":"15",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/15/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F15%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F15%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2306",
+					    "height":"2943"
+					},
+					{
+					    "num":"16",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/16/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F16%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F16%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2386",
+					    "height":"3047"
+					},
+					{
+					    "num":"17",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/17/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F17%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F17%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2618",
+					    "height":"3092"
+					},
+					{
+					    "num":"18",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/18/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F18%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F18%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2415",
+					    "height":"3136"
+					},
+					{
+					    "num":"19",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/19/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F19%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F19%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2381",
+					    "height":"3104"
+					},
+					{
+					    "num":"20",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/20/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F20%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F20%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2513",
+					    "height":"3195"
+					},
+					{
+					    "num":"21",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/21/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F21%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F21%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2374",
+					    "height":"3188"
+					},
+					{
+					    "num":"22",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/22/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F22%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F22%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2477",
+					    "height":"3066"
+					},
+					{
+					    "num":"23",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/23/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F23%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F23%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2311",
+					    "height":"2921"
+					},
+					{
+					    "num":"24",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/24/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F24%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F24%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2330",
+					    "height":"3148"
+					},
+					{
+					    "num":"25",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/25/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F25%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F25%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2665",
+					    "height":"3012"
+					},
+					{
+					    "num":"26",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/26/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F26%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F26%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2401",
+					    "height":"2988"
+					},
+					{
+					    "num":"27",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/27/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F27%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F27%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2310",
+					    "height":"3024"
+					},
+					{
+					    "num":"28",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/28/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F28%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F28%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2408",
+					    "height":"3164"
+					},
+					{
+					    "num":"29",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/29/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F29%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F29%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2512",
+					    "height":"2681"
+					},
+					{
+					    "num":"30",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/30/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F30%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F30%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2284",
+					    "height":"3008"
+					},
+					{
+					    "num":"31",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/31/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F31%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F31%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2411",
+					    "height":"2959"
+					},
+					{
+					    "num":"32",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/32/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F32%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F32%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2180",
+					    "height":"2992"
+					},
+					{
+					    "num":"33",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/33/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F33%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F33%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2150",
+					    "height":"3010"
+					},
+					{
+					    "num":"34",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/34/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F34%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F34%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2764",
+					    "height":"3280"
+					},
+					{
+					    "num":"35",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/35/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F35%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F35%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2441",
+					    "height":"3000"
+					},
+					{
+					    "num":"36",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/36/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F36%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F36%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2284",
+					    "height":"2854"
+					},
+					{
+					    "num":"37",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/37/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F37%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F37%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2293",
+					    "height":"3176"
+					},
+					{
+					    "num":"38",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/38/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F38%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F38%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2507",
+					    "height":"3172"
+					},
+					{
+					    "num":"39",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/39/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F39%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F39%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"3696",
+					    "height":"2708"
+					},
+					{
+					    "num":"40",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/40/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F40%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F40%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"3792",
+					    "height":"2952"
+					},
+					{
+					    "num":"41",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/41/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F41%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F41%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"3008",
+					    "height":"2515"
+					},
+					{
+					    "num":"42",
+					    "title":"support employee of the year",
+					    "imagelink":"http://www.newsherald.com/galleryimage/DA/20160209/PHOTOGALLERY/209009985/PH/0/42/PH-209009985.jpg",
+					    "summary":"The Support Employee of the Year Awards ceremony was held at the Holley Academic Center on Feb. 9. (Patti Blake | The News Herald)",
+					    "byline":"Patti Blake | The News Herald",
+					    "mycapture":"true",
+					    "mycaptureLink":"http://.mycapture.com/mycapture/remoteimage.asp?image=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F42%2FPH-209009985.jpg%26MaxW=580&source=jsapi&backurl=http://www.newsherald.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20160210%2FNEWS%2F160219997&notes=http%3A%2F%2Fwww.newsherald.com%2Fgalleryimage%2FDA%2F20160209%2FPHOTOGALLERY%2F209009985%2FPH%2F0%2F42%2FPH-209009985.jpg&credit=News Herald",
+					    "width":"2608",
+					    "height":"2908"
+					},
+	];
+ghEnhancedArticleObj.related.items = [
+			    {
+				    "type":"story",
+				    "title":"Bay District approves pay raise",
+				    "link":"/news/20160209/bay-district-approves-pay-raise",
+				    "imagelink":"http://www.newsherald.com/storyimage/DA/20160209/NEWS/160209037/AR/0/AR-160209037.jpg"
+			    },
+			    {
+				    "type":"gallery",
+				    "title":"Support Employee of the Year Awards",
+				    "link":"/photogallery/DA/20160209/PHOTOGALLERY/209009985/PH/1",
+				    "imagelink":"http://www.newsherald.com/apps/pbcsi.dll/bilde?Site=DA&Date=20160209&Category=PHOTOGALLERY&ArtNo=209009985&Ref=PH&NewTbl=1&Itemnr=1"
+			    },
+];
+if(typeof ghEnhancedArticleObj.gallery !== 'undefined'){ghEnhancedArticleObj.gallery.placement = '2';};
+if(typeof ghEnhancedArticleObj.bcvideos !== 'undefined'){ghEnhancedArticleObj.bcvideos.placement = '1';};
+if(typeof ghEnhancedArticleObj.map !== 'undefined'){ghEnhancedArticleObj.map.placement = '7';};
+/*
+function sticky_relocate() {
+    var window_top = $(window).scrollTop();
+    var div_top = $('#sticky-anchor').offset().top;
+    if (window_top > div_top) {
+        $('#sticky').addClass('stick');
+    } else {
+        $('#sticky').removeClass('stick');
+    }
+}
+$(document).ready(function(){
+    $(window).scroll(sticky_relocate);
+    sticky_relocate();
+});
+*/
+</script>
+<style type="text/css">
+	#art_lft_cont{font-family:Georgia !important;}
+	#art_lft_cont .main_art_cont blockquote, #art_lft_cont .main_art_cont p{font-size:18px;line-height:32px;color:rgba(51, 51, 51, 0.9);margin:0 0 20px 0;clear:none !important;}
+	.main_art_cont_mug_container{width:140px;margin:10px 25px 0 0;float:left;}
+	.indimgcont_caption_container{width:630px;height:500px;position:relative;}
+	.indimgcont_caption_container-inner{padding:10px;width:630px;zoom:1;background-color:rgb(0,0,0);filter:alpha(opacity=50);background-color:rgba(0,0,0,0.5);color:#FFF;z-index:1;position:absolute;bottom:0;}
+	.indimgcont_caption_container-inner span{line-height:20px;font-size:15px;}
+	.rel-img-pagination-container{height:100%;width:50px;background-color:rgba(0,0,0,0.2);position:absolute;color:#FFF;top:0;cursor:pointer;display:none;}
+	.rel-img-pagination-container img{max-height:40px;}
+	.absolute-center{margin: auto;position: absolute;top: 0; left: 0; bottom: 0; right: 0;}
+	.rel-imgs-mast-outter-container{width:650px;height:500px;position:relative;float:left;background-color:#000;margin:10px 0 25px 0;}
+	.fact-box-main-container{background-color:rgba(51, 51, 51, 0.1);float:left;margin-bottom:20px;}
+	.fact-box-main-container-inner{float:left;padding:10px;}
+	.fact-box-main-container-label{float:left;font-size: 20px;font-weight:bold;text-transform:uppercase;}
+	.fact-box-main-container-label img{padding:3px;float:left;}
+	.fact-box-main-container-label span{float:left;padding:9px 0 0 7px;}
+	.fact-box-content-container{width:100%;font-size:13px;float:left;}
+	.fact-box-content-container p{color:rgba(51, 51, 51, 0.7) !important;}
+	.main-art-byline-container{width:100%;float:left;margin-bottom:14px;}
+	.main-art-byline-container-byline{width:100%;float:left;font-size:15px;}
+	.f-italic{font-style:italic;}
+	.f-bold{font-weight:bold;}
+	.main-art-byline-container-pubdate{width:100%;float:left;font-size:12px;}
+	.main-art-byline-container-pubdate span{width:100%;float:left;}
+	.art-youtube-embed{margin-bottom:20px;}
+	.main_art_cont_mug_container-imgcont{width:100%;height:150px;background-color:rgba(51, 51, 51, 0.1);}
+	.main_art_cont_mug_container-detailcont{width:133px;padding:2px 4px 5px 4px;background-color:rgba(51, 51, 51, 0.1);}
+	.main_art_cont_mug_container-detailcont span{font-size:12px;line-height:20px;padding:0 5px;margin-top:-10px;}
+	.main_art_cont_mug_container-detailcont span i{font-style:italic;}
+	.main_art_cont_mug_container-detailcont-name{float:left;font-size:12px;font-weight:bold;line-height:15px;}
+	.main_art_cont_mug_container-detailcont-details{width:100%;font-size:12px;}
+	.rel-imgs-mast-container{float:left;width:650px;background-color:rgba(51, 51, 51, 0.1);margin-bottom:-10px;}
+	.rel-imgs-mast-container-label{float:left;font-size:20px;background-color:#187ABF;padding:3px 20px;color:#FFF;font-family:"BentonSansRE", Sans-Serif;display:none;}
+	.rel-gal-mast-container{float:left;width:650px;background-color:rgba(51, 51, 51, 0.1);margin-bottom:-10px;padding:0 0 5px 0;}
+	.rel-gal-mast-container-label{font-size:20px;font-weight:bold;background-color:#187ABF;padding:5px 0 5px 10px;color:#FFF;font-family:"BentonSansRE", Sans-Serif;}
+	.rel-content-mast-container{float:left;width:650px;background-color:rgba(51, 51, 51, 0.1);margin-top:10px;}
+	.rel-content-mast-container-label{float:left;font-size:20px;padding:3px 30px;color:#FFF;background-color:#187ABF;font-family:"BentonSansRE", Sans-Serif;}
+	.rel-content-mast-outter-container{width:100%;float:left;margin: 5px 0 30px 0;border-bottom: 3px solid rgba(51, 51, 51, 0.30);}
+	.rel-content-mast-outter-container span{float:left;width:100%;font-size:15px;padding:5px 0 0 10px;}
+	.rel-content-mast-outter-container img{padding:10px 5px 3px 0;float:left;}
+	.rel-content-mast-outter-container a{color:#4A7BB4;float:left;padding:2px 0 0 5px;text-decoration:none !important;font-family:"BentonSansRE", Sans-Serif;}
+	.rel-gal-mast-container-sum{font-size:13px;padding:0 0 5px 10px;}
+	.listimg-mast-cont{width:650px;float:left;margin:20px 0 40px 0;}
+	.listimg-label-cont{font-weight:bold;font-size:20px;margin-bottom:10px;}
+	.listimg-img-cont{font-weight:bold;font-size:20px;position:relative;}
+	.listimg-credit-cont{font-size:12px;color:rgba(51, 51, 51, 0.7);margin-top:5px;}
+	#sticky{padding:0.5ex;width:600px;height:100px;border:1px solid;}
+	#sticky.stick{position:fixed;top:0;z-index:10000;}
+	.img-purchase-btn-cont{text-align:right;float:right !important;width:100%;z-index: 9;position:relative;font-size:13px !important;margin-top:10px;}
+	.img-purchase-btn-cont a{color:#FFF !important;text-decoration:none !important;padding:4px;border:1px solid;border-radius:5px;}
+	.art-sum-container{width:100%;float:left;margin-bottom:20px;font-size:15px;font-family:verdana, arial, sans-serif;}
+	.art-sum-container h2{margin:0;padding:0;font-weight:normal;font-size:15px;}
+	#art-tit h1{font-size: 36px;line-height:46px;font-family:verdana, arial, sans-serif;color:#333;}
+	.indimgcont_outter img {max-width:650px;max-height:500px !important;}
+	h3{font-size:1.17em !important;}
+	h2{font-size:1.5em !important;}
+	.indimgcont_caption_container-inner span { z-index: 10; position: relative; width: 608px; overflow: hidden; float: left; }
+	.cap-move{position:absolute;top:10px;right:10px;font-weight:500;text-align:right;width:8%; cursor: pointer;}
+	/*.main_art_cont>blockquote { width: 100%; }*/
+	.main_art_cont>blockquote { width: auto !important;float:none !important; }
+	.responsive-embed-youtube { position:relative; padding-bottom:56.25%; padding-top:30px; height:0; overflow:hidden; }
+	.responsive-embed-youtube iframe, .responsive-embed-youtube object, .responsive-embed-youtube embed { position:absolute; top:0; left:0; width:100%; height:100%; }
+	#mug-shot.wickedlocal-ad{margin-bottom:12px;}
+	#mug-shot.main_art_cont_mug_container.wickedlocal-ad,
+	#mug-shot.wickedlocal-ad .main_art_cont_mug_container {width:300px !important;height:auto;}
+	#mug-shot.wickedlocal-ad .main_art_cont_mug_container-imgcont {height: auto;}
+	#mug-shot.wickedlocal-ad .main_art_cont_mug_container-imgcont img{margin: 12px 0;}
+	#mug-shot.wickedlocal-ad .main_art_cont_mug_container{text-align: center;}
+	#mug-shot.wickedlocal-ad .main_art_cont_mug_container-detailcont{width:292px;margin-bottom:16px;}
+</style>
+<ul class="pad-top-two width100percent">
+	<ul class="width100percent">
+<li class="scroller-container"> 
+        <div class="label">NEWS NOW</div>
+        <div class="arrow">&nbsp;</div>  
+	<div id="maincontainer">  
+	<ul id="webticker2">
+<!--
+Object Class: NewsItem1.pbo
+-->
+<li class="ftlt"><a href="/news/20160430/panama-city-beach-improves-emergency-response-rating">Panama City Beach improves emergency response rating</a> &nbsp; &nbsp; &nbsp; ... &nbsp; &nbsp; &nbsp;</li>
+<li class="ftlt"><a href="/news/20160430/sheriff-mckeithen-cites-love-compassion-among-proudest-accomplishments">Sheriff McKeithen cites love, compassion among proudest accomplishments</a> &nbsp; &nbsp; &nbsp; ... &nbsp; &nbsp; &nbsp;</li>
+<li class="ftlt"><a href="/news/20160430/riders-tout-camaraderie-at-thunder-beach-rally">Riders tout camaraderie at Thunder Beach Rally</a> &nbsp; &nbsp; &nbsp; ... &nbsp; &nbsp; &nbsp;</li>
+<!--
+Object Class: NewsItem1.pbo
+-->
+<li class="ftlt"><a href="/news/20160430/panama-city-beach-improves-emergency-response-rating">Panama City Beach improves emergency response rating</a> &nbsp; &nbsp; &nbsp; ... &nbsp; &nbsp; &nbsp;</li>
+<li class="ftlt"><a href="/news/20160430/sheriff-mckeithen-cites-love-compassion-among-proudest-accomplishments">Sheriff McKeithen cites love, compassion among proudest accomplishments</a> &nbsp; &nbsp; &nbsp; ... &nbsp; &nbsp; &nbsp;</li>
+<li class="ftlt"><a href="/news/20160430/riders-tout-camaraderie-at-thunder-beach-rally">Riders tout camaraderie at Thunder Beach Rally</a> &nbsp; &nbsp; &nbsp; ... &nbsp; &nbsp; &nbsp;</li>
+	</ul>
+</div>
+        <span class="ftrt mar-rgt20">
+            <a href="#" class="arrow-prev ftlt" title="Previous">&nbsp;</a>
+            <a href="#" class="arrow-next ftlt" title="Next">&nbsp;</a>
+        </span>   
+</li>  
+</ul>
+</ul>
+<div id="art_lft_cont" class="ftlt">
+	<ul class="width100percent">
+		<li id="art-tit" class="ftlt w100 clr-bth entry-title bt2sred mt10 fbold pt15 mb10">
+			<h1 style="font-size:36px;line-height:1.15;">Springfield's Grady named Support Employee of the Year</h1>
+		</li>
+		<div class="art-sum-container">
+			<h2>
+	Mechelle Grady, a paraprofessional at Springfield Elementary School, was named Bay District School's Support Employee of the Year at a ceremony Tuesday night at Florida State University Panama City's Holley Academic Center.
+</h2>
+		</div>
+		<li id="sharetoolscontainer" class="art_shr_ic ftlt width100percent" style="padding-top:0;">
+			<ul class=" width100percent">
+				<span class="ftlt"><a href="/apps/pbcs.dll/art_tips?Date=20160210&Category=NEWS&ArtNo=160219997&SiteData=DA&SectionCat="><img alt="email" title="email" src="/Global/images/sh_email.png" style="max-width:32px;max-height:32px;" /></a></span>
+				<span class="ftlt ml9"><a href="?template=printart"><img alt="print" title="print" src="/Global/images/sh_print.png" style="max-width:32px;max-height:32px;" /></a></span>
+				<div id="fbShare" class="facebook"><span class='st_facebook_large ftlt ml5' st_url="http://newsherald.com/article/20160210/NEWS/160219997" displayText='Facebook'></span></div>
+				<div id="twShare" class="twitter"><span class='st_twitter_large ftlt' st_url="http://newsherald.com/article/20160210/NEWS/160219997/SHARED/160219997" st_via="The_News_Herald" displayText='Tweet'></span></div>
+				<div id="liShare" class="linkedin"><span class='st_linkedin_large ftlt' st_url="http://newsherald.com/article/20160210/NEWS/160219997" displayText='LinkedIn'></span></div>
+				<div id="gpShare" class="googleplus"><span class='st_googleplus_large ftlt' st_url="http://newsherald.com/article/20160210/NEWS/160219997" displayText='Google +'></span></div>
+				<div id="piShare" class="pinterest"><span class='st_pinterest_large ftlt' st_url="http://newsherald.com/article/20160210/NEWS/160219997" displayText='Pinterest'></span></div>
+				<!--span class='st_tumblr_large ftlt' st_url="http://newsherald.com/article/20160210/NEWS/160219997" displayText='Tumblr'></span-->
+				<!--span class='st_reddit_large ftlt' st_url="http://newsherald.com/article/20160210/NEWS/160219997" displayText='Reddit'></span-->
+				<div id="stShare" class="sharethis"><span class='st_sharethis_large ftlt' st_url="http://newsherald.com/article/20160210/NEWS/160219997" displayText='ShareThis'></span></div>
+				 <span id="st_commentc" class="gotofbcom ftlt"><div class="commentc-label rcorners">Comment</div><div class="commentc-box viafoura rcorners"> <span class="vf-counter vf-widget" data-widget="counter"></span></div></span>
+				<div id="fb2Share" class="facebook"><span class='st_fbrec_hcount ftlt pt3 pl10' st_url="http://newsherald.com/article/20160210/NEWS/160219997" displayText='Facebook Recommend'></span></div>
+				<div id="tw2Share" class="twitter"><span class='st_twitter_hcount ftlt pt4 pl10' st_url="http://newsherald.com/article/20160210/NEWS/160219997/SHARED/160219997" st_via="The_News_Herald" displayText='Tweet'></span></div>
+			</ul>
+		</li>
+		<div class="tout-sdk tout-top-article" style="margin-bottom:13px;clear:both;"></div>
+	</ul>
+	<div class="main_art_cont">
+		<!--====================================START: BYLINE====================================-->
+		<div class="main-art-byline-container">
+			<span class="main-art-byline-container-byline">
+				<span class="f-italic">By </span>
+				<span class="f-bold">
+	ERYN DION
+	<br />News Herald Reporter
+<div style="display:inline;margin:0px 0px 0px 5px;padding:0px;">
+		<a href="https://twitter.com/@PCNHErynDion" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @@PCNHErynDion</a>
+</div>
+</span>
+			</span>
+			<span class="main-art-byline-container-pubdate">
+					<span>Posted Feb. 10, 2016 at 8:09 am</span>
+					<span>Updated Feb 10, 2016 at 10:48 AM</span>
+		</div>
+		<!--====================================END: BYLINE====================================-->
+		<div class="clearfix"></div>
+ 		<div id="mug-shot">
+ 		</div>
+<div id="storybody">
+		<blockquote>PANAMA CITY &mdash; Mechelle Grady, a paraprofessional at Springfield Elementary School, was named Bay District School&rsquo;s Support Employee of the Year at a ceremony Tuesday night at Florida State University Panama City&rsquo;s Holley Academic Center.</blockquote><blockquote>&ldquo;This is an honor just to represent you,&rdquo; Grady said, fighting back tears. &ldquo;This is one of the greatest honors I have ever received.&rdquo;</blockquote><blockquote>Known for her positive attitude and helpful heart, Grady organizes student activities such as Tiger Idol, Fantasy Ball and other after-school events. She also plans an annual field trip to a large city for fifth-graders and raised money to make sure even low-income students can attend with their classmates. She also mentors at-risk youth across Bay County through a community gospel choir.</blockquote><blockquote>Grady, who has worked for the district for more 30 years, said one of the things she enjoys is knowing students are the district&rsquo;s greatest commodity and the time used to work with them is the time she loves.</blockquote><blockquote>The award, sponsored by the Panhandle Educators Federal Credit Union, honors district employees who keep the schools running every day, from bus drivers to food service workers, maintenance workers and secretaries.</blockquote><blockquote>&ldquo;You do so many of the tasks and jobs we take for granted, but we appreciate it,&rdquo; Superintendent Bill Husfelt said.</blockquote><blockquote>This year, Husfelt said he approached the School Board about naming the award after Ann Smith, a longtime support employee who had helped thousands of teachers begin their careers before she retired last year. Britt Smith, principal at Jinks Middle School and Smith&rsquo;s son, said his mother was honored to have the award named after her, and spoke of the importance of support employees.</blockquote><blockquote>&ldquo;The first person students see in the day is a support employee,&rdquo; he said. &ldquo;And probably the last. You begin and end the day. There&rsquo;s no way we could do the work we do without you.&rdquo;</blockquote><blockquote>Forty-two support employees were nominated for the award this year before the field was whittled down to five finalists.</blockquote><blockquote>Other finalists were Bay High Athletic Secretary Cindy Harris, who maintains the school&rsquo;s various data systems while overseeing student athletes; and Terry Robbins, confidential secretary from Cedar Grove who volunteers for the Blessings in a Backpack program and raised enough money for the 500 students to receive a kickball for Christmas.</blockquote><blockquote>The other two finalists were Nan St. Germain, confidential secretary at Patronis Elementary, who mentors new teachers and has forged a strong relationship between the district and the Navy Base; and Terry Greek, bookkeeper in the Nelson Administrative Building, who was nominated for managing the bookkeeping for 26 departmental budgets totaling $17.6 million.</blockquote><blockquote>Grady will represent the district in the state&rsquo;s Support Employee of the Year program.</blockquote><blockquote>&ldquo;This is a great opportunity and I will try my best to represent you well,&rdquo; Grady said.</blockquote><blockquote>The finalists were vetted by six person selection committee.</blockquote><blockquote>This was the second employee of the year award taken home by Springfield Elementary. Last month, art teacher Kesia Milner was named the district&rsquo;s Teacher of the Year.</blockquote>
+</div>
+		<script type="text/javascript">
+	//GET FUNCTIONS FROM THE ARTICLE OBJECT
+	ghEnhancedArticleFunctions = ghEnhancedArticleObj.functions;
+	delete ghEnhancedArticleObj.functions;
+	//REORGANIZE FEED & ESTABLISH HELPERS
+	Handlebars.registerHelper("ifCond",function(e,t,n){if(e===t){return n.fn(this)}return n.inverse(this)})
+	//INJECT REL CONTENT INTO TEMPLATE
+	var newobj = ghEnhancedArticleFunctions.prepObjectForHandlebars(ghEnhancedArticleObj);
+	//DRAW ALL TEMPLATES
+	$.each(newobj,function(k,v){
+		var view='artrel_'+this.template;
+		var thisObj=v;
+		var template=Handlebars.templates[view](thisObj);
+		ghEnhancedArticleFunctions.drawRelContent(template,view,k,{
+			"domMainArticleContainer" 			: ".main_art_cont",
+			"domMainArticleByLineContainer" 	: ".main-art-byline-container",
+			"domMugShot"						: "#mug-shot",
+			"domParagraph"						: "blockquote",
+			"viewImageListGallery" 				: "artrel_imagelist_gallery",
+			"viewMugs" 							: "artrel_mugs"
+		});
+	});
+	// Hard coded mug shot div to get wl ad to work, this removes the whitespace if mug isn't present
+	if (ghEnhancedArticleObj.mug.items.length > 0) {$('#mug-shot').addClass('main_art_cont_mug_container');}
+	//DO NOT MOVE
+	ghEnhancedArticleFunctions.relContentImagePagination();
+</script>
+<script type='text/javascript'>
+function capLink(cap) {
+	var strLength = 83;
+	var linkStart = cap.indexOf("<a");
+	var linkEnd   = cap.indexOf("</a>");
+	if (linkEnd > strLength) {
+		var tempCap = cap.slice(linkStart);
+		var refEnd  = tempCap.indexOf('">');
+		var tempEnd = tempCap.indexOf("</a>");
+		// How long is the link text
+		var lText = tempEnd - (refEnd + 2);
+		if((linkStart + lText) <= strLength) {
+			strLength = linkEnd + 4;
+		} 
+	}
+	return strLength;
+}
+$('.indimgcont_caption_container-inner').each(function(k,v){
+	var $this = $(this).find('#cap-move');
+	//var strlength = 83;
+	var currCaptionDom = $this.prev();
+	var currCaption_string = $this.prev().text();
+	var strlength = capLink(currCaption_string);
+	var currTruncatedString = currCaption_string.substring(0,strlength);
+	if (currCaptionDom.html().length > strlength) {
+		$this.data('caption', currCaption_string);
+		currCaptionDom.html(currTruncatedString + '...');
+		$this.text('[+]');
+		$this.addClass('expanded');
+		currCaptionDom.css('height', '18px');
+	} else {
+		$this.text('');
+	}
+});
+$(document.body).on('click','#cap-move',function(){
+	var $this = $(this);
+	//var strlength = 83;
+	var currCaptionDom = $this.prev();
+	var currCaption_string = $this.prev().html();
+	var strlength = capLink(currCaption_string);
+	var currTruncatedString = currCaption_string.substring(0,strlength);
+	if(!$this.hasClass("expanded")) {
+		//replace full caption with truncated caption	
+		currCaptionDom.animate({ height: '18px' }, 300, function(){ currCaptionDom.html(currTruncatedString + '...'); });	
+		$this.addClass('expanded');
+		$this.text('[+]');
+	}else{ 
+		//replace truncated full caption with caption
+		var sSize = $this.data('caption').length;
+		var cHeight = (Math.ceil(sSize/parseInt(strlength))*15) + 'px';
+		currCaptionDom.html($this.data('caption'));
+		currCaptionDom.animate({ height: '+=' + cHeight }, 300);
+		$this.removeClass('expanded');
+		$this.text('[-]');
+	}
+});
+</script>
+	</div>
+<div class="tout-sdk tout-below-article"></div>
+	<div id="tvguide_art_cont"></div>
+	<div class="width100percent ftlt" id='loadComment' style='margin-top:30px;'>
+			    <!--Viafoura-->
+<script>
+  (function (v, s) {
+    v.type = 'text/javascript';
+    v.async = !0;
+    v.src = location.protocol !== 'https:' ? '//cdn.viafoura.net/vf.js' : '//api.viafoura.com/app/js/vf.js';
+    s.parentNode.insertBefore(v, s)
+  }(document.createElement('script'), document.getElementsByTagName('script')[0]));
+</script>
+			<a id="vf-terms-of-service" href="http://www.gatehousemedia.com/section/terms">Terms of Service</a>
+			<div id="viafouracoms" class="viafoura">
+				<div class="vf-comments vf-widget" data-widget="comments"></div>
+		    </div>
+			<script type="text/javascript">
+		    	$(document).ready(function(){
+			    	// works on desktop - moves the terms of service link near the submit button
+			    	window.viafoura.subscribe('onCommentingThread', function (page) {
+						$('#vf-terms-of-service').insertAfter(".vf-comment-controls");
+					});
+		    	});
+		    </script>
+		    <!--script type="text/javascript">
+			   /* $( document ).ready(function() {
+			    	 // Jquery mobile is trying to style the button and leaving a blank gry button on top of a white button
+			     	 $("#viafouracoms .vf-comment-controls li.vf-right").html('<button class="vf-comment-submit" type="submit" style="opacity: 1;">Submit</button>');
+			  	});*/
+  			</script-->
+	</div>
+</div>
+<script type="text/javascript">
+/*
+$document.scroll(function() {
+	var pagerDist = 800;
+	var artpagecurrentScrollPosition = $document.scrollTop();
+	var scroll_delta = artpagecurrentScrollPosition - old_scroll_top;
+	if(scroll_delta > 0){totalcurrentscrolldistanceDown = totalcurrentscrolldistanceDown + scroll_delta;}else{totalcurrentscrolldistanceUp = totalcurrentscrolldistanceUp + scroll_delta;}
+	if(totalcurrentscrolldistanceDown >= pagerDist){totalcurrentscrolldistanceDown = 0;scrlpage = scrlpage + 1;track_art_page(scrlpage);}
+	if(totalcurrentscrolldistanceUp <= -(pagerDist)){totalcurrentscrolldistanceUp = 0;scrlpage = scrlpage - 1;track_art_page(scrlpage);}
+	old_scroll_top = artpagecurrentScrollPosition;
+});
+*/
+track_art_auth(authtext);
+</script>
+<!--HANDLE STICKY CONTAINER
+ANCHOR DOM: <div id="sticky-anchor"></div>
+CONTENT DOM: <div id="sticky"></div>
+Anchor dom must be placed just above the content dom in order for sticky styles and functionality to apply
+-->
+
+
+
+				<div id="art_rgt_cont" class="ftrt">
+									<div id='dfp-300x100-1' class='mrgn-top-ten'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('dfp-300x100-1'); });</script></div>
+					<div id='dfp-300x250-1' class='mrgn-top-ten'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('dfp-300x250-1'); });</script></div>
+					<div id='dfp-300x250-deals' class='mrgn-top-ten'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('dfp-300x250-deals'); });</script></div>
+<script type="text/javascript">
+if(dfp_url=='11BF633A-D29C-1B58-E053-0100007F2E5B'||dfp_url=='11BF5CC1-7258-1B48-E053-0100007FB2D9'||dfp_url=='11BF5CC1-725C-1B48-E053-0100007FB2D9') {
+	$( '#art-tit' ).append( '<a href="#" class="tooltip-bottom" data-tooltip="Sponsored Content is advertiser-initiated information delivered directly to our audience, and generated independently of the news staff.">Sponsored Content</a>' );
+}
+</script>
+
+					
+					
+					
+									<script src="http://s.ppjol.net/lightbox/pp4.js"></script>
+				<script>if(typeof pwdisable == "undefined") var pp = {client: {config:{'zone':"56GCGEugJHw0j_u6-9JjnT",'mode':"universal",'debug':0,'precheck': function(){return 1;}}}};</script>
+			<!-- mediapass_key =  mediapass_asset =  -->
+
+					
+							<!-- GH Newsmax Generic Feed: 327 -->
+		<div id="NmWg327" style="clear:both;padding-top:15px;"></div><script type="text/javascript" src = 'http://cdn.nmcdn.us/js/connectV3.js'></script><script type="text/javascript">  NM.init({WidgetID: 327})</script>
+
+							<ul id="arttopclicks_cont" class="stay-informed mrg-top-15" style="border-bottom:0px"></ul>
+
+					
+					<!--This loads business list-->
+<script async src="http://widget.local.newsherald.com/widget/json/featured_business_list?callback=ownlocal_insert_business_list&include_ads=1&limit=5&level=1"></script>
+<div class=" clr-bth">
+<div id="localhero-widget">
+			 <h3 class="m10b"><a href="http://local.newsherald.com" target="_blank">Panama City Directory</a></h3>
+ <div id="ownlocal-content">
+	 <div id="ownlocal-business-list" class="widget-section">
+	  <h4>Featured Businesses</h4>
+	  <ul>
+	   <li> Loading... </li>
+	  </ul>
+	 </div>
+	 <ul id="ownlocal-business-list-template">
+	  <li>
+	   <a target="_blank" class="ownlocal-business-link"></a>
+	   <div class="ownlocal-business-popup-info">
+			<h4><a target="_blank" href="#">Business Name</a></h4>
+			<p>address<br/>Location, ST | <a href="#">website.com</a></p>
+	   </div>
+	  </li>
+	 </ul>
+	 <div class="widget-section" id="ownlocal-dropdown">
+	  <div class="dropdown-container">
+	   <ul>
+		<li>Find Panama City Attractions</li>
+		<li><a target="_blank" href="http://local.newsherald.com/Panama%20City-FL/nightlife/bars">Bars</a></li>
+	    <li><a target="_blank" href="http://local.newsherald.com/Panama%20City-FL/restaurants/">Restaurants</a></li>
+	    <li><a target="_blank" href="http://local.newsherald.com/Panama%20City-FL/beauty-and-wellness/beauty-shop">Beauty Salons</a></li>
+	    <li><a target="_blank" href="http://local.newsherald.com/Panama%20City-FL/arts-and-entertainment">Entertainment</a></li>
+	    <li><a target="_blank" href="http://local.newsherald.com/Panama%20City-FL/medical/physicians">Doctors</a></li>
+	    <li><a target="_blank" href="http://local.newsherald.com/Panama%20City-FL/medical/medical-specialists">Medical Specialists</a></li>
+	    <li><a target="_blank" href="http://local.newsherald.com/Panama%20City-FL/services/contractor">Contractors</a></li>
+	    <li><a target="_blank" href="http://local.newsherald.com/Panama%20City-FL/education/">Education</a></li>
+	    <li><a target="_blank" href="http://local.newsherald.com/Panama%20City-FL/lawn-and-garden/lawn-care">Lawn Services</a></li>
+	    <li><a target="_blank" href="http://local.newsherald.com/Panama%20City-FL/legal/attorneys">Lawyers</a></li>
+	    <li><a target="_blank" href="http://local.newsherald.com/Panama%20City-FL/shopping">Shopping</a></li>
+	    <li><a target="_blank" href="http://local.newsherald.com/Panama%20City-FL/travel">Travel</a></li>
+	    <li><a target="_blank" href="http://local.newsherald.com/Panama%20City-FL/beauty-and-wellness/tanning">Tanning</a></li>
+	    <li><a target="_blank" href="http://local.newsherald.com/Panama%20City-FL/auto/used-auto-dealer">Used Cars</a></li>
+	    <li><a target="_blank" href="http://local.newsherald.com/Panama%20City-FL/wedding-and-party">Wedding Services</a></li>
+	   </ul>
+	   <div class="arrow">&#x25BC;</div>
+	  </div>
+	 </div>
+	  <div class="widget-section" id="ownlocal-search-form">
+	  <form target="_blank" action="http://local.newsherald.com/search">
+	   <input type="text" name="query" id="ownlocal-custom-search-field" class = "text" value="Search business by keyword" />
+	   <input type="submit" class="submit" value="Search"/>
+	  </form>
+	 </div>
+	 <div class="widget-section" id="ownlocal-add-business-link">
+	  <a target="_blank" href="http://local.newsherald.com/#add_business">Add your business here +</a>
+	 </div>
+</div>
+</div>
+</div>
+
+					<!--eviesays CALENDAR WIDGET-->
+	<div class="events-calendar" style="clear:both;margin-top:25px;">
+	    <div class="events-calendar">
+	        <h3 class="bkt_header m5b">Events Calendar</h3>
+			<script type="text/javascript" src="//widget.eviesays.com/widget/embed.js?site=newsherald&label=default" async="true"></script>			
+		</div>
+	</div>
+
+				</div>
+			</div>
+<!--==================================================
+====================END: CONTENT===================-->
+
+
+
+
+<!--==================================================
+====================START: FOOTER===================-->
+			
+			<!--Parse.ly-->
+<div id="parsely-root" style="display: none;">
+  <div id="parsely-cfg" data-parsely-site="newsherald.com"></div>
+</div>
+<script>
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+      e=d.getElementById(i), r=d.getElementById(p+"-root"),
+      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+      :"static."+p+".com";
+  if (e) return;
+  e = d.createElement(s); e.id = i; e.async = true;
+  e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+
+			
+
+						<div id='dfp-728x90-2' class='bannerbottom clr-bth'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('dfp-728x90-2'); });</script></div>
+
+			 <div id="footer" class="ftlt">
+	<div class="footerhead ftlt">
+		<div class="footerheadleft ftlt">Connect with Panama City News Herald</div>
+		<div class="footerheadright ftlt">
+			<div class="ftlt">
+				<ul class="foot">
+					<li class="divider"></li>
+					<li class="word"><a target="_blank" href="http://www.facebook.com/PanamaCityNewsHerald">Facebook</a></li>
+					<li class="word"><a target="_blank" href="http://www.twitter.com/The_News_Herald">Twitter</a></li>
+			   		<li class="word">
+			   			<a href="/section/feed">RSS</a>
+			   		</li>
+					<li class="word"><a href="#top">Back to top</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="footer-middle">
+		<div class="footerleft ftlt">
+	    	<div class="footerlinks ftlt">
+	        	<div class="column loop ftlt">
+	            	<h4>
+	                	Reader Services
+					</h4>
+		            <ul class="width100percent">
+<li>
+	<div class="width85percent ftlt">
+		<a title="Subscribe" href="http://subscribe.newsherald.com" target="_blank">Subscribe</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="e-Edition" href="http://dd.newsherald.com" target="_blank">e-Edition</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Send Us Your Stuff" href="mailto:news@pcnh.com" target="_blank">Send Us Your Stuff</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Missed Delivery" href="https://hmgiservices.dticloud.com/cgi-bin/cmofl_cmofl.sh/custservice/web/complaints.html?closebutton=yes&siteid=pcn" target="_blank" rel="nofollow">Missed Delivery</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Archives" href="http://pcnhhalifax.com/archives" target="_blank" rel="nofollow">Archives</a>
+	</div>
+</li>
+		            </ul>
+				</div>
+		        <div class="column loop ftlt">
+		            <h4>
+		                Newsroom
+		            </h4>
+		            <ul class="width100percent">
+<li>
+	<div class="width85percent ftlt">
+		<a title="Meet our Staff" href="http://www.newsherald.com/pcnhcontact-us" target="_blank">Meet our Staff</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="News Tips" href="http://newsherald.com/submit" target="_blank">News Tips</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Submit a Letter to the Editor" href="http://www.newsherald.com/opinion/letter-submit" target="_blank">Submit a Letter to the Editor</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Obits" href="http://obits.newsherald.com/" target="_blank">Obits</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Photos" href="http://newsherald.com/photos" target="_blank">Photos</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Copyright/Terms of Service" href="http://www.gatehousemedia.com/section/terms" target="_blank" rel="nofollow">Copyright/Terms of Service</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Work for Us" href="http://newsherald.com/jobs" target="_blank">Work for Us</a>
+	</div>
+</li>
+		            </ul>
+		        </div>
+		        <div class="column loop ftlt">
+		            <h4>
+		                GateHouse news outlets
+		            </h4>
+		            <ul class="width100percent">
+<li>
+	<div class="width85percent ftlt">
+		<a title="The Destin Log" href="http://www.thedestinlog.com/" target="_blank" rel="nofollow">The Destin Log</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="The Walton Sun" href="http://www.waltonsun.com/" target="_blank" rel="nofollow">The Walton Sun</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Crestview News Bulletin" href="http://www.crestviewbulletin.com/" target="_blank" rel="nofollow">Crestview News Bulletin</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Santa Rosa Press Gazette" href="http://www.srpressgazette.com/" target="_blank" rel="nofollow">Santa Rosa Press Gazette</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Panama City News Herald" href="http://www.newsherald.com/" target="_blank" rel="nofollow">Panama City News Herald</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Washington County News" href="http://www.chipleypaper.com/" target="_blank" rel="nofollow">Washington County News</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Holmes County Times Advertiser" href="http://www.chipleypaper.com/" target="_blank" rel="nofollow">Holmes County Times Advertiser</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Apalachicola Times" href="http://www.apalachtimes.com/" target="_blank" rel="nofollow">Apalachicola Times</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="The Star" href="http://www.starfl.com/" target="_blank" rel="nofollow">The Star</a>
+	</div>
+</li>
+		            </ul>
+		        </div>
+		        <div class="column loop ftlt">
+		            <h4>
+		                Advertising
+		            </h4>
+		            <ul class="width100percent">
+<li>
+	<div class="width85percent ftlt">
+		<a title="Meet our Staff" href="http://www.newsherald.com/pcnhcontact-us" target="_blank">Meet our Staff</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Propel Marketing" href="http://propelmarketing.com/" target="_blank" rel="nofollow">Propel Marketing</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Retail Advertising" href="mailto: mholbrook@pcnh.com" target="_blank">Retail Advertising</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Digital Advertising" href="mailto: krsmith@pcnh.com" target="_blank">Digital Advertising</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Media Kit" href="http://hmgadrequest.com/media/panamaCity/index.html" target="_blank" rel="nofollow">Media Kit</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Classifieds" href="http://emeraldcoastmarketplace.kaango.com/" target="_blank" rel="nofollow">Classifieds</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Cars" href="/section/cars" target="_blank" rel="nofollow">Cars</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Jobs" href="http://www.emeraldcoastjobs.com/" target="_blank" rel="nofollow">Jobs</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Real Estate" href="http://real-estate.newsherald.com/" target="_blank">Real Estate</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Garage Sales" href="http://newsherald.com/garagesales" target="_blank">Garage Sales</a>
+	</div>
+</li>
+<li>
+	<div class="width85percent ftlt">
+		<a title="Legal Notices" href="http://marketplace.newsherald.com/publicnotices/" target="_blank">Legal Notices</a>
+	</div>
+</li>
+		            </ul>
+		        </div>
+			</div>
+			<div class="footer-quick-links ftlt">
+				        <a target="_blank" href="http://propelmarketing.com/" class="loop">Propel Marketing</a>
+				        <a target="_blank" href="http://morecontentnow.com/" class="loop">More Content Now</a>
+				        <a target="_blank" href="http://www.findnsave.com" class="ftlt">Find&amp;Save</a>
+												<div class="foot_mobilesite" style="float:right;display:none;"><a href="">Mobile Site</a></div>
+						<script type="text/javascript">
+							function getCookie(cname) {
+									var name = cname + "=";
+									var ca = document.cookie.split(';');
+									for(var i=0; i<ca.length; i++) {
+											var c = ca[i];
+											while (c.charAt(0)==' ') c = c.substring(1);
+											if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
+									}
+									return "";
+							}
+							var fullsiteCookie = getCookie('X-IgnoreUserAgent');
+							if (fullsiteCookie == 1){
+								// Show only if X-IgnoreUserAgent is set. X-IgnoreUserAgent Cookie is set when clicking "Full Site" on RWD.
+								$( ".foot_mobilesite" ).show();
+								function setCookie(cname,cvalue,exdays,domain){
+									if(exdays){
+										var d = new Date();
+										d.setTime(d.getTime()+(exdays*6*60*60*1000));
+										var expires = " expires="+d.toGMTString();
+									}else{var expires = "";}
+									var site_domain = (domain) ? " domain="+domain+";" : "";
+									document.cookie = cname + "=" + cvalue + ";" + expires +";" + site_domain + " path=/;";
+								}
+								// VIEW MOBILE SITE
+								$('.foot_mobilesite').on('click',function(e){
+								 	e.preventDefault();
+									var sitehost = window.location.host;
+								 	var sitepath = window.location.pathname.replace(/\/$/,"");
+									var currentUrl = sitehost.replace("www.","") + sitepath;
+									var cookieUrl = sitehost.replace("www.","");
+									setCookie('X-IgnoreUserAgent','1','-1',cookieUrl);
+									document.location.href = 'http://' + currentUrl;
+								});
+							}
+						</script>
+			</div>
+		</div>
+		<div class="footerright ftrt">
+			<div class="footerdeal">
+				<ul class="stay-informed no-border">
+					<li class="title-red title">Stay Informed</li>
+					<li>
+						<ul class="width100percent">
+							<li class="news-letter-logo stayinformed-left">&nbsp;</li>
+							<li class="news-letter-content stayinformed-right">
+								<div class="container">
+									<div class="news-letter-title">Email newsletter</div>
+									<div class="button">
+										<a href="http://newsletter.newsherald.com">
+											<div class="red-button-container">
+												<div class="red-button-left">&nbsp;</div>
+												<div class="red-button-middle">Sign Up Today</div>
+												<div class="red-button-right">&nbsp;</div>
+											</div>
+										</a>
+									</div>
+								</div>
+								<div class="newsletter-desc">Sign up for our newsletter and have the top headlines from your community delivered right to your inbox.</div>
+							</li>
+						</ul>
+					</li>
+				</ul>
+				<div class="clr-bth"></div>
+				<p class="privacy">Your privacy is important, read our <a href="/section/?template=privacy">privacy policy.</a></p>
+			</div>
+		</div>
+	</div>
+	<div class="copyright clearfix ftlt">
+		<div class="copyrightright ftlt">&copy; Copyright 2006-2016 Gatehouse Media, LLC Some rights reserved&nbsp;&nbsp;&nbsp;<a style="color:#53749a" target="_blank" href="http://www.gatehousemedia.com/privacy">Privacy Policy</a>&nbsp;|&nbsp;<a style="color:#53749a" target="_blank" href="http://www.gatehousemedia.com/terms_of_use">Terms of Service</a>&nbsp;|&nbsp;<a style="color:#53749a" target="_blank" href="/section/publications">Gatehouse Media Publications</a> <br> Original content available for non-commercial use under a Creative Commons license, except where noted.<br> Panama City News Herald &#124; 501 W. 11th St, Panama City, FL 32401
+		</div>
+		<a href="http://www.gatehousemedia.com/"><img src="/Global/images/ghlogo_whitetext.png" alt="Gatehouse Media" width="145" height="40" style="float:right;margin-top:14px;margin-right:14px;"/></a>
+	</div>
+</div>
+
+					<!-- Zedo ID not defined -->
+
+			<div style="display:none;">
+	<script type="text/javascript">
+	var region_data = {MA: "001",CA: "002",CO: "002",IA: "003",IL: "003",MN: "003",MO: "003",NE: "003",OH: "003",MI: "004",OK: "004",TN: "004",AR: "004",KS: "004",LA: "004",CT: "005",DE: "005",NY: "005",PA: "005",WV: "005",};
+	var site_region = region_data[saxo_state];
+	document.write('<scr'+'ipt type="text/javascript" src="http://loadus.exelator.com/load/?p=298&amp;g='+site_region+'&c=1547567&&state='+saxo_state+'&city='+saxo_city+'&Zip='+saxo_zipcode+'"><'+'/scr'+'ipt>')
+	</script>
+</div>
+
+			
+			<script type="text/javascript">
+$('.track-event').click(function(){
+	var $this = $(this);
+	var $path = $this.data('event-path');
+	track_event($path);
+});
+</script>
+
+		</div>
+
+		<div id="dfp-interstitial-oop">
+<script type='text/javascript'>  
+try {
+    googletag.cmd.push(function() {
+	if ((ad_data_feed[abd_pagetype].dfp_interstitial_oop === true && (typeof ad_data_feed[abd_pagetype][saxo_sitecode] == 'undefined'|| ad_data_feed[abd_pagetype][saxo_sitecode].dfp_interstitial_oop !== false)) || (ad_data_feed[abd_pagetype][saxo_sitecode] && ad_data_feed[abd_pagetype][saxo_sitecode].dfp_interstitial_oop === true)) {    
+	    gptAdSlots[1001] = googletag.defineOutOfPageSlot(defslot_a + defslot_b, "dfp-interstitial-oop").addService(googletag.pubads()).setTargeting("outofpage", "interstitial");
+	    gptAdSlots[1001][0]=ooocount;
+	    ooocount++;
+			if(dfpccc_pgtype == 'article'&&defslot_b !="/blogs"){
+				jQuery(window).bind("pressPlusLightboxNotOpen", function (e) {
+				      googletag.display('dfp-interstitial-oop');
+				      debug.info("[Interstital DFP Slot] DISPLAY: Press+ site article page");
+				});
+		    } else {
+			    googletag.display('dfp-interstitial-oop');
+			    debug.info("[Interstital DFP Slot] DISPLAY: Press+ site NON-article page");
+		    }
+		googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+		  if (event.slot === gptAdSlots[1001]&&ad_data_feed[abd_pagetype].dfp_interstitial_oop === true) {
+		    dfpInterDisp();
+		    //debug.info("[Interstital DFP Slot] RENDERED");
+		  }
+		}); 
+	}
+  });
+}
+catch (e) {
+   //handle any exceptions
+   debug.error('Interstitial Call failed'); 
+} 
+</script>
+</div>
+		<div id='dfp-bottombar-oop' ><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('dfp-bottombar-oop'); });</script></div>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+	if ((ad_data_feed[abd_pagetype].dfp_wallpaper_oop === true && (typeof ad_data_feed[abd_pagetype][saxo_sitecode] == 'undefined'|| ad_data_feed[abd_pagetype][saxo_sitecode].dfp_wallpaper_oop !== false)) || (ad_data_feed[abd_pagetype][saxo_sitecode] && ad_data_feed[abd_pagetype][saxo_sitecode].dfp_wallpaper_oop === true)) {
+	    gptAdSlots[1003] = googletag.defineOutOfPageSlot(defslot_a + defslot_b, "dfp-wallpaper-oop").addService(googletag.pubads()).setTargeting("outofpage", "wallpaper");
+	    gptAdSlots[1003][0]=ooocount;
+	    ooocount++;
+	    googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+			if (event.slot === gptAdSlots[1003]&&ad_data_feed[abd_pagetype].dfp_wallpaper_oop === true) {
+		    dfpWallpaperDisp();
+		  	}
+		}); 
+	}
+});
+</script>
+		<div id='dfp-wallpaper-oop' ><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('dfp-wallpaper-oop'); });</script></div>
+
+		
+		
+		<script>
+function handleLrgImg(){
+	if(mainImageLarge_flag==true){
+		try{$(".topmainimagecontainer").hide();$("#extrapicsrelleftcontainer").hide()}catch(e){}
+		try{$("#mainImageContainer_sm").show();$("#extrapicsrelleftcontainer").show();$("#mainImageContainer_sm").addClass("ftlt");$("li#contents").removeClass("ftlt")}catch(e){}
+		}
+	}
+	window.TOUT = {
+		propertyUid:"78135b",
+		topArticleLoaded:function(e){
+			if(e.matchExists){
+				handleLrgImg()
+			} else {	
+		}
+	}
+}
+</script>
+<script src="http://platform.tout.com/sdk.js" async></script>
+
+	<script type="text/javascript">  document.write(sc.createImageTag());</script><noscript><img src="/apps/Sc.dll/DA/NoJS/NoJS/story/20160210/NEWS/160219997?nojs=1" width="1px" height="1px"></noscript>
+</body>
+</html>
+<!--==================================================
+====================END: FOOTER===================-->

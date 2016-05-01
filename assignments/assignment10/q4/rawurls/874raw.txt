@@ -1,0 +1,1151 @@
+<!DOCTYPE html>
+<html><head data-ad='{"gpt":{"targeting":{"device":"desktop","ptype":"news_item","cid":"india-begins-massive-campaign-for-deworming-millions-of-children","env":"prod_alt"},"adConfig":{"network":{"dev":8264,"qa":8264,"prod":8264},"method":"async-inline","regions":[{"region":"uk","countries":["gb","ie","za","bh","kw","om","qa","sa","ae","iq","eg","ye"]},{"region":"fr","countries":["fr"]},{"region":"au","countries":["au","nz"]},{"region":"asia","countries":["sg","my","ph","th","id","vn","hk","in"]}],"adUnits":{"intromercial":{"outOfPage":true},"skin":{"sizes":[[1600,1000]],"position":"top","eventCallbacks":{"slotRenderEnded":"skin"}},"resourceCenterTop":{"sizes":[[301,301]],"position":"top"},"resourceCenterBottom":{"sizes":[[632,160]],"position":"bottom"},"mpuPlusTop":{"sizes":[[300,600],[300,250],[300,1050]],"position":"top"},"marqueeTop":{"sizes":[[234,60]],"position":"top"},"mpuTop":{"sizes":[[300,250]],"position":"top"},"mpuBottom":{"sizes":[[300,250]],"position":"bottom","disableInitialLoad":true},"leaderPlusTop":{"sizes":[[728,90],[970,66],[970,250]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":false,"disableInitialLoad":true,"eventCallbacks":{"slotRenderEnded":"leaderboardTop"}},"leaderTop":{"sizes":[[728,90],[970,66]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":false,"eventCallbacks":{"slotRenderEnded":"leaderboardTop"}},"buttonTop":{"sizes":[[88,31]],"position":"top"},"scrollPrestitial":{"sizes":[[980,45]],"position":"top"},"marqueeBottom":{"sizes":[[234,60]],"position":"bottom"},"marquee300Top":{"sizes":[[300,60]],"position":"top"},"marquee300Middle":{"sizes":[[300,60]],"position":"middle"},"mpuMiddle":{"sizes":[[300,250]],"position":"middle","disableInitialLoad":true},"leaderBottom":{"sizes":[[728,90],[970,66]],"position":"bottom","disableInitialLoad":true},"desktopNativeTop":{"sizes":[[11,11]],"position":"top","customTargeting":{"strnativekey":"a832eb3c"}},"nativeShowTop":{"sizes":[[11,11]],"position":"top","customTargeting":{"strnativekey":"bf587c26"}},"desktopNativeMiddle":{"sizes":[[11,11]],"position":"middle","customTargeting":{"strnativekey":"e0c5ba47"}},"desktopNativeBottom":{"sizes":[[11,11]],"position":"bottom"},"buttonMiddle":{"sizes":[[88,31]],"position":"middle"},"buttonBottom":{"sizes":[[88,31]],"position":"bottom"},"sponsorContentMiddle":{"sizes":[[381,211],[11,11]],"position":"middle","customTargeting":{"strnativekey":"9c2290b2"}},"sponsorContentMiddle2":{"sizes":[[381,211],[11,11]],"position":"middle2","customTargeting":{"strnativekey":"9c2290b2"}},"sponsorContentBottom":{"sizes":[[381,211],[11,11]],"position":"bottom","customTargeting":{"strnativekey":"9c2290b2"}},"sponsorContentTop":{"sizes":[[381,211],[11,11]],"position":"top","customTargeting":{"strnativekey":"9c2290b2"}},"sponsorContentSmallTop":{"sizes":[[301,151],[11,11]],"position":"top","customTargeting":{"strnativekey":"a2ac4296"}},"sponsorContentTextTop":{"sizes":[[306,77],[11,11]],"position":"top","customTargeting":{"strnativekey":"a6c0ce8b"}},"sponsorBar980Top":{"sizes":[[980,36]],"position":"top"},"sponsorBar620Top":{"sizes":[[620,36]],"position":"top"}},"mobile":{"adUnits":{"intromercial":{"outOfPage":true},"mobileBannerTop":{"sizes":[[320,50]],"position":"top","disableInitialLoad":true},"mobileBannerMpuHptoOverlay":{"outOfPage":true},"mobileMpuBottom":{"sizes":[[300,250]],"position":"bottom","disableInitialLoad":true},"mobileBanner1":{"sizes":[[320,50]],"position":1,"disableInitialLoad":true},"mobileBanner2":{"sizes":[[320,50]],"position":2,"disableInitialLoad":true},"mobileBanner3":{"sizes":[[320,50]],"position":3,"disableInitialLoad":true},"mobileMarquee320Top":{"sizes":[[320,60]],"position":"top"},"mobileSponsorContentTextTop":{"sizes":[[306,77],[11,11]],"position":"top","customTargeting":{"strnativekey":"454fd857"}},"mobileSponsorcontentTextMiddle":{"sizes":[[11,11]],"position":"middle","customTargeting":{"strnativekey":"454fd857"}},"mobileInlineArticle1":{"sizes":[[11,11]],"position":2,"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true,"customTargeting":{"strnativekey":"c0fb202c"}},"mobileInlineArticle2":{"sizes":[[320,50]],"position":3,"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineArticle3":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineArticle4":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineArticle5":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineArticle6":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineArticle7":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineArticle8":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineArticle9":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineArticle10":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineMediaPost1":{"sizes":[[320,50]],"position":2,"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineMediaPost2":{"sizes":[[320,50]],"position":3,"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineMediaPost3":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileNativeTop":{"sizes":[[11,11]],"position":"top"},"mobileNativeGalleryTop":{"sizes":[[11,11]],"position":"top","customTargeting":{"strnativekey":"289740d4"}},"mobileSponsorcontentCdTop":{"sizes":[[306,77],[11,11]],"position":"top","customTargeting":{"strnativekey":"3c5782bf"}},"mobileSponsorcontentVdTop":{"sizes":[[306,77],[11,11]],"position":"top","customTargeting":{"strnativekey":"eba075cc"}}}},"tablet":{"adUnits":{"resourceCenterTop":{"sizes":[[300,300]],"position":"top"},"resourceCenterBottom":{"sizes":[[632,160]],"position":"bottom"},"mpuPlusTop":{"sizes":[[300,600],[300,250]]},"marqueeTop":{"sizes":[[234,60]],"position":"top"},"mpuTop":{"sizes":[[300,250],[300,600]],"position":"top"},"mpuBottom":{"sizes":[[300,250]],"position":"bottom"},"leaderTop":{"sizes":[[728,90],[970,66]],"position":"bottom"},"leaderPlusTop":{"sizes":[[728,90],[970,66],[970,250]],"position":"top"}}},"siteName":"cbsnews","collapseEmptyDiv":true,"setRefreshUnfilledSlots":false,"setClearUnfilledSlots":true,"disableInitialLoad":false,"disableInitialLoadCompanions":true,"enableSingleRequest":true,"enableAsyncRendering":true,"defaultRegion":"aw","adOrder":["intromercial","leader_top","leader_plus_top","skin","mpu_top","mpu_plus_top","resource_center_top","marquee_top","marquee300_top","button_top","sponsor_content_top","sponsor_content_small_top","sponsor_content_text_top","sponsor_bar980_top","sponsor_bar620_top","desktop_native_top","native_show_top","mpu_middle","marquee300_middle","button_middle","desktop_native_middle","sponsor_content_middle","sponsor_content_middle2","desktop_native_bottom","button_bottom","mpu_bottom","leader_bottom","sponsor_content_bottom"]},"containerId":"57255a2a1e7e8","slotVars":{"network":"8264","siteName":"cbsnews","collapseEmptyDiv":"1","topics":"world","platform":"desktop"},"adType":"gpt","adDivIds":["mpu-plus-top-57255a2a1e7e8","desktop-native-top-57255a2a1e7e8","mpu-middle-57255a2a1e7e8","resource-center-top-57255a2a1e7e8","mpu-bottom-57255a2a1e7e8","intromercial-57255a2a1e7e8","leader-plus-top-57255a2a1e7e8","leader-bottom-57255a2a1e7e8"]},"cookieName":"cbsnews_ad","cookieServicePath":"\/ad\/ad-cookie\/","session":4,"subSession":4,"useFirstPageTargeting":true}'><!-- Fly Version: master 7aaafdcaf4f221544913aaef244629590156c1b7 (cbsnews prod_alt) --><title>India begins massive deworming campaign for millions of children - CBS News</title><meta charset="UTF-8"><meta name="robots" content="index, follow"><meta name="description" content="Campaign is targeting 270 million children across the country to prevent parasitic worms from infecting bodies and impairing development"><meta name="keywords" content="india, deworming, campaign, launches"><meta name="viewport" content="width=device-width"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="twitter:app:id:iphone" content="334256223"><meta name="twitter:app:id:googleplay" content="com.treemolabs.apps.cbsnews"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@CBSNews"><meta name="twitter:creator" content="@CBSNews"><meta name="twitter:title" content="India begins massive deworming campaign for millions of children"><meta name="twitter:description" content="Campaign is targeting 270 million children across the country to prevent parasitic worms from infecting bodies and impairing development"><meta name="twitter:image" content="http://cbsnews1.cbsistatic.com/hub/i/2016/02/10/a0a4e27f-6cae-4bd6-a648-4c8ba16ec6e1/ap205191836585.jpg"><meta property="al:ios:url" content="cbsnewsapp:/http://www.cbsnews.com/news/india-begins-massive-campaign-for-deworming-millions-of-children/"><meta property="al:ios:app_store_id" content="334256223"><meta property="al:ios:app_name" content="60 Minutes iOS App"><meta property="al:android:url" content="http://cbsn.wshttp://www.cbsnews.com/news/india-begins-massive-campaign-for-deworming-millions-of-children/"><meta property="al:android:app_name" content="60 Minutes"><meta property="al:android:package" content="com.treemolabs.apps.cbsnews"><meta property="al:web:url" content="/news/india-begins-massive-campaign-for-deworming-millions-of-children/"><meta property="og:type" content="article"><meta property="og:url" content="http://www.cbsnews.com/news/india-begins-massive-campaign-for-deworming-millions-of-children/"><meta property="og:image" content="http://cbsnews1.cbsistatic.com/hub/i/r/2016/02/10/a0a4e27f-6cae-4bd6-a648-4c8ba16ec6e1/thumbnail/620x350/938efff54face1ebbe6d2a12d3503afc/ap205191836585.jpg"><meta property="og:title" content="India begins massive deworming campaign for millions of children"><meta property="og:description" content="Campaign is targeting 270 million children across the country to prevent parasitic worms from infecting bodies and impairing development"><meta property="fb:admins" content="100005218546496"><meta property="article:author" content=""><meta property="article:publisher" content="https://www.facebook.com/CBSNews"><meta itemprop="thumbnailUrl" content="http://cbsnews1.cbsistatic.com/hub/i/r/2016/02/10/a0a4e27f-6cae-4bd6-a648-4c8ba16ec6e1/thumbnail/620x350/938efff54face1ebbe6d2a12d3503afc/ap205191836585.jpg"><meta name="news_keywords" content="india, deworming, campaign, launches"><link rel="alternate" href="android-app://com.treemolabs.apps.cbsnews/http/www.cbsnews.com/news/india-begins-massive-campaign-for-deworming-millions-of-children/"><link rel="amphtml" href="https://secure-fly.cbsnews.com/amp/news/india-begins-massive-campaign-for-deworming-millions-of-children/"><link rel="preconnect dns-prefetch" href="http://cbsnews1.cbsistatic.com"><link rel="preconnect dns-prefetch" href="http://cbsnews2.cbsistatic.com"><link rel="preconnect dns-prefetch" href="http://cbsnews4.cbsistatic.com"><link rel="canonical" href="http://www.cbsnews.com/news/india-begins-massive-campaign-for-deworming-millions-of-children/"><link rel="shortcut icon" type="image/x-icon" href="http://cbsnews4.cbsistatic.com/fly/bundles/cbsnewscore/favicon.ico?v=7aaafdcaf4f221544913aaef244629590156c1b7"><link rel="apple-touch-icon" sizes="144x144" href="http://cbsnews4.cbsistatic.com/fly/bundles/cbsnewscore/apple-touch-icon.png?v=7aaafdcaf4f221544913aaef244629590156c1b7"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://cbsnews4.cbsistatic.com/fly/bundles/cbsnewscore/apple-touch-icon-precomposed.png?v=7aaafdcaf4f221544913aaef244629590156c1b7"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://cbsnews4.cbsistatic.com/fly/bundles/cbsnewscore/apple-touch-icon-precomposed.png?v=7aaafdcaf4f221544913aaef244629590156c1b7"><link rel="apple-touch-icon-precomposed" href="http://cbsnews4.cbsistatic.com/fly/bundles/cbsnewscore/apple-touch-icon-precomposed.png?v=7aaafdcaf4f221544913aaef244629590156c1b7"><script src="//fonts.cbsnews.com/hzk1prl.js" id="typekitScript"></script><script>
+    (function(d) {
+        var config = {
+            scriptTimeout: 3000,
+            async: true
+        };
+
+        if (typeof Typekit !== 'undefined') {
+            Typekit.load(config);
+        } else {
+            var html = d.documentElement,
+                timeout = setTimeout(function() {
+                    html.className = html.className.replace(/\bwf-loading\b/g, "") + " wf-inactive";
+                }, 3000),
+                tk = d.getElementById('typekitScript'),
+                hasLoaded = false,
+                lastKnownState;
+            html.className += " wf-loading";
+            tk.onload = tk.onreadystatechange = function() {
+                lastKnownState = this.readyState;
+
+                if (hasLoaded || lastKnownState && lastKnownState != "complete" && lastKnownState != "loaded") {
+                    return;
+                }
+
+                hasLoaded = true;
+                clearTimeout(timeout);
+                try {
+                    Typekit.load(config)
+                } catch (e) {}
+            };
+        }
+    })(document);
+</script><script>
+  window.lazySizesConfig = window.lazySizesConfig || {};
+  window.lazySizesConfig.expand = 1000;
+</script><link rel="stylesheet" href="http://cbsnews4.cbsistatic.com/fly/bundles/cbsnewscore/css/main.desktop.css?v=7aaafdcaf4f221544913aaef244629590156c1b7"><!--[if IE 8]>
+    <link rel="stylesheet" href="http://cbsnews4.cbsistatic.com/fly/bundles/cbsnewscore/css/desktop/ie8.css?v=7aaafdcaf4f221544913aaef244629590156c1b7" />
+    <![endif]--><!--[if IE]>
+    <link rel="stylesheet" href="http://cbsnews4.cbsistatic.com/fly/bundles/cbsnewscore/css/desktop/ie.css?v=7aaafdcaf4f221544913aaef244629590156c1b7" />
+    <![endif]--><!--[if lt IE 9]>
+    <script src="http://cbsnews4.cbsistatic.com/fly/bundles/cbsnewscore/js/libs/html5shiv-printshiv.js?v=7aaafdcaf4f221544913aaef244629590156c1b7"></script>
+    <![endif]--><script>
+        // Source: https://gist.github.com/jcxplorer/823878/
+        // Licence: Public Domain
+        function UUIDv4 (){var b="",a,c;for(a=0;32>a;a++){c=16*Math.random()|0;if(8==a||12==a||16==a||20==a)b+="-";b+=(12==a?4:16==a?c&3|8:c).toString(16)}return b};
+
+        var __tealium_data_guid = UUIDv4(),
+                utag_data = {"isEnabled":true,"articleAuthorId":["30dacdbc-6a8a-11e2-9d12-0018fe8a00b0"],"articleAuthorName":["cbsnews (hidden byline)"],"articleId":"fe9f4a34-0e55-4cdf-8b45-6f7e1369999f","articlePubDate":"2016-02-10 21:55:26","articleTitle":"india begins massive deworming campaign for millions of children","articleType":"content_article","deviceType":"desktop","isDev":"2","pageType":"news_item","siteHier":["world"],"siteSection":"world","siteType":"responsive web","topicId":"6075f408-758d-11e2-9d12-0018fe8a00b0","topicName":"world","userType":"anon","bkSiteId":3330,"limit":4,"articleSource":"ap","siteName":"cbsnews","demographicKeys":["jobFunction","jobCategory","industry","computerProficiency","companySize","gender","ageGroup","country"],"tealium":{"profile":"cbsnewssite","env":"prod"}};
+        utag_data.pageViewGuid = __tealium_data_guid;
+    </script><script>
+  (function (w) {
+    "use strict";
+    var reXSS = /[^a-z0-9-_]/ig;
+    if (reXSS.test(w.location.hash)) {
+      w.location.hash = w.location.hash.replace(reXSS, '');
+    }
+  })(window);
+</script><script src="/bundles/cbsnewscore/js-build/main.js?v=7aaafdcaf4f221544913aaef244629590156c1b7"></script><script>
+    require.config({"baseUrl":"http://cbsnews4.cbsistatic.com/fly/bundles/cbsnewscore/js-build","urlArgs":"v=7aaafdcaf4f221544913aaef244629590156c1b7","config":{"version":{"fly/libs/base64":"0.3.0","fly/libs/easy-xdm-cbsi":"2.4.19.3","fly/libs/jquery.widget":"1.9.2","fly/libs/jquery.cookie":"1.2","fly/libs/jquery.throttle-debounce":"1.1","fly/libs/lazysizes":"1.4.0","fly/libs/omniture.s-code":"1.0","fly/libs/urs":"1.0","fly/utils/data-prefix":"1.0","fly/utils/data-selector":"1.0","fly/utils/function-natives":"1.0","fly/utils/guid":"1.0","fly/utils/log":"1.0","fly/utils/object-helper":"1.0","fly/utils/string-helper":"1.0","fly/utils/string-vars":"1.0","fly/utils/url-helper":"1.0","fly/managers/components":"1.0","fly/managers/cookie":"1.0","fly/managers/debug":"1.0","fly/managers/ad":"2.0","fly/managers/gpt":"4.1","fly/managers/geo":"1.0","fly/managers/image-resolution":"1.0","fly/managers/recurly":"1.0","fly/managers/recurly-billing":"1.0","fly/managers/social-authentication":"1.0","fly/managers/tracking":"1.0","fly/managers/user":"1.0","fly/components/accordion":"1.0","fly/components/alert":"1.0","fly/components/base":"1.0","fly/components/carousel":"1.0","fly/components/credspark":"1.0","fly/components/dependent-field":"1.0","fly/components/dropdown":"1.0","fly/components/form-validate":"1.0","fly/components/iframe-messenger":"1.1","fly/components/image-gallery":"1.0","fly/components/livefyre-conversation":"1.0","fly/components/livefyre-commentcount":"1.0","fly/components/loading":"1.0","fly/components/load-more":"1.0","fly/components/nrelate":"1.0","fly/components/modal":"1.0","fly/components/modal-async":"1.0","fly/components/modal-iframe":"1.0","fly/components/social-button":"1.0","fly/components/social-counts":"1.1","fly/components/social-links":"1.0","fly/components/tabs":"1.0","fly/managers/clicktale":"1.0","fly/components/poll":"1.0","fly/managers/history":"1.0","fly/components/scrollbar":"1.0","fly/components/fixate":"1.0","fly/components/image-gallery-thumb":"1.0"}},"shim":{"tealium":["jquery"]},"map":{"*":{"gpt":"//www.googletagservices.com/tag/js/gpt.js","typekit":"//fonts.cbsnews.com/hzk1prl.js","livefyre":"//zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js","livefyre-commentcount":"//zor.livefyre.com/wjs/v1.0/javascripts/CommentCount.js","nrelate":"//c7.static.nrcdn.com/common_js/0.52.1/nr_loader.min.js","urs":"//urs.cbsnews.com/sdk/urs.js","recirc":"//ddlmj2furo6f2.cloudfront.net/addontrain/recommendations/53f6c74c1344a01ee2000139.js","tealium":"//tags.tiqcdn.com/utag/cbsi/cbsnewssite/prod/utag.js","credspark":"//www.credspark.com/embed.js","yad":"https://s.yimg.com/uq/syndication/yad.js","newsgator":"//nmp.newsgator.com/ngbuzz/load.ashx/buzz","recurly":"https://js.recurly.com/v4/recurly.js","taboola":"//cdn.taboola.com/libtrc/cbsinteractive-cbsnews/loader.js","sharethrough":"//native.sharethrough.com/assets/tag.js"}}});
+    require(['main.desktop'])
+</script><script>
+var _vrq = _vrq || [];
+_vrq.push(['automate', 'false' ]);
+</script></head><body data-tracking='{"isEnabled":true,"articleAuthorId":["30dacdbc-6a8a-11e2-9d12-0018fe8a00b0"],"articleAuthorName":["cbsnews (hidden byline)"],"articleId":"fe9f4a34-0e55-4cdf-8b45-6f7e1369999f","articlePubDate":"2016-02-10 21:55:26","articleTitle":"india begins massive deworming campaign for millions of children","articleType":"content_article","deviceType":"desktop","isDev":"2","pageType":"news_item","siteHier":["world"],"siteSection":"world","siteType":"responsive web","topicId":"6075f408-758d-11e2-9d12-0018fe8a00b0","topicName":"world","userType":"anon","bkSiteId":3330,"limit":4,"articleSource":"ap","siteName":"cbsnews","demographicKeys":["jobFunction","jobCategory","industry","computerProficiency","companySize","gender","ageGroup","country"],"tealium":{"profile":"cbsnewssite","env":"prod"}}' data-ad='{"gpt":{"targeting":{"device":"desktop","ptype":"news_item","cid":"india-begins-massive-campaign-for-deworming-millions-of-children","env":"prod_alt"},"adConfig":{"network":{"dev":8264,"qa":8264,"prod":8264},"method":"async-inline","regions":[{"region":"uk","countries":["gb","ie","za","bh","kw","om","qa","sa","ae","iq","eg","ye"]},{"region":"fr","countries":["fr"]},{"region":"au","countries":["au","nz"]},{"region":"asia","countries":["sg","my","ph","th","id","vn","hk","in"]}],"adUnits":{"intromercial":{"outOfPage":true},"skin":{"sizes":[[1600,1000]],"position":"top","eventCallbacks":{"slotRenderEnded":"skin"}},"resourceCenterTop":{"sizes":[[301,301]],"position":"top"},"resourceCenterBottom":{"sizes":[[632,160]],"position":"bottom"},"mpuPlusTop":{"sizes":[[300,600],[300,250],[300,1050]],"position":"top"},"marqueeTop":{"sizes":[[234,60]],"position":"top"},"mpuTop":{"sizes":[[300,250]],"position":"top"},"mpuBottom":{"sizes":[[300,250]],"position":"bottom","disableInitialLoad":true},"leaderPlusTop":{"sizes":[[728,90],[970,66],[970,250]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":false,"disableInitialLoad":true,"eventCallbacks":{"slotRenderEnded":"leaderboardTop"}},"leaderTop":{"sizes":[[728,90],[970,66]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":false,"eventCallbacks":{"slotRenderEnded":"leaderboardTop"}},"buttonTop":{"sizes":[[88,31]],"position":"top"},"scrollPrestitial":{"sizes":[[980,45]],"position":"top"},"marqueeBottom":{"sizes":[[234,60]],"position":"bottom"},"marquee300Top":{"sizes":[[300,60]],"position":"top"},"marquee300Middle":{"sizes":[[300,60]],"position":"middle"},"mpuMiddle":{"sizes":[[300,250]],"position":"middle","disableInitialLoad":true},"leaderBottom":{"sizes":[[728,90],[970,66]],"position":"bottom","disableInitialLoad":true},"desktopNativeTop":{"sizes":[[11,11]],"position":"top","customTargeting":{"strnativekey":"a832eb3c"}},"nativeShowTop":{"sizes":[[11,11]],"position":"top","customTargeting":{"strnativekey":"bf587c26"}},"desktopNativeMiddle":{"sizes":[[11,11]],"position":"middle","customTargeting":{"strnativekey":"e0c5ba47"}},"desktopNativeBottom":{"sizes":[[11,11]],"position":"bottom"},"buttonMiddle":{"sizes":[[88,31]],"position":"middle"},"buttonBottom":{"sizes":[[88,31]],"position":"bottom"},"sponsorContentMiddle":{"sizes":[[381,211],[11,11]],"position":"middle","customTargeting":{"strnativekey":"9c2290b2"}},"sponsorContentMiddle2":{"sizes":[[381,211],[11,11]],"position":"middle2","customTargeting":{"strnativekey":"9c2290b2"}},"sponsorContentBottom":{"sizes":[[381,211],[11,11]],"position":"bottom","customTargeting":{"strnativekey":"9c2290b2"}},"sponsorContentTop":{"sizes":[[381,211],[11,11]],"position":"top","customTargeting":{"strnativekey":"9c2290b2"}},"sponsorContentSmallTop":{"sizes":[[301,151],[11,11]],"position":"top","customTargeting":{"strnativekey":"a2ac4296"}},"sponsorContentTextTop":{"sizes":[[306,77],[11,11]],"position":"top","customTargeting":{"strnativekey":"a6c0ce8b"}},"sponsorBar980Top":{"sizes":[[980,36]],"position":"top"},"sponsorBar620Top":{"sizes":[[620,36]],"position":"top"}},"mobile":{"adUnits":{"intromercial":{"outOfPage":true},"mobileBannerTop":{"sizes":[[320,50]],"position":"top","disableInitialLoad":true},"mobileBannerMpuHptoOverlay":{"outOfPage":true},"mobileMpuBottom":{"sizes":[[300,250]],"position":"bottom","disableInitialLoad":true},"mobileBanner1":{"sizes":[[320,50]],"position":1,"disableInitialLoad":true},"mobileBanner2":{"sizes":[[320,50]],"position":2,"disableInitialLoad":true},"mobileBanner3":{"sizes":[[320,50]],"position":3,"disableInitialLoad":true},"mobileMarquee320Top":{"sizes":[[320,60]],"position":"top"},"mobileSponsorContentTextTop":{"sizes":[[306,77],[11,11]],"position":"top","customTargeting":{"strnativekey":"454fd857"}},"mobileSponsorcontentTextMiddle":{"sizes":[[11,11]],"position":"middle","customTargeting":{"strnativekey":"454fd857"}},"mobileInlineArticle1":{"sizes":[[11,11]],"position":2,"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true,"customTargeting":{"strnativekey":"c0fb202c"}},"mobileInlineArticle2":{"sizes":[[320,50]],"position":3,"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineArticle3":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineArticle4":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineArticle5":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineArticle6":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineArticle7":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineArticle8":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineArticle9":{"sizes":[[300,250]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineArticle10":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineMediaPost1":{"sizes":[[320,50]],"position":2,"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineMediaPost2":{"sizes":[[320,50]],"position":3,"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileInlineMediaPost3":{"sizes":[[320,50]],"position":"inc","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileNativeTop":{"sizes":[[11,11]],"position":"top"},"mobileNativeGalleryTop":{"sizes":[[11,11]],"position":"top","customTargeting":{"strnativekey":"289740d4"}},"mobileSponsorcontentCdTop":{"sizes":[[306,77],[11,11]],"position":"top","customTargeting":{"strnativekey":"3c5782bf"}},"mobileSponsorcontentVdTop":{"sizes":[[306,77],[11,11]],"position":"top","customTargeting":{"strnativekey":"eba075cc"}}}},"tablet":{"adUnits":{"resourceCenterTop":{"sizes":[[300,300]],"position":"top"},"resourceCenterBottom":{"sizes":[[632,160]],"position":"bottom"},"mpuPlusTop":{"sizes":[[300,600],[300,250]]},"marqueeTop":{"sizes":[[234,60]],"position":"top"},"mpuTop":{"sizes":[[300,250],[300,600]],"position":"top"},"mpuBottom":{"sizes":[[300,250]],"position":"bottom"},"leaderTop":{"sizes":[[728,90],[970,66]],"position":"bottom"},"leaderPlusTop":{"sizes":[[728,90],[970,66],[970,250]],"position":"top"}}},"siteName":"cbsnews","collapseEmptyDiv":true,"setRefreshUnfilledSlots":false,"setClearUnfilledSlots":true,"disableInitialLoad":false,"disableInitialLoadCompanions":true,"enableSingleRequest":true,"enableAsyncRendering":true,"defaultRegion":"aw","adOrder":["intromercial","leader_top","leader_plus_top","skin","mpu_top","mpu_plus_top","resource_center_top","marquee_top","marquee300_top","button_top","sponsor_content_top","sponsor_content_small_top","sponsor_content_text_top","sponsor_bar980_top","sponsor_bar620_top","desktop_native_top","native_show_top","mpu_middle","marquee300_middle","button_middle","desktop_native_middle","sponsor_content_middle","sponsor_content_middle2","desktop_native_bottom","button_bottom","mpu_bottom","leader_bottom","sponsor_content_bottom"]},"containerId":"57255a2a1e7e8","slotVars":{"network":"8264","siteName":"cbsnews","collapseEmptyDiv":"1","topics":"world","platform":"desktop"},"adType":"gpt","adDivIds":["mpu-plus-top-57255a2a1e7e8","desktop-native-top-57255a2a1e7e8","mpu-middle-57255a2a1e7e8","resource-center-top-57255a2a1e7e8","mpu-bottom-57255a2a1e7e8","intromercial-57255a2a1e7e8","leader-plus-top-57255a2a1e7e8","leader-bottom-57255a2a1e7e8"]},"cookieName":"cbsnews_ad","cookieServicePath":"\/ad\/ad-cookie\/","session":4,"subSession":4,"useFirstPageTargeting":true}' data-img-res='{"breakpoint":620,"cookieName":"fly_img","breakpointOptions":null,"pixelRatio":1,"pixelRatioOptions":[1]}' data-component="livefyreCommentcount" data-user='{"environment":"LIVE","platform":"","secureHost":"secure-fly.cbsnews.com","appId":1501}' data-cms-edit='{"url":"http:\/\/hub-cms.cbsnews.com\/content\/article\/fe9f4a34-0e55-4cdf-8b45-6f7e1369999f"}' class="desktop
+ article">
+        
+            
+
+<div id="smart-banner" class="smart-banner smart-banner--cbsnews" data-component="smartBanner" data-smart-banner-options='{"url":{"android":"https:\/\/play.google.com\/store\/apps\/details?id=com.treemolabs.apps.cbsnews","ipad":"https:\/\/itunes.apple.com\/us\/app\/cbs-news\/id334256223?mt=8","iphone":"https:\/\/itunes.apple.com\/us\/app\/cbs-news\/id334256223?mt=8"},"cookieName":"SB_cbsnews","retryDays":7,"hideDays":30}'>
+	<a id="smart-banner--text-container" class="smart-banner--anchor" target="_blank">
+		<span id="smart-banner--subheader" class="smart-banner--span">The all&nbsp;new</span>
+        <br><span id="smart-banner--header" class="smart-banner--span">CBS News App
+            <span id="smart-banner--android" class="smart-banner--device">for Android<sup>&reg;</sup></span>
+            <span id="smart-banner--ipad" class="smart-banner--device">for iPad<sup>&reg;</sup></span>
+            <span id="smart-banner--iphone" class="smart-banner--device">for iPhone<sup>&reg;</sup></span>
+        </span>
+        <br><span id="smart-banner--description" class="smart-banner--span">Fully redesigned. Featuring CBSN, 24/7&nbsp;live&nbsp;news.</span>
+		<span id="smart-banner--cta" class="smart-banner--span">Get the App</span>
+	</a>
+	<a id="smart-banner--close" class="smart-banner--anchor">&#9587;</a>
+</div>
+    
+    <!-- src/CbsNews/CoreBundle/Resources/views/Layout/default.desktop.html.twig -->
+
+                <!-- comscorekw=world -->
+    
+
+    
+    <div id="fb-root"></div>
+                    <div id="intromercial-57255a2a1e7e8" class="ad-intromercial" data-ad="intromercial" style="display:none">
+    <script>
+        window.console && console.log && console.log("ADS: queuing intromercial-57255a2a1e7e8 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("intromercial-57255a2a1e7e8");
+    </script></div>
+
+    	<div class="body-container">
+
+                                <!-- src/CbsNews/CoreBundle/Resources/views/Core/header.html.twig -->
+
+        
+
+<header class="site-header  nocontent"><div id="breakingNewsBanner" data-component="ticker">
+        <include src="http://oaktree.cbsnews.com/feedfiles/breakingnews.desktop.html" onerror="continue"></include></div>
+
+
+    
+    <div class="supplemental">
+    <div class="container">
+        <div class="col-9">
+            
+        <nav class="site-shows"><ul class="items"><li><a class="selected module-click-tracking" href="/" data-tracking="site header-show-nav|CBS News" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Show-nav|CBS News"}'>CBS News</a></li>
+                                                                        <li><a class="module-click-tracking" href="/evening-news/" data-tracking="site header-show-nav|CBS Evening News" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Show-nav|CBS Evening News"}'>CBS Evening News</a></li>
+                                                                        <li><a class="module-click-tracking" href="/cbs-this-morning/" data-tracking="site header-show-nav|CBS This Morning" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Show-nav|CBS This Morning"}'>CBS This Morning</a></li>
+                                                                        <li><a class="module-click-tracking" href="/48-hours/" data-tracking="site header-show-nav|48 Hours" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Show-nav|48 Hours"}'>48 Hours</a></li>
+                                                                        <li><a class="module-click-tracking" href="/60-minutes/" data-tracking="site header-show-nav|60 Minutes" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Show-nav|60 Minutes"}'>60 Minutes</a></li>
+                                                                        <li><a class="module-click-tracking" href="/sunday-morning/" data-tracking="site header-show-nav|Sunday Morning" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Show-nav|Sunday Morning"}'>Sunday Morning</a></li>
+                                                                        <li><a class="module-click-tracking" href="/face-the-nation/" data-tracking="site header-show-nav|Face The Nation" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Show-nav|Face The Nation"}'>Face The Nation</a></li>
+                                                                        <li><a class="module-click-tracking" href="http://www.cbsnews.com/live/?ftag=CNMdaef904" data-tracking="site header-show-nav|CBSN" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header-cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Show-nav|CBSN"}'>CBSN</a></li>
+            </ul></nav></div>
+        
+        <div class="col-3">
+            <form class="site-search" method="get" action="/search/">
+    <div class="search-wrapper" data-component="placeholder">
+        <input class="query" type="search" name="q" maxlength="255" placeholder="Search"></div>
+    <button class="submit core-search-header" type="submit">GO</button>
+</form>
+<ul class="login-wrapper logged-in"><li>
+        <!--<li class="site-section-tab"><a href="https://secure-fly.cbsnews.com/user/registration/" data-user-show="register"><span>Join</span></a></li>-->
+                     <a class="site-login" href="#" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Channel Button"}'><span class="text">Log In</span></a>
+                <div class="menu-wrapper sign-in">
+            <span class="hover-padding"></span>
+            <span class="arrow"></span>
+            <ul class="login"><li><a data-user-show="login" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Login"}'>Log In</a></li>
+                    <li><a data-user-show="register" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Join CBSNews"}'>Join CBSNews.com</a></li>
+                    <li class="social-icons">
+                        <span class="sign-in-with">Sign in with</span>
+                                                    <span class="social-site facebook" data-user-social="facebook" data-user-flow="modal" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Sign In with:  facebook"}'>&nbsp;</span>
+                                                    <span class="social-site googleplus" data-user-social="googleplus" data-user-flow="modal" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Sign In with:  googleplus"}'>&nbsp;</span>
+                                                    <span class="social-site yahoo" data-user-social="yahoo" data-user-flow="modal" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Sign In with:  yahoo"}'>&nbsp;</span>
+                                                    <span class="social-site twitter" data-user-social="twitter" data-user-flow="modal" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site Header-Search-Flyout-nav|Log In-Sign In with:  twitter"}'>&nbsp;</span>
+                                            </li>
+                            </ul></div>
+    </li>
+</ul></div>
+    </div>
+</div>
+    <div class="primary content-inverse">
+        <div class="container">
+                         <div class="logo core-logo"><a href="/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|Branding"}'>CBSNews.com - Breaking News</a></div>
+                        <nav class="site-sections"><ul class="items"><li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/video\/section"}'><a href="/videos/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|Video"}'><span>Video</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/us\/section"}'><a href="/us/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|US"}'><span>US</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/world\/section"}'><a href="/world/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|World"}'><span>World</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/politics\/section"}'><a href="/politics/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|Politics"}'><span>Politics</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/entertainment\/section"}'><a href="/entertainment/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|Entertainment"}'><span>Entertainment</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/health\/section"}'><a href="/health/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|Health"}'><span>Health</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/moneywatch\/section"}'><a href="/moneywatch/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|MoneyWatch"}'><span>MoneyWatch</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/tech\/section"}'><a href="/tech/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|SciTech"}'><span>SciTech</span></a>
+                                                    </li>
+                                                                                                                                                                                                <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/crime\/section"}'><a href="/crimesider/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|Crime"}' data-vanity-rewritten="true"><span>Crime</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab  "><a href="http://www.cbssports.com/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|Sports"}'><span>Sports</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab flyout " data-component="flyout" data-flyout-options='{"requestUrl":"\/flyout\/xhr\/pictures\/section"}'><a href="/pictures/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|Photos"}'><span>Photos</span></a>
+                                                    </li>
+                                                                                                                                            <li class="site-section-tab  dropdown" data-component="moreDropdown" data-more-dropdown-options='{"event":"hover"}'><a href="#" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|More"}'><span>More</span></a>
+                                                            <div class="dropdown-content dropdown-menu">
+                                    <div class="listing-basic">
+                                        <ul class="items col-3"><li class="label"><h4 class="label">Blogs</h4></li>
+                                                                                                                                                <li><a href="/politics/battleground/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|More-Blogs-Battleground" }' class="title"><span>Battleground</span></a></li>
+                                                                                                                                                                                                <li><a href="/politics/white-house/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|More-Blogs-The WH" }' class="title"><span>The WH</span></a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </ul><ul class="items col-3"><li class="label"><h4 class="label">Web Shows</h4></li>
+                                                                                                                                                                                                                                                                                                                                        <li><a href="/60-minutes/overtime/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|More-Web Shows-60 Overtime" }' class="title"><span>60 Overtime</span></a></li>
+                                                                                                                                                                                                <li><a href="/face-the-nation/face-to-face/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|More-Web Shows-Face to Face" }' class="title"><span>Face to Face</span></a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul><ul class="items col-3"><li class="label"><h4 class="label">Resources</h4></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a href="/mobile/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|More-Resources-Mobile" }' class="title"><span>Mobile</span></a></li>
+                                                                                                                                                                                                <li><a href="/radio/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|More-Resources-Radio" }' class="title"><span>Radio</span></a></li>
+                                                                                                                                                                                                <li><a href="/local/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|More-Resources-Local" }' class="title"><span>Local</span></a></li>
+                                                                                                                                                                                                <li><a href="/in-depth/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|More-Resources-In Depth" }' class="title"><span>In Depth</span></a></li>
+                                                                                                                                                                                                <li><a href="http://www.cbsstore.com/cbs-news-store-home/index.php?v=cbs-news&amp;ecid=PRF-CBS-300538&amp;pa=PRF-CBS-300538" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Header|cbsnews:/news/india-begins-massive-campaign-for-deworming-millions-of-children/ Flyout-nav|More-Resources-CBS News Store" }' class="title"><span>CBS News Store</span></a></li>
+                                                                                                                                    </ul></div>
+                                </div>
+                                                    </li>
+                                    </ul></nav></div>
+    </div>
+
+        </header><div id="mantle_skin" class="content-primary article-page default">
+                                                <div id="leader-plus-top-57255a2a1e7e8" class="ad-leader-plus-top" data-ad="leader-plus-top">
+    <script>
+        window.console && console.log && console.log("ADS: queuing leader-plus-top-57255a2a1e7e8 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("leader-plus-top-57255a2a1e7e8");
+    </script></div>
+
+    
+                <div itemscope itemtype="https://schema.org/NewsArticle">
+	  <meta itemprop="genre" content="News"><meta itemprop="sourceOrganization" content="CBS News"><meta itemprop="articleSection" content="World"><meta itemprop="headline" content=" India begins massive deworming campaign for millions of children"><meta itemprop="image" content="http://cbsnews1.cbsistatic.com/hub/i/2016/02/10/a0a4e27f-6cae-4bd6-a648-4c8ba16ec6e1/ap205191836585.jpg"><meta itemprop="alternativeHeadline" content=" India begins massive deworming campaign for millions of children"><meta itemprop="author" content="CBS News"><meta itemprop="description" content="Campaign is targeting 270 million children across the country to prevent parasitic worms from infecting bodies and impairing development"><meta itemprop="datePublished" content="February 10, 2016, 4:55 PM"></div>
+    <div class="container">
+    <div class="row">
+                    <div class="row">
+    
+            
+            
+    <div class="col-12 nocontent">
+                                    
+                                    
+                                            
+    
+
+    
+
+
+
+    
+                                                                    </div>
+            </div>
+                <div class="row">
+    
+                
+    <div class="col-12 ">
+                                            <div class="row">
+                                
+            
+                                <!-- {
+    "id": "42a59e65-5a4e-486f-a291-bc75d9c6ffa6",
+    "configuration": {
+        "uri": null
+    },
+    "familyName": "placeholder",
+    "typeName": "content_placeholder",
+    "view": null,
+    "hidden": false
+} -->
+            
+    <div class="col-8 ">
+                                    
+                                    
+                                            
+    <!-- src/CbsNews/ArticleBundle/Resources/views/Single/article.desktop.html.twig -->
+<article id="article" class="article "><header><div class="byline">
+                                                               
+                                            <span class="source">AP</span>
+                    <span class="time">February 10, 2016, 4:55 PM</span></div>
+        
+        <h1 class="title" itemprop="headline">India begins massive deworming campaign for millions of children</h1>
+
+		
+    </header><div class="article-image" itemprop="image">
+                <figure class=""><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2016/02/10/a0a4e27f-6cae-4bd6-a648-4c8ba16ec6e1/thumbnail/620x350/938efff54face1ebbe6d2a12d3503afc/ap205191836585.jpg" alt="" height="350" width="620" srcset="http://cbsnews1.cbsistatic.com/hub/i/r/2016/02/10/a0a4e27f-6cae-4bd6-a648-4c8ba16ec6e1/thumbnail/620x350/938efff54face1ebbe6d2a12d3503afc/ap205191836585.jpg 1x, http://cbsnews1.cbsistatic.com/hub/i/r/2016/02/10/a0a4e27f-6cae-4bd6-a648-4c8ba16ec6e1/thumbnail/1240x700/cd293429088573257e1892d656673d8d/ap205191836585.jpg 2x"></span>
+                                        <figcaption><div class="caption">
+                                <p>An Indian schoolchild takes a deworming tablet in Hyderabad, India, Wednesday, Feb. 10, 2016 as part of a massive national deworming campaign to prevent parasitic worms from infecting their bodies and impairing their mental and physical development.</p>
+                            </div>
+                                                                            <div class="credit">
+                                Mahesh Kumar A., AP
+                            </div>
+                                            </figcaption></figure></div>
+            
+        
+
+<div class="social sharebar_expanded inline-sharebar theme-light  location-top" data-component="sharebar">
+
+
+    <ul data-component="socialCounts" data-social-counts-options='{"title":"India begins massive deworming campaign for millions of children","description":"Campaign is targeting 270 million children across the country to prevent parasitic worms from infecting bodies and impairing development","url":"http:\/\/www.cbsnews.com\/news\/india-begins-massive-campaign-for-deworming-millions-of-children","articleId":"fe9f4a34-0e55-4cdf-8b45-6f7e1369999f","liveFyreNetworkName":"cbsnews","liveFyreSiteId":"323201","showZeros":false}'><li class="std-social std-livefyre">
+           <a class="sharebar-livefyre toggle-comments" data-item="trigger" data-counts data-popup="livefyre" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social|Livefyre"}'>
+                <span class="social-icon"></span>
+                <span class="social-count social-count-livefyre"></span>
+                <span class="social-label" data-format-one="Comment" data-format-other="Comments">Comment</span>
+            </a>
+        </li>
+
+                
+        <li class="std-social std-facebook">
+           <a class="sharebar-facebook" data-item="trigger" data-counts data-popup="facebook" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social|Facebook"}'>
+                <span class="social-icon"></span>
+                <span class="social-count social-count-facebook"></span>
+                <span class="social-label" data-format-one="Share" data-format-other="Shares">Share</span>
+            </a>
+        </li>
+
+        <li class="std-social std-twitter">
+           <a class="sharebar-twitter" data-item="trigger" data-counts data-popup="twitter" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social|Twitter"}'>
+                <span class="social-icon"></span>
+                <span class="social-count social-count-twitter"></span>
+                Tweet
+            </a>
+        </li>
+
+        <li class="std-social std-stumble">
+            <a class="sharebar-stumble" data-item="trigger" data-counts data-popup="stumbleupon" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social|StumbleUpon"}'>
+                <span class="social-icon"></span>
+                <span class="social-count social-count-stumbleupon"></span>
+                Stumble
+            </a>
+        </li>
+
+        <li class="std-social last std-email">
+            <span class="emailImage btnImage"></span>
+            <a href="mailto:?subject=Your%20friend%20has%20shared%20a%20CBSNews%20link%20with%20you&amp;body=India%20begins%20massive%20deworming%20campaign%20for%20millions%20of%20children%0Dhttp%3A%2F%2Fwww.cbsnews.com%2Fnews%2Findia-begins-massive-campaign-for-deworming-millions-of-children" title="Email" class="sharebar-email">
+                <span class="social-icon"></span>
+                Email
+            </a>
+        </li>
+    </ul></div>
+    
+
+
+    <div class="entry" itemprop="articleBody" id="article-entry">
+
+        
+        <p><strong>NEW DELHI </strong>-- Millions of Indian children are getting deworming treatment in a massive national campaign to prevent parasitic worms from infecting them and impairing their mental and physical development.</p><p>In a village on the outskirts of the Indian capital, the children washed their hands and lined up to chew the deworming tablets given to them by their teachers and health workers before opening their bags for studies on Wednesday morning.</p><p><figure class="image pull-none image-large "><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2016/02/10/297e5fd7-71df-4c68-9151-2e01f6a0b33c/thumbnail/620x350/5da0f3d8a8e050210dc098ea12a2e592/ap976324575584.jpg" alt="ap976324575584.jpg" height="350" width="620" srcset="http://cbsnews1.cbsistatic.com/hub/i/r/2016/02/10/297e5fd7-71df-4c68-9151-2e01f6a0b33c/thumbnail/620x350/5da0f3d8a8e050210dc098ea12a2e592/ap976324575584.jpg 1x, http://cbsnews1.cbsistatic.com/hub/i/r/2016/02/10/297e5fd7-71df-4c68-9151-2e01f6a0b33c/thumbnail/1240x700/5f653bbd9d77806f1eca45ace5e00381/ap976324575584.jpg 2x"></span><figcaption><div class="caption">A primary class student takes a deworming pill as others wait in a queue at a school in Neemrana, 76.8 miles from New Delhi, in the Indian state of Rajsthan Wednesday, Feb. 10, 2016.</div><div class="credit">
+                                            Manish Swarup, AP
+                                        </div></figcaption></figure></p><p>The campaign is targeting 270 million children across the country for Wednesday's effort and another next week for children missed the first time, the Health Ministry said in a statement.</p><p>Worms interfere with nutrient uptake in children and could lead to anemia, malnourishment and physical and mental impairment. The infection risk is mainly caused by lack of proper toilets, unclean drinking water, poor hygiene and dirty surroundings.</p><p>The World Health Organization estimates that 220 million children between the ages of 1 and 14 are at risk of parasitic worm infection in India.</p><p>On Wednesday, nearly 900,000 teachers, principals and health workers were mobilized in schools and government-sponsored child and mother care centers.</p><p>The deworming initiative, along with measures to address hygiene and sanitation, would  go a long way in improving the health of children as well as that of the country, said By Poonam Khetrapal Singh, the WHO Regional Director for South-East Asia.</p><p><figure class="image pull-none image-large "><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2016/02/10/71fa453b-3b91-42a7-a826-f17267d01b01/thumbnail/620x350/d4946b02a1acc9f0e1c9fdac57527e3a/ap715537308897.jpg" alt="ap715537308897.jpg" height="350" width="620" srcset="http://cbsnews1.cbsistatic.com/hub/i/r/2016/02/10/71fa453b-3b91-42a7-a826-f17267d01b01/thumbnail/620x350/d4946b02a1acc9f0e1c9fdac57527e3a/ap715537308897.jpg 1x, http://cbsnews2.cbsistatic.com/hub/i/r/2016/02/10/71fa453b-3b91-42a7-a826-f17267d01b01/thumbnail/1240x700/9a6b4e0a2e4e82c49451ab1e3519f1d8/ap715537308897.jpg 2x"></span><figcaption><div class="caption">Indian schoolchildren line up to take a deworming tablet in Hyderabad, India, Wednesday, Feb. 10, 2016.</div><div class="credit">
+                                            Mahesh Kumar A., AP
+                                        </div></figcaption></figure></p><p>In a statement, Singh said India's campaign complements WHO's battle against neglected tropical diseases, those on the verge of elimination that continue to be public health challenges.</p><p>Priya Jha, who leads non-governmental organization Evidence Action's work in India, said details of a second dose to the children would be decided soon by the Indian government on the basis of a study carried out in different states.</p><p>She said the campaign went off smoothly with children and their parents eager to participate in it. The tablets were provided by the WHO and the Indian government.</p>
+    </div>
+
+	
+    
+
+            <div class="copyright">
+                                        &copy; 2016 The Associated Press. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed. 
+                    </div>
+    
+    
+
+             	
+
+<div class="social sharebar_expanded inline-sharebar theme-light  location-bottom" data-component="sharebar">
+
+
+    <ul data-component="socialCounts" data-social-counts-options='{"title":"India begins massive deworming campaign for millions of children","description":"Campaign is targeting 270 million children across the country to prevent parasitic worms from infecting bodies and impairing development","url":"http:\/\/www.cbsnews.com\/news\/india-begins-massive-campaign-for-deworming-millions-of-children","articleId":"fe9f4a34-0e55-4cdf-8b45-6f7e1369999f","liveFyreNetworkName":"cbsnews","liveFyreSiteId":"323201","showZeros":false}'><li class="std-social std-livefyre">
+           <a class="sharebar-livefyre toggle-comments" data-item="trigger" data-counts data-popup="livefyre" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social|Livefyre"}'>
+                <span class="social-icon"></span>
+                <span class="social-count social-count-livefyre"></span>
+                <span class="social-label" data-format-one="Comment" data-format-other="Comments">Comment</span>
+            </a>
+        </li>
+
+                
+        <li class="std-social std-facebook">
+           <a class="sharebar-facebook" data-item="trigger" data-counts data-popup="facebook" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social|Facebook"}'>
+                <span class="social-icon"></span>
+                <span class="social-count social-count-facebook"></span>
+                <span class="social-label" data-format-one="Share" data-format-other="Shares">Share</span>
+            </a>
+        </li>
+
+        <li class="std-social std-twitter">
+           <a class="sharebar-twitter" data-item="trigger" data-counts data-popup="twitter" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social|Twitter"}'>
+                <span class="social-icon"></span>
+                <span class="social-count social-count-twitter"></span>
+                Tweet
+            </a>
+        </li>
+
+        <li class="std-social std-stumble">
+            <a class="sharebar-stumble" data-item="trigger" data-counts data-popup="stumbleupon" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Post Page|Social|StumbleUpon"}'>
+                <span class="social-icon"></span>
+                <span class="social-count social-count-stumbleupon"></span>
+                Stumble
+            </a>
+        </li>
+
+        <li class="std-social last std-email">
+            <span class="emailImage btnImage"></span>
+            <a href="mailto:?subject=Your%20friend%20has%20shared%20a%20CBSNews%20link%20with%20you&amp;body=India%20begins%20massive%20deworming%20campaign%20for%20millions%20of%20children%0Dhttp%3A%2F%2Fwww.cbsnews.com%2Fnews%2Findia-begins-massive-campaign-for-deworming-millions-of-children" title="Email" class="sharebar-email">
+                <span class="social-icon"></span>
+                Email
+            </a>
+        </li>
+    </ul></div>
+            
+</article><div class="module module-listing module-bulk " id="module-around-the-web-yahoo-recommended">
+                                                                                               
+    <div class="listing-full-focus-with-label ">
+    <ul class="items"><li>
+
+   <div data-taboola='{"mode":"thumbnails-a","placement":"Below Article Thumbnails"}'></div></li>
+                </ul></div>                                                        </div>
+
+                                                                
+                                    
+                                            
+    
+
+<div id="comments" class="comments  " data-component="comments" data-comments-options='{"deviceType":"desktop","contentType":"content_article"}'>
+    
+    <!--
+        <div class="toggle-comments-container" >
+        <a class="toggle-comments" href="#article">
+            show
+            <span class="expand-article"> story </span>
+            <span class="expand-comments"> <span class="livefyre-commentcount comment-count" 
+        data-lf-site-id='323201'
+        data-lf-article-id='fe9f4a34-0e55-4cdf-8b45-6f7e1369999f'
+                    data-lf-format='fullTextWithoutZero'
+                    >comments</span> </span>
+            +
+        </a>
+        </div>
+
+    	                	
+        <div id="livefyreConversation" data-component="livefyreConversation" data-livefyre-conversation-options='{"globalConfig":{"network":"cbsnews.fyre.co"},"commentStreamConfigs":{"siteId":323201,"articleId":"fe9f4a34-0e55-4cdf-8b45-6f7e1369999f","el":"livefyreConversation","checksum":"e3029548a6d63b36d82708b87f3e8406","disableAvatars":"true","collectionMeta":"eyJ0eXAiOiJqd3QiLCJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6IkluZGlhIGJlZ2lucyBtYXNzaXZlIGRld29ybWluZyBjYW1wYWlnbiBmb3IgbWlsbGlvbnMgb2YgY2hpbGRyZW4iLCJ1cmwiOiJodHRwOlwvXC93d3cuY2JzbmV3cy5jb21cL25ld3NcL2luZGlhLWJlZ2lucy1tYXNzaXZlLWNhbXBhaWduLWZvci1kZXdvcm1pbmctbWlsbGlvbnMtb2YtY2hpbGRyZW5cLyIsImNoZWNrc3VtIjoiZTMwMjk1NDhhNmQ2M2IzNmQ4MjcwOGI4N2YzZTg0MDYiLCJhcnRpY2xlSWQiOiJmZTlmNGEzNC0wZTU1LTRjZGYtOGI0NS02ZjdlMTM2OTk5OWYifQ.LDE1jtmy3nEUA8ASfnCkhgGojhcnOh2iqG2lC8Kn2OY","anonymousFlaggingEnabled":false}}'></div>    -->
+</div>
+
+
+
+                                                                
+                                    
+                                                                        <section class="section module-rem"><div class="row">
+        <div class="col-4">
+            <h2 class="title">Featured in World</h2>
+                                                                                            
+
+<div class="listing-full ">
+    <ul class="media-list items"><li class="">
+    <a href="/news/in-europe-obama-says-merkel-is-on-the-right-side-of-history/">
+        <figure class="media-block img-inset" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Post-REM Block|Article-1-Large Image"}'><span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/24/ddf11a7f-538d-4309-9a80-5411a4d0b337/thumbnail/300x190/da863cdbf6738ecc92845a16b8a05116/2016-04-24t155151z1949775247gf10000393939rtrmadp3-usa-germany-obama.jpg" alt="" height="190" width="300" class=" lazyload" data-srcset="http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/24/ddf11a7f-538d-4309-9a80-5411a4d0b337/thumbnail/300x190/da863cdbf6738ecc92845a16b8a05116/2016-04-24t155151z1949775247gf10000393939rtrmadp3-usa-germany-obama.jpg 1x, http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/24/ddf11a7f-538d-4309-9a80-5411a4d0b337/thumbnail/600x380/eaf8d0c31128c77dc8192484df8d48aa/2016-04-24t155151z1949775247gf10000393939rtrmadp3-usa-germany-obama.jpg 2x" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="></span>
+        </figure><h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Post-REM Block|Article-1-Headline"}'>Obama says Merkel "is on the right side of history"</h3>
+
+        <p class="dek" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Post-REM Block|Article-1-Body"}'>
+Visiting Germany, the American president lavished praise on the German chancellor and defended international trade deals</p>
+            </a>
+</li>
+
+                            
+                                                
+
+
+
+    
+
+<li class="">
+    <a href="/news/molenbeek-and-schaerbeek-brussels-belgium-a-tale-of-two-terror-tragedies/">
+        <figure class="media-block img-inset" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Post-REM Block|Article-2-Large Image"}'><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/11/e2053257-fff1-43c3-bbee-f5726656969d/thumbnail/300x190/590547f5d3f440b2a31c86cebfea5034/screen-shot-2016-04-10-at-8-48-52-pm.png" alt="" height="190" width="300"></span>
+        </figure><h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Post-REM Block|Article-2-Headline"}'>&#8203;Molenbeek and Schaerbeek: A tale of two tragedies</h3>
+
+        <p class="dek" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Post-REM Block|Article-2-Body"}'>
+The Paris and Brussels attacks have two Belgian neighborhoods in common, where a number of systemic problems leave openings for ISIS</p>
+            </a>
+</li>
+
+                </ul></div>        </div>
+
+        <div class="col-4">
+            <h2 class="title">Popular</h2>
+
+            <div data-taboola='{"mode":"alternating-thumbnails-e","placement":"Right Rail Below Article"}'></div>
+        </div>
+    </div>
+</section></div>
+        
+            
+            
+    <div class="col-4 nocontent">
+                                    
+                                    <!-- Component template not found: familyName: editorial typeName: mixed_editorial - view: null -->
+                                            
+                                    
+                                                
+
+                            <div id="mpu-plus-top-57255a2a1e7e8" class="ad-mpu-plus-top" data-ad="mpu-plus-top" style="display:none">
+    <script>
+        window.console && console.log && console.log("ADS: queuing mpu-plus-top-57255a2a1e7e8 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("mpu-plus-top-57255a2a1e7e8");
+    </script></div>
+                                                                                                    
+                                    
+                                            
+
+                            <div id="desktop-native-top-57255a2a1e7e8" class="ad-desktop-native-top" data-ad="desktop-native-top" style="display:none">
+    <script>
+        window.console && console.log && console.log("ADS: queuing desktop-native-top-57255a2a1e7e8 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("desktop-native-top-57255a2a1e7e8");
+    </script></div>
+                                                                    
+                                    
+                                            
+
+
+<div class="module module-listing">
+    <h2 class="module-heading title">Most Popular</h2>
+
+    
+<div class="listing-mini-number ">
+    <ul class="media-list items"><li>
+    <a href="/news/thailand-gang-attacks-uk-family-video/"> 
+        <div class="media-figure">
+            <span class="number" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Rank Indicator-1"}'>01</span>
+        </div>
+    
+        <div class="media-body">
+                            <h4 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Headline-1"}'>Video shows family getting attacked in Thailand</h4>
+            
+                                    <div class="meta-label view-count">
+                <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Pageviews-1"}'>272589</span>
+                <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Pageviews-1"}'>views</span>
+            </div>
+                                </div>
+    </a>
+</li>
+                            
+                                                
+<li>
+    <a href="/news/ex-patriots-defensive-tackle-ron-brace-dies-at-age-29/"> 
+        <div class="media-figure">
+            <span class="number" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Rank Indicator-2"}'>02</span>
+        </div>
+    
+        <div class="media-body">
+                            <h4 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Headline-2"}'>Ex-Patriots defensive tackle Ron Brace dies at age 29</h4>
+            
+                                    <div class="meta-label view-count">
+                <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Pageviews-2"}'>157866</span>
+                <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Pageviews-2"}'>views</span>
+            </div>
+                                </div>
+    </a>
+</li>
+                            
+                                                
+<li>
+    <a href="/news/official-some-200-pot-plants-found-in-executed-ohio-familys-grow-operation/"> 
+        <div class="media-figure">
+            <span class="number" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Rank Indicator-3"}'>03</span>
+        </div>
+    
+        <div class="media-body">
+                            <h4 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Headline-3"}'>Official: Some 200 pot plants found in executed Ohio family's grow op</h4>
+            
+                                    <div class="meta-label view-count">
+                <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Pageviews-3"}'>141613</span>
+                <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Pageviews-3"}'>views</span>
+            </div>
+                                </div>
+    </a>
+</li>
+                            
+                                                
+<li>
+    <a href="/news/warrant-father-in-law-of-mom-in-church-murder-had-bloody-shirt/"> 
+        <div class="media-figure">
+            <span class="number" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Rank Indicator-4"}'>04</span>
+        </div>
+    
+        <div class="media-body">
+                            <h4 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Headline-4"}'>Cops investigate bloody shirt in church murder case</h4>
+            
+                                    <div class="meta-label view-count">
+                <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Pageviews-4"}'>132675</span>
+                <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Pageviews-4"}'>views</span>
+            </div>
+                                </div>
+    </a>
+</li>
+                            
+                                                
+<li>
+    <a href="/news/after-30-years-chernobyl-repair-racing-against-time/"> 
+        <div class="media-figure">
+            <span class="number" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Rank Indicator-5"}'>05</span>
+        </div>
+    
+        <div class="media-body">
+                            <h4 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Headline-5"}'>After 30 years, Chernobyl repair racing against time</h4>
+            
+                                    <div class="meta-label view-count">
+                <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Pageviews-5"}'>132001</span>
+                <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Most Popular|Pageviews-5"}'>views</span>
+            </div>
+                                </div>
+    </a>
+</li>
+                </ul></div></div>                                                                
+                                    
+                                            
+<div class="module module-listing" id="module-right-rail-cbsn-most-popular">
+  <h2 class="module-heading title">Watch CBSN Live</h2>
+  <div class="listing-mini-sub">
+    <ul class="media-list items"><style>
+  #module-right-rail-cbsn-most-popular .img {
+    background-size: cover;
+    width: 60px;
+    height: 60px;
+  }
+</style><li>
+    <a href="http://www.cbsnews.com/live/video/susan-sarandon-clinton-scarier-than-trump/?ftag=CNM15cf32c" target="_top">
+      <figure class="media-figure img-inset-thumb"><span class="img" style="background-image: url(http://images.cbsn.cbsnews.com/previews/NYCNETTVA1_P_NYCINTCR-W-R_41BCD75B-0F9D-44C0-9682722AEDED63F1_171B1E0E-6F7F-4AF1-93132E5D55E81A1E.jpg);">
+          <img src="http://images.cbsn.cbsnews.com/previews/NYCNETTVA1_P_NYCINTCR-W-R_41BCD75B-0F9D-44C0-9682722AEDED63F1_171B1E0E-6F7F-4AF1-93132E5D55E81A1E.jpg" alt="" height="60" width="60"></span>
+      </figure><div class="media-body">
+        <h4 class="title">Susan Sarandon: Clinton Scarier Than Trump</h4>
+      </div>
+    </a>
+  </li>
+
+  <li>
+    <a href="http://www.cbsnews.com/live/video/anderson-cooper-it-would-be-a-dream-to-work-with-kelly/?ftag=CNM15cf32c" target="_top">
+      <figure class="media-figure img-inset-thumb"><span class="img" style="background-image: url(http://images.cbsn.cbsnews.com/previews/NYCNETTVA1_P_NYCINTCR-W-R_41BCD75B-0F9D-44C0-9682722AEDED63F1_8C032546-EDEE-4CF3-A9CC863FDAF00179.jpg);">
+          <img src="http://images.cbsn.cbsnews.com/previews/NYCNETTVA1_P_NYCINTCR-W-R_41BCD75B-0F9D-44C0-9682722AEDED63F1_8C032546-EDEE-4CF3-A9CC863FDAF00179.jpg" alt="" height="60" width="60"></span>
+      </figure><div class="media-body">
+        <h4 class="title">Anderson Cooper: It Would Be A 'Dream' To Work With Kelly</h4>
+      </div>
+    </a>
+  </li>
+
+  <li>
+    <a href="http://www.cbsnews.com/live/video/unbelievable-crash-caught-on-camera-in-china/?ftag=CNM15cf32c" target="_top">
+      <figure class="media-figure img-inset-thumb"><span class="img" style="background-image: url(http://images.cbsn.cbsnews.com/previews/NYCNETTVA1_P_NYCINTCR-W-R_F83E6EB6-9E0D-4DAB-9BBCE7C0005615EF_EF2980E4-781C-47F2-B836E724BE4ABAC7.jpg);">
+          <img src="http://images.cbsn.cbsnews.com/previews/NYCNETTVA1_P_NYCINTCR-W-R_F83E6EB6-9E0D-4DAB-9BBCE7C0005615EF_EF2980E4-781C-47F2-B836E724BE4ABAC7.jpg" alt="" height="60" width="60"></span>
+      </figure><div class="media-body">
+        <h4 class="title">Unbelievable Crash Caught On Camera In China</h4>
+      </div>
+    </a>
+  </li>
+
+  <li>
+    <a href="http://www.cbsnews.com/live/video/former-wrestler-chyna-died-from-drug-overdose/?ftag=CNM15cf32c" target="_top">
+      <figure class="media-figure img-inset-thumb"><span class="img" style="background-image: url(http://images.cbsn.cbsnews.com/previews/NYCNETTVA1_P_NYCINTCR-W-R_D6E94631-6264-4D9E-96E7D3C22C631BDC_1546C7AD-86DD-4C74-9967C99E6848530A.jpg);">
+          <img src="http://images.cbsn.cbsnews.com/previews/NYCNETTVA1_P_NYCINTCR-W-R_D6E94631-6264-4D9E-96E7D3C22C631BDC_1546C7AD-86DD-4C74-9967C99E6848530A.jpg" alt="" height="60" width="60"></span>
+      </figure><div class="media-body">
+        <h4 class="title">Former Wrestler Chyna Died From Drug Overdose</h4>
+      </div>
+    </a>
+  </li>
+
+  <li>
+    <a href="http://www.cbsnews.com/live/video/prince-harry-obamas-trade-trash-talk/?ftag=CNM15cf32c" target="_top">
+      <figure class="media-figure img-inset-thumb"><span class="img" style="background-image: url(http://images.cbsn.cbsnews.com/previews/NYCNETTVA1_P_NYCINTCR-W-R_92C449B4-FD55-4854-A62384278A3FE30C_62E2D17D-9EDC-42A6-90050ECE1FA5E310.jpg);">
+          <img src="http://images.cbsn.cbsnews.com/previews/NYCNETTVA1_P_NYCINTCR-W-R_92C449B4-FD55-4854-A62384278A3FE30C_62E2D17D-9EDC-42A6-90050ECE1FA5E310.jpg" alt="" height="60" width="60"></span>
+      </figure><div class="media-body">
+        <h4 class="title">Prince Harry &amp; Obamas Trade Trash Talk</h4>
+      </div>
+    </a>
+  </li>
+
+
+    </ul></div>
+</div>
+                                                                
+                                    
+                                            
+
+                            <div id="mpu-middle-57255a2a1e7e8" class="ad-mpu-middle" data-ad="mpu-middle" style="display:none">
+    <script>
+        window.console && console.log && console.log("ADS: queuing mpu-middle-57255a2a1e7e8 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("mpu-middle-57255a2a1e7e8");
+    </script></div>
+                                                                    
+                                    
+                                            
+            
+<div class="listing-media-feature" data-component="carousel" data-carousel-options='{"autoplayDelay":0,"transitionDuration":0}'>
+    <div class="viewport" data-item="viewport">
+        <ul class="canvas" data-item="canvas"><li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/videos/protesters-try-to-block-donald-trumps-entrance-at-california-gop-convention/" title="Protesters try to block Trump's entrance at Calif. GOP convention">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Image-1"}'><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/30/05f77d0b-e7c0-44eb-85c9-521a1b645896/thumbnail/300x190/ba450bf55a82d4345dc76e53bb736371/satmogopbattle04301056699640x360.jpg" alt="" height="190" width="300" class=" lazyload" data-srcset="http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/30/05f77d0b-e7c0-44eb-85c9-521a1b645896/thumbnail/300x190/ba450bf55a82d4345dc76e53bb736371/satmogopbattle04301056699640x360.jpg 1x, http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/30/05f77d0b-e7c0-44eb-85c9-521a1b645896/thumbnail/600x380/e8499b16e281ebee5d31796471b336c7/satmogopbattle04301056699640x360.jpg 2x" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="></span>
+
+            <div class="meta-overlay overlay-video-feature">
+                <span class="asset-icon video" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Button-1"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-1"}'>Play</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-1"}'>Video</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Headline-1"}'>Protesters try to block Trump's entrance at Calif. GOP convention</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                            
+                                                
+
+<li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/videos/is-contested-gop-convention-still-a-possibility/" title="Is contested GOP convention still a possibility?">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Image-2"}'><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/30/95ef5642-d40b-47e7-b7c8-bd7efb031ad6/thumbnail/300x190/31c85b8db8314c723dd777c3c43762fe/satmopoliticschat04301056705640x360.jpg" alt="" height="190" width="300" class=" lazyload" data-srcset="http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/30/95ef5642-d40b-47e7-b7c8-bd7efb031ad6/thumbnail/300x190/31c85b8db8314c723dd777c3c43762fe/satmopoliticschat04301056705640x360.jpg 1x, http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/30/95ef5642-d40b-47e7-b7c8-bd7efb031ad6/thumbnail/600x380/dafc37035f3eb8d525f58b5921267f18/satmopoliticschat04301056705640x360.jpg 2x" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="></span>
+
+            <div class="meta-overlay overlay-video-feature">
+                <span class="asset-icon video" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Button-2"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-2"}'>Play</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-2"}'>Video</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Headline-2"}'>Is contested GOP convention still a possibility?</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                            
+                                                
+
+<li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/videos/despite-latest-syria-cease-fire-fighting-continues-in-aleppo/" title="Despite latest Syria cease-fire, fighting continues in Aleppo">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Image-3"}'><span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/30/a012b5d0-213b-462a-bbd2-672d9227b95c/thumbnail/300x190/373b1f56bf6616e118ae34ae3a204f98/satmosyria04301056707640x360.jpg" alt="" height="190" width="300" class=" lazyload" data-srcset="http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/30/a012b5d0-213b-462a-bbd2-672d9227b95c/thumbnail/300x190/373b1f56bf6616e118ae34ae3a204f98/satmosyria04301056707640x360.jpg 1x, http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/30/a012b5d0-213b-462a-bbd2-672d9227b95c/thumbnail/600x380/e5025ef4e989894fea28c3db621ab9aa/satmosyria04301056707640x360.jpg 2x" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="></span>
+
+            <div class="meta-overlay overlay-video-feature">
+                <span class="asset-icon video" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Button-3"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-3"}'>Play</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-3"}'>Video</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Headline-3"}'>Despite latest Syria cease-fire, fighting continues in Aleppo</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                            
+                                                
+
+<li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/videos/john-kasich-says-people-are-probably-born-gay/" title='John Kasich says people are "probably" born gay'>
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Image-4"}'><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/30/d1b436ec-c3b8-44e1-8e71-e21187309b38/thumbnail/300x190/d0e9a31745f28545b302466a9eba6f2b/satmokasich04301056712640x360.jpg" alt="" height="190" width="300" class=" lazyload" data-srcset="http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/30/d1b436ec-c3b8-44e1-8e71-e21187309b38/thumbnail/300x190/d0e9a31745f28545b302466a9eba6f2b/satmokasich04301056712640x360.jpg 1x, http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/30/d1b436ec-c3b8-44e1-8e71-e21187309b38/thumbnail/600x380/3b1e7db1c61ffa84e0aecf2b7ed78706/satmokasich04301056712640x360.jpg 2x" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="></span>
+
+            <div class="meta-overlay overlay-video-feature">
+                <span class="asset-icon video" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Button-4"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-4"}'>Play</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-4"}'>Video</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Headline-4"}'>John Kasich says people are "probably" born gay</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                            
+                                                
+
+<li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/videos/will-ferrell-drops-out-of-reagan-film/" title='Will Ferrell drops out of "Reagan" film'>
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Image-5"}'><span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/30/0717d352-5455-49ff-a497-032902a0b4c3/thumbnail/300x190/d770b29d4774845ba56422d861a8fd0b/satmoferrellreagan04301056716640x360.jpg" alt="" height="190" width="300" class=" lazyload" data-srcset="http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/30/0717d352-5455-49ff-a497-032902a0b4c3/thumbnail/300x190/d770b29d4774845ba56422d861a8fd0b/satmoferrellreagan04301056716640x360.jpg 1x, http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/30/0717d352-5455-49ff-a497-032902a0b4c3/thumbnail/600x380/884c9aa5cfe14596857fb2e12e107fe9/satmoferrellreagan04301056716640x360.jpg 2x" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="></span>
+
+            <div class="meta-overlay overlay-video-feature">
+                <span class="asset-icon video" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Button-5"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-5"}'>Play</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Play-5"}'>Video</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Video Promo|Asset|Headline-5"}'>Will Ferrell drops out of "Reagan" film</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                    </ul><div class="paging">
+            <a class="prev" data-to="prev" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Right Rail|Media Promo|Carousel|Left-7"}'>Previous</a>
+            
+            <a class="next" data-to="next" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Right Rail|Media Promo|Carousel|Right-7"}'>Next</a>
+        </div>
+    </div>
+</div>    
+                                                                
+                                    
+                                            
+            
+<div class="listing-media-feature" data-component="carousel" data-carousel-options='{"autoplayDelay":0,"transitionDuration":0}'>
+    <div class="viewport" data-item="viewport">
+        <ul class="canvas" data-item="canvas"><li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/pictures/pictures-of-the-week-april-23-29-2016/" title="Photos of the week">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Thumbnail-1"}'><span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/30/c7a354c5-e903-4a0b-b133-c4bc16bf5c73/thumbnail/300x190/25777c18bb089c197817f6310b0bb98f/rtx2bp51.jpg" alt="" height="190" width="300" class=" lazyload" data-srcset="http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/30/c7a354c5-e903-4a0b-b133-c4bc16bf5c73/thumbnail/300x190/25777c18bb089c197817f6310b0bb98f/rtx2bp51.jpg 1x, http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/30/c7a354c5-e903-4a0b-b133-c4bc16bf5c73/thumbnail/600x380/1b32c51d6859474e18893630bbc7fdbd/rtx2bp51.jpg 2x" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="></span>
+
+            <div class="meta-overlay ">
+                <span class="asset-icon gallery" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Button-1"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Count-1"}'>36</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Count-1"}'>Photos</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Headline-1"}'>Photos of the week</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                            
+                                                
+
+<li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/pictures/military-photographer-of-the-year-contest-2015/" title="2015 Military Photographer of the Year winners">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Thumbnail-2"}'><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/28/d00cee0e-dfe5-4d5d-bb20-a7251503102d/thumbnail/300x190/e125baf1f793fe6d45047c55d03a88b0/hon-mention-in-the-combat-training-category-pull-by-sgt-matthew-callahan-usmc25919254684o.jpg" alt="" height="190" width="300" class=" lazyload" data-srcset="http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/28/d00cee0e-dfe5-4d5d-bb20-a7251503102d/thumbnail/300x190/e125baf1f793fe6d45047c55d03a88b0/hon-mention-in-the-combat-training-category-pull-by-sgt-matthew-callahan-usmc25919254684o.jpg 1x, http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/28/d00cee0e-dfe5-4d5d-bb20-a7251503102d/thumbnail/600x380/6e445a94d834718e86e3a9e0066cd9b3/hon-mention-in-the-combat-training-category-pull-by-sgt-matthew-callahan-usmc25919254684o.jpg 2x" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="></span>
+
+            <div class="meta-overlay ">
+                <span class="asset-icon gallery" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Button-2"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Count-2"}'>35</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Count-2"}'>Photos</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Headline-2"}'>2015 Military Photographer of the Year winners</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                            
+                                                
+
+<li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/pictures/syria-civil-war-destruction/" title="War in Syria">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Thumbnail-3"}'><span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/29/e70d5779-e13f-41c9-ba67-fb6e70d6202b/thumbnail/300x190/f9dc150c1d683b50792a7f1712083520/rtx2c2gm.jpg" alt="" height="190" width="300" class=" lazyload" data-srcset="http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/29/e70d5779-e13f-41c9-ba67-fb6e70d6202b/thumbnail/300x190/f9dc150c1d683b50792a7f1712083520/rtx2c2gm.jpg 1x, http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/29/e70d5779-e13f-41c9-ba67-fb6e70d6202b/thumbnail/600x380/318b199e4ecf282f6b5ca6ab0e4edebf/rtx2c2gm.jpg 2x" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="></span>
+
+            <div class="meta-overlay ">
+                <span class="asset-icon gallery" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Button-3"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Count-3"}'>20</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Count-3"}'>Photos</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Headline-3"}'>War in Syria</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                            
+                                                
+
+<li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/pictures/2016-share-the-experience-photo-contest-winners-department-of-interior/" title='2016 "Share the Experience" photo contests winners'>
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Thumbnail-4"}'><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/28/003b3e5f-062d-42d7-817b-dc090c24978a/thumbnail/300x190/6152697f1068569fc6657615734565ac/grand-prize23037977yang-luglen-canyon-nra.jpg" alt="" height="190" width="300" class=" lazyload" data-srcset="http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/28/003b3e5f-062d-42d7-817b-dc090c24978a/thumbnail/300x190/6152697f1068569fc6657615734565ac/grand-prize23037977yang-luglen-canyon-nra.jpg 1x, http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/28/003b3e5f-062d-42d7-817b-dc090c24978a/thumbnail/600x380/b1eb7f0519a923accfda2bff995c4e10/grand-prize23037977yang-luglen-canyon-nra.jpg 2x" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="></span>
+
+            <div class="meta-overlay ">
+                <span class="asset-icon gallery" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Button-4"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Count-4"}'>20</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Count-4"}'>Photos</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Headline-4"}'>2016 "Share the Experience" photo contests winners</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                            
+                                                
+
+<li data-item="slide">
+    
+
+
+
+
+
+    
+<div class="media-feature">
+		<a href="/pictures/nuclear-disaster-chernobyl-exclusion-zone-where-time-stands-still/" title="Chernobyl: Where time stands still">
+        <figure class="media-figure img-inset-thumb" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Thumbnail-5"}'><span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/25/f4dc91e0-49cf-4661-ab05-c89f28d83542/thumbnail/300x190/23c1cd092933f6f212c2012eaef077c9/rtr2ktcb.jpg" alt="" height="190" width="300" class=" lazyload" data-srcset="http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/25/f4dc91e0-49cf-4661-ab05-c89f28d83542/thumbnail/300x190/23c1cd092933f6f212c2012eaef077c9/rtr2ktcb.jpg 1x, http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/25/f4dc91e0-49cf-4661-ab05-c89f28d83542/thumbnail/600x380/009f5c0f7fd1a699c286b951de69c1d4/rtr2ktcb.jpg 2x" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="></span>
+
+            <div class="meta-overlay ">
+                <span class="asset-icon gallery" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Button-5"}'></span>
+                <div class="meta-label">
+                                            <span class="sub" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Count-5"}'>21</span>
+                        <span class="feature" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Count-5"}'>Photos</span>
+                                    </div>
+
+                <h3 class="title" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Right Rail|Gallery Promo|Asset|Headline-5"}'>Chernobyl: Where time stands still</h3>
+            </div>
+        </figure></a>
+</div>
+</li>                    </ul><div class="paging">
+            <a class="prev" data-to="prev" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Right Rail|Media Promo|Carousel|Left-8"}'>Previous</a>
+            
+            <a class="next" data-to="next" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Right Rail|Media Promo|Carousel|Right-8"}'>Next</a>
+        </div>
+    </div>
+</div>    
+                                                                
+                                    
+                                            
+
+                            <div id="resource-center-top-57255a2a1e7e8" class="ad-resource-center-top" data-ad="resource-center-top" style="display:none">
+    <script>
+        window.console && console.log && console.log("ADS: queuing resource-center-top-57255a2a1e7e8 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("resource-center-top-57255a2a1e7e8");
+    </script></div>
+                                                                    
+                                    
+                                            
+
+
+<div class="module module-listing" id="module-right-rail-most-discussed">
+    <h2 class="module-heading title">Most Discussed</h2>
+
+    
+<div class="listing-mini-sub ">
+    <ul class="media-list items"><li>
+          <a href="/news/donald-trump-gop-unity-california-intense-backlash-election-2016/">
+            <figure class="media-figure img-inset-thumb"><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/30/b9ac0a59-83fd-404a-a36b-3d18f10b9ab4/thumbnail/60x60/301721c7c236975fad770f942f143789/donald-trump-526116260.jpg" alt="" height="60" width="60" class=" lazyload" data-srcset="http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/30/b9ac0a59-83fd-404a-a36b-3d18f10b9ab4/thumbnail/60x60/301721c7c236975fad770f942f143789/donald-trump-526116260.jpg 1x, http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/30/b9ac0a59-83fd-404a-a36b-3d18f10b9ab4/thumbnail/120x120/ff2b48b246c09fd12e74734f03ae4a22/donald-trump-526116260.jpg 2x" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="></span>
+        </figure><div class="media-body">
+            <h4 class="title">Trump calls for GOP unity in face of intense backlash
+            </h4>
+                            <div class="meta-label comment-count">
+                    <span class="livefyre-commentcount " data-lf-site-id="323201" data-lf-article-id="c7e2094c-f8b1-402a-a888-43cea1f085a1" data-lf-format="numberCommentsNotZero" data-lf-minimum="10"></span>
+                </div>
+                    </div>
+    </a>
+</li>
+
+                            
+                                                
+
+
+                     
+<li>
+          <a href="/news/donald-trump-i-havent-recovered-from-hillary-clinton-shouting/">
+            <figure class="media-figure img-inset-thumb"><span class="img "><img src="http://cbsnews2.cbsistatic.com/hub/i/r/2015/09/24/52b88698-77eb-4928-b609-8fece42759ff/thumbnail/60x60/1416f3b6e697c83e970df2299b5a8e70/screen-shot-2015-09-24-at-3-09-18-pm.png" alt="" height="60" width="60"></span>
+        </figure><div class="media-body">
+            <h4 class="title">Trump slams Clinton again with "woman's card"
+            </h4>
+                            <div class="meta-label comment-count">
+                    <span class="livefyre-commentcount " data-lf-site-id="323201" data-lf-article-id="8202e3c4-dfa4-489a-850d-c1c37f6b389c" data-lf-format="numberCommentsNotZero" data-lf-minimum="10"></span>
+                </div>
+                    </div>
+    </a>
+</li>
+
+                            
+                                                
+
+
+                     
+<li>
+          <a href="/news/yes-trump-can-beat-hillary-clinton/">
+            <figure class="media-figure img-inset-thumb"><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/20/a620acc2-0e59-497e-ab3e-ed0a9f61cdf3/thumbnail/60x60/21350d3a876d88da0b8d4257d4e5e628/2016-04-16t002920z1857744322gf10000384073rtrmadp3usa-election-trump.jpg" alt="" height="60" width="60" class=" lazyload" data-srcset="http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/20/a620acc2-0e59-497e-ab3e-ed0a9f61cdf3/thumbnail/60x60/21350d3a876d88da0b8d4257d4e5e628/2016-04-16t002920z1857744322gf10000384073rtrmadp3usa-election-trump.jpg 1x, http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/20/a620acc2-0e59-497e-ab3e-ed0a9f61cdf3/thumbnail/120x120/5a15d11b31c41ed7c3dff42b1109efbb/2016-04-16t002920z1857744322gf10000384073rtrmadp3usa-election-trump.jpg 2x" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="></span>
+        </figure><div class="media-body">
+            <h4 class="title">Commentary: Yes, Trump can beat Clinton
+            </h4>
+                            <div class="meta-label comment-count">
+                    <span class="livefyre-commentcount " data-lf-site-id="323201" data-lf-article-id="d38f17f3-fb0c-4912-87bb-510b4949eea5" data-lf-format="numberCommentsNotZero" data-lf-minimum="10"></span>
+                </div>
+                    </div>
+    </a>
+</li>
+
+                            
+                                                
+
+
+                     
+<li>
+          <a href="/news/protests-and-unrest-outside-donald-trump-rally-in-southern-california/">
+            <figure class="media-figure img-inset-thumb"><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/29/caf01c88-2aef-40d5-aee7-58ce710f5a7c/thumbnail/60x60/9dd8d145c818049fa89e87f120f06ee3/rtx2c4q8.jpg" alt="" height="60" width="60" class=" lazyload" data-srcset="http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/29/caf01c88-2aef-40d5-aee7-58ce710f5a7c/thumbnail/60x60/9dd8d145c818049fa89e87f120f06ee3/rtx2c4q8.jpg 1x, http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/29/caf01c88-2aef-40d5-aee7-58ce710f5a7c/thumbnail/120x120/6442768e3e0a6f79a2d88ab1001c6e61/rtx2c4q8.jpg 2x" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="></span>
+        </figure><div class="media-body">
+            <h4 class="title">Protests, unrest outside Trump rally in Southern California
+            </h4>
+                            <div class="meta-label comment-count">
+                    <span class="livefyre-commentcount " data-lf-site-id="323201" data-lf-article-id="e6285ba0-7a15-45ba-8fa8-0d6fb87adf80" data-lf-format="numberCommentsNotZero" data-lf-minimum="10"></span>
+                </div>
+                    </div>
+    </a>
+</li>
+
+                            
+                                                
+
+
+                     
+<li>
+          <a href="/news/trump-attacks-kasich-and-cruzs-new-alliance/">
+            <figure class="media-figure img-inset-thumb"><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/24/ff381118-0169-4e39-8980-f6cfee085797/thumbnail/60x60/ef38954a56bd4918850fbe063bbb9b4b/cbsntrumpelection0424509895640x360.jpg" alt="" height="60" width="60" class=" lazyload" data-srcset="http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/24/ff381118-0169-4e39-8980-f6cfee085797/thumbnail/60x60/ef38954a56bd4918850fbe063bbb9b4b/cbsntrumpelection0424509895640x360.jpg 1x, http://cbsnews2.cbsistatic.com/hub/i/r/2016/04/24/ff381118-0169-4e39-8980-f6cfee085797/thumbnail/120x120/cdab020363b245364cdfd0ff7e7c3821/cbsntrumpelection0424509895640x360.jpg 2x" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEAAAAALAAAAAABAAEAAAI="></span>
+        </figure><div class="media-body">
+            <h4 class="title">Trump attacks new cooperation between Cruz and Kasich
+            </h4>
+                            <div class="meta-label comment-count">
+                    <span class="livefyre-commentcount " data-lf-site-id="323201" data-lf-article-id="a5f4af2c-50bb-405c-959b-f93cedc13d4c" data-lf-format="numberCommentsNotZero" data-lf-minimum="10"></span>
+                </div>
+                    </div>
+    </a>
+</li>
+
+                        </ul></div></div>
+
+
+                                                                
+                                    
+                                            
+
+                            <div id="mpu-bottom-57255a2a1e7e8" class="ad-mpu-bottom" data-ad="mpu-bottom" style="display:none">
+    <script>
+        window.console && console.log && console.log("ADS: queuing mpu-bottom-57255a2a1e7e8 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("mpu-bottom-57255a2a1e7e8");
+    </script></div>
+                                                                    
+                                    
+                                            
+
+
+
+    
+    
+<div class="module module-mobile-apps download-app">
+        <h2 class="module-heading title"><span class="span-title">New Android App</span></h2>
+        <a href="https://play.google.com/store/apps/details?id=com.treemolabs.apps.cbsnews">
+        <figure><span class="img "><img src="http://cbsnews1.cbsistatic.com/hub/i/2015/04/03/63a01718-2c93-474a-9c82-1f32cff03558/a7384b9647c3862bb65c33524247d7ba/promocbsn-android.jpg" alt="" srcset="http://cbsnews1.cbsistatic.com/hub/i/2015/04/03/63a01718-2c93-474a-9c82-1f32cff03558/a7384b9647c3862bb65c33524247d7ba/promocbsn-android.jpg 1x"></span>
+                    </figure></a>
+    <div class="promo-feature">
+                <p class="dek">For your Android phone and tablet, download the FREE redesigned app, featuring CBSN, live 24/7 news.</p>
+        <a href="https://play.google.com/store/apps/details?id=com.treemolabs.apps.cbsnews" class="btn-rounded">Download</a>
+    </div>
+</div>
+                                                                    </div>
+                                </div>
+                        </div>
+            </div>
+        </div>
+</div>
+
+            <div id="leader-bottom-57255a2a1e7e8" class="ad-leader-bottom" data-ad="leader-bottom" style="display:none">
+    <script>
+        window.console && console.log && console.log("ADS: queuing leader-bottom-57255a2a1e7e8 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("leader-bottom-57255a2a1e7e8");
+    </script></div>
+
+        </div>
+
+    
+        
+            
+
+<footer class="site-footer content-inverse nocontent"><div class="container">
+                        <div class="row">
+            <div class="col-2 link-block">
+                <h5 class="title">CBSNews.com</h5>
+
+                <ul class="items"><li><a href="/sitemap/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site footer|Site Map"}'>Site Map</a></li>
+                    <li><a href="https://cbsi.secure.force.com/CBSi/knowledgehome2?categories=CBS_Interactive:CBSNews&amp;referer=cbsnews.com/main" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Help"}'>Help</a></li>
+                                        <li><a href="http://audienceservices.cbs.com/feedback/feedback.htm" rel="nofollow" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Contact Us"}'>Contact Us</a></li>
+
+                    <li><a href="/team/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Footer|CBS Bios"}' data-vanity-rewritten="true">CBS Bios</a></li>
+                    <li><a href="https://cbs.avature.net/cbsnewscareers" data-omniture-track-data='{"clickProperty": "Site Footer|Careers"}'>Careers</a></li>
+                    <li><a href="/news/cbs-news-internship-program/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Footer|Internships"}'>Internships</a></li>
+                    <li><a href="/news/cbs-news-associates-program/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Footer|Development Programs"}'>Development Programs</a></li>
+                </ul></div>
+
+            <div class="col-2 link-block">
+                <h5 class="title">CBS Interactive</h5>
+
+                <ul class="items"><li><a href="http://legalterms.cbsinteractive.com/privacy" rel="nofollow" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Privacy Policy"}'>Privacy Policy</a></li>
+                    <li><a href="http://legalterms.cbsinteractive.com/adchoice" rel="nofollow" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Ad Choice"}'>Ad Choice</a></li>
+                    <li><a href="http://legalterms.cbsinteractive.com/terms-of-use" rel="nofollow" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Terms of Use"}'>Terms of Use</a></li>
+                    <li><a href="http://legalterms.cbsinteractive.com/eula" rel="nofollow" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Mobile User Agreement"}'>Mobile User Agreement</a></li>
+                    <li><a href="http://www.cbscorporation.com/" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|About CBS"}'>About CBS</a></li>
+                    <li><a href="http://www.cbsinteractive.com/advertise/" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Advertise"}'>Advertise</a></li>
+                    <li><a href="http://cbsimedia.cbs.com/captioning/info.html" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Closed Captioning"}'>Closed Captioning</a></li>
+                    <li><a href="http://www.cbsstore.com/cbs-news-store-home/index.php?v=cbs-news&amp;ecid=PRF-CBS-300538&amp;pa=PRF-CBS-300538" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|CBS News Store"}'>CBS News Store</a></li>
+                </ul></div>
+
+            <div class="col-2 link-block">
+                <h5 class="title">Follow Us</h5>
+
+                <ul class="items"><li><a href="https://www.facebook.com/CBSNews" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Facebook"}'>Facebook</a></li>
+                    <li><a href="http://twitter.com/CBSNews" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|Twitter"}'>Twitter</a></li>
+                    <li><a href="http://www.cbsnews.com/rss/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site footer|RSS"}'>RSS</a></li>
+                    <li><a href="/newsletters/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site footer|Email Newsletters"}'>Email Newsletters</a></li>
+                    <li><a href="http://www.youtube.com/user/CBSNewsOnline" data-omniture-track="moduleClickCbsNews" data-omniture-track-data='{"moduleInfo": "Site footer|YouTube"}'>YouTube</a></li>
+                    <li><a href="/radio/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site footer|CBS Radio News"}'>CBS Radio News</a></li>
+                    <li><a href="/local/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site footer|CBS Local"}'>CBS Local</a></li>
+                </ul></div>
+
+            <div class="col-4 push-2">
+                <div class="site-brand">
+                    <div class="logo core-logo"><a href="/" data-click-tracking="genericClickCbsNews" data-omniture-track-data='{"clickProperty": "Site Footer-Branding"}'>CBS News</a></div>
+
+                    <p class="copyright">Copyright &copy; 2016 CBS Interactive Inc.<br>All rights reserved.</p>
+                </div>
+
+                <form class="site-search" action="/search/" method="get" data-component="search" data-search-options='{"path":"\/search\/","param":"q"}'>
+                    <input type="search" class="query" maxlength="255" name="q" placeholder="Search..."><button type="submit" class="submit core-search-footer">Search</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</footer></div> 
+
+            </body></html>

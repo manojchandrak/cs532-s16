@@ -1,0 +1,815 @@
+
+<!DOCTYPE html>
+<html lang="ja" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+<meta charset="utf-8">
+<title>対艦用二重貫通弾頭と対地用EFPクラスター弾頭の開発を行う日本防衛省(JSF) - 個人 - Yahoo!ニュース</title>
+<meta name="description" content="防衛省の開発する対艦ミサイル用新型貫通弾頭はブローチ式の二重弾頭、対地クラスター弾頭は自己鍛造弾（EFP）。88式地対艦ミサイルの換装用と思われます。">
+<meta name="keywords" content="JSF,ジェイエスエフ,軍事ブロガー,国際,国際総合">
+
+<meta name="format-detection" content="telephone=no">
+
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9">
+<meta name="google-site-verification" content="OB_mNyMUT7T3agM2P2BEVsGXAvPIpLXi5nUSd3WvYiw" />
+
+<!-- ogp  -->
+<meta property="og:site_name" content="Yahoo!ニュース 個人"/>
+<meta property="og:title" content="対艦用二重貫通弾頭と対地用EFPクラスター弾頭の開発を行う日本防衛省（JSF） - Yahoo!ニュース" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:description" content="防衛省の開発する対艦ミサイル用新型貫通弾頭はブローチ式の二重弾頭、対地クラスター弾頭は自己鍛造弾（EFP）。88式地対艦ミサイルの換装用と思われます。" />
+<meta property="og:url" content="http://bylines.news.yahoo.co.jp/obiekt/20140916-00039151/" />
+<meta property="og:image" content="http://rpr.c.yimg.jp/amd/20140916-00039151-roupeiro-000-5-view.png" />
+<meta property="fb:app_id" content="276725822409153"/> 
+<!-- /ogp  -->
+
+<!-- twitter -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="対艦用二重貫通弾頭と対地用EFPクラスター弾頭の開発を行う日本防衛省（JSF） - Yahoo!ニュース" />
+<meta name="twitter:description" content="防衛省の開発する対艦ミサイル用新型貫通弾頭はブローチ式の二重弾頭、対地クラスター弾頭は自己鍛造弾（EFP）。88式地対艦ミサイルの換装用と思われます。" />
+<meta name="twitter:site" content="@obiekt_JP" />
+<meta name="twitter:creator" content="@obiekt_JP" />
+<meta name="twitter:app:id:iphone" content="407906756" />
+<meta name="twitter:app:name:iphone" content="Yahoo!ニュース" />
+<meta name="twitter:app:url:iphone" content="yjtrend://d/byl/20140916-00039151/" />
+<meta name="twitter:app:id:googleplay" content="jp.co.yahoo.android.news" />
+<meta name="twitter:app:name:googleplay" content="Yahoo!ニュース" />
+<meta name="twitter:app:url:googleplay" content="yjnews://d/byl/20140916-00039151/" />
+<meta name="twitter:app:country" content="jp" />
+<meta property="al:ios:app_name" content="Yahoo!ニュース" />
+<meta property="al:ios:app_store_id" content="407906756" />
+<meta property="al:ios:url" content="yjtrend://d/byl/20140916-00039151/" />
+<meta property="al:android:app_name" content="Yahoo!ニュース" />
+<meta property="al:android:package" content="jp.co.yahoo.android.news" />
+<meta property="al:android:url" content="yjnews://d/byl/20140916-00039151/" />
+<!-- /twitter -->
+
+
+<link rel="canonical" href="http://bylines.news.yahoo.co.jp/obiekt/20140916-00039151/" />
+<link rel="apple-touch-icon" href="http://i.yimg.jp/images/ipn/wcb/news129.png">
+
+<!-- common CSS -->
+<link rel="stylesheet" href="http://i.yimg.jp/images/jpnews/cre/bylines/css/main_pc_v1.css?v=15" media="all">
+<!-- /common CSS -->
+
+<!-- list CSS -->
+<!-- /list CSS -->
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="http://i.yimg.jp/images/jpnews/cre/bylines/css/main_ie_v1.css?v=15" media="all">
+<script type="text/javascript" src="http://i.yimg.jp/images/news/bylines/v201303/main/js/html5.js"></script>
+<![endif]-->
+
+<!-- js -->
+<script type="text/javascript" src="http://i.yimg.jp/images/jpnews/js/libs/jquery/1.11.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://i.yimg.jp/l/cmn/twitter-widgets/widgets.js" charsest="utf-8"></script>
+<script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async></script>
+<script src="http://i.yimg.jp/images/rapid/1.5.0/ult.js"></script>
+<script type="text/javascript" src="http://i.yimg.jp/images/jpnews/cre/bylines/js/common_v1.js?v=15" charset="utf-8"></script>
+<!-- /js -->
+
+<!--記事詳細-->
+<script type="text/javascript" src="http://i.yimg.jp/images/ycd/lib/ycdloader/2.5.0/ycdloader.min.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://i.yimg.jp/images/jpnews/cre/common/all/plugin/themesticker/js/themesticker-1.0.1.min.js"></script>
+<script type="text/javascript" src="http://i.yimg.jp/images/jpnews/cre/bylines/js/rapid_v1.js?v=15" charset="utf-8"></script>
+<!--/記事詳細-->
+
+<!-- rss -->
+<link rel="alternate" type="application/rss+xml" title="JSF - 個人 - Yahoo!ニュース" href="http://bylines.news.yahoo.co.jp/rss/obiekt.xml" />
+<!-- /rss -->
+</head>
+<body>
+
+<!-- fb module -->
+<!-- /fb module -->
+
+<div id="wrapper">
+
+<div id="header">
+
+<!-- mh -->
+<!-- SpaceID=0 robot -->
+<!-- SpaceID=0 robot -->
+<!-- /mh -->
+
+<!-- emg -->
+<!-- SpaceID=0 robot -->
+<!-- SpaceID=0 robot -->
+<!-- SpaceID=0 robot -->
+<!-- emg -->
+
+</div><!-- /#header -->
+<div id="contents">
+
+<!-- grobal nav -->
+<div id="contentsHeader">
+<div class="headerSearch">
+<form id="searchWrapper" action="http://news.search.yahoo.co.jp/search" method="get">
+<div id="inputWrapper">
+<input id="searchText" type="text" name="p" placeholder="キーワードを入力">
+</div><!-- /inputWrapper -->
+<span id="inputInner">
+<input type="hidden" name="ei" value="utf-8">
+<input type="hidden" name="fr" value="news_sw">
+</span>
+<span id="searchButton">
+<input class="searchBtn" type="submit" value="検索">
+</span>
+<div id="currentSearch">ニュース</div>
+<ul id="searchSelect">
+<li id="searchNews" class="cur">ニュース</li>
+<li id="searchTopics">トピックス</li>
+<li id="searchTheme">テーマ</li>
+<li id="searchSurvey">意識調査</li>
+<li id="searchGSR">全国紙パック</li>
+</ul>
+</form>
+<p id="advanced"><a href="http://news.search.yahoo.co.jp/advanced">条件指定</a></p>
+
+<ul class="personalInfo">
+<li class="myPage">
+<!-- 未ログイン -->
+<a href="http://person.news.yahoo.co.jp/u/login">
+<span class="myThumb"><img src="http://i.yimg.jp/images/bloom/v201212/anonymous_24.png" width="24" height="24"></span>
+</a>
+<a href="http://person.news.yahoo.co.jp/u/login">
+<span class="myName">ユーザーページ</span>
+</a>
+</li>
+<li class="purchase">
+<a onTouchEnd="this.href='http://bylines.news.yahoo.co.jp/purchase/'" onMouseDown="this.href='http://bylines.news.yahoo.co.jp/purchase/'" href="http://bylines.news.yahoo.co.jp/purchase/">購読一覧</a></li>
+<li class="setting">
+<a class="last" onTouchEnd="this.href='http://person.news.yahoo.co.jp/settings/profile/'" onMouseDown="this.href='http://person.news.yahoo.co.jp/settings/profile/'" href="http://person.news.yahoo.co.jp/settings/profile/">設定</a></li>
+</ul>
+</div><!-- /headerSearch -->
+
+<div id="globalNav">
+<ul id="gnPri">
+<li><a onTouchEnd="this.href='http://news.yahoo.co.jp/'" onMouseDown="this.href='http://news.yahoo.co.jp/'" href="http://news.yahoo.co.jp/">トップ</a></li><!--
+--><li><a onTouchEnd="this.href='http://news.yahoo.co.jp/flash'" onMouseDown="this.href='http://news.yahoo.co.jp/flash'" href="http://news.yahoo.co.jp/flash">速報</a></li><!--
+--><li><a onTouchEnd="this.href='http://news.yahoo.co.jp/photo'" onMouseDown="this.href='http://news.yahoo.co.jp/photo'" href="http://news.yahoo.co.jp/photo">写真</a></li><!--
+--><li><a onTouchEnd="this.href='http://headlines.yahoo.co.jp/videonews/'" onMouseDown="this.href='http://headlines.yahoo.co.jp/videonews/'" href="http://headlines.yahoo.co.jp/videonews/">映像</a></li><!--
+--><li><a onTouchEnd="this.href='http://news.yahoo.co.jp/zasshi'" onMouseDown="this.href='http://news.yahoo.co.jp/zasshi'" href="http://news.yahoo.co.jp/zasshi">雑誌</a></li><!--
+--><li class="current"><a onTouchEnd="this.href='http://bylines.news.yahoo.co.jp/'" onMouseDown="this.href='http://bylines.news.yahoo.co.jp/'" href="http://bylines.news.yahoo.co.jp/">個人</a></li><!--
+--><li id="gnPriBiz"><a onTouchEnd="this.href='http://news.yahoo.co.jp/biz'" onMouseDown="this.href='http://news.yahoo.co.jp/biz'" href="http://news.yahoo.co.jp/biz">ビジネス</a></li><!--
+--><li><a onTouchEnd="this.href='http://news.yahoo.co.jp/feature'" onMouseDown="this.href='http://news.yahoo.co.jp/feature'" href="http://news.yahoo.co.jp/feature">特集</a></li><!--
+--><li><a onTouchEnd="this.href='http://polls.dailynews.yahoo.co.jp/'" onMouseDown="this.href='http://polls.dailynews.yahoo.co.jp/'" href="http://polls.dailynews.yahoo.co.jp/">意識調査</a></li><!--
+--><li><a onTouchEnd="this.href='http://news.yahoo.co.jp/ranking'" onMouseDown="this.href='http://news.yahoo.co.jp/ranking'" href="http://news.yahoo.co.jp/ranking">ランキング</a></li>
+</ul>
+<!-- /grobal nav -->
+
+<!-- 個人カテゴリnav -->
+<div class="gnSecWrap">
+<ul id="gnSec">
+<li><a onTouchEnd="this.href='http://bylines.news.yahoo.co.jp/'" onMouseDown="this.href='http://bylines.news.yahoo.co.jp/'" href="http://bylines.news.yahoo.co.jp/">新着記事一覧</a></li><!--
+--><li><a onTouchEnd="this.href='http://bylines.news.yahoo.co.jp/domestic/'" onMouseDown="this.href='http://bylines.news.yahoo.co.jp/domestic/'" href="http://bylines.news.yahoo.co.jp/domestic/">国内</a></li><!--
+--><li class="current"><a onTouchEnd="this.href='http://bylines.news.yahoo.co.jp/international/'" onMouseDown="this.href='http://bylines.news.yahoo.co.jp/international/'" href="http://bylines.news.yahoo.co.jp/international/">国際</a></li><!--
+--><li><a onTouchEnd="this.href='http://bylines.news.yahoo.co.jp/business/'" onMouseDown="this.href='http://bylines.news.yahoo.co.jp/business/'" href="http://bylines.news.yahoo.co.jp/business/">経済</a></li><!--
+--><li><a onTouchEnd="this.href='http://bylines.news.yahoo.co.jp/entertainment/'" onMouseDown="this.href='http://bylines.news.yahoo.co.jp/entertainment/'" href="http://bylines.news.yahoo.co.jp/entertainment/">エンタメ</a></li><!--
+--><li><a onTouchEnd="this.href='http://bylines.news.yahoo.co.jp/sports/'" onMouseDown="this.href='http://bylines.news.yahoo.co.jp/sports/'" href="http://bylines.news.yahoo.co.jp/sports/">スポーツ</a></li><!--
+--><li><a onTouchEnd="this.href='http://bylines.news.yahoo.co.jp/technology/'" onMouseDown="this.href='http://bylines.news.yahoo.co.jp/technology/'" href="http://bylines.news.yahoo.co.jp/technology/">IT・科学</a></li><!--
+--><li><a onTouchEnd="this.href='http://bylines.news.yahoo.co.jp/life/'" onMouseDown="this.href='http://bylines.news.yahoo.co.jp/life/'" href="http://bylines.news.yahoo.co.jp/life/">ライフ</a></li><!--
+--><li><a onTouchEnd="this.href='http://bylines.news.yahoo.co.jp/author/international/'" onMouseDown="this.href='http://bylines.news.yahoo.co.jp/author/international/'" href="http://bylines.news.yahoo.co.jp/author/international/">オーサー一覧</a></li>
+</ul>
+</div><!-- /gnSecWrap -->
+</div><!-- /globalNav -->
+
+</div><!-- /contentsHeadera -->
+<!-- /grobal nav -->
+
+
+<div id="contentsBody">
+<div id="main">
+
+<div class="mainBox">
+
+<noscript>
+<div class="alertBox">
+<div class="alert">
+<p>現在<em>JavaScriptが無効</em>になっています。Yahoo!ニュースのすべての機能を利用するためには、JavaScriptの設定を有効にしてください。<br>JavaScriptの設定を変更する方法は<a href="http://help.yahoo.co.jp/help/jp/common/sys/sys-07.html">こちら</a>。</p>
+</div>
+</div><!-- /alertBox -->
+</noscript>
+
+<!-- IE6,7,8向けメッセージ -->
+<!--[if lt IE 9]>
+<div class="alertBox">
+<div class="alert"><p>お使いのInternet Explorerは古いバージョンのため、正しく表示されない可能性があります。最新のバージョンにアップデートするか、別のブラウザーからご利用ください。<br><a href="http://docs.yahoo.co.jp/info/msiesp/">Internet Explorerのアップデートについて</a></p></div>
+</div>
+<![endif]-->
+
+
+<article id="content-body">
+
+<section>
+<div class="articleBody">
+
+<div class="hd">
+
+
+<h1>対艦用二重貫通弾頭と対地用EFPクラスター弾頭の開発を行う日本防衛省</h1>
+
+
+
+<div class="articleInfo">
+<a href="http://bylines.news.yahoo.co.jp/obiekt/" class="author">
+<span class="name">JSF</span>
+<span class="title">&nbsp;|&nbsp;軍事ブロガー</span>
+</a><!-- /.author -->
+<a href="http://bylines.news.yahoo.co.jp/obiekt/" class="thumb">
+<img src="http://rpr.c.yimg.jp/im_siggqHfIk03q53WfPp_Ou8Z.Cg---x64-y64/yn/rpr/obiekt/profile-1423164677.png" width="32" height="32" alt=""></a>
+<span class="time">2014年9月16日 23時29分配信</span>
+</div><!-- /.articleInfo -->
+
+
+
+<div class="articleMainImage">
+<img src="http://rpr.c.yimg.jp/im_sigg3oRexn4v9.7hTqFe0g9B2Q---x800-n1/amd/20140916-00039151-roupeiro-000-5-view.png" width="100%" oncontextmenu="javascript:return false;">
+<p class="caption">先進対艦・対地弾頭技術の研究：防衛省　平成２６年度　事前の事業評価</p>
+</div><!-- /.articleMainImage -->
+
+</div><!-- /.hd -->
+
+<div id="fixedWrap">
+<ul id="fixedSNS" class="snsMod">
+<li class="twSet">
+<a href="https://twitter.com/share" class="twitter-share-button" data-lang="ja" data-text="対艦用二重貫通弾頭と対地用EFPクラスター弾頭の開発を行う日本防衛省(JSF) - Y!ニュース" data-url="http://bylines.news.yahoo.co.jp/obiekt/20140916-00039151/" data-related="YahooNewsTopics,obiekt_JP" data-count="none">ツイート</a>
+</li>
+<li class="btnSet">
+<a href="http://b.hatena.ne.jp/entry/bylines.news.yahoo.co.jp/obiekt/20140916-00039151/" class="hatena-bookmark-button" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加">
+<img src="http://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" />
+</a>
+<script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+</li>
+</ul>
+</div><!-- /#fixedWrap -->
+
+<div class="bd">
+
+<!-- 本文表示可能 -->
+<p>防衛省から政策評価「平成26年度　事前の事業評価」が公表され、その中に「先進対艦・対地弾頭技術の研究」という項目がありました。先月発表された平成27年度概算要求の中で確認された「大型艦艇及び島嶼上の脅威に対処する誘導弾用弾頭技術の研究」のより詳しい内容が記されています。
+</p><figure class="quote"><blockquote><p><p class="nobr">本事業は、我が国の島嶼部への攻撃に対して実効的に対応するため、島嶼及びその周辺海域に展開する部隊等に有効に対処できる誘導弾用弾頭として、上陸用舟艇等の近傍で起爆し、数発で数百ｍ四方の範囲にある目標を破壊する高密度ＥＦＰ※１弾頭や、大型艦艇の外壁を上面・側面から貫徹し、内部の構造物を破壊しうるシーバスター弾頭※２について、弾頭威力及び耐衝撃性に関する基本性能を確認するための研究を行うものである。
+</p><p class="nobr">※１ ＥＦＰ（Explosively Formed Projectile）：爆発成形弾
+</p><p>※２ シーバスター弾頭：先駆弾頭により艦船等の外壁を貫徹し、主弾頭により内部構造物を破壊する弾頭
+</p></p></blockquote><figcaption class="cap">出典:<a href="http://www.mod.go.jp/j/approach/hyouka/seisaku/results/26/jizen.html" rel="nofollow">先進対艦・対地弾頭技術の研究：防衛省　平成２６年度　事前の事業評価</a></figcaption></figure><p>これにより大型艦攻撃用のシーバスター弾頭は二段式の弾頭であることが分かりました。先駆弾頭として成形炸薬弾が孔を穿ち、その孔に徹甲榴弾が突入する方式です。特徴としてはミサイルの速度が遅くても貫通効果を発揮できることで、つまりこの新型貫通弾頭は超音速対艦対艦ミサイルXASM-3用ではなく、既存の亜音速で飛ぶ対艦ミサイル用のものだという事が分かります。「シーバスター」は陸上自衛隊の88式地対艦ミサイルの愛称でもあるので、地対艦ミサイルの弾頭を換装するのでしょう。88式地対艦ミサイルの射程内に敵空母が進出してくることはまず考えられないのですが、島に接近して来る大型揚陸艦を狙えます。（評価書では大型艦と書かれていて空母とは書かれていない）
+</p><p>また対地攻撃用クラスター弾頭はEFP（自己鍛造弾）であることも判明しました。これは爆発によって皿状のライナーが圧縮されて弾丸状になり高速で飛んでいく弾頭です。本来は対戦車用ですが、防衛省はこの評価書では「敵上陸舟艇・軽装甲機動部隊・ミサイル発射部隊」を目標としており、戦車より装甲が薄い目標となります。対戦車用とは違った形状・大きさになるのかもしれません。ただしクラスター爆弾制限条約の規制内となる為に、一つの爆発性子弾から多数のEFPを形成するような画期的な工夫※が必要になります。これも88式地対艦ミサイルの弾頭の換装用だとすると、地対地攻撃が可能となるこの新型弾頭は、88式地対艦ミサイルの戦術的価値を大きく変える存在となります。
+</p><p>※三菱電機が2010年に登録した特許「誘導飛しょう体」の中に、一つの爆発性子弾から多数のEFPを形成する「マルチEFP弾頭」が登場する。</p>
+</div><!--/.bd -->
+
+
+
+
+</div><!--/.articleBody -->
+</section>
+
+
+
+
+
+<footer>
+<section>
+<div class="articleFt ftAuthor">
+<div class="hd">
+<a class="author" href="http://bylines.news.yahoo.co.jp/obiekt/">
+<div class="thumb"><img src="http://rpr.c.yimg.jp/im_siggXKvKHnYi6atFuJRo4Gdsww---x96-y96/yn/rpr/obiekt/profile-1423164677.png" width="48" height="48" alt=""></div>
+<div class="info">
+<span class="name">JSF</span>
+<span class="title">軍事ブロガー</span>
+</div>
+</a><!-- /.author -->
+</div><!-- /.hd -->
+<div class="bd">
+<p>軍事ブログ「オブイェクト」管理人。オスプレイや弾道ミサイル防衛、無人攻撃機など、ニュースに良く出る最新の軍事的なテーマに付いて解説を行っています。</p>
+
+<!-- SNS・オフィシャル -->
+<div class="authorLink">
+<!-- SNS -->
+<ul class="authorSns">
+<li class="tw"><a target="_new" onTouchEnd="this.href='https://twitter.com/obiekt_JP'" onMouseDown="this.href='https://twitter.com/obiekt_JP'" href="https://twitter.com/obiekt_JP">obiekt_JP</a></li>
+</ul>
+<!-- /SNS -->
+<!-- オフィシャル -->
+<dl class="authorBlog">
+<dt>official site</dt>
+<dd><a target="_new" onTouchEnd="this.href='http://obiekt.seesaa.net/'" onMouseDown="this.href='http://obiekt.seesaa.net/'" href="http://obiekt.seesaa.net/">週刊オブイェクト</a></dd>
+</dl>
+<!-- /オフィシャル -->
+</div><!-- /.authorLink -->
+<!-- /SNS・オフィシャル -->
+
+</div><!--/.bd-->
+</div><!-- /.articleFt.ftAuthor -->
+</section>
+
+
+</footer>
+
+</article>
+
+<!-- 新着記事一覧 -->
+<section>
+<div class="module newsList">
+<div class="hd">
+<h2 class="ttl">JSFの最近の記事</h2>
+</div>
+<ul class="bd">
+<li>
+<a href="http://bylines.news.yahoo.co.jp/obiekt/20160417-00056727/">
+<span class="ttl ">
+熊本地震救援に普天間基地のオスプレイが出動</span>
+<span class="time">4月17日&nbsp;20時2分</span>
+</a>
+</li>
+<li>
+<a href="http://bylines.news.yahoo.co.jp/obiekt/20160414-00056605/">
+<span class="ttl ">
+北朝鮮が発射準備を行う中距離弾道ミサイル「ムスダン」と日本の集団的自衛権</span>
+<span class="time">4月14日&nbsp;16時58分</span>
+</a>
+</li>
+<li>
+<a href="http://bylines.news.yahoo.co.jp/obiekt/20160414-00056602/">
+<span class="ttl ">
+米イージス艦にロシア軍機が異常接近を繰り返す（動画）</span>
+<span class="time">4月14日&nbsp;15時4分</span>
+</a>
+</li>
+<li>
+<a href="http://bylines.news.yahoo.co.jp/obiekt/20160330-00055995/">
+<span class="ttl ">
+米海軍イージス駆逐艦にSeaRAMを搭載、試射を実施</span>
+<span class="time">3月30日&nbsp;7時39分</span>
+</a>
+</li>
+</ul>
+<div class="ft">
+<a class="readMore" onTouchEnd="this.href='http://bylines.news.yahoo.co.jp/obiekt/'" onMouseDown="this.href='http://bylines.news.yahoo.co.jp/obiekt/'" href="http://bylines.news.yahoo.co.jp/obiekt/">JSFの記事一覧へ(131)</a></div>
+</div><!-- /.module.newslist -->
+</section>
+<!-- /新着記事一覧 -->
+<section>
+<div id="themeSticker" class="follow yjxTheme" data-theme-name="JSF" data-article-id="20140916-00039151-roupeiro" data-destination-type="news_theme" data-ult-sid="2080182840" data-ult-sec="tm_mod" data-newsui="1"></div>
+</section>
+
+<!-- YCD -->
+<section>
+<div class="module recomendMod">
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+var ARTICLE_URL = 'http://bylines.news.yahoo.co.jp/obiekt/20140916-00039151/';
+var ARTICLE_ID = '20140916-00039151-roupeiro';
+var RECOMMEND_SPACEID = '2080182840';
+var GALILEO_TEST_ID = '';
+// ycdloaderの設定
+YAHOO.JP.Ycd.recommend.loader.configure({
+    dirName: 'yahoojp-byline',
+    url: ARTICLE_URL,
+    article: ARTICLE_ID,
+    iframePath: '/ycd/communicate',
+    rapid: {
+        keys: {rpdprop: 'roupeiro', vtestid: GALILEO_TEST_ID, v_pkjp: 1},
+        spaceId: RECOMMEND_SPACEID
+    }
+});
+
+// 内部回遊用
+YAHOO.JP.Ycd.recommend.loader.showModule({
+    mode: 'organic-thumbnails-pc2',
+    placement: 'Below Article Thumbnails',
+    container: 'taboola-below-article-thumbnails',
+    rapid: {
+        sec: 'ycd',
+        slk: 'title'
+    }
+});
+</script>
+</div>
+</section>
+<!-- /YCD -->
+
+
+<aside>
+<div class="spacer">
+<script type="text/javascript" language="javascript">
+yads_ad_ds = '50382_14526';
+yads_ad_id = '2080182840';
+</script>
+<script type="text/javascript" language="javascript" src="http://yads.yahoo.co.jp/js/yads.js"></script>
+</div>
+</aside>
+
+</div><!--/.mainBox-->
+
+</div><!--/#main-->
+<div id="sub">
+
+<div id="LREC">
+<!-- SpaceID=0 robot -->
+</div>
+
+
+
+
+<div class="module infoList">
+<div class="hd">
+<h2 class="ttl">有識者・専門家がニュースに切り込む</h2>
+</div>
+<ul class="bd">
+<li>
+<a href="http://rdsig.yahoo.co.jp/media/news/bylines/athrcmt/RV=1/RU=aHR0cDovL2NvbW1lbnQubmV3cy55YWhvby5jby5qcC9hdXRob3IvbGF0ZXN0Lw--">
+<span class="infoImg">
+<img src="http://i.yimg.jp/images/jpnews/cre/promo/author/bnr/ac_60x60.png" width="40" height="40" alt="">
+</span>
+<span class="infoTxt" href="http://rdsig.yahoo.co.jp/media/news/bylines/athrcmt/RV=1/RU=aHR0cDovL2NvbW1lbnQubmV3cy55YWhvby5jby5qcC9hdXRob3IvbGF0ZXN0Lw--">「Yahoo!ニュース 個人」のオーサーによるコメントをチェック</span>
+</a>
+</li>
+</ul>
+</div>
+
+<div class="module newsList">
+<div class="hd">
+<h2 class="ttl">Yahoo!ニュース 個人編集部ピックアップ</h2>
+</div>
+<ul class="bd">
+<li><a href="http://bylines.news.yahoo.co.jp/yahooroupeiroedit/20160425-00057032/">
+<span class="ttl">【Yahoo!ニュース 個人】3月の月間MVAとMVCが決定</span>
+</a></li>
+</ul>
+</div>
+
+
+
+<div id="subRanking" class="module subRanking">
+
+<div class="hd">
+<a href="http://news.yahoo.co.jp/ranking/access?ty=b&c=c_int">
+<h2 class="ttl">個人アクセスランキング（国際）</h2>
+<span class="more">一覧</span>
+</a>
+</div>
+<ol class="bd">
+
+<li>
+<a href="http://bylines.news.yahoo.co.jp/kohyoungki/20160430-00057211/">
+<span class="rankNum">1</span>
+<div class="cap">
+	<span class="thumbnail"><img src="http://amd.c.yimg.jp/amd/20160430-00057211-roupeiro-000-7-view.jpg" width="160"></span>
+	<span class="ttl ">
+	金正恩氏を脅かす反政府ビラ「父親より百倍ひどい人殺し」	</span>
+	<span class="source">高英起</span><span class="date">2016年4月30日 6時30分</span>
+</div>
+</a></li>
+<li>
+<a href="http://bylines.news.yahoo.co.jp/kohyoungki/20160430-00057234/">
+<span class="rankNum">2</span>
+<div class="cap">
+	<span class="thumbnail"><img src="http://amd.c.yimg.jp/amd/20160430-00057234-roupeiro-000-6-view.jpg" width="160"></span>
+	<span class="ttl ">
+	北朝鮮「新兵器」開発資金のびっくりな出所	</span>
+	<span class="source">高英起</span><span class="date">2016年4月30日 18時5分</span>
+</div>
+</a></li>
+<li>
+<a href="http://bylines.news.yahoo.co.jp/kohyoungki/20160429-00057204/">
+<span class="rankNum">3</span>
+<div class="cap">
+	<span class="thumbnail"><img src="http://amd.c.yimg.jp/amd/20160429-00057204-roupeiro-000-4-view.jpg" width="160"></span>
+	<span class="ttl ">
+	北朝鮮vs中国「非難合戦」が生むさらなる危機	</span>
+	<span class="source">高英起</span><span class="date">2016年4月29日 18時42分</span>
+</div>
+</a></li>
+<li>
+<a href="http://bylines.news.yahoo.co.jp/inosehijiri/20160429-00057206/">
+<span class="rankNum">4</span>
+<div class="cap">
+	<span class="thumbnail"><img src="http://amd.c.yimg.jp/amd/20160429-00057206-roupeiro-000-3-view.jpg" width="160"></span>
+	<span class="ttl ">
+	日本の若者が陥る“大麻の罠”	</span>
+	<span class="source">猪瀬聖</span><span class="date">2016年4月29日 19時8分</span>
+</div>
+</a></li>
+<li>
+<a href="http://bylines.news.yahoo.co.jp/kohyoungki/20160428-00057172/">
+<span class="rankNum">5</span>
+<div class="cap">
+	<span class="thumbnail"><img src="http://amd.c.yimg.jp/amd/20160428-00057172-roupeiro-000-2-view.jpg" width="160"></span>
+	<span class="ttl ">
+	金正恩氏を「最後の仲間」たちも見放し始めた	</span>
+	<span class="source">高英起</span><span class="date">2016年4月28日 18時28分</span>
+</div>
+</a></li>
+<li>
+<a href="http://bylines.news.yahoo.co.jp/pyonjiniru/20160429-00057198/">
+<span class="rankNum">6</span>
+<div class="cap">
+	<span class="thumbnail"><img src="http://amd.c.yimg.jp/amd/20160429-00057198-roupeiro-000-2-view.jpg" width="160"></span>
+	<span class="ttl ">
+	「ムスダン」３度失敗の理由は何か	</span>
+	<span class="source">辺真一</span><span class="date">2016年4月29日 14時29分</span>
+</div>
+</a></li>
+<li>
+<a href="http://bylines.news.yahoo.co.jp/mutsujishoji/20160430-00057232/">
+<span class="rankNum">7</span>
+<div class="cap">
+	<span class="thumbnail"><img src="http://amd.c.yimg.jp/amd/20160430-00057232-roupeiro-000-2-view.jpg" width="160"></span>
+	<span class="ttl ">
+	中国の中東進出のリスクにみる国家の説明責任と国民の自己責任	</span>
+	<span class="source">六辻彰二</span><span class="date">2016年4月30日 14時43分</span>
+</div>
+</a></li>
+<li>
+<a href="http://bylines.news.yahoo.co.jp/kohyoungki/20160429-00057186/">
+<span class="rankNum">8</span>
+<div class="cap">
+	<span class="thumbnail"><img src="http://amd.c.yimg.jp/amd/20160429-00057186-roupeiro-000-6-view.jpg" width="160"></span>
+	<span class="ttl ">
+	金正恩氏の核・ミサイルが招く「少子化」と中絶ビジネス	</span>
+	<span class="source">高英起</span><span class="date">2016年4月29日 9時28分</span>
+</div>
+</a></li>
+<li>
+<a href="http://bylines.news.yahoo.co.jp/kohyoungki/20151026-00050814/">
+<span class="rankNum">9</span>
+<div class="cap">
+	<span class="thumbnail"><img src="http://amd.c.yimg.jp/amd/20151026-00050814-roupeiro-000-10-view.jpg" width="160"></span>
+	<span class="ttl ">
+	金正恩氏が恐れる「北朝鮮ジョーク」の破壊力	</span>
+	<span class="source">高英起</span><span class="date">2015年10月26日 20時38分</span>
+</div>
+</a></li>
+<li>
+<a href="http://bylines.news.yahoo.co.jp/kodamakatsuya/20160430-00057236/">
+<span class="rankNum">10</span>
+<div class="cap">
+	<span class="thumbnail"><img src="http://amd.c.yimg.jp/amd/20160430-00057236-roupeiro-000-2-view.jpg" width="160"></span>
+	<span class="ttl ">
+	朴槿恵大統領の次の大統領は誰か～4月選挙で混沌としてきた情勢	</span>
+	<span class="source">児玉克哉</span><span class="date">2016年4月30日 16時28分</span>
+</div>
+</a></li>
+</ol><!-- /.bd -->
+<div class="ft">
+<a class="readMore" onTouchEnd="this.href='http://news.yahoo.co.jp/ranking/access?ty=b&c=c_int'" onMouseDown="this.href='http://news.yahoo.co.jp/ranking/access?ty=b&c=c_int'" href="http://news.yahoo.co.jp/ranking/access?ty=b&c=c_int">もっと見る</a></div>
+</div><!-- /.module.subRanking -->
+
+
+<div class="module newsList">
+<div class="hd">
+<h2 class="ttl">個人の書き手も有料ニュースを配信中</h2>
+</div>
+<ul class="bd">
+<li>
+<a href="http://bylines.news.yahoo.co.jp/kawabatayasuo/20160501-00057250/">
+<span class="ttl">[Ｊリーグ百年物語]「湘南の暴れん坊」の原型――湘南ベルマーレ（23）</span>
+</a>
+</li>
+<li>
+<a href="http://bylines.news.yahoo.co.jp/sugiyamashigeki/20160430-00057249/">
+<span class="ttl">ガラパゴス化する日本サッカー。「フロンターレ、お前もか」</span>
+</a>
+</li>
+<li>
+<a href="http://bylines.news.yahoo.co.jp/tanakayoshitsugu/20160430-00057240/">
+<span class="ttl">安倍政権の「大ポカ」を攻めきれなかった野党の「ポカ」</span>
+</a>
+</li>
+</ul>
+</div>
+
+<div class="module">
+<script type="text/javascript" language="javascript">
+yads_ad_ds = '77623_15367';
+yads_ad_id = '2080182840';
+</script>
+<script type="text/javascript" language="javascript" src="http://yads.yahoo.co.jp/js/yads.js"></script>
+</div>
+
+</div><!--/#sub-->
+
+</div><!--/#contentsBody -->
+
+<div id="contentsFooter">
+
+<div id="cfInner">
+<div class="cfNavColumn">
+<ul>
+<li>
+<a href="http://rdsig.yahoo.co.jp/media/news/app/promo/pc_byline/bigfooter/RV=1/RU=aHR0cDovL3Byb21vLm5ld3MueWFob28uY28uanAvYXBwL3lqbmV3cy8-">
+<div class="iconAPP"><span>アプリ</span></div>
+<p><em>アプリ</em><span>データ先読みで、電車でもサクサク</span></p>
+</a></li>
+<li><a href="http://www.facebook.com/yjnews">
+<div class="iconFB"><span>Facebook</span></div>
+<p><em>Facebook</em><span>編集部による厳選記事を毎日配信</span></p>
+</a></li>
+<li><a href="https://twitter.com/YahooNewsTopics">
+<div class="iconTW"><span>Twitter</span></div>
+<p><em>Twitter</em><span>リアルタイムでニュースを配信</span></p>
+</a></li>
+<li><a href="http://news.yahoo.co.jp/staffblog/">
+<div class="iconSB"><span>スタッフブログ</span></div>
+<p><em>スタッフブログ</em><span>Yahoo!ニュースの裏側をご紹介</span></p>
+</a></li>
+</ul>
+</div><!-- /.cfNavColumn -->
+
+<div class="cfNavList">
+<ul>
+<li><a onTouchEnd="this.href='http://news.yahoo.co.jp/'" onMouseDown="this.href='http://news.yahoo.co.jp/'" href="http://news.yahoo.co.jp/">トップ</a></li>
+<li><a onTouchEnd="this.href='http://news.yahoo.co.jp/flash'" onMouseDown="this.href='http://news.yahoo.co.jp/flash'" href="http://news.yahoo.co.jp/flash">速報</a></li>
+<li><a onTouchEnd="this.href='http://news.yahoo.co.jp/photo'" onMouseDown="this.href='http://news.yahoo.co.jp/photo'" href="http://news.yahoo.co.jp/photo">写真</a></li>
+<li><a onTouchEnd="this.href='http://headlines.yahoo.co.jp/videonews/'" onMouseDown="this.href='http://headlines.yahoo.co.jp/videonews/'" href="http://headlines.yahoo.co.jp/videonews/">映像</a></li>
+<li><a onTouchEnd="this.href='http://news.yahoo.co.jp/zasshi'" onMouseDown="this.href='http://news.yahoo.co.jp/zasshi'" href="http://news.yahoo.co.jp/zasshi">雑誌</a></li>
+<li><a onTouchEnd="this.href='http://bylines.news.yahoo.co.jp/'" onMouseDown="this.href='http://bylines.news.yahoo.co.jp/'" href="http://bylines.news.yahoo.co.jp/">個人</a></li>
+<li><a onTouchEnd="this.href='http://news.yahoo.co.jp/biz'" onMouseDown="this.href='http://news.yahoo.co.jp/biz'" href="http://news.yahoo.co.jp/biz">ビジネス</a></li>
+<li><a onTouchEnd="this.href='http://news.yahoo.co.jp/feature'" onMouseDown="this.href='http://news.yahoo.co.jp/feature'" href="http://news.yahoo.co.jp/feature">特集</a></li>
+<li><a onTouchEnd="this.href='http://polls.dailynews.yahoo.co.jp/'" onMouseDown="this.href='http://polls.dailynews.yahoo.co.jp/'" href="http://polls.dailynews.yahoo.co.jp/">意識調査</a></li>
+<li class="last"><a onTouchEnd="this.href='http://news.yahoo.co.jp/ranking'" onMouseDown="this.href='http://news.yahoo.co.jp/ranking'" href="http://news.yahoo.co.jp/ranking">ランキング</a></li>
+</ul>
+</div><!-- /.cfNavList -->
+
+<div class="cfSubNavList">
+<dl class="subNavL">
+<dt>ニュースカテゴリ：</dt>
+<dd><a onTouchEnd="this.href='http://news.yahoo.co.jp/hl?c=dom'" onMouseDown="this.href='http://news.yahoo.co.jp/hl?c=dom'" href="http://news.yahoo.co.jp/hl?c=dom">国内</a></dd>
+<dd><a onTouchEnd="this.href='http://news.yahoo.co.jp/hl?c=c_int'" onMouseDown="this.href='http://news.yahoo.co.jp/hl?c=c_int'" href="http://news.yahoo.co.jp/hl?c=c_int">国際</a></dd>
+<dd><a onTouchEnd="this.href='http://news.yahoo.co.jp/hl?c=bus'" onMouseDown="this.href='http://news.yahoo.co.jp/hl?c=bus'" href="http://news.yahoo.co.jp/hl?c=bus">経済</a></dd>
+<dd><a onTouchEnd="this.href='http://news.yahoo.co.jp/hl?c=c_ent'" onMouseDown="this.href='http://news.yahoo.co.jp/hl?c=c_ent'" href="http://news.yahoo.co.jp/hl?c=c_ent">エンタメ</a></dd>
+<dd><a onTouchEnd="this.href='http://news.yahoo.co.jp/hl?c=c_spo'" onMouseDown="this.href='http://news.yahoo.co.jp/hl?c=c_spo'" href="http://news.yahoo.co.jp/hl?c=c_spo">スポーツ</a></dd>
+<dd><a onTouchEnd="this.href='http://news.yahoo.co.jp/hl?c=c_sci'" onMouseDown="this.href='http://news.yahoo.co.jp/hl?c=c_sci'" href="http://news.yahoo.co.jp/hl?c=c_sci">IT・科学</a></dd>
+<dd><a onTouchEnd="this.href='http://news.yahoo.co.jp/hl?c=c_life'" onMouseDown="this.href='http://news.yahoo.co.jp/hl?c=c_life'" href="http://news.yahoo.co.jp/hl?c=c_life">ライフ</a></dd>
+<dd><a onTouchEnd="this.href='http://news.yahoo.co.jp/hl?c=loc'" onMouseDown="this.href='http://news.yahoo.co.jp/hl?c=loc'" href="http://news.yahoo.co.jp/hl?c=loc">地域</a></dd>
+</dl>
+
+<dl class="subNavR">
+<dt>その他：</dt>
+<dd><a onTouchEnd="this.href='http://news.yahoo.co.jp/theme/'" onMouseDown="this.href='http://news.yahoo.co.jp/theme/'" href="http://news.yahoo.co.jp/theme/">テーマを探す</a></dd>
+<dd><a onTouchEnd="this.href='http://headlines.yahoo.co.jp/rss/list'" onMouseDown="this.href='http://headlines.yahoo.co.jp/rss/list'" href="http://headlines.yahoo.co.jp/rss/list">RSS</a></dd>
+<dd><a onTouchEnd="this.href='http://headlines.yahoo.co.jp/docs/copyright.html'" onMouseDown="this.href='http://headlines.yahoo.co.jp/docs/copyright.html'" href="http://headlines.yahoo.co.jp/docs/copyright.html">ニュース提供社</a></dd>
+<dd><a onTouchEnd="this.href='http://gsearch.news.yahoo.co.jp/gs?ty=g'" onMouseDown="this.href='http://gsearch.news.yahoo.co.jp/gs?ty=g'" href="http://gsearch.news.yahoo.co.jp/gs?ty=g">新聞記事横断検索</a></dd>
+</dl>
+</div><!-- /.cfSubNavList -->
+</div><!-- /#cfWrap -->
+
+</div><!--/#contentsFooter-->
+
+</div><!--/#content-->
+
+<div id="footer">
+<div id="uft">
+<!-- SpaceID=0 robot -->
+</div><!--/#uft-->
+
+
+<address>
+<a onTouchEnd="this.href='http://docs.yahoo.co.jp/docs/info/terms/chapter1.html#cf2nd'" onMouseDown="this.href='http://docs.yahoo.co.jp/docs/info/terms/chapter1.html#cf2nd'" href="http://docs.yahoo.co.jp/docs/info/terms/chapter1.html#cf2nd">プライバシーポリシー</a> - 
+<a onTouchEnd="this.href='http://docs.yahoo.co.jp/docs/info/terms/'" onMouseDown="this.href='http://docs.yahoo.co.jp/docs/info/terms/'" href="http://docs.yahoo.co.jp/docs/info/terms/">利用規約</a> - 
+<a onTouchEnd="this.href='http://docs.yahoo.co.jp/info/mediastatement'" onMouseDown="this.href='http://docs.yahoo.co.jp/info/mediastatement'" href="http://docs.yahoo.co.jp/info/mediastatement">メディアステートメント</a> - 
+<a onTouchEnd="this.href='http://bylines.news.yahoo.co.jp/author/'" onMouseDown="this.href='http://bylines.news.yahoo.co.jp/author/'" href="http://bylines.news.yahoo.co.jp/author/">著作権</a> - 
+<a onTouchEnd="this.href='http://headlines.yahoo.co.jp/docs/tokuteisho.html'" onMouseDown="this.href='http://headlines.yahoo.co.jp/docs/tokuteisho.html'" href="http://headlines.yahoo.co.jp/docs/tokuteisho.html">特定商取引法の表示</a> - 
+<a onTouchEnd="this.href='https://feedback.ms.yahoo.co.jp/voc/news-voc/input'" onMouseDown="this.href='https://feedback.ms.yahoo.co.jp/voc/news-voc/input'" href="https://feedback.ms.yahoo.co.jp/voc/news-voc/input">ご意見・ご要望</a> - 
+<a onTouchEnd="this.href='http://help.yahoo.co.jp/help/jp/news/'" onMouseDown="this.href='http://help.yahoo.co.jp/help/jp/news/'" href="http://help.yahoo.co.jp/help/jp/news/">ヘルプ・お問い合わせ</a><br>
+Copyright (C) 2016 JSF All Rights Reserved.<br>
+Copyright (C) 2016 Yahoo Japan Corporation. All Rights Reserved.
+</address>
+</div><!--/#footer-->
+
+
+</div><!-- #wrapper -->
+
+
+
+
+<script type="text/javascript">
+(function () {
+    YAHOO.JP.bylines.globalNav.init({});
+
+    //画面についてくるモジュール
+    YAHOO.JP.bylines.FixedArea.init({
+        'fixTarget' : 'fixedSNS',
+        'baseElm'  : $('.mainBox .articleBody'),
+        'limitElm' : $('.articleFt.ftAuthor')
+    });
+
+    // サンプル記事モーダル
+    YAHOO.JP.bylines.modalBox.init({
+        'id' : 'paySample',
+        'btn' : $(".sampleModal a")
+    });
+    //バックナンバー記事一覧リストのエクスパンド
+    YAHOO.JP.bylines.listExpand.init({
+        'ulId' : 'expandList',
+        'btn' : 'expandLink',
+        'hideNum' : 3 // 隠す件数の基準値
+    });
+
+    //テーマのウォッチボタン(urlはログインの場合通常版、未ログインの場合キャッシュ版)
+    YAHOO.JP.News.ThemeSticker.init({
+        'stckrClass' : 'yjxTheme',
+        'stckrSize'  : 'wide',
+        'url' : 'http://f.news.c.yimg.jp/ctheme/list/', 
+        'frameWidth' : '100%'
+    });
+    YAHOO.JP.News.ThemeSticker.bind();  
+
+    // FBボタン
+    YAHOO.JP.bylines.FbShareBtnManager.init({
+　　　　'className' : '.fbBtn',
+　　　　'width' : '468',
+　　　　'height' : '497',
+        'server' : 'ybx.yahoo.co.jp',
+        'spaceId' : '2080182840',
+        'sec' : 'facebook',
+        'slk' : 'share_log',
+        'vtestid' : '',
+        'vPkjp' : 1,
+        'window' : 'on'
+    });
+
+    // TWボタン
+    YAHOO.JP.bylines.TwShareBtnManager.init({
+　　　　'className' : '.twBtn',
+　　　　'width' : '468',
+　　　　'height' : '497',
+        'server' : 'ybx.yahoo.co.jp',
+        'spaceId' : '2080182840',
+        'sec' : 'twitter',
+        'slk' : 'tweet_log',
+        'vtestid' : '',
+        'vPkjp' : 1,
+        'window' : 'on'
+    });
+
+    // はてブボタン
+    YAHOO.JP.bylines.HateShareBtnManager.init({
+　　　　'className' : '.hateBtn',
+        'server' : 'ybx.yahoo.co.jp',
+        'spaceId' : '2080182840',
+        'sec' : 'hatena',
+        'slk' : 'bookmark_log',
+        'vtestid' : '',
+        'vPkjp' : 1,
+    });
+}());
+
+</script>
+
+<script type="text/javascript">
+var BEACON_SERVER = 'ybx.yahoo.co.jp';
+var SPACE_ID = '2080182840';
+var GALILEO_TEST_ID = '';
+var SEC = '';
+var PROMO_MODULE = '';
+
+if(SEC !== '' || PROMO_MODULE) {
+    if(SEC !== '') {
+        var link_data = [{
+            mod:{ params:{sec:SEC} },
+            links:[
+                {params:{sec:SEC, slk:'ord'}}
+            ]
+        }];
+    }else {
+        var link_data = [{
+            mod:{ params:{sec:'dt_prsbs'} },
+            links:[
+                {params:{sec:SEC, slk:'smp'}}
+            ]
+        }];
+    }
+
+    if(SEC !== 'pp_tnp' && SEC !== '') {
+        link_data[0].links[1] = {params:{sec:SEC, slk:'smp'}};
+    }
+
+    var beacon = YAHOO.i13n.Beaconer({
+        beacon_server:BEACON_SERVER,
+        keys:{rpdprop:'roupeiro', vtestid:GALILEO_TEST_ID, v_pkjp:'1'},
+        link_data:link_data,
+        spaceid:SPACE_ID
+    });
+    beacon.doViewBeacon(0);
+}
+
+</script>
+
+<script type="text/javascript">
+var _pop = _pop || [];
+_pop.push(["_set_read_customField","obiekt"]);
+(function() {
+window._popIn_read_prob = 100;
+var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.charset = "utf-8"; pa.async = true;
+pa.src = window.location.protocol + "//i.yimg.jp/images/news/article/yahoo_news.js";
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+})();
+</script>
+
+</body>
+</html>
+
+<!-- web14.byl.news.kks.ynwp.yahoo.co.jp Sun May  1 10:26:21 JST 2016 -->

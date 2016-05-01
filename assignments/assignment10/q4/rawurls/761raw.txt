@@ -1,0 +1,25 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>IdahoFallsNewsChannel.com | IdahoFalls News, Weather, Sports, Traffic, Politics, Entertainment.</title>
+	<script type="text/javascript">
+	function reload_ad(){
+		document.getElementById("advert_frame").src = document.getElementById("advert_frame").src;
+		}
+	</script>
+	</head>
+	<frameset rows="147px,*" style="border-width: 0px;" frameborder="0" border="0" framespacing="0">
+	<frame name="header" src="?do=external&show=header&channel=284" scrolling="no">
+	<!-- Don't use left navigation -->
+	<!--
+	<frameset cols="150px,*" frameborder="0" border="0" framespacing="0">
+	<frame name="sidebar" src="?do=external&show=sidebar&channel=284" frameborder="0" scrolling="yes">
+	 -->
+	<frameset rows="90px,*" frameborder="0" border="0" framespacing="0">
+	<frame name="advertisment" id="advert_frame" src="?do=external&show=advert" scrolling="no">
+	<frame name="contentframe" src="http://www.eastidahonews.com/2016/02/new-details-released-police-pursuit/">
+	</frameset>
+	</frameset>
+	</frameset>
+</html>

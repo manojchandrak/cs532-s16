@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Kicking Asphalt</title>
+<!------------------------------------------------>
+<!--            Header include code             -->
+<link rel="shortcut icon" href="/static/img/favicon.ico">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans:700" type="text/css">
+<link rel="stylesheet" href="/static/css/base.css">
+<link rel="stylesheet" href="/static/css/skeleton.css">
+<link rel="stylesheet" href="/static/css/layout.css">
+<link rel="stylesheet" href="/static/css/mobile.css" media="only screen and (max-width: 400px)" />
+<link rel="stylesheet" href="/static/css/bwcstyle.css">
+<link rel="stylesheet" href="/static/css/jquery.bxslider.css">
+<link rel="stylesheet" href="/static/css/superfish.css" media="screen">
+<link rel="stylesheet" href="local_styles.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="//code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<style>
+label {
+  display: inline-block;
+  width: 5em;
+}
+</style>
+<style>
+  .sf-menu a {
+    text-decoration: none;
+    color: #F5F4F3;
+  }
+  h1 {
+    margin-bottom: -10px;
+    margin-top: -12px;
+    padding: 0;
+  margin-left: 15px; font-size: 175%; color: #051F5B; position: relative;
+  }
+</style>
+</head>
+<!-- <body onload="loadPage();updateAccess();" onunload=""> -->
+<body>
+<div class="container">
+  <div class="sixteen columns">
+    <div class="seven columns">
+      <a href="http://www.betterworldclub.com">
+        <img src="/static/img/bwc-header-logo.jpg" alt="Better World Club" id="header_logo" style="border: 0">
+      </a>
+    </div>
+    <div class="three columns" style="vertical-align: baseline">
+      <br />
+      <a href="https://www.betterworldclub.com/membership/step_1.cfm">
+        <img src="/static/img/signup.png" alt="Signup" border=0>
+      </a>
+    </div>
+    <div class="five columns" style="float: right; color: #566A99; font-family: Verdana; padding-left: 1em; margin-top: 1em; text-align: right" id="customer_support">
+      <span style="font-size: 130%">1.866.238.1137</span>
+      <br />
+      <span style="font-size: 90%">Mon to Fri, 8:30a through 5:30p PST
+      [<a href="#" title="Our dispatching center is open 24/7. Their number is available in the member area and in your confirmation email">?</a>]</span>
+      <br />
+      <span style="font-size: 90%">
+      <a href="https://members.betterworldclub.com/login.cfm?page=http://www.betterworldclub.com/home.cfm">Member Login<img src="/static/img/member-login-key.gif" style="vertical-align: middle" alt="Member Login" border=0></a></span>
+      <br />
+    </div>
+  </div>
+<div class="sixteen columns" id="menu">
+<ul class="sf-menu" id="example">
+<li style="z-index:3">
+  <a href="http://www.betterworldclub.com/roadside-assistance/">Roadside Assistance</a>
+  <ul style="z-index:4">
+  <li class="sub-menu">
+    <a href="http://www.betterworldclub.com/roadside-assistance/how-we-compare/">
+       How We Compare
+    </a>
+  </li>
+  <li class="sub-menu">
+    <a href="http://www.betterworldclub.com/roadside-assistance/auto-roadside-assistance/">
+      Auto Roadside Assistance
+    </a>
+  </li>
+  <li class="sub-menu">
+    <a href="http://www.betterworldclub.com/roadside-assistance/bicycle-roadside-assistance/">
+       Bicycle Roadside Assistance
+    </a>
+  </li>
+  <li class="sub-menu">
+    <a href="http://www.betterworldclub.com/roadside-assistance/fleet-roadside-assistance/">
+       Fleet Roadside Assistance
+    </a>
+  </li>
+  <li class="sub-menu">
+    <a href="http://www.betterworldclub.com/roadside-assistance/member-benefits/">
+       Member Benefits
+    </a>
+  </li>
+  <li class="sub-menu">
+    <a href="http://www.betterworldclub.com/roadside-assistance/what-is-roadside-assistance-really/">
+       What's Roadside Assistance
+    </a>
+  </li>
+  <li class="sub-menu">
+    <a href="http://www.betterworldclub.com/roadside-assistance/interesting-facts-about-aaa/">
+       Facts About AAA
+    </a>
+  </li>
+  <li class="sub-menu">
+    <a href="http://www.betterworldclub.com/roadside-assistance/good-car-ma-program/">
+       Good Car-Ma Program
+    </a>
+  </li>
+  <li class="sub-menu">
+    <a href="http://www.betterworldclub.com/faq/">
+       FAQ
+    </a>
+  </li>
+  </ul>
+</li>
+<li style="z-index:3">
+    <a href="http://www.betterworldclub.com/green-insurance-services/">Green Insurance</a>
+    <ul style="z-index:4">
+  <li>
+    <a href="http://www.betterworldclub.com/green-insurance-services/insurance-services/">
+       Better World Club Insurance Program
+    </a>
+  </li>
+  <li>
+    <a href="http://www.betterworldclub.com/green-insurance-services/pay-as-you-drive/">
+       Pay As You Drive
+    </a>
+  </li>
+  <li>
+    <a href="http://www.betterworldclub.com/green-insurance-services/non-owner-liability-insurance/">
+       Non Owner Liability Insurance
+    </a>
+  </li>
+  <li>
+    <a href="http://www.betterworldclub.com/green-insurance-services/travel-insurance/">
+       Travel Insurance
+    </a>
+  </li>
+  </ul>
+</li>
+<li>
+  <a href="http://www.betterworldclub.com/travel-tools/">Travel Tools</a>
+  <ul style="z-index:4">
+  <li>
+   <a href="http://www.betterworldclub.com/travel-tools/map-collection/">
+       Map Collection
+    </a>
+  </li>
+  <li>
+    <a href="http://www.betterworldclub.com/travel-tools/bicycling-information-and-resources/">
+       Bicycle Info Center
+    </a>
+  </li>
+  <li>
+    <a href="http://www.betterworldclub.com/travel-tools/carbon-calculator/">
+       Carbon Calculator
+    </a>
+  </li>
+  <li>
+    <a href="http://www.betterworldclub.com/travel-tools/about-carbon-offsets/">
+       About Carbon Offsets
+    </a>
+  </li>
+  <li>
+    <a href="http://www.betterworldclub.com/travel-tools/carbon-offset-chemistry/">
+       Carbon Offset Chemistry
+    </a>
+  </li>
+  <li>
+    <a href="http://www.betterworldclub.com/travel-tools/travel-site-of-the-month/">
+       Travel Site of the Month
+    </a>
+  </li>
+  <li>
+    <a href="http://www.betterworldclub.com/travel-tools/travel-consultation/">
+       Travel Consultation
+    </a>
+  </li>
+  <li>
+    <a href="http://www.betterworldclub.com/travel-tools/book-green-travel/">
+       Book Green Travel
+    </a>
+  </li>
+  </ul>
+</li>
+<li>
+    <a href="http://www.betterworldclub.com/news-room/">News Room</a>
+    <ul style="z-index:4">
+  <li>
+    <a href="http://www.betterworldclub.com/news-room/kicking-asphalt/">
+       Kicking Asphalt
+    </a>
+  </li>
+  <li>
+    <a href="http://www.betterworldclub.com/news-room/newsletter-archives/">
+       Newsletter Archives
+    </a>
+  </li>
+  <li>
+    <a href="http://www.betterworldclub.com/blog/">
+       Blog
+    </a>
+  </li>
+  <li>
+    <a href="http://www.betterworldclub.com/news-room/press-releases/">
+       Press Releases
+    </a>
+  </li>
+  </ul>
+</li>
+<li>
+  <a href="http://www.betterworldclub.com/about-us/">About Us</a>
+  <ul style="z-index:4">
+  <li>
+    <a href="https://www.betterworldclub.com/contact/contact_start.cfm">
+      Contact Us
+    </a>
+  </li>
+  <li>
+    <a href="http://www.betterworldclub.com/about-us/green-business-practices/">
+       Green Business Practices
+    </a>
+  </li>
+  <li>
+    <a href="http://www.betterworldclub.com/about-us/partners/">
+       Partners
+    </a>
+  </li>
+  <li>
+    <a href="http://www.betterworldclub.com/about-us/testimonials/">
+       Testimonials
+    </a>
+  </li>
+  <li>
+    <a href="http://www.betterworldclub.com/about-us/history/">
+       History
+    </a>
+  </li>
+  <li>
+    <a href="http://www.betterworldclub.com/about-us/Staff/">
+       Staff
+    </a>
+  </li>
+  <li>
+    <a href="http://www.betterworldclub.com/about-us/privacy-policy/">
+        Privacy Policy
+    </a>
+  </li>
+  </ul>
+</li>
+</ul>
+</div>
+<div class="sixteen columns" style="background-image: url('/static/img/interior-header-image.jpg');background-repeat: none;height: 150px;position: relative;z-index:2" id="header_image">
+</div>
+
+<!------------------------------------------------>
+<!-- Breadcrumb Nav -->
+<div class="sixteen columns breadcrumb">
+		Home > News Room > Kicking Asphalt
+</div>
+<!-- End Breadcrumb Nav -->
+<div class="eleven columns maincontent" style="font-size: 90%;z-index:1; margin-top: 1em">
+<h1>Kicking Asphalt</h1>
+<div style="border: 1px solid #9B9B9A; -moz-border-radius: 15px; border-radius: 15px; background-color: #fff; box-shadow: 3px 3px 3px #888888;" id="main_content">
+<p><img src="/static/media/uploads/Content%20Page%20Header%20Images/kicking_asphalt_relevant.jpg" alt="Kicking Asphalt" height="157" width="600" /></p>
+<p>Stay informed, be inspired, and laugh out loud!</p>
+<p>Get the latest edition of our eNewsletter <a title="And taking names" href="/news-room/newsletter-archives/">Kicking Asphalt</a> delivered to your inbox. Kicking Asphalt is filled with useful consumer and environmental information, tips, and advice as well as member discounts and savings.</p>
+<p>You can also sign up for <a title="Call to Action" href="/news-room/newsletter-archives/">Driving Change</a>, our advocacy newsletter, or <a title="Savings Savings" href="/news-room/newsletter-archives/">Payola</a>, the discounts edition of our eNewsletter.</p>
+<p>Read one of our <a title="Newsletter Archives" href="/news-room/newsletter-archives/">recycled editions</a>, check out <a title="The innermost thoughts and projects of our staff" href="/blog/">our blog</a>, or subscribe now*.</p>
+<p align="right"><em>* We will NOT sell, rent, sublet, or let anyone "borrow" your email<br />address. We will expect you to love us so much you'll <a href="https://www.betterworldclub.com/membership/step_1.cfm"><strong>Join Now!</strong></a></em></p>
+<center>Subscribe to Our eNewsletters<br /> <!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup"><form action="//betterworldclub.us6.list-manage.com/subscribe/post?u=82c3756220ba727526e030011&amp;id=8c5e1ad104" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+<h2>Subscribe to our mailing list</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span> </label> <input value="" name="EMAIL" class="required email" id="mce-EMAIL" type="email" /></div>
+<div class="mc-field-group"><label for="mce-FNAME">First Name </label> <input value="" name="FNAME" id="mce-FNAME" type="text" /></div>
+<div class="mc-field-group"><label for="mce-LNAME">Last Name </label> <input value="" name="LNAME" id="mce-LNAME" type="text" /></div>
+<div id="mce-responses" class="clear">
+<div class="response" id="mce-error-response" style="display: none;"></div>
+<div class="response" id="mce-success-response" style="display: none;"></div>
+</div>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+<div style="position: absolute; left: -5000px;"><input name="b_82c3756220ba727526e030011_8c5e1ad104" tabindex="-1" value="" type="text" /></div>
+<input value="Subscribe" name="subscribe" type="submit" /></form></div>
+<!--End mc_embed_signup--></center><hr />
+<!------------------------------------------------->
+<!--            Footer include code              -->
+<!-- Inserted at end of file -->
+<!-- before the close body and close html tags -->
+<hr />
+<p style="text-align: center;"><strong>Signing up for Better World Club is easy!</strong></p>
+<p style="text-align: center;"><a title="Join the Better World Club!" href="https://www.betterworldclub.com/membership/step_1.cfm"><img src="/static/media/uploads/Join%20Buttons/original_floral_button_png.png" alt="Better World Club Join Button" title="Join the Better World Club!" height="119" width="228" /></a></p>
+<p style="text-align: center;">Or call toll free at 1.866.238.1137 (Mon-Fri, 8:30 a.m. to 5:30 p.m. PST).<br />Questions? Check out our <a title="Frequently Asked Questions" href="/faq/">FAQs</a> or <a title="Contact Us Form" href="https://www.betterworldclub.com/contact/contact_start.cfm">contact us</a>.</p>
+<p style="text-align: center;" title="Travel Tools" href="/travel-tools/travel-tools/"><a title="Roadside Assistance" href="/roadside-assistance/auto-roadside-assistance/">Roadside Assistance</a> | <a title="Membership Benifits" href="/roadside-assistance/member-benefits/">Membership Benefits</a> | <a title="Insurance Services" href="/green-insurance-services/insurance-services/">BWC Insurance Program</a> | <a title="BWC Business Practices" href="/about-us/green-business-practices/">More About BWC</a></p>
+</div>
+</div>
+<div class="five columns" style="margin-top: 1em">
+<div style="text-align: center; padding-top: 1.5em">
+  <a href="https://www.betterworldclub.com/membership/step_1.cfm">
+  <img src="/static/img/join_button.png" border=0 style="width: 100%; height: auto;">
+  </a>
+</div>
+<br />
+<div style="margin-right: .5em; margin-left: .5em">
+<h4 style="text-align: center">Quotes From Members</h4>
+<ul class="bxslider" style="margin-bottom: 1em; padding-bottom: 1em">
+  <li class="member-quote">
+"Also, I'm really pleased that I found Better World; it really suits the values of my family and, by the way, my congregation and my grad students. I don't know how many in either group belong to any auto club or travel club, but they surely would be ashamed not to join up with BW if they ever join any.  :)"
+  </li>
+  <li class="member-quote">
+    "Thanks again for your prompt and courteous and helpful support."
+  </li>
+  <li class="member-quote">
+    "This claim was the only time so far that we've needed to use our BWC coverage, but it was exactly what we needed in that situation, so we'll definitely keep our memberships active in case we run into issues on future rides!"
+  </li>
+  <li class="member-quote">
+    "You serve your market with intelligence and humor. I didn't feel like I was a family member when I had AAA, but I feel like an important part of a socially-conscious family with you. Keep the newsletters coming."
+  </li>
+  <li class="member-quote">
+    "Thanks very much!  I switched to BWC because I believe you share my values and concern for sustainability.  The hybrid discount is a great added bonus.  It's great to see businesses thrive on a positive progressive message."
+  </li>
+  <li class="member-quote">
+    "My alternator gave out suddenly one night. I was stranded on a frontage road near the freeway, in the dark, in the rain, a couple hundred miles from home late on a weekend night. When I called BWC, your representative asked if I was in a safe place, dispatched a tow truck, and asked if I needed help finding a hotel for the night. Needless to say, I was impressed. It's good to know folks like you have my back!"
+  </li>
+  <li class="member-quote">
+    "Your newsletter is full of stimulating information--not only revealing the truth about companies/regulations that are unfair, unconscious, or downright despicable, but also highlighting positive efforts and developments for a better world. Really appreciate it. And also enjoy your sense of humor."
+  </li>
+</ul>
+<center>
+  <span id="slider-prev"></span> | <span id="slider-next"></span>
+</center>
+</div>
+<div style="text-align: center; margin-top: 2em">
+  <a href="http://www.betterworldclub.com/roadside-assistance/auto-roadside-assistance/">
+  <img src="/static/img/bwc-roadside.jpg" id="bwc_ad">
+  </a>
+</div>
+</div>
+</div>
+<!-- /container -->
+<div width="100%" style="background-color: #91BE84; color: #F5F4F3; padding-top: 1em; padding-bottom: 2em; margin-top: 2em; font-size: 90%">
+<div class="container">
+<div class="sixteen columns" style="margin-bottom: .5em">
+<span style="color: #051F5B; font-size: 150%; font-weight: bold">
+  Better World Club
+</span>
+</div>
+<div class="ten columns">
+  <img src="http://www.betterworldclub.com/p/ra/mmm-bike.gif">
+</div>
+<div class="five columns" style="float:right;padding-top: .5em" id="footer">
+<script>
+  (function() {
+    var cx = '010919885317661095198:jy81ts_wk20';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+<br />
+<a href="http://facebook.com/betterworldclub"><img src="/static/img/facebook_footer.png" border=0></a>
+<a href="http://twitter.com/betterworldclub"><img src="/static/img/twitter_footer.png" border=0"></a>
+<br />
+<a href="http://www.betterworldclub.com/about-us/privacy-policy/">Privacy Policy</a><br />
+<a href="https://www.betterworldclub.com/contact/contact_start.cfm">Contact Us</a><br />
+</div>
+</div>
+</div> 
+<!-- /Footer container -->
+<div width="100%" style="background-color: #606060; color: #F5F4F3; padding-top: 1em; padding-bottom: 1em; font-size: 85%; text-align: center">
+  &copy; 2015 Better World Club - All Rights Reserved
+</div>
+<script src="/static/js/jquery-1.9.1.min.js"></script>
+<script src="/static/js/jquery.bxslider.min.js"></script>
+<script src="/static/js/hoverIntent.js"></script>
+<script src="/static/js/superfish.js"></script>
+<script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+<script>
+$(function() {
+  $( document ).tooltip();
+});
+</script>
+<script>
+  (function($){ //create closure so we can safely use $ as alias for jQuery
+    $(document).ready(function(){
+      // initialise plugin
+      var example = $('#example').superfish({
+        //add options here if required
+      });
+      $('.bxslider').bxSlider({
+        auto: true,
+ adaptiveHeight: true,
+ mode: 'fade',
+   nextSelector: '#slider-next',
+ prevSelector: '#slider-prev',
+ nextText: 'Next ?',
+ prevText: '? Previous',
+ pause: 6000,
+      });
+    });
+  })(jQuery);
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-852533-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</body>
+</html>
+<!------------------------------------------------->

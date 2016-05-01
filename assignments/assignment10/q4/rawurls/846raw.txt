@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(e,t){return function(){o(e,[(new Date).getTime()].concat(a(arguments)),null,t)}}var o=e("handle"),i=e(2),a=e(3);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var u=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(u,function(e,t){newrelic[t]=r(f+t,"api")}),i(c,function(e,t){newrelic[t]=r(f+t)}),t.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),o("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(0>o?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?u(e,a,i):i()}function n(n,r,o){e&&e(n,r,o);for(var i=t(o),a=l(n),u=a.length,c=0;u>c;c++)a[c].apply(i,r);var s=f[g[n]];return s&&s.push([m,n,r,i]),i}function p(e,t){w[e]=l(e).concat(t)}function l(e){return w[e]||[]}function d(e){return s[e]=s[e]||o(n)}function v(e,t){c(e,function(e,n){t=t||"feature",g[n]=t,t in f||(f[t]=[])})}var w={},g={},m={on:p,emit:n,get:d,listeners:l,context:t,buffer:v};return m}function i(){return new r}var a="nr@context",u=e("gos"),c=e(2),f={},s={},p=t.exports=o();p.backlog=f},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!w++){var e=v.info=NREUM.info,t=s.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&t){c(l,function(t,n){e[t]||(e[t]=n)});var n="https"===p.split(":")[0]||e.sslForHttp;v.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=v.proto+e.agent,t.parentNode.insertBefore(r,t)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=window,s=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},e(1);var p=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),v=t.exports={offset:a(),origin:p,features:{},xhrWrappable:d};s.addEventListener?(s.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(s.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),u("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader"]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="http://jagatplay.com/xmlrpc.php">
+
+    <link type="text/css" media="all" href="http://jagatplay.com/wp-content/cache/autoptimize/css/autoptimize_b36c47d7a77d3c31c3c7bb22e6025ab7.css" rel="stylesheet" /><title>Ingin Rival Schools Baru? Capcom Minta Gamer Buktikan &#8211; Jagat Play</title>
+<link rel="alternate" type="application/rss+xml" title="Jagat Play &raquo; Feed" href="http://jagatplay.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Jagat Play &raquo; Comments Feed" href="http://jagatplay.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Jagat Play &raquo; Ingin Rival Schools Baru? Capcom Minta Gamer Buktikan Comments Feed" href="http://jagatplay.com/2016/01/news/ingin-rival-schools-baru-capcom-minta-gamer-buktikan/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/jagatplay.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+
+
+
+<link rel='stylesheet' id='sharify-css'  href='http://jagatplay.com/wp-content/plugins/sharify/sharify-style.php' type='text/css' media='all' />
+
+
+
+
+
+
+
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js?ver=1.11.3'></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activeGalleries":"1","animation":"1","hideCloseButtonOnMobile":"0","removeBarsOnMobile":"0","hideBars":"1","hideBarsDelay":"5000","videoMaxWidth":"1080","useSVG":"1","loopAtEnd":"0"};
+/* ]]> */
+</script>
+
+<link rel='https://api.w.org/' href='http://jagatplay.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://jagatplay.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://jagatplay.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.1" />
+<link rel="canonical" href="http://jagatplay.com/2016/01/news/ingin-rival-schools-baru-capcom-minta-gamer-buktikan/" />
+<link rel='shortlink' href='http://jagatplay.com/?p=61850' />
+<link rel="alternate" type="application/json+oembed" href="http://jagatplay.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fjagatplay.com%2F2016%2F01%2Fnews%2Fingin-rival-schools-baru-capcom-minta-gamer-buktikan%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://jagatplay.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fjagatplay.com%2F2016%2F01%2Fnews%2Fingin-rival-schools-baru-capcom-minta-gamer-buktikan%2F&#038;format=xml" />
+<meta property="fb:app_id" content="443125465749150"/><meta property="og:type" content="article"/><meta property="og:url" content="http://jagatplay.com/2016/01/news/ingin-rival-schools-baru-capcom-minta-gamer-buktikan/"/><meta property="og:title" content="Ingin Rival Schools Baru? Capcom Minta Gamer Buktikan"/><meta property="og:description" content=""/><meta property="og:image" content="http://jagatplay.com/wp-content/uploads/2013/10/rival-schools-150x150.jpg"/>				<!-- WordPress Popular Posts v3.3.3 -->
+				<script type="text/javascript">//<![CDATA[
+
+					var sampling_active = 0;
+					var sampling_rate   = 100;
+					var do_request = false;
+
+					if ( !sampling_active ) {
+						do_request = true;
+					} else {
+						var num = Math.floor(Math.random() * sampling_rate) + 1;
+						do_request = ( 1 === num );
+					}
+
+					if ( do_request ) {
+
+						// Create XMLHttpRequest object and set variables
+						var xhr = ( window.XMLHttpRequest )
+						  ? new XMLHttpRequest()
+						  : new ActiveXObject( "Microsoft.XMLHTTP" ),
+						url = 'http://jagatplay.com/wp-admin/admin-ajax.php',
+						params = 'action=update_views_ajax&token=3530ad48cf&wpp_id=61850';
+						// Set request method and target URL
+						xhr.open( "POST", url, true );
+						// Set request header
+						xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
+						// Hook into onreadystatechange
+						xhr.onreadystatechange = function() {
+							if ( 4 === xhr.readyState && 200 === xhr.status ) {
+								if ( window.console && window.console.log ) {
+									window.console.log( xhr.responseText );
+								}
+							}
+						};
+						// Send request
+						xhr.send( params );
+
+					}
+
+				//]]></script>
+				<!-- End WordPress Popular Posts v3.3.3 -->
+				<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url('http://jagatplay.com/wp-content/uploads/2016/03/QB15285_jagatplay.com_site-skin_1920X1080_3.jpg'); background-repeat: no-repeat; background-position: top center; background-attachment: fixed; }
+</style>
+
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body class="single single-post postid-61850 single-format-standard custom-background group-blog">
+
+<!--navbar -->
+<nav class="navbar navbar-xs navbar-default navbar-fixed-top" role="navigation">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".jg-navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            <div class="hidden-lg hidden-md hidden-sm visible-xs">
+                <a class="navbar-brand" href="http://jagatplay.com">
+                    &nbsp;Jagat Play&nbsp;
+                </a>
+            </div>
+        </div>
+
+        <div class="collapse navbar-collapse jg-navbar-collapse">
+            <div class="menu-primary-container"><ul id="menu-primary" class="nav navbar-nav"><li id="menu-item-60339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60339"><a title="HOME" href="http://www.jagatplay.com">HOME</a></li>
+<li id="menu-item-60340" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-60340 dropdown"><a title="CHANNELS" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">CHANNELS <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-60341" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60341"><a title="PC" href="http://jagatplay.com/read/pc-2/">PC</a></li>
+	<li id="menu-item-60343" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60343"><a title="PlayStation" href="http://jagatplay.com/read/playstation3/">PlayStation</a></li>
+	<li id="menu-item-60345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60345"><a title="Nintendo" href="http://jagatplay.com/read/nintendo-2/">Nintendo</a></li>
+	<li id="menu-item-60344" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60344"><a title="Gaming Gear" href="http://jagatplay.com/read/gaming-gear/">Gaming Gear</a></li>
+	<li id="menu-item-60342" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60342"><a title="Top List" href="http://jagatplay.com/read/top-list-2/">Top List</a></li>
+	<li id="menu-item-60346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60346"><a title="Time Machine" href="http://jagatplay.com/read/time-machine/">Time Machine</a></li>
+</ul>
+</li>
+<li id="menu-item-60347" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-60347 dropdown"><a title="JAGAT NETWORKS" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">JAGAT NETWORKS <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-60348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60348"><a title="JAGAT REVIEW" href="http://www.jagatreview.com/">JAGAT REVIEW</a></li>
+	<li id="menu-item-60349" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60349"><a title="JAGAT OC" href="http://www.jagatoc.com">JAGAT OC</a></li>
+	<li id="menu-item-60350" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60350"><a title="JAGATREVIEW.TV" href="https://www.youtube.com/user/JagatReview/">JAGATREVIEW.TV</a></li>
+</ul>
+</li>
+<li id="menu-item-60351" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60351"><a title="CONTACT US" href="http://jagatplay.com/contact-form/">CONTACT US</a></li>
+</ul></div>
+            <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                        <span class="visible-lg visible-md"><i class="fa fa-search"></i> </span>
+                        <span class="hidden-lg hidden-md">SEARCH</span>
+                    </a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li>
+                            <div class="navbar-search-box">
+                                <div class="top-search">
+                                    <form method="get" action="http://jagatplay.com" class="navbar-form navbar-right" role="search">
+                                        <div class="input-group">
+                                            <input type="text" name="s" id="s" class="form-control input-sm" placeholder="Search..." />
+												<span class="input-group-btn">
+													<button id="searchsubmit" class="btn btn-info btn-sm" type="submit" value="Search"><i class="fa fa-search"></i></button>
+												</span>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+            <div class="logo-padding">
+                <a href="http://jagatplay.com">
+                    <img class="img-responsive logo-center" src="http://jagatplay.com/wp-content/themes/jagatplay/img/jagatplaylogo.png" alt="Jagat Play"/>
+                </a>
+            </div>
+        </div>
+        <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+            <div class="visible-lg visible-md hidden-sm hidden-xs">
+                <div class="logo-padding">
+                                            <div id="widget-top">			<div class="textwidget"><br />
+<div class="text-center">
+<iframe id='a93f0677' name='a93f0677' src='http://ik.jagatreview.com/www/delivery/afr.php?zoneid=5&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='728' height='90'><a href='http://ik.jagatreview.com/www/delivery/ck.php?n=a4f170d6&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ik.jagatreview.com/www/delivery/avw.php?zoneid=5&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a4f170d6' border='0' alt='' /></a></iframe>
+</div></div>
+		</div>                                    </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    
+<div class="play-container">
+    <div class="row no-gutters">
+        <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 inside">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="featured-heading t-shadow hidden-sm hidden-xs">
+                        <ul class="breadcrumb"><li><a href="http://jagatplay.com">Home</a></li><li><a href="http://jagatplay.com/read/news/" rel="category tag">News</a></ul>                    </div>
+                    <div class="featured-heading-mob t-shadow hidden-lg hidden-md">
+                        <ul class="breadcrumb"><li><a href="http://jagatplay.com">Home</a></li><li><a href="http://jagatplay.com/read/news/" rel="category tag">News</a></ul>                    </div>
+
+                    <div class="featured-padding-main">
+                                                <div class="post-featured-image" style="background-image: url('http://jagatplay.com/wp-content/uploads/2013/10/rival-schools.jpg')">
+                            <div class="post-featured-main">
+                                <div class="post-details-box">
+                                    <span class="badge badge-orange"><a href="http://jagatplay.com/read/news/" title="View all posts in News">News</a></span>                                    <span class="badge badge-orange">January 27, 2016</span>
+                                    <span class="badge badge-orange">Author: <a href="http://jagatplay.com/author/pladidus/">Pladidus Santoso</a></span>
+                                    <span class="badge badge-orange"><fb:comments-count href="http://jagatplay.com/2016/01/news/ingin-rival-schools-baru-capcom-minta-gamer-buktikan/"></fb:comments-count> <i class="fa fa-comment"></i></span>
+                                </div>
+                                <header class="entry-header">
+                                    <h1 class="post-title t-shadow"><strong>Ingin Rival Schools Baru? Capcom Minta Gamer Buktikan</strong></h1>                                </header>
+                            </div>
+                        </div>
+                        <div id="post-61850" class="post-body">
+                            <p><a href="http://jagatplay.com/wp-content/uploads/2013/10/rival-schools.jpg" rel="attachment wp-att-24270" data-rel="lightbox-0" title=""><img class="aligncenter size-medium wp-image-24270" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://jagatplay.com/wp-content/uploads/2013/10/rival-schools-600x308.jpg" alt="rival schools" width="600" height="308" srcset="http://jagatplay.com/wp-content/uploads/2013/10/rival-schools-600x308.jpg 600w, http://jagatplay.com/wp-content/uploads/2013/10/rival-schools-350x180.jpg 350w, http://jagatplay.com/wp-content/uploads/2013/10/rival-schools-100x51.jpg 100w, http://jagatplay.com/wp-content/uploads/2013/10/rival-schools-275x141.jpg 275w, http://jagatplay.com/wp-content/uploads/2013/10/rival-schools-512x263.jpg 512w, http://jagatplay.com/wp-content/uploads/2013/10/rival-schools-140x72.jpg 140w, http://jagatplay.com/wp-content/uploads/2013/10/rival-schools.jpg 620w" sizes="(max-width: 600px) 100vw, 600px" / data-unveil="true"><noscript><img class="aligncenter size-medium wp-image-24270" src="http://jagatplay.com/wp-content/uploads/2013/10/rival-schools-600x308.jpg" alt="rival schools" width="600" height="308" srcset="http://jagatplay.com/wp-content/uploads/2013/10/rival-schools-600x308.jpg 600w, http://jagatplay.com/wp-content/uploads/2013/10/rival-schools-350x180.jpg 350w, http://jagatplay.com/wp-content/uploads/2013/10/rival-schools-100x51.jpg 100w, http://jagatplay.com/wp-content/uploads/2013/10/rival-schools-275x141.jpg 275w, http://jagatplay.com/wp-content/uploads/2013/10/rival-schools-512x263.jpg 512w, http://jagatplay.com/wp-content/uploads/2013/10/rival-schools-140x72.jpg 140w, http://jagatplay.com/wp-content/uploads/2013/10/rival-schools.jpg 620w" sizes="(max-width: 600px) 100vw, 600px" /></noscript></a></p>
+<p>Karena sekedar sensasi nostalgia kah atau memang terbukti bahwa banyak seri game lawas punya kualitas yang lebih baik dibandingkan game-game saat ini. Bahwa terlepas dari kualitas visualisasinya yang mungkin sudah tak lagi relevan, otak seolah sulit untuk melupakan begitu saja kesenangan, keseruan, dan tantangan yang ia tawarkan di masa lalu. Tidak mengherankan jika banyak gamer, berbanding dengan apa yang ditawarkan sang publisher saat ini, justru berharap agar franchise-franchise lawas ini punya kesempatan kembali untuk bangkit. Salah satu yang banyak mengabaikan potensi tersebut adalah Capcom. Lihat saja<strong> Onimusha, Dino Crisis, Megaman, dan tentu saja, Rival Schools</strong>. Untuk nama yang terakhir ini, tak kalah banyak gamer yang mengharapkannya kembali.</p>
+<p>Capcom sebenarnya mendengar dan mengerti apa yang dimau gamer, setidaknya hal tersebut yang diakui oleh bapak Street Fighter – Yoshinori Ono. Ia tahu banyak gamer yang menginginkan Rival Schools atau Capcom vs SNK3 hidup di platform generasi saat ini. Lantas mengapa tak dikabulkan? Ono menyebut bahwa gamer tak cukup kuat untuk membuktikan diri bahwa mereka memang benar-benar ingin melihat keduanya kembali.  Ia mengambil kasus game fighting Capcom yang lain –<strong> Darkstalkers.</strong></p>
+<figure id="attachment_61851" style="width: 512px" class="wp-caption aligncenter"><img class="size-full wp-image-61851" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://jagatplay.com/wp-content/uploads/2016/01/rival-schools.jpg" alt="Capcom mengetahui permintaan soal Rival Schools. Namun ia meminta gamer tak hanya &quot;berteriak&quot;, tetapi juga membuktikan bahwa memang mereka tertarik." width="512" height="512" srcset="http://jagatplay.com/wp-content/uploads/2016/01/rival-schools.jpg 512w, http://jagatplay.com/wp-content/uploads/2016/01/rival-schools-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" / data-unveil="true"><figcaption class="wp-caption-text"><noscript><img class="size-full wp-image-61851" src="http://jagatplay.com/wp-content/uploads/2016/01/rival-schools.jpg" alt="Capcom mengetahui permintaan soal Rival Schools. Namun ia meminta gamer tak hanya &quot;berteriak&quot;, tetapi juga membuktikan bahwa memang mereka tertarik." width="512" height="512" srcset="http://jagatplay.com/wp-content/uploads/2016/01/rival-schools.jpg 512w, http://jagatplay.com/wp-content/uploads/2016/01/rival-schools-150x150.jpg 150w" sizes="(max-width: 512px) 100vw, 512px" /></noscript> Capcom mengetahui permintaan soal Rival Schools. Namun ia meminta gamer tak hanya &#8220;berteriak&#8221;, tetapi juga membuktikan bahwa memang mereka tertarik.</figcaption></figure>
+<p>Gamer sempat meminta Capcom mengembangkan seri Darkstalkers terbaru dan Capcom sendiri sebenarnya sudah tertarik untuk mulai mengerjakan sebuah seri sekuel. Namun ketika mereka berusaha melihat seberapa besar komunitas franchise ini dengan menjua<strong>l Darkstalkers Resurrection –</strong> versi Remaster dari judul klasiknya, ia ternyata <strong>sama sekali tidak laku</strong> di pasaran. Capcom langsung <strong>melihat lemahnya angka penjualan ini sebagai sebuah ketidaktertarikan dan berakhir mengalihkan sumber daya tersebut untuk proyek game yang berbed</strong>a. Ono menyebut jika gamer memang ingin Rival Schools dan Marvel vs SNK hadir kembali, mereka harus memastikan bahwa kasus Darkstalkers ini tidak lagi terjadi.</p>
+<p>Benar sekali, secara tidak langsung Ono dan Capcom “mendorong” Anda untuk membeli game Remaster apapun yang mereka luncurkan terkait kedua judul tersebut jika Anda memang ingin keduanya bangkit lagi sebagai sebuah franchise di platform generasi saat ini. Sebuah strategi yang positif atau negatif? Anda sendiri yang memutuskan.</p>
+<p><em>Source: <a href="http://www.destructoid.com/do-you-want-a-new-rival-schools-or-capcom-vs-snk-3--336399.phtml?utm_source=dlvr.it&amp;utm_medium=twitter" target="_blank">Destructoid</a></em></p>
+
+                            
+                                                            <!-- Tags:<br>
+                                <ul class="list-inline jg-tags-list">
+                                    <li><span class="jg-tags"><a href="http://jagatplay.com/tag/capcom/" rel="tag">capcom</a></span></li><li><span class="jg-tags"><a href="http://jagatplay.com/tag/fighting/" rel="tag">fighting</a></span></li><li><span class="jg-tags"><a href="http://jagatplay.com/tag/gamingnews/" rel="tag">gamingnews</a></span></li><li><span class="jg-tags"><a href="http://jagatplay.com/tag/rival-schools/" rel="tag">rival schools</a></span></li><li><span class="jg-tags"><a href="http://jagatplay.com/tag/yoshinori-ono/" rel="tag">yoshinori ono</a></span></li>                                </ul> -->
+                                Tags: <a href="http://jagatplay.com/tag/capcom/" rel="tag">capcom</a>, <a href="http://jagatplay.com/tag/fighting/" rel="tag">fighting</a>, <a href="http://jagatplay.com/tag/gamingnews/" rel="tag">gamingnews</a>, <a href="http://jagatplay.com/tag/rival-schools/" rel="tag">rival schools</a>, <a href="http://jagatplay.com/tag/yoshinori-ono/" rel="tag">yoshinori ono</a><br />                                                        <div class="sharify-container"><ul><li class="sharify-btn-twitter">
+								<a title="Tweet on Twitter" href="https://twitter.com/intent/tweet?text=Ingin+Rival+Schools+Baru%3F+Capcom+Minta+Gamer+Buktikan: http://jagatplay.com/2016/01/news/ingin-rival-schools-baru-capcom-minta-gamer-buktikan/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
+									<span class="sharify-icon"><i class="sharify sharify-twitter"></i></span>
+									<span class="sharify-title">Tweet</span>
+								</a>
+							</li><li class="sharify-btn-facebook">
+								<a title="Share on Facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fjagatplay.com%2F2016%2F01%2Fnews%2Fingin-rival-schools-baru-capcom-minta-gamer-buktikan%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
+									<span class="sharify-icon"><i class="sharify sharify-facebook"></i></span>
+									<span class="sharify-title">Share</span>
+									<span class="sharify-count facebook" data-url="http://jagatplay.com/2016/01/news/ingin-rival-schools-baru-capcom-minta-gamer-buktikan/" data-text="Ingin Rival Schools Baru? Capcom Minta Gamer Buktikan - " >0</span>
+								</a>
+							</li><li class="sharify-btn-reddit">
+								<a title="Submit to Reddit" href="http://reddit.com/submit?url=http://jagatplay.com/2016/01/news/ingin-rival-schools-baru-capcom-minta-gamer-buktikan/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=950,height=450,toolbar=0'); return false;">
+									<span class="sharify-icon"><i class="sharify sharify-reddit"></i></span>
+									<span class="sharify-title">Reddit</span>
+								</a>
+							</li><li class="sharify-btn-email">
+								<a title="Share via mail" href="mailto:?subject=Ingin Rival Schools Baru? Capcom Minta Gamer Buktikan&body=Hey, checkout this great article: http://jagatplay.com/2016/01/news/ingin-rival-schools-baru-capcom-minta-gamer-buktikan/">
+									<span class="sharify-icon"><i class="sharify sharify-mail"></i></span>
+									<span class="sharify-title">Email</span>
+								</a>
+							</li></ul></div>
+                            <div class="row">
+                              <div class="hidden-lg hidden-md visible-sm visible-xs">
+                                <div class="post-nav-padding">
+                                  <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                    <a href="http://jagatplay.com/2016/01/pc-2/review-blade-soul-mmorpg-seksi-yang-super-seru/" rel="prev"><button type="button" class="btn btn-default btn-block">Previous Article</button></a>                                  </div>
+                                  <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                    <a href="http://jagatplay.com/2016/01/news/bapak-final-fantasy-unjuk-artwork-game-terbaru/" rel="next"><button type="button" class="btn btn-default btn-block">Next Article</button></a>                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                        </div><!-- #post-## -->
+
+                        <div class="section-heading t-shadow">
+                            Comments
+                        </div>
+
+                        <!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ --><div class="fb-comments" data-href="http://jagatplay.com/2016/01/news/ingin-rival-schools-baru-capcom-minta-gamer-buktikan/" data-num-posts="10" data-width="100%" data-colorscheme="dark"></div>
+                        <div class="random-box">
+                            <div class="section-heading t-shadow"><i class="fa fa-random"></i> RANDOM ARTICLES</div>
+                            
+<div id="post-65797">
+    <header class="entry-header">
+        <div class="row no-gutters">
+            <div class="col-lg-4 col-md-4 col-sm-4 com-xs-4">
+                <a href="http://jagatplay.com/2016/04/news/capcom-resident-evil-2-remake-masih-dikembangkan/">
+                    <div class="thumb main-thumb" style="background-image: url(http://jagatplay.com/wp-content/uploads/2016/04/re21-600x338-1.jpg);"></div>                </a>
+            </div>
+            <div class="col-lg-8 col-md-8 col-sm-8 com-xs-8">
+                <div class="random-body">
+                    <h4 class="jg-post-title"><a href="http://jagatplay.com/2016/04/news/capcom-resident-evil-2-remake-masih-dikembangkan/" rel="bookmark"><strong>Capcom: Resident Evil 2 Remake Masih Dikembangkan</strong></a></h4>                    Apa yang paling kita inginkan dari sebuah seri Resident Evil saat ini?                </div>
+            </div>
+        </div>
+    </header><!-- .entry-header -->
+</div><!-- #post-## -->
+<div id="post-62351">
+    <header class="entry-header">
+        <div class="row no-gutters">
+            <div class="col-lg-4 col-md-4 col-sm-4 com-xs-4">
+                <a href="http://jagatplay.com/2016/02/news/port-tales-of-symphonia-ke-pc-berantakan/">
+                    <div class="thumb main-thumb" style="background-image: url(http://jagatplay.com/wp-content/uploads/2016/02/feat-image-1.jpg);"></div>                </a>
+            </div>
+            <div class="col-lg-8 col-md-8 col-sm-8 com-xs-8">
+                <div class="random-body">
+                    <h4 class="jg-post-title"><a href="http://jagatplay.com/2016/02/news/port-tales-of-symphonia-ke-pc-berantakan/" rel="bookmark"><strong>Port Tales of Symphonia ke PC Berantakan!</strong></a></h4>                    JRPG memang bukan genre yang terhitung “familiar” untuk PC sebagai platform gaming. Tiga tahun yang lalu, sebagian besar gamer<br><a href="http://jagatplay.com/2016/02/news/port-tales-of-symphonia-ke-pc-berantakan/">continue <i class="fa fa-plus-square"></i></a>                </div>
+            </div>
+        </div>
+    </header><!-- .entry-header -->
+</div><!-- #post-## -->
+<div id="post-63035">
+    <header class="entry-header">
+        <div class="row no-gutters">
+            <div class="col-lg-4 col-md-4 col-sm-4 com-xs-4">
+                <a href="http://jagatplay.com/2016/02/news/fans-remake-star-wars-kotor-dengan-unreal-engine-4/">
+                    <div class="thumb main-thumb" style="background-image: url(http://jagatplay.com/wp-content/uploads/2016/02/star-wars-kotor-unreal.jpg);"></div>                </a>
+            </div>
+            <div class="col-lg-8 col-md-8 col-sm-8 com-xs-8">
+                <div class="random-body">
+                    <h4 class="jg-post-title"><a href="http://jagatplay.com/2016/02/news/fans-remake-star-wars-kotor-dengan-unreal-engine-4/" rel="bookmark"><strong>Fans Remake Star Wars: KOTOR dengan Unreal Engine 4</strong></a></h4>                    Sepanjang sejarah dunia gaming, ada beberapa game yang mampu menjadi pelopor dari sebuah era.                 </div>
+            </div>
+        </div>
+    </header><!-- .entry-header -->
+</div><!-- #post-## -->
+<div id="post-66208">
+    <header class="entry-header">
+        <div class="row no-gutters">
+            <div class="col-lg-4 col-md-4 col-sm-4 com-xs-4">
+                <a href="http://jagatplay.com/2016/04/news/dua-xbox-one-baru-akan-diperkenalkan-di-e3-2016/">
+                    <div class="thumb main-thumb" style="background-image: url(http://jagatplay.com/wp-content/uploads/2014/12/xbox-one1-600x400-2.jpg);"></div>                </a>
+            </div>
+            <div class="col-lg-8 col-md-8 col-sm-8 com-xs-8">
+                <div class="random-body">
+                    <h4 class="jg-post-title"><a href="http://jagatplay.com/2016/04/news/dua-xbox-one-baru-akan-diperkenalkan-di-e3-2016/" rel="bookmark"><strong>Dua Xbox One Baru Akan Diperkenalkan di E3 2016?</strong></a></h4>                    Berbeda dengan apa yang kita kenal soal konsep konsol selama belasan tahun terakhir ini, kemajuan teknologi yang begitu pesat<br><a href="http://jagatplay.com/2016/04/news/dua-xbox-one-baru-akan-diperkenalkan-di-e3-2016/">continue <i class="fa fa-plus-square"></i></a>                </div>
+            </div>
+        </div>
+    </header><!-- .entry-header -->
+</div><!-- #post-## -->                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 side">
+                            <div class="content-sidebar">			<div class="textwidget"><br>
+<div class="text-center">
+<iframe id='af3a95e6' name='af3a95e6' src='http://ik.jagatreview.com/www/delivery/afr.php?zoneid=6&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='300' height='250'><a href='http://ik.jagatreview.com/www/delivery/ck.php?n=abc5829d&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ik.jagatreview.com/www/delivery/avw.php?zoneid=6&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=abc5829d' border='0' alt='' /></a></iframe>
+</div></div>
+		</div><div class="content-sidebar">			<div class="textwidget"><br>
+<div class="text-center">
+<iframe id='a154be05' name='a154be05' src='http://ik.jagatreview.com/www/delivery/afr.php?zoneid=8&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='300' height='250'><a href='http://ik.jagatreview.com/www/delivery/ck.php?n=a7f5a513&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ik.jagatreview.com/www/delivery/avw.php?zoneid=8&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a7f5a513' border='0' alt='' /></a></iframe>
+</div>
+<br></div>
+		</div><div class="content-sidebar"><div class="section-heading t-shadow"><i class="fa fa-chevron-circle-right"></i> JAGAT REVIEW</div><div class="feedzy-rss"><ul><li  class="rss_item"><span class="title"><a href="http://www.jagatreview.com/2016/05/nexus-6p-terbaru-muncul-di-geekbench/" target="_blank">Nexus 6P Terbaru Muncul di Geekbench</a></span><div class="rss_content"></div></li><li  class="rss_item"><span class="title"><a href="http://www.jagatoc.com/2016/04/tips-deteksi-kecepatan-ram-pc-dengan-tepat/" target="_blank">Tips Deteksi Kecepatan RAM PC dengan Tepat</a></span><div class="rss_content"></div></li><li  class="rss_item"><span class="title"><a href="http://www.jagatreview.com/2016/04/lumia-950-lumia-950-xl-mungkin-dapatkan-double-tap-to-wake/" target="_blank">Lumia 950 &amp; Lumia 950 XL Mungkin Dapatkan &ldquo;Double Tap to Wake&rdquo;</a></span><div class="rss_content"></div></li><li  class="rss_item"><span class="title"><a href="http://www.jagatreview.com/2016/04/msi-hadirkan-motherboard-krait-gaming-untuk-intel-xeon/" target="_blank">MSI Hadirkan Motherboard “Krait Gaming” untuk Intel Xeon</a></span><div class="rss_content"></div></li><li  class="rss_item"><span class="title"><a href="http://www.toykepo.com/2016/04/samurai-spiderman-apakah-tetap-terlihat-lincah/" target="_blank">Samurai Spiderman, Apakah Tetap Terlihat Lincah?</a></span><div class="rss_content"></div></li><li  class="rss_item"><span class="title"><a href="http://www.jagatreview.com/2016/04/memasang-ssd-ke-pc-desktop/" target="_blank">Memasang SSD ke PC Desktop</a></span><div class="rss_content"></div></li><li  class="rss_item"><span class="title"><a href="http://www.jagatreview.com/2016/04/cortana-bukan-untuk-google-hanya-untuk-microsoft-edge/" target="_blank">Cortana Bukan untuk Google, Hanya untuk Microsoft  Edge</a></span><div class="rss_content"></div></li><li  class="rss_item"><span class="title"><a href="http://www.jagatreview.com/2016/04/snapchat-hasilkan-10-milyar-tayangan-video-per-hari/" target="_blank">Snapchat Hasilkan 10 Milyar Tayangan Video per Hari</a></span><div class="rss_content"></div></li><li  class="rss_item"><span class="title"><a href="http://www.jagatoc.com/2016/04/overclocking-amd-fx-8320e-tuning-fx-8-core-termurah/" target="_blank">Overclocking AMD FX-8320E: Tuning FX 8-Core Termurah</a></span><div class="rss_content"></div></li><li  class="rss_item"><span class="title"><a href="http://www.jagatreview.com/2016/04/samsung-berencana-buat-headset-vr-standalone/" target="_blank">Samsung Berencana Buat Headset VR Standalone</a></span><div class="rss_content"></div></li></ul></div></div><div class="content-sidebar"><div class="row"><div class="col-sm-12"><div class="section-heading t-shadow"><i class="fa fa-chevron-circle-right"></i> LATEST NEWS</div></div></div><ul class="list-group">
+                    <li class="news-title-box list-play">
+            <a class="list-title t-shadow" href="http://jagatplay.com/2016/04/news/film-tomb-raider-reboot-tentukan-aktris-lara-croft/" rel="bookmark"><strong>Film Tomb Raider Reboot Tentukan Aktris Lara Croft</strong></a>        </li>
+            <li class="news-title-box list-play">
+            <a class="list-title t-shadow" href="http://jagatplay.com/2016/04/news/sinyal-cod-4-modern-warfare-versi-remaster-menguat/" rel="bookmark"><strong>Sinyal COD 4: Modern Warfare versi Remaster Menguat!</strong></a>        </li>
+            <li class="news-title-box list-play">
+            <a class="list-title t-shadow" href="http://jagatplay.com/2016/04/news/dev-dark-souls-beralih-ke-judul-game-baru/" rel="bookmark"><strong>Dev. Dark Souls Beralih ke Judul Game Baru</strong></a>        </li>
+            <li class="news-title-box list-play">
+            <a class="list-title t-shadow" href="http://jagatplay.com/2016/04/news/inilah-12-tim-undangan-untuk-manila-major-dota-2/" rel="bookmark"><strong>Inilah 12 Tim Undangan untuk Manila Major DOTA 2</strong></a>        </li>
+            <li class="news-title-box list-play">
+            <a class="list-title t-shadow" href="http://jagatplay.com/2016/04/news/emulator-3ds-untuk-pc-kini-dukung-hd-rendering/" rel="bookmark"><strong>Emulator 3DS untuk PC Kini Dukung HD Rendering</strong></a>        </li>
+            <li class="news-title-box list-play">
+            <a class="list-title t-shadow" href="http://jagatplay.com/2016/04/news/babymetal-tuju-super-mario-maker/" rel="bookmark"><strong>BABYMETAL Tuju Super Mario Maker</strong></a>        </li>
+            <li class="news-title-box list-play">
+            <a class="list-title t-shadow" href="http://jagatplay.com/2016/04/news/the-division-pc-butuh-dibuat-ulang-untuk-basmi-cheater/" rel="bookmark"><strong>The Division PC Butuh Dibuat Ulang untuk Basmi Cheater</strong></a>        </li>
+            <li class="news-title-box list-play">
+            <a class="list-title t-shadow" href="http://jagatplay.com/2016/04/news/hacker-berhasil-bodohi-sistem-denuvo-fifa-16/" rel="bookmark"><strong>Hacker Berhasil Bodohi Sistem Denuvo FIFA 16!</strong></a>        </li>
+            <li class="news-title-box list-play">
+            <a class="list-title t-shadow" href="http://jagatplay.com/2016/04/news/dicuri-uncharted-4-muncul-awal-di-inggris/" rel="bookmark"><strong>Dicuri, Uncharted 4 Muncul Awal di Inggris</strong></a>        </li>
+            <li class="news-title-box list-play">
+            <a class="list-title t-shadow" href="http://jagatplay.com/2016/04/news/valkyrie-anatomia-unjuk-gameplay-perdana/" rel="bookmark"><strong>Valkyrie Anatomia Unjuk Gameplay Perdana</strong></a>        </li>
+            <li class="news-title-box list-play">
+            <a class="list-title t-shadow" href="http://jagatplay.com/2016/04/news/call-of-duty-terbaru-usung-nama-infinite-warfare/" rel="bookmark"><strong>Call of Duty Terbaru Usung Nama Infinite Warfare?</strong></a>        </li>
+            <li class="news-title-box list-play">
+            <a class="list-title t-shadow" href="http://jagatplay.com/2016/04/news/nintendo-nx-rilis-tahun-depan/" rel="bookmark"><strong>Nintendo NX Rilis Tahun Depan!</strong></a>        </li>
+        </ul>
+</div><div class="content-sidebar"><div class="section-heading t-shadow"><i class="fa fa-chevron-circle-right"></i> JP ON FACEBOOK</div>			<div class="textwidget"><div class="text-center">
+<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FJagatPlay&amp;width=290&amp;height=590&amp;colorscheme=dark&amp;show_faces=true&amp;border_color&amp;stream=true&amp;header=true&amp;appId=112119402175363" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:290px; height:590px;" allowTransparency="true"></iframe>
+</div></div>
+		</div>
+<!-- WordPress Popular Posts Plugin v3.3.3 [W] [daily] [views] [custom] -->
+<div class="content-sidebar">
+<div class="section-heading t-shadow"><i class="fa fa-chevron-circle-right"></i> POPULAR ARTICLES</div>
+<ul class="list-group">
+<li class="news-title-box list-play"><span class="list-title-pop t-shadow"> <a href="http://jagatplay.com/2016/04/news/jagatplay-ngeracau-15-game-berbahaya-untuk-anak/" title="JagatPlay NgeRacau: 15 Game Berbahaya untuk Anak!" class="wpp-post-title" target="_self">JagatPlay NgeRacau: 15 Game Berbahaya untuk Anak!</a> </span></li>
+<li class="news-title-box list-play"><span class="list-title-pop t-shadow"> <a href="http://jagatplay.com/2016/04/features/playtest-gaming-dengan-lenovo-yoga-700/" title="PlayTest: Gaming Dengan Lenovo Yoga 700!" class="wpp-post-title" target="_self">PlayTest: Gaming Dengan Lenovo Yoga 700!</a> </span></li>
+<li class="news-title-box list-play"><span class="list-title-pop t-shadow"> <a href="http://jagatplay.com/2015/09/news/20-game-terbaik-playstation-1-sepanjang-masa/" title="20 Game Terbaik Playstation 1 Sepanjang Masa!" class="wpp-post-title" target="_self">20 Game Terbaik Playstation 1 Sepanjang Masa!</a> </span></li>
+<li class="news-title-box list-play"><span class="list-title-pop t-shadow"> <a href="http://jagatplay.com/2016/04/news/doom-punya-tingkat-kesulitan-super-tinggi/" title="Doom Punya Tingkat Kesulitan Super Tinggi" class="wpp-post-title" target="_self">Doom Punya Tingkat Kesulitan Super Tinggi</a> </span></li>
+<li class="news-title-box list-play"><span class="list-title-pop t-shadow"> <a href="http://jagatplay.com/2015/04/features/10-misteri-terbesar-harvest-moon-back-to-nature/" title="10 Misteri Terbesar Harvest Moon: Back To Nature!" class="wpp-post-title" target="_self">10 Misteri Terbesar Harvest Moon: Back To Nature!</a> </span></li>
+<li class="news-title-box list-play"><span class="list-title-pop t-shadow"> <a href="http://jagatplay.com/2016/04/news/spesifikasi-pc-untuk-forza-motorsport-6-apex/" title="Spesifikasi PC Untuk Forza Motorsport 6: Apex" class="wpp-post-title" target="_self">Spesifikasi PC Untuk Forza Motorsport 6: Apex</a> </span></li>
+<li class="news-title-box list-play"><span class="list-title-pop t-shadow"> <a href="http://jagatplay.com/2016/04/sticky/nvidia-jagatplay-giveaway-1-vga-gigabyte-950-extreme-gaming-gratis/" title="NVIDIA &#8211; JagatPlay Giveaway: 1 VGA Gigabyte GTX 950 Extreme Gaming GRATIS!" class="wpp-post-title" target="_self">NVIDIA &#8211; JagatPlay Giveaway: 1 VGA Gigabyte GTX 950 Extreme Gaming GRATIS!</a> </span></li>
+<li class="news-title-box list-play"><span class="list-title-pop t-shadow"> <a href="http://jagatplay.com/2016/04/news/film-tomb-raider-reboot-tentukan-aktris-lara-croft/" title="Film Tomb Raider Reboot Tentukan Aktris Lara Croft" class="wpp-post-title" target="_self">Film Tomb Raider Reboot Tentukan Aktris Lara Croft</a> </span></li>
+<li class="news-title-box list-play"><span class="list-title-pop t-shadow"> <a href="http://jagatplay.com/2013/01/news/30-game-playstation-2-paling-memorable-a-tribute/" title="30 Game Playstation 2 Paling Memorable: A Tribute" class="wpp-post-title" target="_self">30 Game Playstation 2 Paling Memorable: A Tribute</a> </span></li>
+<li class="news-title-box list-play"><span class="list-title-pop t-shadow"> <a href="http://jagatplay.com/2015/03/news/15-anime-terbaik-untuk-gamer/" title="15 Anime Terbaik untuk Gamer!" class="wpp-post-title" target="_self">15 Anime Terbaik untuk Gamer!</a> </span></li>
+
+</ul>
+</div>
+<!-- End WordPress Popular Posts Plugin v3.3.3 -->
+<div class="content-sidebar">			<div class="textwidget"><br>
+<div class="text-center">
+<iframe id='abe0f840' name='abe0f840' src='http://ik.jagatreview.com/www/delivery/afr.php?zoneid=7&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='300' height='250'><a href='http://ik.jagatreview.com/www/delivery/ck.php?n=ae69b78b&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ik.jagatreview.com/www/delivery/avw.php?zoneid=7&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ae69b78b' border='0' alt='' /></a></iframe>
+</div></div>
+		</div>                    </div>
+    </div>
+
+    <div class="footer-area">
+        <div class="row">
+    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+        <div class="text-center">
+            <img src="http://jagatplay.com/wp-content/themes/jagatplay/img/jagatreview_logo.png" alt="Jagat Review" class="img-responsive center-x logo-bottom" />
+        </div>
+    </div>
+
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+        <div class="footer-box text-center">
+            <address>
+                <strong>PT. Jagat Genta Teknologi</strong><br>
+                Golden Centrum AC-AD<br>
+                Jl. Majapahit No. 26<br>
+                Jakarta Pusat 10160, Indonesia<br>
+                Phone: +62 21 351 8451<br>
+                Fax: +62 21 351 8453
+            </address>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+        <div class="footer-box">
+            <div class="social">
+                <ul class="text-center">
+                    <li><a href="https://www.facebook.com/JagatPlay/"><i class="fa fa-lg fa-facebook"></i></a></li>
+                    <li><a href="https://twitter.com/jagatplay"><i class="fa fa-lg fa-twitter"></i></a></li>
+                    <li><a href="https://www.youtube.com/user/JagatReview"><i class="fa fa-lg fa-youtube"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<hr/>
+<footer id="colophon" class="site-footer" role="contentinfo">
+    <div class="row">
+        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+            <div class="copy text-center">
+                <span>&copy; PT. Jagat Genta Teknologi | 2010-2016</span>
+            </div><!-- .site-info -->
+        </div>
+        <div class="col-lg-6 col-lg-offset-2 col-md-6 col-md-offset-2 col-sm-12 col-xs-12">
+				<span class="text-center">
+									</span>
+
+        </div>
+    </div>
+    <div class="bottom-spacer"></div>
+</footer><!-- #colophon -->
+<a href="#" id="go-up" class="btn btn-success back-to-top btn-lg"><i class="fa fa-arrow-up"></i></a>
+
+
+    </div>
+</div>
+<div class="bottom-void"></div>
+
+
+
+</div>
+
+<img id="elRaptor" style="display: none" src="http://jagatplay.com/wp-content/themes/jagatplay/egg/box.png"/>
+<audio id="elRaptorShriek" preload="none"><source src="http://jagatplay.com/wp-content/themes/jagatplay/egg/mgs.mp3" /><source src="http://jagatplay.com/wp-content/themes/jagatplay/egg/mgs.ogg" /></audio>
+
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/jagatplay.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
+/* ]]> */
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var image_lazy_load = {"image_unveil_load":"0"};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+		<script type="text/javascript">
+		jQuery(document).ready(function(){
+			jQuery('.entry-content').fitVids();
+		});
+		</script>
+		<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/id_ID/sdk.js#xfbml=1&appId=443125465749150&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-16059242-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript" defer src="http://jagatplay.com/wp-content/cache/autoptimize/js/autoptimize_7a93f0d9cb497318d9c31f7ed05cb617.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"857540643e","applicationID":"2104466","transactionName":"ZgAHYUQFChVYUkEIWF9KJFZCDQsIFkJcD1BdAA==","queueTime":0,"applicationTime":246,"atts":"SkcEFwwfGRs=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

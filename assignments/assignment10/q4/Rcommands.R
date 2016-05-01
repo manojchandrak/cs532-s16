@@ -1,0 +1,6 @@
+#--For Raw Files Size difference-------
+d = read.table('rawdiff.txt' ,col.name=c("sizes")) 
+plot(d$sizes,xlab="URIs",ylab="Size difference in raw files",xlim=c(0,1000),ylim=c(-700000,700000),type="l")
+#--For Processed Files Size difference----
+d = read.table('processdiff.txt' ,col.name=c("sizes"))
+plot(d$sizes,xlab="URIs",ylab="Size difference in processed files",xlim=c(0,1000),ylim=c(-200000,200000),type="l")

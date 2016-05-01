@@ -1,0 +1,1758 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en">
+<!--<![endif]-->
+<head>
+	<!-- MOBIFY - DO NOT ALTER - PASTE IMMEDIATELY AFTER OPENING HEAD TAG -->
+	<script type="text/javascript">/*<![CDATA[*/(function(e,f){function h(a){if(a.mode){var b=g("mobify-mode");b&&a[b]||(b=a.mode(c.ua));return a[b]}return a}function m(){function a(a){e.addEventListener(a,function(){c[a]=+new Date},!1)}e.addEventListener&&(a("DOMContentLoaded"),a("load"))}function n(){var a=new Date;a.setTime(a.getTime()+3E5);f.cookie="mobify-path=; expires="+a.toGMTString()+"; path=/";e.location.reload()}function p(){k({src:"https://preview.mobify.com/v7/"})}function g(a){if(a=f.cookie.match(RegExp("(^|; )"+a+"((=([^;]*))|(; |$))")))return a[4]||""}function l(a){f.write('<plaintext style="display:none">');setTimeout(function(){d.capturing=!0;a()},0)}function k(a,b){var e=f.getElementsByTagName("script")[0],c=f.createElement("script"),d;for(d in a)c[d]=a[d];b&&c.setAttribute("class",b);e.parentNode.insertBefore(c,e)}var d=e.Mobify={},c=d.Tag={};d.points=[+new Date];d.tagVersion=[7,0];c.ua=e.navigator.userAgent;c.getOptions=h;c.init=function(a){c.options=a;if(""!==g("mobify-path"))if(m(),a.skipPreview||"true"!=g("mobify-path")&&!/mobify-path=true/.test(e.location.hash)){var b=h(a);if(b){var d=function(){b.post&&b.post()};a=function(){b.pre&&b.pre();k({id:"mobify-js",src:b.url,onerror:n,onload:d},"mobify")};!1===b.capture?a():l(a)}}else l(p)}})(window,document);(function(){var o="//cdn.mobify.com/sites/wwd-pmc/production/mobify.js";Mobify.Tag.init({mode:function(o){return/ip(hone|od)|android.*(mobile)|blackberry.*applewebkit|bb1\d.*mobile/i.test(o)?"enabled":"desktop"},enabled:{url:o},desktop:{capture:!1,url:"//a.mobify.com/wwd-pmc/a.js"}})})();/*]]>*/</script>
+	<!-- END MOBIFY -->
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://wwd.com/xmlrpc.php" />
+<!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+(function(){
+	try {
+		document.cookie = "detect_cookie=js; path=\/; domain=.wwd.com";
+	}catch(ignore) {}
+
+	var new_script = document.createElement('script');
+	new_script.type = 'text/javascript';
+	new_script.async = false;
+	new_script.src = "http://uls.wwd.com/api/v1/fast.js?content_id=10345412&content_type=article&request_hostname=http%3A%2F%2Fwwd.com&request_path=beauty-industry-news%2Fhair%2Fjohn-barrett-ceo-jim-hedges-10345412&required_entitlement=annual&current_entitlement=free&roadblock_hit=1";
+	var script = document.getElementsByTagName('script')[0];
+	script.parentNode.insertBefore( new_script, script );
+
+})();
+</script>
+
+<!--todo: add meta elements -->
+
+			<meta name="publish-date" content="2016-02-11 00:21:43 +0000" />
+			
+<meta name="description" content="Charges fly as the fate of a bold expansion plan hangs in the balance." />
+<meta name="keywords" content="" />
+<meta name="news_keywords" content="salons" />
+
+<title>John Barrett Fires CEO Jim Hedges &#8211; WWD</title>
+<script type="text/javascript">dataLayer = window.dataLayer || []; /* Google Tag Manager */</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pmc_meta = {"lob":"wwd","page-type":"article","env":"desktop","primary-category":"","primary-vertical":"beauty-industry-news","vertical":["beauty-industry-news"],"category":["Hair"],"tag":["salons"],"author":["Julie Naughton"],"logged-in":"no","subscriber-type":"free","country":"us","page_access_level":"annual"};
+
+/* ]]> */
+</script>
+		<script>
+			(function(d,w){
+				var i, parts, name, c, rdecode = /(%[0-9A-Z]{2})+/g, rspace = /\+/g, ac = (d ? d.split('; ') : []);
+				for(w.pmc_cookies = {}, i = 0; i < ac.length; i++) {
+					parts = ac[i].split('='), name = parts[0].replace(rdecode, decodeURIComponent), c = parts.slice(1).join('=');
+					if(c.charAt(0) === '"') { c = c.slice(1, -1); } c = c.replace(rdecode, decodeURIComponent).replace(rspace, ' '); w['pmc_cookies'][name] = c;
+				}
+			})(document.cookie, window);
+
+			pmc_meta=pmc_meta || {}, pmc_meta.omni_visit_id = window.pmc_cookies.omni_visit_id || "wwd." + new Date().getTime() + '.' + (function(l,b,a,c,i,d){for(i=0;i<256;i++){l[i]=(i<16?'0':'')+(i).toString(16);}if(c&&c.getRandomValues){try{d=new Uint32Array(4),c.getRandomValues(d);}catch(e){d=0;}}d=d||[b()*a>>>0,b()*a>>>0,b()*a>>>0,b()*a>>>0];a=d[0],b=d[1],c=d[2],d=d[3];return l[a&0xff]+l[a>>8&0xff]+l[a>>16&0xff]+l[a>>24&0xff]+'-'+l[b&0xff]+l[b>>8&0xff]+'-'+l[b>>16&0x0f|0x40]+l[b>>24&0xff]+'-'+l[c&0x3f|0x80]+l[c>>8&0xff]+'-'+l[c>>16&0xff]+l[c>>24&0xff]+l[d&0xff]+l[d>>8&0xff]+l[d>>16&0xff]+l[d>>24&0xff];})([],Math.random,0x100000000,window.crypto||window.msCrypto);
+			var d = new Date(); d.setTime(d.getTime() + ( 60 * 60 * 1000 )); var expires = d.toGMTString(); var path = "/"; var domain = window.location.hostname;
+			document.cookie = 'omni_visit_id=' + encodeURIComponent(pmc_meta.omni_visit_id) + ( expires ? '; expires=' + expires : '' ) + ( path ? '; path=' + path : '' ) + ( domain ? '; domain=' + domain : '' );
+		</script>
+				<script type="text/javascript">
+		if( window.hasOwnProperty( 'pmc_meta' ) ) {
+			if( !window.hasOwnProperty( 'dataLayer' ) || !window.dataLayer.hasOwnProperty('push') ) {
+				window.dataLayer = [];
+			}
+			window.dataLayer.push( pmc_meta );
+		}
+		</script>
+
+				<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=wwd.com&amp;id=81433431&amp;t=1462066442&amp;back=http%3A%2F%2Fwwd.com%2Fbeauty-industry-news%2Fhair%2Fjohn-barrett-ceo-jim-hedges-10345412%2F%3Futm_term%3Dcantanisantasi%26utm_content%3Dmarka%2Bcanta%26utm_source%3Dtwitterfeed%26utm_medium%3Dtwitter%26utm_campaign%3Dcantanisantasi' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="alternate" type="application/rss+xml" title="WWD &raquo; Feed" href="http://wwd.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="WWD &raquo; Comments Feed" href="http://wwd.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="WWD &raquo; John Barrett Fires CEO Jim Hedges Comments Feed" href="http://wwd.com/beauty-industry-news/hair/john-barrett-ceo-jim-hedges-10345412/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<link rel='stylesheet' id='all-css-0' href='https://s1.wp.com/wp-content/mu-plugins/likes/jetpack-likes.css?m=1424450955h' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2' href='https://s0.wp.com/_static/??-eJylk9FuwyAMRX9olKZqo71M+xYCTuIVA8LQ/P6cZJu6Teq05AVZ9r1HXEvWU1IYrK8OWFtm7QyPaGPgA2E4SOdJ/5QYJyPVmfxNIp4CoegyAonwhkknsir5OmDgpR7BJ4FcFwpBqL/MVL8MNmaQPiVTZgWBQwNe2KE8slFqP11zORp75Uf6KYladV3KwKzkJayk1hD/yTb42Bmv+hpswRjWTd0N4g1yRvc3dJqcOh2bi+ZiCtqF00X0kJM3BbbY533EIGLW6292QnowpeZtUe4wJkvT70304dpLkdUOMePuUP18PzEoHuO0icU2Ayxn9Uovzbltjs/Nqb28vQNKzlm+' type='text/css' media='all' />
+<link rel='stylesheet' id='wwd-webfonts-css'  href='https://s0.wp.com/wp-content/themes/vip/pmc-wwd-2015/static/css/webfonts.css?m=1433887013h&#038;ver=1.10' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-4' href='https://s0.wp.com/_static/??-eJyVT8sOwjAM+yFCGCoCDohv6brQBbXN1HZM/D3deIM4cLMtx7Fx6MBIyBQy5pY8JTxxh503MAwNLBfVClPWmQ2alJC9tgRyohi5oXmRZvg7oXO95ZAmfEzguI468mig0Ei8ejhwhnaMxGq++NT+eaEbP5W8YUj57G4dGYOUDVKcd/CV7PtHmiUBJ6bMlvBG4OA0f5d6OY1UO7EF2qnLk/5a0iq0TmrtRsPe7yq12iq1WVfqeAGQBJfZ' type='text/css' media='all' />
+<script type="text/javascript" src="https://s2.wp.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/geoPosition.js?m=1392820885h"></script><script type="text/javascript" src="https://s2.wp.com/wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/pmc-utils.js?m=1436193849h"></script>			<script type="text/javascript">
+			var pmc_do_analytics_pagecount = true;		//flag to allow analytics code to count a page view
+			var pmc_common_urls = {
+				parent_theme_uri: 'https://s0.wp.com/wp-content/themes/vip/pmc-wwd-2015/',
+				current_theme_uri: 'https://s0.wp.com/wp-content/themes/vip/pmc-wwd-2015/',
+				fb_channel_uri: 'https://s1.wp.com/wp-content/themes/vip/pmc-plugins/partner/facebook/channel.html'
+			};
+			</script>
+		<script type="text/javascript">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			var pmc_ga_dimensions = {"dimension1":"article","dimension3":"10345412","dimension4":"julie-naughton","dimension5":"hair","dimension6":"salons","dimension7":"beauty-industry-news","dimension9":"beauty-industry-news","dimension10":"2016","dimension11":"02","dimension12":"10","dimension13":"19","dimension14":"21","dimension17":"year","dimension18":"yes","dimension24":"no","dimension25":"2016-02-11T00:21:43+00:00","dimension26":"2016-02-10 19:21:43","dimension27":"Wednesday"};			pmc_ga_dimensions["dimension15"] = document.location.protocol.replace(':', '');
+			(function(dim){
+				var ac = document.cookie ? document.cookie.split('; ') : [];
+				var i, parts, name, c, cookies = {}, rdecode = /(%[0-9A-Z]{2})+/g, rspace = /\+/g;
+				for(i = 0; i < ac.length; i++) {
+					parts = ac[i].split('=');
+					name = parts[0].replace(rdecode, decodeURIComponent);
+					c = parts.slice(1).join('=');
+					if(c.charAt(0) === '"') { c = c.slice(1, -1); }
+					c = c.replace(rdecode, decodeURIComponent).replace(rspace, ' ');
+					cookies[name] = c;
+				}
+				window[dim] = window[dim] || {};
+							if( 'undefined' !== typeof pmc_meta && 'string' === typeof pmc_meta.omni_visit_id ){
+				window[dim]["dimension28"] = pmc_meta.omni_visit_id;
+			}
+				var p = (cookies.uls2_provider_name && cookies.uls2_provider_name.length) ? cookies.uls2_provider_name : 'none';
+		var pid = (cookies.uls2_entitlement && cookies.uls2_entitlement.length) ? cookies.uls2_entitlement : 'none';
+		var un = (cookies.uls2_user_id && cookies.uls2_user_id.length) ? cookies.uls2_user_id : ( (cookies.uls2_username && cookies.uls2_username.length) ? cookies.uls2_username : '' );
+		var on = (cookies.uls2_username && cookies.uls2_username.length) ? cookies.uls2_username : '';
+		var oid = (cookies.uls2_org_id && cookies.uls2_org_id.length) ? cookies.uls2_org_id : ( (cookies.uls2_user_identifer && cookies.uls2_user_identifer.length) ? cookies.uls2_user_identifer : '' );
+		window[dim]["dimension16"] = pid;
+		window[dim]["dimension23"] = p;
+		if( p == 'ip' ) {
+			window[dim]["dimension19"] = 'organization';
+			window[dim]["dimension22"] = oid;
+			window[dim]["dimension21"] = on;
+		} else if( p == 'cds' ) {
+			window[dim]["dimension19"] = 'individual';
+			window[dim]["dimension20"] = un;
+		} else if( p == 'direct' ) {
+			window[dim]["dimension19"] = 'individual';
+			window[dim]["dimension20"] = un;
+		}
+				})('pmc_ga_dimensions');
+			ga('create', 'UA-23700477-1', 'auto');
+			ga('set', 'forceSSL', true);
+			ga('set', 'hitCallback', function() { if ( typeof pmc === 'object' && typeof pmc.tracking === 'object' && typeof pmc.tracking.do_call_events === 'function' ) { pmc.tracking.do_call_events(); } } );
+						ga('require', 'linkid', 'linkid.js');
+			ga('require', 'displayfeatures');			ga('set', pmc_ga_dimensions);
+						ga('send', 'pageview');
+		</script>
+
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_helpdesk_vars = {"_ajax_url":"https:\/\/pmcwwd.wordpress.com\/wp-admin\/admin-ajax.php","_activity_indicator_url":"https:\/\/pmcwwd.wordpress.com\/wp-admin\/images\/wpspin_light.gif","affirm":"Okay"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJytkNEKwjAMRX/IWic6fBG/ZdbYZWuT2rQT/Xq7oQ+iKIJQSLk9ub2JPgeFZFw+gOiunFOGeLmXeScz/QlQHm1sEsw90gM2TAkojaznPTpQWSA2tmjF6MhvuMCSPIgU6M3rcySkAeH8Fesghcb0KoLg9cU1tVD+0wMGHbxRwWWLJNO9BRfKqP2UHyj/0God7xunjplMQqZpXaMewfMAKsUSCMn+wbFl7qX47Py2WtXVYlMt63V3A6hqrCI='></script>
+<script type='text/javascript' src='//video-cdn.wwd.com/libraries/xjgBYg69.js?ver=4.5.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_comscore_options = {"pageview_candidate_url":"\/\/wwd.com\/wp-content\/themes\/vip\/pmc-plugins\/pmc-comscore\/xml\/comscore-pageview-candidate.xml"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pmc_criteo_script_code = {"enabled":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJytk91SxCAMhV9ISvF39sLxCfbOF0CI3VAgGGg7+/bC6oyOF67degfJOV+SIcglCUOxQCyyHCBAljMmmYIRyU8Dxnw6z2iBakQfgaXLMhvGVDqXr+TfAIZCNsTQzN/vZxDLYsV1r+5kLrqgaW4MeqiKQsPgL7DXwoli1Wbp3ibgY/XSiP9B6ib2XdJmBLuJ9owB9jrWMXkTp2a7jCF5fMWNLbVsIfIjnnv03zl93zfFisXRNjSGJ22BxXyzvvwnZUVNl4XHF9aMTQDREn9oMGIRB5rrJ1Bd/zN2QWtfZqG5Bk8b/RQe1e29UrudUg/uHTllUtU='></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wwd_paywall = {"fast_js_host":"http:\/\/uls.wwd.com\/api\/v1\/fast.js","paywall_host":"http:\/\/uls.wwd.com","paywall_group":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://uls.wwd.com/generated/js/load-account.js?ver=4.5.1'></script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/themes/vip/pmc-wwd-2015/static/js/auth-redirect.js?m=1455631364h'></script>
+<link rel='stylesheet' id='all-css-0' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://wp.me/p5vGyr-Hpju' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fwwd.com%2Fbeauty-industry-news%2Fhair%2Fjohn-barrett-ceo-jim-hedges-10345412%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fwwd.com%2Fbeauty-industry-news%2Fhair%2Fjohn-barrett-ceo-jim-hedges-10345412%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="John Barrett Fires CEO Jim Hedges" />
+<meta property="og:url" content="http://wwd.com/beauty-industry-news/hair/john-barrett-ceo-jim-hedges-10345412/" />
+<meta property="og:description" content="Charges fly as the fate of a bold expansion plan hangs in the balance." />
+<meta property="article:published_time" content="2016-02-11T00:21:43+00:00" />
+<meta property="article:modified_time" content="2016-02-11T00:29:42+00:00" />
+<meta property="og:site_name" content="WWD" />
+<meta property="og:image" content="http://i0.wp.com/pmcwwd.files.wordpress.com/2016/02/0113_wwd_barrett_john_barrett_ti_240.jpg?crop=0px%2C578px%2C3264px%2C2179px&#038;resize=640%2C427&#038;ssl=1" />
+<meta property="og:image:width" content="800" />
+<meta property="og:image:height" content="1200" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@wwd" />
+<meta name="twitter:image:src" content="https://pmcwwd.files.wordpress.com/2016/02/0113_wwd_barrett_john_barrett_ti_240.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="John Barrett Fires CEO Jim Hedges" />
+<meta name="twitter:description" content="Charges fly as the fate of a bold expansion plan hangs in the balance." />
+<meta name="twitter:image" content="https://pmcwwd.files.wordpress.com/2016/02/0113_wwd_barrett_john_barrett_ti_240.jpg" />
+<link rel="shortcut icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/a4f950397ea788323c34fe5c36493779?s=16" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/a4f950397ea788323c34fe5c36493779?s=16" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="http://0.gravatar.com/blavatar/a9597fffaf6885dd6f870d1269ef3b72?s=114" />
+<link rel='openid.server' href='http://pmcwwd.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://pmcwwd.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://wwd.com/osd.xml" title="WWD" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="author" content="Julie Naughton">
+<style type="text/css">
+.vvqbox {
+	visibility: visible !important;
+	display: block;
+	clear: both;
+	width: 100%;
+}
+.vvqbox div {
+	margin: 10px auto;
+}
+.vvqbox img {
+	max-width: 100%;
+	height: 100%;
+}
+.vvqbox object {
+	max-width: 100%;
+}
+</style>
+<link rel="canonical" href="http://wwd.com/beauty-industry-news/hair/john-barrett-ceo-jim-hedges-10345412/" />
+		<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="WWD" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Women&#039;s Wear Daily brings you breaking news about the fashion industry, designers, celebrity trend setters, and extensive coverage of fashion week." /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://wwd.com/feed/;icon-uri=http://0.gravatar.com/blavatar/a4f950397ea788323c34fe5c36493779?s=16" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://s1.wp.com/?custom-css=1&#038;csblog=5vGyr&#038;cscache=6&#038;csrev=6" />
+		<script type="text/javascript">
+/* <![CDATA[ */
+var pmc_krux = {"lob":"wwd","page-type":"article","env":"desktop","primary-category":"","primary-vertical":"beauty-industry-news","vertical":["beauty-industry-news"],"category":["Hair"],"tag":["salons"],"author":["Julie Naughton"],"logged-in":"no","subscriber-type":"free","page_access_level":"annual"};
+
+/* ]]> */
+</script>
+		<!-- Amazon adcode begin-->
+		<script type='text/javascript' src='//c.amazon-adsystem.com/aax2/amzn_ads.js'></script>
+		<script type='text/javascript'>
+			try {
+				amznads.getAds('3157');
+			} catch(e) { /*ignore*/}
+		</script>
+		<!-- Amazon adcode end-->
+		
+<!-- BEGIN Krux Control Tag -->
+<script class="kxct" data-id="Jhm7Q76N" data-timing="async" data-version="1.9" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+    k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=Jhm7Q76N";
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+
+</script>
+<!-- END Krux Controltag -->
+
+<!-- GPT interchange code -->
+<script>
+ window.Krux || ((Krux = function() {
+   Krux.q.push(arguments);
+ }).q = []);
+ (function() {
+   function retrieve(n) {
+     var m, k = 'kx' + n;
+     if (window.localStorage) {
+       return window.localStorage[k] || "";
+     } else if (navigator.cookieEnabled) {
+       m = document.cookie.match(k + '=([^;]*)');
+       return (m && unescape(m[1])) || "";
+     } else {
+       return '';
+     }
+   }
+   Krux.user = retrieve('user');
+   Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+ })();
+</script>
+<!-- Begin comScore Tag -->
+<noscript> <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035310&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" /> </noscript>
+<!-- End comScore Tag -->
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+		var elem = document.createElement('script');
+		elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+		elem.async = true;
+		elem.type = "text/javascript";
+		var scpt = document.getElementsByTagName('script')[0];
+		scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+		qacct:"p-31f3D02tYU8zY"
+	});
+</script>
+
+<noscript>
+	<div style="display:none;">
+		<img src="//pixel.quantserve.com/pixel/p-31f3D02tYU8zY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- Pingdom RUM - Start -->
+<script>
+var _prum = [['id', '55133c47abe53d890db40683'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+<!-- Pingdom RUM - End -->
+
+	<script>
+		window._newsroom = window._newsroom || [];
+		!function (e, f, u) {
+		}(document.createElement('script'),
+				document.getElementsByTagName('script')[0], '//c2.taboola.com/nr/pmc-wwd/newsroom.js');
+	</script>
+</head>
+<body class="single single-post postid-10345412 single-format-standard mp6 customizer-styles-applied article highlander-enabled highlander-light pmc-desktop pmc-no-tablet pmc-no-mobile geo-us">
+
+		<!-- Google Tag Manager -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFFWNS"
+					  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-TFFWNS');</script>
+	<!-- End Google Tag Manager -->
+
+	
+	
+		<!--todo: pageType-and-userState? -->
+	<a name="pagetop"></a>
+	<div id="eventListHolder" class="nodisplay"></div>
+
+	<header>
+	<div class="header-row1">
+		
+		<div class="nav-top">
+			<div class="container-left">
+
+				<div class="nav-sections">
+	<a href="#" class="nav-link"><span></span><p>Sections</p></a>
+	<ul class="level1">
+		<li class="nav-head">Sections</li>
+		<span class="sections-main">
+			<li id="menu-item-10047052" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-has-children menu-item-10047052"><a href="http://wwd.com/fashion-news/">Fashion<span class="icon-arrow-rounded"></span></a>
+<ul class="sub-menu level2">
+	<li id="menu-item-10047073" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-10047073"><a href="http://wwd.com/fashion-news/">Fashion</a></li>
+	<li id="menu-item-10076522" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076522"><a href="/fashion-news/they-are-wearing/">They Are Wearing</a></li>
+	<li id="menu-item-10076520" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076520"><a href="/fashion-news/trends/">Trends</a></li>
+	<li id="menu-item-10076525" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076525"><a href="/fashion-news/fashion-features/">Fashion Features</a></li>
+	<li id="menu-item-10076535" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076535"><a href="/fashion-news/fashion-scoops/">Fashion Scoops</a></li>
+	<li id="menu-item-10076536" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076536"><a href="/fashion-news/designer-luxury/">Designer / Luxury</a></li>
+	<li id="menu-item-10076539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076539"><a href="/fashion-news/ready-to-wear-sportswear/">Ready-to-Wear / Sportswear</a></li>
+	<li id="menu-item-10047072" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-10047072"><a href="http://wwd.com/runway/">Runway</a></li>
+	<li id="menu-item-10076542" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076542"><a href="/fashion-news/textiles/">Textiles</a></li>
+	<li id="menu-item-10076544" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076544"><a href="/fashion-news/intimates-activewear/">Intimates / Activewear</a></li>
+	<li id="menu-item-10076546" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076546"><a href="/fashion-news/denim/">Denim</a></li>
+	<li id="menu-item-10076547" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076547"><a href="/fashion-news/couture/">Couture</a></li>
+	<li id="menu-item-10076548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076548"><a href="/fashion-news/juniors/">Juniors</a></li>
+</ul>
+</li>
+<li id="menu-item-10047058" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-has-children menu-item-10047058"><a href="http://wwd.com/runway/">Runway<span class="icon-arrow-rounded"></span></a>
+<ul class="sub-menu level2">
+	<li id="menu-item-10047108" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-10047108"><a href="http://wwd.com/runway/">Runway</a></li>
+	<li id="menu-item-10344566" class="menu-item menu-item-type-taxonomy menu-item-object-runway-season menu-item-10344566"><a href="http://wwd.com/runway/fall-ready-to-wear-2016/">2016 Fall Ready-to-Wear</a></li>
+	<li id="menu-item-10328943" class="menu-item menu-item-type-taxonomy menu-item-object-runway-season menu-item-10328943"><a href="http://wwd.com/runway/spring-couture-2016/">2016 Spring Couture</a></li>
+	<li id="menu-item-10307800" class="menu-item menu-item-type-taxonomy menu-item-object-runway-season menu-item-10307800"><a href="http://wwd.com/runway/mens-fall-collections-2016/">2016 Men&#8217;s Fall Collections</a></li>
+	<li id="menu-item-10282854" class="menu-item menu-item-type-taxonomy menu-item-object-runway-season menu-item-10282854"><a href="http://wwd.com/runway/pre-fall-2016/">2016 Pre-Fall</a></li>
+	<li id="menu-item-10258030" class="menu-item menu-item-type-taxonomy menu-item-object-runway-season menu-item-10258030"><a href="http://wwd.com/runway/fall-bridal-2016/">2016 Fall Bridal</a></li>
+	<li id="menu-item-10213907" class="menu-item menu-item-type-taxonomy menu-item-object-runway-season menu-item-10213907"><a href="http://wwd.com/runway/spring-ready-to-wear-2016/">2016 Spring Ready-to-Wear</a></li>
+	<li id="menu-item-10177809" class="menu-item menu-item-type-taxonomy menu-item-object-runway-season menu-item-10177809"><a href="http://wwd.com/runway/fall-couture-2015/">2015 Fall Couture</a></li>
+	<li id="menu-item-10150234" class="menu-item menu-item-type-taxonomy menu-item-object-runway-season menu-item-10150234"><a href="http://wwd.com/runway/mens-spring-collections-2016/">2016 Men&#8217;s Spring Collections</a></li>
+	<li id="menu-item-10125811" class="menu-item menu-item-type-taxonomy menu-item-object-runway-season menu-item-10125811"><a href="http://wwd.com/runway/resort-2016/">2016 Resort</a></li>
+	<li id="menu-item-10112873" class="menu-item menu-item-type-taxonomy menu-item-object-runway-season menu-item-10112873"><a href="http://wwd.com/runway/bridal-spring-2016/">2016 Spring Bridal</a></li>
+	<li id="menu-item-10083825" class="menu-item menu-item-type-taxonomy menu-item-object-runway-season menu-item-10083825"><a href="http://wwd.com/runway/fall-ready-to-wear-2015/">2015 Fall Ready-to-Wear</a></li>
+	<li id="menu-item-10047110" class="menu-item menu-item-type-taxonomy menu-item-object-runway-season menu-item-10047110"><a href="http://wwd.com/runway/mens-fall-collections-2015/">2015 Men&#8217;s Fall Collections</a></li>
+	<li id="menu-item-10047111" class="menu-item menu-item-type-taxonomy menu-item-object-runway-season menu-item-10047111"><a href="http://wwd.com/runway/pre-fall-2015/">2015 Pre-Fall</a></li>
+	<li id="menu-item-10047112" class="menu-item menu-item-type-taxonomy menu-item-object-runway-season menu-item-10047112"><a href="http://wwd.com/runway/bridal-fall-2015/">2015 Fall Bridal</a></li>
+	<li id="menu-item-10047122" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-10047122"><a href="http://wwd.com/runway/">More Runway</a></li>
+</ul>
+</li>
+<li id="menu-item-10047048" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-has-children menu-item-10047048"><a href="http://wwd.com/accessories-news/">Accessories<span class="icon-arrow-rounded"></span></a>
+<ul class="sub-menu level2">
+	<li id="menu-item-10047123" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-10047123"><a href="http://wwd.com/accessories-news/">Accessories</a></li>
+	<li id="menu-item-10076553" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076553"><a href="/accessories-news/jewelry/">Jewelry</a></li>
+	<li id="menu-item-10076561" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076561"><a href="/accessories-news/footwear/">Footwear</a></li>
+	<li id="menu-item-10076562" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076562"><a href="/accessories-news/handbags/">Handbags</a></li>
+	<li id="menu-item-10076563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076563"><a href="/accessories-news/leather-goods/">Leather Goods</a></li>
+	<li id="menu-item-10076564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076564"><a href="/accessories-news/watches/">Watches</a></li>
+	<li id="menu-item-10076568" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076568"><a href="/accessories-news/eyewear/">Eyewear</a></li>
+	<li id="menu-item-10076571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076571"><a href="/accessories-news/hats-gloves-and-more/">Hats, Gloves and More</a></li>
+	<li id="menu-item-10076917" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076917"><a href="/accessories-news/financial/">Financial</a></li>
+	<li id="menu-item-10076918" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076918"><a href="/accessories-news/trends/">Trends</a></li>
+</ul>
+</li>
+<li id="menu-item-10047060" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-has-children menu-item-10047060"><a href="http://wwd.com/markets-news/">The Markets<span class="icon-arrow-rounded"></span></a>
+<ul class="sub-menu level2">
+	<li id="menu-item-10047133" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-10047133"><a href="http://wwd.com/markets-news/">The Markets</a></li>
+	<li id="menu-item-10076920" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076920"><a href="/markets-news/ready-to-wear-sportswear/">Ready-to-wear / Sportwear</a></li>
+	<li id="menu-item-10077170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077170"><a href="/markets-news/designer-luxury/">Designer / Luxury</a></li>
+	<li id="menu-item-10077171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077171"><a href="/markets-news/intimates-activewear/">Intimates / Activewear</a></li>
+	<li id="menu-item-10076503" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076503"><a href="/markets-news/denim/">Denim</a></li>
+	<li id="menu-item-10077172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077172"><a href="/markets-news/textiles/">Textiles</a></li>
+	<li id="menu-item-10077173" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077173"><a href="/markets-news/markets-features/">The Markets Features</a></li>
+	<li id="menu-item-10077174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077174"><a href="/markets-news/juniors/">Juniors</a></li>
+	<li id="menu-item-10077175" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077175"><a href="/markets-news/people/">People</a></li>
+	<li id="menu-item-10077176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077176"><a href="/markets-news/financial/">Financial</a></li>
+</ul>
+</li>
+<li id="menu-item-10047050" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-has-children menu-item-10047050"><a href="http://wwd.com/business-news/">Business<span class="icon-arrow-rounded"></span></a>
+<ul class="sub-menu level2">
+	<li id="menu-item-10047143" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-10047143"><a href="http://wwd.com/business-news/">Business</a></li>
+	<li id="menu-item-10047157" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10047157"><a href="http://www.wwd.com/business-news/stock-tracker?module=subcat">Stock Tracker</a></li>
+	<li id="menu-item-10077618" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077618"><a href="/business-news/financial/">Financial</a></li>
+	<li id="menu-item-10077619" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077619"><a href="/business-news/government-trade/">Government / Trade</a></li>
+	<li id="menu-item-10077620" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077620"><a href="/business-news/mergers-acquisitions/">Mergers / Acquisitions</a></li>
+	<li id="menu-item-10077621" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077621"><a href="/business-news/legal/">Legal</a></li>
+	<li id="menu-item-10077622" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077622"><a href="/business-news/forecasts-analysis/">Forecasts / Analysis</a></li>
+	<li id="menu-item-10077623" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077623"><a href="/business-news/marketing-promotion/">Marketing / Promotion</a></li>
+	<li id="menu-item-10077624" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077624"><a href="/business-news/human-resources/">Human Resources</a></li>
+	<li id="menu-item-10077625" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077625"><a href="/business-news/business-features/">Business Features</a></li>
+	<li id="menu-item-10077626" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077626"><a href="/business-news/technology/">Technology</a></li>
+	<li id="menu-item-10077627" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077627"><a href="/business-news/real-estate/">Real Estate</a></li>
+</ul>
+</li>
+<li id="menu-item-10047057" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-has-children menu-item-10047057"><a href="http://wwd.com/retail-news/">Retail<span class="icon-arrow-rounded"></span></a>
+<ul class="sub-menu level2">
+	<li id="menu-item-10047158" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-10047158"><a href="http://wwd.com/retail-news/">Retail</a></li>
+	<li id="menu-item-10077672" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077672"><a href="/retail-news/specialty-stores/">Specialty Stores</a></li>
+	<li id="menu-item-10077673" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077673"><a href="/retail-news/department-stores/">Department Stores</a></li>
+	<li id="menu-item-10077674" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077674"><a href="/retail-news/trends-analysis/">Trends / Analysis</a></li>
+	<li id="menu-item-10077675" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077675"><a href="/retail-news/financial/">Financial</a></li>
+	<li id="menu-item-10077676" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077676"><a href="/retail-news/designer-luxury/">Designer / Luxury</a></li>
+	<li id="menu-item-10077677" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077677"><a href="/retail-news/retail-features/">Features</a></li>
+	<li id="menu-item-10077678" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077678"><a href="/retail-news/mass-off-price/">Mass / Off-Price</a></li>
+	<li id="menu-item-10077679" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077679"><a href="/retail-news/direct-internet-catalogue/">Direct, Internet / Catalogue</a></li>
+	<li id="menu-item-10077680" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077680"><a href="/retail-news/people/">People</a></li>
+	<li id="menu-item-10077681" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077681"><a href="/retail-news/marketing-consumer-behavior/">Marketing / Consumer Behavior</a></li>
+	<li id="menu-item-10077682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077682"><a href="/retail-news/merchandising/">Merchandising</a></li>
+</ul>
+</li>
+<li id="menu-item-10047049" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-has-children menu-item-10047049"><a href="http://wwd.com/beauty-industry-news/">Beauty<span class="icon-arrow-rounded"></span></a>
+<ul class="sub-menu level2">
+	<li id="menu-item-10047202" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-10047202"><a href="http://wwd.com/beauty-industry-news/">Beauty</a></li>
+	<li id="menu-item-10077722" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077722"><a href="/beauty-industry-news/beauty-features/">Beauty Features</a></li>
+	<li id="menu-item-10077723" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077723"><a href="/beauty-industry-news/skin-care/">Skin Care</a></li>
+	<li id="menu-item-10077727" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077727"><a href="/beauty-industry-news/fragrance/">Fragrance</a></li>
+	<li id="menu-item-10077758" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077758"><a href="/beauty-industry-news/color-cosmetics/">Color Cosmetics</a></li>
+	<li id="menu-item-10077771" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077771"><a href="/beauty-industry-news/hair/">Hair</a></li>
+	<li id="menu-item-10077779" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077779"><a href="/beauty-industry-news/health-beauty-aids/">Health / Beauty Aids</a></li>
+	<li id="menu-item-10077784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077784"><a href="/beauty-industry-news/financial/">Financial</a></li>
+	<li id="menu-item-10077789" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077789"><a href="/beauty-industry-news/people/">People</a></li>
+	<li id="menu-item-10077796" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077796"><a href="/beauty-industry-news/retailing/">Retailing</a></li>
+	<li id="menu-item-10077801" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077801"><a href="/beauty-industry-news/marketing-trends/">Marketing / Trends</a></li>
+	<li id="menu-item-10077805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077805"><a href="/beauty-industry-news/products/">Products</a></li>
+	<li id="menu-item-10077810" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077810"><a href="/beauty-industry-news/prestige/">Prestige</a></li>
+	<li id="menu-item-10077814" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077814"><a href="/beauty-industry-news/body-care/">Body Care</a></li>
+	<li id="menu-item-10077819" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077819"><a href="/beauty-industry-news/mass/">Mass</a></li>
+	<li id="menu-item-10077825" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10077825"><a href="/beauty-industry-news/organics/">Organics</a></li>
+</ul>
+</li>
+<li id="menu-item-10047055" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-has-children menu-item-10047055"><a href="http://wwd.com/media-news/">Media<span class="icon-arrow-rounded"></span></a>
+<ul class="sub-menu level2">
+	<li id="menu-item-10047218" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-10047218"><a href="http://wwd.com/media-news/">Media</a></li>
+	<li id="menu-item-10078044" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078044"><a href="/media-news/fashion-memopad/">Memo Pad</a></li>
+	<li id="menu-item-10078049" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078049"><a href="/media-news/digital/">Digital</a></li>
+	<li id="menu-item-10078055" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078055"><a href="/media-news/media-features/">Media Features</a></li>
+	<li id="menu-item-10078061" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078061"><a href="/media-news/film-tv/">Film / TV</a></li>
+	<li id="menu-item-10078067" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078067"><a href="/media-news/advertising/">Advertising</a></li>
+	<li id="menu-item-10078072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078072"><a href="/media-news/print/">Print</a></li>
+	<li id="menu-item-10078085" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078085"><a href="/media-news/marketing/">Marketing</a></li>
+	<li id="menu-item-10078080" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078080"><a href="/media-news/publishing/">Publishing</a></li>
+</ul>
+</li>
+<li id="menu-item-10047056" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-has-children menu-item-10047056"><a href="http://wwd.com/menswear-news/">Men&#8217;s<span class="icon-arrow-rounded"></span></a>
+<ul class="sub-menu level2">
+	<li id="menu-item-10047227" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-10047227"><a href="http://wwd.com/menswear-news/">Men&#8217;s</a></li>
+	<li id="menu-item-10078268" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078268"><a href="/menswear-news/retail-business/">Retail / Business</a></li>
+	<li id="menu-item-10047229" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10047229"><a href="/menswear-news/fashion/">Fashion</a></li>
+	<li id="menu-item-10078273" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078273"><a href="/menswear-news/lifestyle/">Lifestyle</a></li>
+	<li id="menu-item-10078274" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078274"><a href="/menswear-news/designer-luxury/">Designer / Luxury</a></li>
+	<li id="menu-item-10078275" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078275"><a href="/menswear-news/sportswear/">Sportswear</a></li>
+	<li id="menu-item-10078276" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078276"><a href="/menswear-news/clothing-furnishings/">Clothing / Furnishings</a></li>
+	<li id="menu-item-10078279" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078279"><a href="/menswear-news/young-mens/">Young Men&#8217;s</a></li>
+</ul>
+</li>
+<li id="menu-item-10047051" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-has-children menu-item-10047051"><a href="http://wwd.com/eye/">Eye<span class="icon-arrow-rounded"></span></a>
+<ul class="sub-menu level2">
+	<li id="menu-item-10047235" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-10047235"><a href="http://wwd.com/eye/">Eye</a></li>
+	<li id="menu-item-10078280" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078280"><a href="/eye/parties/">Parties</a></li>
+	<li id="menu-item-10078281" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078281"><a href="/eye/people/">People</a></li>
+	<li id="menu-item-10078282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078282"><a href="/eye/lifestyle/">Lifestyle</a></li>
+	<li id="menu-item-10078283" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078283"><a href="/eye/food/">Food</a></li>
+	<li id="menu-item-10078284" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078284"><a href="/eye/design/">Design</a></li>
+	<li id="menu-item-10078285" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078285"><a href="/eye/fashion/">Fashion</a></li>
+</ul>
+</li>
+<li id="menu-item-10047053" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-has-children menu-item-10047053"><a href="http://wwd.com/footwear-news/" class="fn-link"><i class="icon-f"></i><i class="icon-n"></i>Footwear News<span class="icon-arrow-rounded"></span></a>
+<ul class="sub-menu level2">
+	<li id="menu-item-10047243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10047243"><a href="http://footwearnews.com/">Footwear News</a></li>
+	<li id="menu-item-10047244" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10047244"><a href="http://footwearnews.com/v/business/">Business</a></li>
+	<li id="menu-item-10047245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10047245"><a href="http://footwearnews.com/v/business/retail/">Retail</a></li>
+	<li id="menu-item-10047246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10047246"><a href="http://footwearnews.com/v/fashion/">Fashion</a></li>
+	<li id="menu-item-10047247" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10047247"><a href="http://footwearnews.com/v/runway/">Runway</a></li>
+	<li id="menu-item-10047248" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10047248"><a href="http://footwearnews.com/v/influencers/">Influencers</a></li>
+</ul>
+</li>
+<li id="menu-item-10047054" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-has-children menu-item-10047054"><a href="http://wwd.com/globe-news/">The World<span class="icon-arrow-rounded"></span></a>
+<ul class="sub-menu level2">
+	<li id="menu-item-10076340" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076340"><a href="/news/">All Regions</a></li>
+	<li id="menu-item-10076341" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076341"><a href="/news/asia-pacific/">Asia Pacific</a></li>
+	<li id="menu-item-10076342" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076342"><a href="/news/europe/">Europe</a></li>
+	<li id="menu-item-10076343" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076343"><a href="/news/north-america/">North America</a></li>
+	<li id="menu-item-10047516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10047516"><a href="/news/south-central-america/">South and Central America</a></li>
+	<li id="menu-item-10047446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10047446"><a href="/news/africa-the-middle-east/">Africa and The Middle East</a></li>
+</ul>
+</li>
+<li id="menu-item-10076413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076413"><a href="https://www.youtube.com/user/wwd/featured">Video</a></li>
+<li id="menu-item-10047059" class="menu-item menu-item-type-taxonomy menu-item-object-vertical menu-item-10047059"><a href="http://wwd.com/wwd-summits/">Summits</a></li>
+		</span>
+		<li id="menu-item-10076363" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076363"><a href="/wwdcareers/">Careers</a></li>
+<li id="menu-item-10076365" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076365"><a href="http://fashioncareers.market.adicio.com/">Classifieds</a></li>
+<li id="menu-item-10076366" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076366"><a href="/people-companies/">WWDirectory</a></li>
+<li id="menu-item-10078310" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10078310"><a href="/search/">Article Finder</a></li>
+<li id="menu-item-10076368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10076368"><a href="/social/">WWD Social</a></li>
+	</ul>
+</div>
+
+				
+				<h4 class="site-logo" title="WWD Home"><a href="http://wwd.com/" title="WWD" rel="home">WWD</a></h4>
+
+				<div class="header-misc">
+																		<div id="AMS_WWD_SUBTXTLINK_NEXTTOLOGO_LO" class="desktop"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=124554577&iu=/3782/WWD_CM/next_to_logo/vertical">Subscribe Now</a></div>
+																<!--todo: what does id represent in this URL? -->
+				</div><!-- .header-misc -->
+			</div> <!-- .container-left -->
+			<div class="container-right">
+
+				<div class="links-social"><ul class="clearfix">			<li><a href="https://www.facebook.com/wwd" target="_blank"><i class="ir icon-facebook"></i></a></li>
+					<li><a href="https://twitter.com/wwd" target="_blank"><i class="ir icon-twitter"></i></a></li>
+					<li><a href="http://wwd.tumblr.com" target="_blank"><i class="ir icon-tumblr"></i></a></li>
+					<li><a href="https://www.linkedin.com/company/women%27s-wear-daily" target="_blank"><i class="ir icon-linkedin"></i></a></li>
+					<li><a href="http://www.pinterest.com/wwd/" target="_blank"><i class="ir icon-pinterest"></i></a></li>
+					<li><a href="https://plus.google.com/+wwd" target="_blank"><i class="ir icon-googleplus"></i></a></li>
+					<li><a href="https://instagram.com/wwd/" target="_blank"><i class="ir icon-instagram"></i></a></li>
+					<li><a href="http://www.wwd.com/rss?src=tn" target="_blank"><i class="ir icon-rss"></i></a></li>
+		</ul></div>
+					<div class="links-sections">
+					<a href="/wwdcareers/">Careers</a>
+					<a href="http://fashioncareers.market.adicio.com/">Classifieds</a>
+			</div>
+
+				<div class="login-container">
+			<div id="logged-out" class="clearfix">
+							<div id="AMS_WWD_SUBTXTLINK_NEXTTOLOGIN_LO" class="promotheus desktop">
+					<div id="layer_offer_link" class="failsafe text"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=124575217&iu=/3782/WWD_CM/next_to_login/vertical">Subscribe</a></div>
+				</div>
+						<a href="#" class="login-link">Log In</a>
+		</div>
+		<div id="logged-in" class="clearfix">
+			<div id="logoutlink" class="mobile">
+				<input type="hidden" id="logOutUrl" name="logOutUrl" value="/" class="mobile"/>
+			</div>
+			<p class="login-message username hidden">Welcome <span class="replace-username"></span></p>
+			<span class="no-ip">
+				<a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=WW3" id="my-account" target="_blank">Account</a>
+				<a href="/" class="logout-link">Log out</a>
+			</span>
+			<input type="hidden" id="auto-login" name="auto-login" value=""/>
+			<input type="hidden" id="hasIPClient" name="hasIPClient" value=""/>
+			<input type="hidden" id="hasTooManyIPClientUsers" name="hasTooManyIPClientUsers" value=""/>
+		</div>
+		<div id="login-form">
+			<div class="form-container clearfix">
+				<i class="close icon-close-circle"></i>
+				<div class="col1">
+					<p class="login">Log In</p>
+					<p class="not-member">Not a Subscriber?</p>
+					<div id="AMS_WWD_SUBTXTLINK_LOGINBOX_LO" class="promotheus desktop">
+						<div id="layer_offer_link"><a target="_top" href="http://pubads.g.doubleclick.net/gampad/clk?id=124593097&iu=/3782/WWD_CM/login_box" onClick="parent.location='http://pubads.g.doubleclick.net/gampad/clk?id=124593097&iu=/3782/WWD_CM/login_box'">Subscribe Now</a></div>
+					</div>
+				</div>
+				<input type="hidden" value="" id="secure-host" />
+				<div id="login-iframe-container" style="height: 225px;">
+					<iframe src="/account/login-iframe" allowtransparency="false" scrolling="no" id="log-in-iframe" name="log-in-iframe" frameborder="0" style="height: 225px;"></iframe>
+				</div>
+			</div>
+		</div>
+		<div id="intercept-container" style="display:none;">
+			<div class="form-container clearfix">
+				<div class="close">x</div>
+				<div id="intercept-iframe-container"></div>
+			</div>
+		</div>
+	</div>
+
+			</div><!-- .container-right -->
+		</div><!-- .nav-top -->
+
+	</div><!-- .header-row1 -->
+	<div class="overlay"></div>
+	<div class="search-container">
+		<div class="search">
+			<form id="gsearch" action=http://wwd.com/search/>
+				<input id="global-searchTextValue" type="text" onfocus="" placeholder="Search WWD.com" class="" name="s">
+				<input type="submit" value="" class="submit desktop">
+			</form>
+		</div>
+	</div><!-- .search-container -->
+
+	<!--[if IE]>
+	<style>.header-row2 .nav-sub li { letter-spacing:-1px; }</style>
+	<![endif]-->
+
+	<div class="header-row2">
+				<table cellpadding="0" class="subnav">
+			<tr>
+				<td class="subnav-left">&nbsp;</td>
+				<td class="subnav-middle">
+					<div class="subnav-container">
+						<div class="nav-sub-section">
+							<a href="http://wwd.com/beauty-industry-news/">Beauty</a>							<span></span>
+						</div>
+												<div class="nav-sub1">
+							<ul id="menu-beauty-submenu-top-row" class="menu"><li id="menu-item-10076268" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10076268"><a href="http://wwd.com/beauty-industry-news/beauty-features/">Beauty Features</a></li>
+<li id="menu-item-10076269" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10076269"><a href="http://wwd.com/beauty-industry-news/skin-care/">Skin Care</a></li>
+<li id="menu-item-10076270" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10076270"><a href="http://wwd.com/beauty-industry-news/fragrance/">Fragrance</a></li>
+<li id="menu-item-10076271" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10076271"><a href="http://wwd.com/beauty-industry-news/color-cosmetics/">Color Cosmetics</a></li>
+<li id="menu-item-10076272" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-10076272 active"><a href="http://wwd.com/beauty-industry-news/hair/">Hair</a></li>
+<li id="menu-item-10076273" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10076273"><a href="http://wwd.com/beauty-industry-news/health-beauty-aids/">Health and Beauty Aids</a></li>
+<li id="menu-item-10076274" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10076274"><a href="http://wwd.com/beauty-industry-news/financial/">Financial</a></li>
+</ul>						</div>
+						<div class="nav-sub2">
+							<ul id="menu-beauty-submenu-bottom-row" class="menu"><li id="menu-item-10076275" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10076275"><a href="http://wwd.com/beauty-industry-news/people/">People</a></li>
+<li id="menu-item-10076276" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10076276"><a href="http://wwd.com/beauty-industry-news/retailing/">Retailing</a></li>
+<li id="menu-item-10076277" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10076277"><a href="http://wwd.com/beauty-industry-news/marketing-trends/">Marketing / Trends</a></li>
+<li id="menu-item-10076278" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10076278"><a href="http://wwd.com/beauty-industry-news/products/">Products</a></li>
+<li id="menu-item-10076279" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10076279"><a href="http://wwd.com/beauty-industry-news/prestige/">Prestige</a></li>
+<li id="menu-item-10076280" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10076280"><a href="http://wwd.com/beauty-industry-news/body-care/">Body Care</a></li>
+<li id="menu-item-10076281" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10076281"><a href="http://wwd.com/beauty-industry-news/mass/">Mass</a></li>
+<li id="menu-item-10076282" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10076282"><a href="http://wwd.com/beauty-industry-news/organics/">Organics</a></li>
+</ul>						</div>
+						<div class="search-link"><i class="ir icon-search">Search</i></div>
+					</div>
+				</td>
+				<td class="subnav-right"><span>&nbsp;</span></td>
+			</tr>
+		</table>
+		</div>
+
+			<div class="top-ad-container">
+			<div class="ad-one">
+				<div class="admz" id="adm-header-leaderboard">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="728">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="gpt-dt-leaderboard-ros-uid0" class="ad-rotatable"></div>
+	</div>
+		</div>
+
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="728">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="gpt-dt-leaderboard-ros-uid1" class="ad-rotatable"></div>
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript" class="script-mobile">
+	new AdLoader('#adm-header-leaderboard', [
+				{
+			"device": "Desktop",
+			"width": 728,
+			"height": 90		},				{
+			"device": "Desktop",
+			"width": 728,
+			"height": 90		}			]);
+</script>
+			</div>
+		</div>
+	</header>
+
+<script>
+jQuery('.nav-sections .nav-link').click(function() {
+	jQuery('.nav-sections .level1').fadeIn(50);
+	jQuery(document).mouseup(function(e) {
+		var container = jQuery('.nav-sections .level1,.nav-sections .level2');
+		if (!container.is(e.target) // if the target of the click isn't the container...
+			&& container.has(e.target).length === 0) // ... nor a descendant of the container
+		{
+			jQuery('.nav-sections .level1,.nav-sections .level2').fadeOut(200);
+		}
+	});
+	return false;
+});
+jQuery('.nav-sections .level1 .sections-main li').hover(function() {
+	jQuery(this).toggleClass('hover');
+});
+jQuery('.search-link').click(function() {
+	jQuery('.search-container,.overlay').fadeIn(50);
+	jQuery('#global-searchTextValue').focus();
+	jQuery(document).mouseup(function(e) {
+		var container = jQuery('.search-container .search');
+		if (!container.is(e.target) // if the target of the click isn't the container...
+			&& container.has(e.target).length === 0) // ... nor a descendant of the container
+		{
+			jQuery('.search-container,.overlay').fadeOut(200);
+		}
+	});
+});
+</script>
+
+<div id="header" class="clearfix">
+	<div id="topBannerPushdownAd" >
+			</div>
+</div><!-- #header -->
+
+<div id="wrapper" class="site-main" role="main">
+
+	
+<div id="main" role="main">
+		<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		var pathname = window.location.pathname.replace(/\/$/, ""); // get path with final slash removed
+		var bcList = pathname.split("/");
+		var bcName;
+		var bcURL="";
+		var stop;
+		var pageType = "article";
+		var context = "main";
+
+		if ( $( 'body' ).hasClass( 'article' ) ) {
+			// remove last item
+			bcList.pop();
+		}
+
+		if ( $( 'body' ).hasClass( 'package' ) ) {
+			// remove two more. yuck.
+			bcList.pop();
+			bcList.pop();
+		}
+
+		$.each(bcList, function(i,val) {
+			//Replace or remove values
+			var obj = {};
+			obj['review'] = '';
+			obj['people-profile'] = '';
+			obj['company-profile'] = '';
+			obj['people-companies'] = 'WWDirectory';
+			obj['fashion-designer'] = 'Collections A&#8211;Z';
+			obj['fashion-memopad'] = 'Memo Pad';
+
+			if (obj[val] || obj[val]=="") {
+				val = obj[val];
+				}
+			if (val != "") {
+				bcURL = bcURL+"/"+val; /*Construct URL*/
+				bcName = val.replace(/[_,-]+/g," "); /*Replace any number or non-alpha*/
+				if (bcName.length>28) { bcName = bcName.slice(0,28)+"..."; } /*For incomplete Blogs names*/
+				//End the BC list building
+				if (bcName.indexOf("Collections A")>-1) {
+					//bcName
+					stop="true"; // Stop at Collections
+					}
+				if (i< bcList.length-1 || (i< bcList.length && bcName == "WWDirectory")) {
+					if (bcName == "WWDirectory") {
+						bcURL = "/people-companies";
+					}
+					$("#bread-crumb ul").append("<li><a href='"+bcURL+"'>"+bcName+"</a></li>");
+				} else {
+					if (bcURL == "/subscriptions/1" || bcURL == "/subscriptions/2" || bcURL == "/subscriptions/3" || bcURL == "/subscriptions/4" || bcURL == "/subscriptions/5") {
+						bcName = "wwd";
+					}
+					if (bcName == "Memo Pad") {
+						bcURL = "/media-news/fashion-memopad";
+					}
+					/*No link for current page or still showing it?*/
+					//$("#bread-crumb ul").append("<li><class='bread-crumb-selected'>"+bcName+"</a></li>");
+
+					if (pageType == "landing people-companies" && context == "subcategory-landing") {
+						var bcNameSplit = bcName.split(' ');
+						bcNameSplit.pop();
+						var bcNameJoin = bcNameSplit.join(",");
+						var bcName = bcNameJoin.replace(/\,/g,' ')
+						//var bcName = bcNameJoin.replace(',', ' ');
+					}
+					$("#bread-crumb ul").append("<li><a href='"+bcURL+"'>"+bcName+"</a></li>");
+				}
+			}
+			return (stop != "true");
+		});
+		jQuery("#bread-crumb ul li:last-child a").addClass("bread-crumb-selected");
+		jQuery("#bread-crumb ul li:last-child a").prepend("<span class='square'></span>");
+
+	});
+</script>
+<div id="bread-crumb" class="desktop clearfix">
+	<ul>
+		<li><a href="/">WWD</a></li>
+	</ul>
+</div>
+	<div id="content" class="post-10345412 post type-post status-publish format-standard has-post-thumbnail hentry category-hair tag-salons vertical-beauty-industry-news region-north-america">
+
+	
+		
+<div id="article-header-outer-container">
+
+	<!-- hidden meta information about the article --> 
+<div id="hiddenVariables" style="display:none;">
+	<input type="hidden" id="article-id" value="8085304"/>
+	<input type="hidden" id="pagetype" value="article"/>
+	<input type="hidden" id="subCat" value="Government and Trade"/>
+	<input type="hidden" id="article-date" value="2014-12-23"/>
+	<input type="hidden" id="content-date" name="content-date" value="2014-12-23"/>
+	<input type="hidden" id="region" name="region" value="North America"/>
+	<input type="hidden" id="regionUrl" name="regionUrl" value="north-america"/>
+	<input type="hidden" id="article-access-type" value="Gated Paid"/>
+</div>
+	<div id="content-header">
+		<div id="param-container" style="display:none;"></div>
+		<div class="article-header clearfix">
+			<div id="header-container">
+				<div class="article-post-date desktop">
+					<p class="post-date">February 10, 2016</p>
+				</div>
+				<h1 class="desktop" itemprop="headline">John Barrett Fires CEO Jim Hedges</h1>
+				<div id="author-container">
+					By <a href="http://wwd.com/wwd-masthead/pete-born/" itemprop="author"><span>Pete Born</span></a>
+<div>with contributions from <a href="http://wwd.com/wwd-masthead/julie-naughton/">Julie Naughton</a></div>				</div>
+			</div>
+
+			<div class="roadblock-container article-roadblock" style="display: block;">
+				<div class="roadblock-header clearfix"></div>
+				<div class="promo">
+					<div class="admz" id="adm-paywall">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="640">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="gpt-1424716787-uid2" class="ad-rotatable"></div>
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript" class="script-mobile">
+	new AdLoader('#adm-paywall', [
+				{
+			"device": "Desktop",
+			"width": 640,
+			"height": 480		}			]);
+</script>
+					<script type="text/javascript">
+						var homeURL         = window.location.protocol +'//' + window.location.host;
+						var searchInURL     = (location.href.indexOf('search/results/slideshow')>-1);
+						if (searchInURL) {
+							homeURL         = '/image-search/results/';
+						}
+						var backURL         = document.referrer == "" ? homeURL : document.referrer;
+						jQuery("#back-container").text("").html("<a href=\""+ backURL +"\">Back<span></span></a>");
+					</script>
+				</div>
+				<!-- end error messages -->
+				<div class="login-area">
+					<div id="rb-login-form" class="login-link on">
+						<a class="login-link" href="#">
+							<img src="https://s0.wp.com/wp-content/themes/vip/pmc-wwd-2015/static/images/roadblock/rb-login.png" alt="Sign In to Your Account" class="desktop">
+							<span class="mobile">Log In</span>
+						</a>
+					</div>
+				</div>
+				<input type="hidden" id="roadblock-article" name="roadblock-article" value="roadblock">
+			</div>
+		</div>
+	</div>
+</div>
+	
+	
+			<a name="comment-top"></a>
+	<a href="" class="mobile-comments mobile">load comments <!-- (<span></span>) --></a>
+	<div id="comment-container" class="">
+		<div id="comment-header" class="clearfix">
+			<h3>ADD A COMMENT</h3>
+			<span>Sign in using your Facebook or Twitter account, or simply type your comment below as a guest by entering your email and name. Your email address will not be shared. Please note that WWD reserves the right to remove profane, distasteful or otherwise inappropriate language.</span>
+		</div>
+		<img id="bottom-speech" src="https://s0.wp.com/wp-content/themes/vip/pmc-wwd-2015/static/images/backgrounds/bottom_comment_header.gif"/>
+		<div id="comment-content" style="">
+			<div id="disqus_thread">
+	<div id="dsq-content">
+		<ul id="dsq-comments">
+					</ul>
+			</div>
+</div>
+		
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+<script type="text/javascript" charset="utf-8">
+	var disqus_url = "http:\/\/wwd.com\/beauty-industry-news\/hair\/john-barrett-ceo-jim-hedges-10345412\/";
+	var disqus_identifier = "10345412 http:\/\/wwd.com\/?p=10345412";
+	var disqus_container_id = 'disqus_thread';
+	var disqus_domain = "disqus.com";
+	var disqus_shortname = "wwd";
+		var disqus_config = function () {
+	    var config = this; // Access to the config object
+
+	    /* 
+	       All currently supported events:
+	        * preData — fires just before we request for initial data
+	        * preInit - fires after we get initial data but before we load any dependencies
+	        * onInit  - fires when all dependencies are resolved but before dtpl template is rendered
+	        * afterRender - fires when template is rendered but before we show it
+	        * onReady - everything is done
+	     */
+
+		config.callbacks.preData.push(function() {
+			// clear out the container (its filled for SEO/legacy purposes)
+			document.getElementById(disqus_container_id).innerHTML = '';
+		})
+		config.callbacks.onReady.push(function() {
+/*
+			// sync comments in the background so we don't block the page
+			var req = new XMLHttpRequest();
+			req.open('GET', '?cf_action=sync_comments&post_id=10345412', true);
+			req.send(null);
+*/
+		});
+		
+			};
+	
+	var facebookXdReceiverPath = "http:\/\/pmcwwd.wordpress.com\/wp-content\/themes\/vip\/plugins\/disqus\/xd_receiver.htm";
+</script>
+
+<script type="text/javascript" charset="utf-8">
+	var DsqLocal = {
+		'trackbacks': [
+		],
+		'trackback_url': "http:\/\/wwd.com\/beauty-industry-news\/hair\/john-barrett-ceo-jim-hedges-10345412\/trackback\/"	};
+</script>
+
+<script type="text/javascript" charset="utf-8">
+(function() {
+	var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+	dsq.async = true;
+	dsq.src = '//' + disqus_shortname + '.' + disqus_domain + '/embed.js?pname=wordpress&pver=2.40';
+	(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+		</div>
+	</div>
+				<div id="article-nav" class="desktop">
+			
+				<a href="http://wwd.com/fashion-news/fashion-scoops/superga-jennifer-meyer-kate-hudson-courteney-cox-demi-moore-10345197/" title="Superga XO Jennifer Meyer Party: Kate Hudson, Courteney Cox, Demi Moore" id="nextArticle">
+					<p>Next Story</p>
+					<h3>Superga XO Jennifer Meyer Party: Kate Hudson, Courteney Cox, Demi Moore</h3>
+					<p class="dek"></p>
+					<span class="next-image" style="background:url(https://pmcwwd.files.wordpress.com/2016/02/superga-xo-jennifer-meyer-courteney-cox-demi-moore.jpg?w=1024) no-repeat 0 0 / 150px"></span>
+					<div class="white-overlay desktop"></div>
+					<i class="icon-arrow-thin "></i>
+				</a>
+
+				
+				<a href="http://wwd.com/business-news/financial/twitter-active-users-social-media-10345344/" title="Twitter Growth in Monthly Active Users Stalls" id="previousArticle">
+					<p>Previous Story</p>
+					<h3>Twitter Growth in Monthly Active Users Stalls</h3>
+					<p class="dek"></p>
+					<span class="previous-image" style="background:url() no-repeat 0 0 / 150px"></span>
+					<div class="white-overlay desktop"></div>
+					<i class="icon-arrow-thin icon-rotate-180"></i>
+				</a>
+
+						</div>
+		
+	</div><!-- #content -->
+
+	<div id="xrail"></div>
+</div><!-- #main -->
+
+
+<div id="yrail" class="widget-area" role="complementary">
+	<div class="admz" id="adm-right-rail-top">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="gpt-1424324024-uid3" class="ad-rotatable"></div>
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript" class="script-mobile">
+	new AdLoader('#adm-right-rail-top', [
+				{
+			"device": "Desktop",
+			"width": 300,
+			"height": 100		}			]);
+</script>
+<div class="admz" id="adm-right-rail-1">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="gpt-ros-300x600-uid4" class="ad-rotatable"></div>
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript" class="script-mobile">
+	new AdLoader('#adm-right-rail-1', [
+				{
+			"device": "Desktop",
+			"width": 300,
+			"height": 600		}			]);
+</script>
+
+	<div class="featured-box latest">
+		<h5>Latest<span>Beauty Articles</span></h5>
+		<hr class="sm-divider desktop">
+		<div class="yrail-latest-articles">
+				<div class="no-image">
+		<div class="latest-articles-head-slug first">
+			<h4><a href="http://wwd.com/beauty-industry-news/skin-care/">Skin Care</a></h4>			<h3><a href="http://wwd.com/beauty-industry-news/skin-care/angela-bassett-dr-barbara-sturm-skincare-range-10420484/">Angela Bassett and Dr. Barbara Sturm Launch Skin-Care Range</a></h3>
+		</div>
+	</div>
+	<div class="no-image">
+		<div class="latest-articles-head-slug ">
+			<h4><a href="http://wwd.com/beauty-industry-news/beauty/">Beauty</a></h4>			<h3><a href="http://wwd.com/beauty-industry-news/beauty/dj-nikki-pennie-brand-ambassador-dior-beauty-10421007/">DJ Nikki Pennie Gives Good Booth Face for Dior Beauty</a></h3>
+		</div>
+	</div>
+	<div class="no-image">
+		<div class="latest-articles-head-slug ">
+			<h4><a href="http://wwd.com/beauty-industry-news/beauty/">Beauty</a></h4>			<h3><a href="http://wwd.com/beauty-industry-news/beauty/sunless-acquires-competitor-norvell-10420478/">Spray Tanning Takeover: Sunless Acquires Competitor Norvell</a></h3>
+		</div>
+	</div>
+	<div class="no-image">
+		<div class="latest-articles-head-slug ">
+			<h4><a href="http://wwd.com/beauty-industry-news/skin-care/">Skin Care</a></h4>			<h3><a href="http://wwd.com/beauty-industry-news/skin-care/skin-care-brand-immunocologie-launches-at-harrods-10420075/">Skin-Care Brand Immunocologie Launches at Urban Retreat at Harrods</a></h3>
+		</div>
+	</div>
+	<div class="no-image">
+		<div class="latest-articles-head-slug ">
+			<h4><a href="http://wwd.com/beauty-industry-news/retail/">Retail</a></h4>			<h3><a href="http://wwd.com/beauty-industry-news/retail/beauty-inc-shopper-stalker-willowbrook-mall-in-wayne-n-j-10420795/">Beauty Inc Shopper Stalker: Willowbrook Mall in Wayne, N.J.</a></h3>
+		</div>
+	</div>
+	<div class="no-image">
+		<div class="latest-articles-head-slug ">
+			<h4><a href="http://wwd.com/beauty-industry-news/beauty-features/">Beauty Features</a></h4>			<h3><a href="http://wwd.com/beauty-industry-news/beauty-features/beauty-inc-editors-letter-the-year-in-numbers-beauty-inc-top-10418212/">Beauty Inc. Editor&#8217;s Letter: The Year in Numbers</a></h3>
+		</div>
+	</div>
+	<div class="no-image">
+		<div class="latest-articles-head-slug ">
+			<h4><a href="http://wwd.com/beauty-industry-news/trends/">Trends</a></h4>			<h3><a href="http://wwd.com/beauty-industry-news/trends/trend-track-fall-2016-backstage-beauty-10420835/">Trend Track: Fall 2016 Backstage Beauty</a></h3>
+		</div>
+	</div>
+	<div class="no-image">
+		<div class="latest-articles-head-slug ">
+			<h4><a href="http://wwd.com/beauty-industry-news/beauty-features/">Beauty Features</a></h4>			<h3><a href="http://wwd.com/beauty-industry-news/beauty-features/pete-unplugged-moving-on-up-again-premiumization-10418234/">Pete Unplugged:  Moving On Up. Again.</a></h3>
+		</div>
+	</div>
+	<div class="no-image">
+		<div class="latest-articles-head-slug ">
+			<h4><a href="http://wwd.com/beauty-industry-news/beauty-features/">Beauty Features</a></h4>			<h3><a href="http://wwd.com/beauty-industry-news/beauty-features/alexandra-shipp-x-men-halle-berry-beauty-routine-10419778/">Girl of the Moment: Alexandra Shipp</a></h3>
+		</div>
+	</div>
+		</div>
+		<div class="white-overlay"></div>
+	</div>
+
+<div class="taw-wrapper">
+	<div id="container-taw" class="clearfix">
+		<span></span>
+		<div class="taw-head"></div>
+		<div id="taw-touts" class="clearfix">
+							<div class="touts clearfix">
+					<a href="http://wwd.com/fashion-news/they-are-wearing/they-are-wearing-amsterdam-kingpins-10418597/" class="first"><img class="lazy" src="https://s0.wp.com/wp-content/themes/vip/pmc-wwd-2015/static/images/trans.gif" data-original="https://pmcwwd.files.wordpress.com/2016/04/taw-kingpins-denim-16-01.jpg?w=300&#038;h=450&#038;crop=1" data-desktop="https://pmcwwd.files.wordpress.com/2016/04/taw-kingpins-denim-16-01.jpg?w=300&#038;h=450&#038;crop=1" alt="On the streets of Amsterdam." width="300" /><noscript><img src="https://pmcwwd.files.wordpress.com/2016/04/taw-kingpins-denim-16-01.jpg?w=300&#038;h=450&#038;crop=1" alt="On the streets of Amsterdam." width="300" /></noscript></a>					<div class="image-tout-container no-kicker">
+							<h2><a href="http://wwd.com/fashion-news/they-are-wearing/they-are-wearing-amsterdam-kingpins-10418597/">They Are Wearing: Amsterdam Kingpins</a></h2>
+						</div>
+				</div>
+							<div class="touts clearfix">
+					<a href="http://wwd.com/fashion-news/they-are-wearing/shanghai-fashion-week-street-style-fall-10418467/" class="not_first"><img class="lazy" src="https://s0.wp.com/wp-content/themes/vip/pmc-wwd-2015/static/images/trans.gif" data-original="http://i0.wp.com/pmcwwd.files.wordpress.com/2016/04/taw-shanghai-f16-1.jpg?crop=0px%2C390px%2C2795px%2C2795px&#038;resize=120%2C120&#038;ssl=1" data-desktop="http://i0.wp.com/pmcwwd.files.wordpress.com/2016/04/taw-shanghai-f16-1.jpg?crop=0px%2C390px%2C2795px%2C2795px&#038;resize=120%2C120&#038;ssl=1" alt="Shanghai Fashion Week street style." width="300" /><noscript><img src="http://i0.wp.com/pmcwwd.files.wordpress.com/2016/04/taw-shanghai-f16-1.jpg?crop=0px%2C390px%2C2795px%2C2795px&#038;resize=120%2C120&#038;ssl=1" alt="Shanghai Fashion Week street style." width="300" /></noscript></a>					<div class=" no-kicker">
+							<h2><a href="http://wwd.com/fashion-news/they-are-wearing/shanghai-fashion-week-street-style-fall-10418467/">They Are Wearing: Shanghai Fashion Week Fall 2016</a></h2>
+						</div>
+				</div>
+							<div class="touts clearfix">
+					<a href="http://wwd.com/fashion-news/they-are-wearing/they-are-wearing-hyeres-festival-10418352/" class="not_first"><img class="lazy" src="https://s0.wp.com/wp-content/themes/vip/pmc-wwd-2015/static/images/trans.gif" data-original="http://i2.wp.com/pmcwwd.files.wordpress.com/2016/04/taw-hyeres-13.jpg?crop=0px%2C59px%2C3612px%2C3612px&#038;resize=120%2C120&#038;ssl=1" data-desktop="http://i2.wp.com/pmcwwd.files.wordpress.com/2016/04/taw-hyeres-13.jpg?crop=0px%2C59px%2C3612px%2C3612px&#038;resize=120%2C120&#038;ssl=1" alt="On the grounds at the Hyères festival." width="300" /><noscript><img src="http://i2.wp.com/pmcwwd.files.wordpress.com/2016/04/taw-hyeres-13.jpg?crop=0px%2C59px%2C3612px%2C3612px&#038;resize=120%2C120&#038;ssl=1" alt="On the grounds at the Hyères festival." width="300" /></noscript></a>					<div class=" no-kicker">
+							<h2><a href="http://wwd.com/fashion-news/they-are-wearing/they-are-wearing-hyeres-festival-10418352/">They Are Wearing: Hyères Festival</a></h2>
+						</div>
+				</div>
+					</div>
+		<div class="more-tab-container"><a href="http://wwd.com/fashion-news/they-are-wearing/" title="More Street" class="more-tab">More Street</a></div>
+	</div>
+</div>
+<div id="zergnet-widget-32735"></div>
+
+<script language="javascript" type="text/javascript">
+	( function(){
+		var zergnet = document.createElement('script');
+		zergnet.type = 'text/javascript';
+		zergnet.async = true;
+		zergnet.src = 'http://www.zergnet.com/zerg.js?id=32735';
+		var znscr = document.getElementsByTagName('script')[0];
+		znscr.parentNode.insertBefore(zergnet, znscr);
+	} )();
+</script><div class="tabs-container most-popular-container xrail-module">
+	<ul class="tabs" id="most-tabs">
+		<li class="most-viewed"><a href="#most-viewed-content"><span>Most</span>Popular</a></li>
+		<li class="most-commented"><a href="#most-commented-content">Commented</a></li>
+	</ul>
+	<span></span>
+	<div class="tabs-content items-parent">
+		<div class="items">
+			<div class="most-viewed">
+				<ul>
+											<li><a href="http://wwd.com/eye/people/alunageorge-on-sophomore-album-festival-style-and-glitter-10421614/">AlunaGeorge on Their Sophomore Album, Festival Style and Glitter</a></li>
+											<li><a href="http://wwd.com/eye/people/lily-mcmenamy-saint-laurent-tilda-swinton-a-bigger-splash-10421479/">Lily McMenamy Moves From Walking Saint Laurent to Costarring With Tilda Swinton</a></li>
+											<li><a href="http://wwd.com/beauty-industry-news/people/ruth-kallens-opens-van-court-nail-salon-new-york-10420805/">Ruth Kallens Opens Van Court Nail Salon in New York</a></li>
+											<li><a href="http://wwd.com/eye/people/mad-men-matthew-weiner-talks-poetry-jeopardy-politics-and-projects-10420632/">The Poetry, Politics and Projects of &#8216;Mad Men&#8217; Creator Matthew Weiner</a></li>
+											<li><a href="http://wwd.com/eye/people/gisele-bundchen-anthony-vaccarello-the-tonight-show-appearance-10420792/">Gisele Bündchen Wears Anthony Vaccarello for &#8216;Tonight Show&#8217; Appearance</a></li>
+									</ul>
+			</div>
+			<div class="most-commented">
+				<ul>
+											<li><a href="http://wwd.com/business-news/financial/gold-silver-stocks-market-10421574/">April is Kind to Gold — Not Stocks</a></li>
+											<li><a href="http://wwd.com/business-news/financial/retail-stocks-personal-spending-data-10421085/">Shares of Amazon Rise 10%, Lift Consumer Stocks</a></li>
+											<li><a href="http://wwd.com/business-news/financial/esprit-9-month-revenue-slides-10421054/">Esprit 9-Month Revenue Slides 10%</a></li>
+											<li><a href="http://wwd.com/business-news/financial/europes-stock-markets-down-morning-trading-boohoo-boss-10421040/">Europe’s Stock Markets Down in Midmorning Trading</a></li>
+											<li><a href="http://wwd.com/business-news/financial/asian-shares-end-lower-10421022/">Asian Shares End Lower</a></li>
+									</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="admz" id="adm-right-rail-2">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="gpt-dt-ros-300x100-uid5" class="ad-rotatable"></div>
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript" class="script-mobile">
+	new AdLoader('#adm-right-rail-2', [
+				{
+			"device": "Desktop",
+			"width": 300,
+			"height": 100		}			]);
+</script>
+<div id="publications-div">
+	<h5><a href="http://wwd.com/wwd-publications">Latest<span>Publications</span></a></h5>
+	<span></span>
+	<div id="right-rail-carousel">
+		<div class="perspective carousel-mobile" id="perspective-carousel">
+							<div class="perspective_diap" >
+					<a href="http://wwd.com/wwd-publications/beauty-biz/2016-04-29-10420942/"><img class="lazy" src="https://s0.wp.com/wp-content/themes/vip/pmc-wwd-2015/static/images/trans.gif" data-original="https://pmcwwd.files.wordpress.com/2016/04/beautyinc0416cover.jpg?w=160&#038;h=240&#038;crop=1" data-desktop="https://pmcwwd.files.wordpress.com/2016/04/beautyinc0416cover.jpg?w=160&#038;h=240&#038;crop=1" alt="beautyinc0416cover" width="165" height="207" /><noscript><img src="https://pmcwwd.files.wordpress.com/2016/04/beautyinc0416cover.jpg?w=160&#038;h=240&#038;crop=1" alt="beautyinc0416cover" width="165" height="207" /></noscript></a>					<a href="http://wwd.com/wwd-publications/beauty-biz/2016-04-29-10420942/" class="date-link desktop">Beauty Inc <span>04/29/2016</span></a>
+					<a href="http://wwd.com/wwd-publications/beauty-biz/2016-04-29-10420942/" class="read-now desktop">Read Now</a>
+					<a href="http://wwd.com/wwd-publications/beauty-biz/2016-04-29-10420942/" class="pdf-logo desktop">Download the pdf</a>
+					<a href="http://wwd.com/wwd-publications/beauty-biz/2016-04-29-10420942/" class="date-link mobile">Beauty Inc April 29, 2016</a>
+					<a href="http://wwd.com/wwd-publications/beauty-biz/2016-04-29-10420942/" class="read-now mobile">Read Now</a>
+					<a href="http://wwd.com/wwd-publications/beauty-biz/2016-04-29-10420942/" class="pdf-logo mobile">DOWNLOAD PDF NOW</a>
+				</div>
+							<div class="perspective_diap" >
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-27-10418290/"><img class="lazy" src="https://s0.wp.com/wp-content/themes/vip/pmc-wwd-2015/static/images/trans.gif" data-original="https://pmcwwd.files.wordpress.com/2016/04/wwd0427cover.jpg?w=160&#038;h=240&#038;crop=1" data-desktop="https://pmcwwd.files.wordpress.com/2016/04/wwd0427cover.jpg?w=160&#038;h=240&#038;crop=1" alt="WWD, April 27, 2016" width="165" height="207" /><noscript><img src="https://pmcwwd.files.wordpress.com/2016/04/wwd0427cover.jpg?w=160&#038;h=240&#038;crop=1" alt="WWD, April 27, 2016" width="165" height="207" /></noscript></a>					<a href="http://wwd.com/wwd-publications/wwd/2016-04-27-10418290/" class="date-link desktop">WWD <span>04/27/2016</span></a>
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-27-10418290/" class="read-now desktop">Read Now</a>
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-27-10418290/" class="pdf-logo desktop">Download the pdf</a>
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-27-10418290/" class="date-link mobile">WWD April 27, 2016</a>
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-27-10418290/" class="read-now mobile">Read Now</a>
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-27-10418290/" class="pdf-logo mobile">DOWNLOAD PDF NOW</a>
+				</div>
+							<div class="perspective_diap" >
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-20-10413703/"><img class="lazy" src="https://s0.wp.com/wp-content/themes/vip/pmc-wwd-2015/static/images/trans.gif" data-original="https://pmcwwd.files.wordpress.com/2016/04/wwd0420cover.jpg?w=160&#038;h=240&#038;crop=1" data-desktop="https://pmcwwd.files.wordpress.com/2016/04/wwd0420cover.jpg?w=160&#038;h=240&#038;crop=1" alt="WWD, April 20, 2016" width="165" height="207" /><noscript><img src="https://pmcwwd.files.wordpress.com/2016/04/wwd0420cover.jpg?w=160&#038;h=240&#038;crop=1" alt="WWD, April 20, 2016" width="165" height="207" /></noscript></a>					<a href="http://wwd.com/wwd-publications/wwd/2016-04-20-10413703/" class="date-link desktop">WWD <span>04/20/2016</span></a>
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-20-10413703/" class="read-now desktop">Read Now</a>
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-20-10413703/" class="pdf-logo desktop">Download the pdf</a>
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-20-10413703/" class="date-link mobile">WWD April 20, 2016</a>
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-20-10413703/" class="read-now mobile">Read Now</a>
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-20-10413703/" class="pdf-logo mobile">DOWNLOAD PDF NOW</a>
+				</div>
+							<div class="perspective_diap" >
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-13-10407918/"><img class="lazy" src="https://s0.wp.com/wp-content/themes/vip/pmc-wwd-2015/static/images/trans.gif" data-original="https://pmcwwd.files.wordpress.com/2016/04/wwd0413cover.jpg?w=160&#038;h=240&#038;crop=1" data-desktop="https://pmcwwd.files.wordpress.com/2016/04/wwd0413cover.jpg?w=160&#038;h=240&#038;crop=1" alt="WWD, April 13, 2016" width="165" height="207" /><noscript><img src="https://pmcwwd.files.wordpress.com/2016/04/wwd0413cover.jpg?w=160&#038;h=240&#038;crop=1" alt="WWD, April 13, 2016" width="165" height="207" /></noscript></a>					<a href="http://wwd.com/wwd-publications/wwd/2016-04-13-10407918/" class="date-link desktop">WWD <span>04/13/2016</span></a>
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-13-10407918/" class="read-now desktop">Read Now</a>
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-13-10407918/" class="pdf-logo desktop">Download the pdf</a>
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-13-10407918/" class="date-link mobile">WWD April 13, 2016</a>
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-13-10407918/" class="read-now mobile">Read Now</a>
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-13-10407918/" class="pdf-logo mobile">DOWNLOAD PDF NOW</a>
+				</div>
+							<div class="perspective_diap" >
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-06-10403439/"><img class="lazy" src="https://s0.wp.com/wp-content/themes/vip/pmc-wwd-2015/static/images/trans.gif" data-original="https://pmcwwd.files.wordpress.com/2016/04/wwd0406cover.jpg?w=160&#038;h=240&#038;crop=1" data-desktop="https://pmcwwd.files.wordpress.com/2016/04/wwd0406cover.jpg?w=160&#038;h=240&#038;crop=1" alt="WWD, April 6, 2016" width="165" height="207" /><noscript><img src="https://pmcwwd.files.wordpress.com/2016/04/wwd0406cover.jpg?w=160&#038;h=240&#038;crop=1" alt="WWD, April 6, 2016" width="165" height="207" /></noscript></a>					<a href="http://wwd.com/wwd-publications/wwd/2016-04-06-10403439/" class="date-link desktop">WWD <span>04/06/2016</span></a>
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-06-10403439/" class="read-now desktop">Read Now</a>
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-06-10403439/" class="pdf-logo desktop">Download the pdf</a>
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-06-10403439/" class="date-link mobile">WWD April 6, 2016</a>
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-06-10403439/" class="read-now mobile">Read Now</a>
+					<a href="http://wwd.com/wwd-publications/wwd/2016-04-06-10403439/" class="pdf-logo mobile">DOWNLOAD PDF NOW</a>
+				</div>
+					</div>
+		<h5 class="view-all-pubs"><a href="http://wwd.com/wwd-publications">VIEW ALL PUBLICATIONS</a></h5>
+	</div>
+</div><div class="admz" id="adm-right-rail-middle">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="gpt-1424324283-uid6" class="ad-rotatable"></div>
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript" class="script-mobile">
+	new AdLoader('#adm-right-rail-middle', [
+				{
+			"device": "Desktop",
+			"width": 300,
+			"height": 100		}			]);
+</script>
+<div class="admz" id="adm-right-rail-bottom">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="300">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="gpt-dt-ros-300x251-uid7" class="ad-rotatable"></div>
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript" class="script-mobile">
+	new AdLoader('#adm-right-rail-bottom', [
+				{
+			"device": "Desktop",
+			"width": 300,
+			"height": 251		}			]);
+</script>
+
+</div><!-- #yrail -->
+
+	<div class="clear"></div>
+
+		<div id="zrail">
+		<div class="featured-container featured-stories first">
+	<h5 align="center">Featured<span>Stories</span></h5><span></span>
+	<div class="featured-box dynamic">
+		<div class="scrollable-container size7 full-width stat-featured_stories carousel-mobile">
+			<div class="scrollable-content">
+				<div class="items">
+					<div>
+	<a href="http://wwd.com/runway/fall-ready-to-wear-2016/"><img src="https://pmcwwd.files.wordpress.com/2016/02/proenza-f16-hero.jpg?w=120&#038;h=120&#038;crop=1" class="attachment-square-search" alt="Proenza Schouler RTW Fall 2016" width="120" /></a>
+	<div>
+		<h4><a href="http://wwd.com/fashion-news/shows-reviews/">Fashion Show Reviews</a></h4>		<h2><a href="http://wwd.com/runway/fall-ready-to-wear-2016/">New York Fashion Week 2016</a></h2>
+	</div>
+</div><div>
+	<a href="http://wwd.com/fashion-news/fashion-features/wwd-ten-of-tomorrow-2016-future-leaders-fashion-retail-innovation-10366907/"><img src="https://pmcwwd.files.wordpress.com/2016/02/10-of-tom_hold1.jpg?w=120&#038;h=120&#038;crop=1" class="attachment-square-search" width="120" /></a>
+	<div>
+		<h4><a href="http://wwd.com/fashion-news/fashion-features/">Fashion Features</a></h4>		<h2><a href="http://wwd.com/fashion-news/fashion-features/wwd-ten-of-tomorrow-2016-future-leaders-fashion-retail-innovation-10366907/">WWD&#8217;s Ten of Tomorrow 2016: Future Leaders in Fashion and Retail Innovation</a></h2>
+	</div>
+</div><div>
+	<a href="http://wwd.com/beauty-industry-news/marketing-trends/beauty-digital-forum-10366429/"><img src="http://i1.wp.com/pmcwwd.files.wordpress.com/2016/02/bridget-dolan03.jpg?crop=0px%2C94px%2C1366px%2C1366px&#038;resize=120%2C120&#038;ssl=1" class="attachment-square-search" alt="Bridget Dolan" width="120" /></a>
+	<div>
+		<h4><a href="http://wwd.com/beauty-industry-news/marketing-trends/">Marketing and Trends</a></h4>		<h2><a href="http://wwd.com/beauty-industry-news/marketing-trends/beauty-digital-forum-10366429/">Beauty Digital Forum 2016</a></h2>
+	</div>
+</div><div>
+	<a href="http://wwd.com/runway/mens-fall-collections-2016/new-york/"><img src="http://i1.wp.com/pmcwwd.files.wordpress.com/2016/02/michael-kors-mf16-09.jpg?crop=0px%2C0px%2C2732px%2C2732px&#038;resize=120%2C120&#038;ssl=1" class="attachment-square-search" alt="Michael Kors Men&#039;s RTW Fall 2016" width="120" /></a>
+	<div>
+		<h4><a href="http://wwd.com/menswear-news/fashion/">Fashion</a></h4>		<h2><a href="http://wwd.com/runway/mens-fall-collections-2016/new-york/">New York Fashion Week: Men&#8217;s</a></h2>
+	</div>
+</div><div>
+	<a href="http://wwd.com/retail-news/retail-features/wwd-apparel-retail-ceo-summit-10269350/"><img src="https://pmcwwd.files.wordpress.com/2015/10/wwd-summit-ellison.jpg?w=120&#038;h=120&#038;crop=1" class="attachment-square-search" alt="Marvin Ellison" width="120" /></a>
+	<div>
+		<h4><a href="http://wwd.com/retail-news/retail-features/">Retail Features</a></h4>		<h2><a href="http://wwd.com/retail-news/retail-features/wwd-apparel-retail-ceo-summit-10269350/">WWD Apparel &amp; Retail CEO Summit 2015</a></h2>
+	</div>
+</div><div>
+	<a href="http://wwd.com/social/"><img src="https://pmcwwd.files.wordpress.com/2014/03/logos2.jpg?w=120&#038;h=120&#038;crop=1" class="attachment-square-search" alt="Brands are fighting to be heard in the crowded world of social media." width="120" /></a>
+	<div>
+				<h2><a href="http://wwd.com/social/">#WWD Social: Follow Us</a></h2>
+	</div>
+</div>				</div>
+			</div>
+			<div class="controls-container">
+				<div class="center">
+					<a href="#" onclick="javascript:return false;" class="prev"></a>
+					<div class="controls"></div>
+					<a href="#" onclick="javascript:return false;" class="next"></a>
+				</div>
+			</div>
+		</div><!-- .scrollable-container -->
+	</div><!-- .feature-box -->
+</div><!-- .feature-container -->	</div><!-- #zrail -->
+
+	<div id="footer">
+		<div id="footer-banner">
+			<div class="admz" id="adm-footer">
+	
+		<div class="adma google-publisher" data-device="Desktop"
+			 data-width="980">
+			
+<div class="pmc-adm-goog-pub-div ">
+	<div id="gpt-footer-ros-uid8" class="ad-rotatable"></div>
+	</div>
+		</div>
+
+	</div>
+<script type="text/javascript" class="script-mobile">
+	new AdLoader('#adm-footer', [
+				{
+			"device": "Desktop",
+			"width": 980,
+			"height": 100		}			]);
+</script>
+		</div>
+		<div id="footer-nav-centered">
+			<ul><li><a href="/about-us/">About Us</a></li><li><a href="/site-map/">Site Map</a></li><li><a href="/advertising/">Advertising</a></li><li><a href="#">Subscribe</a><ul><li><a href="http://pubads.g.doubleclick.net/gampad/clk?id=125274697&iu=/3782/WWD_CM/sub_btm_nav/wwd/loggedout">WWD &amp; WWD.COM</a></li><li><a href="http://pubads.g.doubleclick.net/gampad/clk?id=125276857&iu=/3782/WWD_CM/sub_btm_nav/footwear_news/loggedout">FOOTWEAR NEWS</a></li><li><a href="http://pubads.g.doubleclick.net/gampad/clk?id=125277097&iu=/3782/WWD_CM/sub_btm_nav/edu/loggedout">EDUCATION</a></li><li><a href="http://pubads.g.doubleclick.net/gampad/clk?id=125277457&iu=/3782/WWD_CM/sub_btm_nav/corp/loggedout">CORPORATE</a></li></ul></li><li><a href="#">Manage Subscriptions</a><ul><li><a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=WW4">WWD.com + WWD</a></li><li><a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=WW3">WWD.com</a></li><li><a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=WWR">WWD Print</a></li><li><a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=WW3">WWD Archives</a></li><li><a href="/newsletters/">Newsletters</a></li></ul></li><li><a href="/help/">FAQ</a></li><li><a href="/contact-us/">Contact Us</a></li><li><a href="/newsletters/">Newsletters</a></li><li><a href="/rss-feeds/">RSS</a></li><li><a href="http://fashioncareers.market.adicio.com/">Classifieds</a></li><li><a href="http://wwd.com/advertise/">Advertise</a></li></ul>		</div>
+		<div id="global-footer">
+			<script>
+				var eventType = "onchange";
+				if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/iPad/i))) {
+					var eventType = "onblur";
+				}
+			</script>
+			<div class="global-footer-columns-container">
+				<div class="global-footer-logo">
+					<h4 class="ir icon-ffm">Fairchild Fashion Media</h4>
+				</div>
+
+				<div class="global-footer-past-issues">
+	<h4>Recent WWD Issues</h4>
+	<ul>
+					 <li><span class="square"></span><a href="http://wwd.com/wwd-publications/wwd/2016-04-27-10418290/">4/27/2016 Wednesday</a></li>
+					 <li><span class="square"></span><a href="http://wwd.com/wwd-publications/wwd/2016-04-20-10413703/">4/20/2016 Wednesday</a></li>
+					 <li><span class="square"></span><a href="http://wwd.com/wwd-publications/wwd/2016-04-13-10407918/">4/13/2016 Wednesday</a></li>
+					 <li><span class="square"></span><a href="http://wwd.com/wwd-publications/wwd/2016-04-06-10403439/">4/6/2016 Wednesday</a></li>
+			</ul>
+</div>
+
+				<div class="global-footer-sister-sites">
+	<h4>Fairchild Fashion Media</h4>
+	<p><a href="/">WWD</a>&nbsp;&middot;&nbsp;<a href="http://footwearnews.com/">Footwear News</a>&nbsp;&middot;&nbsp;<a href="/wwd-publications?type=magazines&#038;src=footer">Beauty Inc</a>&nbsp;&middot;&nbsp;<a href="/wwd-publications?type=magazines&#038;src=footer">M</a>&nbsp;&middot;&nbsp;<a href="http://summits.wwd.com/">Fairchild Summits</a>&nbsp;&middot;&nbsp;<a href="http://wwdmagic.magiconline.com/">WWD Magic</a>&nbsp;&middot;&nbsp;<a href="http://www.magiconline.com/fn-platform">FN Platform</a></p></div>			</div>
+			<div class="global-footer-copyright">
+				<p>WWD.com is the authority for news and trends in the worlds of fashion, beauty and retail. Featuring daily headlines and breaking news from all Women's Wear Daily publications, WWD.com provides the most comprehensive coverage anywhere of fashion, beauty and retail news and is the leading destination for all fashion week updates and show reviews from New York, Paris, Milan and London.</p>
+				<p>
+					&copy; 2016 Fairchild Publishing, LLC, a subsidiary of Penske Business Media, LLC. All rights reserved.
+					Use of this Site constitutes acceptance of our <a href="/terms/" title="Terms and Conditions">Terms and Conditions</a> and <a href="/privacy/" title="Privacy Policy">Privacy Policy</a>.
+					<br/>
+					The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Penske Business Media, LLC.<br/>
+				</p>
+				<p class="last">Powered by <a href="https://vip.wordpress.com/" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></p>
+			</div>
+		</div><!-- #global-footer -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+<script type='text/javascript' class="script-mobile">
+pmc_adm_gpt.init({
+    "ad_targetings": {
+        "host": "wwd.com",
+        "kw": [
+            "hair",
+            "salons",
+            "beauty-industry-news",
+            "north-america",
+            "john",
+            "barrett",
+            "fires",
+            "ceo",
+            "jim",
+            "hedges",
+            "john-barrett-ceo-jim-hedges-10345412"
+        ],
+        "user": "loggedout"
+    },
+    "ad_list": {
+        "default": [
+            {
+                "targeting": [],
+                "slot": "3782/wwd.dart/beauty-industry-news",
+                "id": "gpt-dt-leaderboard-ros-uid0",
+                "oop": true
+            },
+            {
+                "targeting": [],
+                "slot": "3782/wwd.dart/beauty-industry-news",
+                "id": "gpt-dt-leaderboard-ros-uid1",
+                "width": [
+                    [
+                        728,
+                        90
+                    ],
+                    [
+                        970,
+                        90
+                    ],
+                    [
+                        970,
+                        250
+                    ]
+                ]
+            },
+            {
+                "targeting": [],
+                "slot": "3782/WWD_CM/paywall_standard/beauty-industry-news",
+                "id": "gpt-1424716787-uid2",
+                "width": [
+                    [
+                        640,
+                        480
+                    ]
+                ]
+            },
+            {
+                "targeting": [],
+                "slot": "3782/WWD_CM/rightrail_a/beauty-industry-news",
+                "id": "gpt-1424324024-uid3",
+                "width": [
+                    [
+                        300,
+                        100
+                    ]
+                ]
+            },
+            {
+                "targeting": [],
+                "slot": "3782/wwd.dart/beauty-industry-news",
+                "id": "gpt-ros-300x600-uid4",
+                "width": [
+                    [
+                        300,
+                        600
+                    ],
+                    [
+                        300,
+                        250
+                    ]
+                ]
+            },
+            {
+                "targeting": [],
+                "slot": "3782/wwd.dart/beauty-industry-news",
+                "id": "gpt-dt-ros-300x100-uid5",
+                "width": [
+                    [
+                        300,
+                        100
+                    ]
+                ]
+            },
+            {
+                "targeting": [],
+                "slot": "3782/WWD_CM/rightrail_b/beauty-industry-news",
+                "id": "gpt-1424324283-uid6",
+                "width": [
+                    [
+                        300,
+                        100
+                    ]
+                ]
+            },
+            {
+                "targeting": [],
+                "slot": "3782/wwd.dart/beauty-industry-news",
+                "id": "gpt-dt-ros-300x251-uid7",
+                "width": [
+                    [
+                        300,
+                        251
+                    ],
+                    [
+                        300,
+                        601
+                    ]
+                ]
+            },
+            {
+                "targeting": [],
+                "slot": "3782/WWD_CM/footer/beauty-industry-news",
+                "id": "gpt-footer-ros-uid8",
+                "width": [
+                    [
+                        980,
+                        100
+                    ]
+                ]
+            }
+        ]
+    }
+});
+</script>
+
+<!-- wpcom_wp_footer -->
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201617y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/pmcwwd.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/pmcwwd.wordpress.com\/wp-login.php?action=logout&_wpnonce=d8c5e5dfb1","homeURL":"http:\/\/wwd.com\/","postID":"10345412","gravDefault":"mystery","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1424115551j'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var krux_event_pixels = {"gallery_slide_view":""};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJy1lc1OwzAMx1+INtvEJi4ICQlu3HgBL/G6dE4c8tGuPD1pN9CE0MZoOdWV/f/ZTpxEtK6QbCPaKOogFDZaotuXdbgRJy6TCkep0jYI0jsM4i1hwi1YReg/g7WVlFR2ZpBkY7Kw8OioK42234lxiyaHNtoJZ+QXvbcr4jVQsUlWRs124LXQOdY2his4O5/2RYSq1w+203ukC4C2VcViNl+KECFqeezFsc2xuZLct+8iMwURpGciWBOemP9MhxT58PvPiSw0uoLIfoI85ZCojLC+tHvX0gLpPG9bbqfgHrp/5SlYDvIUQj+9U9AQgrbVFKRGY+vYxylYBO8dMagpWBv2ZhwnvIAbRVAQ8TmXAeMW56nJn0ef10VCiD9fjskq9EGyx1/cjOfT9V7sU447Wr13q0M+791ozlE4mpOiptFdlYqNR1B/aOvwDJ15CRdFr64HSAEWqMvKvuIHcz+/Xc1nd/PFall/AILTu8k='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?52" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'81433431','blog_tz':'-4','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'81433431','v':'wpcom','tz':'-4','user_id':'0','post':'10345412','subd':'pmcwwd'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=81433431&v=wpcomvt&tz=-4&user_id=0&post=10345412&subd=pmcwwd&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTc/SE4sYz1oYUM1T3VuWW14JUt8LC5bMVdmTH5GJmdiXWo/JWtCL0xHYmNBfF8mQzF1dFRFTn40dmM2Ylh8WmhCVlRHdzlbWSV0WmMwXUpsamtRbVt5cytHWTk4L1JIQSxzbSxKK1V+NnZZTTBzYltldFRvdGJbSDZZcF1JLCtlT3VuTUhwMWhRbmZmOC02LE9BeVNoW08uWXhGJlkudCZJaE92SW0sMnAubUhIJTF8P3Q2MUhUekxmZGFpSXZhT2hYSTg0M20='}]);
+_stq.push([ 'clickTrackerInit', '81433431', '10345412' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script><!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "6035310", c3: "", c4: "", c5: "", c6: "", c15: "" }); (function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();
+</script>
+<!-- End comScore Tag -->
+
+<!-- START callback function for onhashchange(when the hash tag in the url gets updated) -->
+<script type="text/javascript">
+function global_urlhashchanged() {
+
+	/**
+	 * Track pageview
+	 */
+	// Build the current domain name
+	var tmp_td = document.domain.split( '.' );
+	var tracking_domain = tmp_td[ tmp_td.length - 2 ] + "." + tmp_td[ tmp_td.length - 1 ];
+
+	// Build the current image
+	var imgname = location.hash.replace( '#', '' );
+
+	// Track PV in GA
+	try {
+		ga( 'send', 'pageview', location.pathname + location.hash );
+	} catch( err ) {}
+
+
+	// Track Comscore
+	try {
+		setTimeout(function(){ var url = "http" + (/^https:/.test(document.location.href) ? "s" : "") + "://beacon.scorecardresearch.com/scripts/beacon.dll" + "?c1=2&amp;c2=6035310&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=" + escape(document.location.href) + "&amp;c8=" + escape(document.title) + "&amp;c9=" + escape(document.referrer) + "&amp;c10=" + escape(screen.width+'x'+screen.height) + "&amp;rn=" + (new Date()).getTime(); var i = new Image(); i.src = url; }, 1);
+
+		COMSCORE.beacon({ c1: "2", c2: "6035310", c3: "", c4: "", c5: "", c6: "", c15: "" });
+	} catch( err ) {}
+
+	// Track Quantcast
+	try {
+		_qevents.push([
+			{ qacct:"p-31f3D02tYU8zY" } // PMC P-Code
+		]);
+	} catch( err ) {}
+
+	/**
+	 * Track pageview end
+	 */
+}
+</script>
+
+
+<!-- Begin Polar Ads -->
+<!-- get credit in Pinterest's algorithm for user sharing -->
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" async defer ></script>
+
+		<script async src="https://load.instinctiveads.com/i.js" class="script-mobile"></script>
+			<script type="text/javascript" src="//s.skimresources.com/js/87443X1540255.skimlinks.js"></script>
+		<script type='text/javascript'>
+			try {
+				amznads.setTargetingForGPTAsync('amznslots');
+			} catch(e) { /*ignore*/}
+		</script>
+				<!-- Sourcepoint Starts -->
+		<script type='text/javascript' async='async' data-client-id='fPqISeJfwopmIAx' src='https://s0.wp.com/wp-content/themes/vip/pmc-plugins/pmc-sourcepoint-adblock/assets/js/sourcepoint.js?ver=1.1' ></script>
+		<!-- Sourcepoint Ends -->
+		
+<!-- pmc-adm targeting -->
+<script>
+if ( typeof pmc !== 'undefined' && typeof pmc.hooks !== 'undefined' ) {
+	pmc.hooks.add_filter( 'pmc-adm-set-targeting-keywords', function( keywords ) {
+		try {
+			if ( typeof Krux !== 'undefined' ) {
+				if ( typeof keywords['ksg'] === 'undefined' ) {
+					keywords['ksg']  = Krux.segments;
+				}
+				if ( typeof keywords['kuid'] === 'undefined' ) {
+					keywords['kuid']  = Krux.user;
+				}
+			}
+		} catch(e) {}
+		return keywords;
+	} );
+}
+
+(function() {
+	if( window.hasOwnProperty('pmc_krux' ) ) {
+		window.pmc_krux['destination-url'] = document.location.href;
+		if( document.hasOwnProperty('referrer') && document.referrer.length ) {
+			window.pmc_krux['referrer'] = document.referrer;
+		}
+		if( 'undefined' !== typeof pmc_meta && 'string' === pmc_meta.omni_visit_id ) {
+			window.pmc_krux['omni_visit_id'] = pmc_meta.omni_visit_id;
+		}
+	}
+})();
+
+</script>
+<!-- DO NOT REMOVE, comment for engineering, 4BAfe4nkpyAktm3S -->
+</body>
+</html>

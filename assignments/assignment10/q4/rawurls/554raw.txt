@@ -1,0 +1,950 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:nitro="http://www.bunchball.com/nitro" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
+<head>
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+<meta charset="utf-8">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"ec937356ba","applicationID":"1949242","transactionName":"cV5cEEdWWF9TQR8FEEZYUQhQShtAXlxH","queueTime":2,"applicationTime":4160,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcEUlRVGwIJUFhQAwM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+<title>What’s up with this Chinese box office record-shattering comedy ‘The Mermaid’?</title>
+<meta name="description" content="Heres the deal with The Mermaid, the comedy that shattered box office records in China on Lunar New Years Day on Monday."/>
+<meta name="keywords" content="The Mermaid,China,Box office,Supergirl,DC,comics,Superman,benoist,CBS,Show,girl,Woman,flockhart,Little,Mermaid,Sofia,coppola,Fandemonium,original,originals,Emily Rome,movies"/>
+<meta name=”robots” content="index,follow"/>
+<meta name="news_keywords" content="The Mermaid,China,Box office"/>
+<meta name="verify-v1" content="HOuiiGvfcw/VrWLv5mbRZ8O/gzXsyJHZIjBjxnadvVc="/>
+<meta name="msvalidate.01" content="DB0966BBEA8ABC09250C05DB1A98CF70"/>
+<meta name="twitter:widgets:csp" content="on"/>
+<meta name="updated_at" content='Saturday, Apr 30, 2016  9:11 AM ET'/>
+<link href="http://www.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid" rel="canonical"/>
+<meta property="og:site_name" content="HitFix"/>
+<meta property="fb:pages" content="57802365742"/>
+<meta property="fb:app_id" content="99382424614"/>
+<meta property="fb:admins" content="100000465587615"/>
+<meta property="fb:admins" content="3200029"/>
+<meta property="fb:admins" content="500086521"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="This Chinese mermaid comedy is destroying the box office"/>
+<meta property="og:url" content="http://www.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid"/>
+<meta property="og:image" content="http://cdn.hitfix.com/photos/6212912/mermaid-chinese-film.jpg"/>
+<meta name="thumbnail" content="http://cdn.hitfix.com/photos/6212912/mermaid-chinese-film_article_story_main.jpg"/>
+<meta property="og:description" content="Slapstick merfolk sold tons of tickets on the Lunar New Year&#x27;s Day"/>
+<!-- <meta property="og:author" content="Emily Rome"/> --> <!-- og:author must be a fb id or not be sset at all -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@hitfix">
+<meta name="twitter:creator" content="@hitfix">
+<meta name="twitter:domain" content="HitFix.com">
+<meta name="twitter:title" content="This Chinese mermaid comedy is destroying the box office">
+<meta name="twitter:description" content="Here&#x27;s the deal with &quot;The Mermaid,&quot; the comedy that shattered box office records in China on Lunar New Year&#x27;s Day on Monday.">
+<meta name="twitter:image:src" content="http://cdn.hitfix.com/photos/6212912/mermaid-chinese-film.jpg">
+<meta name="twitter:url" content="http://www.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid">
+<link rel="shortcut icon" href="http://www.hitfix.com/images2/favicon.ico"/>
+<link href="http://www.hitfix.com/css/A.zocial.css.pagespeed.cf.JfdugGqGe_.css" media="screen" rel="stylesheet" type="text/css"/>
+<style type="text/css"></style>
+<link rel="stylesheet" href="http://www.hitfix.com/bootstrap/3.1.1/css/A.bootstrap.min.css+bootstrap-theme.min.css,Mcc.cgJiLuB06Y.css.pagespeed.cf.ytiqi-AqjE.css">
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<link href="http://www.hitfix.com/css/A.hf.css.pagespeed.cf.H5mgQtac0M.css" media="screen" rel="stylesheet" type="text/css"/>
+<style type="text/css"></style>
+<script src="http://www.hitfix.com/jquery/jquery-1.11.0.min.js.pagespeed.jm.VDIv7VBTRR.js" type="text/javascript"></script>
+<script src="http://www.hitfix.com/jquery/jquery-ui-1.10.4.min.js.pagespeed.jm.Mz-AF-45Sh.js" type="text/javascript"></script>
+<script src="http://www.hitfix.com/bootstrap/3.1.1/js/bootstrap.min.js.pagespeed.jm.XgdcBa1M94.js"></script>
+<script src="/assets/application-dbadd84749ca04d9ce16223ccaa5257b.js" type="text/javascript"></script>
+<script type="text/javascript">(function(){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=('https:'==document.location.protocol?'https://s':'http://i')+'.po.st/static/v4/post-widget.js#publisherKey=nrno5df4f01dt3k5slom';var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);})();</script>
+<script src="http://www.hitfix.com/javascripts/jquery/jquery.history.min.js.pagespeed.ce.hbI7MMukme.js"></script>
+<script>$(function(){var contentType="Article";var contentId=66914;var headlineId=$.url().param('hf_headline');if(headlineId){var url=document.location.href.split('?')[0];$.post('/headlines/metrics',{headline_id:headlineId,source_type:'HitFix',source_url:document.referrer});History.replaceState({},'',url);}});</script>
+<link rel="amphtml" src="http://www.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid/amp">
+<link href="http://www.hitfix.com/css/A.more-section.css.pagespeed.cf.mamj1DSxEV.css" media="screen" rel="stylesheet" type="text/css"/>
+<script type='text/javascript' src='http://c.amazon-adsystem.com/aax2/amzn_ads.js'></script>
+<script type='text/javascript'>try{amznads.getAds('3168');}catch(e){}</script>
+<script>function cygnus_index_parse_res(){}function cygnus_index_start(){function e(e){var t=a[e];return"string"==typeof t?t:"\\u"+("0000"+e.charCodeAt(0).toString(16)).slice(-4)}function t(t){return o.lastIndex=0,o.test(t)?t.replace(o,e):t}function i(e,t,i){if(this.initialized=!1,"number"!=typeof e||e%1!==0||0>e)throw"Invalid Site ID";if("number"==typeof i&&i%1==0&&i>=0&&(this.timeoutDelay=i),this.siteID=e,this.impressions=[],this._parseFnName=void 0,top===self?(this.sitePage=location.href,this.topframe=1):(this.sitePage=document.referrer,this.topframe=0),"undefined"!=typeof t){if("function"!=typeof t)throw"Invalid jsonp target function";this._parseFnName="cygnus_index_args.parseFn"}"undefined"==typeof _IndexRequestData.requestCounter?_IndexRequestData.requestCounter=Math.floor(256*Math.random()):_IndexRequestData.requestCounter=(_IndexRequestData.requestCounter+1)%256,this.requestID=String((new Date).getTime()%2592e3*256+_IndexRequestData.requestCounter+256),this.initialized=!0}if(cygnus_index_primary_request){for(var s=[],n=0;n<cygnus_index_args.slots.length;n++){var r=cygnus_index_args.slots[n],u={id:"T1_"+r.id,width:r.width,height:r.height,siteID:169238};({id:"T2_"+r.id,width:r.width,height:r.height,siteID:444444});s.push(u)}s.push({id:"X1",width:300,height:250,siteID:169519});for(var n=0;n<s.length;n++)cygnus_index_args.slots.push(s[n]);cygnus_index_primary_request=!1}cygnus_index_args.parseFn=cygnus_index_parse_res;var o=/[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,a={"\b":"\\b","	":"\\t","\n":"\\n","\f":"\\f","\r":"\\r",'"':'\\"',"\\":"\\\\"};i.prototype.serialize=function(){var e='{"id":'+this.requestID+',"site":{"page":"'+t(this.sitePage)+'"';"string"==typeof document.referrer&&(e+=',"ref":"'+t(document.referrer)+'"'),e+='},"imp":[';for(var i=0;i<this.impressions.length;i++){var s=this.impressions[i],n=[];e+='{"id":"'+s.id+'", "banner":{"w":'+s.w+',"h":'+s.h+',"topframe":'+String(this.topframe)+"}","number"==typeof s.bidfloor&&(e+=',"bidfloor":'+s.bidfloor,"string"==typeof s.bidfloorcur&&(e+=',"bidfloorcur":"'+t(s.bidfloorcur)+'"')),"string"!=typeof s.slotID||s.slotID.match(/^\s*$/)||n.push('"sid":"'+t(s.slotID)+'"'),"number"==typeof s.siteID&&n.push('"siteID":'+s.siteID),n.length>0&&(e+=',"ext": {'+n.join()+"}"),e+=i+1==this.impressions.length?"}":"},"}return e+="]}"},i.prototype.setPageOverride=function(e){return"string"!=typeof e||e.match(/^\s*$/)?!1:(this.sitePage=e,!0)},i.prototype.addImpression=function(e,t,i,s,n,r){var u={id:String(this.impressions.length+1)};if("number"!=typeof e||1>=e)return null;if("number"!=typeof t||1>=t)return null;if(("string"==typeof n||"number"==typeof n)&&String(n).length<=50&&(u.slotID=String(n)),u.w=e,u.h=t,void 0!=i&&"number"!=typeof i)return null;if("number"==typeof i){if(0>i)return null;if(u.bidfloor=i,void 0!=s&&"string"!=typeof s)return null;u.bidfloorcur=s}if("undefined"!=typeof r){if(!("number"==typeof r&&r%1===0&&r>=0))return null;u.siteID=r}return this.impressions.push(u),u.id},i.prototype.buildRequest=function(){if(0!=this.impressions.length&&this.initialized===!0){var e=encodeURIComponent(this.serialize()),t="https:"===window.location.protocol?"https://as-sec.casalemedia.com":"http://as.casalemedia.com";return t+="/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s="+this.siteID+"&r="+e,"number"==typeof this.timeoutDelay&&this.timeoutDelay%1==0&&this.timeoutDelay>=0&&(t+="&t="+this.timeoutDelay),t}};try{if("undefined"==typeof cygnus_index_args||"undefined"==typeof cygnus_index_args.siteID||"undefined"==typeof cygnus_index_args.slots)return;"undefined"==typeof _IndexRequestData&&(_IndexRequestData={},_IndexRequestData.impIDToSlotID={},_IndexRequestData.reqOptions={});var d=new i(cygnus_index_args.siteID,cygnus_index_args.parseFn,cygnus_index_args.timeout);cygnus_index_args.url&&"string"==typeof cygnus_index_args.url&&d.setPageOverride(cygnus_index_args.url),_IndexRequestData.impIDToSlotID[d.requestID]={},_IndexRequestData.reqOptions[d.requestID]={};for(var f,h,s=0;s<cygnus_index_args.slots.length;s++)f=cygnus_index_args.slots[s],h=d.addImpression(f.width,f.height,f.bidfloor,f.bidfloorcur,f.id,f.siteID),h&&(_IndexRequestData.impIDToSlotID[d.requestID][h]=String(f.id));return"number"==typeof cygnus_index_args.targetMode&&(_IndexRequestData.reqOptions[d.requestID].targetMode=cygnus_index_args.targetMode),"function"==typeof cygnus_index_args.callback&&(_IndexRequestData.reqOptions[d.requestID].callback=cygnus_index_args.callback),d.buildRequest()}catch(g){}}cygnus_index_args={timeout:300,siteID:169223,slots:[{id:"1",width:728,height:90,siteID:169223},{id:"2",width:300,height:600,siteID:169223},{id:"3",width:300,height:250,siteID:169223},{id:"4",width:300,height:600,siteID:169518},{id:"5",width:300,height:50,siteID:169223},{id:"6",width:300,height:250,siteID:169223},{id:"7",width:320,height:50,siteID:169223},{id:"8",width:970,height:90,siteID:169223},{id:"9",width:970,height:250,siteID:169223}]};var cygnus_index_primary_request=!0;</script>
+<script type="text/javascript">window.load_index=function(){var indexScript=document.createElement('script');indexScript.type='text/javascript';indexScript.src=cygnus_index_start();var node=document.getElementsByTagName('script')[0];node.parentNode.insertBefore(indexScript,node);}
+load_index();var googletag=googletag||{};googletag.cmd=googletag.cmd||[];(function(){cygnus_index_ready_state=function(){var gads=document.createElement("script");gads.async=true;gads.type="text/javascript";var useSSL="https:"==document.location.protocol;gads.src=(useSSL?"https:":"http:")+"//www.googletagservices.com/tag/js/gpt.js";var node=document.getElementsByTagName("script")[0];node.parentNode.insertBefore(gads,node);}
+var indexTimeout=setTimeout(function(){cygnus_index_ready_state();clearTimeout(indexTimeout)},300)})();</script>
+<script type='text/javascript'>var googletag=googletag||{};googletag.cmd=googletag.cmd||[];try{amznads.setTargetingForGPTAsync('amznslots');}catch(e){}</script>
+<script type='text/javascript'>window.HitFix||(window.HitFix={})
+var tags=['companion_emulation_1','companion_emulation_2'];HitFix.companionEmulationTag=tags[Math.floor(Math.random()*tags.length)];var referringDomain='(direct)';if(document.referrer){var a=document.createElement('a');a.href=document.referrer;referringDomain=a.hostname;}
+googletag.cmd.push(function(){googletag.defineSlot('/91547359/hitfix_1x1',[1,1],'div-gpt-ad-1324477320362-0-oop').addService(googletag.pubads());googletag.defineSlot('/91547359/hitfix_articles_movies_news_728x90',[[728,90],[970,250],[970,66],[970,90],[1024,90],[1200,250]],'div-gpt-ad-1324477320362-0').addService(googletag.pubads());googletag.defineSlot('/91547359/hitfix_articles_movies_news_300x600',[[300,600],[300,1050]],'div-gpt-ad-1324477320362-34').addService(googletag.pubads());googletag.defineSlot('/91547359/hitfix_articles_movies_news_1x1',[1,1],'div-gpt-ad-1324477320362-31').addService(googletag.pubads());googletag.pubads().setTargeting('kyd',['the_mermaid','china','box_office','supergirl','dc','comics','superman','benoist','cbs','show','girl','woman','flockhart','little','mermaid','sofia','coppola','fandemonium','original','originals','emily_rome','movies',HitFix.companionEmulationTag]);googletag.pubads().setTargeting('referrer',referringDomain);googletag.pubads().setTargeting('video','off');googletag.pubads().setTargeting('video_autoplay','off');googletag.pubads().setTargeting('controller','articles');googletag.pubads().setTargeting('action','show');googletag.pubads().setTargeting('video','on');if(document.referrer.match(/^https?:\/\/([^\/]+\.)?(facebook)\.com(\/|$)/i)){googletag.pubads().setTargeting('video_autoplay','on');}else{googletag.pubads().setTargeting('video_autoplay','on');}
+googletag.pubads().setTargeting('video','on');googletag.pubads().setTargeting('video_autoplay','off');googletag.enableServices();});</script>
+<script type="text/javascript" src="http://analytics.revee.com/analytics-v1.js"></script>
+<script type="text/javascript">$(window).load(function(){$revee.init(4,4,3);});</script>
+<meta content="authenticity_token" name="csrf-param"/>
+<meta content="zn9HsWs/3EWCUuoMO1CkHE3CFwI+BMNNiPc2SQvN6Sc=" name="csrf-token"/>
+<!-- Facebook Conversion Code for Any Pageview - HitFix -->
+<script>(function(){var _fbq=window._fbq||(window._fbq=[]);if(!_fbq.loaded){var fbds=document.createElement('script');fbds.async=true;fbds.src='//connect.facebook.net/en_US/fbds.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(fbds,s);_fbq.loaded=true;}})();window._fbq=window._fbq||[];window._fbq.push(['track','6024963046258',{'value':'0.00','currency':'USD'}]);</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6024963046258&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1"/></noscript>
+<!-- mezzobit takes care of the intercast tag on production as well -->
+<!-- <script src="http://s3.amazonaws.com/static.onintercast.com/embed/ib/0.1.0.src.js"></script> -->
+<!-- new relic browser monitoring -->
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"ec937356ba",applicationID:"1949242",sa:1,agent:"js-agent.newrelic.com/nr-476.min.js"}</script>
+<!-- socialize.js script should only be included once -->
+<!-- production -->
+<script type="text/javascript" src="http://cdn.gigya.com/js/gigya.js?apiKey=3_lh0TsD17iJ5j-xH1CA-VWFb6zAN-SG_rF7h_ruxaTG1DhwJvW5zHJOaCqgeUpoPt">
+{
+	siteName: 'hitfix.com (HitFix)'
+	,enabledProviders: 'facebook,twitter,googleplus,yahoo'
+}
+</script>
+<script>gigya.socialize.addEventHandlers({onLogin:function(eventObj){jQuery(function($){var params={user:eventObj.user};if(eventObj.context&&eventObj.context.returnTo){params.return_to=eventObj.context.returnTo;}
+$.post('/login/gigya',params,function(data){if(data.redirect){document.location=data.redirect;}else{location.reload();}},'json');});}});</script>
+<script type="text/javascript" src="http://cdn.gigya.com/js/gigyaGAIntegration.js"></script>
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script type="text/javascript">window._taboola=window._taboola||[];_taboola.push({article:'auto'});!function(e,f,u){e.async=1;e.src=u;f.parentNode.insertBefore(e,f);}(document.createElement('script'),document.getElementsByTagName('script')[0],'http://cdn.taboola.com/libtrc/hitfix/loader.js');</script>
+</head>
+<body>
+<div id='div-gpt-ad-1324477320362-31'>
+<script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1324477320362-31');});</script>
+</div>
+<div id='div-gpt-ad-1324477320362-0-oop'>
+<script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1324477320362-0-oop');});</script>
+</div>
+<style>#interContainer{position:absolute;width:640px;left:0px;top:0px;padding:0px;visibility:hidden;z-index:999999999}#interContainer .headerbar{padding:10px 0px}#interContainer .headerbar .timer{float:left;width:48%;height:35px;padding-top:8px}#interContainer .headerbar .skip{float:right;width:48%;height:35px;text-align:right}#interContainer .headerbar .skip a{display:inline-block;padding:6px 10px;margin:0px;vertical-align:top;text-align:center;white-space:nowrap;vertical-align:middle;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;border:1px solid #ccc;border-radius:4px;-webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 1px rgba(0, 0, 0, .075);box-shadow: inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 1px rgba(0, 0, 0, .075);text-shadow:0 1px 0 #fff;background-color:#fff;background-image:-webkit-linear-gradient(top,#fff 0%,#e0e0e0 100%);background-image:linear-gradient(to bottom,#fff 0%,#e0e0e0 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe0e0e0', GradientType=0);filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);background-repeat:repeat-x;font:bold 13px/13px 'arial',sans-serif;text-transform:uppercase;color:#666}#interContainer .headerbar .skip a img{padding:0px;margin-left:4px;height:13px;vertical-align:top}#interContainer .headerbar,#interContainer .headerbar a{font:12px arial,sans-serif;color:#333;text-decoration:none}#interContent{clear:both;margin-top:5px}#interVeil{position:absolute;background-color:#fff;right:0px;top:0px;z-index:999999998;visibility:hidden;filter:progid:DXImageTransform.Microsoft.alpha(opacity=100);opacity:1.0}</style>
+<script type="text/javascript">var interstitialBox={autohidetimer:20,ie7:window.XMLHttpRequest&&document.all&&!window.opera,ie7offline:this.ie7&&window.location.href.indexOf("http")==-1,launch:false,scrollbarwidth:16,createcontainer:function(){this.interContainer=document.getElementById("interContainer")
+this.interVeil=document.getElementById("interVeil")
+this.standardbody=(document.compatMode=="CSS1Compat")?document.documentElement:document.body},showcontainer:function(){this.interContainer.style.display='';var ie=document.all&&!window.opera
+var dom=document.getElementById
+var scroll_top=(ie)?this.standardbody.scrollTop:window.pageYOffset
+var scroll_left=(ie)?this.standardbody.scrollLeft:window.pageXOffset
+var docwidth=(ie)?this.standardbody.clientWidth:window.innerWidth-this.scrollbarwidth
+var docheight=(ie)?this.standardbody.clientHeight:window.innerHeight
+var docheightcomplete=(this.standardbody.offsetHeight>this.standardbody.scrollHeight)?this.standardbody.offsetHeight:this.standardbody.scrollHeight
+var objwidth=this.interContainer.offsetWidth
+var objheight=this.interContainer.offsetHeight
+this.interVeil.style.width=docwidth+"px"
+this.interVeil.style.height=docheightcomplete+"px"
+this.interVeil.style.left=0
+this.interVeil.style.top=0
+this.interVeil.style.visibility="visible"
+this.interContainer.style.left=docwidth/2-objwidth/2+"px"
+var topposition=(docheight>objheight)?scroll_top+docheight/2-objheight/2+"px":scroll_top+5+"px"
+this.interContainer.style.top=Math.floor(parseInt(topposition))+"px"
+this.interContainer.style.visibility="visible"
+if(this.autohidetimer&&parseInt(this.autohidetimer)>0&&typeof this.timervar=="undefined")
+this.timervar=setTimeout("interstitialBox.closeit()",this.autohidetimer*1000)},closeit:function(){this.interVeil.style.display="none"
+this.interContainer.style.display="none"
+if(window.XMLHttpRequest)
+document.body.style.overflow="auto"
+if(typeof this.timervar!="undefined")clearTimeout(this.timervar)
+var kalturaPlayer=null;var iFrame=$(this.interContainer).find('iframe');if(iFrame){kalturaPlayer=iFrame.contents().find('.hitfix-video-player')[0];}
+if(kalturaPlayer){kalturaPlayer.sendNotification('doPause');}},getscrollbarwidth:function(){var scrollbarwidth=window.innerWidth-(this.interVeil.offsetLeft+this.interVeil.offsetWidth)
+this.scrollbarwidth=(typeof scrollbarwidth=="number")?scrollbarwidth:this.scrollbarwidth},hidescrollbar:function(){if(window.XMLHttpRequest)
+document.body.style.overflow="hidden"
+else
+window.scrollTo(0,0)},dotask:function(target,functionref,tasktype){var tasktype=(window.addEventListener)?tasktype:"on"+tasktype
+if(target.addEventListener)
+target.addEventListener(tasktype,functionref,false)
+else if(target.attachEvent)
+target.attachEvent(tasktype,functionref)},initialize:function(){this.createcontainer();interstitialBox.hidescrollbar();interstitialBox.getscrollbarwidth();setTimeout("interstitialBox.showcontainer()",100);this.dotask(window,function(){if(interstitialBox.interContainer.style.display=="none"){return;}
+interstitialBox.showcontainer()},"resize");var count=interstitialBox.autohidetimer+1;var counter=setInterval(timer,1000);function timer(){count=count-1;if(count<=0){clearInterval(counter);return;}
+document.getElementById("counter").innerHTML=count+" seconds";}}}
+window.interstitialBox=interstitialBox;function waitForInterstitialBox(){loaded=document.getElementById('interContainer');if(loaded){jsPlaceholder=document.getElementById('third-party-js');if(jsPlaceholder){source=jsPlaceholder.readAttribute('data-script');scriptTag=document.createElement('script');scriptTag.type='text/javascript';scriptTag.src=source;if(jsPlaceholder.nextSibling){jsPlaceholder.parentNode.insertBefore(scriptTag,jsPlaceholder.nextSibling);}else{jsPlaceholder.parentNode.appendChild(scriptTag);}}
+window.interstitialBox.initialize();}else{setTimeout(waitForInterstitialBox,50);}}
+jQuery(window).load(waitForInterstitialBox);</script>
+<div id="wrapper">
+<div class="topleaderboard">
+<div id='div-gpt-ad-1324477320362-0'>
+<script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1324477320362-0');});</script>
+</div>
+</div>
+<div class="header">
+<div class="signin-follow">
+<div class="signin">
+<div id="logged-out">
+<a href="/login" id="login-link" onclick="recordEvent('Header', 'Login', 'Login')">Log In</a> / <a href="/signup" id="sign-up" onclick="recordEvent('Header', 'Signup', 'Signup')">Register</a>
+</div>
+<div id="logged-in" style="display:none">
+<a href="/logout" id="logout-link" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Logout&#x27;, &#x27;Logout&#x27;)">Log Out</a> / <a href="/my/profile" id="settings-link">My Profile</a>
+</div>
+<script type="text/javascript">new HideIfHasCookie('user_login','logged-out');new ShowIfHasCookie('user_login','logged-in');</script>
+</div>
+<div class="follow">
+<a href="http://www.facebook.com/hitfix" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Follow HitFix&#x27;, &#x27;Facebook&#x27;)" target="_blank" title="Follow us on Facebook"><i class='fa fa-facebook-square'></i></a>
+<a href="http://www.twitter.com/hitfix" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Follow HitFix&#x27;, &#x27;Twitter&#x27;)" target="_blank" title="Follow us on Twitter"><i class='fa fa-twitter-square'></i></a>
+<a href="https://plus.google.com/u/1/b/113785096849056623739/113785096849056623739/posts" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Follow HitFix&#x27;, &#x27;Google Plus&#x27;)" target="_blank" title="Follow us on Google Plus"><i class='fa fa-google-plus-square'></i></a>
+<a href="http://www.youtube.com/user/hitfixcom" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Follow HitFix&#x27;, &#x27;YouTube&#x27;)" target="_blank" title="Follow us on YouTube"><i class='fa fa-youtube-square'></i></a>
+<a href="http://www.pinterest.com/hitfix" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Follow HitFix&#x27;, &#x27;Pinterest&#x27;)" target="_blank" title="Follow us on Pinterest"><i class='fa fa-pinterest-square'></i></a>
+<a href="http://instagram.com/hitfix" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Follow HitFix&#x27;, &#x27;Instagram&#x27;)" target="_blank" title="Follow us on Instagram"><i class='fa fa-instagram'></i></a>
+</div>
+</div>
+<div class="hf-nav-wrap" data-spy="affix" data-offset-top="195">
+<ul class="hf-nav">
+<li class="parent hitfix-logo"><a href="/" class="item"><script pagespeed_no_defer="">(function(){var d=window,e=document,f="documentElement",g="scrollTop",k="prototype",l="body",m="getAttribute",n="",p="1",q="data",r="img",s="load",t="number",u="on",v="onload",w="pagespeed_lazy_position",x="pagespeed_lazy_replaced_functions",y="pagespeed_lazy_src",z="position",A="relative",B="resize",C="scroll",D="src";d.pagespeed=d.pagespeed||{};var E=d.pagespeed,F=function(a){this.d=[];this.a=0;this.b=!1;this.o=a;this.e=null;this.i=0;this.j=200;this.c=!1};
+F[k].s=function(){var a=0;typeof d.pageYOffset==t?a=d.pageYOffset:e[l]&&e[l][g]?a=e[l][g]:e[f]&&e[f][g]&&(a=e[f][g]);var b=d.innerHeight||e[f].clientHeight||e[l].clientHeight;return{top:a,bottom:a+b,height:b}};F[k].n=function(a){var b=a[m](w);if(b)return parseInt(b,0);var b=a.offsetTop,c=a.offsetParent;c&&(b+=this.n(c));b=Math.max(b,0);a.setAttribute(w,b);return b};F[k].r=function(a){var b=this.n(a);return{top:b,bottom:b+a.offsetHeight}};
+F[k].q=function(a,b){if(a.currentStyle)return a.currentStyle[b];if(e.defaultView&&e.defaultView.getComputedStyle){var c=e.defaultView.getComputedStyle(a,null);if(c)return c.getPropertyValue(b)}return a.style&&a.style[b]?a.style[b]:n};F[k].p=function(a){if(!this.c&&(0==a.offsetHeight||0==a.offsetWidth))return!1;if(this.q(a,z)==A)return!0;var b=this.s(),c=a.getBoundingClientRect();c?(a=c.top-b.height,b=c.bottom):(c=this.r(a),a=c.top-b.bottom,b=c.bottom-b.top);return a<=this.a&&0<=b+this.a};
+F[k].m=function(a){this.l(a);var b=this;d.setTimeout(function(){var c=a[m](y);if(null!=c)if((b.b||b.p(a))&&-1!=a.src.indexOf(b.o)){var h=a.parentNode,G=a.nextSibling;h&&h.removeChild(a);a.getAttribute=a.k;a.removeAttribute(v);a.removeAttribute(y);a.removeAttribute(x);h&&h.insertBefore(a,G);a.src=c}else b.d.push(a)},0)};F[k].loadIfVisible=F[k].m;F[k].u=function(){this.b=!0;this.f()};F[k].loadAllImages=F[k].u;F[k].f=function(){var a=this.d,b=a.length;this.d=[];for(var c=0;c<b;++c)this.m(a[c])};
+F[k].h=function(a,b){return a.a?null!=a.a(b):null!=a[m](b)};F[k].v=function(){for(var a=e.getElementsByTagName(r),b=0;b<a.length;++b){var c=a[b];this.h(c,y)&&this.l(c)}};F[k].overrideAttributeFunctions=F[k].v;F[k].l=function(a){var b=this;this.h(a,x)||(a.k=a[m],a.getAttribute=function(a){a.toLowerCase()==D&&b.h(this,y)&&(a=y);return this.k(a)},a.setAttribute(x,p))};
+E.g=function(a,b,c){if(a.addEventListener)a.addEventListener(b,c,!1);else if(a.attachEvent)a.attachEvent(u+b,c);else{var h=a[u+b];a[u+b]=function(){c.call(this);h&&h.call(this)}}};E.t=function(a,b){var c=new F(b);E.lazyLoadImages=c;E.g(d,s,function(){c.c=!0;c.b=a;c.a=200;c.f()});0!=b.indexOf(q)&&((new Image).src=b);var h=function(){if(!(c.c&&a||c.e)){var b=c.j;(new Date).getTime()-c.i>c.j&&(b=0);c.e=d.setTimeout(function(){c.i=(new Date).getTime();c.f();c.e=null},b)}};E.g(d,C,h);E.g(d,B,h)};
+E.lazyLoadInit=E.t;})();
+
+pagespeed.lazyLoadInit(false, "/ngx_pagespeed_static/1.JiBnMqyl6S.gif");
+</script><img pagespeed_lazy_src="http://images.hitfix.com/images2/assets/site/hitfix-logo-265.png" alt="HitFix" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/></a></li>
+<li class="parent popular">
+<a class="item">Popular</a>
+<div class="child">
+<div class="featured-links">&nbsp;</div>
+<div class="top-stories-wrap">
+<div id="carousel-popular-top-stories" class="top-stories-box carousel slide featured-stories" data-ride="carousel" data-interval="false">
+<div class="carousel-inner">
+<div class="item active">
+<div class="featured-story-wrap">
+<div class="top-story">
+<a href="http://www.hitfix.com/whats-alan-watching/better-call-saul-creators-dont-automatically-expect-to-see-gus-next-year" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/whats-alan-watching/better-call-saul-creators-dont-automatically-expect-to-see-gus-next-year')">
+<div class="photo">
+<img alt="Better-call-saul-klick-mike_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6242059/better-call-saul-klick-mike_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">1</span>
+</div>
+<div class="headline">&#x27;Better Call Saul&#x27; creators: Don&#x27;t automatically expect to see Gus next year</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/whats-alan-watching/ask-alan-whats-the-best-tv-lineup-ever" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/whats-alan-watching/ask-alan-whats-the-best-tv-lineup-ever')">
+<div class="photo">
+<img alt="042916e_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6245263/042916e_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">2</span>
+</div>
+<div class="headline">Ask Alan: What&#x27;s the best TV lineup ever?</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/harpy/the-enchantress-costume-from-suicide-squad-is-sexistand-worse-inaccurate" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/harpy/the-enchantress-costume-from-suicide-squad-is-sexistand-worse-inaccurate')">
+<div class="photo">
+<img alt="Suicide-squad-enchantress_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6154822/Suicide-Squad-Enchantress_home_top_story.png" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">3</span>
+</div>
+<div class="headline">The Enchantress costume from &#x27;Suicide Squad&#x27; is sexist...and worse? Inaccurate.</div>
+</a>
+</div>
+<div class="clearleft"></div>
+</div>
+</div><!-- end of slide/item -->
+<div class="item ">
+<div class="featured-story-wrap">
+<div class="top-story">
+<a href="http://www.hitfix.com/whats-alan-watching/you-are-being-watched-revisiting-the-underrated-person-of-interest" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/whats-alan-watching/you-are-being-watched-revisiting-the-underrated-person-of-interest')">
+<div class="photo">
+<img alt="Person-of-interest-michael-emerson-jim-caviezel_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6244923/person-of-interest-michael-emerson-jim-caviezel_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">4</span>
+</div>
+<div class="headline">Why I gave &#x27;Person of Interest&#x27; another try... and was glad I did</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/harpy/margot-robbie-says-harley-quinn-isnt-wearing-hot-pants-for-you-or-is-she" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/harpy/margot-robbie-says-harley-quinn-isnt-wearing-hot-pants-for-you-or-is-she')">
+<div class="photo">
+<img alt="Harleyrobbiesuicidesquad_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6244983/HarleyRobbieSuicideSquad_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">5</span>
+</div>
+<div class="headline">Margot Robbie is not a fan of Harley Quinn’s hot pants in &#x27;Suicide Squad&#x27;</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/the-dartboard/why-alan-sepinwall-is-done-with-the-walking-dead-fandemonium" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/the-dartboard/why-alan-sepinwall-is-done-with-the-walking-dead-fandemonium')">
+<div class="photo">
+<img alt="Walking-dead-alan_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6233813/walking-dead-alan_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">6</span>
+</div>
+<div class="headline">Why Alan Sepinwall is done with The Walking Dead </div>
+</a>
+</div>
+<div class="clearleft"></div>
+</div>
+</div><!-- end of slide/item -->
+<div class="item ">
+<div class="featured-story-wrap">
+<div class="top-story">
+<a href="http://www.hitfix.com/news/why-will-ferrells-disappearing-alzheimers-comedy-may-signify-the-end-of-an-era" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/news/why-will-ferrells-disappearing-alzheimers-comedy-may-signify-the-end-of-an-era')">
+<div class="photo">
+<img alt="Ferrellreagan_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6245343/FerrellReagan_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">7</span>
+</div>
+<div class="headline">Why Will Ferrell&#x27;s disappearing &#x27;Alzheimer&#x27;s comedy&#x27; may signal the end of an era in comedy</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/whats-alan-watching/review-the-americans-zeroes-in-on-the-hunt-for-martha-in-travel-agents" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/whats-alan-watching/review-the-americans-zeroes-in-on-the-hunt-for-martha-in-travel-agents')">
+<div class="photo">
+<img alt="The-americans-travel-agents_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6244783/the-americans-travel-agents_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">8</span>
+</div>
+<div class="headline">Review: &#x27;The Americans&#x27; zeroes in on the hunt for Martha in &#x27;Travel Agents&#x27;</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/news/netflix-loved-the-punisher-so-much-on-daredevil-that-hes-getting-his-own-series" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/news/netflix-loved-the-punisher-so-much-on-daredevil-that-hes-getting-his-own-series')">
+<div class="photo">
+<img alt="Punisher_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6245223/punisher_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">9</span>
+</div>
+<div class="headline">Netflix loved The Punisher so much on &#x27;Daredevil&#x27; that he&#x27;s getting his own series</div>
+</a>
+</div>
+<div class="clearleft"></div>
+</div>
+</div><!-- end of slide/item -->
+<div class="item ">
+<div class="featured-story-wrap">
+<div class="top-story">
+<a href="http://www.hitfix.com/news/seth-meyers-had-the-best-late-night-take-on-beyonces-lemonade" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/news/seth-meyers-had-the-best-late-night-take-on-beyonces-lemonade')">
+<div class="photo">
+<img alt="Lemonade_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6245283/lemonade_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">10</span>
+</div>
+<div class="headline">Seth Meyers had the best late night take on Beyonce&#x27;s &#x27;Lemonade&#x27;</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/the-dartboard/the-wheel-of-time-book-series-coming-to-tv-according-to-authors-widow" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/the-dartboard/the-wheel-of-time-book-series-coming-to-tv-according-to-authors-widow')">
+<div class="photo">
+<img alt="Wheel_of_time_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6245363/Wheel_of_Time_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">11</span>
+</div>
+<div class="headline">&#x27;The Wheel of Time&#x27;: Book series coming to TV according to author&#x27;s widow</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/harpy/dont-like-feigs-friendship-filled-ghostbusters-the-original-is-returning-to-theaters" onclick="recordEvent('Header', 'popular dropdown', 'http://www.hitfix.com/harpy/dont-like-feigs-friendship-filled-ghostbusters-the-original-is-returning-to-theaters')">
+<div class="photo">
+<img alt="Newghostbustersgroup_home_top_story" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6245388/NewGhostbustersGroup_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">12</span>
+</div>
+<div class="headline">New details from the female &#x27;Ghostbusters&#x27; reboot; don&#x27;t worry men, the original still exists</div>
+</a>
+</div>
+<div class="clearleft"></div>
+</div>
+</div><!-- end of slide/item -->
+</div>
+<a class="left carousel-control" href="#carousel-popular-top-stories" data-slide="prev"><span class="fa fa-caret-square-o-left"></span></a>
+<a class="right carousel-control" href="#carousel-popular-top-stories" data-slide="next"><span class="fa fa-caret-square-o-right"></span></a>
+</div>
+</div>
+</div>
+</li>
+<li class="parent videos">
+<a href="/videos" class="item" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Videos Link&#x27;, &#x27;Videos&#x27;)">Videos</a>
+<div class="child">
+<div class="featured-links">
+<a href="/videos/browse/trending" class="first" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Videos Link&#x27;, &#x27;Trending&#x27;)">Trending</a>
+<a href="/videos/browse/trailers" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Videos Link&#x27;, &#x27;Trailers&#x27;)">Trailers</a>
+<a href="/videos/browse/fandemonium" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Videos Link&#x27;, &#x27;Fandemonium&#x27;)">Fandemonium</a>
+<a href="/videos/browse/girls-on-film" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Videos Link&#x27;, &#x27;Girls on Film&#x27;)">Girls on Film</a>
+<a href="/videos/browse/2-steps-forward-1-step-back" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Videos Link&#x27;, &#x27;2 Steps Forward 1 Step Back&#x27;)">2 Steps Forward 1 Step Back</a>
+<a href="/videos/browse/the-snap" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Videos Link&#x27;, &#x27;The Snap&#x27;)">The Snap</a>
+<a href="/videos/browse/2-minute-history" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Videos Link&#x27;, &#x27;2 Minute History&#x27;)">2 Minute History</a>
+<a href="/videos/browse/see-or-skip" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Videos Link&#x27;, &#x27;See or Skip&#x27;)">See or Skip</a>
+<a href="/videos/browse/interviews" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Videos Link&#x27;, &#x27;Interviews&#x27;)">Interviews</a>
+<a href="/videos/browse/ask-alan" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Videos Link&#x27;, &#x27;Ask Alan&#x27;)">Ask Alan</a>
+<a href="/videos/browse/see-or-skip" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Videos Link&#x27;, &#x27;See or Skip&#x27;)">See or Skip</a>
+<a href="/the-dartboard" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Videos Link&#x27;, &#x27;The Dartboard&#x27;)">The Dartboard</a>
+</div>
+<div class="top-stories-wrap">
+<div id="video-top-stories" class="load_async_js" data-async-js="video_top_stories">
+</div>
+<div class="navbar-ad">
+</div>
+</div>
+</div>
+</li>
+<li class="parent movies">
+<a href="/channels/movies" class="item" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Movies Link&#x27;, &#x27;Movies&#x27;)">Movies</a>
+<div class="child">
+<div class="featured-links">
+<a href="/motion-captured" class="first" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Movies Link&#x27;, &#x27;Motion Captured&#x27;)">Motion Captured</a>
+<a href="/reviews" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Movies Link&#x27;, &#x27;Reviews&#x27;)">Reviews</a>
+<a href="/movies/in-theaters-now" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Movies Link&#x27;, &#x27;In Theaters&#x27;)">In Theaters</a>
+<a href="/movies/on-demand" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Movies Link&#x27;, &#x27;On Demand&#x27;)">On Demand</a>
+<a href="/motion-captured/film-nerd-2-0" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Movies Link&#x27;, &#x27;Film Nerd 2.0&#x27;)">Film Nerd 2.0</a>
+<a href="/videos/browse/see-or-skip" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Movies Link&#x27;, &#x27;See or Skip&#x27;)">See or Skip</a>
+<a href="/the-dartboard" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Movies Link&#x27;, &#x27;The Dartboard&#x27;)">The Dartboard</a>
+</div>
+<div class="top-stories-wrap">
+<div id="movies-top-stories" class="load_async_js" data-async-js="movies_top_stories">
+</div>
+<div class="navbar-ad">
+</div>
+</div>
+</div>
+</li>
+<li class="parent tv">
+<a href="/channels/tv" class="item" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked TV Link&#x27;, &#x27;TV&#x27;)">TV</a>
+<div class="child">
+<div class="featured-links">
+<a href="/whats-alan-watching" class="first" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked TV Link&#x27;, &#x27;Whats Alan Watching&#x27;)">What&#x27;s Alan Watching</a>
+<a href="/recaps" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked TV Link&#x27;, &#x27;Recaps&#x27;)">Recaps</a>
+<a href="/podcasts/firewall-iceberg" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked TV Link&#x27;, &#x27;Firewall &amp; Iceberg&#x27;)">Firewall &amp; Iceberg</a>
+<a href="/channels/realitytv" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked TV Link&#x27;, &#x27;Reality TV&#x27;)">Reality TV</a>
+<a href="/videos/browse/see-or-skip" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked TV Link&#x27;, &#x27;See or Skip&#x27;)">See or Skip</a>
+<a href="/tvcriticspoll" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked TV Link&#x27;, &#x27;TV Critics Poll&#x27;)" title="TV Critics Poll">TV Critics Poll</a>
+<a href="/the-dartboard" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked TV Link&#x27;, &#x27;The Dartboard&#x27;)">The Dartboard</a>
+</div>
+<div class="top-stories-wrap">
+<div id="tv-top-stories" class="load_async_js" data-async-js="tv_top_stories">
+</div>
+<div class="navbar-ad">
+</div>
+</div>
+</div>
+</li>
+<li class="parent riot">
+<a href="/channels/riot" class="item" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Riot Link&#x27;, &#x27;Riot&#x27;)">RIOT</a>
+<div class="child">
+<div class="featured-links">
+<a href="/channels/riot" class="first" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Riot Link&#x27;, &#x27;Riot Home&#x27;)">Riot Home</a>
+<a href="/channels/riot/videos" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Riot Link&#x27;, &#x27;Riot Videos&#x27;)">Riot Videos</a>
+<a href="/videos/browse/the-snap" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Riot Link&#x27;, &#x27;The Snap&#x27;)">The Snap</a>
+<a href="/the-dartboard" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Riot Link&#x27;, &#x27;The Dartboard&#x27;)">The Dartboard</a>
+</div>
+<div class="top-stories-wrap">
+<div id="riot-top-stories" class="load_async_js" data-async-js="riot_top_stories">
+</div>
+<div class="navbar-ad">
+</div>
+</div>
+</div>
+</li>
+<li class="parent herofix">
+<a href="/herofix" class="item" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Herofix Link&#x27;, &#x27;Herofix&#x27;)">Herofix</a>
+<div class="child">
+<div class="featured-links">
+<a href="/herofix" class="first" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Herofix Link&#x27;, &#x27;Herofix&#x27;)">Herofix</a>
+<a href="/harpy" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Harpy Link&#x27;, &#x27;Harpy&#x27;)">Harpy</a>
+</div>
+</li>
+<li class="parent streamfix">
+<a href="/streamfix" class="item" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Streamfix Link&#x27;, &#x27;Streamfix&#x27;)">Streamfix</a>
+<div class="bug">New!</div>
+</li>
+<li class="parent hf-login">
+<a class="item">login</a>
+<div class="child">
+<div id="logged-out2">
+<a href="/login" id="login-link" onclick="recordEvent('Header', 'Login', 'Login')">Log In</a> / <a href="/signup" id="sign-up" onclick="recordEvent('Header', 'Signup', 'Signup')">Register</a>
+</div>
+<div id="logged-in2" style="display:none;">
+<a href="/logout" id="logout-link" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Logout&#x27;, &#x27;Logout&#x27;)">Log Out</a> / <a href="/my/profile" id="settings-link">My Profile</a>
+</div>
+<script type="text/javascript" pagespeed_no_defer="">pagespeed.lazyLoadImages.overrideAttributeFunctions();</script><script type="text/javascript">new HideIfHasCookie('user_login','logged-out2');new ShowIfHasCookie('user_login','logged-in2');</script>
+</div>
+</li>
+<li class="search-icon">
+<a class="item"><i class="fa fa-search"></i></a>
+<div class="child search-form-small">
+<form accept-charset="UTF-8" action="/site/search" id="top_search_form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;"/></div>	<input class="query" id="q" name="q" onFocus="clearTextb(this)" onBlur="clearTextb(this)" size="20" type="text" value=""/>
+<input id="filter" name="filter" type="hidden" value="All"/>
+<input class="search-btn btn" type="submit" value="Go"/>
+</form>	</div>
+</li>
+</ul>
+<div class="clearboth"></div>
+</div>
+<div class="featured-links">
+<!-- h3>Featured:</h3 -->
+<a href="/whats-alan-watching" class="first" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Featured Link&#x27;, &#x27;Whats Alan Watching&#x27;)" title="What&#x27;s Alan Watching">What&#x27;s Alan Watching</a>
+<a href="/motion-captured" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Featured Link&#x27;, &#x27;Motion Captured&#x27;)" title="Motion Captured">Motion Captured</a>
+<a href="/the-dartboard" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Featured Link&#x27;, &#x27;The Dartboard&#x27;)" title="The Dartboard">The Dartboard</a>
+<a href="/harpy" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Featured Link&#x27;, &#x27;Fangirl&#x27;)" title="Fangirl">Fangirl</a>
+<a href="/videos/browse/see-or-skip" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Featured Link&#x27;, &#x27;See or Skip&#x27;)">See or Skip</a>
+<a href="/streaming_genie" class="label label-streaming" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Featured Link&#x27;, &#x27;Streaming Genie&#x27;)" title="Streaming Genie">Streaming Genie</a>
+<a href="/march_mayhem/2016" class="label label-screening" onclick="recordEvent(&#x27;Header&#x27;, &#x27;Clicked Featured Link&#x27;, &#x27;March Mayhem&#x27;)" title="March Mayhem 2016">Vote In Heroes vs. Villains</a>
+</div><!-- /featured-links -->
+</div><!--/ header -->
+<div id="page-wrapper" class="channel-movies">
+<div id="async_headlines" class="load_async_js" data-async-js="tlh_new">
+</div>
+<div class="main articles-main content-main">
+<div class="article" itemscope itemtype="http://schema.org/Article">
+<div class="blog-header">
+</div>
+<div class="article-hero">
+<div class="vidplayer">
+<div class="kaltura-player" style="width: 1012px; height: 602px">
+<script type="text/javascript" src="http://cdnapi.kaltura.com/p/1151292/sp/115129200/embedIframeJs/uiconf_id/24014792/partner_id/1151292"></script>
+<div class="video-wrap">
+<div style="margin-top: 57%;"></div> <!--	 /* don't delete this */ -->
+<div id="video-container">
+<div id="kaltura_player_902061" class="hitfix-video-player" style="width: 1012px; height: 602px;" itemprop="video" itemscope itemtype="http://schema.org/Movie" additionalType="http://schema.org/VideoObject">
+<span itemprop="url" content="http://www.hitfix.com/videos/why-supergirl-is-confusing-fandemonium-27"></span>
+<span itemprop="name" content="Why &#x27;Supergirl&#x27; Is Confusing | FANDEMONIUM -- #27"></span>
+<span itemprop="description" content="Sofia Coppola is directing the Little Mermaid for HitGirl and Supergirl prompts sexism. Yay, Fandemonium!"></span>
+<span itemprop="duration" content="PT1714S"></span>
+<span itemprop="image" content="http://cfvod.kaltura.com/p/1151292/sp/115129200/thumbnail/entry_id/0_airo2hxx/version/100002/acv/222/width/1200/quality/85"></span>
+<span itemprop="datePublished" content="2015-11-10T10:44:21Z"></span>
+<!-- <span itemprop="width" content=""></span> -->
+<!-- <span itemprop="height" content=""></span> -->
+</div>
+</div>
+</div>
+<script>function loadKalturaPlayer(){var reportingUrl=(parent!==window)?document.referrer:document.location;var adTagUrl=null;if(typeof HitFix=="undefined"||HitFix.companionEmulationTag==undefined||HitFix.companionEmulationTag=='companion_emulation_1'){adTagUrl="http://pubads.g.doubleclick.net/gampad/ads?sz=400x300&iu=/91547359/hitfix_videos_Preroll_400x300v&ciu_szs&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&url=http://api.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid&description_url={utility.referrer_url}&correlator={utility.timestamp}"}else{adTagUrl="http://pubads.g.doubleclick.net/gampad/ads?sz=400x300&iu=/91547359/hitfix_videos_Preroll_companion_emulation_400x300v&ciu_szs&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&url=http://api.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid&description_url={utility.referrer_url}&correlator={utility.timestamp}"}
+var flashvars={"doubleClick":{adTagUrl:adTagUrl},"chromecast":{plugin:true,width:'0%',height:'0%'},"EmbedPlayer.IframeParentUrl":reportingUrl,"vast.skipOffset":"60","related.playlistId":"null","related.entryList":"0_irmiwv8a,0_qs272b6y,0_bce2653m,0_esd013ny,0_j4tea965,0_c37nqofj,0_72xi3mv5,0_sa3xc6l4,0_inswhccb","related.itemsLimit":"4","IframeCustomPluginCss1":"/css/kaltura_custom.css","autoPlay":"true","share.socialShareURL":"http://www.hitfix.com/videos/why-supergirl-is-confusing-fandemonium-27","linkShareAndRelated.plugin":"true","linkShareAndRelated.iframeHTML5Js":"/javascripts/kaltura/linkShareAndRelatedPlugin.js","linkShareAndRelated.urls":"0_irmiwv8a:=http://www.hitfix.com/videos/keanu-review-the-cats-out-of-the-bag-keanu-is-genius,0_qs272b6y:=http://www.hitfix.com/videos/maggie-grace-finds-the-meaning-of-true-love-in-sonnet-116,0_bce2653m:=http://www.hitfix.com/videos/jim-beaver-crackles-with-menacing-fury-in-this-cold-richard-iii-read,0_esd013ny:=http://www.hitfix.com/videos/the-amount-of-impressions-the-ratchet-clank-guys-can-do-is-incredible-fandemonium,0_j4tea965:=http://www.hitfix.com/videos/this-is-best-television-line-up-ever-ask-alan-41,0_c37nqofj:=http://www.hitfix.com/videos/erick-chavarria-gives-us-the-meaning-of-life-with-as-you-like-it,0_72xi3mv5:=http://www.hitfix.com/videos/erick-chavarria-gives-us-the-meaning-of-life-with-much-ado,0_sa3xc6l4:=http://www.hitfix.com/videos/film-nerd-20,0_inswhccb:=http://www.hitfix.com/videos/how-we-review-movies-fandemonium","noticeMesage":{"align":"left","text":"Advertisement","plugin":true},"streamerType":"auto","KalturaSupport.LeadWithHTML5":true};if(document.referrer.match(/^https?:\/\/([^\/]+\.)?(facebook)\.com(\/|$)/i)){flashvars.autoPlay=true;}
+if(flashvars.autoPlay==true||flashvars.autoPlay=='true'){console&&console.log&&console.log('auto play enabled; muting...');flashvars.autoMute=true;}
+window.kWidget.embed({"targetId":"kaltura_player_902061","wid":"_1151292","uiconf_id":24014792,"flashvars":flashvars,"cache_st":"902061","entry_id":"0_airo2hxx","readyCallback":function(playerId){var player=document.getElementById(playerId);player.kBind('playerPlayed',function(){if(typeof HitFix.Notification!==undefined){HitFix.Notification.notify('watch.video',player);}});player.kBind('relatedVideoSelect',function(relatedData){var action=null;if(relatedData.click){action="Clicked";HitFix.Notification.notify('click.related.video',player,relatedData.entryId);}else{action="Autoplayed";HitFix.Notification.notify('autoplay.related.video',player,relatedData.entryId);}
+if(typeof recordEvent!='undefined'){recordEvent('Player','Related Module '+action,'KalturaId='+relatedData.entryId);}});}});}
+loadKalturaPlayer();</script>
+<div id="get-embed-code" data-clipboard-text="clipboard_text" class="embed-link">Grab the Embed Code</div>
+<script src="/javascripts/zeroclipboard/dist/ZeroClipboard.js"></script>
+<script type="text/javascript">$(document).ready(function(){$('#get-embed-code').tooltip({placement:'top',title:'Copy to clipboard'});});var client=new ZeroClipboard(document.getElementById('get-embed-code'));client.on('copy',function(event){var clipboard=event.clipboardData;clipboard.setData('text/plain','<iframe width="670" height="428" src="http://www.hitfix.com/video/overlay/why-supergirl-is-confusing-fandemonium-27" frameborder="0" allowfullscreen></iframe>');$('#get-embed-code').data('tooltip',false);$('#get-embed-code').tooltip('destroy');$('#get-embed-code').tooltip({title:'Copied!'});$('#get-embed-code').tooltip('show');});if(/MSIE|Trident/.test(window.navigator.userAgent)){(function($){var zcClass=ZeroClipboard.config('containerClass');var proto=$.fn.modal.Constructor.prototype;proto.enforceFocus=function(){$(document).off('focusin.bs.modal').on('focusin.bs.modal',$.proxy(function(e){if(this.$element[0]!==e.target&&!this.$element.has(e.target).length&&!$(e.target).closest(zcClass).length){this.$element.focus();}},this));};})(window.jQuery);}</script>
+</div>
+</div>
+</div>
+<div class="article-content">
+<div class="article-side-bar">
+<div id='div-gpt-ad-1324477320362-34'>
+<script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1324477320362-34');});</script>
+</div>
+<div class="follow-us-inline">
+<span class="cta-text">Follow HitFix</span>
+<div id="fb-root" style="display:inline-block"></div>
+<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+<div class="fb-like" data-href="https://www.facebook.com/hitfix" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false" style="display: inline-block; width: auto; height: 20px; overflow: hidden;"></div>
+<a class="twitter-follow-button" href="https://twitter.com/hitfix" data-show-count="false" data-lang="en">Follow @hitfix</a>
+<script>window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));</script>
+</div>
+</div>
+<div class="article-head">
+<h1 itemprop="name headline">What’s up with this Chinese box office record-shattering comedy ‘The Mermaid’?</h1>
+<div class="deck" itemprop="description alternativeHeadline">Slapstick merfolk sold tons of tickets on the Lunar New Year&#x27;s Day</div>
+<div class="byline">
+<span itemprop="author" class="author-name">By
+<span itemprop="author"><a href="/site/search?q=Emily%20Rome&amp;type=author">Emily Rome</a></span>&nbsp;<a href="https://twitter.com/EmilyNRome" target="_blank" class="twitter-handle"> @EmilyNRome</a>	</span>
+<span class="pubdate" itemprop="datePublished"> | Wednesday, Feb 10, 2016 7:03 PM</span>
+</div>
+<div class="share social">
+<div id="shareButtons-this-chinese-mermaid-comedy-is-destroying-the-box-office-top" class="shareButtons">
+<div id="shareButtons-this-chinese-mermaid-comedy-is-destroying-the-box-office-top-widget" class="pw-server-widget" data-id="wid-42c665nu" data-title="What’s up with this Chinese box office record-shattering comedy ‘The Mermaid’?" data-url="http://www.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid" data-image="http://cdn.hitfix.com/photos/6212912/mermaid-chinese-film.jpg" data-via="HitFix">
+</div>
+</div>
+<script></script>
+<div class="comments-link comm link">
+<a href="http://www.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid#commentslink" class="anchor disqus-comment-count" data-disqus-identifier="production_article_66914" rel="nofollow">-</a>
+comments
+</div>
+</div>
+<div class="clearleft"></div>
+</div>
+<div class="article-body">
+<div class="article-body-copy">
+<p>China kicked off the Year of the Monkey by breaking box office records. The country&#8217;s movie theaters&#160;pulled in $100.5 million (660 million yuan) on Lunar New Year&#8217;s Day &#8212; a single day record. A comedy about mermaids is largely to thank for the big turnout at the movies on Monday.</p>
+<p>A massive $40.9 million of that total came from this comedy, simply titled <em><a href="http://www.hitfix.com/categories/the-mermaid" class="autolink">The Mermaid</a></em>, on the film&#8217;s opening day.</p>
+<p>So why is mermaid craze sweeping across China? Here&#8217;s what we know about the hit new movie:</p>
+<p><strong>What&#8217;s the story?</strong><br>
+<em>The Mermaid</em> tells the tale of a mermaid who falls for the evil business tycoon she&#8217;s been sent to seduce and assassinate.</p>
+<p><strong>Who&#8217;s the big name in this?</strong><br>
+The name selling a lot of tickets here is director Stephen Chow, a Hong Kong-born actor/director/screenwriter who&#8217;s known in China for such hits as <em>Kung Fu Hustle</em> and <em>Shaolin Soccer</em>.</p>
+<p><div class="photo-share-wrap">
+<img alt="descriptor" pagespeed_lazy_src="http://s3.amazonaws.com/images.hitfix.com/assets/10161/mermaid-film-jelly-lin.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"><div class="photo-share">
+<div id="shareButtonsPhotos-http-s3-amazonaws-com-images-hitfix-com-assets-10161-mermaid-film-jelly-lin-jpg" class="shareButtonsPhoto"></div>
+<script type="text/javascript" pagespeed_no_defer="">pagespeed.lazyLoadImages.overrideAttributeFunctions();</script><script>var image={type:'image',src:'http://s3.amazonaws.com/images.hitfix.com/assets/10161/mermaid-film-jelly-lin.jpg',href:'http://www.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid'}
+var ua=new gigya.socialize.UserAction();ua.setLinkBack("http://www.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid");ua.setTitle("This Chinese mermaid comedy is destroying the box office");ua.setDescription("This Chinese mermaid comedy is destroying the box office. Slapstick merfolk sold tons of tickets on the Lunar New Year\'s Day");ua.addMediaItem(image);ua.addActionLink("Read More","http://www.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid");var shareBarParams={userAction:ua,shareButtons:'pinterest,facebook,twitter',containerID:'shareButtonsPhotos-http-s3-amazonaws-com-images-hitfix-com-assets-10161-mermaid-film-jelly-lin-jpg',noButtonBorders:true,showCounts:'none',layout:'vertical',iconsOnly:true}
+gigya.socialize.showShareBarUI(shareBarParams);</script>
+</div>
+</div></p>
+<p><strong>What are critics saying?</strong><br>
+Variety&#8217;s chief Asia film critic had praise for the movie, <a href="http://variety.com/2016/film/asia/the-mermaid-review-stephen-chow-1201701757/">calling it</a> &#8220;pure enchantment&#8221; with &#8220;scenes of side-splitting slapstick&#8221; though the screenplay is &#8220;not wildly original.&#8221; A reviewer for daily Chinese publication Global Times wasn&#8217;t so thrilled with <em>The Mermaid</em>, <a href="http://www.globaltimes.cn/content/967807.shtml">declaring the film</a>&#160;a &#8220;disappointing&#8221; film that uses old tropes and labeling it &#8220;a class on environmental protection masquerading as a romance story.&#8221; Chinese website Mtime.com (kind of a Rotten Tomatoes + IMDb + Fandango) has The Mermaid scored at 7.9 out of 10.</p>
+<p><strong>What&#8217;s this about it being an environmental protection film?</strong><br>
+<em>The Mermaid</em>&#8217;s evil business tycoon is using sonar technology to get rid of sea life in a wildlife reserve he&#8217;s somehow managed to purchase. The sonar&#8217;s causing the merfolk to die or get sick. Apparently, it all ends up being a story that&#8217;s meant to resonate Chinese viewers who know their country is dealing with a host of environmental crises.</p>
+<p><strong>Who&#8217;s the audience for this?</strong><br>
+Unclear. As the Global Times writer states, &#8220;A film showing during the Spring Festival holiday, it is practically implied to be a film targeted for family audiences. However, some of the violent and sexual themes in the film are rather improper for young audiences, and yet no notice of this was given during earlier marketing of the film.&#8221;</p>
+<p><strong>Will it screen in the U.S.?</strong><br>
+Looks like it will! And very soon too. Both <a href="https://www.amctheatres.com/movies/the-mermaid">AMC Theatres</a><span style="line-height: 20.8px;">&#8217; website</span> and <a href="http://chinafilminsider.com/event/u-s-premiere-of-the-mermaid/">China Film Insider</a> list February 19 for the American release date.</p>
+<p><strong>Alright, so can I see a trailer for this thing?</strong><br>
+Yup, here you go, a preview for <em>The Mermaid</em>, complete with silly drawings of half-fish, half-woman creatures sketched by guys who have no idea what a mermaid looks like:</p>
+<p><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/jskKf5YDDAI" width="560"></iframe></p>
+<div id="show-follow-overlay"></div>
+</div><!-- /article-body-copy -->
+<div class="video-headline">
+<div class="vidplayer">
+<div class="kaltura-player" style="width: 1012px; height: 602px">
+<script type="text/javascript" src="http://cdnapi.kaltura.com/p/1151292/sp/115129200/embedIframeJs/uiconf_id/24014792/partner_id/1151292"></script>
+<div class="video-wrap">
+<div style="margin-top: 57%;"></div> <!--	 /* don't delete this */ -->
+<div id="video-container">
+<div id="kaltura_player_602329" class="hitfix-video-player" style="width: 1012px; height: 602px;" itemprop="video" itemscope itemtype="http://schema.org/Movie" additionalType="http://schema.org/VideoObject">
+<span itemprop="url" content="http://www.hitfix.com/videos/lily-james-is-ready-to-tackle-ursula-from-the-little-mermaid-next"></span>
+<span itemprop="name" content="Lily James is ready to tackle Ursula from &#x27;The Little Mermaid&#x27; next"></span>
+<span itemprop="description" content="Lily James chats about her upcoming role as Cinderella and what Disney character she&#x27;d like to play next."></span>
+<span itemprop="duration" content="PT232S"></span>
+<span itemprop="image" content="http://cdnbakmi.kaltura.com/p/1151292/sp/115129200/thumbnail/entry_id/0_f9eiz6h9/version/100002/acv/202/width/1200/quality/85"></span>
+<span itemprop="datePublished" content="2015-03-02T14:36:58Z"></span>
+<!-- <span itemprop="width" content=""></span> -->
+<!-- <span itemprop="height" content=""></span> -->
+</div>
+</div>
+</div>
+<script>function loadKalturaPlayer(){var reportingUrl=(parent!==window)?document.referrer:document.location;var adTagUrl=null;if(typeof HitFix=="undefined"||HitFix.companionEmulationTag==undefined||HitFix.companionEmulationTag=='companion_emulation_1'){adTagUrl="http://pubads.g.doubleclick.net/gampad/ads?sz=400x300&iu=/91547359/hitfix_videos_Preroll_400x300v&ciu_szs&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&url=http://api.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid&description_url={utility.referrer_url}&correlator={utility.timestamp}"}else{adTagUrl="http://pubads.g.doubleclick.net/gampad/ads?sz=400x300&iu=/91547359/hitfix_videos_Preroll_companion_emulation_400x300v&ciu_szs&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&url=http://api.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid&description_url={utility.referrer_url}&correlator={utility.timestamp}"}
+var flashvars={"doubleClick":{adTagUrl:adTagUrl},"chromecast":{plugin:true,width:'0%',height:'0%'},"EmbedPlayer.IframeParentUrl":reportingUrl,"vast.skipOffset":"60","related.playlistId":"null","related.entryList":"0_qs272b6y,0_bce2653m,0_esd013ny,0_c37nqofj,0_72xi3mv5,0_ylydawe1,0_ua7dyjnt,0_bqo1kdlv,0_7879ejwv","related.itemsLimit":"4","IframeCustomPluginCss1":"/css/kaltura_custom.css","autoPlay":"false","share.socialShareURL":"http://www.hitfix.com/videos/lily-james-is-ready-to-tackle-ursula-from-the-little-mermaid-next","watermark.plugin":"true","watermark.cssClass":"bottomRight","watermark.img":"http://images.hitfix.com/images2/assets/site/hf-logo-94x20-trans.png","watermark.href":"http://www.hitfix.com/","watermark.padding":"1","watermark.hideTimeout":"0","linkShareAndRelated.plugin":"true","linkShareAndRelated.iframeHTML5Js":"/javascripts/kaltura/linkShareAndRelatedPlugin.js","linkShareAndRelated.urls":"0_qs272b6y:=http://www.hitfix.com/videos/maggie-grace-finds-the-meaning-of-true-love-in-sonnet-116,0_bce2653m:=http://www.hitfix.com/videos/jim-beaver-crackles-with-menacing-fury-in-this-cold-richard-iii-read,0_esd013ny:=http://www.hitfix.com/videos/the-amount-of-impressions-the-ratchet-clank-guys-can-do-is-incredible-fandemonium,0_c37nqofj:=http://www.hitfix.com/videos/erick-chavarria-gives-us-the-meaning-of-life-with-as-you-like-it,0_72xi3mv5:=http://www.hitfix.com/videos/erick-chavarria-gives-us-the-meaning-of-life-with-much-ado,0_ylydawe1:=http://www.hitfix.com/videos/fran-kranz-delightfully-insults-himself-with-king-lear,0_ua7dyjnt:=http://www.hitfix.com/videos/lynn-collins-longingly-reads-come-romeo-from-the-bards-most-famous-tragedy,0_bqo1kdlv:=http://www.hitfix.com/videos/liev-schreiber-kills-live-reading-shakespeares-macbeth,0_7879ejwv:=http://www.hitfix.com/videos/spy-thrillers-tom-hiddleston-girls-on-film-24","noticeMesage":{"align":"left","text":"Advertisement","plugin":true},"streamerType":"auto","KalturaSupport.LeadWithHTML5":true};if(flashvars.autoPlay==true||flashvars.autoPlay=='true'){console&&console.log&&console.log('auto play enabled; muting...');flashvars.autoMute=true;}
+window.kWidget.embed({"targetId":"kaltura_player_602329","wid":"_1151292","uiconf_id":24014792,"flashvars":flashvars,"cache_st":"602329","entry_id":"0_f9eiz6h9","readyCallback":function(playerId){var player=document.getElementById(playerId);player.kBind('playerPlayed',function(){if(typeof HitFix.Notification!==undefined){HitFix.Notification.notify('watch.video',player);}});player.kBind('relatedVideoSelect',function(relatedData){var action=null;if(relatedData.click){action="Clicked";HitFix.Notification.notify('click.related.video',player,relatedData.entryId);}else{action="Autoplayed";HitFix.Notification.notify('autoplay.related.video',player,relatedData.entryId);}
+if(typeof recordEvent!='undefined'){recordEvent('Player','Related Module '+action,'KalturaId='+relatedData.entryId);}});}});}
+loadKalturaPlayer();</script>
+<div id="get-embed-code" data-clipboard-text="clipboard_text" class="embed-link">Grab the Embed Code</div>
+<script src="/javascripts/zeroclipboard/dist/ZeroClipboard.js"></script>
+<script type="text/javascript">$(document).ready(function(){$('#get-embed-code').tooltip({placement:'top',title:'Copy to clipboard'});});var client=new ZeroClipboard(document.getElementById('get-embed-code'));client.on('copy',function(event){var clipboard=event.clipboardData;clipboard.setData('text/plain','<iframe width="670" height="428" src="http://www.hitfix.com/video/overlay/lily-james-is-ready-to-tackle-ursula-from-the-little-mermaid-next" frameborder="0" allowfullscreen></iframe>');$('#get-embed-code').data('tooltip',false);$('#get-embed-code').tooltip('destroy');$('#get-embed-code').tooltip({title:'Copied!'});$('#get-embed-code').tooltip('show');});if(/MSIE|Trident/.test(window.navigator.userAgent)){(function($){var zcClass=ZeroClipboard.config('containerClass');var proto=$.fn.modal.Constructor.prototype;proto.enforceFocus=function(){$(document).off('focusin.bs.modal').on('focusin.bs.modal',$.proxy(function(e){if(this.$element[0]!==e.target&&!this.$element.has(e.target).length&&!$(e.target).closest(zcClass).length){this.$element.focus();}},this));};})(window.jQuery);}</script>
+</div>
+</div>
+</div>
+<div class="clearboth author-box">
+<div class="details">
+<div class="photo">
+<img alt="Emily-rome-med" pagespeed_lazy_src="http://images.hitfix.com/authors/emily-rome-med.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+</div>
+<div class="bio">
+<div><a href="/articles/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid" onclick="recordEvent(&#x27;Author Box&#x27;, &#x27;Emily Rome&#x27;, &#x27;Emily Rome&#x27;)">Emily Rome</a></div>
+An enthusiast of time travel stories, film scores, avocados and Charades, Emily Rome is an alumna of Loyola Marymount University and a native of beautiful Washington State. Emily’s writing has also appeared in the Los Angeles Times, Entertainment Weekly and The Hollywood Reporter. Follow her on Twitter @EmilyNRome.
+</div>
+<div class="clearleft"></div>
+</div>
+<div class="newsletter">
+Keep up with Emily Rome by signing up for the <a href="/my/profile#profile-subscriptions">newsletter</a>
+</div>
+<div class="clearboth"></div>
+</div>
+<div class="clearboth"></div>
+</div>
+<div class="article-footer" id="end-of-content">
+<div id="commentslink"></div>
+<div class="fleft">
+<div class="share social">
+<div id="shareButtons-this-chinese-mermaid-comedy-is-destroying-the-box-office-bottom" class="shareButtons">
+<div id="shareButtons-this-chinese-mermaid-comedy-is-destroying-the-box-office-bottom-widget" class="pw-server-widget" data-id="wid-42c665nu" data-title="What’s up with this Chinese box office record-shattering comedy ‘The Mermaid’?" data-url="http://www.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid" data-image="http://cdn.hitfix.com/photos/6212912/mermaid-chinese-film.jpg" data-via="HitFix">
+</div>
+</div>
+<script type="text/javascript" pagespeed_no_defer="">pagespeed.lazyLoadImages.overrideAttributeFunctions();</script><script></script>
+<div class="comments-link comm link">
+<a href="http://www.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid#commentslink" class="anchor disqus-comment-count" data-disqus-identifier="production_article_66914" rel="nofollow">-</a>
+comments
+</div>
+</div>
+<div class="clearleft"></div>
+<div class="comments-total">
+<a href="#commentsmod-this-chinese-mermaid-comedy-is-destroying-the-box-office" aria-controls="commentsmod" aria-expanded="false" data-parent="#comments-anchor-article-66914" data-toggle="collapse" rel="nofollow" style="display: inline;" title="Comments">
+<span class="disqus-comment-count" data-disqus-identifier="production_article_66914">
+-
+</span>
+comments | View or Add <span class="fa fa-caret-down"></span>
+</a>	</div>
+</div>
+<div class="fright">
+<div class="related-search-tags">
+<strong>Related Searches:</strong><br/>
+<a href="/categories/the-mermaid" onclick="recordEvent(&#x27;Related Searches&#x27;, &#x27;Post&#x27;, &#x27;http://www.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid&#x27;)">The Mermaid</a>, <a href="/categories/china" onclick="recordEvent(&#x27;Related Searches&#x27;, &#x27;Post&#x27;, &#x27;http://www.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid&#x27;)">China</a>, <a href="/movies/box-office" onclick="recordEvent(&#x27;Related Searches&#x27;, &#x27;Post&#x27;, &#x27;http://www.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid&#x27;)">Box office</a>
+</div>
+</div>
+<div class="clearboth"></div>
+</div><!-- /article-footer -->
+<div id="comments-anchor-article-66914" class="panel clearfix comments-accordion comments-anchor">
+<div id="commentsmod-this-chinese-mermaid-comedy-is-destroying-the-box-office" class="panel-collapse collapse" role="tabpanel" aria-labelledby="comments-head">
+<div id="disqus_thread"></div>
+<script type="text/javascript">var disqus_shortname='hitfix';var disqus_identifier='production_article_66914';var disqus_url='http://www.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid';(function(){var dsq=document.createElement('script');dsq.type='text/javascript';dsq.async=true;dsq.src='//'+disqus_shortname+'.disqus.com/embed.js';(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(dsq);})();</script>
+<noscript>Please enable JavaScript to view comments.</noscript>
+<script type="text/javascript">var disqus_shortname='hitfix';(function(){var s=document.createElement('script');s.async=true;s.type='text/javascript';s.src='//'+disqus_shortname+'.disqus.com/count.js';(document.getElementsByTagName('HEAD')[0]||document.getElementsByTagName('BODY')[0]).appendChild(s);}());</script>
+</div>
+</div>
+<div class="leaderboard-bottom-wrap">
+<!-- Scroll for More Content After the Advertisement -->
+<div class="leaderboard-bottom">
+</div>
+</div>
+</div>
+</div>
+<div id="more-sections">
+<div class="col more-popular">
+<h5>Popular</h5>
+<div class="top-stories-box">
+<div class="top-story">
+<a href="http://www.hitfix.com/whats-alan-watching/better-call-saul-creators-dont-automatically-expect-to-see-gus-next-year" onclick="recordEvent('More Section', 'Clicked Popular', 'http://www.hitfix.com/whats-alan-watching/better-call-saul-creators-dont-automatically-expect-to-see-gus-next-year')">
+<div class="photo">
+<img alt="&#x27;Better Call Saul&#x27; creators: Don&#x27;t automatically expect to see Gus next year" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6242059/better-call-saul-klick-mike_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">1</span>
+</div>
+<div class="headline">&#x27;Better Call Saul&#x27; creators: Don&#x27;t automatically expect to see Gus next year</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/whats-alan-watching/ask-alan-whats-the-best-tv-lineup-ever" onclick="recordEvent('More Section', 'Clicked Popular', 'http://www.hitfix.com/whats-alan-watching/ask-alan-whats-the-best-tv-lineup-ever')">
+<div class="photo">
+<img alt="Ask Alan: What&#x27;s the best TV lineup ever?" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6245263/042916e_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">2</span>
+</div>
+<div class="headline">Ask Alan: What&#x27;s the best TV lineup ever?</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/harpy/the-enchantress-costume-from-suicide-squad-is-sexistand-worse-inaccurate" onclick="recordEvent('More Section', 'Clicked Popular', 'http://www.hitfix.com/harpy/the-enchantress-costume-from-suicide-squad-is-sexistand-worse-inaccurate')">
+<div class="photo">
+<img alt="The Enchantress costume from &#x27;Suicide Squad&#x27; is sexist...and worse? Inaccurate." pagespeed_lazy_src="http://cdn.hitfix.com/photos/6154822/Suicide-Squad-Enchantress_home_top_story.png" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">3</span>
+</div>
+<div class="headline">The Enchantress costume from &#x27;Suicide Squad&#x27; is sexist...and worse? Inaccurate.</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/whats-alan-watching/you-are-being-watched-revisiting-the-underrated-person-of-interest" onclick="recordEvent('More Section', 'Clicked Popular', 'http://www.hitfix.com/whats-alan-watching/you-are-being-watched-revisiting-the-underrated-person-of-interest')">
+<div class="photo">
+<img alt="Why I gave &#x27;Person of Interest&#x27; another try... and was glad I did" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6244923/person-of-interest-michael-emerson-jim-caviezel_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">4</span>
+</div>
+<div class="headline">Why I gave &#x27;Person of Interest&#x27; another try... and was glad I did</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/harpy/margot-robbie-says-harley-quinn-isnt-wearing-hot-pants-for-you-or-is-she" onclick="recordEvent('More Section', 'Clicked Popular', 'http://www.hitfix.com/harpy/margot-robbie-says-harley-quinn-isnt-wearing-hot-pants-for-you-or-is-she')">
+<div class="photo">
+<img alt="Margot Robbie is not a fan of Harley Quinn’s hot pants in &#x27;Suicide Squad&#x27;" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6244983/HarleyRobbieSuicideSquad_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">5</span>
+</div>
+<div class="headline">Margot Robbie is not a fan of Harley Quinn’s hot pants in &#x27;Suicide Squad&#x27;</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/the-dartboard/why-alan-sepinwall-is-done-with-the-walking-dead-fandemonium" onclick="recordEvent('More Section', 'Clicked Popular', 'http://www.hitfix.com/the-dartboard/why-alan-sepinwall-is-done-with-the-walking-dead-fandemonium')">
+<div class="photo">
+<img alt="Why Alan Sepinwall is done with The Walking Dead " pagespeed_lazy_src="http://cdn.hitfix.com/photos/6233813/walking-dead-alan_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">6</span>
+</div>
+<div class="headline">Why Alan Sepinwall is done with The Walking Dead </div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/news/why-will-ferrells-disappearing-alzheimers-comedy-may-signify-the-end-of-an-era" onclick="recordEvent('More Section', 'Clicked Popular', 'http://www.hitfix.com/news/why-will-ferrells-disappearing-alzheimers-comedy-may-signify-the-end-of-an-era')">
+<div class="photo">
+<img alt="Why Will Ferrell&#x27;s disappearing &#x27;Alzheimer&#x27;s comedy&#x27; may signal the end of an era in comedy" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6245343/FerrellReagan_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">7</span>
+</div>
+<div class="headline">Why Will Ferrell&#x27;s disappearing &#x27;Alzheimer&#x27;s comedy&#x27; may signal the end of an era in comedy</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/whats-alan-watching/review-the-americans-zeroes-in-on-the-hunt-for-martha-in-travel-agents" onclick="recordEvent('More Section', 'Clicked Popular', 'http://www.hitfix.com/whats-alan-watching/review-the-americans-zeroes-in-on-the-hunt-for-martha-in-travel-agents')">
+<div class="photo">
+<img alt="Review: &#x27;The Americans&#x27; zeroes in on the hunt for Martha in &#x27;Travel Agents&#x27;" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6244783/the-americans-travel-agents_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">8</span>
+</div>
+<div class="headline">Review: &#x27;The Americans&#x27; zeroes in on the hunt for Martha in &#x27;Travel Agents&#x27;</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/news/netflix-loved-the-punisher-so-much-on-daredevil-that-hes-getting-his-own-series" onclick="recordEvent('More Section', 'Clicked Popular', 'http://www.hitfix.com/news/netflix-loved-the-punisher-so-much-on-daredevil-that-hes-getting-his-own-series')">
+<div class="photo">
+<img alt="Netflix loved The Punisher so much on &#x27;Daredevil&#x27; that he&#x27;s getting his own series" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6245223/punisher_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">9</span>
+</div>
+<div class="headline">Netflix loved The Punisher so much on &#x27;Daredevil&#x27; that he&#x27;s getting his own series</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/news/seth-meyers-had-the-best-late-night-take-on-beyonces-lemonade" onclick="recordEvent('More Section', 'Clicked Popular', 'http://www.hitfix.com/news/seth-meyers-had-the-best-late-night-take-on-beyonces-lemonade')">
+<div class="photo">
+<img alt="Seth Meyers had the best late night take on Beyonce&#x27;s &#x27;Lemonade&#x27;" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6245283/lemonade_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">10</span>
+</div>
+<div class="headline">Seth Meyers had the best late night take on Beyonce&#x27;s &#x27;Lemonade&#x27;</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/the-dartboard/the-wheel-of-time-book-series-coming-to-tv-according-to-authors-widow" onclick="recordEvent('More Section', 'Clicked Popular', 'http://www.hitfix.com/the-dartboard/the-wheel-of-time-book-series-coming-to-tv-according-to-authors-widow')">
+<div class="photo">
+<img alt="&#x27;The Wheel of Time&#x27;: Book series coming to TV according to author&#x27;s widow" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6245363/Wheel_of_Time_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">11</span>
+</div>
+<div class="headline">&#x27;The Wheel of Time&#x27;: Book series coming to TV according to author&#x27;s widow</div>
+</a>
+</div>
+<div class="top-story">
+<a href="http://www.hitfix.com/harpy/dont-like-feigs-friendship-filled-ghostbusters-the-original-is-returning-to-theaters" onclick="recordEvent('More Section', 'Clicked Popular', 'http://www.hitfix.com/harpy/dont-like-feigs-friendship-filled-ghostbusters-the-original-is-returning-to-theaters')">
+<div class="photo">
+<img alt="New details from the female &#x27;Ghostbusters&#x27; reboot; don&#x27;t worry men, the original still exists" pagespeed_lazy_src="http://cdn.hitfix.com/photos/6245388/NewGhostbustersGroup_home_top_story.jpg" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="rank">12</span>
+</div>
+<div class="headline">New details from the female &#x27;Ghostbusters&#x27; reboot; don&#x27;t worry men, the original still exists</div>
+</a>
+</div>
+</div>
+</div>
+<div class="col more-videos">
+<h5>Trending <span class="video-indicator">Videos</span></h5>
+<div class="featured-stories featured-videos">
+<div class="featured-story">
+<a href="http://www.hitfix.com/news/david-tennant-was-on-the-late-show-last-night-so-doctor-who-wordplay-happened" onclick="recordEvent('More Section', 'Clicked Trending Videos', 'http://www.hitfix.com/news/david-tennant-was-on-the-late-show-last-night-so-doctor-who-wordplay-happened');">
+<div class="photo">
+<img pagespeed_lazy_src="http://cfvod.kaltura.com/p/1151292/sp/115129200/thumbnail/entry_id/0_ylydawe1/version/100012/acv/382/width/704/quality/85" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="video-indicator"><i class="fa fa-play-circle"></i></span>
+</div>
+<div class="headline">Fran Kranz Delightfully Insults Himself With KING LEAR</div>
+</a>
+</div>
+<div class="featured-story">
+<a href="http://www.hitfix.com/whats-alan-watching/you-are-being-watched-revisiting-the-underrated-person-of-interest" onclick="recordEvent('More Section', 'Clicked Trending Videos', 'http://www.hitfix.com/whats-alan-watching/you-are-being-watched-revisiting-the-underrated-person-of-interest');">
+<div class="photo">
+<img pagespeed_lazy_src="http://cfvod.kaltura.com/p/1151292/sp/115129200/thumbnail/entry_id/0_3tn1i5w7/version/100002/acv/192/width/704/quality/85" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="video-indicator"><i class="fa fa-play-circle"></i></span>
+</div>
+<div class="headline">Would Bringing Back Jon Snow Make GoT Guilty of Walking Dead Crimes? | Ask Alan #40</div>
+</a>
+</div>
+<div class="featured-story">
+<a href="http://www.hitfix.com/harpy/valerian-version-of-the-united-nations-is-way-more-fashion-forward-than-boring-earth" onclick="recordEvent('More Section', 'Clicked Trending Videos', 'http://www.hitfix.com/harpy/valerian-version-of-the-united-nations-is-way-more-fashion-forward-than-boring-earth');">
+<div class="photo">
+<img pagespeed_lazy_src="http://cfvod.kaltura.com/p/1151292/sp/115129200/thumbnail/entry_id/0_7wgs96bl/version/100002/acv/202/width/704/quality/85" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="video-indicator"><i class="fa fa-play-circle"></i></span>
+</div>
+<div class="headline">Suicide Squad: Is Enchantress&#x27; costume sexy or scary? | She Said/She Said</div>
+</a>
+</div>
+<div class="featured-story">
+<a href="http://www.hitfix.com/whats-alan-watching/ask-alan-whats-the-best-tv-lineup-ever" onclick="recordEvent('More Section', 'Clicked Trending Videos', 'http://www.hitfix.com/whats-alan-watching/ask-alan-whats-the-best-tv-lineup-ever');">
+<div class="photo">
+<img pagespeed_lazy_src="http://cfvod.kaltura.com/p/1151292/sp/115129200/thumbnail/entry_id/0_j4tea965/version/100002/acv/192/width/704/quality/85" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="video-indicator"><i class="fa fa-play-circle"></i></span>
+</div>
+<div class="headline">This Is BEST Television Line-Up Ever | Ask Alan #41</div>
+</a>
+</div>
+<div class="featured-story">
+<a href="http://www.hitfix.com/news/erick-chavarria-reads-all-the-worlds-a-stage-from-as-you-like-it-shakespeare-400" onclick="recordEvent('More Section', 'Clicked Trending Videos', 'http://www.hitfix.com/news/erick-chavarria-reads-all-the-worlds-a-stage-from-as-you-like-it-shakespeare-400');">
+<div class="photo">
+<img pagespeed_lazy_src="http://cfvod.kaltura.com/p/1151292/sp/115129200/thumbnail/entry_id/0_c37nqofj/version/100002/acv/182/width/704/quality/85" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="video-indicator"><i class="fa fa-play-circle"></i></span>
+</div>
+<div class="headline">Erick Chavarria Gives Us the Meaning of Life With &#x27;As You Like It&#x27;</div>
+</a>
+</div>
+<div class="featured-story">
+<a href="http://www.hitfix.com/the-dartboard/game-of-thrones-this-is-the-one-character-who-is-truly-unkillable-she-saidshe-said" onclick="recordEvent('More Section', 'Clicked Trending Videos', 'http://www.hitfix.com/the-dartboard/game-of-thrones-this-is-the-one-character-who-is-truly-unkillable-she-saidshe-said');">
+<div class="photo">
+<img pagespeed_lazy_src="http://cfvod.kaltura.com/p/1151292/sp/115129200/thumbnail/entry_id/0_xfwwj1rn/version/100012/acv/202/width/704/quality/85" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="video-indicator"><i class="fa fa-play-circle"></i></span>
+</div>
+<div class="headline">Game of Thrones: Who is truly unkillable? | She Said/She Said</div>
+</a>
+</div>
+<div class="featured-story">
+<a href="http://www.hitfix.com/the-dartboard/heres-a-vague-surprising-predator-casting-tidbit-for-you" onclick="recordEvent('More Section', 'Clicked Trending Videos', 'http://www.hitfix.com/the-dartboard/heres-a-vague-surprising-predator-casting-tidbit-for-you');">
+<div class="photo">
+<img pagespeed_lazy_src="http://cfvod.kaltura.com/p/1151292/sp/115129200/thumbnail/entry_id/0_f3c4lngg/version/100002/acv/192/width/704/quality/85" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="video-indicator"><i class="fa fa-play-circle"></i></span>
+</div>
+<div class="headline">Is &#x27;The Predator&#x27; a Sequel, Reboot, or... | FANDEMONIUM Quickie</div>
+</a>
+</div>
+<div class="featured-story">
+<a href="http://www.hitfix.com/the-dartboard/the-real-reason-im-confused-by-how-ugly-the-get-hard-rape-jokes-are" onclick="recordEvent('More Section', 'Clicked Trending Videos', 'http://www.hitfix.com/the-dartboard/the-real-reason-im-confused-by-how-ugly-the-get-hard-rape-jokes-are');">
+<div class="photo">
+<img pagespeed_lazy_src="http://cdnbakmi.kaltura.com/p/1151292/sp/115129200/thumbnail/entry_id/0_qhm383k7/version/100002/acv/202/width/704/quality/85" src="/ngx_pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisible(this);"/>
+<span class="video-indicator"><i class="fa fa-play-circle"></i></span>
+</div>
+<div class="headline">Kevin Hart and Will Ferrell on homophobic, racist claims: &#x27;Funny is funny&#x27;</div>
+</a>
+</div>
+</div>
+</div>
+<div class="col more-partners">
+<h5>More Stories</h5>
+<div id="taboola-right-rail-thumbnails"></div>
+<script type="text/javascript" pagespeed_no_defer="">pagespeed.lazyLoadImages.overrideAttributeFunctions();</script><script type="text/javascript">window._taboola=window._taboola||[];_taboola.push({mode:'thumbnails-rr',container:'taboola-right-rail-thumbnails',placement:'Right Rail Thumbnails',target_type:'mix'});</script>
+<h5>Even More Stories</h5>
+<div class="zergnet-box">
+<h5>MORE STORIES</h5>
+<div id="zergnet-widget-27590"></div>
+</div>
+<script language="javascript" type="text/javascript">(function(){var zergnet=document.createElement('script');zergnet.type='text/javascript';zergnet.async=true;zergnet.src='http://www.zergnet.com/zerg.js?id=27590';;var znscr=document.getElementsByTagName('script')[0];znscr.parentNode.insertBefore(zergnet,znscr);})();</script>
+<script>$(function(){$('#zergnet-widget-27590 a').click(function(event){var url=document.location.href.split('?')[0];recordEvent('Third Party Module','Clicked Zergnet',url);});});</script>
+</div>
+<div class="clearleft"></div>
+</div>
+<div class="clearboth"></div>
+</div>
+<div class="footer">
+<div class="links">
+<a href="/about/about-us" onclick="recordEvent(&#x27;Footer&#x27;, &#x27;About Us&#x27;, &#x27;About Us&#x27;)">About Us</a>
+<a href="/in-the-news" onclick="recordEvent(&#x27;Footer&#x27;, &#x27;In the News&#x27;, &#x27;Company News&#x27;)">In the News</a>
+<a href="/advertising/about" onclick="recordEvent(&#x27;Footer&#x27;, &#x27;Advertise&#x27;, &#x27;Advertise&#x27;)">Advertise</a>
+<a href="/about/partner" onclick="recordEvent(&#x27;Footer&#x27;, &#x27;Partner&#x27;, &#x27;Become a Partner&#x27;)">Partner</a>
+<a href="/careers" onclick="recordEvent(&#x27;Footer&#x27;, &#x27;Careers&#x27;, &#x27;Careers&#x27;)">Careers</a>
+<a href="/about/contact-us" onclick="recordEvent(&#x27;Footer&#x27;, &#x27;Contact Us&#x27;, &#x27;Contact Us&#x27;)">Contact</a>
+<a href="/terms-of-service" onclick="recordEvent(&#x27;Footer&#x27;, &#x27;Terms of Use&#x27;, &#x27;Terms of Use&#x27;)">Terms of Use</a>
+<a href="/privacy-policy" onclick="recordEvent(&#x27;Footer&#x27;, &#x27;Privacy Policy&#x27;, &#x27;Privacy Policy&#x27;)">Privacy Policy</a>
+</div>
+<div class="copyright">&copy; 2016 HitFix, Inc. All rights reserved.</div>
+<div class="follow-us">
+<a href="http://www.hitfix.com/rss" onclick="recordEvent(&#x27;Footer&#x27;, &#x27;Follow HitFix&#x27;, &#x27;RSS&#x27;)" target="_blank"><i class='fa fa-rss'></i></a>
+</div>
+<!-- handled by Mezzobit -->
+<!-- <img src="https://amch.questionmarket.com/adsc/d1169363/2/1174070/ad_radar.php?ord=[randnum]" height="1" width="1" border="0" /> -->
+<div class="clearleft"></div>
+</div>
+</div>
+<script type="text/javascript">var ut=new Object();var ut_ju="http://ads.undertone.com/aj";if(location.search.length>0){var params=location.search.substr(1).split("&");for(i=0;i<params.length;i++){var pos=params[i].indexOf("=");if(pos!=-1){var name=unescape(params[i].substr(0,pos));var value=unescape(params[i].substr(pos+1));if(name=="ajurl"){ut_ju=value;}else{ut[name]=value;}}}}</script>
+<!-- <script type="text/javascript" src="http://cdn.undertone.com/js/ajs.js"></script> -->
+<script>(function(){var js=document.createElement('script');js.type='text/javascript';js.async=true;js.src='//cdn.undertone.com/js/ajs.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(js,s);})();</script>
+</div><!-- /wrapper -->
+<script>$(function(){if($.cookie('hide-promo-footer')){$('#promo-footer').hide();}
+$('#promo-footer .close').on('click',function(){$.cookie('hide-promo-footer','true',{expires:1,path:'/'});});});</script>
+<!-- TEST NAME: More Section Test 1 -->
+<script src="//www.google-analytics.com/cx/api.js?experiment=GM9Q1qSSRUamXxo1ZB-wBw"></script>
+<script>var pageVariations=[function(){if(console){console.log('mobile engagement: variation 0');}},function(){if(console){console.log('mobile engagement: variation 1');}
+$('#more-sections .video-indicator').hide();}];var chosenVariation=cxApi.chooseVariation();$(document).ready(pageVariations[chosenVariation]);</script>
+<!-- track hf_exp query params and send some events to GA -->
+<script>$(function(){var qs=(function(a){if(a=="")return{};var b={};for(var i=0;i<a.length;++i){var p=a[i].split('=');if(p.length!=2)continue;b[p[0]]=decodeURIComponent(p[1].replace(/\+/g," "));}
+return b;})(window.location.search.substr(1).split('&'));var title=qs.title;if(qs.hf_exp=='social_title_on'){recordEvent('Social Title Experiment','http://api.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid','Clicked Social Title: '+title);}else if(qs.hf_exp=='social_title_off'){recordEvent('Social Title Experiment','http://api.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid','Clicked Regular Title: '+title);}});</script>
+<!-- BEGIN trueAnthem tracking code -->
+<script>(function(w,d){var s1=d.getElementsByTagName('script')[0],s=d.createElement('script'),cid='558';s.src='//tru.am/scripts/ta-pagesocial-sdk.js';if(s.addEventListener){s.addEventListener('load',function(){w.TRUE_ANTHEM.configure(cid);},false);}else{s.onreadystatechange=function(){if(s.readyState in{loaded:1,complete:1}){s.onreadystatechange=null;w.TRUE_ANTHEM.configure(cid);}};}
+s1.parentNode.insertBefore(s,s1);}(window,document));</script>
+<!-- END trueAnthem tracking code -->
+<script type="text/javascript">(function(){var po=document.createElement('script');po.type='text/javascript';po.async=true;po.src='https://apis.google.com/js/plusone.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po,s);})();</script>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-5790167-1','auto');ga('require','linkid');</script>
+<script type="text/javascript">var channelName='movies';ga('set','dimension1',channelName);$(function(){ga('send','event','Article','movies','http://www.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid',{'nonInteraction':1});});var authorName='Emily Rome';ga('set','dimension2',authorName);</script>
+<!-- Chartbeat tags -->
+<script type='text/javascript'>var _sf_async_config={};_sf_async_config.uid=11578;_sf_async_config.domain='hitfix.com';_sf_async_config.useCanonical=true;_sf_async_config.sections='movies';_sf_async_config.authors='Emily Rome';(function(){function loadChartbeat(){window._sf_endpt=(new Date()).getTime();var e=document.createElement('script');e.setAttribute('language','javascript');e.setAttribute('type','text/javascript');e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');document.body.appendChild(e);}
+var oldonload=window.onload;window.onload=(typeof window.onload!='function')?loadChartbeat:function(){oldonload();loadChartbeat();};})();</script>
+<!-- Parse.ly metatags -->
+<script type="application/ld+json">
+    {
+    	"@context": "http://schema.org",
+    	"@type": "NewsArticle",
+    	"headline": "What’s up with this Chinese box office record-shattering comedy ‘The Mermaid’?",
+    	"url": "http://www.hitfix.com/news/whats-up-with-this-chinese-box-office-record-shattering-comedy-the-mermaid",
+    	"thumbnailUrl": "http://cdn.hitfix.com/photos/6212912/mermaid-chinese-film.jpg",
+    	"dateCreated": "2016-02-10T23:03:00Z",
+    	"articleSection": "movies",
+    	"creator": ["Emily Rome"],
+    	"keywords": ["The Mermaid&quot;,&quot;China&quot;,&quot;Box office&quot;,&quot;Supergirl&quot;,&quot;DC&quot;,&quot;comics&quot;,&quot;Superman&quot;,&quot;benoist&quot;,&quot;CBS&quot;,&quot;Show&quot;,&quot;girl&quot;,&quot;Woman&quot;,&quot;flockhart&quot;,&quot;Little&quot;,&quot;Mermaid&quot;,&quot;Sofia&quot;,&quot;coppola&quot;,&quot;Fandemonium&quot;,&quot;original&quot;,&quot;originals&quot;,&quot;Emily Rome&quot;,&quot;movies"]
+    }
+    </script>
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+<span id="parsely-cfg" data-parsely-site="hitfix.com"></span>
+</div>
+<script>(function(s,p,d){var h=d.location.protocol,i=p+"-"+s,e=d.getElementById(i),r=d.getElementById(p+"-root"),u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net":"static."+p+".com";if(e)return;e=d.createElement(s);e.id=i;e.async=true;e.src=h+"//"+u+"/p.js";r.appendChild(e);})("script","parsely",document);</script>
+<!-- END Parse.ly Include: Standard -->
+<script type="text/javascript">var qs=(function(a){if(a=="")return{};var b={};for(var i=0;i<a.length;++i){var p=a[i].split('=');if(p.length!=2)continue;b[p[0]]=decodeURIComponent(p[1].replace(/\+/g," "));}
+return b;})(window.location.search.substr(1).split('&'));if(qs.hf_source&&qs.hf_medium&&qs.hf_campaign){ga('set','dimension3',qs.hf_source+','+qs.hf_medium+','+qs.hf_campaign);}</script>
+<script>ga('send','pageview');</script>
+<script type="text/javascript">function recordOutboundLink(link,category,action){try{ga('send','event',category,action,link.href,{'hitCallback':function(){document.location=link.href;}});}catch(err){}}
+function recordEvent(category,action,label){try{ga('send','event',category,action,label);}catch(err){}}</script>
+<!-- Start Quantcast tag -->
+<script type="text/javascript">var _qevents=_qevents||[];(function(){var elem=document.createElement('script');elem.src=(document.location.protocol=="https:"?"https://secure":"http://edge")+".quantserve.com/quant.js";elem.async=true;elem.type="text/javascript";var scpt=document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem,scpt);})();_qevents.push({qacct:"p-efrmNKn5uz_bo"});</script>
+<noscript>
+<div style="display:none;">
+<img src="http://pixel.quantserve.com/pixel/p-efrmNKn5uz_bo.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<!-- Begin comScore Tag -->
+<script>document.write(unescape("%3Cscript src='"+(document.location.protocol=="https:"?"https://sb":"http://b")+".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));</script>
+<script>COMSCORE.beacon({c1:2,c2:7381687,c3:"",c4:"",c5:"",c6:"",c15:""});</script>
+<noscript>
+<div id="comscore-beacon">
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=7381687&c3=&c4=&c5=&c6=&c15=&cj=1"/>
+</div>
+</noscript>
+<!-- End comScore Tag -->
+<!-- Jinni tracking script -->
+<script src="https://bartltd.hs.llnwd.net/m1/adovida/hitfix.js" type="text/javascript" async></script>
+<script type='text/javascript'>(function(){window.gravityInsightsParams={'type':'content','action':'','site_guid':'5ecee73b08b1ca06a19049ee0163e0b7'};null==window.GravityUtils&&(window.GravityUtils={});null==window.GravityUtils.includeJs&&(window.GravityUtils.includeJs=function(g,d,b){var f,c,e,a;null==d&&(d=function(){});null==b&&(b=function(){});f=document.getElementsByTagName("head")[0];a=document.createElement("script");a.type="text/javascript";a.async=!0;c=!1;e=function(){c=!0;a.onreadystatechange=a.onload=null;return d()};a.onreadystatechange=function(){if(!c&&(!this.readyState||"complete"===this.readyState||"loaded"===this.readyState))return e()};a.onload=function(){if(!c)return e()};null!=a.addEventListener?a.addEventListener("error",b,!1):null!=a.attachEvent&&a.attachEvent("onerror",b);a.src=g;return(document.body||f).appendChild(a)});var adServerReq,bUrl,body,conversionStep,doUseGravityUserGuid,jq,pixel,pixelSrc,rubiconAdNetworkId,rubiconTapSegment,type,ug,wlPrefix,wlUrl,_ref,_ref1,_ref2;bUrl="https:"===document.location.protocol?"https://b-ssl.grvcdn.com/moth-min.js":"http://b.grvcdn.com/moth-min.js";ug=(doUseGravityUserGuid=!0===gravityInsightsParams.useGravityUserGuid?1:0)?"":gravityInsightsParams.user_guid||(null!=(_ref=/grvinsights=([^;]+)/.exec(document.cookie))?_ref[1]:void 0)||"";wlUrl=(wlPrefix="","");bUrl&&window.GravityUtils.includeJs(bUrl);conversionStep=null;null!==conversionStep&&(pixelSrc=""+document.location.protocol+"//r.openx.net/set?pid=93dcb101-f26f-afe8-842d-601e599bdf72&rtb="+encodeURIComponent(gravityInsightsParams.site_guid+"|"+ug+"|"+conversionStep),pixel=document.createElement("img"),pixel.src=pixelSrc,pixel.width="1",pixel.height="1",body=document.getElementsByTagName("body")[0],body.appendChild(pixel),rubiconTapSegment=33260,rubiconAdNetworkId=3036,pixelSrc=""+document.location.protocol+"//pixel.rubiconproject.com/tap.php?v="+rubiconTapSegment+"&nid="+rubiconAdNetworkId+"&put="+gravityInsightsParams.site_guid+"&expires=365",pixel=document.createElement("img"),pixel.src=pixelSrc,pixel.width="1",pixel.height="1",body=document.getElementsByTagName("body")[0],body.appendChild(pixel));wlUrl&&window.GravityUtils.includeJs(wlUrl);})();</script>
+<script type="text/javascript">new HideIfLoggedIn('user_login','reminder-not-logged-in');new HideIfNotLoggedIn('user_login','reminder-logged-in');</script>
+<script type="text/javascript">window._taboola=window._taboola||[];_taboola.push({flush:true});</script>
+<!-- Begin Mezzobit Tag Manager -->
+<script async="1">(function(){__mtm=['52f6ab8de88a0d11106e26ab','d36wtdrdo22bqa.cloudfront.net/mngr','tdi.mezzobit.com'];var s=document.createElement('script');s.async=1;s.src='//'+__mtm[1]+'/mtm.js';var e=document.getElementsByTagName('script')[0];(e.parentNode||document.body).insertBefore(s,e);})();</script>
+<!-- End Mezzobit Tag Manager -->
+</body>
+</html>

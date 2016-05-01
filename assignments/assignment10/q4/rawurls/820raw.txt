@@ -1,0 +1,1314 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html id="ctl00_html" xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d955319030","applicationID":"13739342","transactionName":"b1MBMEsEC0UHVxFZX1YZIjdpShZCCUYcHlFLRhs=","queueTime":0,"applicationTime":472,"ttGuid":"3CC2DCAB23712B13","agent":""}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(e,t){return function(){o(e,[(new Date).getTime()].concat(a(arguments)),null,t)}}var o=e("handle"),i=e(2),a=e(3);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var u=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(u,function(e,t){newrelic[t]=r(f+t,"api")}),i(c,function(e,t){newrelic[t]=r(f+t)}),t.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),o("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(0>o?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?u(e,a,i):i()}function n(n,r,o){e&&e(n,r,o);for(var i=t(o),a=l(n),u=a.length,c=0;u>c;c++)a[c].apply(i,r);var s=f[g[n]];return s&&s.push([m,n,r,i]),i}function p(e,t){w[e]=l(e).concat(t)}function l(e){return w[e]||[]}function d(e){return s[e]=s[e]||o(n)}function v(e,t){c(e,function(e,n){t=t||"feature",g[n]=t,t in f||(f[t]=[])})}var w={},g={},m={on:p,emit:n,get:d,listeners:l,context:t,buffer:v};return m}function i(){return new r}var a="nr@context",u=e("gos"),c=e(2),f={},s={},p=t.exports=o();p.backlog=f},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!w++){var e=v.info=NREUM.info,t=s.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&t){c(l,function(t,n){e[t]||(e[t]=n)});var n="https"===p.split(":")[0]||e.sslForHttp;v.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=v.proto+e.agent,t.parentNode.insertBefore(r,t)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=window,s=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},e(1);var p=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),v=t.exports={offset:a(),origin:p,features:{},xhrWrappable:d};s.addEventListener?(s.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(s.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),u("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader"]);</script><link type="image/png" rel="apple-touch-icon" title="" href="/images/logos/site/site.png" /><link type="text/css" rel="Stylesheet" title="Core_CSS" href="//s3.amazonaws.com/assets.sidearmsports.com/common/css/default/5/core_compressed.css" /><link type="application/rss+xml" rel="alternate" title="RSS Feed" href="/rss.aspx?path=wsoc" /><link type="text/css" rel="stylesheet" title="" href="/less/story-templates.less" /><link type="" rel="image_src" title="" href="//wac.b63f.edgecastcdn.net/80B63F/images/texassports_com/images/2016/2/10/team_celebration_p1501_tcu.jpg" />
+		<link rel="stylesheet" type="text/css" href="/site/site.css?635976439697872800">
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" /><link rel="icon" href="favicon.ico" type="image/x-icon" /><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/rss.aspx" /><link href="/site/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" /><link href="http://fonts.sidearmsports.com/bertholdcity/stylesheet.css" rel="stylesheet" type="text/css" />		
+	<script type="text/javascript" src="http://assets.sidearmsports.com.s3.amazonaws.com/plugins/modernizr.js"></script>
+	
+<script>!function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(arguments)};d=s.createElement(q);q=s.getElementsByTagName(q)[0];d.src='//d1l6p2sc9645hc.cloudfront.net/tracker.js';q.parentNode.insertBefore(d,q)}(window,document,'script','_gs');  _gs('GSN-213439-X');</script><meta property="og:image" content="http://wac.b63f.edgecastcdn.net/80B63F/images/texassports_com/images/2016/2/10/team_celebration_p1501_tcu.jpg" /><style type='text/css'>h2 {font-size:1.4em;line-height:1.5em;font-weight:bold;}
+.float-left {float: left;	}
+.float-right {float: right;	}
+.two-col {width: 48.5%;	}
+.three-col {width: 31.33333%;	}
+.four-col {width: 22.75%;	}
+.five-col {width:17.6%;}
+.seven-col {width:14%;}
+.two-col-60 {width: 58.5%;	}
+.two-col-40 {width: 38.5%;	}
+.color1 {background-color: #cccccc;}
+.color2 {background-color: #ededed;}
+.color2 td a:link, .color2 td a:visited, .color2 a:link, .color2 a:visited {color:#b34c00;}
+.resp-table th {padding:5px;}
+.table-border td, .table-border th {
+    border:1px solid #555;
+  }
+.story_content caption {font-weight:bold; margin:1em 0;}
+.story_content table th {font-weight:bold;}
+.story_content h2 {font-weight:bold; margin:.5em 0; font-size:1.3em; line-height:1.4em;}
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;}
+.video-container iframe,.video-container object,.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;}
+@media screen and (max-width: 590px) {
+	.no-float-mobile { 
+	  float: none;
+	  width: 100%;
+	  margin: 0 auto;}    
+      	table.resp-table th {
+	        display: none;}
+        table.resp-table tr {
+	        border-bottom: 1px solid #bbbbbb;}
+	table.resp-table tr, table.resp-table td {
+		display: block;}
+	table.resp-table td:before {
+		font-weight: bold;
+		content:" "attr(data-label)": ";	/* call the attribute value of data-label and adds a string // */}
+        table tr.even, table tr.alt, table tr:nth-of-type(even) { }
+        .mobile-hidden {display: none;}      
+}</style><meta property="og:title" content="Soccer’s 2016 recruiting class ranked No. 15 in nation by Top Drawer Soccer"></meta><meta property="og:type" content="sports_team"></meta><meta property="og:url" content="http://texassports.com/news/2016/2/10/WSOC_0210165400.aspx"></meta><meta property="og:description" content="Standout nine-member Longhorns class was also rated No. 1 in the Big 12 Conference."></meta><meta name="twitter:card" content="summary_large_image"></meta><meta name="twitter:title" content="Soccer’s 2016 recruiting class ranked No. 15 in nation by Top Drawer Soccer"></meta><meta name="twitter:description" content="Standout nine-member Longhorns class was also rated No. 1 in the Big 12 Conference."></meta><meta property="og:site_name" content="University of Texas"></meta><script>window.client_hostname = "www.texassports.com";window.client_division = "DI";window.targetting_criteria = {"page_template":"story","sport_name":"wsoc","sport_name_custom":"wsoc","site":"utexas","content_id":"story-34176","sect":"wsoccer"};window.client_shortname = "utexas";window.dfp_network_code = "";window.img_dfp_unit_name = "";</script><!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "19291688" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=19291688&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag --><script>(function() { var useSSL = 'https:' == document.location.protocol; var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js'; document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>'); })(); googletag = {}; googletag.cmd = googletag.cmd || []; googletag.cmd.push(function() {var criteria = window.targetting_criteria || {}; for (var key in criteria){if (!criteria.hasOwnProperty(key)) continue; googletag.pubads().setTargeting(key, criteria[key]); googletag.pubads().enableSyncRendering(); } });googletag.cmd.push(function() { googletag.defineSlot('/4177/cstv.tex', [160, 600], 'ctl00_ctl17_dfpDiv').setTargeting('pos', 'top').addService(googletag.pubads()); });googletag.cmd.push(function() { googletag.defineSlot('/4177/cstv.tex', [300, 250], 'ctl00_ctl18_dfpDiv').setTargeting('pos', 'top').addService(googletag.pubads()); });googletag.cmd.push(function() { googletag.companionAds().setRefreshUnfilledSlots(true); googletag.pubads().enableVideoAds(); googletag.enableServices(); });</script><title>
+	Texas Longhorns Athletics - Soccer’s 2016 recruiting class ranked No. 15 in nation by Top Drawer Soccer
+</title></head>
+<body>
+    <h1>The Official Website of The University of Texas Athletics</h1>
+	<div class="skip"><a href="#content">Skip Navigation Links</a></div>
+	
+	<form name="aspnetForm" method="post" action="/news/2016/2/10/WSOC_0210165400.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTM4MjcwMDA0MWQYAQUuY3RsMDAkY3BsaE1haW5Db250ZW50JGN0bDAwJHN0b3J5X21lZGlhJG1vVmlldw8PZAIBZKtYhileJKw7ozTYjOKekfzOGpVo" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=NkFUBqLpqFjj2qQrLKvkxRbLB7uU1QWcryQFYHwPorLQ_eFB3A_GXbLAFhthoFOOLhMjvrVmSpUrisPvcZNIrGoI37A1&amp;t=635588402547524888" type="text/javascript"></script>
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.24/jquery-ui.min.js" type="text/javascript"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript"></script>
+<script src="//s3.amazonaws.com/assets.sidearmsports.com/common/js/default/11/master_compressed_v5.js" type="text/javascript"></script>
+<script src="http://assets.sidearmsports.com.s3.amazonaws.com/common/js/msajax.js" type="text/javascript"></script>
+	<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$sManager', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+//]]>
+</script>
+
+
+	<script type="text/javascript" src="/site/additional_links.js"></script>
+			
+		<header id="header" class="relative">
+			<div id="ctl00_header_text" class="header_text left" role="banner" aria-label="Texas Longhorns Athletics">
+
+			</div>
+			<div id="social_media" class="right cf">		
+				
+    
+    
+    
+            <a href="http://www.facebook.com/TexasLonghorns" id="ctl00_ctl09_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='0px -22px '" rel="nofollow" class="sprite-ad topnav-social2" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=33&amp;target=http://www.facebook.com/TexasLonghorns', '_blank'); return false;" onmouseover="this.style.backgroundPosition='0px 0px '" style="width:22px;height:22px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/texassports_com/images/2014/2/4/top_social_sprite.png) no-repeat 0px -22px " rev="topnav_social1">Top Nav Social Media 1 (Facebook)</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+				
+    
+    
+    
+            <a href="http://www.twitter.com/texassports" id="ctl00_ctl10_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-22px -22px '" rel="nofollow" class="sprite-ad topnav-social2" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=34&amp;target=http://www.twitter.com/texassports', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-22px 0px '" style="width:22px;height:22px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/texassports_com/images/2014/2/4/top_social_sprite.png) no-repeat -22px -22px " rev="topnav_social2">Top Nav Social Media 2 (Twitter)</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+				
+    
+    
+    
+            <a href="http://www.texasphotostore.com" id="ctl00_ctl11_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-44px -22px '" rel="nofollow" class="sprite-ad topnav-social2" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=35&amp;target=http://www.texasphotostore.com', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-44px 0px '" style="width:22px;height:22px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/texassports_com/images/2014/2/4/top_social_sprite.png) no-repeat -44px -22px " rev="topnav_social3">Top Nav Social Media 3 (Photo Store)</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+				
+    
+    
+    
+            <a href="/sports/2013/7/31/GEN_0731134437.aspx?id=390" id="ctl00_ctl12_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-66px -22px '" rel="nofollow" class="sprite-ad topnav-social2" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=36&amp;target=/sports/2013/7/31/GEN_0731134437.aspx?id=390', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-66px 0px '" style="width:22px;height:22px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/texassports_com/images/2014/2/4/top_social_sprite.png) no-repeat -66px -22px " rev="topnav_social4">Top Nav Social Media 4 (Live Stats)</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+				
+    
+    
+    
+            <a href="/rss_feeds.aspx" id="ctl00_ctl13_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-88px -22px '" rel="nofollow" class="sprite-ad topnav-social2" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=37&amp;target=/rss_feeds.aspx', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-88px 0px '" style="width:22px;height:22px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/texassports_com/images/2014/2/4/top_social_sprite.png) no-repeat -88px -22px " rev="topnav_social5">Top Nav Social Media 5 (RSS)</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+				
+    <div id="ctl00_ctl14_enhancedAds" class="echads topnav-social-word" data-location="81"></div>
+    <a id="ctl00_ctl14_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+				
+    <div id="ctl00_ctl15_enhancedAds" class="echads topnav-social-word" data-location="82"></div>
+    <a id="ctl00_ctl15_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+				
+    <div id="ctl00_ctl16_enhancedAds" class="echads topnav-social-word" data-location="83"></div>
+    <a id="ctl00_ctl16_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+			</div>
+			<div class="clear"></div>
+			
+			<div id="nav_container" class="relative">
+				<a href="/index.aspx" id="header_logo_top" class="absolute"><img src="/images/topnav_logo_top.png" alt="Texas Longhorns Athletics Homepage" /></a>
+				<a href="/index.aspx" id="header_logo_bot" class="absolute"><img src="/images/topnav_logo_bottom.png" alt="Texas Longhorns Athletics Homepage" /></a>
+				
+				<nav id="main-navigation" class="relative cf" role="navigation" aria-label="Main Navigation">
+					
+
+<ul class='accessible_nav' role='menubar'><li class=sports role='menuitem'><a href='#'>Sports</a><div role='menu' aria-hidden='true'><ul><li ><a  href='/index.aspx?path=baseball&' >Baseball</a><a aria-label='Baseball Schedule' href="/schedule.aspx?path=baseball" class="srn srn-schedule" >Schedule</a><a aria-label='Baseball Roster' href="/roster.aspx?path=baseball" class="srn srn-roster" >Roster</a><a aria-label='Baseball News' href="/archives.aspx?path=baseball" class="srn srn-news" >News</a><a class="social facebook"></a><a target='_blank' aria-label='Baseball Twitter' href="//twitter.com/Texas_Baseball" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=mbball' >Basketball: Men</a><a aria-label='Mens Basketball Schedule' href="/schedule.aspx?path=mbball" class="srn srn-schedule" >Schedule</a><a aria-label='Mens Basketball Roster' href="/roster.aspx?path=mbball" class="srn srn-roster" >Roster</a><a aria-label='Mens Basketball News' href="/archives.aspx?path=mbball" class="srn srn-news" >News</a><a class="social facebook"></a><a target='_blank' aria-label='Mens Basketball Twitter' href="//twitter.com/TexasMBB" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=football&' >Football</a><a aria-label='Football Schedule' href="/schedule.aspx?path=football" class="srn srn-schedule" >Schedule</a><a aria-label='Football Roster' href="/roster.aspx?path=football" class="srn srn-roster" >Roster</a><a aria-label='Football News' href="/archives.aspx?path=football" class="srn srn-news" >News</a><a target='_blank' aria-label='Football Facebook' href="http://www.facebook.com/utfootball" class="social facebook" >Facebook</a><a target='_blank' aria-label='Football Twitter' href="//twitter.com/Longhorn_FB" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=mgolf' >Golf: Men</a><a aria-label='Mens Golf Schedule' href="/schedule.aspx?path=mgolf" class="srn srn-schedule" >Schedule</a><a aria-label='Mens Golf Roster' href="/roster.aspx?path=mgolf" class="srn srn-roster" >Roster</a><a aria-label='Mens Golf News' href="/archives.aspx?path=mgolf" class="srn srn-news" >News</a><a class="social facebook"></a><a target='_blank' aria-label='Mens Golf Twitter' href="//twitter.com/UTexasGolf" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=mswim' >Swimming and Diving: Men</a><a aria-label='Mens Swimming and Diving Schedule' href="/schedule.aspx?path=mswim" class="srn srn-schedule" >Schedule</a><a aria-label='Mens Swimming and Diving Roster' href="/roster.aspx?path=mswim" class="srn srn-roster" >Roster</a><a aria-label='Mens Swimming and Diving News' href="/archives.aspx?path=mswim" class="srn srn-news" >News</a><a target='_blank' aria-label='Mens Swimming and Diving Facebook' href="https://www.facebook.com/TexasSwimmingandDiving/" class="social facebook" >Facebook</a><a target='_blank' aria-label='Mens Swimming and Diving Twitter' href="//twitter.com/TexasMSD" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=mten' >Tennis: Men</a><a aria-label='Mens Tennis Schedule' href="/schedule.aspx?path=mten" class="srn srn-schedule" >Schedule</a><a aria-label='Mens Tennis Roster' href="/roster.aspx?path=mten" class="srn srn-roster" >Roster</a><a aria-label='Mens Tennis News' href="/archives.aspx?path=mten" class="srn srn-news" >News</a><a target='_blank' aria-label='Mens Tennis Facebook' href="http://www.facebook.com/longhornsmenstennis" class="social facebook" >Facebook</a><a target='_blank' aria-label='Mens Tennis Twitter' href="//twitter.com/TexasMTN" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=xc_tf' >Track & Field/Cross Country</a><a aria-label='Track & Field / Cross Country Schedule' href="/schedule.aspx?path=xc_tf" class="srn srn-schedule" >Schedule</a><a aria-label='Track & Field / Cross Country Roster' href="/roster.aspx?path=xc_tf" class="srn srn-roster" >Roster</a><a aria-label='Track & Field / Cross Country News' href="/archives.aspx?path=xc_tf" class="srn srn-news" >News</a><a target='_blank' aria-label='Track & Field / Cross Country Facebook' href="https://www.facebook.com/TexasTrackandField" class="social facebook" >Facebook</a><a target='_blank' aria-label='Track & Field / Cross Country Twitter' href="//twitter.com/UTexasTrack" class="social twitter" >Twitter</a></li></ul><ul><li ><a  href='/index.aspx?path=wbball' >Basketball: Women</a><a aria-label='Womens Basketball Schedule' href="/schedule.aspx?path=wbball" class="srn srn-schedule" >Schedule</a><a aria-label='Womens Basketball Roster' href="/roster.aspx?path=wbball" class="srn srn-roster" >Roster</a><a aria-label='Womens Basketball News' href="/archives.aspx?path=wbball" class="srn srn-news" >News</a><a target='_blank' aria-label='Womens Basketball Facebook' href="http://www.facebook.com/TexasLonghornsWomensBasketball" class="social facebook" >Facebook</a><a target='_blank' aria-label='Womens Basketball Twitter' href="//twitter.com/TexasWBB" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=wgolf' >Golf: Women</a><a aria-label='Womens Golf Schedule' href="/schedule.aspx?path=wgolf" class="srn srn-schedule" >Schedule</a><a aria-label='Womens Golf Roster' href="/roster.aspx?path=wgolf" class="srn srn-roster" >Roster</a><a aria-label='Womens Golf News' href="/archives.aspx?path=wgolf" class="srn srn-news" >News</a><a target='_blank' aria-label='Womens Golf Facebook' href="http://www.facebook.com/TexasLonghornsWomensGolf" class="social facebook" >Facebook</a><a target='_blank' aria-label='Womens Golf Twitter' href="//twitter.com/UTexasWGolf" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=wrow' >Rowing</a><a aria-label='Rowing Schedule' href="/schedule.aspx?path=wrow" class="srn srn-schedule" >Schedule</a><a aria-label='Rowing Roster' href="/roster.aspx?path=wrow" class="srn srn-roster" >Roster</a><a aria-label='Rowing News' href="/archives.aspx?path=wrow" class="srn srn-news" >News</a><a target='_blank' aria-label='Rowing Facebook' href="http://www.facebook.com/TexasLonghornsRowing" class="social facebook" >Facebook</a><a target='_blank' aria-label='Rowing Twitter' href="//twitter.com/TexasRowing" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=wsoc' >Soccer</a><a aria-label='Soccer Schedule' href="/schedule.aspx?path=wsoc" class="srn srn-schedule" >Schedule</a><a aria-label='Soccer Roster' href="/roster.aspx?path=wsoc" class="srn srn-roster" >Roster</a><a aria-label='Soccer News' href="/archives.aspx?path=wsoc" class="srn srn-news" >News</a><a target='_blank' aria-label='Soccer Facebook' href="http://www.facebook.com/TexasLonghornsSoccer" class="social facebook" >Facebook</a><a target='_blank' aria-label='Soccer Twitter' href="//twitter.com/TexasSoccer" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=softball' >Softball</a><a aria-label='Softball Schedule' href="/schedule.aspx?path=softball" class="srn srn-schedule" >Schedule</a><a aria-label='Softball Roster' href="/roster.aspx?path=softball" class="srn srn-roster" >Roster</a><a aria-label='Softball News' href="/archives.aspx?path=softball" class="srn srn-news" >News</a><a target='_blank' aria-label='Softball Facebook' href="https://www.facebook.com/TexasLonghornsSoftball" class="social facebook" >Facebook</a><a target='_blank' aria-label='Softball Twitter' href="//twitter.com/TexasSoftball" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=wswim' >Swimming and Diving: Women</a><a aria-label='Womens Swimming and Diving Schedule' href="/schedule.aspx?path=wswim" class="srn srn-schedule" >Schedule</a><a aria-label='Womens Swimming and Diving Roster' href="/roster.aspx?path=wswim" class="srn srn-roster" >Roster</a><a aria-label='Womens Swimming and Diving News' href="/archives.aspx?path=wswim" class="srn srn-news" >News</a><a target='_blank' aria-label='Womens Swimming and Diving Facebook' href="https://www.facebook.com/TexasSwimmingandDiving/" class="social facebook" >Facebook</a><a target='_blank' aria-label='Womens Swimming and Diving Twitter' href="//twitter.com/TexasWSD" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=wten' >Tennis: Women</a><a aria-label='Womens Tennis Schedule' href="/schedule.aspx?path=wten" class="srn srn-schedule" >Schedule</a><a aria-label='Womens Tennis Roster' href="/roster.aspx?path=wten" class="srn srn-roster" >Roster</a><a aria-label='Womens Tennis News' href="/archives.aspx?path=wten" class="srn srn-news" >News</a><a target='_blank' aria-label='Womens Tennis Facebook' href="http://www.facebook.com/pages/UT-Womens-Tennis/325833237344" class="social facebook" >Facebook</a><a target='_blank' aria-label='Womens Tennis Twitter' href="//twitter.com/LonghornsTennis" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=xc_tf' >Track & Field/Cross Country</a><a aria-label='Track & Field / Cross Country Schedule' href="/schedule.aspx?path=xc_tf" class="srn srn-schedule" >Schedule</a><a aria-label='Track & Field / Cross Country Roster' href="/roster.aspx?path=xc_tf" class="srn srn-roster" >Roster</a><a aria-label='Track & Field / Cross Country News' href="/archives.aspx?path=xc_tf" class="srn srn-news" >News</a><a target='_blank' aria-label='Track & Field / Cross Country Facebook' href="https://www.facebook.com/TexasTrackandField" class="social facebook" >Facebook</a><a target='_blank' aria-label='Track & Field / Cross Country Twitter' href="//twitter.com/UTexasTrack" class="social twitter" >Twitter</a></li><li ><a  href='/index.aspx?path=wvball' >Volleyball</a><a aria-label='Volleyball Schedule' href="/schedule.aspx?path=wvball" class="srn srn-schedule" >Schedule</a><a aria-label='Volleyball Roster' href="/roster.aspx?path=wvball" class="srn srn-roster" >Roster</a><a aria-label='Volleyball News' href="/archives.aspx?path=wvball" class="srn srn-news" >News</a><a target='_blank' aria-label='Volleyball Facebook' href="http://www.facebook.com/pages/Texas-Longhorns-Volleyball/458774954144999" class="social facebook" >Facebook</a><a target='_blank' aria-label='Volleyball Twitter' href="//twitter.com/TexasVolleyball" class="social twitter" >Twitter</a></li></ul></div></li><li role='menuitem'><a href='/index.aspx?path=tickets&' >Tickets</a><div role='menu' aria-hidden='true'><ul><li ><a  href='/index.aspx?path=tickets&' >General Ticket Information</a></li><li ><a  href='http://ev9.evenue.net/cgi-bin/ncommerce3/SEGetGroupList?groupCode=UTA&linkID=tex-ath&shopperContext=&caller=&appCode' >Buy Tickets</a></li><li ><a  href='/sports/2013/7/22/tickets_0722133337.aspx?path=tickets' >Group Ticket Sales</a></li><li ><a  href='/sports/2015/3/4/tickets_0304152128.aspx' >UT Faculty and Staff</a></li><li ><a  href='/sports/2014/5/29/tickets_0529144327.aspx?path=tickets' >The Big Ticket (UT Students)</a></li></ul><ul><li ><a  href='/sports/2013/7/30/facilities_0730132831.aspx?path=tickets' >Seating Diagrams / Facilities</a></li><li ><a  href='/sports/2013/7/29/tickets_0729132429.aspx' >Premium Seating</a></li><li ><a  href='http://ev9.evenue.net/cgi-bin/ncommerce3/EVExecMacro?linkID=tex-ath&evm=prmo#__utma=166259873.2036255934.1374529859.1374529859.1374529859.1&__utmb=166259873.2.10.1374529859&__utmc=166259873&__utmx=-&__utmz=166259873.1374529859.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=181119015' target='_blank'>Promo Code</a></li><li ><a  href='http://ev9.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=STD&linkID=tex-ath&shopperContext=&caller=&appCode=&format=grpMenu#__utma=166259873.1152410427.1374692652.1375284949.1375288605.32&__utmb=166259873.3.10.1375288605&__utmc=166259873&__utmx=-&__utmz=166259873.1375219139.29.5.utmcsr=utexas.sidearmsports.com|utmccn=(referral)|utmcmd=referral|utmcct=/sports/2013/7/29/foundation_0729133136.aspx&__utmv=-&__utmk=151314489' >Stadium Tours</a></li><li ><a  href='https://utparking.clickandpark.com/venues' target='_blank'>Purchase Event Parking</a></li></ul><ul><li ><a  href='/sports/2014/6/3/foundation_0603140448.aspx' >Longhorn Young Alumni Program</a></li><li ><a  href='/sports/2015/6/24/tickets_0624154454.aspx' >Request Ticket Information</a></li><li ><a  href='/sports/2013/7/22/tickets_0722133348.aspx?path=tickets' >Ticket Marketplace</a></li><li ><a  href='/sports/2013/7/22/tickets_0722134142.aspx?path=tickets' >Ticket Transfer</a></li><li ><a  href='http://www.stubhub.com/texas-longhorns-tickets/?gcid=chPRT-_-geoUS-_-genNCAA-_-cmptextlink-_-parttexas' target='_blank'>StubHub: Buy or Sell Tickets</a></li></ul></div></li><li role='menuitem'><a href='#'>Fan Zone</a><div role='menu' aria-hidden='true'><ul><li ><a  href='/calendar.aspx?vtype=list&preset=current' >2015-16 Composite Schedule</a></li><li ><a  href='/sports/2013/7/22/compliance_0722134319.aspx?path=compliance' >Appearance Requests: Coaches</a></li><li ><a  href='/sports/2013/7/22/compliance_0722135129.aspx?path=compliance' >Appearance Requests: Student-Athletes</a></li><li ><a  href='http://www.austintexas.org/' target='_blank'>AustinTexas.org</a></li><li ><a  href='/sports/2013/7/22/compliance_0722135252.aspx?path=compliance' >Autographs / Donations</a></li><li ><a  href='http://www.big12sports.com/' target='_blank'>Big 12 Conference</a></li><li ><a  href='/sports/2013/7/22/GEN_0722135008.aspx?path=general' >Big 12 Conference Sportsmanship Statement</a></li></ul><ul><li ><a  href='/sports/2013/7/24/facilities_0724130632.aspx?path=general' >Event Rentals</a></li><li ><a  href='/sports/2013/7/30/facilities_0730132831.aspx?path=facilities' >Facilities</a></li><li ><a  href='/sports/2013/7/30/GEN_0730133114.aspx?path=general' >Fan Guides</a></li><li ><a  href='/sports/2013/7/22/GEN_0722132316.aspx?path=general' >Fan Services</a></li><li ><a  href='/sports/2013/8/20/FB_0820134035.aspx' >Football Concessions</a></li><li ><a  href='/sports/2013/7/28/sponsor_0728133441.aspx?path=general' >Hook 'Em's Hangouts</a></li><li ><a  href='http://www.longhornskidsclub.com/' target='_blank'>Longhorns Kids Club</a></li></ul><ul><li ><a  href='/sports/2013/7/23/compliance_0723132955.aspx?path=compliance' >NCAA Rules / Compliance</a></li><li ><a  href='/sports/2013/7/24/facilities_0724132616.aspx?path=general' >Stadium Tours</a></li><li ><a  href='/index.aspx?path=sobs&' >Student Orange Bloods</a></li><li ><a  href='/sports/2013/7/23/sponsor_0723131600.aspx?path=general' >Sustainability</a></li><li ><a  href='http://shop.texassports.com/' target='_blank'>Team Shop</a></li><li ><a  href='/sports/2013/7/31/traditions_0731133232.aspx?path=general' >Traditions</a></li></ul></div></li><li role='menuitem'><a href='#'>Multimedia</a><div role='menu' aria-hidden='true'><ul><li ><a  href='http://www.youtube.com/user/TexasLonghornsVideo?feature=watch' >Videos (YouTube)</a></li><li ><a  href='/sports/2014/11/19/GEN_1119144623.aspx' >Audio Streaming</a></li><li ><a  href='/sports/2013/7/27/sponsor_0727135359.aspx' >Radio</a></li><li ><a  href='http://texassports.com/coverage.aspx' >TV Schedule</a></li><li ><a  href='http://texassports.com/coverage.aspx' >Live Events Schedule</a></li></ul><ul><li ><a  href='/sports/2013/7/25/multimedia_0725132727.aspx' >E-Newsletters</a></li><li ><a  href='/sports/2013/7/28/GEN_0728134519.aspx' >Longhorn Network</a></li><li ><a  href='/sports/2013/7/29/longhornweekly_schedule.aspx' >Longhorn Weekly radio show</a></li><li ><a  href='/galleries' >Photo Galleries</a></li><li ><a  href='http://www.texasphotostore.com/' >Photo Store</a></li></ul><ul><li ><a  href='http://texassports.com/rss_feeds.aspx' >RSS Feeds</a></li><li ><a  href='/sports/2013/8/6/GEN_0806131933.aspx' >Schedule Cards / Posters</a></li><li ><a  href='/sports/2013/10/11/multimedia_1011134031.aspx' >Wallpaper</a></li></ul></div></li><li role='menuitem'><a href='/index.aspx?path=academics&' >Academics</a><div role='menu' aria-hidden='true'><ul><li ><a  href='/index.aspx?path=academics&' >Academic & Student Services Home</a></li><li ><a  href='/sports/2013/7/25/academics_0725130841.aspx?path=academics' >Academic Headlines</a></li><li ><a  href='/sports/2013/7/26/academics_0726130418.aspx?path=academics' >Community Service Headlines</a></li><li ><a  href='/sports/2013/7/25/academics_0725130613.aspx?path=academics' >CoSIDA Academic All-America</a></li><li ><a  href='/sports/2013/11/9/academics_1109130035.aspx' >Friar Society</a></li></ul><ul><li ><a  href='/sports/2013/7/25/academics_0725131250.aspx?path=academics' >Dr. Prentice Gautt Postgraduate Scholarships</a></li><li ><a  href='/sports/2013/8/28/academics_0828134433.aspx' >Longhorn PRIDE Program</a></li><li ><a  href='/sports/2013/7/25/academics_0725130911.aspx?path=academics' >NCAA Postgraduate Scholarships</a></li><li ><a  href='/sports/2013/7/26/academics_0726131654.aspx?path=academics' >Student-Athlete Advisory Committee</a></li></ul></div></li><li role='menuitem'><a href='#'>Athletics</a><div role='menu' aria-hidden='true'><ul><li ><a  href='/documents/2015/2/25/2015_athletics_report.pdf' target='_blank'>2015 Athletics Report [PDF]</a></li><li ><a  href='/sports/2013/7/25/academics_0725130841.aspx' >Academic Headlines</a></li><li ><a  href='/sports/2013/7/24/sponsor_0724130751.aspx?path=sponsorship' >Advertise</a></li><li ><a  href='/sports/2013/7/24/GEN_0724131202.aspx?path=general' >Athletics Councils</a></li><li ><a  href='/sports/2013/7/29/GEN_0729130245.aspx?path=traditions' >Championships History</a></li><li ><a  href='/sports/2013/7/30/GEN_0730131412.aspx?path=general' >Community Enrichment Programs</a></li><li ><a  href='/sports/2013/7/26/academics_0726130418.aspx' >Community Service Headlines</a></li><li ><a  href='/index.aspx?path=compliance&' >Compliance / NCAA Rules</a></li><li ><a  href='/sports/2013/7/29/sponsor_0729134007.aspx?path=sponsorship' >Corporate Sponsors</a></li></ul><ul><li ><a  href='/sports/2014/5/12/GEN_0512143345.aspx?path=general' >Diversity and Inclusion Council</a></li><li ><a  href='/sports/2013/9/25/GEN_0925131707.aspx' >Employment Opportunities</a></li><li ><a  href='/sports/2013/7/24/GEN_0724133526.aspx?path=general' >Equity Reports</a></li><li ><a  href='/sports/2013/7/30/GEN_0730135151.aspx?path=general' >External Links</a></li><li ><a  href='/sports/2013/7/30/facilities_0730132831.aspx' >Facilities</a></li><li ><a  href='/sports/2013/7/30/GEN_0730134509.aspx?path=general' >Hall of Honor: Men</a></li><li ><a  href='/sports/2013/7/30/GEN_0730131259.aspx?path=general' >Hall of Honor: Women</a></li><li ><a  href='/sports/2013/9/25/GEN_0925131707.aspx' >Human Resources</a></li></ul><ul><li ><a  href='http://lhb.music.utexas.edu/' target='_blank'>Longhorn Band</a></li><li ><a  href='http://www.getlonghornnetwork.com/' target='_blank'>Longhorn Network</a></li><li ><a  href='/sports/2013/7/30/GEN_0730130206.aspx?path=general' >Mission Statement</a></li><li ><a  href='http://www.ncaa.com/' target='_blank'>NCAA.com</a></li><li ><a  href='http://nlp.utexas.edu/index.php' target='_blank'>Neighborhood Longhorns</a></li><li ><a  href='/sports/2015/9/17/GEN_0917150808.aspx' >Performance, Health and Welfare</a></li><li ><a  href='/index.aspx?path=spirit' >Spirit Squad</a></li><li ><a  href='/sports/2013/7/29/GEN_0729132058.aspx' >Sports Business</a></li></ul><ul><li ><a  href='/sports/2013/7/29/GEN_0729135557.aspx?path=general' >Staff Directory</a></li><li ><a  href='/archives.aspx' >Story Archives</a></li><li ><a  href='http://www.utathleticsstrategicplan.com/' >Strategic Plan</a></li><li ><a  href='http://thelonghornfoundation.com/sports/2015/2/13/GEN_0213155514.aspx' target='_blank'>T-Association</a></li><li ><a  href='/sports/2013/7/30/GEN_0730134806.aspx' >Texas Exes Awards</a></li><li ><a  href='/sports/2013/7/29/GEN_0729130003.aspx?path=general' >Texas Fans Make Us Proud</a></li><li ><a  href='http://www.utexas.edu/trademarks/' >Trademark Licensing</a></li><li ><a  href='http://utexas.edu/' target='_blank'>UTexas.edu</a></li></ul></div></li><li role='menuitem'><a href='http://thelonghornfoundation.com/' >Longhorn Foundation</a></li><li role='menuitem'><a href='/sports/2013/7/28/camps_0728130412.aspx' >Camps</a><div role='menu' aria-hidden='true'><ul><li ><a  href='/sports/2013/7/28/camps_0728130412.aspx' >Sports Camps: Home</a></li><li ><a  href='/sports/2013/7/28/camps_0728132057.aspx' >Required Medical Form</a></li><li ><a  href='http://www.utapclinic.com' target='_blank'>Athletic Performance Clinic</a></li><li ><a  href='http://www.longhornbaseballcamp.com/' target='_blank'>Baseball Camp</a></li><li ><a  href='http://www.longhornsbasketballcamp.com' target='_blank'>Basketball Camp: Boys</a></li><li ><a  href='http://www.longhorngirlsbasketballcamp.com/' target='_blank'>Basketball Camp: Girls</a></li></ul><ul><li ><a  href='http://www.longhornsdivingcamp.com/' target='_blank'>Diving Camp</a></li><li ><a  href='http://www.charliestrongtexasfootballcamp.com/' target='_blank'>Football Camp</a></li><li ><a  href='/sports/2013/7/28/camps_0728134213.aspx?path=mgolf' >Golf Camp: Boys</a></li><li ><a  href='http://www.longhorngolfcamp.com' target='_blank'>Golf Camp: Girls</a></li><li ><a  href='http://www.texasrowingcamp.com' target='_blank'>Rowing Camp</a></li><li ><a  href='http://www.texassoccer.com/' target='_blank'>Soccer Camp</a></li></ul><ul><li ><a  href='http://www.longhornsoftballcamp.com/' target='_blank'>Softball Camp</a></li><li ><a  href='http://www.longhornssportsmedicinecamp.com/' target='_blank'>Sports Medicine Camp</a></li><li ><a  href='http://www.longhornswimcamp.com/' target='_blank'>Swimming Camp</a></li><li ><a  href='http://www.longhornstenniscamp.com/' target='_blank'>Tennis Camp</a></li><li ><a  href='http://www.texastrackcamp.com ' target='_blank'>Track and Field Camp</a></li><li ><a  href='http://www.texasvolleyball.com/' target='_blank'>Volleyball Camp</a></li></ul></div></li><li role='menuitem'><a href='#'>Stores</a><div role='menu' aria-hidden='true'><ul><li ><a  href='http://shop.texassports.com' target='_blank'>Texas Longhorns Official Team Shop: Home</a></li><li ><a  href='http://shop.texassports.com/Texas_Longhorns_Mens' target='_blank'>Men's</a></li><li ><a  href='http://shop.texassports.com/Texas_Longhorns_Ladies' target='_blank'>Women's</a></li><li ><a  href='http://shop.texassports.com/Texas_Longhorns_Kids' target='_blank'>Kids</a></li><li ><a  href='http://shop.texassports.com/Texas_Longhorns_Jerseys' target='_blank'>Jerseys</a></li><li ><a  href='http://shop.texassports.com/Texas_Longhorns_T-Shirts' target='_blank'>T-shirts</a></li><li ><a  href='http://shop.texassports.com/Texas_Longhorns_Hats' target='_blank'>Headwear</a></li><li ><a  href='http://shop.texassports.com/Texas_Longhorns_Everything_Nike' target='_blank'>Nike Gear</a></li><li ><a  href='http://shop.texassports.com/Texas_Longhorns_Collectibles' target='_blank'>Collectibles</a></li><li ><a  href='http://shop.texassports.com/Texas_Longhorns/pg/1/ps/64/so/newest_items' target='_blank'>New Items</a></li></ul><ul><li ><a  href='http://www.texasphotostore.com' target='_blank'>Texas Photo Store</a></li></ul></div></li><li role='menuitem'><a href='#'>Contact</a><div role='menu' aria-hidden='true'><ul><li ><a  href='/sb_output.aspx?form=12' >Contact UT Athletics</a></li><li ><a  href='/sports/2013/7/29/GEN_0729135557.aspx' >Staff Directory</a></li><li ><a  href='/sports/2013/7/24/sponsor_0724130751.aspx' >Advertise</a></li></ul><ul><li ><a  href='http://www.utexas.edu/cio/policies/web-accessibility/' target='_blank'>Web Accessibility Policy</a></li><li ><a  href='http://www.utexas.edu/cio/policies/web-privacy/' target='_blank'>Web Privacy Policy</a></li></ul></div></li></ul>
+
+
+
+
+
+
+
+
+				</nav>
+			</div>		
+			
+		</header>
+	
+	    <div id="mainDiv">
+			
+    
+    
+    
+
+
+
+<div id="ctl00_ctl17_dfpDiv" class="main_story_right" style="width:160px;height: 600px;">
+	
+        <script>
+            $(window).off('.targetting-criteria').on('keyup.targetting-criteria', function(e){
+                if (e.ctrlKey && e.which === 120) {
+                    var $table = $('.targetting-criteria');
+
+                    if ($table.length === 0) {
+                        var html = '<div><h5>Targetting Criteria</h5><table>' + Object.keys(window.targetting_criteria).map(function(key){ 
+                        return '<tr><th>' + key + '</th><td>' + window.targetting_criteria[key] + '</td></tr>'; }).join('') + '</table></div>';
+
+                        $table = $(html).addClass('targetting-criteria').css({
+                            background:'#fff',
+                            color:'#000',
+                            borderCollapse: 'collapse',
+                            position:'fixed',
+                            left:0,
+                            top:0,
+                            padding:'2px 4px',
+                            zIndex:99999
+                        }).hide().appendTo('body');
+
+                        $table.find('th, td').css('padding', '2px 4px');
+                        $table.find('th').css({
+                            fontWeight:'bold',
+                            textAlign:'right'
+                        });
+                    }
+
+                    $table.slideToggle();
+                }
+            });
+
+            googletag.cmd.push(function() { 
+                googletag.display('ctl00_ctl17_dfpDiv');
+            });
+        </script>
+
+</div>
+  
+
+
+
+    
+
+		
+			                       
+             
+			<div id="ctl00_innerPage2">
+				<div id="divSidebars2">
+					
+
+<ul class="sidebar_links"><li class='sport_home'><a href='/index.aspx?path=wsoc'>Soccer</a></li><li><a href="/schedule.aspx?path=wsoc">Schedule</a></li><li><a href="/roster.aspx?path=wsoc">Roster</a></li><li><a href="/sports/2013/7/24/WSOC_0724134024.aspx?path=wsoc">Stats</a></li><li><a href="/documents/2015/8/13/2015_SOC_FactBook.pdf">Fact Book</a></li><li><a href="https://questionnaire.acsathletics.com/Questionnaire/Questionnaire.aspx?4YASfi%2by16TQP90ulAQwsXom12%2fsYEYt4WpENF%2bmZxIOwOOSAO0G0%2bM9MB12jKXR" target="_blank">Recruiting Form</a></li><li><a href="http://www.texassports.com/news/2015/9/3/WSOC_0903152156.aspx">Texas Soccer Experience</a></li><li><a href="http://www.texassoccer.com" target="_blank">Camp</a></li><li id="additional_parent" class="sidebar_links_more" onmouseover="additional_drop(this, 'additional_menu', true);return false"  onmouseout="additional_drop(this, 'additional_menu', false);return false">Additional Links</li><div id="additional_menu" class="additional_dropdown" style="display:none"><ul><li><a href="/archives.aspx?path=wsoc">Archives</a></li><li><a href="http://shop.texassports.com" target="_blank">Team Shop</a></li></ul></div></ul>
+
+
+
+
+
+
+
+
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div id="ctl00_contentDiv_container" class="contentDiv_container" role="main" aria-label="Main Content" style="background-color:#fff;width:1000px;">
+				<a name="content"></a>
+				
+                
+				<div id="ctl00_contentDiv" class="contentDiv">
+					
+    
+    <div style="clear:both;"></div>
+    <div class="story_wrapper news">
+        <div class="story_date">02.10.2016</div>	
+        <div class="story_link_container"><span class="story_headline">Soccer’s 2016 recruiting class ranked No. 15 in nation by Top Drawer Soccer</span></div>
+        <div class="story_subheadline">Standout nine-member Longhorns class was also rated No. 1 in the Big 12 Conference</div>
+        <div class="story_byline"></div>	
+        <div class="noprint story_email">
+			<div style="width:125px;">
+				<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=300&amp;pubid=jhrubin"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a>
+				<script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
+				<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=jhrubin"></script>			
+			</div>
+        </div>		
+        <div class="story_inner_wrapper">
+			<div class="story_image">
+        <div id="ctl00_cplhMainContent_ctl00_story_media_divImage" class="media_object_image" style="width:1000px;;">
+        
+            
+                <img id="ctl00_cplhMainContent_ctl00_story_media_imgPrimary" src="/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2016/2/10/team_celebration_p1501_tcu.jpg" alt="Texas Longhorns" style="border-width:0px;z-index:1" />
+            
+            
+            
+            <div style="clear:both"></div>
+            
+        </div>
+         
+    </div>
+			
+			<div class="story_content">
+				<center></center>
+				 <p>AUSTIN, Texas – The Texas soccer program received some impressive news on Wednesday by learning that its high-profile, nine-member 2016 signing class had been ranked as both the top class in the Big 12 Conference and as the No. 15 class in the country according to a release by Top Drawer Soccer.</p><p><p>The Longhorns' program added nine signees, including seven freshmen and a pair of standout goalkeeping transfers, on last week's National Signing Day.</p><p><p>Signees included (Hometown/High School or last College/Club Soccer Team): forward <strong>Cydney Billups</strong> (Greenwood Village, Colo./Mountain Vista High School/Colorado Rush & Real Colorado), goalkeeper <strong>Taylor Braun</strong> (Colleyville, Texas/transfer from the University of Kentucky/Dallas Texans Red), goalkeeper <strong>Paige Brown</strong> (Jackson, Mo./transfer from the University of Louisville/St. Louis Scott Gallagher), goalkeeper <strong>Nicole Curry</strong> (Dallas, Texas/The Episcopal School of Dallas/Dallas Sting ECNL 98), forward <strong>Kyra Falcone</strong> (San Antonio, Texas/Douglas MacArthur High School/Classics Elite 98 Premier), forward <strong>Cyera Hintzen</strong> (McKinney, Texas/Sachse High School/Dallas Sting ECNL 98), defender <strong>Emily Martin</strong> (Las Vegas, Nev./Bishop Gorman High School/Heat FC ECNL 98), defender <strong>Atu Mshana</strong> (Garland, Texas/Bishop Lynch High School/Dallas Texans ECNL) and forward <strong>Tecora Turner</strong> (Memphis, Tenn./St. Agnes Academy/98 Lady Lobos Rush Premier & FC Alliance 98).</p><p><p>The Top Drawer Soccer Top 20 Recruiting Classes in order included: 1. UCLA, 2. Virginia, 3. North Carolina, 4. Duke, 5. Boston College, 6. Stanford, 7. USC, 8. Florida State, 9. Kentucky, 10. South Carolina, 11. Santa Clara, 12. Rutgers, 13. Clemson, 14. Utah, <strong><u>15. TEXAS</u></strong>, 16. Vanderbilt, 17. Miami (FL), 18. Syracuse, 19. Penn State, 20. Tennessee.</p><p><p>To read all about the 2016 Texas soccer recruiting class, please visit this <a href="http://texassports.com/news/2016/2/8/WSOC_0208165213.aspx">LINK</a>.</p><div class='print-friendly-story-button'><a onclick='window.open(this.href,"_blank");return false;' href='/news/2016/2/10/WSOC_0210165400.aspx?print=true'>Print Friendly Version</a></div>
+				<br /><br />
+				<center>
+    <div id="ctl00_cplhMainContent_ctl00_ctl00_enhancedAds" class="echads ad_story" data-location="131"></div>
+    <a id="ctl00_cplhMainContent_ctl00_ctl00_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+</center>
+				<center></center>
+			</div>
+			<div class="clear"></div>
+        </div>    
+    </div>	
+    <div id="ctl00_cplhMainContent_fan_interaction_controls">
+
+</div>
+    
+
+				</div>
+			</div>
+			
+			<div id="bottom_ads" class="relative">			
+				
+    
+    
+    
+
+
+
+<div id="ctl00_ctl18_dfpDiv" class="left" style="width:300px;height: 250px;">
+	
+        <script>
+            $(window).off('.targetting-criteria').on('keyup.targetting-criteria', function(e){
+                if (e.ctrlKey && e.which === 120) {
+                    var $table = $('.targetting-criteria');
+
+                    if ($table.length === 0) {
+                        var html = '<div><h5>Targetting Criteria</h5><table>' + Object.keys(window.targetting_criteria).map(function(key){ 
+                        return '<tr><th>' + key + '</th><td>' + window.targetting_criteria[key] + '</td></tr>'; }).join('') + '</table></div>';
+
+                        $table = $(html).addClass('targetting-criteria').css({
+                            background:'#fff',
+                            color:'#000',
+                            borderCollapse: 'collapse',
+                            position:'fixed',
+                            left:0,
+                            top:0,
+                            padding:'2px 4px',
+                            zIndex:99999
+                        }).hide().appendTo('body');
+
+                        $table.find('th, td').css('padding', '2px 4px');
+                        $table.find('th').css({
+                            fontWeight:'bold',
+                            textAlign:'right'
+                        });
+                    }
+
+                    $table.slideToggle();
+                }
+            });
+
+            googletag.cmd.push(function() { 
+                googletag.display('ctl00_ctl18_dfpDiv');
+            });
+        </script>
+
+</div>
+  
+
+
+
+    
+
+				<div id="ad-rotator">
+					<div id="ad-belt">
+						<div id="container1" class="ad_panel">
+							
+    <div id="ctl00_ctl19_enhancedAds" class="echads left" data-location="133"></div>
+    <a id="ctl00_ctl19_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+							<div class="ad-container-left left" >
+							
+    <div id="ctl00_ctl20_enhancedAds" class="echads ad-image" data-location="49"></div>
+    <a id="ctl00_ctl20_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+							
+    <div id="ctl00_ctl21_enhancedAds" class="echads ad-image" data-location="50"></div>
+    <a id="ctl00_ctl21_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+							</div>
+							<div class="ad-container-right right" >
+							
+    <div id="ctl00_ctl22_enhancedAds" class="echads ad-image" data-location="51"></div>
+    <a id="ctl00_ctl22_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+							
+    <div id="ctl00_ctl23_enhancedAds" class="echads ad-image" data-location="52"></div>
+    <a id="ctl00_ctl23_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div id="container2" class="ad_panel">
+							
+    <div id="ctl00_ctl24_enhancedAds" class="echads left" data-location="134"></div>
+    <a id="ctl00_ctl24_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+								<div class="ad-container-left left" >
+							
+    <div id="ctl00_ctl25_enhancedAds" class="echads ad-image" data-location="53"></div>
+    <a id="ctl00_ctl25_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+							
+    <div id="ctl00_ctl26_enhancedAds" class="echads ad-image" data-location="54"></div>
+    <a id="ctl00_ctl26_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+							</div>
+								<div class="ad-container-right right" >
+							
+    <div id="ctl00_ctl27_enhancedAds" class="echads ad-image" data-location="55"></div>
+    <a id="ctl00_ctl27_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+							
+    <div id="ctl00_ctl28_enhancedAds" class="echads ad-image" data-location="56"></div>
+    <a id="ctl00_ctl28_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+								</div>
+							<div class="clear"></div>
+						</div>
+						
+						<div id="container3" class="ad_panel">
+								
+    <div id="ctl00_ctl29_enhancedAds" class="echads left" data-location="67"></div>
+    <a id="ctl00_ctl29_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+							<div class="ad-container-left left" >
+							
+    <div id="ctl00_ctl30_enhancedAds" class="echads ad-image" data-location="135"></div>
+    <a id="ctl00_ctl30_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+							
+    <div id="ctl00_ctl31_enhancedAds" class="echads ad-image" data-location="136"></div>
+    <a id="ctl00_ctl31_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+							</div>
+							<div class="ad-container-right right" >
+							
+    <div id="ctl00_ctl32_enhancedAds" class="echads ad-image" data-location="59"></div>
+    <a id="ctl00_ctl32_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+							
+    <div id="ctl00_ctl33_enhancedAds" class="echads ad-image" data-location="137"></div>
+    <a id="ctl00_ctl33_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+							</div>
+							<div class="clear"></div>
+						</div>
+				
+						<div id="container4" class="ad_panel">
+							
+    <div id="ctl00_ctl34_enhancedAds" class="echads left" data-location="68"></div>
+    <a id="ctl00_ctl34_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+							<div class="ad-container-left left" >
+							
+    <div id="ctl00_ctl35_enhancedAds" class="echads ad-image" data-location="61"></div>
+    <a id="ctl00_ctl35_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+							
+    <div id="ctl00_ctl36_enhancedAds" class="echads ad-image" data-location="138"></div>
+    <a id="ctl00_ctl36_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+							</div>
+							<div class="ad-container-right right" >
+							
+    <div id="ctl00_ctl37_enhancedAds" class="echads ad-image" data-location="139"></div>
+    <a id="ctl00_ctl37_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+							
+    <div id="ctl00_ctl38_enhancedAds" class="echads ad-image" data-location="140"></div>
+    <a id="ctl00_ctl38_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+							</div>
+							<div class="clear"></div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="ad-rotator-buttons"></div>
+			</div>	
+			<div class="clear"></div>
+			
+			<div id="social-media-footer">
+				
+    
+    
+    
+            <a href="http://www.facebook.com/TexasLonghorns" id="ctl00_ctl39_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='0px -110px '" rel="nofollow" class="sprite-ad footer-social" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=18&amp;target=http://www.facebook.com/TexasLonghorns', '_blank'); return false;" onmouseover="this.style.backgroundPosition='0px 0px '" style="width:110px;height:110px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/texassports_com/images/2014/2/4/bottom_socialmedia_sprite.png) no-repeat 0px -110px " rev="footer_social1">Footer Social Media 1 (Facebook)</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+				
+    
+    
+    
+            <a href="http://www.twitter.com/texassports" id="ctl00_ctl40_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-110px -110px '" rel="nofollow" class="sprite-ad footer-social" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=19&amp;target=http://www.twitter.com/texassports', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-110px 0px '" style="width:110px;height:110px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/texassports_com/images/2014/2/4/bottom_socialmedia_sprite.png) no-repeat -110px -110px " rev="footer_social2">Footer Social Media 2 (Twitter)</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+				
+    
+    
+    
+            <a href="http://ev9.evenue.net/cgi-bin/ncommerce3/SEGetGroupList?groupCode=UTA&linkID=tex-ath&shopperContext=&caller=&appCode" id="ctl00_ctl41_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-220px -110px '" rel="nofollow" class="sprite-ad footer-social" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=20&amp;target=http://ev9.evenue.net/cgi-bin/ncommerce3/SEGetGroupList?groupCode=UTA$$linkID=tex-ath$$shopperContext=$$caller=$$appCode', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-220px 0px '" style="width:110px;height:110px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/texassports_com/images/2014/2/4/bottom_socialmedia_sprite.png) no-repeat -220px -110px " rev="footer_social3">Footer Social Media 3 (Tickets)</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+				
+    
+    
+    
+            <a href="http://shop.texassports.com/" id="ctl00_ctl42_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-330px -110px '" rel="nofollow" class="sprite-ad footer-social" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=21&amp;target=http://shop.texassports.com/', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-330px 0px '" style="width:110px;height:110px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/texassports_com/images/2014/2/4/bottom_socialmedia_sprite.png) no-repeat -330px -110px " rev="footer_social4">Footer Social Media 4 (Team Shop)</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+				
+    
+    
+    
+            <a href="http://www.texasphotostore.com" id="ctl00_ctl43_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-440px -110px '" rel="nofollow" class="sprite-ad footer-social" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=22&amp;target=http://www.texasphotostore.com', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-440px 0px '" style="width:110px;height:110px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/texassports_com/images/2014/2/4/bottom_socialmedia_sprite.png) no-repeat -440px -110px " rev="footer_social5">Footer Social Media 5 (Photo Store)</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+				
+    
+    
+    
+            <a href="/sports/2013/7/31/GEN_0731134437.aspx?id=390" id="ctl00_ctl44_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-550px -110px '" rel="nofollow" class="sprite-ad footer-social" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=23&amp;target=/sports/2013/7/31/GEN_0731134437.aspx?id=390', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-550px 0px '" style="width:110px;height:110px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/texassports_com/images/2014/2/4/bottom_socialmedia_sprite.png) no-repeat -550px -110px " rev="footer_social6">Footer Social Media 6 (Live Stats)</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+				
+    
+    
+    
+            <a href="/rss_feeds.aspx" id="ctl00_ctl45_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-660px -110px '" rel="nofollow" class="sprite-ad left" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=24&amp;target=/rss_feeds.aspx', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-660px 0px '" style="width:110px;height:110px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/texassports_com/images/2014/2/4/bottom_socialmedia_sprite.png) no-repeat -660px -110px " rev="footer_social7">Footer Social Media 7 (RSS)</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+			</div>
+        </div>
+		
+		<div id="footer">
+			<div id="footer_inside">
+				
+    
+    
+    
+            <a href="http://www.utexas.edu" id="ctl00_ctl46_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='0px 0px '" rel="nofollow" class="sprite-ad left_footer" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=28&amp;target=http://www.utexas.edu', '_blank'); return false;" onmouseover="this.style.backgroundPosition='0px 0px '" style="width:180px;height:65px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/texassports_com/images/2015/1/5/footer_sprite.png) no-repeat 0px 0px " rev="Footer_Logo_1">Footer Logo 1 (UT Austin)</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+				
+    
+    
+    
+            <a href="http://img.com/home.aspx" id="ctl00_ctl47_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-176px 0px '" rel="nofollow" class="sprite-ad left_footer" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=29&amp;target=http://img.com/home.aspx', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-176px 0px '" style="width:115px;height:65px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/texassports_com/images/2015/1/5/footer_sprite.png) no-repeat -176px 0px " rev="Footer_Logo_2">Footer Logo 2 (IMG)</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+				
+    
+    
+    
+            <a href="http://www.big12sports.com" id="ctl00_ctl48_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-295px 0px '" rel="nofollow" class="sprite-ad left_footer" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=30&amp;target=http://www.big12sports.com', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-295px 0px '" style="width:105px;height:65px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/texassports_com/images/2015/1/5/footer_sprite.png) no-repeat -295px 0px " rev="Footer_Logo_3">Footer Logo 3 (Big 12)</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+				
+    
+    
+    
+            <a href="http://www.longhornnetwork.com" id="ctl00_ctl49_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-400px 0px '" rel="nofollow" class="sprite-ad left_footer" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=42&amp;target=http://www.longhornnetwork.com', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-400px 0px '" style="width:180px;height:65px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/texassports_com/images/2015/1/5/footer_sprite.png) no-repeat -400px 0px " rev="Footer_Logo4">Footer Logo 4 (LHN)</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+				
+    
+    
+    
+            <a href="http://www.sidearmsports.com" id="ctl00_ctl50_rptAds_ctl00_hlAdSpot" onmouseout="this.style.backgroundPosition='-580px 0px '" rel="nofollow" class="sprite-ad left_footer2" target="_blank" onclick="window.open('/common/controls/adhandler.aspx?ad_id=43&amp;target=http://www.sidearmsports.com', '_blank'); return false;" onmouseover="this.style.backgroundPosition='-580px 0px '" style="width:260px;height:65px;background:url(//wac.b63f.edgecastcdn.net/80B63F/images/texassports_com/images/2015/1/5/footer_sprite.png) no-repeat -580px 0px " rev="Footer_Logo5">Footer Logo 5 (Sidearm)</a>
+        
+
+
+
+
+  
+
+
+
+    
+
+				<div class="clear"></div>			
+				<div id="sidearm_copyright"><a href="//www.sidearmsports.com/privacypolicy/" target="_blank">Privacy Policy </a><a href="//www.sidearmsports.com/terms-of-service/" target="_blank">Terms of Service</a></div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+		<div id="sticky_bar_container">
+			<div id="stickybar" class="no_print" style="width:100%;height:47px;bottom:0;padding-top: 13px; position: fixed;left:0%;background:url(/images/sticky_bg_repeat.png) repeat-x;">
+				<div style="width:1025px;margin-left:auto;margin-right:auto; position: relative;">
+					<div id="sticky_logo"> 
+						<img src="/images/sticky_logo.png" alt="University of Texas Logo" />
+					</div>
+					<div class="left" id="sidearm-scoreboard"></div>
+							
+					<div class="right" >
+						
+    <div id="ctl00_ctl51_enhancedAds" class="echads left" data-location="84"></div>
+    <a id="ctl00_ctl51_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+						
+    <div id="ctl00_ctl52_enhancedAds" class="echads left" data-location="85"></div>
+    <a id="ctl00_ctl52_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+						
+    <div id="ctl00_ctl53_enhancedAds" class="echads left" data-location="86"></div>
+    <a id="ctl00_ctl53_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+					
+						<div id="search-btn" class="left">
+							<a title="Click To Search"><img src="http://s3.amazonaws.com/texassports_com/images/search.gif" alt="Click To Search" /></a>
+							<div id="search" class="cf">
+								<div class="left search-box">
+									<label for="ctl00_txtSearch">Search Text</label>
+									<input name="ctl00$txtSearch" type="text" value="Search UT Athletics" id="ctl00_txtSearch" onfocus="this.value=''" style="border-style:None;" />
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>	
+		</div>
+		
+		<div id="mega-ads-holder" style="display:none;">
+			<div class="mega-drop-ads right">
+				
+    <div id="ctl00_ctl54_enhancedAds" class="echads" data-location="141"></div>
+    <a id="ctl00_ctl54_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+			</div>
+			<div class="mega-drop-ads right">
+				
+    <div id="ctl00_ctl55_enhancedAds" class="echads" data-location="142"></div>
+    <a id="ctl00_ctl55_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+			</div> 
+			<div class="mega-drop-ads right">
+				
+    <div id="ctl00_ctl56_enhancedAds" class="echads" data-location="105"></div>
+    <a id="ctl00_ctl56_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+			</div>
+			<div class="mega-drop-ads right">
+				
+    <div id="ctl00_ctl57_enhancedAds" class="echads" data-location="143"></div>
+    <a id="ctl00_ctl57_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+			</div>
+			<div class="mega-drop-ads right">
+				
+    <div id="ctl00_ctl58_enhancedAds" class="echads" data-location="144"></div>
+    <a id="ctl00_ctl58_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+			</div> 
+			<div class="mega-drop-ads right">
+				
+    <div id="ctl00_ctl59_enhancedAds" class="echads" data-location="145"></div>
+    <a id="ctl00_ctl59_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+			</div>
+			<div class="mega-drop-ads right">
+				
+    <div id="ctl00_ctl60_enhancedAds" class="echads" data-location="146"></div>
+    <a id="ctl00_ctl60_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+			</div> 
+			<div class="mega-drop-ads right">
+				
+    <div id="ctl00_ctl61_enhancedAds" class="echads" data-location="147"></div>
+    <a id="ctl00_ctl61_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+			</div>
+			<div class="mega-drop-ads right">
+				
+    <div id="ctl00_ctl62_enhancedAds" class="echads" data-location="111"></div>
+    <a id="ctl00_ctl62_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+			</div>
+			<div class="mega-drop-ads right">
+				
+    <div id="ctl00_ctl63_enhancedAds" class="echads" data-location="148"></div>
+    <a id="ctl00_ctl63_enhancedAdsDummy" style="display:none;"></a>
+    
+
+
+
+
+  
+
+
+
+    
+
+			</div> 
+		</div>
+		
+		<script type="text/javascript" src="/site/jquery.overflow.js" ></script>		
+		<script type="text/javascript">
+			$("#sidearm-scoreboard").scoreboard({
+				"width":630, // container width
+				"height":47, // container height
+				"btmskin": "/images/sticky_score.png", // container background
+				"btns": "http://assets.sidearmsports.com/common/images/scoreboard_buttons_black", // button set, optional defaults to white
+				"bx": 0, // button left offset
+				"by": 17, // button top offset
+				"tx": 55, // ticker left offset
+				"ty": 16, // ticker top offset
+				"th": 17, // ticker height
+				"tw": 580 // ticker width
+			});
+					
+			$(function() {		
+				var $texas_relays_menu_item = $('<li><a href="/index.aspx?path=relays">Texas Relays</a><a class="srn" aria-label="Relays Schedule" href="//texassports.com/sports/2013/10/24/relays_1024134950.aspx?path=relays">Schedule</a><a class="srm" aria-label="Relays News" href="//texassports.com/archives.aspx?path=relays">News</a></li>');
+				var $second_texas_relays_item = $texas_relays_menu_item.clone();
+				$texas_relays_menu_item.insertAfter($('li.sports').find('ul').last().find('li').get(6));	
+				$second_texas_relays_item.insertAfter($('li.sports').find('ul').first().find('li').get(5));			
+				$('#main-navigation > ul > li > div').each(function(i) {
+					$(this).append($('#mega-ads-holder .mega-drop-ads').eq(0));
+				});
+				$('#ad-rotator').overflow({
+					showButtons: true,
+					buttonContainer: '.ad-rotator-buttons',		
+					buttonShowNumber: false,				
+					itemClass: 'ad_panel',
+					easing: 'easeInOutExpo',
+					duration: 500
+				});
+
+				/* Make dropdown menus keyboard accessible */
+
+				$("#main-navigation > ul > li a").focus(function() {
+					$(this).parents("li")
+                        .addClass("hover")
+                        .find("[aria-hidden]")
+                        .attr("aria-hidden", "false");
+				}).blur(function() {
+					$(this).parents("li")
+						.removeClass("hover")
+						.find("[aria-hidden]")
+						.attr("aria-hidden", "true");
+				});
+								
+				var pathname = window.location.pathname;
+				if(pathname.indexOf('searchresults') > -1){
+					$("#divSidebars2").hide();
+				}   
+				
+				$('a').each(function(index, elem) { 
+					var href = $(elem).attr("href");
+					if (href != undefined && href.indexOf(".pdf") > 0) {
+						if ($(elem).next().attr("href") != undefined && $(elem).next().attr("href").indexOf("adobe") > 0) {
+							return;
+						}
+						var padtop = (parseInt($(elem).css("line-height"), 10)-10)/2;
+						$('<a class="pdf-icon" style="padding-left:5px; padding-top:' + padtop + 'px" href="http://get.adobe.com/reader/" target="_new"><img style="display:inline" src="http://grfx.cstv.com/graphics/icon-acrosmall.gif" width="9" height="10" border="0" alt="Get Acrobat Reader" /></a>').insertAfter(elem);
+					}
+				});
+
+				$("#search-btn input[id*='txtSearch']").on("keypress", function(e) {
+					if (e.keyCode == 13) {
+						e.preventDefault();
+						window.location='/searchresults.aspx?cx=016306950182310286156%3Abmfrjzy7md8&q=' + $("#search-btn input[id*=txtSearch]").val()+  '&sa=Search&cof=FORID%3A11#1141';	
+						return false;
+					}
+				});				
+			});	
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); 
+  ga('create', 'UA-42872723-2', 'texassports.com');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>  
+<!-- Start WebsiteAlive Embedded Icon/Tracking Code -->
+<script type="text/javascript">
+function wsa_include_js(){
+var wsa_host = (("https:" == document.location.protocol) ? "https://" : "http://");
+var js = document.createElement("script");
+js.setAttribute("language", "javascript");
+js.setAttribute("type", "text/javascript");
+js.setAttribute("src",wsa_host + "tracking.websitealive.com/vTracker_v2.asp?objectref=c1&groupid=3524&websiteid=432");
+document.getElementsByTagName("head").item(0).appendChild(js);
+}
+if (window.attachEvent) {window.attachEvent("onload", wsa_include_js);}
+else if (window.addEventListener) {window.addEventListener("load", wsa_include_js, false);}
+else {document.addEventListener("load", wsa_include_js, false);}
+</script>
+<!-- End WebsiteAlive Embedded Icon/Tracking Code -->
+
+<script type="text/javascript">addLoadEvent(count_ad_master);</script><script type="text/javascript">checkVersion;</script><script type="text/javascript">fkey = 'ebdb2631a52339d6153'</script><script type="text/javascript">count_ad(33);</script><script type="text/javascript">launch_ads ('topnav_social1',true,0)</script><script type="text/javascript">count_ad(34);</script><script type="text/javascript">launch_ads ('topnav_social2',true,0)</script><script type="text/javascript">count_ad(35);</script><script type="text/javascript">launch_ads ('topnav_social3',true,0)</script><script type="text/javascript">count_ad(36);</script><script type="text/javascript">launch_ads ('topnav_social4',true,0)</script><script type="text/javascript">count_ad(37);</script><script type="text/javascript">launch_ads ('topnav_social5',true,0)</script><script type="text/javascript">$(function(){$("#ctl00_ctl14_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl15_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl16_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_cplhMainContent_ctl00_blittleAdSpotTop_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_cplhMainContent_ctl00_ctl00_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_cplhMainContent_ctl00_blittleAdSpotBottom_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl19_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl20_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl21_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl22_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl23_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl24_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl25_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl26_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl27_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl28_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl29_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl30_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl31_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl32_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl33_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl34_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl35_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl36_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl37_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl38_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">count_ad(18);</script><script type="text/javascript">launch_ads ('footer_social1',true,0)</script><script type="text/javascript">count_ad(19);</script><script type="text/javascript">launch_ads ('footer_social2',true,0)</script><script type="text/javascript">count_ad(20);</script><script type="text/javascript">launch_ads ('footer_social3',true,0)</script><script type="text/javascript">count_ad(21);</script><script type="text/javascript">launch_ads ('footer_social4',true,0)</script><script type="text/javascript">count_ad(22);</script><script type="text/javascript">launch_ads ('footer_social5',true,0)</script><script type="text/javascript">count_ad(23);</script><script type="text/javascript">launch_ads ('footer_social6',true,0)</script><script type="text/javascript">count_ad(24);</script><script type="text/javascript">launch_ads ('footer_social7',true,0)</script><script type="text/javascript">count_ad(28);</script><script type="text/javascript">launch_ads ('Footer_Logo_1',true,0)</script><script type="text/javascript">count_ad(29);</script><script type="text/javascript">launch_ads ('Footer_Logo_2',true,0)</script><script type="text/javascript">count_ad(30);</script><script type="text/javascript">launch_ads ('Footer_Logo_3',true,0)</script><script type="text/javascript">count_ad(42);</script><script type="text/javascript">launch_ads ('Footer_Logo4',true,0)</script><script type="text/javascript">count_ad(43);</script><script type="text/javascript">launch_ads ('Footer_Logo5',true,0)</script><script type="text/javascript">$(function(){$("#ctl00_ctl51_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl52_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl53_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl54_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl55_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl56_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl57_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl58_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl59_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl60_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl61_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl62_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script><script type="text/javascript">$(function(){$("#ctl00_ctl63_enhancedAds").adSpot({"path":"wsoc","rotate":0});});</script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form></body></html>
+

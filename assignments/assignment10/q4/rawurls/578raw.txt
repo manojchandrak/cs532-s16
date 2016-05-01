@@ -1,0 +1,326 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head><script type='text/javascript'>var pageIsResponsive = true;</script><title>
+	Varela targeting lengthy stay at Manchester United - Official Manchester United Website
+</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"0a58954d81","applicationID":"10044887","transactionName":"Y1MAZEAHDEYDVEFeWVoZI2NiSQ5UG1hAQ0VrUQdeVxQLVg5WTFhDQGkDQ0Ie","queueTime":0,"applicationTime":128,"ttGuid":"D0336DA1E529DD4C","agent":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYCWFFQCBABVFFWAwkPUQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script><meta id="descriptionTag" name="description" content="Full-back Guillermo Varela now has the belief that he can become a regular in the Manchester United side." /><meta id="metaTitle" name="metaTitle" content="Varela targeting lengthy stay at Manchester United - Official Manchester United Website" /><meta id="keywordsTag" name="keywords" content="" /><meta id="mViewPort" name="viewport" content="width=device-width, initial-scale=1" />
+    <!--Start Pinterest Tag -->
+    <meta name="p:domain_verify" content="3f419e3a14c6b3ade299b28d08da321c" />
+    <!--End Pinterest Tag -->
+
+    <script type="text/javascript"> var GB_ROOT_DIR = "/styles/greybox/"; var GB_DIRECTION = "ltr"; var GB_SEPARATOR = "of";</script><link href='/Handlers/YuiCompressorHandlerC.ashx?css=/styles/css/common1,/styles/css/common2,/styles/css/common3,/styles/css/common4,/styles/css/cookiePolicy,/styles/css/left&v=427' type='text/css' rel='stylesheet' media='all and (min-width: 1025px)' /><script type='text/javascript' src='/Handlers/YuiCompressorHandlerC.ashx?js=/styles/js/jquery-1.4.4.min,/styles/js/jQuery/JQuery.cookie,/styles/js/imgcore,/styles/js/toolbar,/styles/greybox/AJS,/styles/greybox/AJS_fx,/styles/greybox/gb_scripts,/styles/js/responsive/matchMedia,/styles/js/adManager,/styles/Js/cookiePolicy,/styles/js/gallery,/styles/js/whatsapp&v=427'></script><link href='/Handlers/YuiCompressorHandlerC.ashx?css=/styles/css/responsive/complete.min,/styles/css/responsive/complete.custom.min&v=427' type='text/css' rel='stylesheet' media='all and (max-width: 1024px)' /><link href='/Handlers/YuiCompressorHandlerC.ashx?css=/styles/css/responsive/desktop_overrides&v=427' type='text/css' rel='stylesheet' media='all and (min-width: 1025px)' /><link href='/Handlers/YuiCompressorHandlerC.ashx?css=/styles/css/english,/styles/greybox/gb_styles&v=427' type='text/css' rel='stylesheet' media='all and (min-width: 1025px)' /><link href='/Handlers/YuiCompressorHandlerC.ashx?css=/styles/css/NewsArticles&v=427' type='text/css' rel='stylesheet' />
+
+    <!--[if IE 9]>
+        
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+        <link href='/Handlers/YuiCompressorHandlerC.ashx?css=/styles/css/common1,/styles/css/common2,/styles/css/common3,/styles/css/common4,/styles/css/cookiePolicy&v=427' type='text/css' rel='stylesheet' /><link href='/Handlers/YuiCompressorHandlerC.ashx?css=/styles/css/left,/styles/greybox/gb_styles&v=427' type='text/css' rel='stylesheet' /><link href='/Handlers/YuiCompressorHandlerC.ashx?css=/styles/css/responsive/desktop_overrides&v=427' type='text/css' rel='stylesheet' /><link href='/Handlers/YuiCompressorHandlerC.ashx?css=/styles/css/english,/styles/css/NewsArticles&v=427' type='text/css' rel='stylesheet' />
+    <![endif]-->
+
+    <textarea style="display:none" name="hdnScript" id="hdnScript"><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5517923-1']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview'{name}]);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script></textarea><script type="text/javascript">
+      var trackingCode_overlayDisplayed = '';
+      var trackingCode_signupClicked = '';
+      var trackingCode_submitClicked = '';
+    </script><link rel="alternate" title="RSS Feed" type="application/rss+xml" href="/en/Feeds/NewsAndFeaturesRSS.aspx"><link href="https://plus.google.com/+manutd" rel="publisher"><meta name="twitter:site" content="@ManUtd"><meta name="twitter:creator" content="@ManUtd"><meta name="twitter:title" content="Varela hopes for lengthy stay at United"><meta name="twitter:description" content="Guillermo Varela now has the belief that he can become a regular in the United side."><meta name="twitter:card" content="summary"><meta name="twitter:image" content="http://www.manutd.com/~/media/139980E7663B423AA53044CBE13B69C1.ashx"><script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script><script type='text/javascript'>googletag.cmd.push(function() {
+            adManager.push(googletag.defineSlot("/11820346/EN_Home_314x1213", [314, 1213], "div-gpt-ad-1400580523773-0").addService(googletag.pubads()), "(min-width: 1025px)");
+        
+            adManager.push(googletag.defineSlot("/11820346/EN_Home_315x1213", [315, 1213], "div-gpt-ad-1400580504337-0").addService(googletag.pubads()), "(min-width: 1025px)");
+        
+            adManager.push(googletag.defineSlot("/11820346/EN_MobileTabletFooter_300x180", [300, 180], "div-gpt-ad-1407947501505-0").addService(googletag.pubads()), "(max-width: 1024px)");
+        
+            adManager.push(googletag.defineSlot("/11820346/EN_ROS_120x600", [120, 600], "div-gpt-ad-1400580407832-0").addService(googletag.pubads()), "(min-width: 1025px)");
+        
+            adManager.push(googletag.defineSlot("/11820346/EN_ROS_150x179", [150, 179], "div-gpt-ad-1400580384083-0").addService(googletag.pubads()), "(min-width: 1025px)");
+        
+            adManager.push(googletag.defineSlot("/11820346/EN_ROS_300x50", [300, 50], "div-gpt-ad-1407232630394-0").addService(googletag.pubads()), "(max-width: 727px)");
+        
+            adManager.push(googletag.defineSlot("/11820346/EN_ROS_728x90", [728, 90], "div-gpt-ad-1407232277811-0").addService(googletag.pubads()), "(min-width: 728px) and (max-width: 1024px)");
+        
+            adManager.push(googletag.defineSlot("/11820346/EN_Home_663x142", [663, 142], "div-gpt-ad-1422354496632-0").addService(googletag.pubads()), "(min-width: 1025px)");
+        
+            adManager.push(googletag.defineSlot("/11820346/EN_POTY_502x671", [502, 671], "div-gpt-ad-1460717140491-0").addService(googletag.pubads()), "screen");
+        
+            adManager.push(googletag.defineSlot("/11820346/EN_POTY2_502x671", [502, 671], "div-gpt-ad-1460720393111-1").addService(googletag.pubads()), "screen");
+        googletag.pubads().enableSingleRequest(); googletag.pubads().disableInitialLoad(); googletag.pubads().setTargeting("url", "guillermo varela hoping for long stay at"); googletag.enableServices(); $(document).ready(adManager.init) });</script>
+<meta property="og:image" content="http://www.manutd.com/~/media/139980E7663B423AA53044CBE13B69C1.ashx" />
+<script type="text/javascript">(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="fb-root"></div><link id="linkPrev" rel="prev" /><link id="linkNext" rel="next" /><style type='text/css'>body{background: #fff url('/~/media/0021F8311AAC40089CBFFC7F5D3FC99D.ashx') no-repeat fixed 50% 0;}</style></head>
+<body>
+    
+    <script type='text/javascript' src='/Handlers/YuiCompressorHandlerC.ashx?js=/styles/js/GoogleAnalytics/analytics&v=427'></script>
+    <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NPX7WN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NPX7WN');</script>
+<!-- End Google Tag Manager -->
+
+    <!--Add Custom Tag for different pages -->
+    
+
+    <!-- Tracker Line Up Overlay -->
+    
+    <!--/Tracker Line Up Overlay -->
+
+    <!--301 redirect for non friendly urls-->
+    
+
+    <div id="leftTower">
+        <!-- EN_Home_315x1213 -->
+<div id='div-gpt-ad-1400580504337-0' style='width:315px; height:1213px;'></div>
+    </div>
+
+    <div id="pagecontainer">
+
+        <div id="toolbar">
+            <div id="toolbarLogo" xmlns:img="http://www.imgworld.com/img"><a href="http://bit.ly/1EXfnBj" target=""><img class="logo-desktop" src="/~/media/0009B095031E421DBC5CC82719EEA7F2.ashx" /><img class="logo-mobile" src="/~/media/CDA2A649E90845D9A5FA317EC7AEA5B7.ashx" /></a></div><div id="toolbarsearch" xmlns:img="http://www.imgworld.com/img"><input type="hidden" id="listCount" value="8" /><input type="hidden" value="" name="catTxt" id="catTxt" /><select name="qs" id="searchcategory" onchange="document.getElementById('catTxt').value = this.options[this.selectedIndex].text;"><option value="search">All</option><option value="manutd_ClubNews">Club News</option><option value="manutd_ExclusiveInterviews">Exclusive Interviews</option><option value="manutd_Features">Features</option><option value="manutd_FootballNews">Football News</option><option value="manutd_NewsAndFeatures">News &amp; Features</option><option value="manutd_PlayersAndStaff">Players &amp; Staff</option><option value="manutd_WhatThePapersSay">What The Papers Say</option></select><input type="text" placeholder="Type Keyword" value="" id="search" /><input type="button" title="Go" value="" linkPage="/en/Search-Results.aspx" id="btnSearch" class="gobutton" /><input type="hidden" value="Type Keyword" name="typeText" id="typeText" /><input type="hidden" value="/en/Search-Results.aspx" name="typeText" id="linkSearch" /><script type="text/javascript" src="/styles/js/SearchBar/SearchBar.js"></script><input type="hidden" value="Type Keyword" name="typeText" id="typeText" /></div><div id="faqzone" style="display:inline;" xmlns:img="http://www.imgworld.com/img"><a id="btnFaq" title="FAQ" href="/en/Club/FAQs.aspx"></a><a id="btnContactUs" title="Contact Us" href="/en/Club/Club-Contacts.aspx"></a><a id="btnCookieSetting" title="Cookie Policy" href="/en/General-Footer-Section/Cookie-Policy.aspx"></a></div><div style="display:inline;" id="toolbarlogin" xmlns:img="http://www.imgworld.com/img"><form action="/Login-and-Sign-Up.aspx?redirectPath=%2fen%2fNews-And-Features%2fFootball-News%2f2016%2fFeb%2fguillermo-varela-hoping-for-long-stay-at-manchester-united.aspx%3futm_source%3dtwitter%26utm_medium%3dpost%26utm_campaign%3dManUtd" method="post"><input type="hidden" id="returnPath" name="returnPath" value="%2fen%2fNews-And-Features%2fFootball-News%2f2016%2fFeb%2fguillermo-varela-hoping-for-long-stay-at-manchester-united.aspx" class="hiddeninput" /><button type="submit" title="Login" class="btnLogin" id="btnLogin" value=""><img class="btnLoginHover" src="/~/media/705869E08AD847A9A53DB07487899821.ashx" data-rollover="/~/media/705869E08AD847A9A53DB07487899821.ashx" /></button><a id="btnSignup" title="Sign up" href="/Login-and-Sign-Up/register-short.aspx?redirectPath=%2fen%2fNews-And-Features%2fFootball-News%2f2016%2fFeb%2fguillermo-varela-hoping-for-long-stay-at-manchester-united.aspx"><span>Sign up</span><img class="t-logo toolbarLogos" src="/~/media/8331CB5FC07F4138AA47231907E331D9.ashx" data-rollover="/~/media/D6DF8CBCE41D449EA92EAC528E072204.ashx" /></a></form></div><div id="loginwelcome" xmlns:img="http://www.imgworld.com/img"><a class="btnBlank" href="/Login-and-Sign-Up/edit-details.aspx?mode=edit&amp;redirectPath=%2fen%2fNews-And-Features%2fFootball-News%2f2016%2fFeb%2fguillermo-varela-hoping-for-long-stay-at-manchester-united.aspx">Edit my details</a><a id="btnLogout" title="Logout" href="/Login-and-Sign-Up.aspx?logout=true&amp;redirectPath=%2fen%2fNews-And-Features%2fFootball-News%2f2016%2fFeb%2fguillermo-varela-hoping-for-long-stay-at-manchester-united.aspx%3futm_source%3dtwitter%26utm_medium%3dpost%26utm_campaign%3dManUtd"><span>Logout</span><img class="t-logo toolbarLogos" src="/~/media/35EA7FFB87274F6BAC48908A088BF36E.ashx" data-rollover="/~/media/35EA7FFB87274F6BAC48908A088BF36E.ashx" /></a></div><div class="toolbarLogos" xmlns:img="http://www.imgworld.com/img"><a href="/Home/Club/FAQs.aspx" target="" class="tablet-only"><img class="t-logo" src="/~/media/E1BA41E60D344DECBB1D3D5AC584B7CE.ashx" data-rollover="/~/media/E1BA41E60D344DECBB1D3D5AC584B7CE.ashx" /></a><a href="/Home/Club/FAQs.aspx" target="" class="mobile-only"><img class="t-logo" src="/~/media/E1BA41E60D344DECBB1D3D5AC584B7CE.ashx" data-rollover="/~/media/E1BA41E60D344DECBB1D3D5AC584B7CE.ashx" /></a></div><div class="toolbarLogos" xmlns:img="http://www.imgworld.com/img"><a href="http://store.manutd.com/stores/manutd/en?portal=EVIHIAG3&amp;CMP=PSC-EVIHIAG3" target="_blank" class="tablet-only"><img class="t-logo" src="/~/media/8DF1B6ECA1B742C59548EC8C216EEE38.ashx" data-rollover="/~/media/8DF1B6ECA1B742C59548EC8C216EEE38.ashx" /></a><a href="http://m.store.manutd.com/stores/manutd/mobile/en?portal=IVG39249&amp;CMP=PSC-IVG39249" target="_blank" class="mobile-only"><img class="t-logo" src="/~/media/0A18574D579A44CD9712B44D8A1D8B39.ashx" data-rollover="/~/media/0A18574D579A44CD9712B44D8A1D8B39.ashx" /></a></div><div id="divWelcome" xmlns:img="http://www.imgworld.com/img"><div id="welcome">WELCOME BACK</div></div>
+        </div>
+
+        <div id="siteheader" style="background-image:url('/~/media/F356F5F02E774E0483F98B37971C4594.ashx');"><object type="application/x-shockwave-flash" data="/~/media/AE63D0C63DB84251A642ADE1077588CC.ashx" width="966" height="150" id="masthead"><param name="allowScriptAccess" value="sameDomain"><param name="swliveconnect" value="true"><param name="movie" value="/~/media/AE63D0C63DB84251A642ADE1077588CC.ashx"><param name="wmode" value="transparent"><param name="quality" value="high"><param name="menu" value="true"><param name="masthead_noanimation" value="1"><param name="masthead_nologo" value="1"><param name="flashvars" value="xml_feed_url=~/media/XML/masthead_override.ashx" /><div class="noflashholder"><a title="Home" href="/en.aspx" id="bannerhomelink"><span>home</span></a><ul><li><a href="http://www.arabic.manutd.com/">العربية</a></li><li><a href="http://www.manunited.com.cn/">中文</a></li><li><a href="http://www.espanol.manutd.com/">Espanol</a></li><li><a href="http://www.francais.manutd.com/">Francais</a></li><li><a href="http://www.manutd.jp/">日本語</a></li><li><a href="http://www.manutd.kr/">우리말</a></li></ul><div id="box-link-chevrolet"><a href="http://www.chevroletfc.com/" class="noFlashSponsorsLogo" target="_blank"></a></div><div id="box-link-aon"><a href="http://www.aon.com/manutd/" class="noFlashSponsorsLogo" target="_blank"></a></div><div id="box-link-asponsor"><a href="http://www.adidas.co.uk/frontrow" class="noFlashSponsorsLogo" target=""></a></div></div></object><div id="mobile_header"><a href="/" class="logo"><img src="/~/media/70B26A46043246B1A46E0060D8F91B18.ashx?h=150&amp;w=150" class="logoMU" alt="ManU logo" width="150" height="150" /></a><a href="http://www.chevroletfc.com/" target="_blank"><img src="/~/media/E6823171DA2144F59F5FA73C7B618FBC.ashx?h=48&amp;w=111" class="chevrolet_logo" alt="chevrolet logo" width="111" height="48" /></a><a href="http://www.aon.com/manutd/" target="_blank"><img src="/~/media/5848695CE4D4457BB902460D42E0DB85.ashx?h=48&amp;w=111" class="aon_logo" alt="Aon Logo" width="111" height="48" /></a><a href="http://www.adidas.co.uk/frontrow" target=""><img src="/~/media/9B5E18979D434770BE4122DCB45073DD.ashx?h=61&amp;w=90" class="asponsor_logo" alt="" width="90" height="61" /></a><div class="menu-btn"><div class="line top"></div><div class="line middle"></div><div class="line bottom"></div></div></div></div>
+
+        <div id="menucolumn">
+            <p id="generictopdevice"><a href="https://twitter.com/ManUtd" class="twitter-follow-button" data-show-count="false">Follow @ManUtd</a><br/><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></p>
+            <input type="hidden" id="unitedtogetherC" value="'www10'" /><ul id="navigation"><li class="&#xD;&#xA;              first&#xD;&#xA;            "><a href="/en.aspx">Home</a></li><li class="" Title="Click here to view Login &amp;amp; Sign Up"><a href="/en/Login-and-Sign-Up.aspx">Login &amp; Sign Up</a></li><li class="&#xD;&#xA;            mnSelect&#xD;&#xA;          " Title="Click here to view News &amp;amp; Features"><a href="/en/News-And-Features.aspx">News &amp; Features</a><ul><li id="" class="&#xD;&#xA;                  smSelect&#xD;&#xA;                " Title="Click here to view Football News"><a href="/en/News-And-Features/Football-News.aspx">Football News</a></li><li id="" class="" Title="Click here to view Features"><a href="/en/News-And-Features/Features.aspx">Features</a></li><li id="" class="" Title="Click here to view Exclusive Interviews"><a href="/en/News-And-Features/Exclusive-Interviews.aspx">Exclusive Interviews</a></li><li id="" class="" Title="Click here to view Club News"><a href="/en/News-And-Features/Club-News.aspx">Club News</a></li><li id="" class="" Title="Click here to view Player of the Year Awards"><a href="/en/News-And-Features/Player-of-the-year.aspx">Player of the Year Awards</a></li></ul></li><li class="" Title="Click here to view Tour 2016"><a href="http://www.manutd.com/Tour2016">Tour 2016</a></li><li class="" Title="Click here to view Fixtures &amp;amp; Results"><a class="retro_hide" href="/en/Fixtures-And-Results.aspx">Fixtures &amp; Results</a><a class="mobile" href="/en/Fixtures-And-Results/United-Fixtures-And-Results.aspx">Fixtures &amp; Results</a></li><li class="" Title="Click here to view Players &amp;amp; Staff"><a href="/en/Players-And-Staff.aspx">Players &amp; Staff</a></li><li class="" Title="Click here to view History"><a href="/en/History.aspx">History</a></li><li class="" Title="Click here to view Tickets &amp;amp; Hospitality"><a href="/en/Tickets-And-Hospitality.aspx">Tickets &amp; Hospitality</a></li><li class="" Title="Click here to view Season Tickets"><a href="/en/Season-Tickets.aspx">Season Tickets</a></li><li class="" Title="Click here to view Seasonal Hospitality"><a href="/en/Exec-Club-Priority-List.aspx">Seasonal Hospitality</a></li><li class="" Title="Click here to view Official Membership"><a href="/en/Official-Membership.aspx">Official Membership</a></li><li class="" Title="Click here to view Museum &amp;amp; Stadium Tour"><a href="/en/Visit-Old-Trafford.aspx">Museum &amp; Stadium Tour</a></li><li class="" Title="Click here to view Conference &amp;amp; Events - This link will open in a new window"><a href="http://www.unitedevents-manutd.com/?utm_source=ManUtdCom&amp;utm_medium=Menu&amp;utm_campaign=UnitedEvents" target="_blank">Conference &amp; Events</a></li><li class="" Title="Click here to view Club Information"><a href="/en/Club.aspx">Club Information</a></li><li class="" Title="Click here to view Club Partners"><a href="/en/Partners.aspx">Club Partners</a></li><li class="" Title="Click here to view Fanzone"><a href="/en/Fanzone.aspx">Fanzone</a></li><li class="" Title="Click here to view Shopping - This link will open in a new window"><a href="http://store.manutd.com/stores/manutd/default.aspx?portal=QYTMF8KF&amp;CMP=PSC-QYTMF8KF" target="_blank">Shopping<img src="/~/media/6EF5A92F380D47CFA230FBFDC190EE2C.ashx?h=16&amp;mh=16&amp;mw=16&amp;w=16" class="shopping_cart" alt="" width="16" height="16" /></a></li><li class="" Title="Click here to view Betting and Gaming - This link will open in a new window"><a href="http://aff.mediarotate.co.uk/Click?bid=13968_12848&amp;siteid= " target="_blank">Betting and Gaming</a></li><li class="" Title="Click here to view MUTV"><a href="/en/MUTV-New.aspx">MUTV</a></li><li class="" Title="Click here to view Match &amp;amp; News Alerts"><a href="http://www.manutd.com/en/alerts.aspx">Match &amp; News Alerts</a></li><li class="" Title="Click here to view Social Media - This link will open in a new window"><a href="http://social.manutd.com" target="_blank">Social Media</a></li><li class="" Title="Click here to view MU Foundation - This link will open in a new window"><a href="http://www.mufoundation.org/" target="_blank">MU Foundation</a></li><li class="" Title="Click here to view Disabled Supporters"><a href="http://www.mudsa.org/">Disabled Supporters</a></li><li class="" Title="Click here to view Investor Relations"><a href="http://ir.manutd.com/">Investor Relations</a></li></ul><div id="mobile-navigation"><ul class="lang-selector"><li class="drop-arrow"></li><li><a href="javascript:;"><span class="flag flag-gb"></span>English
+          </a></li><li><a href="http://www.arabic.manutd.com"><span class="flag"></span>العربية
+          </a></li><li><a href="http://www.manunited.com.cn"><span class="flag flag-cn"></span>中文
+          </a></li><li><a href="http://www.espanol.manutd.com"><span class="flag"></span>Espanol
+          </a></li><li><a href="http://www.francais.manutd.com"><span class="flag"></span>Francais
+          </a></li><li><a href="http://www.manutd.jp"><span class="flag flag-jp"></span>日本語
+          </a></li><li><a href="http://www.manutd.kr"><span class="flag flag-kr"></span>우리말
+          </a></li></ul><h2>MANUTD.COM</h2><ul class="mobile-nav"><li class="&#xD;&#xA;                first mobile-item"><a href="/en.aspx">Home</a></li><li class="&#xD;&#xA;                          first mobile-item" title="Click here to view Login &amp; Sign Up"><a href="/en/Login-and-Sign-Up.aspx">Login & Sign Up</a><ul><li class="mobile-item" id="" title="Click here to view Sign Up"><a href="/en/Login-and-Sign-Up/Register-Short.aspx">Sign Up</a></li><li class="mobile-item" id="" title="Click here to view Edit My Details"><a href="/en/Login-and-Sign-Up/Edit-Details.aspx">Edit My Details</a></li><li class="mobile-item" id="" title="Click here to view Log out"><a>Log out</a></li></ul></li><li></li><li></li><li></li><li class="&#xD;&#xA;                          mnSelect first mobile-item" title="Click here to view News &amp; Features"><a href="/en/News-And-Features.aspx">News & Features</a><ul><li class="&#xD;&#xA;                              smSelect mobile-item" id="" title="Click here to view Football News"><a href="/en/News-And-Features/Football-News.aspx">Football News</a></li><li class="mobile-item" id="" title="Click here to view Features"><a href="/en/News-And-Features/Features.aspx">Features</a></li><li class="mobile-item" id="" title="Click here to view Exclusive Interviews"><a href="/en/News-And-Features/Exclusive-Interviews.aspx">Exclusive Interviews</a></li><li class="mobile-item" id="" title="Click here to view Club News"><a href="/en/News-And-Features/Club-News.aspx">Club News</a></li></ul></li><li></li><li></li><li></li><li></li><li class="&#xD;&#xA;                          first mobile-item" title="Click here to view Tour 2016"><a href="/en/Tour-2016/Home.aspx">Tour 2016</a><ul><li class="mobile-item" id="" title="Click here to view News &amp; Features"><a href="/en/Tour-2016/Tour-2016-News.aspx">News & Features</a></li><li class="mobile-item" id="" title="Click here to view Tour Updates"><a onclick="javascript:showOverlay();return false;" href="#">Tour Updates</a></li><li class="mobile-item" id="" title="Click here to view Wallpapers"><a href="/en/Tour-2016/Wallpapers.aspx">Wallpapers</a></li></ul></li><li class="&#xD;&#xA;                          first mobile-item" title="Click here to view Fixtures &amp; Results"><a href="/en/Fixtures-And-Results/United-Fixtures-And-Results.aspx">Fixtures & Results</a><ul><li class="mobile-item" id="" title="Click here to view Reports &amp; Previews"><a href="/en/Fixtures-And-Results/Match-Reports.aspx">Reports & Previews</a></li><li class="mobile-item" id="" title="Click here to view League Table"><a href="/en/Fixtures-And-Results/Premier-League-Table.aspx">League Table</a></li><li class="mobile-item" id="" title="Click here to view Appearances &amp; Goals"><a href="/en/News-And-Features/Features/2015/Sep/appearances-and-goals-for-manchester-united-squad-2015-16.aspx">Appearances & Goals</a></li><li class="mobile-item" id="" title="Click here to view U21s Fixtures &amp; Results"><a href="http://www.manutd.com/en/Players-And-Staff/Reserves/Reserves-News/2015/Jul/Manchester-United-Reserves-Under-21-fixtures-2015-2016.aspx?MENU">U21s Fixtures & Results</a></li><li class="mobile-item" id="" title="Click here to view U18s Fixtures &amp; Results"><a href="http://www.manutd.com/en/Players-And-Staff/The-Academy/Academy-News/2015/Jul/Manchester-United-Under-18-Academy-fixtures-2015-2016.aspx?MENU">U18s Fixtures & Results</a></li></ul></li><li></li><li></li><li></li><li class="&#xD;&#xA;                          first mobile-item" title="Click here to view History"><a href="/en/History.aspx">History</a><ul><li class="mobile-item" id="" title="Click here to view History By Decade"><a href="/en/History/History-By-Decade.aspx">History By Decade</a></li><li class="mobile-item" id="" title="Click here to view Munich Remembered"><a href="/en/History/Munich-Remembered.aspx">Munich Remembered</a></li><li class="mobile-item" id="" title="Click here to view The Old Trafford Story"><a href="/en/History/The-Old-Trafford-Story.aspx">The Old Trafford Story</a></li><li class="mobile-item" id="" title="Click here to view Trophy Room"><a href="/en/History/Trophy-Room.aspx">Trophy Room</a></li></ul></li><li></li><li></li><li></li><li></li><li class="&#xD;&#xA;                          first mobile-item" title="Click here to view Tickets &amp; Hospitality"><a href="/en/Tickets-And-Hospitality.aspx">Tickets & Hospitality</a><ul><li class="mobile-item" id="" title="Click here to view Buy Tickets"><a href="https://www.eticketing.co.uk/muticketsandmembership/">Buy Tickets</a></li><li class="mobile-item" id="" title="Click here to view Buy Matchday VIP Tickets - This link will open in a new window"><a target="_blank" href="http://www.matchdayvip.manutd.com">Buy Matchday VIP Tickets</a></li><li class="mobile-item" id="" title="Click here to view Executive Club - This link will open in a new window"><a target="_blank" href="http://www.executiveclub.manutd.com/?utm_source=ManUtdCom&amp;utm_medium=Menu&amp;utm_content=LHM&amp;utm_campaign=Executive">Executive Club</a></li><li class="mobile-item" id="" title="Click here to view Season Tickets - This link will open in a new window"><a target="_blank" href="http://www.manutd.com/en/Season-Tickets.aspx">Season Tickets</a></li></ul></li><li class="&#xD;&#xA;                      first mobile-item" title="Click here to view Season Tickets - This link will open in a new window"><a target="_blank" href="http://www.manutd.com/en/muapps/2015/Aug/STWL-Registration-Left-Hand-Nav.aspx">Season Tickets</a><ul></ul></li><li></li><li class="&#xD;&#xA;                      first mobile-item" title="Click here to view Shopping - This link will open in a new window"><a target="_blank" href="http://store.manutd.com/stores/manutd/default.aspx?portal=QYTMF8KF&amp;CMP=PSC-QYTMF8KF">Shopping</a><ul><li class="mobile-item" id="" title="Click here to view United Direct - This link will open in a new window"><a target="_blank" href="http://store.manutd.com/stores/manutd/default.aspx?portal=QYTMF8KF&amp;CMP=PSC-QYTMF8KF">United Direct</a></li><li class="mobile-item" id="" title="Click here to view Magazine and Programme - This link will open in a new window"><a target="_blank" href="http://www.sportmediashop.com/shop/manchesterunited/manchesterunitedpublications">Magazine and Programme</a></li><li class="mobile-item" id="" title="Click here to view Man Utd Pics - This link will open in a new window"><a target="_blank" href="http://www.manutdpics.com/">Man Utd Pics</a></li></ul></li><li class="&#xD;&#xA;                      first mobile-item" title="Click here to view Betting and Gaming"><a href="http://aff.mediarotate.co.uk/Click?bid=13968_12848&amp;siteid= ">Betting and Gaming</a><ul></ul></li><li class="&#xD;&#xA;                          first mobile-item" title="Click here to view MUTV"><a href="/en/MUTV-New.aspx">MUTV</a><ul><li class="mobile-item" id="" title="Click here to view Subscribe"><a href="/en/MUTV-New/Join-NowNew.aspx">Subscribe</a></li></ul></li><li></li><li class="&#xD;&#xA;                      first mobile-item" title="Click here to view Social Media - This link will open in a new window"><a target="_blank" href="http://social.manutd.com">Social Media</a><ul><li class="mobile-item" id="" title="Click here to view Facebook - This link will open in a new window"><a target="_blank" href="https://www.facebook.com/manchesterunited">Facebook</a></li><li class="mobile-item" id="" title="Click here to view Twitter - This link will open in a new window"><a target="_blank" href="https://twitter.com/ManUtd">Twitter</a></li><li class="mobile-item" id="" title="Click here to view Google + - This link will open in a new window"><a target="_blank" href="https://plus.google.com/+ManUtd">Google +</a></li><li class="mobile-item" id="" title="Click here to view Instagram - This link will open in a new window"><a target="_blank" href="http://instagram.com/manchesterunited">Instagram</a></li><li class="mobile-item" id="" title="Click here to view Pinterest - This link will open in a new window"><a target="_blank" href="http://www.pinterest.com/manutd/">Pinterest</a></li><li class="mobile-item" id="" title="Click here to view Vine - This link will open in a new window"><a target="_blank" href="https://vine.co/ManUtd">Vine</a></li></ul></li><li class="&#xD;&#xA;                          first mobile-item" title="Click here to view Match &amp; News Alerts"><a href="/en/Match-and-News-Alerts/MUMobile/News/Articles/Alerts.aspx">Match & News Alerts</a><ul><li class="mobile-item" id="" title="Click here to view Terms &amp; Conditions"><a href="/en/Match-and-News-Alerts/MUMobile/News/Articles/General-Terms-and-Conditions.aspx">Terms & Conditions</a></li></ul></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul><h2>Desktop Site</h2><ul class="desktop-nav"><li class="" title="Click here to view Players &amp; Staff"><a href="/en/Players-And-Staff.aspx">Players And Staff</a></li><li class="" title="Click here to view Official Membership"><a href="/en/Official-Membership.aspx">Official Membership</a></li><li class="" title="Click here to view Museum &amp; Stadium Tour"><a href="/en/Visit-Old-Trafford.aspx">Visit Old Trafford</a></li><li class="" title="Click here to view Conference &amp; Events - This link will open in a new window"><a href="http://www.unitedevents-manutd.com/?utm_source=ManUtdCom&amp;utm_medium=Menu&amp;utm_campaign=UnitedEvents" target="_blank">Conference &amp; Events</a></li><li class="" title="Click here to view Club Information"><a href="/en/Club.aspx">Club</a></li><li class="" title="Click here to view Club Partners"><a href="/en/Partners.aspx">Partners</a></li><li class="" title="Click here to view Fanzone"><a href="/en/Fanzone.aspx">Fanzone</a></li><li class="" title="Click here to view Disabled Supporters"><a href="http://www.mudsa.org/">Disabled Supporters</a></li><li class="" title="Click here to view Investor Relations"><a href="http://ir.manutd.com/">Investor Relations</a></li><li class="" title="Click here to view MU Foundation - This link will open in a new window"><a href="http://www.mufoundation.org/" target="_blank">MU Foundation</a></li></ul></div>
+            <div class="device"><div><div class="desktop banner-ad"><div class="desktop-only"><!-- EN_ROS_150x179 -->
+<div id='div-gpt-ad-1400580384083-0' style='width:150px; height:179px;'></div></div></div></div></div><div class="device"><div id="deviceHomeEvent" style="&#xD;&#xA;                  background-image:url(/~/media/37323BD8FF314C52BD827BD3F2EB4F6E.ashx)&#xD;&#xA;                "><p style="text-align: left;">NEXT MATCH<br />
+<br />
+<img alt="" height="60" width="60" src="/sitecore/shell//~/media/F0CB61282B9B478B973839DCC7184DF9.ashx?h=60&amp;la=en&amp;w=60" /><br />
+<br />
+United v Leicester City<br />
+Old Trafford<br />
+Barclays Premier Lge.<br />
+Sun 1 May, 14:05 BST<br />
+<br />
+<a href="http://www.manutd.com/en/Tickets-And-Hospitality/Tickets-And-Hospitality-
+News.aspx"><img alt="" style="width: 118px; height: 20px;" src="http://www.manutd.com//~/media/3C49930BBBA0442E89CA0F6FFD0E49F0.ashx?la=en" /></a></p></div></div>
+        </div>
+
+        <div class="clearfix" id="subpagecontainer">
+            
+
+
+
+<div id="pagebanner" class="newsheader newsheadersearchcontainer" style="background-image:url(&#39;/~/media/508D4360BC864CECA57D7137AE55FB9B.ashx&#39;)">
+ </div>
+
+
+
+
+
+<!--[if lt IE 8]>
+    <style type='text/css'>
+        .articlecontainer{z-index: 2;}
+    </style>
+<![endif]-->
+
+<input type="hidden" id="hdnWhatsAppAccountNumber" value="UA-5517923-22" />
+<input type="hidden" id="hdnAccountNumber" value="UA-5517923-1" />
+
+
+    <div class="articlecontainer">
+
+        
+
+<div class="newsmain">
+   
+    <div class="newsmaincontent">
+        <h3>FOOTBALL NEWS</h3>
+        <img src="http://www.manutd.com/sitecore/shell/~/media/139980E7663B423AA53044CBE13B69C1.ashx?w=1280&amp;h=720&amp;rgn=0,95,2198,1334" class="mainImage">
+        <div class="newsstory">
+            <div id="timestamp">
+                10/02/2016 13:12, Report by Adam Marshall</div>
+            <div class="pager clearfix">
+                
+            </div>
+            <h1>Varela hopes for lengthy stay at United</h1>
+            <p><strong>Guillermo Varela has the belief to push on become a Manchester United regular after forcing his way into Louis van Gaal's first-team plans.</strong></p><p>The Uruguayan defender is hoping to get more minutes in the side with games in the Barclays Premier League, Europa League and Emirates FA Cup on the horizon this month, even if he did limp off with an ankle injury during the Under-21s' 7-0 thrashing of Norwich City at Old Trafford on Monday.</p><p>As he now feels adapted to life in England's top division, the full-back is confident he can continue to make his mark in his third year at the club and is targeting a lengthy stay in Manchester.</p><p>"The first year was really a period where I was settling in," he told <strong>ManUtd.com</strong>. "In the second year, I went out on loan [to Castilla] and now I&rsquo;m back at the club again and the manager has been giving me the chance to show what I can do, so I'm very pleased to be getting this opportunity.&nbsp;</p><p>"Right now, I can say that I have adapted 100 per cent to the English game. I&rsquo;m used to the pace and physicality just now. I think I&rsquo;ve learned about everything! But I&rsquo;ve really developed and learned about the physical aspect of my game.&nbsp;</p><p>"The football here is very physical in comparison to Uruguay or other parts of the world, where the emphasis is more on technique and tactics. But here you have to battle harder and have more strength when you&rsquo;re playing and that&rsquo;s the biggest lesson I&rsquo;ve learned."</p><p>Varela feels his breakthrough last December, making his debut against West Ham United and starting in the Champions League defeat to Wolfsburg, gave him the confidence to step up to the plate.</p><p>"It gave me a kind of inner calm to say that I could compete at the level of the Champions League," the 22-year-old said. "Then, I knew I can be here and I can play. After being in the squad a few times and then featuring in a number of games, you start to feel that you are capable of turning out in the starting XI and performing at the level the team requires. But, of course, I need to keep working hard, I can&rsquo;t start believing that I&rsquo;ve arrived because that&rsquo;s clearly not the case.&nbsp;</p><p>"It&rsquo;s all about continuing to work hard and trying to win the confidence of the coach. Firstly, I love being at Manchester United and I&rsquo;d love to enjoy a long career here and win everything that comes in our path. Then, looking ahead, [playing for] the [Uruguayan] national team of course!"&nbsp;</p>
+        </div>
+        
+        
+       
+        <div id="bottompager">
+            <div class="pager clearfix">
+                
+            </div>
+            <div id="newsratecontainer" class="wide">           
+                <div class="newsrate"><a class="rss" title="RSS Feed" href="/en/Feeds/NewsAndFeaturesRSS.aspx">
+         
+      </a></div>
+                <script type="text/javascript">
+      (function(d){
+      var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');
+      p.type = 'text/javascript';
+      p.async = true;
+      p.src = '//assets.pinterest.com/js/pinit.js';
+      f.parentNode.insertBefore(p, f);
+      }(document));
+    </script><div class="facebookbuttons"><span class="divider" style="float:left;position:relative;top:5px"> </span><div style="width:48px;float:left"><div class="fb-like" data-send="false" data-layout="button" data-show-faces="true" data-action="like" style="max-width:180px"></div></div><div class="tweet" style="display:inline-block; position:relative; margin-left:10px; width:57px; float:left"><a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div><div class="gplus" style="display:inline-block; position:relative; margin-left:10px; width:32px; float:left;"><div class="g-plusone" data-size="medium" data-annotation="none"></div></div><script type="text/javascript">
+            (function() {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+            })();
+          </script><div id="pinterest" style="display:inline-block; position:relative; margin-left:10px; width:40px; float:left"><a href="http://www.pinterest.com/pin/create/button/?url=www.manutd.com%2fen%2fNews-And-Features%2fFootball-News%2f2016%2fFeb%2fguillermo-varela-hoping-for-long-stay-at-manchester-united.aspx&amp;media=www.manutd.com/~/media/139980E7663B423AA53044CBE13B69C1.ashx&amp;description=Varela hopes for lengthy stay at United - Official @manutd website" data-pin-do="buttonPin" data-pin-config="none" data-pin-color="white"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_white_20.png"></a></div><div class="whatsapp"><a href="javascript:;" data-action="share/whatsapp/share"><img src="/styles/images/Whatsapp-ShareButton.png"></a></div></div>                
+            </div>
+        </div>
+         <div class="newssidebar newssidebarRender"><h3>Explore ManUtd.com</h3><div class="sidebaritem"><div><a href="http://www.manutd.com/en/News-And-Features/Football-News/2016/Feb/Michael-Carrick-believes-Anthony-Martial-has-improved-at-Manchester-United.aspx?AL"><strong class="icon_reports">Why Anthony Martial can get even better</strong><span></span><img src="http://www.manutd.com/sitecore/shell/~/media/C5A8F0E0414247E8904CB631CCD28C02.ashx?w=240&amp;h=179&amp;rgn=380,0,1820,1071" width="240" height="179"></a></div></div><div class="sidebaritem"><div><a href="http://www.manutd.com/en/News-And-Features/Football-News/2016/Feb/luke-shaw-handed-euro-final-incentive.aspx?AL"><strong class="icon_reports">Shaw handed European incentive</strong><span></span><img src="http://www.manutd.com/sitecore/shell/~/media/4E8D584EE97C46C2A2346640C814F686.ashx?w=240&amp;h=179&amp;rgn=0,260,2000,1753" width="240" height="179"></a></div></div><div class="sidebaritem"><div><a href="/en/MatchTrackerSeasons/2015-16/Feature-blogs/Social-Reds/Social-Reds-29-February-to-6-March.aspx"><strong class="icon_reports">Social Reds: United stars in the snow</strong><span></span><img src="http://www.manutd.com/sitecore/shell/~/media/779CC992BB2C42EE9BA3B72BA23E671D.ashx?w=240&amp;h=179&amp;rgn=0,528,1996,2019" width="240" height="179"></a></div></div><div class="sidebaritem"><div><a href="http://www.manutd.com/en/News-And-Features/Football-News/2016/Feb/Five-things-we-learned-from-Anthony-Martial-The-Story-So-Far.aspx?AL"><strong class="icon_reports">Video of Martial&#39;s first major interview</strong><span></span><img src="http://www.manutd.com/sitecore/shell/~/media/E810EE19830E492787B94E86F6265821.ashx?w=240&amp;h=179&amp;rgn=70,0,1523,1080" width="240" height="179"></a></div></div><div class="sidebaritem"><div><a href="http://www.manutd.com/en/News-And-Features/Football-News/2016/Feb/adnan-januzaj-and-guillermo-varela-pick-up-injuries.aspx?AL"><strong class="icon_reports">United duo injured in U21s game</strong><span></span><img src="http://www.manutd.com/sitecore/shell/~/media/212581D55B8A4ED4879DA17BDB21E044.ashx?w=240&amp;h=179&amp;rgn=0,153,2000,1649" width="240" height="179"></a></div></div><div class="sidebaritem"><div><a href="http://www.manutd.com/en/News-And-Features/Features/2016/Feb/Trickbox-skills-video-memphis-depay-does-the-rabona-against-norwich-city-for-u21s.aspx?AL"><strong class="icon_video">Have you seen Memphis&#39;s rabona?</strong><span></span><img src="http://www.manutd.com/sitecore/shell/~/media/AD205029A8AA4921BA70EB3484C5B4C1.ashx?w=240&amp;h=179&amp;rgn=29,0,2949,2174" width="240" height="179"></a></div></div><div class="sidebaritem"><div><a href="http://www.manutd.com/en/Players-And-Staff/Reserves/Reserves-News/2016/Feb/u21s-match-report-manchester-united-v-norwich-city.aspx?AL"><strong class="icon_reports">U21s report: Reds in seventh heaven</strong><span></span><img src="http://www.manutd.com/sitecore/shell/~/media/67971570787B4F5798870F14D8584361.ashx?w=240&amp;h=179&amp;rgn=0,33,2000,1523" width="240" height="179"></a></div></div><div class="sidebaritem"><div><a href="http://www.manutd.com/en/News-And-Features/Football-News/2016/Feb/video-will-keane-five-goals-and-interview.aspx?AL"><strong class="icon_reports">Video: Who inspired five-goal star Keane?</strong><span></span><img src="http://www.manutd.com/sitecore/shell/~/media/80D32F7FF8D34227B19EAA4C56846E04.ashx?w=240&amp;h=179&amp;rgn=0,526,2000,2019" width="240" height="179"></a></div></div></div>
+    </div>
+</div>
+    </div>
+
+    <div id="adTagsArticleSelector">
+        <div class="mobile banner-ad"><div class="mobile-only"><!-- EN_ROS_300x50 -->
+<div id='div-gpt-ad-1407232630394-0' style='width: 300px; height: 50px; margin:0 auto;'></div></div><div class="tablet-only"><!-- EN_ROS_728x90 -->
+<div id='div-gpt-ad-1407232277811-0' style='width:728px; height:90px; margin:0 auto;'></div></div></div>
+    </div>
+        
+
+
+            
+
+            <div class="mobile" id="mobile-footer-sponsors"><h3>OFFICIAL PARTNERS</h3><div id="principal-sponsors"><a href="http://www.manutd.com/en/Partners/Global-Partners.aspx?sponsorid={4FD83A0D-E370-411C-B54A-2E6BAF60275B}"><img class="s_item" alt="logo" src="/~/media/D880914574474A419EDB20FA1649B65B.ashx" /></a><a href="http://www.manutd.com/en/Partners/Global-Partners.aspx?sponsorid={CC819DDA-A807-45EC-8417-FCC583DFA2A0}"><img class="s_item" alt="logo" src="/~/media/93DEEE9FDFED4F52BE87B7DBAFA4700B.ashx" /></a><a href="http://www.manutd.com/en/Partners/Global-Partners.aspx?sponsorid={F745DA14-CB5E-4A81-816A-8DB410E47A75}"><img class="s_item" alt="logo" src="/~/media/67B3565E49554EE99866142B8C7B031A.ashx" /></a></div><div id="responsive_sponsors"><!-- EN_MobileTabletFooter_300x180 -->
+<div id='div-gpt-ad-1407947501505-0' style="width:300px; height:180px; padding-left: 50%; margin-left: -150px;"></div></div><div id="epl_logo"><img class="s_item" alt="logo" src="/~/media/12952B8ACB0045C29269D760CC444173.ashx" /></div></div>
+            
+            <div id="sponsors">
+                <h3>OFFICIAL PARTNERS</h3><!-- EN_Home_663x142 -->
+<div id='div-gpt-ad-1422354496632-0' style='width:663px; height:142px;'></div>
+            </div>
+
+            <div id="adcolumn">
+                <div class="desktop banner-ad"><div class="desktop-only"><!-- EN_ROS_120x600 -->
+<div id='div-gpt-ad-1400580407832-0' style='width:120px; height:600px;'></div></div></div><a class="adcolumnbtn" href="http://www.chevroletfc.com/"><img src="/~/media/9855C93BBFFF4A79BEDD2DFA5DB51161.ashx?h=90&amp;w=120" alt="" width="120" height="90" nopin="true" /></a><a class="adcolumnbtn" href="http://www.adidas.co.uk/frontrow"><img src="/~/media/5C2DB51059EB4EF5BC68103A9B03EA25.ashx?h=90&amp;w=120" alt="" width="120" height="90" nopin="true" /></a><a class="adcolumnbtn" href="http://www.aon.com/manchesterunited?utm_source=manutd&amp;utm_medium=banner&amp;utm_campaign=aonsite"><img src="/~/media/049B8F830C194B458FD66EA0A49AB5D6.ashx?h=90&amp;w=120" alt="" width="120" height="90" nopin="true" /></a><a class="adcolumnbtn" href="http://www.premierleague.com/"><img src="/~/media/F076AEAE03534CB6B36A0CB8252D1955.ashx?h=90&amp;w=120" alt="Premier League" width="120" height="90" nopin="true" /></a>
+                
+            </div>
+
+        </div>
+
+        <div id="footer">
+            <div id="footermain"><ul><li>Advertising</li><li><a href="/en/General-Footer-Section/Terms-And-Conditions.aspx">Website Terms Of Use</a></li><li><a href="/en/General-Footer-Section/Cookie-Policy.aspx">Cookie Policy</a></li><li><a href="/en/General-Footer-Section/Terms-And-Conditions-Of-Sale.aspx">Terms &amp; Conditions Of Sale</a></li><li><a href="/en/General-Footer-Section/Privacy-Policy.aspx">Privacy Policy</a></li><li><a href="/en/Club/FAQs.aspx">FAQs</a></li><li><a href="/en/Partners.aspx">Sponsors</a></li><li><a href="/~/media/3CF2B5AF243646198EB8BB11F55BBCCC.ashx">Terms &amp; Conditions for the Purchase of Goods and Services</a></li></ul><p>Copyright, Manchester United Ltd, 2016<a title="This link will open in a new window." href="http://editorial.gettyimages.com/ms_gins/source/frontdoors/manu.aspx" target="_blank"> Photography provided by Manchester United Ltd and Getty Images</a></p></div>
+        </div>
+
+        
+        <script type='text/javascript' src='/Handlers/YuiCompressorHandlerC.ashx?js=/styles/js/responsive/retrofit,/styles/js/responsive/retrofit.mobile&v=427'></script>
+        
+        <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5517923-1']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+        <script type="text/javascript">
+        jQuery(function(){
+        jQuery('a[href$="https://www.eticketing.co.uk/muticketsandmembership/default.aspx"]').click(function(){
+            _gaq.push(['_link', this.href ]); 
+            return false;
+          });jQuery('a[href$="https://www.eticketing.co.uk/muticketsandmembership/memberships.aspx"]').click(function(){
+            _gaq.push(['_link', this.href ]); 
+            return false;
+          });
+        });
+      </script>
+
+        
+    </div>
+    <div id="rightTower">
+        <!-- EN_Home_314x1213 -->
+<div id='div-gpt-ad-1400580523773-0' style='width:314px; height:1213px;'></div>
+    </div>
+
+    <script type="text/javascript">
+
+        jQuery(document).ready(function () {
+
+            //------------------------Re-targetting ahead of MUTV Campaing---------------------
+            //If the cookie MUTV1 has been set, let the value be 'True' value for key 'RT_MUTV1'
+            if ($.cookie('MUTV1')) {
+                googletag.pubads().setTargeting("RT_MUTV1", "True");
+            }
+            else
+                googletag.pubads().setTargeting("RT_MUTV1", "False");
+
+            if ($.cookie('MUTV2')) {
+                googletag.pubads().setTargeting("RT_MUTV2", "True");
+            }
+            else
+                googletag.pubads().setTargeting("RT_MUTV2", "False");
+
+            if ($.cookie('MUTV3')) {
+                googletag.pubads().setTargeting("RT_MUTV3", "True");
+            }
+            else
+                googletag.pubads().setTargeting("RT_MUTV3", "False");
+
+            if ($.cookie('MUTV4')) {
+                googletag.pubads().setTargeting("RT_MUTV4", "True");
+            }
+            else
+                googletag.pubads().setTargeting("RT_MUTV4", "False");
+            //--------------------------------------------------------------------------------------   
+        });
+
+    </script>
+    
+    
+
+<div class="cookie-policy-message" data-rel='CookiePolicyMessage'>
+    <div class="policy-wrapper">
+        <a href="javascript:void(0)" class="close">
+            <img src="/styles/Images/CookiePopup-X.png" />
+        </a>
+        <div class="text">
+            <p>Our website uses cookies and other similar technologies. By using our website you consent to cookies being used. See our <a href="http://www.manutd.com/en/General-Footer-Section/Cookie-Policy.aspx" target="_blank"><strong><span style="color: #db0000;">Cookie Policy</span></strong></a> to find out more.</p>
+        </div>
+    </div>
+</div>
+</body>
+</html>

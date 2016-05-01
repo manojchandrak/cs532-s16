@@ -1,0 +1,13 @@
+   Fatal error: Cannot make static method
+   happy_linux_strings::getInstance() non static in class rssc_link_basic
+   in
+   /home/s05/www/news.atrank.net/modules/news/class/rssc_link_basic_handle
+   r.php on line 37
+   Deprecated [PHP]: Non-static method HypCommonFunc::input_filter()
+   should not be called statically, assuming $this from incompatible
+   context in file (trust)/class/hyp_common/preload/hyp_preload.php line
+   521 (1)
+   Deprecated [PHP]: Non-static method HypCommonFunc::input_filter()
+   should not be called statically, assuming $this from incompatible
+   context in file (trust)/class/hyp_common/hyp_common_func.php line 1456
+   (3)
